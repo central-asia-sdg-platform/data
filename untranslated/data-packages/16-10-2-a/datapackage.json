@@ -1,0 +1,95 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Metric",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Voice and Accountability",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Armenia",
+                "Austria",
+                "Azerbaijan",
+                "Belgium",
+                "Bulgaria",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Switzerland",
+                "Cyprus",
+                "Czechia",
+                "Germany",
+                "Denmark",
+                "Spain",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Greece",
+                "Croatia",
+                "Hungary",
+                "Ireland",
+                "Iceland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Lithuania",
+                "Luxembourg",
+                "Latvia",
+                "Moldova",
+                "North Macedonia",
+                "Malta",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovak Republic",
+                "Slovenia",
+                "Sweden",
+                "Tajikistan",
+                "Turkmenistan",
+                "Türkiye",
+                "Ukraine",
+                "Uzbekistan",
+                "Kosovo⁎",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-10-2-a",
+  "title": "regional_indicators.16-10-2-a-title"
+}

@@ -1,1 +1,4 @@
 From,To
+GeoAreaName,Age
+Age,Location
+Location,Sex

@@ -15,19 +15,101 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "GeoAreaName",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Hungary",
+                "Montenegro",
+                "Albania",
+                "Croatia",
+                "Azerbaijan",
+                "Netherlands",
+                "Iceland",
+                "Cyprus",
+                "Austria",
+                "Ireland",
+                "Czechia",
+                "Norway",
+                "Italy",
+                "Denmark",
+                "Poland",
+                "Kazakhstan",
+                "Estonia",
+                "Portugal",
+                "Kyrgyzstan",
+                "Armenia",
+                "Finland",
+                "Latvia",
+                "Romania",
+                "France",
+                "Serbia",
+                "Lithuania",
+                "Slovakia",
+                "Georgia",
+                "Luxembourg",
+                "Slovenia",
+                "Germany",
+                "Greece",
+                "Malta",
+                "Spain",
+                "Belgium",
+                "Sweden",
+                "Republic of Moldova",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAGE",
+                "<15Y",
+                "15-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
