@@ -1,0 +1,24 @@
+graph_title : global_indicators.1-1-1-b-title
+indicator_name : global_indicators.1-1-1-b-title
+indicator_number : 1-1-1-b
+permalink : '/1-1-1-b/'
+#notstarted : reported
+tag : 
+  - custom.global
+data_start_values : 
+  - field: GeoAreaName
+    value: Kazakhstan
+  - field: GeoAreaName
+    value: Kyrgyzstan
+  - field: GeoAreaName
+    value: Tajikistan
+  - field: GeoAreaName
+    value: Turkmenistan
+  - field: GeoAreaName
+    value: Uzbekistan
+  - field: Age
+    value: 25+
+  - field: Sex
+    value: BOTHSEX
+
+graph_target_lines : []

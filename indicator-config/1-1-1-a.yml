@@ -18,12 +18,8 @@ data_start_values :
     value: Turkmenistan
   - field: GeoAreaName
     value: Uzbekistan
-  - field: Age
-    value: ALLAGE
-  - field: Location
-    value: ALLAREA
-  - field: Sex
-    value: BOTHSEX
+  - field: 'Poverty Line'
+    value: 'Poverty line at $3.65 a day (LMIC)'
 
 embedded_feature_footer : ''
 embedded_feature_html : ''
@@ -34,20 +30,20 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-# graph_title : global_indicators.1-1-1-a-title
+graph_title : regional_indicators.1-1-1-a-title
 graph_titles : []
 graph_type : line
-# indicator_name : global_indicators.1-1-1-a-title
+indicator_name : regional_indicators.1-1-1-a-title
 page_content : ''
-permalink : '/1-1-1/'
+permalink : '/1-1-1-a/'
 precision : []
 reporting_status : complete
 sort : ''
 standalone : false
 tags : []
-indicator_number : 1-1-1
-notstarted : reported
+indicator_number : 1-1-1-a
+# notstarted : reported
 tag : 
-  - custom.global
+  - custom.regional
 graph_target_lines : []
 national_geographical_coverage: custom.central_asia
