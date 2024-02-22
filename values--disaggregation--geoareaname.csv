@@ -1,51 +1,56 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Albania,14,8
-Armenia,16,8
-Austria,16,8
-Azerbaijan,16,8
-Belarus,16,8
-Belgium,16,8
-Bosnia and Herzegovina,16,8
-Bulgaria,16,8
-Croatia,16,8
-Cyprus,16,8
-Czechia,16,8
-Denmark,16,8
-Estonia,16,8
-Finland,16,8
-France,16,8
-Georgia,16,8
-Germany,9,8
-Greece,16,8
-Hungary,16,8
-Iceland,16,8
-Ireland,16,8
-Italy,16,8
-Kazakhstan,25,9
+Albania,22,12
+Armenia,24,12
+Austria,24,12
+Azerbaijan,24,12
+Belarus,24,12
+Belgium,24,12
+Bosnia and Herzegovina,24,12
+Bulgaria,21,11
+China,8,4
+Croatia,24,12
+Cyprus,24,12
+Czechia,24,12
+Denmark,24,12
+Estonia,24,12
+Finland,24,12
+France,24,12
+Georgia,24,12
+Germany,17,12
+Greece,24,12
+Hungary,24,12
+Iceland,24,12
+India,8,4
+Ireland,24,12
+Italy,24,12
+Kazakhstan,33,13
 Kosovo⁎,8,7
-Kyrgyzstan,25,9
-Latvia,16,8
-Lithuania,16,8
-Luxembourg,16,8
-Malta,15,8
+Kyrgyzstan,33,13
+Latvia,24,12
+Liechtenstein,4,2
+Lithuania,24,12
+Luxembourg,24,12
+Malta,23,12
 Moldova,8,7
-Montenegro,16,8
+Montenegro,24,12
+Netherlands (Kingdom of the),8,4
 Netherlands,14,8
-North Macedonia,16,8
-Norway,16,8
-Poland,16,8
-Portugal,16,8
-Republic of Moldova,8,1
-Romania,16,8
-Serbia,16,8
+North Macedonia,24,12
+Norway,24,12
+Poland,24,12
+Portugal,24,12
+Republic of Moldova,16,5
+Romania,24,12
+Serbia,24,12
 Slovak Republic,8,7
-Slovakia,8,1
-Slovenia,14,8
-Spain,16,8
-Sweden,16,8
-Switzerland,16,8
-Tajikistan,25,9
-Turkmenistan,18,9
-Türkiye,16,8
-Ukraine,16,8
-Uzbekistan,18,9
+Slovakia,16,5
+Slovenia,22,12
+Spain,24,12
+Sweden,24,12
+Switzerland,24,12
+Tajikistan,33,13
+Turkmenistan,26,13
+Türkiye,24,12
+Ukraine,24,12
+United Kingdom of Great Britain and Northern Ireland,8,4
+Uzbekistan,26,13
