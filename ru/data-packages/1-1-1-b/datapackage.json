@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Tajikistan",
+                "Turkmenistan",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "15+",
+                "25+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-1-b",
+  "title": "global_indicators.1-1-1-b-title"
+}

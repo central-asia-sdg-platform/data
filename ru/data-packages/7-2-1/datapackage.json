@@ -1,0 +1,91 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Finland",
+                "Albania",
+                "France",
+                "Uzbekistan",
+                "Georgia",
+                "Azerbaijan",
+                "Austria",
+                "Germany",
+                "Armenia",
+                "Belgium",
+                "Greece",
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Bulgaria",
+                "Belarus",
+                "Iceland",
+                "India",
+                "Ireland",
+                "China",
+                "Italy",
+                "Croatia",
+                "Cyprus",
+                "Kazakhstan",
+                "Czechia",
+                "Denmark",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-2-1",
+  "title": "Renewable energy share in the total final energy consumption"
+}

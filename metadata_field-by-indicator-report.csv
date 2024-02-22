@@ -275,13 +275,13 @@ Organisation for Economic Co-operation and Development (OECD)",True,,,,line
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",True,,,,line
-#7-1-1,notstarted,World Bank Group,True,,,,line
-#7-1-2,notstarted,World Health Organization (WHO),True,,,,line
+#7-1-1,reported,World Bank Group,,,custom.central_asia,,line
+#7-1-2,reported,World Health Organization (WHO),,,custom.central_asia,,line
 #7-2-1,notstarted,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
-International Renewable Energy Agency (IRENA)",True,,,,line
-#7-3-1,notstarted,"International Energy Agency (IEA) 
-United Nations Statistics Division (UNSD)",True,,,,line
+International Renewable Energy Agency (IRENA)",,,custom.central_asia,,line
+#7-3-1,reported,"International Energy Agency (IEA) 
+United Nations Statistics Division (UNSD)",,,custom.central_asia,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),True,,,,line
 #7-b-1,notstarted,International Renewable Energy Agency (IRENA),True,,,,line
 #8-1-1,notstarted,United Nations Statistics Division (UNSD),True,,,,line

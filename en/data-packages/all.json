@@ -3,6 +3,90 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "7-3-1/data.csv",
+      "name": "7-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Ireland",
+                "Italy",
+                "Azerbaijan",
+                "Kazakhstan",
+                "Uzbekistan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Austria",
+                "Lithuania",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Luxembourg",
+                "Bulgaria",
+                "Belarus",
+                "Malta",
+                "China",
+                "Republic of Moldova",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Montenegro",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Netherlands (Kingdom of the)",
+                "France",
+                "Georgia",
+                "Norway",
+                "Germany",
+                "Greece",
+                "Poland",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Energy intensity measured in terms of primary energy and GDP"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -310,6 +394,91 @@
       "title": "regional_indicators.16-6-2-a-title"
     },
     {
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Finland",
+                "Albania",
+                "France",
+                "Uzbekistan",
+                "Georgia",
+                "Azerbaijan",
+                "Austria",
+                "Germany",
+                "Armenia",
+                "Belgium",
+                "Greece",
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Bulgaria",
+                "Belarus",
+                "Iceland",
+                "India",
+                "Ireland",
+                "China",
+                "Italy",
+                "Croatia",
+                "Cyprus",
+                "Kazakhstan",
+                "Czechia",
+                "Denmark",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Renewable energy share in the total final energy consumption"
+    },
+    {
       "path": "16-10-1-a/data.csv",
       "name": "16-10-1-a",
       "profile": "tabular-data-resource",
@@ -494,6 +663,104 @@
         ]
       },
       "title": "regional_indicators.16-10-2-a-title"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Czechia",
+                "Kyrgyzstan",
+                "Albania",
+                "Armenia",
+                "Latvia",
+                "Azerbaijan",
+                "Denmark",
+                "Liechtenstein",
+                "Poland",
+                "Lithuania",
+                "Estonia",
+                "Portugal",
+                "Finland",
+                "Luxembourg",
+                "France",
+                "Malta",
+                "Romania",
+                "Republic of Moldova",
+                "Georgia",
+                "Belgium",
+                "Montenegro",
+                "Germany",
+                "Netherlands (Kingdom of the)",
+                "Greece",
+                "Serbia",
+                "Norway",
+                "Hungary",
+                "Türkiye",
+                "Slovakia",
+                "Iceland",
+                "Turkmenistan",
+                "Ukraine",
+                "India",
+                "Bosnia and Herzegovina",
+                "Slovenia",
+                "North Macedonia",
+                "Ireland",
+                "Spain",
+                "Italy",
+                "Bulgaria",
+                "Sweden",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Kazakhstan",
+                "Switzerland",
+                "Tajikistan",
+                "Uzbekistan",
+                "Belarus",
+                "China",
+                "Croatia",
+                "Cyprus",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "URBAN",
+                "ALLAREA",
+                "RURAL",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with access to electricity"
     },
     {
       "path": "1-1-1-a/data.csv",
@@ -681,6 +948,102 @@
         ]
       },
       "title": "regional_indicators.16-6-2-b-title"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "France",
+                "Albania",
+                "Lithuania",
+                "Belarus",
+                "Georgia",
+                "Luxembourg",
+                "Germany",
+                "China",
+                "Malta",
+                "Greece",
+                "Croatia",
+                "Republic of Moldova",
+                "Hungary",
+                "Montenegro",
+                "Cyprus",
+                "Netherlands (Kingdom of the)",
+                "Czechia",
+                "Iceland",
+                "Norway",
+                "Denmark",
+                "India",
+                "Poland",
+                "Ireland",
+                "Estonia",
+                "Portugal",
+                "Finland",
+                "Italy",
+                "Romania",
+                "Serbia",
+                "Türkiye",
+                "Kazakhstan",
+                "Turkmenistan",
+                "Slovakia",
+                "Ukraine",
+                "Kyrgyzstan",
+                "Slovenia",
+                "North Macedonia",
+                "Spain",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Latvia",
+                "Uzbekistan",
+                "Sweden",
+                "Azerbaijan",
+                "Switzerland",
+                "Tajikistan",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RURAL",
+                "URBAN",
+                "ALLAREA",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
     },
     {
       "path": "16-3-2-a/data.csv",
@@ -2903,102 +3266,6 @@
         ]
       },
       "title": "Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with access to electricity"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population with primary reliance on clean fuels and technology"
-    },
-    {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Renewable energy share in the total final energy consumption"
-    },
-    {
-      "path": "7-3-1/data.csv",
-      "name": "7-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
       "path": "7-a-1/data.csv",

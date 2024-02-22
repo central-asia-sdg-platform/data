@@ -1,0 +1,127 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hungary",
+                "Montenegro",
+                "Albania",
+                "Croatia",
+                "Azerbaijan",
+                "Netherlands",
+                "Iceland",
+                "Cyprus",
+                "Austria",
+                "Ireland",
+                "Czechia",
+                "Norway",
+                "Italy",
+                "Denmark",
+                "Poland",
+                "Kazakhstan",
+                "Estonia",
+                "Portugal",
+                "Kyrgyzstan",
+                "Armenia",
+                "Finland",
+                "Latvia",
+                "Romania",
+                "France",
+                "Serbia",
+                "Lithuania",
+                "Slovakia",
+                "Georgia",
+                "Luxembourg",
+                "Slovenia",
+                "Germany",
+                "Greece",
+                "Malta",
+                "Spain",
+                "Belgium",
+                "Sweden",
+                "Republic of Moldova",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                ""
+              ]
+            },
+            "title": "GeoAreaName"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAGE",
+                "<15Y",
+                "15-64",
+                "65+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-1",
+  "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
+}
