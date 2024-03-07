@@ -1,1 +1,4 @@
 From,To
+SeriesDescription,GeoAreaName
+GeoAreaName,Quantile
+GeoAreaName,Sex
