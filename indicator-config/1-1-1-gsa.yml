@@ -30,18 +30,18 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : regional_indicators.1-1-1-a-title
+graph_title : regional_indicators.1-1-1-gsa-title
 graph_titles : []
 graph_type : line
-indicator_name : regional_indicators.1-1-1-a-title
+indicator_name : regional_indicators.1-1-1-gsa-title
 page_content : ''
-permalink : '/1-1-1-a/'
+permalink : '/1-1-1-gsa/'
 precision : []
 reporting_status : complete
 sort : ''
 standalone : false
 tags : []
-indicator_number : 1-1-1-a
+indicator_number : 1-1-1-gsa
 # notstarted : reported
 tag : 
   - custom.regional
