@@ -63,6 +63,66 @@
       "title": "global_indicators.1-1-1-b-title"
     },
     {
+      "path": "1-1-1-gs1/data.csv",
+      "name": "1-1-1-gs1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Tajikistan",
+                "Turkmenistan",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "15+",
+                "25+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-1-gs1-title"
+    },
+    {
       "path": "16-5-2-a/data.csv",
       "name": "16-5-2-a",
       "profile": "tabular-data-resource",
@@ -1106,6 +1166,96 @@
         ]
       },
       "title": "regional_indicators.16-10-2-a-title"
+    },
+    {
+      "path": "1-1-1-gsa/data.csv",
+      "name": "1-1-1-gsa",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Poverty Line",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty line at $3.65 a day (LMIC)",
+                "Poverty line at $6.85 a day (UMIC)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Armenia",
+                "Austria",
+                "Azerbaijan",
+                "Belgium",
+                "Bulgaria",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Switzerland",
+                "Cyprus",
+                "Czechia",
+                "Germany",
+                "Denmark",
+                "Spain",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Greece",
+                "Croatia",
+                "Hungary",
+                "Ireland",
+                "Iceland",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Lithuania",
+                "Luxembourg",
+                "Latvia",
+                "Moldova",
+                "North Macedonia",
+                "Malta",
+                "Montenegro",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovak Republic",
+                "Slovenia",
+                "Sweden",
+                "Tajikistan",
+                "Turkmenistan",
+                "Türkiye",
+                "Ukraine",
+                "Uzbekistan",
+                "Kosovo⁎",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "regional_indicators.1-1-1-a-title"
     },
     {
       "path": "16-3-2-a/data.csv",

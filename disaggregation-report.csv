@@ -1,9 +1,9 @@
 Disaggregation,Number of indicators,Number of values
-Age,2,7
-GeoAreaName,14,67
+Age,3,7
+GeoAreaName,16,67
 Location,3,3
 Metric,6,6
-Poverty Line,1,2
+Poverty Line,2,2
 Quantile,1,2
 SeriesDescription,1,12
-Sex,3,3
+Sex,4,3

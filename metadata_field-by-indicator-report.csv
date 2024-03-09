@@ -2,6 +2,8 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-1-1,complete,International Labour Organization (ILO),,,custom.central_asia,,line
 #1-1-1-a,complete,,,,custom.central_asia,,line
 #1-1-1-b,complete,,,,,,line
+#1-1-1-gs1,complete,,,,,,line
+#1-1-1-gsa,complete,,,,custom.central_asia,,line
 #1-2-1,notstarted,World Bank,True,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",True,,,,line
 #1-3-1,complete,International Labour Organization (ILO),,,custom.central_asia,,line
