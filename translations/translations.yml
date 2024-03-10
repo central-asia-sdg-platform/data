@@ -2,12 +2,20 @@ en:
   GeoAreaName : 'Country'
   SeriesDescription: 'Series'
   global_indicators:
-    1-1-1-gsa-title : "Poverty rates at LMIC and UMIC lines"
     1-1-1-gs1-title : "Working Poverty rates"
+  regional_indicators:
+    1-1-1-gsa-title : "Poverty rates at LMIC and UMIC lines"
+    1-1-1-POVLMIC-title : "Poverty rates at LMIC and UMIC lines POVLMIC"
+    1-1-1-SI.POV.LMIC-title : "Poverty rates at LMIC and UMIC lines SI.POV.LMIC"
+    1-1-1-SI_POV_LMIC-title : "Poverty rates at LMIC and UMIC lines SI_POV_LMIC"
 
 ru:
   GeoAreaName : 'Страна'
   SeriesDescription: 'Показатель'
   global_indicators:
-    1-1-1-gsa-title: "Уровень бедности ниже черты LMIC и UMIC"
     1-1-1-gs1-title : "Уровень бедности среди работающих"
+  regional_indicators:
+    1-1-1-gsa-title: "Уровень бедности ниже черты LMIC и UMIC"
+    1-1-1-POVLMIC-title: "Уровень бедности ниже черты LMIC и UMIC POVLMIC"
+    1-1-1-SI.POV.LMIC-title: "Уровень бедности ниже черты LMIC и UMIC SI.POV.LMIC"
+    1-1-1-SI_POV_LMIC-title: "Уровень бедности ниже черты LMIC и UMIC SI_POV_LMIC"
