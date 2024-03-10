@@ -30,18 +30,18 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : regional_indicators.1-1-1-gsa-title
+graph_title : regional_indicators.1-1-1-POVLMIC-title
 graph_titles : []
 graph_type : line
-indicator_name : regional_indicators.1-1-1-gsa-title
+indicator_name : regional_indicators.1-1-1-POVLMIC-title
 page_content : ''
-permalink : '/1-1-1-gsa/'
+permalink : '/1-1-1-POVLMIC/'
 precision : []
 reporting_status : complete
 sort : ''
 standalone : false
 tags : []
-indicator_number : 1-1-1-gsa
+indicator_number : 1-1-1-POVLMIC
 # notstarted : reported
 tag : 
   - custom.regional
