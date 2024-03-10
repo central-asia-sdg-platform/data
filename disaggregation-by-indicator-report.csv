@@ -1,5 +1,7 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"GeoAreaName, Age, Sex, Location",4
+#1-1-1-POVLMIC,"GeoAreaName, Poverty Line",2
+#1-1-1-SI_POV_LMIC,"GeoAreaName, Poverty Line",2
 #1-1-1-a,"GeoAreaName, Poverty Line",2
 #1-1-1-b,"GeoAreaName, Age, Sex",3
 #1-1-1-gs1,"GeoAreaName, Age, Sex",3
