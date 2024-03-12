@@ -55,8 +55,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -73,16 +73,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",

@@ -22,7 +22,7 @@
               "enum": [
                 "Austria",
                 "Czechia",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Albania",
                 "Armenia",
                 "Latvia",
@@ -51,7 +51,7 @@
                 "Türkiye",
                 "Slovakia",
                 "Iceland",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "India",
                 "Bosnia and Herzegovina",
@@ -63,10 +63,10 @@
                 "Bulgaria",
                 "Sweden",
                 "United Kingdom of Great Britain and Northern Ireland",
-                "Kazakhstan",
+                "Казахстан",
                 "Switzerland",
-                "Tajikistan",
-                "Uzbekistan",
+                "Таджикистан",
+                "Узбекистан",
                 "Belarus",
                 "China",
                 "Croatia",
@@ -74,7 +74,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Location",

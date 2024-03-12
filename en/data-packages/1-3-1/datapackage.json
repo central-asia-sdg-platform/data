@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "SeriesDescription"
+            "title": "Series"
           },
           {
             "name": "GeoAreaName",
@@ -108,7 +108,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Quantile",

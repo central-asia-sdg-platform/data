@@ -1,4 +1,4 @@
-Year,GeoAreaName,Age,Location,Sex,Value
+Year,Country,Age,Location,Sex,Value
 2004,Hungary,ALLAGE,ALLAREA,BOTHSEX,0.1
 2004,Hungary,<15Y,ALLAREA,BOTHSEX,0.08253
 2004,Hungary,15-64,ALLAREA,BOTHSEX,0.26918

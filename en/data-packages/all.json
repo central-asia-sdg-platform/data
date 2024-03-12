@@ -30,7 +30,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Age",
@@ -95,7 +95,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Age",
@@ -130,7 +130,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-gs1-title"
+      "title": "Working Poverty rates"
     },
     {
       "path": "1-1-1-SI_POV_LMIC/data.csv",
@@ -215,7 +215,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -224,7 +224,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-SI_POV_LMIC-title"
+      "title": "Poverty rates at LMIC and UMIC lines SI_POV_LMIC"
     },
     {
       "path": "16-5-2-a/data.csv",
@@ -308,7 +308,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -401,7 +401,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -495,7 +495,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -588,7 +588,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -634,7 +634,7 @@
                 ""
               ]
             },
-            "title": "SeriesDescription"
+            "title": "Series"
           },
           {
             "name": "GeoAreaName",
@@ -707,7 +707,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Quantile",
@@ -816,7 +816,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -897,7 +897,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Age",
@@ -1030,7 +1030,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1115,7 +1115,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1200,7 +1200,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Location",
@@ -1306,7 +1306,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1400,7 +1400,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1409,7 +1409,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-POVLMIC-title"
+      "title": "Poverty rates at LMIC and UMIC lines POVLMIC"
     },
     {
       "path": "1-1-1-gsa/data.csv",
@@ -1494,7 +1494,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1587,7 +1587,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -1670,7 +1670,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Location",

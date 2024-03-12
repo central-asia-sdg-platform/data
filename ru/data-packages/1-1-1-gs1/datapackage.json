@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kazakhstan",
-                "Kyrgyzstan",
-                "Tajikistan",
-                "Turkmenistan",
-                "Uzbekistan",
+                "Казахстан",
+                "Кыргызстан",
+                "Таджикистан",
+                "Туркменистан",
+                "Узбекистан",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Age",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-gs1",
-  "title": "global_indicators.1-1-1-gs1-title"
+  "title": "Уровень бедности среди работающих"
 }

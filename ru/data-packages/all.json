@@ -22,15 +22,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kazakhstan",
-                "Kyrgyzstan",
-                "Tajikistan",
-                "Turkmenistan",
-                "Uzbekistan",
+                "Казахстан",
+                "Кыргызстан",
+                "Таджикистан",
+                "Туркменистан",
+                "Узбекистан",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Age",
@@ -87,15 +87,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kazakhstan",
-                "Kyrgyzstan",
-                "Tajikistan",
-                "Turkmenistan",
-                "Uzbekistan",
+                "Казахстан",
+                "Кыргызстан",
+                "Таджикистан",
+                "Туркменистан",
+                "Узбекистан",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Age",
@@ -130,7 +130,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-gs1-title"
+      "title": "Уровень бедности среди работающих"
     },
     {
       "path": "1-1-1-SI_POV_LMIC/data.csv",
@@ -188,8 +188,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -206,16 +206,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -224,7 +224,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-SI_POV_LMIC-title"
+      "title": "Уровень бедности ниже черты LMIC и UMIC SI_POV_LMIC"
     },
     {
       "path": "16-5-2-a/data.csv",
@@ -281,8 +281,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -299,16 +299,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -374,8 +374,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -392,16 +392,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -468,8 +468,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -486,16 +486,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -561,8 +561,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -579,16 +579,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -634,7 +634,7 @@
                 ""
               ]
             },
-            "title": "SeriesDescription"
+            "title": "Показатели"
           },
           {
             "name": "GeoAreaName",
@@ -676,8 +676,8 @@
                 "Ireland",
                 "Israel",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Latvia",
                 "Liechtenstein",
                 "Portugal",
@@ -694,12 +694,12 @@
                 "Japan",
                 "Sweden",
                 "Switzerland",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
                 "United Kingdom of Great Britain and Northern Ireland",
-                "Uzbekistan",
+                "Узбекистан",
                 "Republic of Korea",
                 "United Arab Emirates",
                 "Türkiye",
@@ -707,7 +707,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Quantile",
@@ -767,9 +767,9 @@
                 "Ireland",
                 "Italy",
                 "Azerbaijan",
-                "Kazakhstan",
-                "Uzbekistan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Узбекистан",
+                "Кыргызстан",
                 "Latvia",
                 "Austria",
                 "Lithuania",
@@ -807,16 +807,16 @@
                 "Spain",
                 "Sweden",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Türkiye",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
                 "United Kingdom of Great Britain and Northern Ireland",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -862,10 +862,10 @@
                 "Italy",
                 "Denmark",
                 "Poland",
-                "Kazakhstan",
+                "Казахстан",
                 "Estonia",
                 "Portugal",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Armenia",
                 "Finland",
                 "Latvia",
@@ -885,19 +885,19 @@
                 "Sweden",
                 "Republic of Moldova",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Türkiye",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
-                "Uzbekistan",
+                "Узбекистан",
                 "Bosnia and Herzegovina",
                 "Bulgaria",
                 "Belarus",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Age",
@@ -1003,8 +1003,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -1021,16 +1021,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1065,7 +1065,7 @@
                 "Finland",
                 "Albania",
                 "France",
-                "Uzbekistan",
+                "Узбекистан",
                 "Georgia",
                 "Azerbaijan",
                 "Austria",
@@ -1084,10 +1084,10 @@
                 "Italy",
                 "Croatia",
                 "Cyprus",
-                "Kazakhstan",
+                "Казахстан",
                 "Czechia",
                 "Denmark",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Latvia",
                 "Liechtenstein",
                 "Lithuania",
@@ -1106,16 +1106,16 @@
                 "Spain",
                 "Sweden",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Türkiye",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
                 "United Kingdom of Great Britain and Northern Ireland",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1148,7 +1148,7 @@
               "enum": [
                 "Austria",
                 "Czechia",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Albania",
                 "Armenia",
                 "Latvia",
@@ -1177,7 +1177,7 @@
                 "Türkiye",
                 "Slovakia",
                 "Iceland",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "India",
                 "Bosnia and Herzegovina",
@@ -1189,10 +1189,10 @@
                 "Bulgaria",
                 "Sweden",
                 "United Kingdom of Great Britain and Northern Ireland",
-                "Kazakhstan",
+                "Казахстан",
                 "Switzerland",
-                "Tajikistan",
-                "Uzbekistan",
+                "Таджикистан",
+                "Узбекистан",
                 "Belarus",
                 "China",
                 "Croatia",
@@ -1200,7 +1200,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Location",
@@ -1279,8 +1279,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -1297,16 +1297,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1373,8 +1373,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -1391,16 +1391,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1409,7 +1409,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-POVLMIC-title"
+      "title": "Уровень бедности ниже черты LMIC и UMIC POVLMIC"
     },
     {
       "path": "1-1-1-gsa/data.csv",
@@ -1467,8 +1467,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -1485,16 +1485,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1560,8 +1560,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -1578,16 +1578,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -1648,21 +1648,21 @@
                 "Romania",
                 "Serbia",
                 "Türkiye",
-                "Kazakhstan",
-                "Turkmenistan",
+                "Казахстан",
+                "Туркменистан",
                 "Slovakia",
                 "Ukraine",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Slovenia",
                 "North Macedonia",
                 "Spain",
                 "United Kingdom of Great Britain and Northern Ireland",
                 "Latvia",
-                "Uzbekistan",
+                "Узбекистан",
                 "Sweden",
                 "Azerbaijan",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Austria",
                 "Armenia",
                 "Belgium",
@@ -1670,7 +1670,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Location",

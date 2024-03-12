@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "SeriesDescription"
+            "title": "Показатели"
           },
           {
             "name": "GeoAreaName",
@@ -77,8 +77,8 @@
                 "Ireland",
                 "Israel",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Latvia",
                 "Liechtenstein",
                 "Portugal",
@@ -95,12 +95,12 @@
                 "Japan",
                 "Sweden",
                 "Switzerland",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
                 "United Kingdom of Great Britain and Northern Ireland",
-                "Uzbekistan",
+                "Узбекистан",
                 "Republic of Korea",
                 "United Arab Emirates",
                 "Türkiye",
@@ -108,7 +108,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Quantile",

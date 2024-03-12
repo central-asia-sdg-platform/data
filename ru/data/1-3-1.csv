@@ -1,4 +1,4 @@
-Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
+Year,Показатели,Страна,Quantile,Sex,Value
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Lithuania,_T,,58.67134
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Lithuania,Q1,,68.09415
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Mexico,_T,,15.626
@@ -124,10 +124,10 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Israel,,FEMALE,100.0
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Italy,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Italy,,FEMALE,100.0
-2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Kazakhstan,,FEMALE,44.6
-2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Kazakhstan,,FEMALE,44.2
-2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Kyrgyzstan,,FEMALE,23.8
-2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Kyrgyzstan,,FEMALE,23.8
+2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Казахстан,,FEMALE,44.6
+2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Казахстан,,FEMALE,44.2
+2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Кыргызстан,,FEMALE,23.8
+2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Кыргызстан,,FEMALE,23.8
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Latvia,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Latvia,,FEMALE,100.0
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Liechtenstein,,FEMALE,100.0
@@ -266,9 +266,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Sweden,,FEMALE,100.0
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Switzerland,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Switzerland,,FEMALE,100.0
-2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Tajikistan,,FEMALE,59.5
-2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Tajikistan,,FEMALE,66.5
-2021,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Turkmenistan,,FEMALE,38.6
+2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Таджикистан,,FEMALE,59.5
+2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Таджикистан,,FEMALE,66.5
+2021,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Туркменистан,,FEMALE,38.6
 2014,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Spain,,FEMALE,60.5
 2014,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Spain,,MALE,100.0
 2014,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Spain,,BOTHSEX,81.0
@@ -286,16 +286,16 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Japan,,BOTHSEX,21.5
 2014,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Japan,,BOTHSEX,20.0
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Japan,,BOTHSEX,69.3
-2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,0.5
-2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,0.7
-2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,0.9
+2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,0.5
+2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,0.7
+2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,0.9
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Ukraine,,FEMALE,100.0
 2018,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Ukraine,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Ukraine,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),North Macedonia,,FEMALE,100.0
 2016,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),United Kingdom of Great Britain and Northern Ireland,,FEMALE,100.0
 2020,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),United Kingdom of Great Britain and Northern Ireland,,FEMALE,100.0
-2017,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Uzbekistan,,FEMALE,16.0
+2017,[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%),Узбекистан,,FEMALE,16.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Azerbaijan,,BOTHSEX,100.0
 2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Azerbaijan,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Australia,,BOTHSEX,100.0
@@ -309,15 +309,15 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Switzerland,,FEMALE,100.0
 2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Switzerland,,BOTHSEX,100.0
 2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Switzerland,,MALE,100.0
-2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,1.0
-2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,0.5
-2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,0.4
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,MALE,6.8
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,FEMALE,4.5
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,5.8
-2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,MALE,8.1
-2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,FEMALE,5.2
-2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,8.9
+2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,1.0
+2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,0.5
+2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,0.4
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,MALE,6.8
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,FEMALE,4.5
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,5.8
+2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,MALE,8.1
+2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,FEMALE,5.2
+2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Казахстан,,BOTHSEX,8.9
 2004,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,25.1
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Austria,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Armenia,,BOTHSEX,38.2
@@ -331,7 +331,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",China,,BOTHSEX,100.0
 2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Switzerland,,BOTHSEX,96.9
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Switzerland,,BOTHSEX,96.9
-2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Tajikistan,,BOTHSEX,49.0
+2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Таджикистан,,BOTHSEX,49.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",United Arab Emirates,,BOTHSEX,1.8
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Türkiye,,FEMALE,1.3
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Türkiye,,BOTHSEX,5.1
@@ -342,9 +342,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Türkiye,,BOTHSEX,5.0
 2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Türkiye,,BOTHSEX,5.6
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Türkiye,,BOTHSEX,5.6
-2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Turkmenistan,,BOTHSEX,87.7
-2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Turkmenistan,,FEMALE,94.2
-2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Turkmenistan,,MALE,81.2
+2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Туркменистан,,BOTHSEX,87.7
+2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Туркменистан,,FEMALE,94.2
+2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Туркменистан,,MALE,81.2
 2018,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Ukraine,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Ukraine,,MALE,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Ukraine,,FEMALE,100.0
@@ -356,8 +356,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2014,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,40.0
 2019,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,37.1
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,45.4
-2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,8.2
-2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,10.4
+2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,8.2
+2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,10.4
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Colombia,,BOTHSEX,22.8
 2019,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Colombia,,BOTHSEX,44.4
 2021,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Colombia,,BOTHSEX,53.6
@@ -377,12 +377,12 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,FEMALE,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,MALE,100.0
-2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,3.3
-2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,1.4
-2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,1.2
-2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,1.2
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,1.7
-2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,2.7
+2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,3.3
+2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,1.4
+2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,1.2
+2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,1.2
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,1.7
+2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,2.7
 2001,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Latvia,,BOTHSEX,26.2
 2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Latvia,,BOTHSEX,37.1
 2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Latvia,,BOTHSEX,47.0
@@ -394,11 +394,11 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Germany,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Hungary,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Ireland,,BOTHSEX,100.0
-2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,28.9
+2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Казахстан,,BOTHSEX,28.9
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,21.4
-2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,89.4
-2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,33.0
-2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,39.7
+2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,89.4
+2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Узбекистан,,BOTHSEX,33.0
+2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Узбекистан,,BOTHSEX,39.7
 2008,[World Bank] Proportion of population covered by labour market programs (%),Albania,Q1,,7.86586
 2008,[World Bank] Proportion of population covered by labour market programs (%),Albania,_T,,6.04202
 2012,[World Bank] Proportion of population covered by labour market programs (%),Albania,_T,,14.22281
@@ -451,7 +451,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Spain,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Sweden,,BOTHSEX,100.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Switzerland,,BOTHSEX,100.0
-2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Tajikistan,,BOTHSEX,28.1
+2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Таджикистан,,BOTHSEX,28.1
 2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Ukraine,,BOTHSEX,43.0
 2016,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,100.0
 2012,[World Bank] Proportion of population covered by labour market programs (%),Armenia,Q1,,2.99704
@@ -480,8 +480,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2010,[World Bank] Proportion of population covered by labour market programs (%),Belarus,Q1,,2.27473
 2010,[World Bank] Proportion of population covered by labour market programs (%),Belarus,_T,,0.93436
 2012,[World Bank] Proportion of population covered by labour market programs (%),Belarus,Q1,,0.60336
-2017,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,68.0
-2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,82.5
+2017,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Узбекистан,,BOTHSEX,68.0
+2018,"[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)",Узбекистан,,BOTHSEX,82.5
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Albania,Q1,,45.55193
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Albania,_T,,32.67408
 2012,[World Bank] Proportion of population covered by social assistance programs (%),Albania,_T,,19.08167
@@ -702,7 +702,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2004,[World Bank] Proportion of population covered by labour market programs (%),India,Q1,,1.50049
 2009,[World Bank] Proportion of population covered by labour market programs (%),India,_T,,4.43938
 2009,[World Bank] Proportion of population covered by labour market programs (%),India,Q1,,1.96246
-2014,[World Bank] Proportion of population covered by labour market programs (%),Kazakhstan,Q1,,22.62891
+2014,[World Bank] Proportion of population covered by labour market programs (%),Казахстан,Q1,,22.62891
 2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",New Zealand,,BOTHSEX,37.5
 2014,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",New Zealand,,BOTHSEX,44.9
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",New Zealand,,BOTHSEX,44.9
@@ -721,13 +721,13 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2018,[World Bank] Proportion of population covered by social assistance programs (%),Colombia,Q1,,45.72828
 2018,[World Bank] Proportion of population covered by social assistance programs (%),Colombia,_T,,22.16488
 2019,[World Bank] Proportion of population covered by social assistance programs (%),Colombia,_T,,21.23723
-2014,[World Bank] Proportion of population covered by labour market programs (%),Kazakhstan,_T,,12.50519
-2011,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,Q1,,25.65016
-2011,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,_T,,23.89148
-2012,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,Q1,,17.35811
-2012,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,_T,,21.08072
-2013,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,_T,,25.79409
-2013,[World Bank] Proportion of population covered by labour market programs (%),Kyrgyzstan,Q1,,25.32387
+2014,[World Bank] Proportion of population covered by labour market programs (%),Казахстан,_T,,12.50519
+2011,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,Q1,,25.65016
+2011,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,_T,,23.89148
+2012,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,Q1,,17.35811
+2012,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,_T,,21.08072
+2013,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,_T,,25.79409
+2013,[World Bank] Proportion of population covered by labour market programs (%),Кыргызстан,Q1,,25.32387
 2008,[World Bank] Proportion of population covered by labour market programs (%),Latvia,Q1,,7.67277
 2019,[World Bank] Proportion of population covered by social assistance programs (%),Colombia,Q1,,43.01952
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Costa Rica,Q1,,79.0496
@@ -864,9 +864,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2009,[World Bank] Proportion of population covered by social assistance programs (%),India,_T,,17.24392
 2011,[World Bank] Proportion of population covered by social assistance programs (%),India,_T,,93.24983
 2011,[World Bank] Proportion of population covered by social assistance programs (%),India,Q1,,95.63239
-2007,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,_T,,29.09089
-2007,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,Q1,,42.15873
-2010,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,_T,,33.5863
+2007,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,_T,,29.09089
+2007,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,Q1,,42.15873
+2010,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,_T,,33.5863
 2012,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Serbia,,MALE,9.9
 2012,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Serbia,,FEMALE,7.8
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Serbia,,MALE,6.5
@@ -885,14 +885,14 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,[World Bank] Proportion of population covered by labour market programs (%),Romania,_T,,0.96226
 2016,[World Bank] Proportion of population covered by labour market programs (%),Romania,Q1,,0.98309
 2015,[World Bank] Proportion of population covered by labour market programs (%),Serbia,Q1,,2.15688
-2010,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,Q1,,45.00007
-2014,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,_T,,66.09539
-2014,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,Q1,,74.33816
-2015,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,_T,,30.62083
-2015,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,Q1,,44.57739
-2017,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,_T,,24.71827
-2017,[World Bank] Proportion of population covered by social assistance programs (%),Kazakhstan,Q1,,36.18724
-2006,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,_T,,8.11491
+2010,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,Q1,,45.00007
+2014,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,_T,,66.09539
+2014,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,Q1,,74.33816
+2015,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,_T,,30.62083
+2015,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,Q1,,44.57739
+2017,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,_T,,24.71827
+2017,[World Bank] Proportion of population covered by social assistance programs (%),Казахстан,Q1,,36.18724
+2006,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,_T,,8.11491
 2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Slovakia,,BOTHSEX,7.6
 2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Slovakia,,BOTHSEX,15.8
 2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Slovakia,,BOTHSEX,11.1
@@ -921,13 +921,13 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2010,[World Bank] Proportion of population covered by labour market programs (%),Viet Nam,Q1,,40.3625
 2010,[World Bank] Proportion of population covered by labour market programs (%),Viet Nam,_T,,18.41876
 2012,[World Bank] Proportion of population covered by labour market programs (%),Viet Nam,_T,,14.18074
-2006,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,Q1,,15.73379
-2011,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,_T,,8.47452
-2011,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,Q1,,15.64788
-2012,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,_T,,7.29997
-2012,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,Q1,,11.41397
-2013,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,_T,,7.17786
-2013,[World Bank] Proportion of population covered by social assistance programs (%),Kyrgyzstan,Q1,,13.29337
+2006,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,Q1,,15.73379
+2011,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,_T,,8.47452
+2011,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,Q1,,15.64788
+2012,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,_T,,7.29997
+2012,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,Q1,,11.41397
+2013,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,_T,,7.17786
+2013,[World Bank] Proportion of population covered by social assistance programs (%),Кыргызстан,Q1,,13.29337
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Latvia,Q1,,39.73672
 2012,[World Bank] Proportion of population covered by labour market programs (%),Viet Nam,Q1,,33.45951
 2014,[World Bank] Proportion of population covered by labour market programs (%),Viet Nam,Q1,,24.40484
@@ -1046,15 +1046,15 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Australia,,BOTHSEX,80.0
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Australia,,BOTHSEX,70.1
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Australia,,FEMALE,72.6
-2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,5.1
-2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,5.0
-2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,3.8
-2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,5.3
-2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,8.5
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,MALE,16.2
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,FEMALE,18.2
-2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,17.3
-2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Tajikistan,,BOTHSEX,20.8
+2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,5.1
+2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,5.0
+2009,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,3.8
+2010,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,5.3
+2011,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,8.5
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,MALE,16.2
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,FEMALE,18.2
+2016,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,17.3
+2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Таджикистан,,BOTHSEX,20.8
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",United Arab Emirates,,BOTHSEX,0.3
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Australia,,MALE,67.2
 2014,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Australia,,FEMALE,73.1
@@ -1089,7 +1089,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2014,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Türkiye,,MALE,1.6
 2014,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Türkiye,,BOTHSEX,1.4
 2020,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Türkiye,,BOTHSEX,18.3
-2022,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Turkmenistan,,BOTHSEX,0.0
+2022,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Туркменистан,,BOTHSEX,0.0
 2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Ukraine,,BOTHSEX,23.6
 2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Ukraine,,BOTHSEX,40.3
 2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Ukraine,,BOTHSEX,34.4
@@ -1135,7 +1135,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Bosnia and Herzegovina,,FEMALE,41.3
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Bosnia and Herzegovina,,BOTHSEX,69.5
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Bosnia and Herzegovina,,MALE,100.0
-2017,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,0.8
+2017,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Узбекистан,,BOTHSEX,0.8
 2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Azerbaijan,,BOTHSEX,12.6
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Azerbaijan,,BOTHSEX,13.4
 2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Australia,,BOTHSEX,53.0
@@ -1225,8 +1225,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Canada,,BOTHSEX,100.0
 2014,[World Bank] Proportion of population covered by social assistance programs (%),Viet Nam,Q1,,48.38658
 2014,[World Bank] Proportion of population covered by social assistance programs (%),Viet Nam,_T,,17.50683
-2011,[World Bank] Proportion of population covered by social assistance programs (%),Tajikistan,_T,,9.74993
-2011,[World Bank] Proportion of population covered by social assistance programs (%),Tajikistan,Q1,,13.04268
+2011,[World Bank] Proportion of population covered by social assistance programs (%),Таджикистан,_T,,9.74993
+2011,[World Bank] Proportion of population covered by social assistance programs (%),Таджикистан,Q1,,13.04268
 2004,[World Bank] Proportion of population covered by social assistance programs (%),Türkiye,_T,,27.21969
 2004,[World Bank] Proportion of population covered by social assistance programs (%),Türkiye,Q1,,33.0107
 2005,[World Bank] Proportion of population covered by social assistance programs (%),Türkiye,_T,,27.60373
@@ -1239,11 +1239,11 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Japan,,BOTHSEX,100.0
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Japan,,FEMALE,100.0
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Japan,,MALE,100.0
-2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,74.2
+2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Казахстан,,BOTHSEX,74.2
 2018,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,26.3
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,48.9
-2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,14.1
+2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,14.1
 2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Latvia,,BOTHSEX,85.0
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Latvia,,BOTHSEX,85.0
 2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Lithuania,,BOTHSEX,51.3
@@ -1312,16 +1312,16 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Costa Rica,,BOTHSEX,68.8
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Costa Rica,,MALE,68.0
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Switzerland,,BOTHSEX,70.2
-2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Tajikistan,,BOTHSEX,7.5
+2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Таджикистан,,BOTHSEX,7.5
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",United Arab Emirates,,BOTHSEX,1.2
-2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Turkmenistan,,BOTHSEX,10.9
-2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Turkmenistan,,MALE,1.9
-2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Turkmenistan,,FEMALE,13.2
+2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Туркменистан,,BOTHSEX,10.9
+2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Туркменистан,,MALE,1.9
+2021,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Туркменистан,,FEMALE,13.2
 2018,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Ukraine,,BOTHSEX,39.0
 2016,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,76.6
 2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,76.6
-2017,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,16.0
-2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,15.6
+2017,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Узбекистан,,BOTHSEX,16.0
+2020,"[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)",Узбекистан,,BOTHSEX,15.6
 2008,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Albania,,BOTHSEX,34.0
 2021,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Albania,,BOTHSEX,40.7
 2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Azerbaijan,,BOTHSEX,32.1
@@ -1416,12 +1416,12 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Denmark,,BOTHSEX,100.0
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Denmark,,MALE,95.2
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Denmark,,BOTHSEX,96.8
-2015,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Kazakhstan,,BOTHSEX,43.1
-2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Kazakhstan,,BOTHSEX,75.4
+2015,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Казахстан,,BOTHSEX,43.1
+2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Казахстан,,BOTHSEX,75.4
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Republic of Korea,,BOTHSEX,85.2
 2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Republic of Korea,,BOTHSEX,85.2
-2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Kyrgyzstan,,BOTHSEX,44.0
-2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Kyrgyzstan,,BOTHSEX,64.6
+2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Кыргызстан,,BOTHSEX,44.0
+2020,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Кыргызстан,,BOTHSEX,64.6
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Latvia,,BOTHSEX,69.2
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Lithuania,,BOTHSEX,64.7
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Luxembourg,,BOTHSEX,77.1
@@ -1510,9 +1510,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Switzerland,,BOTHSEX,66.7
 2010,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Türkiye,,BOTHSEX,38.6
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Türkiye,,BOTHSEX,60.3
-2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Turkmenistan,,BOTHSEX,52.6
+2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Туркменистан,,BOTHSEX,52.6
 2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,68.0
-2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Uzbekistan,,BOTHSEX,44.1
+2019,"[ILO] Proportion of employed population covered in the event of work injury, by sex (%)",Узбекистан,,BOTHSEX,44.1
 2021,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Albania,,BOTHSEX,77.6
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Azerbaijan,,BOTHSEX,40.3
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Azerbaijan,,BOTHSEX,39.0
@@ -1611,14 +1611,14 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Japan,,BOTHSEX,75.4
 2019,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Japan,,BOTHSEX,76.0
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Japan,,BOTHSEX,98.0
-2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Kazakhstan,,MALE,100.0
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Kazakhstan,,FEMALE,100.0
+2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Казахстан,,MALE,100.0
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Казахстан,,FEMALE,100.0
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Republic of Korea,,BOTHSEX,65.7
 2019,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Republic of Korea,,BOTHSEX,67.0
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Republic of Korea,,BOTHSEX,77.3
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,41.7
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Кыргызстан,,BOTHSEX,41.7
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Latvia,,BOTHSEX,96.5
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Latvia,,BOTHSEX,96.5
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Lithuania,,BOTHSEX,92.7
@@ -1688,10 +1688,10 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Sweden,,BOTHSEX,100.0
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Switzerland,,BOTHSEX,92.7
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Switzerland,,BOTHSEX,92.7
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Tajikistan,,BOTHSEX,26.6
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Таджикистан,,BOTHSEX,26.6
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",United Arab Emirates,,BOTHSEX,3.5
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Türkiye,,BOTHSEX,79.8
-2021,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Turkmenistan,,BOTHSEX,44.2
+2021,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Туркменистан,,BOTHSEX,44.2
 2018,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Ukraine,,BOTHSEX,73.0
 2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Israel,,BOTHSEX,99.1
 2019,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Israel,,BOTHSEX,100.0
@@ -1706,7 +1706,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",North Macedonia,,BOTHSEX,39.0
 2016,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,93.5
 2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,93.5
-2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Uzbekistan,,BOTHSEX,42.7
+2020,"[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)",Узбекистан,,BOTHSEX,42.7
 2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Albania,,FEMALE,100.0
 2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Albania,,MALE,100.0
 2021,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Albania,,BOTHSEX,100.0
@@ -1733,9 +1733,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2014,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Australia,,FEMALE,100.0
 2014,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Australia,,MALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Japan,,FEMALE,100.0
-2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kazakhstan,,BOTHSEX,82.6
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kazakhstan,,BOTHSEX,99.6
+2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Казахстан,,BOTHSEX,100.0
+2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Казахстан,,BOTHSEX,82.6
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Казахстан,,BOTHSEX,99.6
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,BOTHSEX,100.0
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,MALE,100.0
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,FEMALE,91.0
@@ -1764,12 +1764,12 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,FEMALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Republic of Korea,,MALE,100.0
-2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,BOTHSEX,86.0
-2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,BOTHSEX,100.0
-2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,MALE,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Kyrgyzstan,,FEMALE,100.0
+2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,BOTHSEX,86.0
+2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,BOTHSEX,100.0
+2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,MALE,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Кыргызстан,,FEMALE,100.0
 2019,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Austria,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Austria,,FEMALE,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Austria,,BOTHSEX,100.0
@@ -1907,8 +1907,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Denmark,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Denmark,,MALE,100.0
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Denmark,,FEMALE,100.0
-2018,[World Bank] Proportion of population covered by social assistance programs (%),Uzbekistan,Q1,,10.34976
-2018,[World Bank] Proportion of population covered by social assistance programs (%),Uzbekistan,_T,,6.69206
+2018,[World Bank] Proportion of population covered by social assistance programs (%),Узбекистан,Q1,,10.34976
+2018,[World Bank] Proportion of population covered by social assistance programs (%),Узбекистан,_T,,6.69206
 2008,[World Bank] Proportion of population covered by social insurance programs (%),Albania,Q1,,48.43734
 2008,[World Bank] Proportion of population covered by social insurance programs (%),Albania,_T,,45.93881
 2012,[World Bank] Proportion of population covered by social insurance programs (%),Albania,Q1,,38.22971
@@ -2095,11 +2095,11 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Japan,,BOTHSEX,49.5
 2019,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Japan,,BOTHSEX,56.1
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Japan,,BOTHSEX,56.1
-2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kazakhstan,,FEMALE,100.0
-2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kazakhstan,,MALE,100.0
-2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
+2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Казахстан,,FEMALE,100.0
+2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Казахстан,,MALE,100.0
+2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Republic of Korea,,FEMALE,1.5
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,12.7
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Portugal,,BOTHSEX,82.4
@@ -2119,9 +2119,9 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,11.9
 2019,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,24.8
 2020,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,24.8
-2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,75.9
-2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,75.7
-2019,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,76.0
+2016,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,75.9
+2017,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,75.7
+2019,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,76.0
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Latvia,,MALE,100.0
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Latvia,,BOTHSEX,100.0
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Latvia,,FEMALE,100.0
@@ -2259,10 +2259,10 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Norway,,MALE,100.0
 2013,"[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)",Norway,,FEMALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Switzerland,,BOTHSEX,100.0
-2005,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Tajikistan,,BOTHSEX,88.0
-2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Tajikistan,,BOTHSEX,92.8
-2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Tajikistan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Tajikistan,,BOTHSEX,93.7
+2005,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Таджикистан,,BOTHSEX,88.0
+2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Таджикистан,,BOTHSEX,92.8
+2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Таджикистан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Таджикистан,,BOTHSEX,93.7
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",United Arab Emirates,,BOTHSEX,22.6
 2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Türkiye,,BOTHSEX,55.0
 2013,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Türkiye,,BOTHSEX,100.0
@@ -2271,7 +2271,7 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Türkiye,,BOTHSEX,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Türkiye,,FEMALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Türkiye,,MALE,100.0
-2021,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Turkmenistan,,BOTHSEX,77.2
+2021,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Туркменистан,,BOTHSEX,77.2
 2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Ukraine,,BOTHSEX,92.0
 2016,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Ukraine,,BOTHSEX,91.9
 2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Ukraine,,BOTHSEX,96.0
@@ -2299,11 +2299,11 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,MALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,FEMALE,100.0
 2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,100.0
-2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,BOTHSEX,100.0
-2010,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,BOTHSEX,98.1
-2017,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,BOTHSEX,100.0
-2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,BOTHSEX,100.0
+2000,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,BOTHSEX,100.0
+2010,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,BOTHSEX,98.1
+2017,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,BOTHSEX,100.0
+2018,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,BOTHSEX,100.0
 2012,[World Bank] Proportion of population covered by social insurance programs (%),Armenia,Q1,,56.42332
 2012,[World Bank] Proportion of population covered by social insurance programs (%),Armenia,_T,,53.36276
 2013,[World Bank] Proportion of population covered by social insurance programs (%),Armenia,_T,,53.03151
@@ -2412,24 +2412,24 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2007,[World Bank] Proportion of population covered by social insurance programs (%),Hungary,Q1,,49.8638
 2011,[World Bank] Proportion of population covered by social insurance programs (%),India,_T,,17.66352
 2011,[World Bank] Proportion of population covered by social insurance programs (%),India,Q1,,23.88358
-2007,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,_T,,29.15654
-2007,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,Q1,,28.81919
-2010,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,_T,,28.94987
-2010,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,Q1,,30.58772
-2014,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,_T,,1.08673
-2014,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,Q1,,1.07339
-2015,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,_T,,28.67696
-2015,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,Q1,,25.95332
-2017,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,_T,,31.52141
-2017,[World Bank] Proportion of population covered by social insurance programs (%),Kazakhstan,Q1,,29.62957
-2006,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,_T,,30.466
-2006,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,Q1,,32.70928
-2011,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,_T,,40.22305
-2011,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,Q1,,40.76887
-2012,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,_T,,41.64056
-2012,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,Q1,,46.2475
-2013,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,_T,,39.34975
-2013,[World Bank] Proportion of population covered by social insurance programs (%),Kyrgyzstan,Q1,,42.87701
+2007,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,_T,,29.15654
+2007,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,Q1,,28.81919
+2010,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,_T,,28.94987
+2010,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,Q1,,30.58772
+2014,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,_T,,1.08673
+2014,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,Q1,,1.07339
+2015,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,_T,,28.67696
+2015,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,Q1,,25.95332
+2017,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,_T,,31.52141
+2017,[World Bank] Proportion of population covered by social insurance programs (%),Казахстан,Q1,,29.62957
+2006,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,_T,,30.466
+2006,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,Q1,,32.70928
+2011,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,_T,,40.22305
+2011,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,Q1,,40.76887
+2012,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,_T,,41.64056
+2012,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,Q1,,46.2475
+2013,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,_T,,39.34975
+2013,[World Bank] Proportion of population covered by social insurance programs (%),Кыргызстан,Q1,,42.87701
 2008,[World Bank] Proportion of population covered by social insurance programs (%),Latvia,_T,,52.44336
 2008,[World Bank] Proportion of population covered by social insurance programs (%),Latvia,Q1,,53.4027
 2009,[World Bank] Proportion of population covered by social insurance programs (%),Latvia,_T,,45.72375
@@ -2508,8 +2508,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2012,[World Bank] Proportion of population covered by social insurance programs (%),Viet Nam,Q1,,2.82493
 2014,[World Bank] Proportion of population covered by social insurance programs (%),Viet Nam,_T,,15.24924
 2014,[World Bank] Proportion of population covered by social insurance programs (%),Viet Nam,Q1,,3.11494
-2011,[World Bank] Proportion of population covered by social insurance programs (%),Tajikistan,_T,,34.14921
-2011,[World Bank] Proportion of population covered by social insurance programs (%),Tajikistan,Q1,,39.02356
+2011,[World Bank] Proportion of population covered by social insurance programs (%),Таджикистан,_T,,34.14921
+2011,[World Bank] Proportion of population covered by social insurance programs (%),Таджикистан,Q1,,39.02356
 2004,[World Bank] Proportion of population covered by social insurance programs (%),Türkiye,_T,,29.41039
 2004,[World Bank] Proportion of population covered by social insurance programs (%),Türkiye,Q1,,10.20627
 2005,[World Bank] Proportion of population covered by social insurance programs (%),Türkiye,_T,,31.01974
@@ -2554,8 +2554,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2016,[World Bank] Proportion of population covered by social insurance programs (%),Ukraine,Q1,,50.34688
 2018,[World Bank] Proportion of population covered by social insurance programs (%),Ukraine,_T,,49.76429
 2018,[World Bank] Proportion of population covered by social insurance programs (%),Ukraine,Q1,,52.28722
-2018,[World Bank] Proportion of population covered by social insurance programs (%),Uzbekistan,_T,,20.11999
-2018,[World Bank] Proportion of population covered by social insurance programs (%),Uzbekistan,Q1,,18.2763
+2018,[World Bank] Proportion of population covered by social insurance programs (%),Узбекистан,_T,,20.11999
+2018,[World Bank] Proportion of population covered by social insurance programs (%),Узбекистан,Q1,,18.2763
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Azerbaijan,,BOTHSEX,16.9
 2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Australia,,BOTHSEX,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Australia,,BOTHSEX,100.0
@@ -2619,12 +2619,12 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Ireland,,FEMALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Ireland,,MALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Japan,,BOTHSEX,85.4
-2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,100.0
-2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Kazakhstan,,BOTHSEX,57.4
+2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Казахстан,,BOTHSEX,100.0
+2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Казахстан,,BOTHSEX,57.4
 2019,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,22.9
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Republic of Korea,,BOTHSEX,40.0
-2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,17.8
-2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Kyrgyzstan,,BOTHSEX,16.9
+2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,17.8
+2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Кыргызстан,,BOTHSEX,16.9
 2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Latvia,,BOTHSEX,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Latvia,,MALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Latvia,,FEMALE,100.0
@@ -2677,10 +2677,10 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Switzerland,,BOTHSEX,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Switzerland,,MALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Switzerland,,FEMALE,100.0
-2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Tajikistan,,BOTHSEX,6.4
-2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Tajikistan,,BOTHSEX,14.0
+2016,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Таджикистан,,BOTHSEX,6.4
+2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Таджикистан,,BOTHSEX,14.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",United Arab Emirates,,BOTHSEX,1.0
-2021,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Turkmenistan,,BOTHSEX,15.3
+2021,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Туркменистан,,BOTHSEX,15.3
 2018,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Ukraine,,BOTHSEX,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Ukraine,,FEMALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Ukraine,,BOTHSEX,100.0
@@ -2689,8 +2689,8 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,FEMALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,MALE,100.0
 2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",United Kingdom of Great Britain and Northern Ireland,,BOTHSEX,100.0
-2017,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,22.0
-2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Uzbekistan,,BOTHSEX,29.2
+2017,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Узбекистан,,BOTHSEX,22.0
+2020,"[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)",Узбекистан,,BOTHSEX,29.2
 2000,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Albania,,BOTHSEX,10.2
 2005,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Albania,,BOTHSEX,6.7
 2007,"[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)",Albania,,BOTHSEX,7.8
@@ -2934,6 +2934,6 @@ Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Latvia,_T,,38.96896
 2009,[World Bank] Proportion of population covered by social assistance programs (%),Latvia,_T,,50.81146
 2009,[World Bank] Proportion of population covered by social assistance programs (%),Latvia,Q1,,67.16637
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,FEMALE,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,MALE,100.0
-2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Uzbekistan,,MALE,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,FEMALE,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,MALE,100.0
+2020,"[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)",Узбекистан,,MALE,100.0

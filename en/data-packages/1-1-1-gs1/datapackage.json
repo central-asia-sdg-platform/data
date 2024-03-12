@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Age",
@@ -67,5 +67,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-gs1",
-  "title": "global_indicators.1-1-1-gs1-title"
+  "title": "Working Poverty rates"
 }

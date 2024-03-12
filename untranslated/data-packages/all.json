@@ -120,7 +120,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-1-1-gs1-title"
+      "title": "meta.name-1-1-1-gs1"
     },
     {
       "path": "1-1-1-SI_POV_LMIC/data.csv",
@@ -210,7 +210,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-SI_POV_LMIC-title"
+      "title": "meta.name-1-1-1-SI_POV_LMIC"
     },
     {
       "path": "16-5-2-a/data.csv",
@@ -1345,7 +1345,7 @@
           }
         ]
       },
-      "title": "regional_indicators.1-1-1-POVLMIC-title"
+      "title": "meta.name-1-1-1-POVLMIC"
     },
     {
       "path": "1-1-1-gsa/data.csv",

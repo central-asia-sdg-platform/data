@@ -24,7 +24,7 @@
                 "Finland",
                 "Albania",
                 "France",
-                "Uzbekistan",
+                "Узбекистан",
                 "Georgia",
                 "Azerbaijan",
                 "Austria",
@@ -43,10 +43,10 @@
                 "Italy",
                 "Croatia",
                 "Cyprus",
-                "Kazakhstan",
+                "Казахстан",
                 "Czechia",
                 "Denmark",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Latvia",
                 "Liechtenstein",
                 "Lithuania",
@@ -65,16 +65,16 @@
                 "Spain",
                 "Sweden",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Türkiye",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
                 "United Kingdom of Great Britain and Northern Ireland",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",

@@ -56,8 +56,8 @@
                 "Ireland",
                 "Iceland",
                 "Italy",
-                "Kazakhstan",
-                "Kyrgyzstan",
+                "Казахстан",
+                "Кыргызстан",
                 "Lithuania",
                 "Luxembourg",
                 "Latvia",
@@ -74,16 +74,16 @@
                 "Slovak Republic",
                 "Slovenia",
                 "Sweden",
-                "Tajikistan",
-                "Turkmenistan",
+                "Таджикистан",
+                "Туркменистан",
                 "Türkiye",
                 "Ukraine",
-                "Uzbekistan",
+                "Узбекистан",
                 "Kosovo⁎",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Value",
@@ -96,5 +96,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-SI_POV_LMIC",
-  "title": "regional_indicators.1-1-1-SI_POV_LMIC-title"
+  "title": "Уровень бедности ниже черты LMIC и UMIC SI_POV_LMIC"
 }

@@ -50,21 +50,21 @@
                 "Romania",
                 "Serbia",
                 "Türkiye",
-                "Kazakhstan",
-                "Turkmenistan",
+                "Казахстан",
+                "Туркменистан",
                 "Slovakia",
                 "Ukraine",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Slovenia",
                 "North Macedonia",
                 "Spain",
                 "United Kingdom of Great Britain and Northern Ireland",
                 "Latvia",
-                "Uzbekistan",
+                "Узбекистан",
                 "Sweden",
                 "Azerbaijan",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Austria",
                 "Armenia",
                 "Belgium",
@@ -72,7 +72,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Location",

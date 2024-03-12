@@ -83,7 +83,7 @@
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Country"
           },
           {
             "name": "Value",
@@ -96,5 +96,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-POVLMIC",
-  "title": "regional_indicators.1-1-1-POVLMIC-title"
+  "title": "Poverty rates at LMIC and UMIC lines POVLMIC"
 }

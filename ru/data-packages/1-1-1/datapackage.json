@@ -35,10 +35,10 @@
                 "Italy",
                 "Denmark",
                 "Poland",
-                "Kazakhstan",
+                "Казахстан",
                 "Estonia",
                 "Portugal",
-                "Kyrgyzstan",
+                "Кыргызстан",
                 "Armenia",
                 "Finland",
                 "Latvia",
@@ -58,19 +58,19 @@
                 "Sweden",
                 "Republic of Moldova",
                 "Switzerland",
-                "Tajikistan",
+                "Таджикистан",
                 "Türkiye",
-                "Turkmenistan",
+                "Туркменистан",
                 "Ukraine",
                 "North Macedonia",
-                "Uzbekistan",
+                "Узбекистан",
                 "Bosnia and Herzegovina",
                 "Bulgaria",
                 "Belarus",
                 ""
               ]
             },
-            "title": "GeoAreaName"
+            "title": "Страна"
           },
           {
             "name": "Age",

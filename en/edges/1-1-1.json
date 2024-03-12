@@ -1,1 +1,1 @@
-{"From":["GeoAreaName","Age","Location"],"To":["Age","Location","Sex"]}
+{"From":["Country","Age","Location"],"To":["Age","Location","Sex"]}

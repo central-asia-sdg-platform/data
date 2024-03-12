@@ -1,4 +1,4 @@
-Year,SeriesDescription,GeoAreaName,Quantile,Sex,Value
+Year,Series,Country,Quantile,Sex,Value
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Lithuania,_T,,58.67134
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Lithuania,Q1,,68.09415
 2008,[World Bank] Proportion of population covered by social assistance programs (%),Mexico,_T,,15.626
