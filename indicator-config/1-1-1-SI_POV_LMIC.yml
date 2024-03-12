@@ -30,10 +30,10 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : regional_indicators.1-1-1-SI_POV_LMIC-title
+graph_title : meta.name-1-1-1-SI_POV_LMIC
 graph_titles : []
 graph_type : line
-indicator_name : regional_indicators.1-1-1-SI_POV_LMIC-title
+indicator_name : meta.name-1-1-1-SI_POV_LMIC
 page_content : ''
 permalink : '/1-1-1-SI_POV_LMIC/'
 precision : []
