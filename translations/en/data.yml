@@ -1,8 +1,18 @@
-GeoAreaName : 'Country'
-SeriesDescription: 'Series'
-Kazakhstan: 'Kazakhstan'
-Kyrgyzstan: 'Kyrgyzstan'
-Tajikistan: 'Tajikistan'
-Turkmenistan: 'Turkmenistan'
-Uzbekistan: 'Uzbekistan'
+GeoAreaName       : 'Country'
+SeriesDescription : 'Series'
+Kazakhstan        : 'Kazakhstan'
+Kyrgyzstan        : 'Kyrgyzstan'
+Tajikistan        : 'Tajikistan'
+Turkmenistan      : 'Turkmenistan'
+Uzbekistan        : 'Uzbekistan'
+
+SI_POV      : "Poverty line"
+SI_POV_DDAY : "$2.15 a day (2017 PPP) dollar-a-day"
+SI_POV_LMIC : "$3.65 a day (2017 PPP) LMIC"
+SI_POV_UMIC : "$6.85 a day (2017 PPP) UMIC"
+SP_DYN      : "Gender"
+SP_DYN_LE00_IN    : "Total"
+SP_DYN_LE00_MA_IN : "Male"
+SP_DYN_LE00_FE_IN : "Female"
+
 
