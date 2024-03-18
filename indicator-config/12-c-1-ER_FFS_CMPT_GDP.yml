@@ -36,9 +36,9 @@ national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/12-c-1-ER_FFS_CMPT_GDP/'
 precision : []
-reporting_status : notstarted
+reporting_status : complete
 sort : ''
 standalone : false
 tags : []
 indicator_number : 12-c-1-ER_FFS_CMPT_GDP
-notstarted : reported
+

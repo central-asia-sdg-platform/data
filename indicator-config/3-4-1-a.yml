@@ -42,7 +42,7 @@ sort : ''
 standalone : false
 tags : []
 indicator_number : 3-4-1-a
-# notstarted : reported
+# 
 tag : 
   - custom.regional
 graph_target_lines : []

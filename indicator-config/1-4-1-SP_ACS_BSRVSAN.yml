@@ -36,9 +36,9 @@ national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/1-4-1-SP_ACS_BSRVSAN/'
 precision : []
-reporting_status : notstarted
+reporting_status : complete
 sort : ''
 standalone : false
 tags : []
 indicator_number : 1-4-1-SP_ACS_BSRVSAN
-notstarted : reported
+
