@@ -36,9 +36,9 @@ national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/2-a-2/'
 precision : []
-reporting_status : notstarted
+reporting_status : complete
 sort : ''
 standalone : false
 tags : []
 indicator_number : 2-a-2
-notstarted : reported
+

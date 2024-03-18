@@ -36,9 +36,9 @@ national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/16-6-2-SP_PSR_OSATIS_HLTH/'
 precision : []
-reporting_status : notstarted
+reporting_status : complete
 sort : ''
 standalone : false
 tags : []
 indicator_number : 16-6-2-SP_PSR_OSATIS_HLTH
-notstarted : reported
+

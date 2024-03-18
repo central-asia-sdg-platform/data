@@ -36,9 +36,9 @@ national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/1-3-1-SI_COV_CHLD/'
 precision : []
-reporting_status : notstarted
+reporting_status : complete
 sort : ''
 standalone : false
 tags : []
 indicator_number : 1-3-1-SI_COV_CHLD
-notstarted : reported
+

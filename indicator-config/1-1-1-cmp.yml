@@ -42,7 +42,7 @@ sort : ''
 standalone : false
 tags : []
 indicator_number : 1-1-1-cmp
-# notstarted : reported
+# 
 tag : 
   - custom.regional
 graph_target_lines : []
