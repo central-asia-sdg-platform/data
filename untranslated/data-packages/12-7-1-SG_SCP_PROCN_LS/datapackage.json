@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_SCP_PROCN_LS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Norway",
+                "Poland",
+                "Spain",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Government_Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CITY_OF_TRONDHEIM",
+                "CITY_OF_STAVANGER",
+                "CIT_ OF_WROCLAW",
+                "CITY_OF_WARSAW",
+                "CITY_OF_POZNAN",
+                "AYUNTAMIENTO_DE_BARCELONA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level/Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LOWIMP",
+                "MLOWIMP",
+                "HIGIMP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-7-1-SG_SCP_PROCN_LS",
+  "title": "meta.name-12-7-1-SG_SCP_PROCN_LS"
+}

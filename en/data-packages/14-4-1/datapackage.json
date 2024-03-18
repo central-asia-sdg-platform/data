@@ -7,13 +7,61 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H2O_FWTL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Australia",
+                "Belgium",
+                "Bulgaria",
+                "Canada",
+                "Chile",
+                "Colombia",
+                "Croatia",
+                "Cyprus",
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Latvia",
+                "New Zealand",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Türkiye",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Value",

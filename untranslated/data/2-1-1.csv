@@ -1,1 +1,1303 @@
-Year,Value
+Year,SeriesCode,GeoAreaName,Age,Sex,Value
+2001,SN_ITK_DEFC,Belarus,,,2.5
+2002,SN_ITK_DEFC,Belarus,,,2.7
+2003,SN_ITK_DEFC,Belarus,,,3.2
+2004,SN_ITK_DEFC,Belarus,,,3.3
+2005,SN_ITK_DEFC,Belarus,,,2.5
+2006,SN_ITK_DEFC,Belarus,,,2.5
+2007,SN_ITK_DEFC,Belarus,,,2.5
+2008,SN_ITK_DEFC,Belarus,,,2.5
+2009,SN_ITK_DEFC,Belarus,,,2.5
+2010,SN_ITK_DEFC,Belarus,,,2.5
+2011,SN_ITK_DEFC,Belarus,,,2.5
+2012,SN_ITK_DEFC,Belarus,,,2.5
+2013,SN_ITK_DEFC,Belarus,,,2.5
+2014,SN_ITK_DEFC,Belarus,,,2.5
+2015,SN_ITK_DEFC,Belarus,,,2.5
+2016,SN_ITK_DEFC,Belarus,,,2.5
+2017,SN_ITK_DEFC,Belarus,,,2.5
+2018,SN_ITK_DEFC,Belarus,,,2.5
+2019,SN_ITK_DEFC,Belarus,,,2.5
+2020,SN_ITK_DEFC,Belarus,,,2.5
+2021,SN_ITK_DEFC,Belarus,,,2.5
+2001,SN_ITK_DEFC,Canada,,,2.5
+2002,SN_ITK_DEFC,Canada,,,2.5
+2003,SN_ITK_DEFC,Canada,,,2.5
+2004,SN_ITK_DEFC,Canada,,,2.5
+2005,SN_ITK_DEFC,Canada,,,2.5
+2006,SN_ITK_DEFC,Canada,,,2.5
+2007,SN_ITK_DEFC,Canada,,,2.5
+2008,SN_ITK_DEFC,Canada,,,2.5
+2009,SN_ITK_DEFC,Canada,,,2.5
+2010,SN_ITK_DEFC,Canada,,,2.5
+2011,SN_ITK_DEFC,Canada,,,2.5
+2012,SN_ITK_DEFC,Canada,,,2.5
+2013,SN_ITK_DEFC,Canada,,,2.5
+2014,SN_ITK_DEFC,Canada,,,2.5
+2015,SN_ITK_DEFC,Canada,,,2.5
+2016,SN_ITK_DEFC,Canada,,,2.5
+2017,SN_ITK_DEFC,Canada,,,2.5
+2018,SN_ITK_DEFC,Canada,,,2.5
+2019,SN_ITK_DEFC,Canada,,,2.5
+2020,SN_ITK_DEFC,Canada,,,2.5
+2021,SN_ITK_DEFC,Canada,,,2.5
+2001,SN_ITK_DEFC,Chile,,,3.5
+2002,SN_ITK_DEFC,Chile,,,3.3
+2003,SN_ITK_DEFC,Chile,,,3.2
+2004,SN_ITK_DEFC,Chile,,,3.3
+2005,SN_ITK_DEFC,Chile,,,3.2
+2006,SN_ITK_DEFC,Chile,,,3.2
+2007,SN_ITK_DEFC,Chile,,,3.2
+2008,SN_ITK_DEFC,Chile,,,3.6
+2009,SN_ITK_DEFC,Chile,,,3.7
+2010,SN_ITK_DEFC,Chile,,,3.7
+2011,SN_ITK_DEFC,Chile,,,3.6
+2012,SN_ITK_DEFC,Chile,,,3.4
+2013,SN_ITK_DEFC,Chile,,,3.3
+2014,SN_ITK_DEFC,Chile,,,3.1
+2015,SN_ITK_DEFC,Chile,,,3.1
+2016,SN_ITK_DEFC,Chile,,,3.1
+2017,SN_ITK_DEFC,Chile,,,3.0
+2018,SN_ITK_DEFC,Chile,,,2.8
+2019,SN_ITK_DEFC,Chile,,,2.6
+2004,SN_ITK_DEFC,Serbia,,,2.6
+2005,SN_ITK_DEFC,Serbia,,,2.5
+2006,SN_ITK_DEFC,Serbia,,,2.5
+2007,SN_ITK_DEFC,Serbia,,,2.5
+2008,SN_ITK_DEFC,Serbia,,,2.5
+2009,SN_ITK_DEFC,Serbia,,,2.5
+2010,SN_ITK_DEFC,Serbia,,,2.5
+2011,SN_ITK_DEFC,Serbia,,,2.5
+2012,SN_ITK_DEFC,Serbia,,,2.5
+2013,SN_ITK_DEFC,Serbia,,,2.5
+2001,SN_ITK_DEFC,Albania,,,4.9
+2002,SN_ITK_DEFC,Albania,,,6.0
+2003,SN_ITK_DEFC,Albania,,,7.4
+2004,SN_ITK_DEFC,Albania,,,8.6
+2005,SN_ITK_DEFC,Albania,,,8.9
+2006,SN_ITK_DEFC,Albania,,,8.8
+2007,SN_ITK_DEFC,Albania,,,8.3
+2008,SN_ITK_DEFC,Albania,,,7.4
+2009,SN_ITK_DEFC,Albania,,,6.1
+2010,SN_ITK_DEFC,Albania,,,5.4
+2011,SN_ITK_DEFC,Albania,,,4.8
+2012,SN_ITK_DEFC,Albania,,,4.5
+2013,SN_ITK_DEFC,Albania,,,4.4
+2014,SN_ITK_DEFC,Albania,,,4.4
+2015,SN_ITK_DEFC,Albania,,,4.3
+2016,SN_ITK_DEFC,Albania,,,4.2
+2017,SN_ITK_DEFC,Albania,,,4.2
+2018,SN_ITK_DEFC,Albania,,,4.1
+2019,SN_ITK_DEFC,Albania,,,4.1
+2020,SN_ITK_DEFC,Albania,,,4.1
+2020,SN_ITK_DEFC,Chile,,,2.5
+2021,SN_ITK_DEFC,Chile,,,2.5
+2001,SN_ITK_DEFC,China,,,10.2
+2002,SN_ITK_DEFC,China,,,9.6
+2003,SN_ITK_DEFC,China,,,8.8
+2004,SN_ITK_DEFC,China,,,8.0
+2005,SN_ITK_DEFC,China,,,7.1
+2006,SN_ITK_DEFC,China,,,6.1
+2007,SN_ITK_DEFC,China,,,5.0
+2008,SN_ITK_DEFC,China,,,3.9
+2009,SN_ITK_DEFC,China,,,2.8
+2010,SN_ITK_DEFC,China,,,2.5
+2011,SN_ITK_DEFC,China,,,2.5
+2012,SN_ITK_DEFC,China,,,2.5
+2013,SN_ITK_DEFC,China,,,2.5
+2014,SN_ITK_DEFC,China,,,2.5
+2015,SN_ITK_DEFC,China,,,2.5
+2016,SN_ITK_DEFC,China,,,2.5
+2017,SN_ITK_DEFC,China,,,2.5
+2018,SN_ITK_DEFC,China,,,2.5
+2019,SN_ITK_DEFC,China,,,2.5
+2020,SN_ITK_DEFC,China,,,2.5
+2021,SN_ITK_DEFC,China,,,2.5
+2001,SN_ITK_DEFC,Colombia,,,8.9
+2002,SN_ITK_DEFC,Colombia,,,9.3
+2003,SN_ITK_DEFC,Colombia,,,10.0
+2004,SN_ITK_DEFC,Colombia,,,10.8
+2005,SN_ITK_DEFC,Colombia,,,11.5
+2006,SN_ITK_DEFC,Colombia,,,11.7
+2007,SN_ITK_DEFC,Colombia,,,11.3
+2008,SN_ITK_DEFC,Colombia,,,11.5
+2021,SN_ITK_DEFC,Albania,,,4.1
+2001,SN_ITK_DEFC,Azerbaijan,,,16.8
+2002,SN_ITK_DEFC,Azerbaijan,,,13.3
+2003,SN_ITK_DEFC,Azerbaijan,,,10.3
+2004,SN_ITK_DEFC,Azerbaijan,,,7.3
+2005,SN_ITK_DEFC,Azerbaijan,,,4.7
+2006,SN_ITK_DEFC,Azerbaijan,,,2.8
+2007,SN_ITK_DEFC,Azerbaijan,,,2.5
+2008,SN_ITK_DEFC,Azerbaijan,,,2.5
+2009,SN_ITK_DEFC,Azerbaijan,,,2.5
+2014,SN_ITK_DEFC,Serbia,,,2.5
+2015,SN_ITK_DEFC,Serbia,,,2.5
+2016,SN_ITK_DEFC,Serbia,,,2.5
+2017,SN_ITK_DEFC,Serbia,,,2.5
+2018,SN_ITK_DEFC,Serbia,,,2.5
+2019,SN_ITK_DEFC,Serbia,,,2.5
+2020,SN_ITK_DEFC,Serbia,,,2.5
+2021,SN_ITK_DEFC,Serbia,,,2.5
+2001,SN_ITK_DEFC,Slovakia,,,6.1
+2009,SN_ITK_DEFC,Colombia,,,11.4
+2010,SN_ITK_DEFC,Colombia,,,11.3
+2011,SN_ITK_DEFC,Colombia,,,9.9
+2012,SN_ITK_DEFC,Colombia,,,8.5
+2013,SN_ITK_DEFC,Colombia,,,7.0
+2014,SN_ITK_DEFC,Colombia,,,5.8
+2015,SN_ITK_DEFC,Colombia,,,4.9
+2016,SN_ITK_DEFC,Colombia,,,4.5
+2017,SN_ITK_DEFC,Colombia,,,4.3
+2018,SN_ITK_DEFC,Colombia,,,4.6
+2019,SN_ITK_DEFC,Colombia,,,5.4
+2020,SN_ITK_DEFC,Colombia,,,6.3
+2021,SN_ITK_DEFC,Colombia,,,6.6
+2001,SN_ITK_DEFC,Costa Rica,,,4.7
+2002,SN_ITK_DEFC,Costa Rica,,,5.0
+2003,SN_ITK_DEFC,Costa Rica,,,5.2
+2004,SN_ITK_DEFC,Costa Rica,,,4.9
+2005,SN_ITK_DEFC,Costa Rica,,,4.3
+2006,SN_ITK_DEFC,Costa Rica,,,3.9
+2007,SN_ITK_DEFC,Costa Rica,,,3.7
+2008,SN_ITK_DEFC,Costa Rica,,,3.9
+2009,SN_ITK_DEFC,Costa Rica,,,4.2
+2010,SN_ITK_DEFC,Costa Rica,,,4.6
+2011,SN_ITK_DEFC,Costa Rica,,,5.0
+2012,SN_ITK_DEFC,Costa Rica,,,5.1
+2013,SN_ITK_DEFC,Costa Rica,,,5.0
+2014,SN_ITK_DEFC,Costa Rica,,,4.8
+2015,SN_ITK_DEFC,Costa Rica,,,4.2
+2016,SN_ITK_DEFC,Costa Rica,,,3.7
+2017,SN_ITK_DEFC,Costa Rica,,,3.2
+2018,SN_ITK_DEFC,Costa Rica,,,3.1
+2019,SN_ITK_DEFC,Costa Rica,,,3.1
+2020,SN_ITK_DEFC,Costa Rica,,,3.1
+2021,SN_ITK_DEFC,Costa Rica,,,3.0
+2001,SN_ITK_DEFC,Croatia,,,6.9
+2002,SN_ITK_DEFC,Croatia,,,4.6
+2003,SN_ITK_DEFC,Croatia,,,3.6
+2004,SN_ITK_DEFC,Croatia,,,3.0
+2002,SN_ITK_DEFC,Slovakia,,,6.1
+2003,SN_ITK_DEFC,Slovakia,,,6.0
+2004,SN_ITK_DEFC,Slovakia,,,5.8
+2005,SN_ITK_DEFC,Slovakia,,,5.5
+2006,SN_ITK_DEFC,Slovakia,,,5.6
+2007,SN_ITK_DEFC,Slovakia,,,5.4
+2008,SN_ITK_DEFC,Slovakia,,,4.9
+2009,SN_ITK_DEFC,Slovakia,,,4.7
+2010,SN_ITK_DEFC,Slovakia,,,5.1
+2011,SN_ITK_DEFC,Slovakia,,,5.9
+2005,SN_ITK_DEFC,Croatia,,,2.5
+2006,SN_ITK_DEFC,Croatia,,,2.5
+2007,SN_ITK_DEFC,Croatia,,,2.5
+2008,SN_ITK_DEFC,Croatia,,,2.5
+2009,SN_ITK_DEFC,Croatia,,,2.5
+2010,SN_ITK_DEFC,Croatia,,,2.5
+2011,SN_ITK_DEFC,Croatia,,,2.7
+2012,SN_ITK_DEFC,Croatia,,,2.5
+2013,SN_ITK_DEFC,Croatia,,,2.5
+2014,SN_ITK_DEFC,Croatia,,,2.5
+2010,SN_ITK_DEFC,Azerbaijan,,,2.5
+2011,SN_ITK_DEFC,Azerbaijan,,,2.5
+2012,SN_ITK_DEFC,Azerbaijan,,,2.5
+2013,SN_ITK_DEFC,Azerbaijan,,,2.5
+2014,SN_ITK_DEFC,Azerbaijan,,,2.5
+2015,SN_ITK_DEFC,Azerbaijan,,,2.5
+2016,SN_ITK_DEFC,Azerbaijan,,,2.5
+2017,SN_ITK_DEFC,Azerbaijan,,,2.5
+2018,SN_ITK_DEFC,Azerbaijan,,,2.5
+2019,SN_ITK_DEFC,Azerbaijan,,,2.5
+2012,SN_ITK_DEFC,Slovakia,,,5.7
+2013,SN_ITK_DEFC,Slovakia,,,5.4
+2014,SN_ITK_DEFC,Slovakia,,,5.6
+2015,SN_ITK_DEFC,Slovakia,,,5.5
+2016,SN_ITK_DEFC,Slovakia,,,5.2
+2017,SN_ITK_DEFC,Slovakia,,,4.0
+2018,SN_ITK_DEFC,Slovakia,,,3.3
+2019,SN_ITK_DEFC,Slovakia,,,2.7
+2020,SN_ITK_DEFC,Slovakia,,,2.5
+2021,SN_ITK_DEFC,Slovakia,,,2.8
+2020,SN_ITK_DEFC,Azerbaijan,,,2.5
+2021,SN_ITK_DEFC,Azerbaijan,,,2.5
+2001,SN_ITK_DEFC,Australia,,,2.5
+2002,SN_ITK_DEFC,Australia,,,2.5
+2003,SN_ITK_DEFC,Australia,,,2.5
+2004,SN_ITK_DEFC,Australia,,,2.5
+2005,SN_ITK_DEFC,Australia,,,2.5
+2006,SN_ITK_DEFC,Australia,,,2.5
+2007,SN_ITK_DEFC,Australia,,,2.5
+2001,SN_ITK_DEFC,Viet Nam,,,19.5
+2002,SN_ITK_DEFC,Viet Nam,,,17.7
+2003,SN_ITK_DEFC,Viet Nam,,,16.0
+2004,SN_ITK_DEFC,Viet Nam,,,15.3
+2005,SN_ITK_DEFC,Viet Nam,,,15.2
+2006,SN_ITK_DEFC,Viet Nam,,,15.0
+2007,SN_ITK_DEFC,Viet Nam,,,13.8
+2008,SN_ITK_DEFC,Viet Nam,,,12.6
+2009,SN_ITK_DEFC,Viet Nam,,,11.1
+2010,SN_ITK_DEFC,Viet Nam,,,9.9
+2008,SN_ITK_DEFC,Australia,,,2.5
+2009,SN_ITK_DEFC,Australia,,,2.5
+2010,SN_ITK_DEFC,Australia,,,2.5
+2011,SN_ITK_DEFC,Australia,,,2.5
+2012,SN_ITK_DEFC,Australia,,,2.5
+2013,SN_ITK_DEFC,Australia,,,2.5
+2014,SN_ITK_DEFC,Australia,,,2.5
+2015,SN_ITK_DEFC,Australia,,,2.5
+2016,SN_ITK_DEFC,Australia,,,2.5
+2017,SN_ITK_DEFC,Australia,,,2.5
+2018,SN_ITK_DEFC,Australia,,,2.5
+2019,SN_ITK_DEFC,Australia,,,2.5
+2020,SN_ITK_DEFC,Australia,,,2.5
+2021,SN_ITK_DEFC,Australia,,,2.5
+2001,SN_ITK_DEFC,Austria,,,2.5
+2002,SN_ITK_DEFC,Austria,,,2.5
+2003,SN_ITK_DEFC,Austria,,,2.5
+2004,SN_ITK_DEFC,Austria,,,2.5
+2005,SN_ITK_DEFC,Austria,,,2.5
+2011,SN_ITK_DEFC,Viet Nam,,,8.6
+2012,SN_ITK_DEFC,Viet Nam,,,8.1
+2013,SN_ITK_DEFC,Viet Nam,,,7.6
+2014,SN_ITK_DEFC,Viet Nam,,,7.5
+2015,SN_ITK_DEFC,Viet Nam,,,7.1
+2016,SN_ITK_DEFC,Viet Nam,,,6.8
+2017,SN_ITK_DEFC,Viet Nam,,,6.4
+2018,SN_ITK_DEFC,Viet Nam,,,6.0
+2019,SN_ITK_DEFC,Viet Nam,,,5.5
+2020,SN_ITK_DEFC,Viet Nam,,,5.1
+2006,SN_ITK_DEFC,Austria,,,2.5
+2007,SN_ITK_DEFC,Austria,,,2.5
+2008,SN_ITK_DEFC,Austria,,,2.5
+2009,SN_ITK_DEFC,Austria,,,2.5
+2010,SN_ITK_DEFC,Austria,,,2.5
+2011,SN_ITK_DEFC,Austria,,,2.5
+2012,SN_ITK_DEFC,Austria,,,2.5
+2013,SN_ITK_DEFC,Austria,,,2.5
+2014,SN_ITK_DEFC,Austria,,,2.5
+2015,SN_ITK_DEFC,Austria,,,2.5
+2021,SN_ITK_DEFC,Viet Nam,,,5.0
+2001,SN_ITK_DEFC,Slovenia,,,2.5
+2002,SN_ITK_DEFC,Slovenia,,,2.5
+2003,SN_ITK_DEFC,Slovenia,,,2.5
+2004,SN_ITK_DEFC,Slovenia,,,2.5
+2005,SN_ITK_DEFC,Slovenia,,,2.5
+2006,SN_ITK_DEFC,Slovenia,,,2.5
+2007,SN_ITK_DEFC,Slovenia,,,2.5
+2008,SN_ITK_DEFC,Slovenia,,,2.5
+2009,SN_ITK_DEFC,Slovenia,,,2.5
+2015,SN_ITK_DEFC,Croatia,,,2.5
+2016,SN_ITK_DEFC,Croatia,,,2.5
+2017,SN_ITK_DEFC,Croatia,,,2.5
+2018,SN_ITK_DEFC,Croatia,,,2.5
+2019,SN_ITK_DEFC,Croatia,,,2.5
+2020,SN_ITK_DEFC,Croatia,,,2.5
+2021,SN_ITK_DEFC,Croatia,,,2.5
+2001,SN_ITK_DEFC,Cyprus,,,5.2
+2002,SN_ITK_DEFC,Cyprus,,,5.8
+2016,SN_ITK_DEFC,Austria,,,2.5
+2017,SN_ITK_DEFC,Austria,,,2.5
+2018,SN_ITK_DEFC,Austria,,,2.5
+2019,SN_ITK_DEFC,Austria,,,2.5
+2020,SN_ITK_DEFC,Austria,,,2.5
+2021,SN_ITK_DEFC,Austria,,,2.5
+2001,SN_ITK_DEFC,Armenia,,,25.7
+2002,SN_ITK_DEFC,Armenia,,,24.2
+2003,SN_ITK_DEFC,Armenia,,,20.8
+2004,SN_ITK_DEFC,Armenia,,,15.8
+2005,SN_ITK_DEFC,Armenia,,,12.3
+2006,SN_ITK_DEFC,Armenia,,,9.4
+2007,SN_ITK_DEFC,Armenia,,,7.1
+2008,SN_ITK_DEFC,Armenia,,,5.8
+2009,SN_ITK_DEFC,Armenia,,,3.9
+2010,SN_ITK_DEFC,Armenia,,,2.8
+2011,SN_ITK_DEFC,Armenia,,,2.5
+2012,SN_ITK_DEFC,Armenia,,,2.5
+2013,SN_ITK_DEFC,Armenia,,,2.5
+2003,SN_ITK_DEFC,Cyprus,,,6.2
+2004,SN_ITK_DEFC,Cyprus,,,7.0
+2005,SN_ITK_DEFC,Cyprus,,,7.7
+2006,SN_ITK_DEFC,Cyprus,,,7.7
+2007,SN_ITK_DEFC,Cyprus,,,7.1
+2008,SN_ITK_DEFC,Cyprus,,,6.7
+2009,SN_ITK_DEFC,Cyprus,,,5.0
+2010,SN_ITK_DEFC,Cyprus,,,3.3
+2011,SN_ITK_DEFC,Cyprus,,,2.5
+2012,SN_ITK_DEFC,Cyprus,,,2.5
+2013,SN_ITK_DEFC,Cyprus,,,2.5
+2014,SN_ITK_DEFC,Armenia,,,2.5
+2015,SN_ITK_DEFC,Armenia,,,2.5
+2016,SN_ITK_DEFC,Armenia,,,2.5
+2017,SN_ITK_DEFC,Armenia,,,2.5
+2018,SN_ITK_DEFC,Armenia,,,2.5
+2019,SN_ITK_DEFC,Armenia,,,2.5
+2020,SN_ITK_DEFC,Armenia,,,2.5
+2021,SN_ITK_DEFC,Armenia,,,2.5
+2001,SN_ITK_DEFC,Belgium,,,2.5
+2014,SN_ITK_DEFC,Cyprus,,,2.5
+2015,SN_ITK_DEFC,Cyprus,,,2.5
+2016,SN_ITK_DEFC,Cyprus,,,2.5
+2017,SN_ITK_DEFC,Cyprus,,,2.5
+2018,SN_ITK_DEFC,Cyprus,,,2.5
+2019,SN_ITK_DEFC,Cyprus,,,2.5
+2020,SN_ITK_DEFC,Cyprus,,,2.5
+2021,SN_ITK_DEFC,Cyprus,,,2.5
+2001,SN_ITK_DEFC,Czechia,,,2.5
+2002,SN_ITK_DEFC,Czechia,,,2.5
+2003,SN_ITK_DEFC,Czechia,,,2.5
+2004,SN_ITK_DEFC,Czechia,,,2.5
+2005,SN_ITK_DEFC,Czechia,,,2.5
+2006,SN_ITK_DEFC,Czechia,,,2.5
+2007,SN_ITK_DEFC,Czechia,,,2.5
+2008,SN_ITK_DEFC,Czechia,,,2.5
+2009,SN_ITK_DEFC,Czechia,,,2.5
+2010,SN_ITK_DEFC,Czechia,,,2.5
+2011,SN_ITK_DEFC,Czechia,,,2.5
+2012,SN_ITK_DEFC,Czechia,,,2.5
+2013,SN_ITK_DEFC,Czechia,,,2.5
+2014,SN_ITK_DEFC,Czechia,,,2.5
+2015,SN_ITK_DEFC,Czechia,,,2.5
+2016,SN_ITK_DEFC,Czechia,,,2.5
+2017,SN_ITK_DEFC,Czechia,,,2.5
+2018,SN_ITK_DEFC,Czechia,,,2.5
+2019,SN_ITK_DEFC,Czechia,,,2.5
+2020,SN_ITK_DEFC,Czechia,,,2.5
+2021,SN_ITK_DEFC,Czechia,,,2.5
+2002,SN_ITK_DEFC,Belgium,,,2.5
+2003,SN_ITK_DEFC,Belgium,,,2.5
+2004,SN_ITK_DEFC,Belgium,,,2.5
+2005,SN_ITK_DEFC,Belgium,,,2.5
+2006,SN_ITK_DEFC,Belgium,,,2.5
+2007,SN_ITK_DEFC,Belgium,,,2.5
+2008,SN_ITK_DEFC,Belgium,,,2.5
+2009,SN_ITK_DEFC,Belgium,,,2.5
+2010,SN_ITK_DEFC,Belgium,,,2.5
+2011,SN_ITK_DEFC,Belgium,,,2.5
+2001,SN_ITK_DEFC,Denmark,,,2.5
+2002,SN_ITK_DEFC,Denmark,,,2.5
+2003,SN_ITK_DEFC,Denmark,,,2.5
+2004,SN_ITK_DEFC,Denmark,,,2.5
+2005,SN_ITK_DEFC,Denmark,,,2.5
+2006,SN_ITK_DEFC,Denmark,,,2.5
+2007,SN_ITK_DEFC,Denmark,,,2.5
+2008,SN_ITK_DEFC,Denmark,,,2.5
+2009,SN_ITK_DEFC,Denmark,,,2.5
+2010,SN_ITK_DEFC,Denmark,,,2.5
+2012,SN_ITK_DEFC,Belgium,,,2.5
+2013,SN_ITK_DEFC,Belgium,,,2.5
+2014,SN_ITK_DEFC,Belgium,,,2.5
+2015,SN_ITK_DEFC,Belgium,,,2.5
+2016,SN_ITK_DEFC,Belgium,,,2.5
+2017,SN_ITK_DEFC,Belgium,,,2.5
+2018,SN_ITK_DEFC,Belgium,,,2.5
+2019,SN_ITK_DEFC,Belgium,,,2.5
+2020,SN_ITK_DEFC,Belgium,,,2.5
+2021,SN_ITK_DEFC,Belgium,,,2.5
+2010,SN_ITK_DEFC,Slovenia,,,2.5
+2011,SN_ITK_DEFC,Slovenia,,,2.5
+2012,SN_ITK_DEFC,Slovenia,,,2.5
+2013,SN_ITK_DEFC,Slovenia,,,2.5
+2014,SN_ITK_DEFC,Slovenia,,,2.5
+2015,SN_ITK_DEFC,Slovenia,,,2.5
+2016,SN_ITK_DEFC,Slovenia,,,2.5
+2017,SN_ITK_DEFC,Slovenia,,,2.5
+2018,SN_ITK_DEFC,Slovenia,,,2.5
+2019,SN_ITK_DEFC,Slovenia,,,2.5
+2020,SN_ITK_DEFC,Slovenia,,,2.5
+2021,SN_ITK_DEFC,Slovenia,,,2.5
+2001,SN_ITK_DEFC,Spain,,,2.5
+2002,SN_ITK_DEFC,Spain,,,2.5
+2003,SN_ITK_DEFC,Spain,,,2.5
+2004,SN_ITK_DEFC,Spain,,,2.5
+2005,SN_ITK_DEFC,Spain,,,2.5
+2006,SN_ITK_DEFC,Spain,,,2.5
+2007,SN_ITK_DEFC,Spain,,,2.5
+2008,SN_ITK_DEFC,Spain,,,2.5
+2001,SN_ITK_DEFC,Bosnia and Herzegovina,,,3.4
+2002,SN_ITK_DEFC,Bosnia and Herzegovina,,,3.2
+2003,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.7
+2004,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2005,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2006,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2007,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2008,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2009,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2009,SN_ITK_DEFC,Spain,,,2.5
+2010,SN_ITK_DEFC,Spain,,,2.5
+2011,SN_ITK_DEFC,Spain,,,2.5
+2012,SN_ITK_DEFC,Spain,,,2.5
+2013,SN_ITK_DEFC,Spain,,,2.5
+2014,SN_ITK_DEFC,Spain,,,2.5
+2015,SN_ITK_DEFC,Spain,,,2.5
+2016,SN_ITK_DEFC,Spain,,,2.5
+2017,SN_ITK_DEFC,Spain,,,2.5
+2018,SN_ITK_DEFC,Spain,,,2.5
+2019,SN_ITK_DEFC,Spain,,,2.5
+2011,SN_ITK_DEFC,Denmark,,,2.5
+2012,SN_ITK_DEFC,Denmark,,,2.5
+2013,SN_ITK_DEFC,Denmark,,,2.5
+2014,SN_ITK_DEFC,Denmark,,,2.5
+2015,SN_ITK_DEFC,Denmark,,,2.5
+2016,SN_ITK_DEFC,Denmark,,,2.5
+2017,SN_ITK_DEFC,Denmark,,,2.5
+2018,SN_ITK_DEFC,Denmark,,,2.5
+2019,SN_ITK_DEFC,Denmark,,,2.5
+2020,SN_ITK_DEFC,Denmark,,,2.5
+2010,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2011,SN_ITK_DEFC,Bosnia and Herzegovina,,,3.0
+2012,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.8
+2013,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2014,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2015,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2016,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2017,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2018,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2019,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2021,SN_ITK_DEFC,Denmark,,,2.5
+2001,SN_ITK_DEFC,Estonia,,,3.5
+2002,SN_ITK_DEFC,Estonia,,,3.5
+2003,SN_ITK_DEFC,Estonia,,,3.3
+2004,SN_ITK_DEFC,Estonia,,,2.8
+2005,SN_ITK_DEFC,Estonia,,,2.5
+2006,SN_ITK_DEFC,Estonia,,,2.5
+2007,SN_ITK_DEFC,Estonia,,,2.5
+2008,SN_ITK_DEFC,Estonia,,,2.5
+2009,SN_ITK_DEFC,Estonia,,,2.5
+2010,SN_ITK_DEFC,Estonia,,,2.5
+2011,SN_ITK_DEFC,Estonia,,,2.5
+2012,SN_ITK_DEFC,Estonia,,,2.5
+2013,SN_ITK_DEFC,Estonia,,,2.5
+2014,SN_ITK_DEFC,Estonia,,,2.5
+2015,SN_ITK_DEFC,Estonia,,,2.5
+2016,SN_ITK_DEFC,Estonia,,,2.5
+2017,SN_ITK_DEFC,Estonia,,,2.5
+2018,SN_ITK_DEFC,Estonia,,,2.5
+2019,SN_ITK_DEFC,Estonia,,,2.5
+2020,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2021,SN_ITK_DEFC,Bosnia and Herzegovina,,,2.5
+2001,SN_ITK_DEFC,Bulgaria,,,3.9
+2002,SN_ITK_DEFC,Bulgaria,,,4.1
+2003,SN_ITK_DEFC,Bulgaria,,,4.4
+2004,SN_ITK_DEFC,Bulgaria,,,4.8
+2005,SN_ITK_DEFC,Bulgaria,,,4.8
+2006,SN_ITK_DEFC,Bulgaria,,,5.0
+2007,SN_ITK_DEFC,Bulgaria,,,4.6
+2020,SN_ITK_DEFC,Estonia,,,2.5
+2021,SN_ITK_DEFC,Estonia,,,2.5
+2001,SN_ITK_DEFC,Finland,,,2.5
+2002,SN_ITK_DEFC,Finland,,,2.5
+2003,SN_ITK_DEFC,Finland,,,2.5
+2004,SN_ITK_DEFC,Finland,,,2.5
+2005,SN_ITK_DEFC,Finland,,,2.5
+2006,SN_ITK_DEFC,Finland,,,2.5
+2007,SN_ITK_DEFC,Finland,,,2.5
+2008,SN_ITK_DEFC,Finland,,,2.5
+2009,SN_ITK_DEFC,Finland,,,2.5
+2010,SN_ITK_DEFC,Finland,,,2.5
+2011,SN_ITK_DEFC,Finland,,,2.5
+2012,SN_ITK_DEFC,Finland,,,2.5
+2013,SN_ITK_DEFC,Finland,,,2.5
+2014,SN_ITK_DEFC,Finland,,,2.5
+2015,SN_ITK_DEFC,Finland,,,2.5
+2016,SN_ITK_DEFC,Finland,,,2.5
+2017,SN_ITK_DEFC,Finland,,,2.5
+2018,SN_ITK_DEFC,Finland,,,2.5
+2019,SN_ITK_DEFC,Finland,,,2.5
+2020,SN_ITK_DEFC,Finland,,,2.5
+2021,SN_ITK_DEFC,Finland,,,2.5
+2001,SN_ITK_DEFC,France,,,2.5
+2002,SN_ITK_DEFC,France,,,2.5
+2003,SN_ITK_DEFC,France,,,2.5
+2004,SN_ITK_DEFC,France,,,2.5
+2005,SN_ITK_DEFC,France,,,2.5
+2006,SN_ITK_DEFC,France,,,2.5
+2007,SN_ITK_DEFC,France,,,2.5
+2008,SN_ITK_DEFC,France,,,2.5
+2009,SN_ITK_DEFC,France,,,2.5
+2010,SN_ITK_DEFC,France,,,2.5
+2011,SN_ITK_DEFC,France,,,2.5
+2012,SN_ITK_DEFC,France,,,2.5
+2013,SN_ITK_DEFC,France,,,2.5
+2014,SN_ITK_DEFC,France,,,2.5
+2015,SN_ITK_DEFC,France,,,2.5
+2016,SN_ITK_DEFC,France,,,2.5
+2020,SN_ITK_DEFC,Spain,,,2.5
+2021,SN_ITK_DEFC,Spain,,,2.5
+2001,SN_ITK_DEFC,Sweden,,,2.5
+2002,SN_ITK_DEFC,Sweden,,,2.5
+2003,SN_ITK_DEFC,Sweden,,,2.5
+2004,SN_ITK_DEFC,Sweden,,,2.5
+2005,SN_ITK_DEFC,Sweden,,,2.5
+2006,SN_ITK_DEFC,Sweden,,,2.5
+2007,SN_ITK_DEFC,Sweden,,,2.5
+2008,SN_ITK_DEFC,Sweden,,,2.5
+2008,SN_ITK_DEFC,Bulgaria,,,4.4
+2009,SN_ITK_DEFC,Bulgaria,,,4.4
+2010,SN_ITK_DEFC,Bulgaria,,,4.6
+2011,SN_ITK_DEFC,Bulgaria,,,4.8
+2012,SN_ITK_DEFC,Bulgaria,,,4.3
+2013,SN_ITK_DEFC,Bulgaria,,,3.8
+2014,SN_ITK_DEFC,Bulgaria,,,3.8
+2015,SN_ITK_DEFC,Bulgaria,,,3.7
+2016,SN_ITK_DEFC,Bulgaria,,,3.8
+2017,SN_ITK_DEFC,Bulgaria,,,3.1
+2009,SN_ITK_DEFC,Sweden,,,2.5
+2010,SN_ITK_DEFC,Sweden,,,2.5
+2011,SN_ITK_DEFC,Sweden,,,2.5
+2012,SN_ITK_DEFC,Sweden,,,2.5
+2013,SN_ITK_DEFC,Sweden,,,2.5
+2014,SN_ITK_DEFC,Sweden,,,2.5
+2015,SN_ITK_DEFC,Sweden,,,2.5
+2016,SN_ITK_DEFC,Sweden,,,2.5
+2017,SN_ITK_DEFC,Sweden,,,2.5
+2018,SN_ITK_DEFC,Sweden,,,2.5
+2017,SN_ITK_DEFC,France,,,2.5
+2018,SN_ITK_DEFC,France,,,2.5
+2019,SN_ITK_DEFC,France,,,2.5
+2020,SN_ITK_DEFC,France,,,2.5
+2021,SN_ITK_DEFC,France,,,2.5
+2001,SN_ITK_DEFC,Georgia,,,7.2
+2002,SN_ITK_DEFC,Georgia,,,5.5
+2003,SN_ITK_DEFC,Georgia,,,4.5
+2004,SN_ITK_DEFC,Georgia,,,3.8
+2019,SN_ITK_DEFC,Sweden,,,2.5
+2020,SN_ITK_DEFC,Sweden,,,2.5
+2021,SN_ITK_DEFC,Sweden,,,2.5
+2001,SN_ITK_DEFC,Switzerland,,,2.5
+2002,SN_ITK_DEFC,Switzerland,,,2.5
+2003,SN_ITK_DEFC,Switzerland,,,2.5
+2004,SN_ITK_DEFC,Switzerland,,,2.5
+2005,SN_ITK_DEFC,Switzerland,,,2.5
+2006,SN_ITK_DEFC,Switzerland,,,2.5
+2005,SN_ITK_DEFC,Georgia,,,3.9
+2006,SN_ITK_DEFC,Georgia,,,3.9
+2007,SN_ITK_DEFC,Georgia,,,3.9
+2008,SN_ITK_DEFC,Georgia,,,3.5
+2009,SN_ITK_DEFC,Georgia,,,3.7
+2010,SN_ITK_DEFC,Georgia,,,4.2
+2011,SN_ITK_DEFC,Georgia,,,4.6
+2012,SN_ITK_DEFC,Georgia,,,4.3
+2013,SN_ITK_DEFC,Georgia,,,4.0
+2014,SN_ITK_DEFC,Georgia,,,3.6
+2015,SN_ITK_DEFC,Georgia,,,3.6
+2016,SN_ITK_DEFC,Georgia,,,3.7
+2017,SN_ITK_DEFC,Georgia,,,3.7
+2018,SN_ITK_DEFC,Georgia,,,3.1
+2019,SN_ITK_DEFC,Georgia,,,3.1
+2020,SN_ITK_DEFC,Georgia,,,3.0
+2021,SN_ITK_DEFC,Georgia,,,2.9
+2001,SN_ITK_DEFC,Germany,,,2.5
+2002,SN_ITK_DEFC,Germany,,,2.5
+2007,SN_ITK_DEFC,Switzerland,,,2.5
+2008,SN_ITK_DEFC,Switzerland,,,2.5
+2009,SN_ITK_DEFC,Switzerland,,,2.5
+2010,SN_ITK_DEFC,Switzerland,,,2.5
+2011,SN_ITK_DEFC,Switzerland,,,2.5
+2012,SN_ITK_DEFC,Switzerland,,,2.5
+2013,SN_ITK_DEFC,Switzerland,,,2.5
+2014,SN_ITK_DEFC,Switzerland,,,2.5
+2015,SN_ITK_DEFC,Switzerland,,,2.5
+2016,SN_ITK_DEFC,Switzerland,,,2.5
+2003,SN_ITK_DEFC,Germany,,,2.5
+2004,SN_ITK_DEFC,Germany,,,2.5
+2005,SN_ITK_DEFC,Germany,,,2.5
+2006,SN_ITK_DEFC,Germany,,,2.5
+2007,SN_ITK_DEFC,Germany,,,2.5
+2008,SN_ITK_DEFC,Germany,,,2.5
+2009,SN_ITK_DEFC,Germany,,,2.5
+2010,SN_ITK_DEFC,Germany,,,2.5
+2011,SN_ITK_DEFC,Germany,,,2.5
+2012,SN_ITK_DEFC,Germany,,,2.5
+2017,SN_ITK_DEFC,Switzerland,,,2.5
+2018,SN_ITK_DEFC,Switzerland,,,2.5
+2019,SN_ITK_DEFC,Switzerland,,,2.5
+2020,SN_ITK_DEFC,Switzerland,,,2.5
+2021,SN_ITK_DEFC,Switzerland,,,2.5
+2001,SN_ITK_DEFC,Tajikistan,,,40.4
+2002,SN_ITK_DEFC,Tajikistan,,,41.4
+2003,SN_ITK_DEFC,Tajikistan,,,41.8
+2004,SN_ITK_DEFC,Tajikistan,,,39.7
+2013,SN_ITK_DEFC,Germany,,,2.5
+2014,SN_ITK_DEFC,Germany,,,2.5
+2015,SN_ITK_DEFC,Germany,,,2.5
+2016,SN_ITK_DEFC,Germany,,,2.5
+2017,SN_ITK_DEFC,Germany,,,2.5
+2018,SN_ITK_DEFC,Germany,,,2.5
+2019,SN_ITK_DEFC,Germany,,,2.5
+2020,SN_ITK_DEFC,Germany,,,2.5
+2021,SN_ITK_DEFC,Germany,,,2.5
+2001,SN_ITK_DEFC,Greece,,,2.5
+2002,SN_ITK_DEFC,Greece,,,2.5
+2003,SN_ITK_DEFC,Greece,,,2.5
+2004,SN_ITK_DEFC,Greece,,,2.5
+2005,SN_ITK_DEFC,Greece,,,2.5
+2006,SN_ITK_DEFC,Greece,,,2.5
+2007,SN_ITK_DEFC,Greece,,,2.5
+2008,SN_ITK_DEFC,Greece,,,2.5
+2009,SN_ITK_DEFC,Greece,,,2.5
+2010,SN_ITK_DEFC,Greece,,,2.5
+2005,SN_ITK_DEFC,Tajikistan,,,37.6
+2006,SN_ITK_DEFC,Tajikistan,,,35.8
+2007,SN_ITK_DEFC,Tajikistan,,,35.2
+2008,SN_ITK_DEFC,Tajikistan,,,34.4
+2009,SN_ITK_DEFC,Tajikistan,,,30.7
+2010,SN_ITK_DEFC,Tajikistan,,,26.8
+2011,SN_ITK_DEFC,Tajikistan,,,23.1
+2012,SN_ITK_DEFC,Tajikistan,,,22.0
+2013,SN_ITK_DEFC,Tajikistan,,,20.8
+2014,SN_ITK_DEFC,Tajikistan,,,18.8
+2011,SN_ITK_DEFC,Greece,,,2.5
+2012,SN_ITK_DEFC,Greece,,,2.5
+2013,SN_ITK_DEFC,Greece,,,2.5
+2014,SN_ITK_DEFC,Greece,,,2.5
+2015,SN_ITK_DEFC,Greece,,,2.5
+2016,SN_ITK_DEFC,Greece,,,2.5
+2017,SN_ITK_DEFC,Greece,,,2.5
+2018,SN_ITK_DEFC,Greece,,,2.5
+2019,SN_ITK_DEFC,Greece,,,2.5
+2020,SN_ITK_DEFC,Greece,,,2.5
+2015,SN_ITK_DEFC,Tajikistan,,,16.3
+2016,SN_ITK_DEFC,Tajikistan,,,14.1
+2017,SN_ITK_DEFC,Tajikistan,,,12.3
+2018,SN_ITK_DEFC,Tajikistan,,,10.5
+2019,SN_ITK_DEFC,Tajikistan,,,9.8
+2020,SN_ITK_DEFC,Tajikistan,,,9.3
+2021,SN_ITK_DEFC,Tajikistan,,,9.3
+2001,SN_ITK_DEFC,United Arab Emirates,,,3.1
+2002,SN_ITK_DEFC,United Arab Emirates,,,3.9
+2021,SN_ITK_DEFC,Greece,,,2.5
+2001,SN_ITK_DEFC,Hungary,,,2.5
+2002,SN_ITK_DEFC,Hungary,,,2.5
+2003,SN_ITK_DEFC,Hungary,,,2.5
+2004,SN_ITK_DEFC,Hungary,,,2.5
+2005,SN_ITK_DEFC,Hungary,,,2.5
+2006,SN_ITK_DEFC,Hungary,,,2.5
+2007,SN_ITK_DEFC,Hungary,,,2.5
+2008,SN_ITK_DEFC,Hungary,,,2.5
+2009,SN_ITK_DEFC,Hungary,,,2.5
+2003,SN_ITK_DEFC,United Arab Emirates,,,5.0
+2004,SN_ITK_DEFC,United Arab Emirates,,,6.6
+2005,SN_ITK_DEFC,United Arab Emirates,,,7.6
+2006,SN_ITK_DEFC,United Arab Emirates,,,8.0
+2007,SN_ITK_DEFC,United Arab Emirates,,,7.9
+2008,SN_ITK_DEFC,United Arab Emirates,,,7.4
+2009,SN_ITK_DEFC,United Arab Emirates,,,7.9
+2010,SN_ITK_DEFC,United Arab Emirates,,,7.4
+2011,SN_ITK_DEFC,United Arab Emirates,,,6.9
+2012,SN_ITK_DEFC,United Arab Emirates,,,5.4
+2010,SN_ITK_DEFC,Hungary,,,2.5
+2011,SN_ITK_DEFC,Hungary,,,2.5
+2012,SN_ITK_DEFC,Hungary,,,2.5
+2013,SN_ITK_DEFC,Hungary,,,2.5
+2014,SN_ITK_DEFC,Hungary,,,2.5
+2015,SN_ITK_DEFC,Hungary,,,2.5
+2016,SN_ITK_DEFC,Hungary,,,2.5
+2017,SN_ITK_DEFC,Hungary,,,2.5
+2018,SN_ITK_DEFC,Hungary,,,2.5
+2019,SN_ITK_DEFC,Hungary,,,2.5
+2013,SN_ITK_DEFC,United Arab Emirates,,,4.9
+2014,SN_ITK_DEFC,United Arab Emirates,,,4.7
+2015,SN_ITK_DEFC,United Arab Emirates,,,4.8
+2016,SN_ITK_DEFC,United Arab Emirates,,,4.5
+2017,SN_ITK_DEFC,United Arab Emirates,,,4.3
+2018,SN_ITK_DEFC,United Arab Emirates,,,3.8
+2019,SN_ITK_DEFC,United Arab Emirates,,,3.4
+2020,SN_ITK_DEFC,United Arab Emirates,,,2.7
+2021,SN_ITK_DEFC,United Arab Emirates,,,2.5
+2020,SN_ITK_DEFC,Hungary,,,2.5
+2021,SN_ITK_DEFC,Hungary,,,2.5
+2001,SN_ITK_DEFC,Iceland,,,2.5
+2002,SN_ITK_DEFC,Iceland,,,2.5
+2003,SN_ITK_DEFC,Iceland,,,2.5
+2004,SN_ITK_DEFC,Iceland,,,2.5
+2005,SN_ITK_DEFC,Iceland,,,2.5
+2006,SN_ITK_DEFC,Iceland,,,2.5
+2007,SN_ITK_DEFC,Iceland,,,2.5
+2008,SN_ITK_DEFC,Iceland,,,2.5
+2001,SN_ITK_DEFC,Türkiye,,,2.5
+2002,SN_ITK_DEFC,Türkiye,,,2.5
+2003,SN_ITK_DEFC,Türkiye,,,2.5
+2004,SN_ITK_DEFC,Türkiye,,,2.5
+2005,SN_ITK_DEFC,Türkiye,,,2.5
+2006,SN_ITK_DEFC,Türkiye,,,2.5
+2007,SN_ITK_DEFC,Türkiye,,,2.5
+2008,SN_ITK_DEFC,Türkiye,,,2.5
+2009,SN_ITK_DEFC,Türkiye,,,2.5
+2010,SN_ITK_DEFC,Türkiye,,,2.5
+2009,SN_ITK_DEFC,Iceland,,,2.5
+2010,SN_ITK_DEFC,Iceland,,,2.5
+2011,SN_ITK_DEFC,Iceland,,,2.5
+2012,SN_ITK_DEFC,Iceland,,,2.5
+2013,SN_ITK_DEFC,Iceland,,,2.5
+2014,SN_ITK_DEFC,Iceland,,,2.5
+2015,SN_ITK_DEFC,Iceland,,,2.5
+2016,SN_ITK_DEFC,Iceland,,,2.5
+2017,SN_ITK_DEFC,Iceland,,,2.5
+2018,SN_ITK_DEFC,Iceland,,,2.5
+2019,SN_ITK_DEFC,Iceland,,,2.5
+2020,SN_ITK_DEFC,Iceland,,,2.5
+2021,SN_ITK_DEFC,Iceland,,,2.5
+2001,SN_ITK_DEFC,India,,,18.3
+2002,SN_ITK_DEFC,India,,,19.9
+2003,SN_ITK_DEFC,India,,,21.4
+2004,SN_ITK_DEFC,India,,,22.0
+2005,SN_ITK_DEFC,India,,,21.4
+2006,SN_ITK_DEFC,India,,,19.4
+2007,SN_ITK_DEFC,India,,,17.2
+2008,SN_ITK_DEFC,India,,,16.2
+2009,SN_ITK_DEFC,India,,,16.0
+2010,SN_ITK_DEFC,India,,,15.7
+2011,SN_ITK_DEFC,India,,,15.4
+2012,SN_ITK_DEFC,India,,,14.8
+2013,SN_ITK_DEFC,India,,,14.6
+2014,SN_ITK_DEFC,India,,,14.4
+2015,SN_ITK_DEFC,India,,,14.0
+2016,SN_ITK_DEFC,India,,,13.5
+2017,SN_ITK_DEFC,India,,,12.9
+2011,SN_ITK_DEFC,Türkiye,,,2.5
+2012,SN_ITK_DEFC,Türkiye,,,2.5
+2013,SN_ITK_DEFC,Türkiye,,,2.5
+2014,SN_ITK_DEFC,Türkiye,,,2.5
+2015,SN_ITK_DEFC,Türkiye,,,2.5
+2016,SN_ITK_DEFC,Türkiye,,,2.5
+2017,SN_ITK_DEFC,Türkiye,,,2.5
+2018,SN_ITK_DEFC,Türkiye,,,2.5
+2019,SN_ITK_DEFC,Türkiye,,,2.5
+2020,SN_ITK_DEFC,Türkiye,,,2.5
+2018,SN_ITK_DEFC,India,,,13.1
+2019,SN_ITK_DEFC,India,,,14.4
+2020,SN_ITK_DEFC,India,,,15.9
+2021,SN_ITK_DEFC,India,,,16.6
+2001,SN_ITK_DEFC,Ireland,,,2.5
+2002,SN_ITK_DEFC,Ireland,,,2.5
+2003,SN_ITK_DEFC,Ireland,,,2.5
+2004,SN_ITK_DEFC,Ireland,,,2.5
+2005,SN_ITK_DEFC,Ireland,,,2.5
+2006,SN_ITK_DEFC,Ireland,,,2.5
+2007,SN_ITK_DEFC,Ireland,,,2.5
+2008,SN_ITK_DEFC,Ireland,,,2.5
+2009,SN_ITK_DEFC,Ireland,,,2.5
+2010,SN_ITK_DEFC,Ireland,,,2.5
+2011,SN_ITK_DEFC,Ireland,,,2.5
+2012,SN_ITK_DEFC,Ireland,,,2.5
+2013,SN_ITK_DEFC,Ireland,,,2.5
+2014,SN_ITK_DEFC,Ireland,,,2.5
+2015,SN_ITK_DEFC,Ireland,,,2.5
+2016,SN_ITK_DEFC,Ireland,,,2.5
+2017,SN_ITK_DEFC,Ireland,,,2.5
+2018,SN_ITK_DEFC,Ireland,,,2.5
+2019,SN_ITK_DEFC,Ireland,,,2.5
+2020,SN_ITK_DEFC,Ireland,,,2.5
+2021,SN_ITK_DEFC,Ireland,,,2.5
+2001,SN_ITK_DEFC,Israel,,,2.5
+2002,SN_ITK_DEFC,Israel,,,2.5
+2003,SN_ITK_DEFC,Israel,,,2.5
+2004,SN_ITK_DEFC,Israel,,,2.5
+2005,SN_ITK_DEFC,Israel,,,2.5
+2006,SN_ITK_DEFC,Israel,,,2.5
+2007,SN_ITK_DEFC,Israel,,,2.5
+2008,SN_ITK_DEFC,Israel,,,2.5
+2009,SN_ITK_DEFC,Israel,,,2.5
+2010,SN_ITK_DEFC,Israel,,,2.5
+2011,SN_ITK_DEFC,Israel,,,2.5
+2012,SN_ITK_DEFC,Israel,,,2.5
+2013,SN_ITK_DEFC,Israel,,,2.5
+2014,SN_ITK_DEFC,Israel,,,2.5
+2015,SN_ITK_DEFC,Israel,,,2.5
+2016,SN_ITK_DEFC,Israel,,,2.5
+2017,SN_ITK_DEFC,Israel,,,2.5
+2018,SN_ITK_DEFC,Israel,,,2.5
+2019,SN_ITK_DEFC,Israel,,,2.5
+2020,SN_ITK_DEFC,Israel,,,2.5
+2021,SN_ITK_DEFC,Israel,,,2.5
+2001,SN_ITK_DEFC,Italy,,,2.5
+2021,SN_ITK_DEFC,Türkiye,,,2.5
+2001,SN_ITK_DEFC,Turkmenistan,,,6.4
+2002,SN_ITK_DEFC,Turkmenistan,,,5.9
+2003,SN_ITK_DEFC,Turkmenistan,,,5.1
+2004,SN_ITK_DEFC,Turkmenistan,,,4.5
+2005,SN_ITK_DEFC,Turkmenistan,,,4.2
+2006,SN_ITK_DEFC,Turkmenistan,,,4.0
+2007,SN_ITK_DEFC,Turkmenistan,,,4.0
+2008,SN_ITK_DEFC,Turkmenistan,,,3.9
+2009,SN_ITK_DEFC,Turkmenistan,,,4.9
+2002,SN_ITK_DEFC,Italy,,,2.5
+2003,SN_ITK_DEFC,Italy,,,2.5
+2004,SN_ITK_DEFC,Italy,,,2.5
+2005,SN_ITK_DEFC,Italy,,,2.5
+2006,SN_ITK_DEFC,Italy,,,2.5
+2007,SN_ITK_DEFC,Italy,,,2.5
+2008,SN_ITK_DEFC,Italy,,,2.5
+2009,SN_ITK_DEFC,Italy,,,2.5
+2010,SN_ITK_DEFC,Italy,,,2.5
+2011,SN_ITK_DEFC,Italy,,,2.5
+2012,SN_ITK_DEFC,Italy,,,2.5
+2010,SN_ITK_DEFC,Turkmenistan,,,5.9
+2011,SN_ITK_DEFC,Turkmenistan,,,6.7
+2012,SN_ITK_DEFC,Turkmenistan,,,6.7
+2013,SN_ITK_DEFC,Turkmenistan,,,6.3
+2014,SN_ITK_DEFC,Turkmenistan,,,5.8
+2015,SN_ITK_DEFC,Turkmenistan,,,5.5
+2016,SN_ITK_DEFC,Turkmenistan,,,5.6
+2017,SN_ITK_DEFC,Turkmenistan,,,5.6
+2018,SN_ITK_DEFC,Turkmenistan,,,5.8
+2019,SN_ITK_DEFC,Turkmenistan,,,5.8
+2013,SN_ITK_DEFC,Italy,,,2.5
+2014,SN_ITK_DEFC,Italy,,,2.5
+2015,SN_ITK_DEFC,Italy,,,2.5
+2016,SN_ITK_DEFC,Italy,,,2.5
+2017,SN_ITK_DEFC,Italy,,,2.5
+2018,SN_ITK_DEFC,Italy,,,2.5
+2019,SN_ITK_DEFC,Italy,,,2.5
+2020,SN_ITK_DEFC,Italy,,,2.5
+2021,SN_ITK_DEFC,Italy,,,2.5
+2020,SN_ITK_DEFC,Turkmenistan,,,5.8
+2021,SN_ITK_DEFC,Turkmenistan,,,5.7
+2001,SN_ITK_DEFC,Ukraine,,,3.0
+2002,SN_ITK_DEFC,Ukraine,,,2.5
+2003,SN_ITK_DEFC,Ukraine,,,2.5
+2004,SN_ITK_DEFC,Ukraine,,,2.5
+2005,SN_ITK_DEFC,Ukraine,,,2.5
+2006,SN_ITK_DEFC,Ukraine,,,2.5
+2007,SN_ITK_DEFC,Ukraine,,,2.5
+2001,SN_ITK_DEFC,Japan,,,2.5
+2002,SN_ITK_DEFC,Japan,,,2.5
+2003,SN_ITK_DEFC,Japan,,,2.5
+2004,SN_ITK_DEFC,Japan,,,2.5
+2005,SN_ITK_DEFC,Japan,,,2.5
+2006,SN_ITK_DEFC,Japan,,,2.5
+2007,SN_ITK_DEFC,Japan,,,2.5
+2008,SN_ITK_DEFC,Japan,,,2.5
+2009,SN_ITK_DEFC,Japan,,,2.6
+2010,SN_ITK_DEFC,Japan,,,2.8
+2011,SN_ITK_DEFC,Japan,,,2.6
+2012,SN_ITK_DEFC,Japan,,,2.5
+2013,SN_ITK_DEFC,Japan,,,2.5
+2014,SN_ITK_DEFC,Japan,,,2.5
+2015,SN_ITK_DEFC,Japan,,,2.5
+2016,SN_ITK_DEFC,Japan,,,2.5
+2017,SN_ITK_DEFC,Japan,,,2.5
+2018,SN_ITK_DEFC,Japan,,,2.5
+2019,SN_ITK_DEFC,Japan,,,2.5
+2020,SN_ITK_DEFC,Japan,,,2.7
+2021,SN_ITK_DEFC,Japan,,,3.2
+2008,SN_ITK_DEFC,Ukraine,,,2.5
+2009,SN_ITK_DEFC,Ukraine,,,2.5
+2010,SN_ITK_DEFC,Ukraine,,,2.5
+2011,SN_ITK_DEFC,Ukraine,,,2.5
+2012,SN_ITK_DEFC,Ukraine,,,2.5
+2013,SN_ITK_DEFC,Ukraine,,,2.5
+2014,SN_ITK_DEFC,Ukraine,,,2.5
+2015,SN_ITK_DEFC,Ukraine,,,2.5
+2016,SN_ITK_DEFC,Ukraine,,,2.5
+2017,SN_ITK_DEFC,Ukraine,,,2.5
+2001,SN_ITK_DEFC,Kazakhstan,,,6.3
+2002,SN_ITK_DEFC,Kazakhstan,,,6.4
+2003,SN_ITK_DEFC,Kazakhstan,,,7.0
+2004,SN_ITK_DEFC,Kazakhstan,,,7.3
+2005,SN_ITK_DEFC,Kazakhstan,,,7.2
+2006,SN_ITK_DEFC,Kazakhstan,,,6.2
+2007,SN_ITK_DEFC,Kazakhstan,,,5.0
+2008,SN_ITK_DEFC,Kazakhstan,,,4.2
+2009,SN_ITK_DEFC,Kazakhstan,,,3.7
+2010,SN_ITK_DEFC,Kazakhstan,,,3.1
+2011,SN_ITK_DEFC,Kazakhstan,,,2.6
+2012,SN_ITK_DEFC,Kazakhstan,,,2.5
+2013,SN_ITK_DEFC,Kazakhstan,,,2.5
+2014,SN_ITK_DEFC,Kazakhstan,,,2.5
+2015,SN_ITK_DEFC,Kazakhstan,,,2.5
+2016,SN_ITK_DEFC,Kazakhstan,,,2.5
+2017,SN_ITK_DEFC,Kazakhstan,,,2.5
+2018,SN_ITK_DEFC,Kazakhstan,,,2.5
+2019,SN_ITK_DEFC,Kazakhstan,,,2.5
+2020,SN_ITK_DEFC,Kazakhstan,,,2.5
+2018,SN_ITK_DEFC,Ukraine,,,2.8
+2019,SN_ITK_DEFC,Ukraine,,,3.6
+2020,SN_ITK_DEFC,Ukraine,,,4.1
+2021,SN_ITK_DEFC,Ukraine,,,4.8
+2001,SN_ITK_DEFC,North Macedonia,,,7.4
+2002,SN_ITK_DEFC,North Macedonia,,,7.4
+2003,SN_ITK_DEFC,North Macedonia,,,5.7
+2004,SN_ITK_DEFC,North Macedonia,,,5.4
+2005,SN_ITK_DEFC,North Macedonia,,,4.9
+2006,SN_ITK_DEFC,North Macedonia,,,4.4
+2007,SN_ITK_DEFC,North Macedonia,,,3.5
+2008,SN_ITK_DEFC,North Macedonia,,,2.8
+2009,SN_ITK_DEFC,North Macedonia,,,3.2
+2010,SN_ITK_DEFC,North Macedonia,,,3.5
+2011,SN_ITK_DEFC,North Macedonia,,,3.9
+2012,SN_ITK_DEFC,North Macedonia,,,3.9
+2013,SN_ITK_DEFC,North Macedonia,,,3.9
+2014,SN_ITK_DEFC,North Macedonia,,,3.8
+2015,SN_ITK_DEFC,North Macedonia,,,3.6
+2021,SN_ITK_DEFC,Kazakhstan,,,2.5
+2001,SN_ITK_DEFC,Republic of Korea,,,2.5
+2002,SN_ITK_DEFC,Republic of Korea,,,2.5
+2003,SN_ITK_DEFC,Republic of Korea,,,2.5
+2004,SN_ITK_DEFC,Republic of Korea,,,2.5
+2005,SN_ITK_DEFC,Republic of Korea,,,2.5
+2006,SN_ITK_DEFC,Republic of Korea,,,2.5
+2007,SN_ITK_DEFC,Republic of Korea,,,2.5
+2008,SN_ITK_DEFC,Republic of Korea,,,2.5
+2009,SN_ITK_DEFC,Republic of Korea,,,2.5
+2010,SN_ITK_DEFC,Republic of Korea,,,2.5
+2011,SN_ITK_DEFC,Republic of Korea,,,2.5
+2012,SN_ITK_DEFC,Republic of Korea,,,2.5
+2013,SN_ITK_DEFC,Republic of Korea,,,2.5
+2014,SN_ITK_DEFC,Republic of Korea,,,2.5
+2015,SN_ITK_DEFC,Republic of Korea,,,2.5
+2016,SN_ITK_DEFC,Republic of Korea,,,2.5
+2017,SN_ITK_DEFC,Republic of Korea,,,2.5
+2018,SN_ITK_DEFC,Republic of Korea,,,2.5
+2019,SN_ITK_DEFC,Republic of Korea,,,2.5
+2020,SN_ITK_DEFC,Republic of Korea,,,2.5
+2021,SN_ITK_DEFC,Republic of Korea,,,2.5
+2001,SN_ITK_DEFC,Kyrgyzstan,,,14.6
+2002,SN_ITK_DEFC,Kyrgyzstan,,,12.5
+2003,SN_ITK_DEFC,Kyrgyzstan,,,10.2
+2004,SN_ITK_DEFC,Kyrgyzstan,,,8.1
+2005,SN_ITK_DEFC,Kyrgyzstan,,,8.0
+2006,SN_ITK_DEFC,Kyrgyzstan,,,8.6
+2016,SN_ITK_DEFC,North Macedonia,,,3.3
+2017,SN_ITK_DEFC,North Macedonia,,,3.1
+2018,SN_ITK_DEFC,North Macedonia,,,2.8
+2019,SN_ITK_DEFC,North Macedonia,,,2.9
+2020,SN_ITK_DEFC,North Macedonia,,,3.2
+2021,SN_ITK_DEFC,North Macedonia,,,3.6
+2001,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2002,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2003,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2004,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2005,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2006,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2007,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2008,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2009,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2010,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2011,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2012,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2007,SN_ITK_DEFC,Kyrgyzstan,,,9.1
+2008,SN_ITK_DEFC,Kyrgyzstan,,,8.5
+2009,SN_ITK_DEFC,Kyrgyzstan,,,8.1
+2010,SN_ITK_DEFC,Kyrgyzstan,,,7.4
+2011,SN_ITK_DEFC,Kyrgyzstan,,,6.9
+2012,SN_ITK_DEFC,Kyrgyzstan,,,6.2
+2013,SN_ITK_DEFC,Kyrgyzstan,,,5.9
+2014,SN_ITK_DEFC,Kyrgyzstan,,,5.7
+2015,SN_ITK_DEFC,Kyrgyzstan,,,5.8
+2016,SN_ITK_DEFC,Kyrgyzstan,,,5.5
+2013,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2014,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2015,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2016,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2017,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2018,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2019,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2020,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2021,SN_ITK_DEFC,United Kingdom of Great Britain and Northern Ireland,,,2.5
+2017,SN_ITK_DEFC,Kyrgyzstan,,,5.1
+2018,SN_ITK_DEFC,Kyrgyzstan,,,4.5
+2019,SN_ITK_DEFC,Kyrgyzstan,,,4.5
+2020,SN_ITK_DEFC,Kyrgyzstan,,,4.6
+2021,SN_ITK_DEFC,Kyrgyzstan,,,4.8
+2001,SN_ITK_DEFC,Latvia,,,4.6
+2002,SN_ITK_DEFC,Latvia,,,3.4
+2003,SN_ITK_DEFC,Latvia,,,2.7
+2004,SN_ITK_DEFC,Latvia,,,2.5
+2001,SN_ITK_DEFC,Uzbekistan,,,18.0
+2002,SN_ITK_DEFC,Uzbekistan,,,19.3
+2003,SN_ITK_DEFC,Uzbekistan,,,18.7
+2004,SN_ITK_DEFC,Uzbekistan,,,16.8
+2005,SN_ITK_DEFC,Uzbekistan,,,14.8
+2006,SN_ITK_DEFC,Uzbekistan,,,12.7
+2007,SN_ITK_DEFC,Uzbekistan,,,11.5
+2008,SN_ITK_DEFC,Uzbekistan,,,11.3
+2009,SN_ITK_DEFC,Uzbekistan,,,8.6
+2010,SN_ITK_DEFC,Uzbekistan,,,5.8
+2011,SN_ITK_DEFC,Uzbekistan,,,2.8
+2012,SN_ITK_DEFC,Uzbekistan,,,2.5
+2013,SN_ITK_DEFC,Uzbekistan,,,2.5
+2014,SN_ITK_DEFC,Uzbekistan,,,2.5
+2015,SN_ITK_DEFC,Uzbekistan,,,2.5
+2016,SN_ITK_DEFC,Uzbekistan,,,2.5
+2017,SN_ITK_DEFC,Uzbekistan,,,2.5
+2018,SN_ITK_DEFC,Uzbekistan,,,2.5
+2019,SN_ITK_DEFC,Uzbekistan,,,2.5
+2020,SN_ITK_DEFC,Uzbekistan,,,2.5
+2005,SN_ITK_DEFC,Latvia,,,2.5
+2006,SN_ITK_DEFC,Latvia,,,2.5
+2007,SN_ITK_DEFC,Latvia,,,2.5
+2008,SN_ITK_DEFC,Latvia,,,2.5
+2009,SN_ITK_DEFC,Latvia,,,2.5
+2010,SN_ITK_DEFC,Latvia,,,2.5
+2011,SN_ITK_DEFC,Latvia,,,2.5
+2012,SN_ITK_DEFC,Latvia,,,2.5
+2013,SN_ITK_DEFC,Latvia,,,2.5
+2014,SN_ITK_DEFC,Latvia,,,2.5
+2015,SN_ITK_DEFC,Latvia,,,2.5
+2016,SN_ITK_DEFC,Latvia,,,2.5
+2017,SN_ITK_DEFC,Latvia,,,2.5
+2018,SN_ITK_DEFC,Latvia,,,2.5
+2019,SN_ITK_DEFC,Latvia,,,2.5
+2020,SN_ITK_DEFC,Latvia,,,2.5
+2021,SN_ITK_DEFC,Latvia,,,2.5
+2001,SN_ITK_DEFC,Lithuania,,,2.5
+2002,SN_ITK_DEFC,Lithuania,,,2.5
+2003,SN_ITK_DEFC,Lithuania,,,2.5
+2004,SN_ITK_DEFC,Lithuania,,,2.5
+2005,SN_ITK_DEFC,Lithuania,,,2.5
+2006,SN_ITK_DEFC,Lithuania,,,2.5
+2007,SN_ITK_DEFC,Lithuania,,,2.5
+2008,SN_ITK_DEFC,Lithuania,,,2.5
+2009,SN_ITK_DEFC,Lithuania,,,2.5
+2010,SN_ITK_DEFC,Lithuania,,,2.5
+2011,SN_ITK_DEFC,Lithuania,,,2.5
+2012,SN_ITK_DEFC,Lithuania,,,2.5
+2013,SN_ITK_DEFC,Lithuania,,,2.5
+2014,SN_ITK_DEFC,Lithuania,,,2.5
+2015,SN_ITK_DEFC,Lithuania,,,2.5
+2016,SN_ITK_DEFC,Lithuania,,,2.5
+2017,SN_ITK_DEFC,Lithuania,,,2.5
+2018,SN_ITK_DEFC,Lithuania,,,2.5
+2019,SN_ITK_DEFC,Lithuania,,,2.5
+2020,SN_ITK_DEFC,Lithuania,,,2.5
+2021,SN_ITK_DEFC,Lithuania,,,2.5
+2001,SN_ITK_DEFC,Luxembourg,,,2.5
+2002,SN_ITK_DEFC,Luxembourg,,,2.5
+2003,SN_ITK_DEFC,Luxembourg,,,2.5
+2004,SN_ITK_DEFC,Luxembourg,,,2.5
+2005,SN_ITK_DEFC,Luxembourg,,,2.5
+2006,SN_ITK_DEFC,Luxembourg,,,2.5
+2007,SN_ITK_DEFC,Luxembourg,,,2.5
+2008,SN_ITK_DEFC,Luxembourg,,,2.5
+2009,SN_ITK_DEFC,Luxembourg,,,2.5
+2010,SN_ITK_DEFC,Luxembourg,,,2.5
+2011,SN_ITK_DEFC,Luxembourg,,,2.5
+2012,SN_ITK_DEFC,Luxembourg,,,2.5
+2013,SN_ITK_DEFC,Luxembourg,,,2.5
+2014,SN_ITK_DEFC,Luxembourg,,,2.5
+2015,SN_ITK_DEFC,Luxembourg,,,2.5
+2016,SN_ITK_DEFC,Luxembourg,,,2.5
+2017,SN_ITK_DEFC,Luxembourg,,,2.5
+2018,SN_ITK_DEFC,Luxembourg,,,2.5
+2019,SN_ITK_DEFC,Luxembourg,,,2.5
+2020,SN_ITK_DEFC,Luxembourg,,,2.5
+2021,SN_ITK_DEFC,Luxembourg,,,2.5
+2001,SN_ITK_DEFC,Malta,,,2.5
+2002,SN_ITK_DEFC,Malta,,,2.5
+2003,SN_ITK_DEFC,Malta,,,2.5
+2004,SN_ITK_DEFC,Malta,,,2.5
+2005,SN_ITK_DEFC,Malta,,,2.5
+2006,SN_ITK_DEFC,Malta,,,2.5
+2007,SN_ITK_DEFC,Malta,,,2.5
+2008,SN_ITK_DEFC,Malta,,,2.5
+2009,SN_ITK_DEFC,Malta,,,2.5
+2010,SN_ITK_DEFC,Malta,,,2.5
+2011,SN_ITK_DEFC,Malta,,,2.5
+2012,SN_ITK_DEFC,Malta,,,2.5
+2013,SN_ITK_DEFC,Malta,,,2.5
+2014,SN_ITK_DEFC,Malta,,,2.5
+2015,SN_ITK_DEFC,Malta,,,2.5
+2016,SN_ITK_DEFC,Malta,,,2.5
+2017,SN_ITK_DEFC,Malta,,,2.5
+2018,SN_ITK_DEFC,Malta,,,2.5
+2019,SN_ITK_DEFC,Malta,,,2.8
+2020,SN_ITK_DEFC,Malta,,,3.7
+2021,SN_ITK_DEFC,Malta,,,4.6
+2001,SN_ITK_DEFC,Mexico,,,3.2
+2002,SN_ITK_DEFC,Mexico,,,3.6
+2003,SN_ITK_DEFC,Mexico,,,4.2
+2004,SN_ITK_DEFC,Mexico,,,4.6
+2005,SN_ITK_DEFC,Mexico,,,4.4
+2006,SN_ITK_DEFC,Mexico,,,4.1
+2007,SN_ITK_DEFC,Mexico,,,4.1
+2008,SN_ITK_DEFC,Mexico,,,4.4
+2009,SN_ITK_DEFC,Mexico,,,4.5
+2010,SN_ITK_DEFC,Mexico,,,4.4
+2011,SN_ITK_DEFC,Mexico,,,4.1
+2012,SN_ITK_DEFC,Mexico,,,4.0
+2013,SN_ITK_DEFC,Mexico,,,4.0
+2014,SN_ITK_DEFC,Mexico,,,4.0
+2015,SN_ITK_DEFC,Mexico,,,3.9
+2016,SN_ITK_DEFC,Mexico,,,3.8
+2017,SN_ITK_DEFC,Mexico,,,3.8
+2018,SN_ITK_DEFC,Mexico,,,3.4
+2019,SN_ITK_DEFC,Mexico,,,2.8
+2020,SN_ITK_DEFC,Mexico,,,2.5
+2021,SN_ITK_DEFC,Mexico,,,2.5
+2001,SN_ITK_DEFC,Republic of Moldova,,,24.4
+2002,SN_ITK_DEFC,Republic of Moldova,,,27.1
+2003,SN_ITK_DEFC,Republic of Moldova,,,29.8
+2004,SN_ITK_DEFC,Republic of Moldova,,,32.3
+2005,SN_ITK_DEFC,Republic of Moldova,,,33.4
+2006,SN_ITK_DEFC,Republic of Moldova,,,32.4
+2007,SN_ITK_DEFC,Republic of Moldova,,,29.8
+2008,SN_ITK_DEFC,Republic of Moldova,,,27.7
+2009,SN_ITK_DEFC,Republic of Moldova,,,19.9
+2010,SN_ITK_DEFC,Republic of Moldova,,,12.2
+2011,SN_ITK_DEFC,Republic of Moldova,,,3.1
+2012,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2013,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2014,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2015,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2016,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2017,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2018,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2019,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2020,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2021,SN_ITK_DEFC,Republic of Moldova,,,2.5
+2001,SN_ITK_DEFC,Montenegro,,,9.6
+2002,SN_ITK_DEFC,Montenegro,,,9.1
+2003,SN_ITK_DEFC,Montenegro,,,8.3
+2004,SN_ITK_DEFC,Montenegro,,,7.6
+2005,SN_ITK_DEFC,Montenegro,,,5.4
+2006,SN_ITK_DEFC,Montenegro,,,3.1
+2007,SN_ITK_DEFC,Montenegro,,,2.5
+2008,SN_ITK_DEFC,Montenegro,,,2.5
+2009,SN_ITK_DEFC,Montenegro,,,2.5
+2010,SN_ITK_DEFC,Montenegro,,,2.5
+2011,SN_ITK_DEFC,Montenegro,,,2.5
+2012,SN_ITK_DEFC,Montenegro,,,2.5
+2013,SN_ITK_DEFC,Montenegro,,,2.5
+2014,SN_ITK_DEFC,Montenegro,,,2.5
+2015,SN_ITK_DEFC,Montenegro,,,2.5
+2016,SN_ITK_DEFC,Montenegro,,,2.5
+2017,SN_ITK_DEFC,Montenegro,,,2.5
+2018,SN_ITK_DEFC,Montenegro,,,2.5
+2019,SN_ITK_DEFC,Montenegro,,,2.5
+2020,SN_ITK_DEFC,Montenegro,,,2.5
+2021,SN_ITK_DEFC,Montenegro,,,2.5
+2001,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2002,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2003,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2004,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2005,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2006,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2007,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2008,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2009,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2010,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2011,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2012,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2013,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2014,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2015,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2016,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2017,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2018,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2019,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2020,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2021,SN_ITK_DEFC,Netherlands (Kingdom of the),,,2.5
+2001,SN_ITK_DEFC,New Zealand,,,2.5
+2002,SN_ITK_DEFC,New Zealand,,,2.5
+2003,SN_ITK_DEFC,New Zealand,,,2.5
+2004,SN_ITK_DEFC,New Zealand,,,2.5
+2005,SN_ITK_DEFC,New Zealand,,,2.5
+2006,SN_ITK_DEFC,New Zealand,,,2.5
+2007,SN_ITK_DEFC,New Zealand,,,2.5
+2008,SN_ITK_DEFC,New Zealand,,,2.5
+2009,SN_ITK_DEFC,New Zealand,,,2.5
+2010,SN_ITK_DEFC,New Zealand,,,2.5
+2011,SN_ITK_DEFC,New Zealand,,,2.5
+2012,SN_ITK_DEFC,New Zealand,,,2.5
+2013,SN_ITK_DEFC,New Zealand,,,2.5
+2014,SN_ITK_DEFC,New Zealand,,,2.5
+2015,SN_ITK_DEFC,New Zealand,,,2.5
+2016,SN_ITK_DEFC,New Zealand,,,2.5
+2017,SN_ITK_DEFC,New Zealand,,,2.5
+2018,SN_ITK_DEFC,New Zealand,,,2.5
+2019,SN_ITK_DEFC,New Zealand,,,2.5
+2020,SN_ITK_DEFC,New Zealand,,,2.5
+2021,SN_ITK_DEFC,New Zealand,,,2.5
+2001,SN_ITK_DEFC,Norway,,,2.5
+2002,SN_ITK_DEFC,Norway,,,2.5
+2003,SN_ITK_DEFC,Norway,,,2.5
+2004,SN_ITK_DEFC,Norway,,,2.5
+2005,SN_ITK_DEFC,Norway,,,2.5
+2006,SN_ITK_DEFC,Norway,,,2.5
+2007,SN_ITK_DEFC,Norway,,,2.5
+2008,SN_ITK_DEFC,Norway,,,2.5
+2009,SN_ITK_DEFC,Norway,,,2.5
+2010,SN_ITK_DEFC,Norway,,,2.5
+2011,SN_ITK_DEFC,Norway,,,2.5
+2012,SN_ITK_DEFC,Norway,,,2.5
+2013,SN_ITK_DEFC,Norway,,,2.5
+2014,SN_ITK_DEFC,Norway,,,2.5
+2015,SN_ITK_DEFC,Norway,,,2.5
+2016,SN_ITK_DEFC,Norway,,,2.5
+2017,SN_ITK_DEFC,Norway,,,2.5
+2018,SN_ITK_DEFC,Norway,,,2.5
+2019,SN_ITK_DEFC,Norway,,,2.5
+2020,SN_ITK_DEFC,Norway,,,2.5
+2021,SN_ITK_DEFC,Norway,,,2.5
+2001,SN_ITK_DEFC,Poland,,,2.5
+2002,SN_ITK_DEFC,Poland,,,2.5
+2003,SN_ITK_DEFC,Poland,,,2.5
+2004,SN_ITK_DEFC,Poland,,,2.5
+2005,SN_ITK_DEFC,Poland,,,2.5
+2006,SN_ITK_DEFC,Poland,,,2.5
+2007,SN_ITK_DEFC,Poland,,,2.5
+2008,SN_ITK_DEFC,Poland,,,2.5
+2009,SN_ITK_DEFC,Poland,,,2.5
+2010,SN_ITK_DEFC,Poland,,,2.5
+2011,SN_ITK_DEFC,Poland,,,2.5
+2012,SN_ITK_DEFC,Poland,,,2.5
+2013,SN_ITK_DEFC,Poland,,,2.5
+2014,SN_ITK_DEFC,Poland,,,2.5
+2015,SN_ITK_DEFC,Poland,,,2.5
+2016,SN_ITK_DEFC,Poland,,,2.5
+2017,SN_ITK_DEFC,Poland,,,2.5
+2018,SN_ITK_DEFC,Poland,,,2.5
+2019,SN_ITK_DEFC,Poland,,,2.5
+2020,SN_ITK_DEFC,Poland,,,2.5
+2021,SN_ITK_DEFC,Poland,,,2.5
+2001,SN_ITK_DEFC,Portugal,,,2.5
+2002,SN_ITK_DEFC,Portugal,,,2.5
+2003,SN_ITK_DEFC,Portugal,,,2.5
+2004,SN_ITK_DEFC,Portugal,,,2.5
+2005,SN_ITK_DEFC,Portugal,,,2.5
+2006,SN_ITK_DEFC,Portugal,,,2.5
+2007,SN_ITK_DEFC,Portugal,,,2.5
+2008,SN_ITK_DEFC,Portugal,,,2.5
+2009,SN_ITK_DEFC,Portugal,,,2.5
+2010,SN_ITK_DEFC,Portugal,,,2.5
+2011,SN_ITK_DEFC,Portugal,,,2.5
+2012,SN_ITK_DEFC,Portugal,,,2.5
+2013,SN_ITK_DEFC,Portugal,,,2.5
+2014,SN_ITK_DEFC,Portugal,,,2.5
+2015,SN_ITK_DEFC,Portugal,,,2.5
+2016,SN_ITK_DEFC,Portugal,,,2.5
+2017,SN_ITK_DEFC,Portugal,,,2.5
+2018,SN_ITK_DEFC,Portugal,,,2.5
+2019,SN_ITK_DEFC,Portugal,,,2.5
+2020,SN_ITK_DEFC,Portugal,,,2.5
+2021,SN_ITK_DEFC,Portugal,,,2.5
+2001,SN_ITK_DEFC,Romania,,,2.5
+2002,SN_ITK_DEFC,Romania,,,2.5
+2003,SN_ITK_DEFC,Romania,,,2.5
+2004,SN_ITK_DEFC,Romania,,,2.5
+2005,SN_ITK_DEFC,Romania,,,2.5
+2006,SN_ITK_DEFC,Romania,,,2.5
+2007,SN_ITK_DEFC,Romania,,,2.5
+2008,SN_ITK_DEFC,Romania,,,2.5
+2009,SN_ITK_DEFC,Romania,,,2.5
+2010,SN_ITK_DEFC,Romania,,,2.5
+2011,SN_ITK_DEFC,Romania,,,2.5
+2012,SN_ITK_DEFC,Romania,,,2.5
+2013,SN_ITK_DEFC,Romania,,,2.5
+2014,SN_ITK_DEFC,Romania,,,2.5
+2015,SN_ITK_DEFC,Romania,,,2.5
+2016,SN_ITK_DEFC,Romania,,,2.5
+2017,SN_ITK_DEFC,Romania,,,2.5
+2018,SN_ITK_DEFC,Romania,,,2.5
+2019,SN_ITK_DEFC,Romania,,,2.5
+2020,SN_ITK_DEFC,Romania,,,2.5
+2021,SN_ITK_DEFC,Romania,,,2.5
+2001,SN_ITK_DEFC,Serbia,,,3.5
+2002,SN_ITK_DEFC,Serbia,,,3.3
+2003,SN_ITK_DEFC,Serbia,,,2.9
+2018,SN_ITK_DEFC,Bulgaria,,,2.8
+2019,SN_ITK_DEFC,Bulgaria,,,2.7
+2020,SN_ITK_DEFC,Bulgaria,,,2.5
+2021,SN_ITK_DEFC,Bulgaria,,,2.5
+2021,SN_ITK_DEFC,Uzbekistan,,,2.5

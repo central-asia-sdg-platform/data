@@ -12,8 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOH_SXPH",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Israel",
+                "Italy",
+                "Republic of Korea",
+                "Slovenia",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

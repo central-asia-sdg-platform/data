@@ -1,0 +1,168 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_NET_BBND",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Canada",
+                "Albania",
+                "Hungary",
+                "Netherlands (Kingdom of the)",
+                "Chile",
+                "Azerbaijan",
+                "Iceland",
+                "China",
+                "Australia",
+                "Colombia",
+                "India",
+                "Austria",
+                "Ireland",
+                "Armenia",
+                "Israel",
+                "Costa Rica",
+                "Italy",
+                "Belgium",
+                "Croatia",
+                "Japan",
+                "Bosnia and Herzegovina",
+                "Казахстан",
+                "Cyprus",
+                "New Zealand",
+                "Republic of Korea",
+                "Bulgaria",
+                "Czechia",
+                "Norway",
+                "Кыргызстан",
+                "Poland",
+                "Denmark",
+                "Latvia",
+                "Portugal",
+                "Switzerland",
+                "Таджикистан",
+                "Estonia",
+                "United Arab Emirates",
+                "Liechtenstein",
+                "Finland",
+                "Lithuania",
+                "Türkiye",
+                "Luxembourg",
+                "France",
+                "Malta",
+                "Georgia",
+                "Туркменистан",
+                "Ukraine",
+                "Germany",
+                "North Macedonia",
+                "Romania",
+                "Mexico",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Greece",
+                "Republic of Moldova",
+                "Узбекистан",
+                "Montenegro",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10MBPS",
+                "2MT10MBPS",
+                "256KT2MBPS",
+                "ANYS",
+                ""
+              ]
+            },
+            "title": "Type of speed"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-1-IT_NET_BBND",
+  "title": "meta.name-17-6-1-IT_NET_BBND"
+}

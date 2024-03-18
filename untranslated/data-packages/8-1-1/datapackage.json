@@ -12,7 +12,89 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NY_GDP_PCAP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Greece",
+                "Azerbaijan",
+                "Hungary",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Iceland",
+                "Bosnia and Herzegovina",
+                "India",
+                "Ireland",
+                "Bulgaria",
+                "Belarus",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Canada",
+                "Kazakhstan",
+                "Chile",
+                "Republic of Korea",
+                "China",
+                "Kyrgyzstan",
+                "Colombia",
+                "Latvia",
+                "Costa Rica",
+                "Liechtenstein",
+                "Croatia",
+                "Lithuania",
+                "Luxembourg",
+                "Cyprus",
+                "Czechia",
+                "Malta",
+                "Denmark",
+                "Mexico",
+                "Estonia",
+                "Republic of Moldova",
+                "Finland",
+                "France",
+                "Montenegro",
+                "Georgia",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Germany",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

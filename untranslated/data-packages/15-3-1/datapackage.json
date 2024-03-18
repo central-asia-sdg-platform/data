@@ -12,7 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_DGRD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Australia",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Czechia",
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Greece",
+                "Hungary",
+                "India",
+                "Italy",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Poland",
+                "Portugal",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

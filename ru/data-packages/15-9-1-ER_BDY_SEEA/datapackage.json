@@ -1,0 +1,118 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_BDY_SEEA",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Level/Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LS_COMPDISSE",
+                "_T",
+                "LS_COMP",
+                "LS_DISSEM",
+                ""
+              ]
+            },
+            "title": "Level/Status"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-9-1-ER_BDY_SEEA",
+  "title": "meta.name-15-9-1-ER_BDY_SEEA"
+}

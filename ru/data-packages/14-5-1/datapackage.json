@@ -12,8 +12,73 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_MRN_MPA",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Costa Rica",
+                "Australia",
+                "Ireland",
+                "Croatia",
+                "Albania",
+                "Israel",
+                "Cyprus",
+                "Italy",
+                "New Zealand",
+                "Japan",
+                "Denmark",
+                "Norway",
+                "Estonia",
+                "Poland",
+                "Finland",
+                "France",
+                "Republic of Korea",
+                "Georgia",
+                "Germany",
+                "Latvia",
+                "Belgium",
+                "Greece",
+                "Lithuania",
+                "Iceland",
+                "India",
+                "Malta",
+                "Spain",
+                "Mexico",
+                "Sweden",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Bulgaria",
+                "Portugal",
+                "Romania",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Canada",
+                "Chile",
+                "Viet Nam",
+                "Slovenia",
+                "China",
+                "Colombia",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

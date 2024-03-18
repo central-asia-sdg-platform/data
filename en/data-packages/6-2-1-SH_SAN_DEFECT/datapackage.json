@@ -1,0 +1,127 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SAN_DEFECT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Bulgaria",
+                "Estonia",
+                "Kazakhstan",
+                "Azerbaijan",
+                "Belarus",
+                "Australia",
+                "Finland",
+                "Canada",
+                "Austria",
+                "France",
+                "Chile",
+                "Armenia",
+                "Georgia",
+                "China",
+                "Republic of Korea",
+                "Belgium",
+                "Germany",
+                "Kyrgyzstan",
+                "Colombia",
+                "Greece",
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Costa Rica",
+                "Latvia",
+                "Iceland",
+                "India",
+                "New Zealand",
+                "Ireland",
+                "Croatia",
+                "Israel",
+                "Cyprus",
+                "Liechtenstein",
+                "Italy",
+                "Norway",
+                "Lithuania",
+                "Japan",
+                "Poland",
+                "Spain",
+                "Portugal",
+                "Czechia",
+                "Sweden",
+                "Romania",
+                "Switzerland",
+                "Denmark",
+                "Serbia",
+                "Tajikistan",
+                "Slovakia",
+                "United Arab Emirates",
+                "Viet Nam",
+                "Türkiye",
+                "Slovenia",
+                "Turkmenistan",
+                "Ukraine",
+                "Luxembourg",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All areas",
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1-SH_SAN_DEFECT",
+  "title": "meta.name-6-2-1-SH_SAN_DEFECT"
+}

@@ -12,8 +12,123 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_NMRT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Kyrgyzstan",
+                "Austria",
+                "Latvia",
+                "Armenia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "New Zealand",
+                "Norway",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Viet Nam",
+                "Slovenia",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Spain",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<1M",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

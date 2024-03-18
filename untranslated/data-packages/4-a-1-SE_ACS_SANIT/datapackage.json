@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ACS_SANIT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Lithuania",
+                "Mexico",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "Belarus",
+                "China",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Costa Rica",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Slovakia",
+                "Hungary",
+                "Viet Nam",
+                "Slovenia",
+                "India",
+                "Spain",
+                "Switzerland",
+                "Israel",
+                "United Arab Emirates",
+                "Turkmenistan",
+                "Uzbekistan",
+                "Italy",
+                "Republic of Korea",
+                "Latvia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UPPSEC",
+                "PRIMAR",
+                "LOWSEC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1-SE_ACS_SANIT",
+  "title": "meta.name-4-a-1-SE_ACS_SANIT"
+}

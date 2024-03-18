@@ -1,0 +1,268 @@
+Year,SeriesCode,Country,Quantile,Value
+2008,SI_COV_SOCINS,Albania,Quantile 1 (poorest),48.43734
+2008,SI_COV_SOCINS,Albania,Total or no breakdown,45.93881
+2012,SI_COV_SOCINS,Albania,Quantile 1 (poorest),38.22971
+2012,SI_COV_SOCINS,Albania,Total or no breakdown,36.25506
+2015,SI_COV_SOCINS,Azerbaijan,Quantile 1 (poorest),56.98233
+2015,SI_COV_SOCINS,Azerbaijan,Total or no breakdown,50.6121
+2008,SI_COV_SOCINS,Armenia,Total or no breakdown,49.99086
+2008,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),55.33722
+2009,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),55.07897
+2009,SI_COV_SOCINS,Armenia,Total or no breakdown,51.284
+2010,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),54.16628
+2010,SI_COV_SOCINS,Armenia,Total or no breakdown,52.10611
+2011,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),53.53614
+2011,SI_COV_SOCINS,Armenia,Total or no breakdown,52.87971
+2012,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),56.42332
+2012,SI_COV_SOCINS,Armenia,Total or no breakdown,53.36276
+2013,SI_COV_SOCINS,Armenia,Total or no breakdown,53.03151
+2013,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),56.69281
+2014,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),56.99563
+2014,SI_COV_SOCINS,Armenia,Total or no breakdown,54.75134
+2015,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),56.56097
+2015,SI_COV_SOCINS,Armenia,Total or no breakdown,53.41843
+2016,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),55.48178
+2016,SI_COV_SOCINS,Armenia,Total or no breakdown,51.89175
+2017,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),57.52963
+2017,SI_COV_SOCINS,Armenia,Total or no breakdown,55.05737
+2018,SI_COV_SOCINS,Armenia,Quantile 1 (poorest),55.90557
+2018,SI_COV_SOCINS,Armenia,Total or no breakdown,52.32998
+2007,SI_COV_SOCINS,Bosnia and Herzegovina,Total or no breakdown,41.52379
+2007,SI_COV_SOCINS,Bosnia and Herzegovina,Quantile 1 (poorest),36.91917
+2015,SI_COV_SOCINS,Bosnia and Herzegovina,Quantile 1 (poorest),37.2437
+2015,SI_COV_SOCINS,Bosnia and Herzegovina,Total or no breakdown,40.16296
+2007,SI_COV_SOCINS,Bulgaria,Quantile 1 (poorest),48.19672
+2007,SI_COV_SOCINS,Bulgaria,Total or no breakdown,47.71536
+2008,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),39.38569
+2008,SI_COV_SOCINS,Belarus,Total or no breakdown,43.08533
+2009,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),36.75283
+2009,SI_COV_SOCINS,Belarus,Total or no breakdown,40.88504
+2010,SI_COV_SOCINS,Belarus,Total or no breakdown,42.38952
+2010,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),37.15201
+2012,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),42.49706
+2012,SI_COV_SOCINS,Belarus,Total or no breakdown,47.92547
+2013,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),48.98092
+2013,SI_COV_SOCINS,Belarus,Total or no breakdown,48.6875
+2014,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),39.41911
+2014,SI_COV_SOCINS,Belarus,Total or no breakdown,47.1448
+2015,SI_COV_SOCINS,Belarus,Total or no breakdown,49.69061
+2015,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),40.68515
+2016,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),39.14599
+2016,SI_COV_SOCINS,Belarus,Total or no breakdown,49.98795
+2017,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),42.9981
+2017,SI_COV_SOCINS,Belarus,Total or no breakdown,50.66548
+2018,SI_COV_SOCINS,Belarus,Total or no breakdown,48.91627
+2018,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),41.22598
+2019,SI_COV_SOCINS,Belarus,Quantile 1 (poorest),41.4284
+2019,SI_COV_SOCINS,Belarus,Total or no breakdown,47.47545
+2006,SI_COV_SOCINS,Chile,Quantile 1 (poorest),24.4576
+2006,SI_COV_SOCINS,Chile,Total or no breakdown,31.87976
+2009,SI_COV_SOCINS,Chile,Quantile 1 (poorest),36.86726
+2009,SI_COV_SOCINS,Chile,Total or no breakdown,41.25616
+2011,SI_COV_SOCINS,Chile,Quantile 1 (poorest),15.62684
+2011,SI_COV_SOCINS,Chile,Total or no breakdown,23.64044
+2013,SI_COV_SOCINS,Chile,Quantile 1 (poorest),40.72819
+2013,SI_COV_SOCINS,Chile,Total or no breakdown,44.39475
+2015,SI_COV_SOCINS,Chile,Total or no breakdown,44.9127
+2015,SI_COV_SOCINS,Chile,Quantile 1 (poorest),41.8645
+2017,SI_COV_SOCINS,Chile,Quantile 1 (poorest),40.63829
+2017,SI_COV_SOCINS,Chile,Total or no breakdown,45.67106
+2013,SI_COV_SOCINS,China,Total or no breakdown,35.57958
+2013,SI_COV_SOCINS,China,Quantile 1 (poorest),33.86544
+2010,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),1.17068
+2010,SI_COV_SOCINS,Colombia,Total or no breakdown,9.93494
+2011,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.5957
+2011,SI_COV_SOCINS,Colombia,Total or no breakdown,9.61441
+2012,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.43718
+2012,SI_COV_SOCINS,Colombia,Total or no breakdown,8.89796
+2014,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.58883
+2014,SI_COV_SOCINS,Colombia,Total or no breakdown,9.27032
+2015,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.77319
+2015,SI_COV_SOCINS,Colombia,Total or no breakdown,10.65736
+2016,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.64442
+2016,SI_COV_SOCINS,Colombia,Total or no breakdown,10.7572
+2017,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.62177
+2017,SI_COV_SOCINS,Colombia,Total or no breakdown,10.4588
+2018,SI_COV_SOCINS,Colombia,Total or no breakdown,10.73056
+2018,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.62755
+2019,SI_COV_SOCINS,Colombia,Quantile 1 (poorest),0.57035
+2019,SI_COV_SOCINS,Colombia,Total or no breakdown,10.82088
+2008,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),7.5709
+2008,SI_COV_SOCINS,Costa Rica,Total or no breakdown,12.94454
+2009,SI_COV_SOCINS,Costa Rica,Total or no breakdown,18.83602
+2009,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),14.60432
+2010,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),4.91342
+2010,SI_COV_SOCINS,Costa Rica,Total or no breakdown,14.0517
+2011,SI_COV_SOCINS,Costa Rica,Total or no breakdown,14.4034
+2011,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),5.12052
+2012,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),4.61524
+2012,SI_COV_SOCINS,Costa Rica,Total or no breakdown,15.02844
+2014,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),5.43211
+2014,SI_COV_SOCINS,Costa Rica,Total or no breakdown,15.56914
+2015,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),4.84241
+2015,SI_COV_SOCINS,Costa Rica,Total or no breakdown,15.66321
+2016,SI_COV_SOCINS,Costa Rica,Total or no breakdown,16.53164
+2016,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),5.35591
+2017,SI_COV_SOCINS,Costa Rica,Total or no breakdown,18.2801
+2017,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),7.16438
+2018,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),6.4428
+2018,SI_COV_SOCINS,Costa Rica,Total or no breakdown,18.23503
+2019,SI_COV_SOCINS,Costa Rica,Quantile 1 (poorest),6.96194
+2019,SI_COV_SOCINS,Costa Rica,Total or no breakdown,18.3545
+2008,SI_COV_SOCINS,Croatia,Quantile 1 (poorest),59.36819
+2008,SI_COV_SOCINS,Croatia,Total or no breakdown,54.74313
+2010,SI_COV_SOCINS,Croatia,Quantile 1 (poorest),58.13471
+2010,SI_COV_SOCINS,Croatia,Total or no breakdown,57.51293
+2011,SI_COV_SOCINS,Croatia,Quantile 1 (poorest),54.28465
+2011,SI_COV_SOCINS,Croatia,Total or no breakdown,56.34707
+2014,SI_COV_SOCINS,Croatia,Quantile 1 (poorest),52.84615
+2014,SI_COV_SOCINS,Croatia,Total or no breakdown,52.55622
+2007,SI_COV_SOCINS,Hungary,Total or no breakdown,57.12081
+2007,SI_COV_SOCINS,Hungary,Quantile 1 (poorest),49.8638
+2011,SI_COV_SOCINS,India,Total or no breakdown,17.66352
+2011,SI_COV_SOCINS,India,Quantile 1 (poorest),23.88358
+2007,SI_COV_SOCINS,Kazakhstan,Total or no breakdown,29.15654
+2007,SI_COV_SOCINS,Kazakhstan,Quantile 1 (poorest),28.81919
+2010,SI_COV_SOCINS,Kazakhstan,Total or no breakdown,28.94987
+2010,SI_COV_SOCINS,Kazakhstan,Quantile 1 (poorest),30.58772
+2014,SI_COV_SOCINS,Kazakhstan,Total or no breakdown,1.08673
+2014,SI_COV_SOCINS,Kazakhstan,Quantile 1 (poorest),1.07339
+2015,SI_COV_SOCINS,Kazakhstan,Total or no breakdown,28.67696
+2015,SI_COV_SOCINS,Kazakhstan,Quantile 1 (poorest),25.95332
+2017,SI_COV_SOCINS,Kazakhstan,Total or no breakdown,31.52141
+2017,SI_COV_SOCINS,Kazakhstan,Quantile 1 (poorest),29.62957
+2006,SI_COV_SOCINS,Kyrgyzstan,Total or no breakdown,30.466
+2006,SI_COV_SOCINS,Kyrgyzstan,Quantile 1 (poorest),32.70928
+2011,SI_COV_SOCINS,Kyrgyzstan,Total or no breakdown,40.22305
+2011,SI_COV_SOCINS,Kyrgyzstan,Quantile 1 (poorest),40.76887
+2012,SI_COV_SOCINS,Kyrgyzstan,Total or no breakdown,41.64056
+2012,SI_COV_SOCINS,Kyrgyzstan,Quantile 1 (poorest),46.2475
+2013,SI_COV_SOCINS,Kyrgyzstan,Total or no breakdown,39.34975
+2013,SI_COV_SOCINS,Kyrgyzstan,Quantile 1 (poorest),42.87701
+2008,SI_COV_SOCINS,Latvia,Total or no breakdown,52.44336
+2008,SI_COV_SOCINS,Latvia,Quantile 1 (poorest),53.4027
+2009,SI_COV_SOCINS,Latvia,Total or no breakdown,45.72375
+2009,SI_COV_SOCINS,Latvia,Quantile 1 (poorest),46.83668
+2008,SI_COV_SOCINS,Lithuania,Total or no breakdown,45.03508
+2008,SI_COV_SOCINS,Lithuania,Quantile 1 (poorest),52.56267
+2008,SI_COV_SOCINS,Mexico,Total or no breakdown,50.4692
+2008,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),18.39764
+2010,SI_COV_SOCINS,Mexico,Total or no breakdown,50.51169
+2010,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),20.37995
+2012,SI_COV_SOCINS,Mexico,Total or no breakdown,46.95763
+2012,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),16.00755
+2014,SI_COV_SOCINS,Mexico,Total or no breakdown,41.88906
+2014,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),14.80199
+2016,SI_COV_SOCINS,Mexico,Total or no breakdown,13.60153
+2016,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),3.62874
+2018,SI_COV_SOCINS,Mexico,Total or no breakdown,13.85704
+2018,SI_COV_SOCINS,Mexico,Quantile 1 (poorest),4.61933
+2010,SI_COV_SOCINS,Moldova,Total or no breakdown,40.90168
+2010,SI_COV_SOCINS,Moldova,Quantile 1 (poorest),41.76811
+2012,SI_COV_SOCINS,Moldova,Total or no breakdown,43.21226
+2012,SI_COV_SOCINS,Moldova,Quantile 1 (poorest),47.27366
+2013,SI_COV_SOCINS,Moldova,Total or no breakdown,43.89808
+2013,SI_COV_SOCINS,Moldova,Quantile 1 (poorest),43.69588
+2018,SI_COV_SOCINS,Moldova,Total or no breakdown,47.82854
+2018,SI_COV_SOCINS,Moldova,Quantile 1 (poorest),49.52814
+2011,SI_COV_SOCINS,Montenegro,Quantile 1 (poorest),41.20343
+2011,SI_COV_SOCINS,Montenegro,Total or no breakdown,52.94489
+2012,SI_COV_SOCINS,Montenegro,Total or no breakdown,46.60048
+2012,SI_COV_SOCINS,Montenegro,Quantile 1 (poorest),43.56685
+2013,SI_COV_SOCINS,Montenegro,Total or no breakdown,45.53042
+2013,SI_COV_SOCINS,Montenegro,Quantile 1 (poorest),38.93858
+2014,SI_COV_SOCINS,Montenegro,Total or no breakdown,47.93255
+2014,SI_COV_SOCINS,Montenegro,Quantile 1 (poorest),51.86142
+2005,SI_COV_SOCINS,Poland,Quantile 1 (poorest),39.25168
+2005,SI_COV_SOCINS,Poland,Total or no breakdown,48.39835
+2006,SI_COV_SOCINS,Poland,Quantile 1 (poorest),39.79638
+2006,SI_COV_SOCINS,Poland,Total or no breakdown,47.92795
+2007,SI_COV_SOCINS,Poland,Total or no breakdown,46.97133
+2007,SI_COV_SOCINS,Poland,Quantile 1 (poorest),42.15918
+2008,SI_COV_SOCINS,Poland,Quantile 1 (poorest),43.20438
+2008,SI_COV_SOCINS,Poland,Total or no breakdown,46.43935
+2009,SI_COV_SOCINS,Poland,Total or no breakdown,45.79225
+2009,SI_COV_SOCINS,Poland,Quantile 1 (poorest),43.284
+2010,SI_COV_SOCINS,Poland,Total or no breakdown,45.36842
+2010,SI_COV_SOCINS,Poland,Quantile 1 (poorest),42.37389
+2011,SI_COV_SOCINS,Poland,Total or no breakdown,44.9534
+2011,SI_COV_SOCINS,Poland,Quantile 1 (poorest),42.30273
+2012,SI_COV_SOCINS,Poland,Total or no breakdown,43.78843
+2012,SI_COV_SOCINS,Poland,Quantile 1 (poorest),40.12679
+2015,SI_COV_SOCINS,Poland,Total or no breakdown,43.9165
+2015,SI_COV_SOCINS,Poland,Quantile 1 (poorest),41.54022
+2008,SI_COV_SOCINS,Romania,Total or no breakdown,48.72031
+2008,SI_COV_SOCINS,Romania,Quantile 1 (poorest),39.42234
+2011,SI_COV_SOCINS,Romania,Total or no breakdown,47.22108
+2011,SI_COV_SOCINS,Romania,Quantile 1 (poorest),33.14628
+2012,SI_COV_SOCINS,Romania,Total or no breakdown,46.85994
+2012,SI_COV_SOCINS,Romania,Quantile 1 (poorest),35.36956
+2016,SI_COV_SOCINS,Romania,Total or no breakdown,43.43829
+2016,SI_COV_SOCINS,Romania,Quantile 1 (poorest),32.62705
+2007,SI_COV_SOCINS,Serbia,Quantile 1 (poorest),51.91541
+2007,SI_COV_SOCINS,Serbia,Total or no breakdown,55.15486
+2010,SI_COV_SOCINS,Serbia,Total or no breakdown,58.62822
+2010,SI_COV_SOCINS,Serbia,Quantile 1 (poorest),52.82341
+2013,SI_COV_SOCINS,Serbia,Total or no breakdown,56.39749
+2013,SI_COV_SOCINS,Serbia,Quantile 1 (poorest),54.21211
+2015,SI_COV_SOCINS,Serbia,Total or no breakdown,52.09603
+2015,SI_COV_SOCINS,Serbia,Quantile 1 (poorest),54.33775
+2009,SI_COV_SOCINS,Slovakia,Total or no breakdown,49.71548
+2009,SI_COV_SOCINS,Slovakia,Quantile 1 (poorest),37.03136
+2006,SI_COV_SOCINS,Viet Nam,Total or no breakdown,17.15988
+2006,SI_COV_SOCINS,Viet Nam,Quantile 1 (poorest),5.51185
+2010,SI_COV_SOCINS,Viet Nam,Total or no breakdown,14.09235
+2010,SI_COV_SOCINS,Viet Nam,Quantile 1 (poorest),2.15204
+2012,SI_COV_SOCINS,Viet Nam,Total or no breakdown,14.41072
+2012,SI_COV_SOCINS,Viet Nam,Quantile 1 (poorest),2.82493
+2014,SI_COV_SOCINS,Viet Nam,Total or no breakdown,15.24924
+2014,SI_COV_SOCINS,Viet Nam,Quantile 1 (poorest),3.11494
+2011,SI_COV_SOCINS,Tajikistan,Total or no breakdown,34.14921
+2011,SI_COV_SOCINS,Tajikistan,Quantile 1 (poorest),39.02356
+2004,SI_COV_SOCINS,Türkiye,Total or no breakdown,29.41039
+2004,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),10.20627
+2005,SI_COV_SOCINS,Türkiye,Total or no breakdown,31.01974
+2005,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),12.52796
+2006,SI_COV_SOCINS,Türkiye,Total or no breakdown,30.75011
+2006,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),14.56179
+2007,SI_COV_SOCINS,Türkiye,Total or no breakdown,32.37928
+2007,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),13.71986
+2008,SI_COV_SOCINS,Türkiye,Total or no breakdown,34.62112
+2008,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),18.61754
+2009,SI_COV_SOCINS,Türkiye,Total or no breakdown,33.12108
+2009,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),19.41439
+2010,SI_COV_SOCINS,Türkiye,Total or no breakdown,33.48719
+2010,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),20.75345
+2011,SI_COV_SOCINS,Türkiye,Total or no breakdown,34.19545
+2011,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),17.47794
+2012,SI_COV_SOCINS,Türkiye,Total or no breakdown,35.42014
+2012,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),24.8178
+2013,SI_COV_SOCINS,Türkiye,Total or no breakdown,36.52974
+2013,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),27.42889
+2014,SI_COV_SOCINS,Türkiye,Total or no breakdown,37.10573
+2014,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),29.86824
+2015,SI_COV_SOCINS,Türkiye,Total or no breakdown,36.53475
+2015,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),25.12815
+2016,SI_COV_SOCINS,Türkiye,Total or no breakdown,36.06028
+2016,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),24.93845
+2018,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),29.41236
+2018,SI_COV_SOCINS,Türkiye,Total or no breakdown,37.82278
+2019,SI_COV_SOCINS,Türkiye,Quantile 1 (poorest),26.32725
+2019,SI_COV_SOCINS,Türkiye,Total or no breakdown,37.17265
+2006,SI_COV_SOCINS,Ukraine,Total or no breakdown,50.74009
+2006,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),49.61937
+2011,SI_COV_SOCINS,Ukraine,Total or no breakdown,51.86992
+2011,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),53.96686
+2012,SI_COV_SOCINS,Ukraine,Total or no breakdown,51.08607
+2012,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),51.6594
+2013,SI_COV_SOCINS,Ukraine,Total or no breakdown,51.05892
+2013,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),50.24238
+2015,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),51.18166
+2015,SI_COV_SOCINS,Ukraine,Total or no breakdown,51.42217
+2016,SI_COV_SOCINS,Ukraine,Total or no breakdown,50.31639
+2016,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),50.34688
+2018,SI_COV_SOCINS,Ukraine,Total or no breakdown,49.76429
+2018,SI_COV_SOCINS,Ukraine,Quantile 1 (poorest),52.28722
+2018,SI_COV_SOCINS,Uzbekistan,Total or no breakdown,20.11999
+2018,SI_COV_SOCINS,Uzbekistan,Quantile 1 (poorest),18.2763
+2018,SI_COV_SOCINS,Uzbekistan,Quantile 1 (poorest),18.2763

@@ -1,0 +1,111 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_ORTIND",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Hungary",
+                "Armenia",
+                "Iceland",
+                "Belgium",
+                "Bulgaria",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Belarus",
+                "Netherlands (Kingdom of the)",
+                "Canada",
+                "New Zealand",
+                "Chile",
+                "China",
+                "Norway",
+                "Colombia",
+                "Poland",
+                "Costa Rica",
+                "Portugal",
+                "Croatia",
+                "Cyprus",
+                "Romania",
+                "Czechia",
+                "Denmark",
+                "Serbia",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-1-AG_PRD_ORTIND",
+  "title": "meta.name-2-a-1-AG_PRD_ORTIND"
+}

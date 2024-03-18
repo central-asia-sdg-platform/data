@@ -1,0 +1,104 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_FRSTMGT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                "Albania",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-2-1-AG_LND_FRSTMGT",
+  "title": "meta.name-15-2-1-AG_LND_FRSTMGT"
+}

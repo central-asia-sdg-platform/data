@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_PLN_PRVRICTRY",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Denmark",
+                "Finland",
+                "France",
+                "Germany",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                "Luxembourg",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Australia",
+                "Austria",
+                "Belgium",
+                "Canada",
+                "China",
+                "Czechia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-15-1-SG_PLN_PRVRICTRY",
+  "title": "meta.name-17-15-1-SG_PLN_PRVRICTRY"
+}

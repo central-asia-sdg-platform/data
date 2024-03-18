@@ -1,1 +1,6 @@
-Year,Value
+Year,SeriesCode,Country,Disability status,Sex,Value
+2022,SP_DISP_RESOL,Canada,Total or no breakdown,Both sexes,65.89
+2022,SP_DISP_RESOL,Colombia,Total or no breakdown,Female,46.42
+2022,SP_DISP_RESOL,Colombia,Total or no breakdown,Both sexes,46.57
+2022,SP_DISP_RESOL,Colombia,Total or no breakdown,Male,46.71
+2022,SP_DISP_RESOL,Colombia,Total or no breakdown,Male,46.71

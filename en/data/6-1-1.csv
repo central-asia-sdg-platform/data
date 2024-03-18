@@ -1,1 +1,2390 @@
-Year,Value
+Year,SeriesCode,Country,Location,Value
+2013,SH_H2O_SAFE,Chile,Urban,99.20481
+2013,SH_H2O_SAFE,Chile,All areas,97.6581
+2014,SH_H2O_SAFE,Chile,All areas,98.08776
+2014,SH_H2O_SAFE,Chile,Urban,99.25043
+2015,SH_H2O_SAFE,Chile,All areas,98.38247
+2015,SH_H2O_SAFE,Chile,Urban,99.29604
+2016,SH_H2O_SAFE,Chile,All areas,98.57763
+2016,SH_H2O_SAFE,Chile,Urban,99.34164
+2017,SH_H2O_SAFE,Chile,All areas,98.77024
+2017,SH_H2O_SAFE,Chile,Urban,99.38724
+2018,SH_H2O_SAFE,Chile,All areas,98.77137
+2018,SH_H2O_SAFE,Chile,Urban,99.42182
+2019,SH_H2O_SAFE,Chile,Urban,99.42182
+2019,SH_H2O_SAFE,Chile,All areas,98.77137
+2020,SH_H2O_SAFE,Chile,Urban,99.42182
+2020,SH_H2O_SAFE,Chile,All areas,98.77137
+2021,SH_H2O_SAFE,Chile,All areas,98.77137
+2021,SH_H2O_SAFE,Chile,Urban,99.42182
+2022,SH_H2O_SAFE,Chile,Urban,99.42182
+2022,SH_H2O_SAFE,Chile,All areas,98.77136
+2000,SH_H2O_SAFE,Albania,All areas,49.13832
+2001,SH_H2O_SAFE,Albania,All areas,49.0812
+2002,SH_H2O_SAFE,Albania,All areas,48.98477
+2003,SH_H2O_SAFE,Albania,All areas,48.88545
+2004,SH_H2O_SAFE,Albania,All areas,50.71768
+2005,SH_H2O_SAFE,Albania,All areas,52.57833
+2006,SH_H2O_SAFE,Albania,All areas,54.46708
+2007,SH_H2O_SAFE,Albania,All areas,56.38384
+2008,SH_H2O_SAFE,Albania,All areas,58.32848
+2009,SH_H2O_SAFE,Albania,All areas,60.30091
+2000,SH_H2O_SAFE,China,Urban,89.53876
+2001,SH_H2O_SAFE,China,Urban,89.53876
+2002,SH_H2O_SAFE,China,Urban,89.55752
+2003,SH_H2O_SAFE,China,Urban,89.57627
+2004,SH_H2O_SAFE,China,Urban,89.59503
+2005,SH_H2O_SAFE,China,Urban,89.61378
+2006,SH_H2O_SAFE,China,Urban,89.63254
+2007,SH_H2O_SAFE,China,Urban,89.65129
+2008,SH_H2O_SAFE,China,Urban,89.67005
+2009,SH_H2O_SAFE,China,Urban,89.6888
+2010,SH_H2O_SAFE,Albania,All areas,62.30063
+2011,SH_H2O_SAFE,Albania,All areas,64.3274
+2012,SH_H2O_SAFE,Albania,All areas,66.38085
+2013,SH_H2O_SAFE,Albania,All areas,68.45983
+2014,SH_H2O_SAFE,Albania,All areas,70.56326
+2015,SH_H2O_SAFE,Albania,All areas,70.59197
+2016,SH_H2O_SAFE,Albania,All areas,70.61651
+2017,SH_H2O_SAFE,Albania,All areas,70.63694
+2018,SH_H2O_SAFE,Albania,All areas,70.65335
+2019,SH_H2O_SAFE,Albania,All areas,70.66586
+2010,SH_H2O_SAFE,China,Urban,89.70756
+2011,SH_H2O_SAFE,China,Urban,90.52677
+2012,SH_H2O_SAFE,China,Urban,91.34632
+2013,SH_H2O_SAFE,China,Urban,92.1662
+2014,SH_H2O_SAFE,China,Urban,92.98642
+2015,SH_H2O_SAFE,China,Urban,93.80697
+2016,SH_H2O_SAFE,China,Urban,94.62786
+2017,SH_H2O_SAFE,China,Urban,95.44908
+2018,SH_H2O_SAFE,China,Urban,96.27064
+2019,SH_H2O_SAFE,China,Urban,97.09253
+2002,SH_H2O_SAFE,Republic of Korea,All areas,97.10565
+2003,SH_H2O_SAFE,Republic of Korea,All areas,97.10565
+2004,SH_H2O_SAFE,Republic of Korea,All areas,97.10565
+2005,SH_H2O_SAFE,Republic of Korea,All areas,97.10565
+2006,SH_H2O_SAFE,Republic of Korea,All areas,97.10565
+2007,SH_H2O_SAFE,Republic of Korea,All areas,97.27112
+2008,SH_H2O_SAFE,Republic of Korea,All areas,97.43673
+2009,SH_H2O_SAFE,Republic of Korea,All areas,97.60248
+2010,SH_H2O_SAFE,Republic of Korea,All areas,97.76837
+2011,SH_H2O_SAFE,Republic of Korea,All areas,97.9344
+2020,SH_H2O_SAFE,China,Urban,97.48117
+2021,SH_H2O_SAFE,China,Urban,97.68575
+2022,SH_H2O_SAFE,China,Urban,97.87385
+2000,SH_H2O_SAFE,Colombia,Urban,80.63933
+2000,SH_H2O_SAFE,Colombia,Rural,34.21683
+2000,SH_H2O_SAFE,Colombia,All areas,68.54952
+2001,SH_H2O_SAFE,Colombia,Urban,80.70569
+2001,SH_H2O_SAFE,Colombia,All areas,68.86417
+2001,SH_H2O_SAFE,Colombia,Rural,34.48768
+2002,SH_H2O_SAFE,Colombia,Rural,34.75853
+2002,SH_H2O_SAFE,Colombia,Urban,80.77205
+2002,SH_H2O_SAFE,Colombia,All areas,69.17526
+2003,SH_H2O_SAFE,Colombia,Urban,80.83841
+2003,SH_H2O_SAFE,Colombia,Rural,35.02937
+2003,SH_H2O_SAFE,Colombia,All areas,69.48281
+2004,SH_H2O_SAFE,Colombia,All areas,69.78638
+2004,SH_H2O_SAFE,Colombia,Urban,80.90477
+2004,SH_H2O_SAFE,Colombia,Rural,35.30022
+2005,SH_H2O_SAFE,Colombia,All areas,70.08601
+2005,SH_H2O_SAFE,Colombia,Rural,35.57107
+2005,SH_H2O_SAFE,Colombia,Urban,80.97113
+2006,SH_H2O_SAFE,Colombia,Urban,81.03749
+2006,SH_H2O_SAFE,Colombia,Rural,35.84191
+2006,SH_H2O_SAFE,Colombia,All areas,70.38173
+2007,SH_H2O_SAFE,Colombia,All areas,70.63542
+2007,SH_H2O_SAFE,Colombia,Urban,81.05478
+2007,SH_H2O_SAFE,Colombia,Rural,36.11276
+2008,SH_H2O_SAFE,Colombia,Urban,81.072
+2008,SH_H2O_SAFE,Colombia,Rural,36.38361
+2008,SH_H2O_SAFE,Colombia,All areas,70.88484
+2009,SH_H2O_SAFE,Colombia,Urban,81.08913
+2009,SH_H2O_SAFE,Colombia,Rural,36.65445
+2009,SH_H2O_SAFE,Colombia,All areas,71.12999
+2010,SH_H2O_SAFE,Colombia,Rural,36.9253
+2010,SH_H2O_SAFE,Colombia,All areas,71.37048
+2010,SH_H2O_SAFE,Colombia,Urban,81.10618
+2011,SH_H2O_SAFE,Colombia,Urban,81.12316
+2011,SH_H2O_SAFE,Colombia,Rural,37.19615
+2011,SH_H2O_SAFE,Colombia,All areas,71.60637
+2012,SH_H2O_SAFE,Colombia,Urban,81.14005
+2012,SH_H2O_SAFE,Colombia,Rural,37.46699
+2012,SH_H2O_SAFE,Colombia,All areas,71.83812
+2013,SH_H2O_SAFE,Colombia,All areas,72.06536
+2013,SH_H2O_SAFE,Colombia,Rural,37.73784
+2013,SH_H2O_SAFE,Colombia,Urban,81.15686
+2014,SH_H2O_SAFE,Colombia,Rural,38.00869
+2014,SH_H2O_SAFE,Colombia,All areas,72.2881
+2014,SH_H2O_SAFE,Colombia,Urban,81.1736
+2015,SH_H2O_SAFE,Colombia,All areas,72.50684
+2015,SH_H2O_SAFE,Colombia,Rural,38.27953
+2012,SH_H2O_SAFE,Republic of Korea,All areas,98.10057
+2013,SH_H2O_SAFE,Republic of Korea,All areas,98.26689
+2014,SH_H2O_SAFE,Republic of Korea,All areas,98.43334
+2015,SH_H2O_SAFE,Republic of Korea,All areas,98.58376
+2016,SH_H2O_SAFE,Republic of Korea,All areas,98.6927
+2017,SH_H2O_SAFE,Republic of Korea,All areas,98.80168
+2018,SH_H2O_SAFE,Republic of Korea,All areas,98.91071
+2019,SH_H2O_SAFE,Republic of Korea,All areas,99.01979
+2020,SH_H2O_SAFE,Republic of Korea,All areas,99.12891
+2021,SH_H2O_SAFE,Republic of Korea,All areas,99.21022
+2020,SH_H2O_SAFE,Albania,All areas,70.67454
+2021,SH_H2O_SAFE,Albania,All areas,70.7058
+2022,SH_H2O_SAFE,Albania,All areas,70.73607
+2000,SH_H2O_SAFE,Azerbaijan,All areas,57.74855
+2000,SH_H2O_SAFE,Azerbaijan,Urban,80.61574
+2000,SH_H2O_SAFE,Azerbaijan,Rural,33.57747
+2001,SH_H2O_SAFE,Azerbaijan,Rural,35.74493
+2001,SH_H2O_SAFE,Azerbaijan,All areas,59.48841
+2001,SH_H2O_SAFE,Azerbaijan,Urban,81.83224
+2002,SH_H2O_SAFE,Azerbaijan,All areas,60.11043
+2000,SH_H2O_SAFE,Serbia,Rural,66.38787
+2000,SH_H2O_SAFE,Serbia,Urban,81.46126
+2000,SH_H2O_SAFE,Serbia,All areas,74.34195
+2001,SH_H2O_SAFE,Serbia,Urban,81.46407
+2001,SH_H2O_SAFE,Serbia,Rural,66.39682
+2001,SH_H2O_SAFE,Serbia,All areas,74.38126
+2002,SH_H2O_SAFE,Serbia,Urban,81.46688
+2002,SH_H2O_SAFE,Serbia,All areas,74.42054
+2002,SH_H2O_SAFE,Serbia,Rural,66.40578
+2003,SH_H2O_SAFE,Serbia,Urban,81.46969
+2015,SH_H2O_SAFE,Colombia,Urban,81.19025
+2016,SH_H2O_SAFE,Colombia,Rural,38.55038
+2016,SH_H2O_SAFE,Colombia,Urban,81.20682
+2016,SH_H2O_SAFE,Colombia,All areas,72.7216
+2017,SH_H2O_SAFE,Colombia,Rural,38.82123
+2017,SH_H2O_SAFE,Colombia,All areas,72.93201
+2017,SH_H2O_SAFE,Colombia,Urban,81.22331
+2018,SH_H2O_SAFE,Colombia,Urban,81.22528
+2018,SH_H2O_SAFE,Colombia,Rural,39.09207
+2018,SH_H2O_SAFE,Colombia,All areas,73.12644
+2019,SH_H2O_SAFE,Colombia,All areas,73.27192
+2019,SH_H2O_SAFE,Colombia,Urban,81.1722
+2019,SH_H2O_SAFE,Colombia,Rural,39.36292
+2020,SH_H2O_SAFE,Colombia,Rural,39.63377
+2020,SH_H2O_SAFE,Colombia,All areas,73.41323
+2020,SH_H2O_SAFE,Colombia,Urban,81.11914
+2021,SH_H2O_SAFE,Colombia,All areas,73.7199
+2021,SH_H2O_SAFE,Colombia,Urban,81.27393
+2021,SH_H2O_SAFE,Colombia,Rural,39.90461
+2022,SH_H2O_SAFE,Colombia,All areas,73.85604
+2002,SH_H2O_SAFE,Azerbaijan,Urban,83.05276
+2002,SH_H2O_SAFE,Azerbaijan,Rural,37.97444
+2003,SH_H2O_SAFE,Azerbaijan,Rural,40.266
+2003,SH_H2O_SAFE,Azerbaijan,All areas,60.72896
+2003,SH_H2O_SAFE,Azerbaijan,Urban,84.27731
+2004,SH_H2O_SAFE,Azerbaijan,Rural,42.61961
+2004,SH_H2O_SAFE,Azerbaijan,All areas,61.34377
+2004,SH_H2O_SAFE,Azerbaijan,Urban,85.50588
+2005,SH_H2O_SAFE,Azerbaijan,Rural,45.03528
+2005,SH_H2O_SAFE,Azerbaijan,All areas,61.95468
+2003,SH_H2O_SAFE,Serbia,All areas,74.45966
+2003,SH_H2O_SAFE,Serbia,Rural,66.41474
+2004,SH_H2O_SAFE,Serbia,Urban,81.4725
+2004,SH_H2O_SAFE,Serbia,Rural,66.4237
+2004,SH_H2O_SAFE,Serbia,All areas,74.49904
+2005,SH_H2O_SAFE,Serbia,Rural,66.43265
+2005,SH_H2O_SAFE,Serbia,Urban,81.47531
+2005,SH_H2O_SAFE,Serbia,All areas,74.53809
+2006,SH_H2O_SAFE,Serbia,All areas,74.57712
+2006,SH_H2O_SAFE,Serbia,Rural,66.44161
+2022,SH_H2O_SAFE,Colombia,Rural,40.17546
+2022,SH_H2O_SAFE,Colombia,Urban,81.22431
+2000,SH_H2O_SAFE,Costa Rica,All areas,76.40624
+2000,SH_H2O_SAFE,Costa Rica,Rural,71.44085
+2000,SH_H2O_SAFE,Costa Rica,Urban,79.84934
+2001,SH_H2O_SAFE,Costa Rica,Urban,79.8808
+2001,SH_H2O_SAFE,Costa Rica,Rural,71.98275
+2001,SH_H2O_SAFE,Costa Rica,All areas,76.75396
+2002,SH_H2O_SAFE,Costa Rica,Rural,72.52465
+2002,SH_H2O_SAFE,Costa Rica,All areas,77.08671
+2005,SH_H2O_SAFE,Azerbaijan,Urban,86.73848
+2006,SH_H2O_SAFE,Azerbaijan,Rural,47.51299
+2006,SH_H2O_SAFE,Azerbaijan,All areas,62.56189
+2006,SH_H2O_SAFE,Azerbaijan,Urban,87.97511
+2007,SH_H2O_SAFE,Azerbaijan,Urban,89.21576
+2007,SH_H2O_SAFE,Azerbaijan,All areas,63.16558
+2007,SH_H2O_SAFE,Azerbaijan,Rural,50.05276
+2008,SH_H2O_SAFE,Azerbaijan,All areas,63.76539
+2008,SH_H2O_SAFE,Azerbaijan,Rural,52.65458
+2008,SH_H2O_SAFE,Azerbaijan,Urban,90.3536
+2006,SH_H2O_SAFE,Serbia,Urban,81.47812
+2007,SH_H2O_SAFE,Serbia,Urban,81.48094
+2007,SH_H2O_SAFE,Serbia,All areas,74.61627
+2007,SH_H2O_SAFE,Serbia,Rural,66.45057
+2008,SH_H2O_SAFE,Serbia,Rural,66.45952
+2008,SH_H2O_SAFE,Serbia,All areas,74.65524
+2008,SH_H2O_SAFE,Serbia,Urban,81.48375
+2009,SH_H2O_SAFE,Serbia,All areas,74.69418
+2009,SH_H2O_SAFE,Serbia,Rural,66.46848
+2009,SH_H2O_SAFE,Serbia,Urban,81.48656
+2009,SH_H2O_SAFE,Azerbaijan,All areas,64.36151
+2009,SH_H2O_SAFE,Azerbaijan,Rural,55.31845
+2009,SH_H2O_SAFE,Azerbaijan,Urban,90.52231
+2010,SH_H2O_SAFE,Azerbaijan,All areas,64.95611
+2010,SH_H2O_SAFE,Azerbaijan,Urban,90.69102
+2010,SH_H2O_SAFE,Azerbaijan,Rural,58.04438
+2011,SH_H2O_SAFE,Azerbaijan,All areas,65.54863
+2011,SH_H2O_SAFE,Azerbaijan,Urban,90.85973
+2011,SH_H2O_SAFE,Azerbaijan,Rural,60.83235
+2012,SH_H2O_SAFE,Azerbaijan,All areas,66.13864
+2002,SH_H2O_SAFE,Costa Rica,Urban,79.91225
+2003,SH_H2O_SAFE,Costa Rica,All areas,77.40466
+2003,SH_H2O_SAFE,Costa Rica,Rural,73.06654
+2003,SH_H2O_SAFE,Costa Rica,Urban,79.94371
+2004,SH_H2O_SAFE,Costa Rica,Rural,73.60844
+2004,SH_H2O_SAFE,Costa Rica,All areas,77.70785
+2004,SH_H2O_SAFE,Costa Rica,Urban,79.97517
+2005,SH_H2O_SAFE,Costa Rica,Urban,80.00662
+2005,SH_H2O_SAFE,Costa Rica,Rural,74.15034
+2005,SH_H2O_SAFE,Costa Rica,All areas,77.99628
+2010,SH_H2O_SAFE,Serbia,All areas,74.73295
+2010,SH_H2O_SAFE,Serbia,Urban,81.48937
+2010,SH_H2O_SAFE,Serbia,Rural,66.47744
+2011,SH_H2O_SAFE,Serbia,All areas,74.77184
+2011,SH_H2O_SAFE,Serbia,Rural,66.4864
+2011,SH_H2O_SAFE,Serbia,Urban,81.49218
+2012,SH_H2O_SAFE,Serbia,Rural,66.49535
+2012,SH_H2O_SAFE,Serbia,All areas,74.79855
+2012,SH_H2O_SAFE,Serbia,Urban,81.49499
+2013,SH_H2O_SAFE,Serbia,Urban,81.4978
+2006,SH_H2O_SAFE,Costa Rica,All areas,78.27048
+2006,SH_H2O_SAFE,Costa Rica,Rural,74.69224
+2006,SH_H2O_SAFE,Costa Rica,Urban,80.03808
+2007,SH_H2O_SAFE,Costa Rica,Urban,80.06953
+2007,SH_H2O_SAFE,Costa Rica,Rural,75.23414
+2007,SH_H2O_SAFE,Costa Rica,All areas,78.53062
+2008,SH_H2O_SAFE,Costa Rica,Rural,75.77604
+2008,SH_H2O_SAFE,Costa Rica,All areas,78.77712
+2008,SH_H2O_SAFE,Costa Rica,Urban,80.10099
+2009,SH_H2O_SAFE,Costa Rica,All areas,79.01002
+2009,SH_H2O_SAFE,Costa Rica,Rural,76.31794
+2009,SH_H2O_SAFE,Costa Rica,Urban,80.13244
+2010,SH_H2O_SAFE,Costa Rica,All areas,79.23004
+2010,SH_H2O_SAFE,Costa Rica,Rural,76.85983
+2010,SH_H2O_SAFE,Costa Rica,Urban,80.1639
+2011,SH_H2O_SAFE,Costa Rica,All areas,79.43739
+2011,SH_H2O_SAFE,Costa Rica,Urban,80.19536
+2011,SH_H2O_SAFE,Costa Rica,Rural,77.40173
+2012,SH_H2O_SAFE,Costa Rica,Rural,77.94363
+2012,SH_H2O_SAFE,Costa Rica,All areas,79.63195
+2012,SH_H2O_SAFE,Azerbaijan,Rural,63.68238
+2012,SH_H2O_SAFE,Azerbaijan,Urban,91.02844
+2013,SH_H2O_SAFE,Azerbaijan,Urban,91.19715
+2013,SH_H2O_SAFE,Azerbaijan,All areas,66.72585
+2013,SH_H2O_SAFE,Azerbaijan,Rural,66.59446
+2014,SH_H2O_SAFE,Azerbaijan,Rural,69.56859
+2014,SH_H2O_SAFE,Azerbaijan,Urban,91.36586
+2014,SH_H2O_SAFE,Azerbaijan,All areas,67.3097
+2015,SH_H2O_SAFE,Azerbaijan,Rural,72.60477
+2015,SH_H2O_SAFE,Azerbaijan,All areas,67.88978
+2013,SH_H2O_SAFE,Serbia,Rural,66.50431
+2013,SH_H2O_SAFE,Serbia,All areas,74.82105
+2014,SH_H2O_SAFE,Serbia,All areas,74.84368
+2014,SH_H2O_SAFE,Serbia,Rural,66.51327
+2014,SH_H2O_SAFE,Serbia,Urban,81.50061
+2015,SH_H2O_SAFE,Serbia,All areas,74.86615
+2015,SH_H2O_SAFE,Serbia,Rural,66.52223
+2015,SH_H2O_SAFE,Serbia,Urban,81.50342
+2016,SH_H2O_SAFE,Serbia,Rural,66.53118
+2016,SH_H2O_SAFE,Serbia,All areas,74.88876
+2015,SH_H2O_SAFE,Azerbaijan,Urban,91.53457
+2016,SH_H2O_SAFE,Azerbaijan,Rural,73.82324
+2016,SH_H2O_SAFE,Azerbaijan,Urban,91.70328
+2016,SH_H2O_SAFE,Azerbaijan,All areas,68.46568
+2017,SH_H2O_SAFE,Azerbaijan,All areas,69.03698
+2017,SH_H2O_SAFE,Azerbaijan,Urban,91.87199
+2017,SH_H2O_SAFE,Azerbaijan,Rural,75.0417
+2018,SH_H2O_SAFE,Azerbaijan,Urban,92.04071
+2018,SH_H2O_SAFE,Azerbaijan,Rural,76.26016
+2018,SH_H2O_SAFE,Azerbaijan,All areas,69.60327
+2012,SH_H2O_SAFE,Costa Rica,Urban,80.22681
+2013,SH_H2O_SAFE,Costa Rica,Urban,80.25827
+2013,SH_H2O_SAFE,Costa Rica,All areas,79.81455
+2013,SH_H2O_SAFE,Costa Rica,Rural,78.48553
+2014,SH_H2O_SAFE,Costa Rica,Urban,80.28972
+2014,SH_H2O_SAFE,Costa Rica,Rural,79.02743
+2014,SH_H2O_SAFE,Costa Rica,All areas,79.98603
+2015,SH_H2O_SAFE,Costa Rica,Urban,80.32118
+2015,SH_H2O_SAFE,Costa Rica,Rural,79.56933
+2015,SH_H2O_SAFE,Costa Rica,All areas,80.14722
+2016,SH_H2O_SAFE,Costa Rica,Rural,80.11123
+2016,SH_H2O_SAFE,Costa Rica,All areas,80.29888
+2016,SH_H2O_SAFE,Costa Rica,Urban,80.35263
+2017,SH_H2O_SAFE,Costa Rica,Urban,80.38409
+2017,SH_H2O_SAFE,Costa Rica,Rural,80.65312
+2017,SH_H2O_SAFE,Costa Rica,All areas,80.44177
+2018,SH_H2O_SAFE,Costa Rica,Rural,81.05455
+2018,SH_H2O_SAFE,Costa Rica,All areas,80.52559
+2018,SH_H2O_SAFE,Costa Rica,Urban,80.38785
+2019,SH_H2O_SAFE,Costa Rica,Urban,80.38785
+2019,SH_H2O_SAFE,Azerbaijan,All areas,70.16407
+2019,SH_H2O_SAFE,Azerbaijan,Rural,77.47863
+2019,SH_H2O_SAFE,Azerbaijan,Urban,92.20942
+2020,SH_H2O_SAFE,Azerbaijan,All areas,70.67331
+2020,SH_H2O_SAFE,Azerbaijan,Urban,92.275
+2020,SH_H2O_SAFE,Azerbaijan,Rural,78.69709
+2021,SH_H2O_SAFE,Azerbaijan,Urban,92.275
+2021,SH_H2O_SAFE,Azerbaijan,All areas,71.14635
+2021,SH_H2O_SAFE,Azerbaijan,Rural,79.91555
+2022,SH_H2O_SAFE,Azerbaijan,Urban,92.275
+2019,SH_H2O_SAFE,Costa Rica,All areas,80.52068
+2019,SH_H2O_SAFE,Costa Rica,Rural,81.05455
+2020,SH_H2O_SAFE,Costa Rica,Urban,80.38785
+2020,SH_H2O_SAFE,Costa Rica,Rural,81.05455
+2020,SH_H2O_SAFE,Costa Rica,All areas,80.51605
+2021,SH_H2O_SAFE,Costa Rica,Rural,81.05455
+2021,SH_H2O_SAFE,Costa Rica,Urban,80.38785
+2021,SH_H2O_SAFE,Costa Rica,All areas,80.51169
+2022,SH_H2O_SAFE,Costa Rica,Urban,80.38785
+2022,SH_H2O_SAFE,Costa Rica,Rural,81.05455
+2022,SH_H2O_SAFE,Costa Rica,All areas,80.50758
+2000,SH_H2O_SAFE,Croatia,Rural,71.99965
+2000,SH_H2O_SAFE,Croatia,All areas,85.11641
+2000,SH_H2O_SAFE,Croatia,Urban,96.55
+2001,SH_H2O_SAFE,Croatia,Urban,96.55
+2001,SH_H2O_SAFE,Croatia,Rural,71.99965
+2001,SH_H2O_SAFE,Croatia,All areas,85.16895
+2002,SH_H2O_SAFE,Croatia,Urban,96.55
+2002,SH_H2O_SAFE,Croatia,Rural,71.99965
+2002,SH_H2O_SAFE,Croatia,All areas,85.21019
+2016,SH_H2O_SAFE,Serbia,Urban,81.50623
+2017,SH_H2O_SAFE,Serbia,Rural,66.54014
+2017,SH_H2O_SAFE,Serbia,All areas,74.91404
+2017,SH_H2O_SAFE,Serbia,Urban,81.50904
+2018,SH_H2O_SAFE,Serbia,All areas,74.94201
+2018,SH_H2O_SAFE,Serbia,Rural,66.5491
+2018,SH_H2O_SAFE,Serbia,Urban,81.51185
+2019,SH_H2O_SAFE,Serbia,Urban,81.51466
+2019,SH_H2O_SAFE,Serbia,Rural,66.55806
+2019,SH_H2O_SAFE,Serbia,All areas,74.97264
+2022,SH_H2O_SAFE,Azerbaijan,All areas,71.6117
+2022,SH_H2O_SAFE,Azerbaijan,Rural,81.13402
+2000,SH_H2O_SAFE,Australia,Urban,98.28848
+2001,SH_H2O_SAFE,Australia,Urban,98.28848
+2002,SH_H2O_SAFE,Australia,Urban,98.28848
+2003,SH_H2O_SAFE,Australia,Urban,98.42049
+2004,SH_H2O_SAFE,Australia,Urban,98.55253
+2005,SH_H2O_SAFE,Australia,Urban,98.68458
+2006,SH_H2O_SAFE,Australia,Urban,98.81667
+2007,SH_H2O_SAFE,Australia,Urban,98.94877
+2003,SH_H2O_SAFE,Croatia,All areas,85.25168
+2003,SH_H2O_SAFE,Croatia,Urban,96.55
+2003,SH_H2O_SAFE,Croatia,Rural,71.99965
+2004,SH_H2O_SAFE,Croatia,Urban,96.55
+2004,SH_H2O_SAFE,Croatia,All areas,85.29293
+2004,SH_H2O_SAFE,Croatia,Rural,71.99965
+2005,SH_H2O_SAFE,Croatia,Urban,96.55
+2005,SH_H2O_SAFE,Croatia,Rural,71.99965
+2005,SH_H2O_SAFE,Croatia,All areas,85.33417
+2006,SH_H2O_SAFE,Croatia,Urban,96.55
+2008,SH_H2O_SAFE,Australia,Urban,99.08091
+2009,SH_H2O_SAFE,Australia,Urban,99.21306
+2010,SH_H2O_SAFE,Australia,Urban,99.34524
+2011,SH_H2O_SAFE,Australia,Urban,99.47745
+2012,SH_H2O_SAFE,Australia,Urban,99.60968
+2013,SH_H2O_SAFE,Australia,Urban,99.69373
+2014,SH_H2O_SAFE,Australia,Urban,99.68308
+2015,SH_H2O_SAFE,Australia,Urban,99.67244
+2016,SH_H2O_SAFE,Australia,Urban,99.65181
+2017,SH_H2O_SAFE,Australia,Urban,99.63119
+2020,SH_H2O_SAFE,Serbia,All areas,75.00595
+2020,SH_H2O_SAFE,Serbia,Rural,66.56701
+2020,SH_H2O_SAFE,Serbia,Urban,81.51747
+2021,SH_H2O_SAFE,Serbia,Urban,81.52028
+2021,SH_H2O_SAFE,Serbia,Rural,66.57597
+2021,SH_H2O_SAFE,Serbia,All areas,75.04207
+2022,SH_H2O_SAFE,Serbia,Rural,66.57597
+2022,SH_H2O_SAFE,Serbia,Urban,81.52028
+2022,SH_H2O_SAFE,Serbia,All areas,75.07525
+2000,SH_H2O_SAFE,Slovakia,All areas,92.17965
+2006,SH_H2O_SAFE,Croatia,Rural,71.99965
+2006,SH_H2O_SAFE,Croatia,All areas,85.37542
+2007,SH_H2O_SAFE,Croatia,All areas,85.41666
+2007,SH_H2O_SAFE,Croatia,Rural,71.99965
+2007,SH_H2O_SAFE,Croatia,Urban,96.55
+2008,SH_H2O_SAFE,Croatia,Urban,96.55
+2009,SH_H2O_SAFE,Croatia,Urban,96.55
+2010,SH_H2O_SAFE,Croatia,Urban,96.55
+2011,SH_H2O_SAFE,Croatia,Urban,96.55
+2012,SH_H2O_SAFE,Croatia,Urban,96.55
+2013,SH_H2O_SAFE,Croatia,Urban,96.55
+2014,SH_H2O_SAFE,Croatia,Urban,96.55
+2015,SH_H2O_SAFE,Croatia,Urban,96.55
+2016,SH_H2O_SAFE,Croatia,Urban,96.55
+2017,SH_H2O_SAFE,Croatia,Urban,96.55
+2018,SH_H2O_SAFE,Croatia,Urban,96.55
+2019,SH_H2O_SAFE,Croatia,Urban,96.55
+2020,SH_H2O_SAFE,Croatia,Urban,96.55
+2021,SH_H2O_SAFE,Croatia,Urban,96.55
+2022,SH_H2O_SAFE,Croatia,Urban,96.55
+2001,SH_H2O_SAFE,Slovakia,All areas,92.17799
+2002,SH_H2O_SAFE,Slovakia,All areas,92.81333
+2003,SH_H2O_SAFE,Slovakia,All areas,93.44967
+2004,SH_H2O_SAFE,Slovakia,All areas,94.08702
+2005,SH_H2O_SAFE,Slovakia,All areas,94.72538
+2006,SH_H2O_SAFE,Slovakia,All areas,95.36474
+2007,SH_H2O_SAFE,Slovakia,All areas,96.0051
+2008,SH_H2O_SAFE,Slovakia,All areas,96.64649
+2009,SH_H2O_SAFE,Slovakia,All areas,97.28888
+2010,SH_H2O_SAFE,Slovakia,All areas,97.93309
+2000,SH_H2O_SAFE,Cyprus,All areas,95.85307
+2001,SH_H2O_SAFE,Cyprus,All areas,95.85301
+2002,SH_H2O_SAFE,Cyprus,All areas,95.85304
+2003,SH_H2O_SAFE,Cyprus,All areas,95.84554
+2004,SH_H2O_SAFE,Cyprus,All areas,96.10549
+2005,SH_H2O_SAFE,Cyprus,All areas,96.36541
+2006,SH_H2O_SAFE,Cyprus,All areas,96.6253
+2007,SH_H2O_SAFE,Cyprus,All areas,96.88515
+2008,SH_H2O_SAFE,Cyprus,All areas,97.14498
+2009,SH_H2O_SAFE,Cyprus,All areas,97.40478
+2018,SH_H2O_SAFE,Australia,Urban,99.61057
+2019,SH_H2O_SAFE,Australia,Urban,99.58995
+2020,SH_H2O_SAFE,Australia,Urban,99.56933
+2021,SH_H2O_SAFE,Australia,Urban,99.5487
+2022,SH_H2O_SAFE,Australia,Urban,99.52808
+2000,SH_H2O_SAFE,Austria,All areas,96.71923
+2001,SH_H2O_SAFE,Austria,All areas,96.8905
+2002,SH_H2O_SAFE,Austria,All areas,97.06175
+2003,SH_H2O_SAFE,Austria,All areas,97.23301
+2004,SH_H2O_SAFE,Austria,All areas,97.40427
+2011,SH_H2O_SAFE,Slovakia,All areas,98.57904
+2012,SH_H2O_SAFE,Slovakia,All areas,98.82872
+2013,SH_H2O_SAFE,Slovakia,All areas,98.86433
+2014,SH_H2O_SAFE,Slovakia,All areas,98.89993
+2015,SH_H2O_SAFE,Slovakia,All areas,98.93553
+2016,SH_H2O_SAFE,Slovakia,All areas,98.97113
+2017,SH_H2O_SAFE,Slovakia,All areas,99.00673
+2018,SH_H2O_SAFE,Slovakia,All areas,99.04233
+2019,SH_H2O_SAFE,Slovakia,All areas,99.07793
+2020,SH_H2O_SAFE,Slovakia,All areas,99.11353
+2021,SH_H2O_SAFE,Slovakia,All areas,99.14913
+2022,SH_H2O_SAFE,Slovakia,All areas,99.18473
+2000,SH_H2O_SAFE,Viet Nam,Urban,73.45707
+2000,SH_H2O_SAFE,Viet Nam,Rural,36.67334
+2000,SH_H2O_SAFE,Viet Nam,All areas,45.639
+2001,SH_H2O_SAFE,Viet Nam,All areas,46.20397
+2001,SH_H2O_SAFE,Viet Nam,Urban,73.56211
+2001,SH_H2O_SAFE,Viet Nam,Rural,37.11521
+2002,SH_H2O_SAFE,Viet Nam,All areas,46.76912
+2002,SH_H2O_SAFE,Viet Nam,Urban,73.66715
+2010,SH_H2O_SAFE,Cyprus,All areas,97.66455
+2011,SH_H2O_SAFE,Cyprus,All areas,97.92428
+2012,SH_H2O_SAFE,Cyprus,All areas,98.184
+2013,SH_H2O_SAFE,Cyprus,All areas,98.44365
+2014,SH_H2O_SAFE,Cyprus,All areas,98.70326
+2015,SH_H2O_SAFE,Cyprus,All areas,98.96281
+2016,SH_H2O_SAFE,Cyprus,All areas,99.22231
+2017,SH_H2O_SAFE,Cyprus,All areas,99.48175
+2018,SH_H2O_SAFE,Cyprus,All areas,99.74111
+2019,SH_H2O_SAFE,Cyprus,All areas,99.76519
+2005,SH_H2O_SAFE,Austria,All areas,97.57553
+2006,SH_H2O_SAFE,Austria,All areas,97.7468
+2007,SH_H2O_SAFE,Austria,All areas,97.91805
+2008,SH_H2O_SAFE,Austria,All areas,98.08931
+2009,SH_H2O_SAFE,Austria,All areas,98.26058
+2010,SH_H2O_SAFE,Austria,All areas,98.43184
+2011,SH_H2O_SAFE,Austria,All areas,98.6031
+2012,SH_H2O_SAFE,Austria,All areas,98.77435
+2013,SH_H2O_SAFE,Austria,All areas,98.91264
+2014,SH_H2O_SAFE,Austria,All areas,98.91103
+2020,SH_H2O_SAFE,Cyprus,All areas,99.76517
+2021,SH_H2O_SAFE,Cyprus,All areas,99.76513
+2022,SH_H2O_SAFE,Cyprus,All areas,99.76506
+2000,SH_H2O_SAFE,Czechia,All areas,96.32186
+2000,SH_H2O_SAFE,Czechia,Urban,97.24502
+2000,SH_H2O_SAFE,Czechia,Rural,93.69603
+2001,SH_H2O_SAFE,Czechia,All areas,96.31792
+2001,SH_H2O_SAFE,Czechia,Rural,93.69603
+2001,SH_H2O_SAFE,Czechia,Urban,97.24502
+2002,SH_H2O_SAFE,Czechia,Rural,94.00047
+2002,SH_H2O_SAFE,Viet Nam,Rural,37.55708
+2003,SH_H2O_SAFE,Viet Nam,Rural,37.99894
+2003,SH_H2O_SAFE,Viet Nam,All areas,47.3329
+2003,SH_H2O_SAFE,Viet Nam,Urban,73.7722
+2004,SH_H2O_SAFE,Viet Nam,All areas,47.89631
+2004,SH_H2O_SAFE,Viet Nam,Urban,73.87724
+2004,SH_H2O_SAFE,Viet Nam,Rural,38.44081
+2005,SH_H2O_SAFE,Viet Nam,Urban,73.98228
+2005,SH_H2O_SAFE,Viet Nam,Rural,38.88268
+2005,SH_H2O_SAFE,Viet Nam,All areas,48.4582
+2006,SH_H2O_SAFE,Viet Nam,Rural,39.32455
+2006,SH_H2O_SAFE,Viet Nam,Urban,74.08733
+2006,SH_H2O_SAFE,Viet Nam,All areas,49.01919
+2007,SH_H2O_SAFE,Viet Nam,Urban,74.19237
+2007,SH_H2O_SAFE,Viet Nam,Rural,39.76642
+2007,SH_H2O_SAFE,Viet Nam,All areas,49.57919
+2008,SH_H2O_SAFE,Viet Nam,All areas,50.13777
+2008,SH_H2O_SAFE,Viet Nam,Urban,74.29741
+2008,SH_H2O_SAFE,Viet Nam,Rural,40.20829
+2009,SH_H2O_SAFE,Viet Nam,All areas,50.69552
+2015,SH_H2O_SAFE,Austria,All areas,98.90942
+2016,SH_H2O_SAFE,Austria,All areas,98.90781
+2017,SH_H2O_SAFE,Austria,All areas,98.9062
+2018,SH_H2O_SAFE,Austria,All areas,98.90447
+2019,SH_H2O_SAFE,Austria,All areas,98.90262
+2020,SH_H2O_SAFE,Austria,All areas,98.90064
+2021,SH_H2O_SAFE,Austria,All areas,98.89854
+2022,SH_H2O_SAFE,Austria,All areas,98.89632
+2000,SH_H2O_SAFE,Armenia,All areas,82.35072
+2001,SH_H2O_SAFE,Armenia,All areas,82.45862
+2002,SH_H2O_SAFE,Czechia,All areas,96.43583
+2002,SH_H2O_SAFE,Czechia,Urban,97.30001
+2003,SH_H2O_SAFE,Czechia,Rural,94.305
+2003,SH_H2O_SAFE,Czechia,All areas,96.55407
+2003,SH_H2O_SAFE,Czechia,Urban,97.355
+2004,SH_H2O_SAFE,Czechia,All areas,96.67269
+2004,SH_H2O_SAFE,Czechia,Urban,97.40999
+2004,SH_H2O_SAFE,Czechia,Rural,94.60962
+2005,SH_H2O_SAFE,Czechia,All areas,96.79167
+2005,SH_H2O_SAFE,Czechia,Rural,94.91434
+2005,SH_H2O_SAFE,Czechia,Urban,97.46498
+2006,SH_H2O_SAFE,Czechia,Rural,95.21916
+2006,SH_H2O_SAFE,Czechia,All areas,96.91102
+2006,SH_H2O_SAFE,Czechia,Urban,97.51998
+2007,SH_H2O_SAFE,Czechia,All areas,97.03073
+2007,SH_H2O_SAFE,Czechia,Urban,97.57498
+2007,SH_H2O_SAFE,Czechia,Rural,95.52406
+2008,SH_H2O_SAFE,Czechia,All areas,97.15083
+2008,SH_H2O_SAFE,Czechia,Rural,95.82906
+2008,SH_H2O_SAFE,Czechia,Urban,97.62998
+2002,SH_H2O_SAFE,Armenia,All areas,82.57382
+2003,SH_H2O_SAFE,Armenia,All areas,82.69191
+2004,SH_H2O_SAFE,Armenia,All areas,82.81056
+2005,SH_H2O_SAFE,Armenia,All areas,82.92976
+2006,SH_H2O_SAFE,Armenia,All areas,83.04957
+2007,SH_H2O_SAFE,Armenia,All areas,83.16992
+2008,SH_H2O_SAFE,Armenia,All areas,83.29089
+2009,SH_H2O_SAFE,Armenia,All areas,83.26616
+2010,SH_H2O_SAFE,Armenia,All areas,83.24159
+2011,SH_H2O_SAFE,Armenia,All areas,83.21717
+2012,SH_H2O_SAFE,Armenia,All areas,83.19289
+2013,SH_H2O_SAFE,Armenia,All areas,83.16902
+2014,SH_H2O_SAFE,Armenia,All areas,83.14535
+2015,SH_H2O_SAFE,Armenia,All areas,83.07821
+2016,SH_H2O_SAFE,Armenia,All areas,82.93473
+2017,SH_H2O_SAFE,Armenia,All areas,82.79146
+2018,SH_H2O_SAFE,Armenia,All areas,82.95984
+2019,SH_H2O_SAFE,Armenia,All areas,82.82285
+2020,SH_H2O_SAFE,Armenia,All areas,82.68582
+2021,SH_H2O_SAFE,Armenia,All areas,82.54878
+2009,SH_H2O_SAFE,Viet Nam,Urban,74.40245
+2009,SH_H2O_SAFE,Viet Nam,Rural,40.65016
+2010,SH_H2O_SAFE,Viet Nam,All areas,51.25601
+2010,SH_H2O_SAFE,Viet Nam,Rural,41.09203
+2010,SH_H2O_SAFE,Viet Nam,Urban,74.5075
+2011,SH_H2O_SAFE,Viet Nam,Urban,74.61254
+2011,SH_H2O_SAFE,Viet Nam,All areas,51.81474
+2011,SH_H2O_SAFE,Viet Nam,Rural,41.5339
+2012,SH_H2O_SAFE,Viet Nam,Rural,41.97577
+2012,SH_H2O_SAFE,Viet Nam,Urban,74.71758
+2009,SH_H2O_SAFE,Czechia,All areas,97.27128
+2009,SH_H2O_SAFE,Czechia,Urban,97.68498
+2009,SH_H2O_SAFE,Czechia,Rural,96.13416
+2010,SH_H2O_SAFE,Czechia,All areas,97.39213
+2010,SH_H2O_SAFE,Czechia,Urban,97.73998
+2010,SH_H2O_SAFE,Czechia,Rural,96.43934
+2011,SH_H2O_SAFE,Czechia,All areas,97.51334
+2011,SH_H2O_SAFE,Czechia,Urban,97.79499
+2011,SH_H2O_SAFE,Czechia,Rural,96.74462
+2012,SH_H2O_SAFE,Czechia,All areas,97.63557
+2012,SH_H2O_SAFE,Czechia,Urban,97.85
+2012,SH_H2O_SAFE,Czechia,Rural,97.05
+2013,SH_H2O_SAFE,Czechia,Urban,97.90501
+2013,SH_H2O_SAFE,Czechia,Rural,97.35547
+2013,SH_H2O_SAFE,Czechia,All areas,97.75823
+2014,SH_H2O_SAFE,Czechia,All areas,97.88044
+2014,SH_H2O_SAFE,Czechia,Urban,97.96002
+2014,SH_H2O_SAFE,Czechia,Rural,97.66103
+2015,SH_H2O_SAFE,Czechia,All areas,97.88073
+2015,SH_H2O_SAFE,Czechia,Urban,97.96002
+2012,SH_H2O_SAFE,Viet Nam,All areas,52.37195
+2013,SH_H2O_SAFE,Viet Nam,All areas,52.92625
+2013,SH_H2O_SAFE,Viet Nam,Rural,42.41764
+2013,SH_H2O_SAFE,Viet Nam,Urban,74.82263
+2014,SH_H2O_SAFE,Viet Nam,All areas,53.47888
+2014,SH_H2O_SAFE,Viet Nam,Rural,42.85951
+2014,SH_H2O_SAFE,Viet Nam,Urban,74.92767
+2015,SH_H2O_SAFE,Viet Nam,Urban,75.03271
+2015,SH_H2O_SAFE,Viet Nam,Rural,43.30138
+2015,SH_H2O_SAFE,Viet Nam,All areas,54.02942
+2022,SH_H2O_SAFE,Armenia,All areas,82.41172
+2000,SH_H2O_SAFE,Belgium,All areas,99.63135
+2001,SH_H2O_SAFE,Belgium,All areas,99.63135
+2002,SH_H2O_SAFE,Belgium,All areas,99.63135
+2003,SH_H2O_SAFE,Belgium,All areas,99.63135
+2004,SH_H2O_SAFE,Belgium,All areas,99.63135
+2005,SH_H2O_SAFE,Belgium,All areas,99.63135
+2006,SH_H2O_SAFE,Belgium,All areas,99.63135
+2007,SH_H2O_SAFE,Belgium,All areas,99.63135
+2008,SH_H2O_SAFE,Belgium,All areas,99.63135
+2015,SH_H2O_SAFE,Czechia,Rural,97.66103
+2016,SH_H2O_SAFE,Czechia,Rural,97.66103
+2016,SH_H2O_SAFE,Czechia,All areas,97.881
+2016,SH_H2O_SAFE,Czechia,Urban,97.96002
+2017,SH_H2O_SAFE,Czechia,All areas,97.88131
+2017,SH_H2O_SAFE,Czechia,Rural,97.66103
+2017,SH_H2O_SAFE,Czechia,Urban,97.96002
+2018,SH_H2O_SAFE,Czechia,All areas,97.88166
+2018,SH_H2O_SAFE,Czechia,Rural,97.66103
+2018,SH_H2O_SAFE,Czechia,Urban,97.96002
+2016,SH_H2O_SAFE,Viet Nam,Urban,75.13776
+2016,SH_H2O_SAFE,Viet Nam,All areas,54.57749
+2016,SH_H2O_SAFE,Viet Nam,Rural,43.74324
+2017,SH_H2O_SAFE,Viet Nam,All areas,55.12145
+2017,SH_H2O_SAFE,Viet Nam,Urban,75.2428
+2017,SH_H2O_SAFE,Viet Nam,Rural,44.18511
+2018,SH_H2O_SAFE,Viet Nam,Urban,75.34784
+2018,SH_H2O_SAFE,Viet Nam,Rural,44.62698
+2018,SH_H2O_SAFE,Viet Nam,All areas,55.66161
+2019,SH_H2O_SAFE,Viet Nam,Rural,45.06885
+2019,SH_H2O_SAFE,Viet Nam,All areas,56.19791
+2019,SH_H2O_SAFE,Viet Nam,Urban,75.45288
+2020,SH_H2O_SAFE,Viet Nam,All areas,56.73035
+2020,SH_H2O_SAFE,Viet Nam,Urban,75.55793
+2020,SH_H2O_SAFE,Viet Nam,Rural,45.51072
+2021,SH_H2O_SAFE,Viet Nam,Urban,75.66297
+2021,SH_H2O_SAFE,Viet Nam,All areas,57.25798
+2021,SH_H2O_SAFE,Viet Nam,Rural,45.95259
+2022,SH_H2O_SAFE,Viet Nam,Rural,46.39446
+2022,SH_H2O_SAFE,Viet Nam,Urban,75.76801
+2009,SH_H2O_SAFE,Belgium,All areas,99.63135
+2010,SH_H2O_SAFE,Belgium,All areas,99.63966
+2011,SH_H2O_SAFE,Belgium,All areas,99.64798
+2012,SH_H2O_SAFE,Belgium,All areas,99.65629
+2013,SH_H2O_SAFE,Belgium,All areas,99.66461
+2014,SH_H2O_SAFE,Belgium,All areas,99.67292
+2015,SH_H2O_SAFE,Belgium,All areas,99.68124
+2016,SH_H2O_SAFE,Belgium,All areas,99.68956
+2017,SH_H2O_SAFE,Belgium,All areas,99.69787
+2018,SH_H2O_SAFE,Belgium,All areas,99.70619
+2019,SH_H2O_SAFE,Czechia,All areas,97.88205
+2019,SH_H2O_SAFE,Czechia,Urban,97.96002
+2019,SH_H2O_SAFE,Czechia,Rural,97.66103
+2020,SH_H2O_SAFE,Czechia,All areas,97.88247
+2020,SH_H2O_SAFE,Czechia,Urban,97.96002
+2020,SH_H2O_SAFE,Czechia,Rural,97.66103
+2021,SH_H2O_SAFE,Czechia,Rural,97.66103
+2021,SH_H2O_SAFE,Czechia,Urban,97.96002
+2021,SH_H2O_SAFE,Czechia,All areas,97.88293
+2022,SH_H2O_SAFE,Czechia,Urban,97.96002
+2022,SH_H2O_SAFE,Viet Nam,All areas,57.78141
+2000,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2001,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2002,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2003,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2004,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2005,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2006,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2007,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2008,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2022,SH_H2O_SAFE,Czechia,All areas,97.88341
+2022,SH_H2O_SAFE,Czechia,Rural,97.66103
+2000,SH_H2O_SAFE,Denmark,All areas,94.02154
+2001,SH_H2O_SAFE,Denmark,All areas,94.02155
+2002,SH_H2O_SAFE,Denmark,All areas,94.02155
+2003,SH_H2O_SAFE,Denmark,All areas,94.02154
+2004,SH_H2O_SAFE,Denmark,All areas,94.41845
+2005,SH_H2O_SAFE,Denmark,All areas,94.81535
+2006,SH_H2O_SAFE,Denmark,All areas,95.21226
+2007,SH_H2O_SAFE,Denmark,All areas,95.60917
+2019,SH_H2O_SAFE,Belgium,All areas,99.7145
+2020,SH_H2O_SAFE,Belgium,All areas,99.72281
+2021,SH_H2O_SAFE,Belgium,All areas,99.73113
+2022,SH_H2O_SAFE,Belgium,All areas,99.73945
+2000,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.34998
+2001,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.47272
+2002,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.59462
+2003,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.71558
+2004,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.83569
+2005,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.95483
+2009,SH_H2O_SAFE,Slovenia,All areas,91.10523
+2010,SH_H2O_SAFE,Slovenia,All areas,91.78527
+2011,SH_H2O_SAFE,Slovenia,All areas,92.46532
+2012,SH_H2O_SAFE,Slovenia,All areas,93.14536
+2013,SH_H2O_SAFE,Slovenia,All areas,93.8254
+2014,SH_H2O_SAFE,Slovenia,All areas,94.50545
+2015,SH_H2O_SAFE,Slovenia,All areas,95.18549
+2016,SH_H2O_SAFE,Slovenia,All areas,95.86553
+2017,SH_H2O_SAFE,Slovenia,All areas,96.54558
+2018,SH_H2O_SAFE,Slovenia,All areas,97.22562
+2008,SH_H2O_SAFE,Denmark,All areas,96.00607
+2009,SH_H2O_SAFE,Denmark,All areas,96.40297
+2010,SH_H2O_SAFE,Denmark,All areas,96.79988
+2011,SH_H2O_SAFE,Denmark,All areas,97.19679
+2012,SH_H2O_SAFE,Denmark,All areas,97.59369
+2013,SH_H2O_SAFE,Denmark,All areas,97.99059
+2014,SH_H2O_SAFE,Denmark,All areas,98.3875
+2015,SH_H2O_SAFE,Denmark,All areas,98.78441
+2016,SH_H2O_SAFE,Denmark,All areas,99.18131
+2017,SH_H2O_SAFE,Denmark,All areas,99.57822
+2019,SH_H2O_SAFE,Slovenia,All areas,97.90567
+2020,SH_H2O_SAFE,Slovenia,All areas,98.27432
+2021,SH_H2O_SAFE,Slovenia,All areas,98.27432
+2022,SH_H2O_SAFE,Slovenia,All areas,98.27432
+2000,SH_H2O_SAFE,Spain,All areas,99.352
+2000,SH_H2O_SAFE,Spain,Rural,98.6356
+2000,SH_H2O_SAFE,Spain,Urban,99.575
+2001,SH_H2O_SAFE,Spain,All areas,99.35277
+2001,SH_H2O_SAFE,Spain,Urban,99.575
+2001,SH_H2O_SAFE,Spain,Rural,98.6356
+2006,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.07303
+2007,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.19036
+2008,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.30676
+2009,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.42221
+2010,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.53673
+2011,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.65034
+2012,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.70229
+2013,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.79768
+2014,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.81718
+2015,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.82513
+2018,SH_H2O_SAFE,Denmark,All areas,99.91883
+2019,SH_H2O_SAFE,Denmark,All areas,99.91883
+2020,SH_H2O_SAFE,Denmark,All areas,99.91882
+2021,SH_H2O_SAFE,Denmark,All areas,99.91883
+2022,SH_H2O_SAFE,Denmark,All areas,99.91883
+2000,SH_H2O_SAFE,Estonia,All areas,91.68188
+2001,SH_H2O_SAFE,Estonia,All areas,92.00879
+2002,SH_H2O_SAFE,Estonia,All areas,92.33977
+2003,SH_H2O_SAFE,Estonia,All areas,92.67469
+2004,SH_H2O_SAFE,Estonia,All areas,93.01373
+2002,SH_H2O_SAFE,Spain,All areas,99.38708
+2002,SH_H2O_SAFE,Spain,Urban,99.6175
+2002,SH_H2O_SAFE,Spain,Rural,98.6356
+2003,SH_H2O_SAFE,Spain,Urban,99.66
+2003,SH_H2O_SAFE,Spain,All areas,99.42211
+2003,SH_H2O_SAFE,Spain,Rural,98.6356
+2004,SH_H2O_SAFE,Spain,All areas,99.45735
+2004,SH_H2O_SAFE,Spain,Rural,98.6356
+2004,SH_H2O_SAFE,Spain,Urban,99.7025
+2005,SH_H2O_SAFE,Spain,All areas,99.49275
+2005,SH_H2O_SAFE,Estonia,All areas,93.35693
+2006,SH_H2O_SAFE,Estonia,All areas,93.70418
+2007,SH_H2O_SAFE,Estonia,All areas,94.05564
+2008,SH_H2O_SAFE,Estonia,All areas,94.41134
+2009,SH_H2O_SAFE,Estonia,All areas,94.77131
+2010,SH_H2O_SAFE,Estonia,All areas,95.13546
+2011,SH_H2O_SAFE,Estonia,All areas,95.50393
+2012,SH_H2O_SAFE,Estonia,All areas,95.8874
+2013,SH_H2O_SAFE,Estonia,All areas,96.28194
+2014,SH_H2O_SAFE,Estonia,All areas,96.67542
+2016,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.83336
+2017,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.8419
+2018,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.85069
+2019,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.72298
+2020,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,88.13888
+2021,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,87.55478
+2022,SH_H2O_SAFE,Bosnia and Herzegovina,All areas,86.97068
+2000,SH_H2O_SAFE,Bulgaria,All areas,89.66373
+2001,SH_H2O_SAFE,Bulgaria,All areas,90.18406
+2002,SH_H2O_SAFE,Bulgaria,All areas,90.70463
+2005,SH_H2O_SAFE,Spain,Rural,98.6356
+2005,SH_H2O_SAFE,Spain,Urban,99.745
+2006,SH_H2O_SAFE,Spain,Urban,99.7875
+2006,SH_H2O_SAFE,Spain,All areas,99.52834
+2006,SH_H2O_SAFE,Spain,Rural,98.6356
+2007,SH_H2O_SAFE,Spain,Rural,98.6356
+2007,SH_H2O_SAFE,Spain,All areas,99.56412
+2007,SH_H2O_SAFE,Spain,Urban,99.83
+2008,SH_H2O_SAFE,Spain,Urban,99.8725
+2008,SH_H2O_SAFE,Spain,Rural,98.6356
+2015,SH_H2O_SAFE,Estonia,All areas,96.8461
+2016,SH_H2O_SAFE,Estonia,All areas,96.87794
+2017,SH_H2O_SAFE,Estonia,All areas,96.91005
+2018,SH_H2O_SAFE,Estonia,All areas,96.94275
+2019,SH_H2O_SAFE,Estonia,All areas,96.97601
+2020,SH_H2O_SAFE,Estonia,All areas,96.99839
+2021,SH_H2O_SAFE,Estonia,All areas,97.00866
+2022,SH_H2O_SAFE,Estonia,All areas,97.01938
+2000,SH_H2O_SAFE,Finland,All areas,93.81033
+2001,SH_H2O_SAFE,Finland,All areas,94.2074
+2008,SH_H2O_SAFE,Spain,All areas,99.60008
+2009,SH_H2O_SAFE,Spain,All areas,99.60359
+2009,SH_H2O_SAFE,Spain,Urban,99.87329
+2009,SH_H2O_SAFE,Spain,Rural,98.6356
+2010,SH_H2O_SAFE,Spain,Urban,99.87329
+2010,SH_H2O_SAFE,Spain,Rural,98.6356
+2010,SH_H2O_SAFE,Spain,All areas,99.60646
+2011,SH_H2O_SAFE,Spain,All areas,99.60933
+2011,SH_H2O_SAFE,Spain,Rural,98.6356
+2011,SH_H2O_SAFE,Spain,Urban,99.87329
+2003,SH_H2O_SAFE,Bulgaria,All areas,91.2254
+2004,SH_H2O_SAFE,Bulgaria,All areas,91.7464
+2005,SH_H2O_SAFE,Bulgaria,All areas,92.26763
+2006,SH_H2O_SAFE,Bulgaria,All areas,92.78908
+2007,SH_H2O_SAFE,Bulgaria,All areas,93.31076
+2008,SH_H2O_SAFE,Bulgaria,All areas,93.8327
+2009,SH_H2O_SAFE,Bulgaria,All areas,94.35487
+2010,SH_H2O_SAFE,Bulgaria,All areas,94.8773
+2011,SH_H2O_SAFE,Bulgaria,All areas,95.39997
+2012,SH_H2O_SAFE,Bulgaria,All areas,95.92294
+2013,SH_H2O_SAFE,Bulgaria,All areas,96.44623
+2014,SH_H2O_SAFE,Bulgaria,All areas,96.92339
+2015,SH_H2O_SAFE,Bulgaria,All areas,96.76209
+2016,SH_H2O_SAFE,Bulgaria,All areas,96.60156
+2017,SH_H2O_SAFE,Bulgaria,All areas,96.44181
+2018,SH_H2O_SAFE,Bulgaria,All areas,96.28281
+2019,SH_H2O_SAFE,Bulgaria,All areas,96.12456
+2020,SH_H2O_SAFE,Bulgaria,All areas,95.96708
+2021,SH_H2O_SAFE,Bulgaria,All areas,95.81034
+2022,SH_H2O_SAFE,Bulgaria,All areas,95.65433
+2012,SH_H2O_SAFE,Spain,Rural,98.6356
+2012,SH_H2O_SAFE,Spain,Urban,99.85578
+2012,SH_H2O_SAFE,Spain,All areas,99.59834
+2013,SH_H2O_SAFE,Spain,Urban,99.81856
+2013,SH_H2O_SAFE,Spain,All areas,99.57172
+2013,SH_H2O_SAFE,Spain,Rural,98.6356
+2014,SH_H2O_SAFE,Spain,Rural,98.6356
+2014,SH_H2O_SAFE,Spain,All areas,99.54494
+2014,SH_H2O_SAFE,Spain,Urban,99.78135
+2015,SH_H2O_SAFE,Spain,Rural,98.6356
+2015,SH_H2O_SAFE,Spain,Urban,99.78135
+2015,SH_H2O_SAFE,Spain,All areas,99.54764
+2016,SH_H2O_SAFE,Spain,Urban,99.78135
+2016,SH_H2O_SAFE,Spain,Rural,98.6356
+2016,SH_H2O_SAFE,Spain,All areas,99.55037
+2017,SH_H2O_SAFE,Spain,Rural,98.6356
+2017,SH_H2O_SAFE,Spain,All areas,99.55312
+2017,SH_H2O_SAFE,Spain,Urban,99.78135
+2018,SH_H2O_SAFE,Spain,Rural,98.6356
+2018,SH_H2O_SAFE,Spain,Urban,99.78135
+2002,SH_H2O_SAFE,Finland,All areas,94.60447
+2003,SH_H2O_SAFE,Finland,All areas,95.00154
+2004,SH_H2O_SAFE,Finland,All areas,95.39861
+2005,SH_H2O_SAFE,Finland,All areas,95.79567
+2006,SH_H2O_SAFE,Finland,All areas,96.19274
+2007,SH_H2O_SAFE,Finland,All areas,96.58981
+2008,SH_H2O_SAFE,Finland,All areas,96.98687
+2009,SH_H2O_SAFE,Finland,All areas,97.38395
+2010,SH_H2O_SAFE,Finland,All areas,97.78101
+2011,SH_H2O_SAFE,Finland,All areas,98.17808
+2012,SH_H2O_SAFE,Finland,All areas,98.57515
+2013,SH_H2O_SAFE,Finland,All areas,98.97222
+2014,SH_H2O_SAFE,Finland,All areas,99.36929
+2015,SH_H2O_SAFE,Finland,All areas,99.63063
+2016,SH_H2O_SAFE,Finland,All areas,99.63187
+2017,SH_H2O_SAFE,Finland,All areas,99.63313
+2018,SH_H2O_SAFE,Finland,All areas,99.63455
+2019,SH_H2O_SAFE,Finland,All areas,99.63615
+2020,SH_H2O_SAFE,Finland,All areas,99.63793
+2021,SH_H2O_SAFE,Finland,All areas,99.6399
+2000,SH_H2O_SAFE,Belarus,All areas,81.81271
+2001,SH_H2O_SAFE,Belarus,All areas,81.96307
+2002,SH_H2O_SAFE,Belarus,All areas,82.11219
+2003,SH_H2O_SAFE,Belarus,All areas,82.25976
+2004,SH_H2O_SAFE,Belarus,All areas,83.36191
+2005,SH_H2O_SAFE,Belarus,All areas,84.4452
+2006,SH_H2O_SAFE,Belarus,All areas,85.50994
+2007,SH_H2O_SAFE,Belarus,All areas,86.55645
+2008,SH_H2O_SAFE,Belarus,All areas,87.58524
+2009,SH_H2O_SAFE,Belarus,All areas,88.59597
+2018,SH_H2O_SAFE,Spain,All areas,99.55587
+2019,SH_H2O_SAFE,Spain,Urban,99.78135
+2019,SH_H2O_SAFE,Spain,Rural,98.6356
+2019,SH_H2O_SAFE,Spain,All areas,99.55868
+2020,SH_H2O_SAFE,Spain,Rural,98.6356
+2020,SH_H2O_SAFE,Spain,Urban,99.78135
+2020,SH_H2O_SAFE,Spain,All areas,99.56148
+2021,SH_H2O_SAFE,Spain,Rural,98.6356
+2021,SH_H2O_SAFE,Spain,Urban,99.78135
+2021,SH_H2O_SAFE,Spain,All areas,99.5643
+2022,SH_H2O_SAFE,Finland,All areas,99.64203
+2000,SH_H2O_SAFE,France,Rural,98.4
+2000,SH_H2O_SAFE,France,All areas,97.35588
+2000,SH_H2O_SAFE,France,Urban,97.02382
+2001,SH_H2O_SAFE,France,All areas,97.35236
+2001,SH_H2O_SAFE,France,Rural,98.4
+2001,SH_H2O_SAFE,France,Urban,97.02382
+2002,SH_H2O_SAFE,France,Rural,98.4
+2002,SH_H2O_SAFE,France,All areas,97.34887
+2002,SH_H2O_SAFE,France,Urban,97.02382
+2003,SH_H2O_SAFE,France,Urban,97.02382
+2003,SH_H2O_SAFE,France,Rural,98.4
+2003,SH_H2O_SAFE,France,All areas,97.34541
+2004,SH_H2O_SAFE,France,All areas,97.46617
+2004,SH_H2O_SAFE,France,Rural,98.4
+2004,SH_H2O_SAFE,France,Urban,97.18539
+2005,SH_H2O_SAFE,France,All areas,97.58779
+2005,SH_H2O_SAFE,France,Rural,98.4
+2005,SH_H2O_SAFE,France,Urban,97.34696
+2006,SH_H2O_SAFE,France,All areas,97.71021
+2022,SH_H2O_SAFE,Republic of Korea,All areas,99.28012
+2000,SH_H2O_SAFE,Kyrgyzstan,Rural,26.63862
+2000,SH_H2O_SAFE,Kyrgyzstan,Urban,80.52598
+2000,SH_H2O_SAFE,Kyrgyzstan,All areas,45.65978
+2001,SH_H2O_SAFE,Kyrgyzstan,Urban,80.52598
+2001,SH_H2O_SAFE,Kyrgyzstan,All areas,45.6587
+2001,SH_H2O_SAFE,Kyrgyzstan,Rural,26.63862
+2002,SH_H2O_SAFE,Kyrgyzstan,Urban,80.75227
+2002,SH_H2O_SAFE,Kyrgyzstan,Rural,26.95405
+2002,SH_H2O_SAFE,Kyrgyzstan,All areas,45.94213
+2022,SH_H2O_SAFE,Spain,Urban,99.78135
+2022,SH_H2O_SAFE,Spain,Rural,98.6356
+2022,SH_H2O_SAFE,Spain,All areas,99.56714
+2000,SH_H2O_SAFE,Sweden,All areas,99.3919
+2001,SH_H2O_SAFE,Sweden,All areas,99.40435
+2002,SH_H2O_SAFE,Sweden,All areas,99.41695
+2003,SH_H2O_SAFE,Sweden,All areas,99.42949
+2004,SH_H2O_SAFE,Sweden,All areas,99.44196
+2005,SH_H2O_SAFE,Sweden,All areas,99.45436
+2006,SH_H2O_SAFE,Sweden,All areas,99.46716
+2006,SH_H2O_SAFE,France,Rural,98.4
+2006,SH_H2O_SAFE,France,Urban,97.50853
+2007,SH_H2O_SAFE,France,All areas,97.83345
+2007,SH_H2O_SAFE,France,Rural,98.4
+2007,SH_H2O_SAFE,France,Urban,97.6701
+2008,SH_H2O_SAFE,France,Rural,98.4
+2008,SH_H2O_SAFE,France,All areas,97.95746
+2008,SH_H2O_SAFE,France,Urban,97.83167
+2009,SH_H2O_SAFE,France,Urban,97.99325
+2009,SH_H2O_SAFE,France,Rural,98.4
+2007,SH_H2O_SAFE,Sweden,All areas,99.48026
+2008,SH_H2O_SAFE,Sweden,All areas,99.4932
+2009,SH_H2O_SAFE,Sweden,All areas,99.50597
+2010,SH_H2O_SAFE,Sweden,All areas,99.52668
+2011,SH_H2O_SAFE,Sweden,All areas,99.54783
+2012,SH_H2O_SAFE,Sweden,All areas,99.56925
+2013,SH_H2O_SAFE,Sweden,All areas,99.59031
+2014,SH_H2O_SAFE,Sweden,All areas,99.61101
+2015,SH_H2O_SAFE,Sweden,All areas,99.63139
+2016,SH_H2O_SAFE,Sweden,All areas,99.65142
+2009,SH_H2O_SAFE,France,All areas,98.08226
+2010,SH_H2O_SAFE,France,All areas,98.20785
+2010,SH_H2O_SAFE,France,Urban,98.15482
+2010,SH_H2O_SAFE,France,Rural,98.4
+2011,SH_H2O_SAFE,France,All areas,98.33426
+2011,SH_H2O_SAFE,France,Urban,98.31639
+2011,SH_H2O_SAFE,France,Rural,98.4
+2012,SH_H2O_SAFE,France,Urban,98.47796
+2012,SH_H2O_SAFE,France,Rural,98.4
+2012,SH_H2O_SAFE,France,All areas,98.46149
+2010,SH_H2O_SAFE,Belarus,All areas,89.60049
+2011,SH_H2O_SAFE,Belarus,All areas,90.58958
+2012,SH_H2O_SAFE,Belarus,All areas,91.55891
+2013,SH_H2O_SAFE,Belarus,All areas,92.31101
+2014,SH_H2O_SAFE,Belarus,All areas,92.40423
+2015,SH_H2O_SAFE,Belarus,All areas,92.49671
+2016,SH_H2O_SAFE,Belarus,All areas,92.588
+2017,SH_H2O_SAFE,Belarus,All areas,92.67832
+2018,SH_H2O_SAFE,Belarus,All areas,92.76654
+2019,SH_H2O_SAFE,Belarus,All areas,92.85267
+2013,SH_H2O_SAFE,France,All areas,98.58955
+2013,SH_H2O_SAFE,France,Rural,98.4
+2013,SH_H2O_SAFE,France,Urban,98.63953
+2014,SH_H2O_SAFE,France,Rural,98.4
+2014,SH_H2O_SAFE,France,All areas,98.71845
+2014,SH_H2O_SAFE,France,Urban,98.8011
+2015,SH_H2O_SAFE,France,Urban,98.96267
+2015,SH_H2O_SAFE,France,Rural,98.4
+2015,SH_H2O_SAFE,France,All areas,98.8482
+2016,SH_H2O_SAFE,France,Urban,99.12424
+2017,SH_H2O_SAFE,Sweden,All areas,99.67114
+2018,SH_H2O_SAFE,Sweden,All areas,99.69053
+2019,SH_H2O_SAFE,Sweden,All areas,99.70961
+2020,SH_H2O_SAFE,Sweden,All areas,99.72807
+2021,SH_H2O_SAFE,Sweden,All areas,99.73845
+2022,SH_H2O_SAFE,Sweden,All areas,99.73888
+2000,SH_H2O_SAFE,Switzerland,All areas,96.7
+2001,SH_H2O_SAFE,Switzerland,All areas,96.7
+2002,SH_H2O_SAFE,Switzerland,All areas,96.7
+2003,SH_H2O_SAFE,Switzerland,All areas,96.7
+2004,SH_H2O_SAFE,Switzerland,All areas,96.7
+2005,SH_H2O_SAFE,Switzerland,All areas,96.7
+2006,SH_H2O_SAFE,Switzerland,All areas,96.7
+2007,SH_H2O_SAFE,Switzerland,All areas,96.7
+2008,SH_H2O_SAFE,Switzerland,All areas,96.7
+2009,SH_H2O_SAFE,Switzerland,All areas,96.7
+2010,SH_H2O_SAFE,Switzerland,All areas,96.7
+2011,SH_H2O_SAFE,Switzerland,All areas,96.7
+2012,SH_H2O_SAFE,Switzerland,All areas,96.7
+2013,SH_H2O_SAFE,Switzerland,All areas,96.7
+2014,SH_H2O_SAFE,Switzerland,All areas,96.7
+2015,SH_H2O_SAFE,Switzerland,All areas,96.7
+2016,SH_H2O_SAFE,Switzerland,All areas,96.7
+2017,SH_H2O_SAFE,Switzerland,All areas,96.7
+2018,SH_H2O_SAFE,Switzerland,All areas,96.7
+2019,SH_H2O_SAFE,Switzerland,All areas,96.7
+2020,SH_H2O_SAFE,Switzerland,All areas,96.7
+2021,SH_H2O_SAFE,Switzerland,All areas,96.7
+2022,SH_H2O_SAFE,Switzerland,All areas,96.7
+2000,SH_H2O_SAFE,Tajikistan,All areas,35.99046
+2016,SH_H2O_SAFE,France,Rural,98.4
+2016,SH_H2O_SAFE,France,All areas,98.97879
+2017,SH_H2O_SAFE,France,Rural,98.4
+2017,SH_H2O_SAFE,France,All areas,99.11025
+2017,SH_H2O_SAFE,France,Urban,99.28581
+2018,SH_H2O_SAFE,France,Rural,98.4
+2018,SH_H2O_SAFE,France,Urban,99.44738
+2018,SH_H2O_SAFE,France,All areas,99.24256
+2019,SH_H2O_SAFE,France,Urban,99.60895
+2019,SH_H2O_SAFE,France,All areas,99.37574
+2020,SH_H2O_SAFE,Belarus,All areas,92.93711
+2021,SH_H2O_SAFE,Belarus,All areas,93.0194
+2022,SH_H2O_SAFE,Belarus,All areas,93.09976
+2000,SH_H2O_SAFE,Canada,All areas,98.16674
+2001,SH_H2O_SAFE,Canada,All areas,98.17581
+2002,SH_H2O_SAFE,Canada,All areas,98.17794
+2003,SH_H2O_SAFE,Canada,All areas,98.18011
+2004,SH_H2O_SAFE,Canada,All areas,98.18224
+2005,SH_H2O_SAFE,Canada,All areas,98.2408
+2006,SH_H2O_SAFE,Canada,All areas,98.29947
+2001,SH_H2O_SAFE,Tajikistan,All areas,37.02204
+2002,SH_H2O_SAFE,Tajikistan,All areas,38.07823
+2003,SH_H2O_SAFE,Tajikistan,All areas,39.15903
+2004,SH_H2O_SAFE,Tajikistan,All areas,40.26388
+2005,SH_H2O_SAFE,Tajikistan,All areas,41.3939
+2006,SH_H2O_SAFE,Tajikistan,All areas,42.54852
+2007,SH_H2O_SAFE,Tajikistan,All areas,43.72774
+2008,SH_H2O_SAFE,Tajikistan,All areas,44.93156
+2009,SH_H2O_SAFE,Tajikistan,All areas,46.15999
+2010,SH_H2O_SAFE,Tajikistan,All areas,47.413
+2019,SH_H2O_SAFE,France,Rural,98.4
+2020,SH_H2O_SAFE,France,Urban,99.77053
+2020,SH_H2O_SAFE,France,Rural,98.4
+2020,SH_H2O_SAFE,France,All areas,99.50978
+2021,SH_H2O_SAFE,France,Urban,99.9321
+2021,SH_H2O_SAFE,France,Rural,98.4
+2021,SH_H2O_SAFE,France,All areas,99.64471
+2022,SH_H2O_SAFE,France,All areas,99.70415
+2022,SH_H2O_SAFE,France,Urban,100.0
+2022,SH_H2O_SAFE,France,Rural,98.4
+2007,SH_H2O_SAFE,Canada,All areas,98.35997
+2008,SH_H2O_SAFE,Canada,All areas,98.41991
+2009,SH_H2O_SAFE,Canada,All areas,98.47926
+2010,SH_H2O_SAFE,Canada,All areas,98.53806
+2011,SH_H2O_SAFE,Canada,All areas,98.59599
+2012,SH_H2O_SAFE,Canada,All areas,98.65168
+2013,SH_H2O_SAFE,Canada,All areas,98.70725
+2014,SH_H2O_SAFE,Canada,All areas,98.76271
+2015,SH_H2O_SAFE,Canada,All areas,98.81806
+2016,SH_H2O_SAFE,Canada,All areas,98.87331
+2011,SH_H2O_SAFE,Tajikistan,All areas,48.52485
+2012,SH_H2O_SAFE,Tajikistan,All areas,49.36804
+2013,SH_H2O_SAFE,Tajikistan,All areas,50.20958
+2014,SH_H2O_SAFE,Tajikistan,All areas,51.04947
+2015,SH_H2O_SAFE,Tajikistan,All areas,51.88727
+2016,SH_H2O_SAFE,Tajikistan,All areas,52.72285
+2017,SH_H2O_SAFE,Tajikistan,All areas,53.55591
+2018,SH_H2O_SAFE,Tajikistan,All areas,54.38607
+2019,SH_H2O_SAFE,Tajikistan,All areas,55.21331
+2020,SH_H2O_SAFE,Tajikistan,All areas,55.23686
+2000,SH_H2O_SAFE,Georgia,Rural,38.42159
+2000,SH_H2O_SAFE,Georgia,Urban,87.23613
+2000,SH_H2O_SAFE,Georgia,All areas,64.11659
+2001,SH_H2O_SAFE,Georgia,Urban,87.26991
+2001,SH_H2O_SAFE,Georgia,Rural,38.51759
+2001,SH_H2O_SAFE,Georgia,All areas,64.06283
+2002,SH_H2O_SAFE,Georgia,Rural,38.61359
+2002,SH_H2O_SAFE,Georgia,Urban,87.30369
+2002,SH_H2O_SAFE,Georgia,All areas,64.14717
+2003,SH_H2O_SAFE,Georgia,All areas,64.39969
+2003,SH_H2O_SAFE,Kyrgyzstan,Urban,80.97856
+2003,SH_H2O_SAFE,Kyrgyzstan,All areas,46.22503
+2003,SH_H2O_SAFE,Kyrgyzstan,Rural,27.26948
+2004,SH_H2O_SAFE,Kyrgyzstan,Rural,27.58491
+2004,SH_H2O_SAFE,Kyrgyzstan,All areas,46.50846
+2004,SH_H2O_SAFE,Kyrgyzstan,Urban,81.20485
+2005,SH_H2O_SAFE,Kyrgyzstan,All areas,48.28265
+2005,SH_H2O_SAFE,Kyrgyzstan,Rural,29.75213
+2005,SH_H2O_SAFE,Kyrgyzstan,Urban,82.26139
+2006,SH_H2O_SAFE,Kyrgyzstan,All areas,50.08612
+2003,SH_H2O_SAFE,Georgia,Rural,38.70958
+2003,SH_H2O_SAFE,Georgia,Urban,87.33746
+2004,SH_H2O_SAFE,Georgia,All areas,64.65125
+2004,SH_H2O_SAFE,Georgia,Urban,87.37124
+2004,SH_H2O_SAFE,Georgia,Rural,38.80558
+2005,SH_H2O_SAFE,Georgia,Rural,38.90157
+2005,SH_H2O_SAFE,Georgia,Urban,87.40502
+2005,SH_H2O_SAFE,Georgia,All areas,64.90184
+2006,SH_H2O_SAFE,Georgia,All areas,65.15196
+2006,SH_H2O_SAFE,Georgia,Rural,38.99757
+2006,SH_H2O_SAFE,Georgia,Urban,87.43879
+2007,SH_H2O_SAFE,Georgia,Rural,39.09357
+2007,SH_H2O_SAFE,Georgia,All areas,65.40159
+2007,SH_H2O_SAFE,Georgia,Urban,87.47257
+2008,SH_H2O_SAFE,Georgia,Urban,87.50635
+2008,SH_H2O_SAFE,Georgia,Rural,39.18956
+2008,SH_H2O_SAFE,Georgia,All areas,65.65025
+2009,SH_H2O_SAFE,Georgia,Urban,87.54012
+2009,SH_H2O_SAFE,Georgia,All areas,65.89795
+2009,SH_H2O_SAFE,Georgia,Rural,39.28556
+2017,SH_H2O_SAFE,Canada,All areas,98.9285
+2018,SH_H2O_SAFE,Canada,All areas,98.98363
+2019,SH_H2O_SAFE,Canada,All areas,99.03862
+2020,SH_H2O_SAFE,Canada,All areas,99.03895
+2021,SH_H2O_SAFE,Canada,All areas,99.03932
+2022,SH_H2O_SAFE,Canada,All areas,99.03973
+2000,SH_H2O_SAFE,Chile,All areas,92.09303
+2000,SH_H2O_SAFE,Chile,Urban,97.9428
+2001,SH_H2O_SAFE,Chile,Urban,98.05993
+2001,SH_H2O_SAFE,Chile,All areas,92.59391
+2021,SH_H2O_SAFE,Tajikistan,All areas,55.26317
+2022,SH_H2O_SAFE,Tajikistan,All areas,55.2921
+2000,SH_H2O_SAFE,Turkmenistan,Urban,85.5722
+2000,SH_H2O_SAFE,Turkmenistan,All areas,66.66759
+2000,SH_H2O_SAFE,Turkmenistan,Rural,50.61998
+2001,SH_H2O_SAFE,Turkmenistan,Urban,85.60603
+2001,SH_H2O_SAFE,Turkmenistan,Rural,52.65699
+2001,SH_H2O_SAFE,Turkmenistan,All areas,67.85869
+2002,SH_H2O_SAFE,Turkmenistan,Urban,85.63986
+2002,SH_H2O_SAFE,Turkmenistan,All areas,69.06092
+2002,SH_H2O_SAFE,Turkmenistan,Rural,54.73092
+2003,SH_H2O_SAFE,Turkmenistan,Rural,56.84176
+2003,SH_H2O_SAFE,Turkmenistan,Urban,85.67368
+2003,SH_H2O_SAFE,Turkmenistan,All areas,70.27369
+2004,SH_H2O_SAFE,Turkmenistan,Urban,85.70751
+2004,SH_H2O_SAFE,Turkmenistan,All areas,71.49674
+2004,SH_H2O_SAFE,Turkmenistan,Rural,58.98951
+2005,SH_H2O_SAFE,Turkmenistan,All areas,73.17299
+2005,SH_H2O_SAFE,Turkmenistan,Urban,86.67537
+2005,SH_H2O_SAFE,Turkmenistan,Rural,61.17416
+2010,SH_H2O_SAFE,Georgia,Urban,87.5739
+2010,SH_H2O_SAFE,Georgia,Rural,39.38155
+2010,SH_H2O_SAFE,Georgia,All areas,66.14518
+2011,SH_H2O_SAFE,Georgia,All areas,66.39144
+2011,SH_H2O_SAFE,Georgia,Urban,87.60768
+2011,SH_H2O_SAFE,Georgia,Rural,39.47755
+2012,SH_H2O_SAFE,Georgia,Urban,87.64145
+2012,SH_H2O_SAFE,Georgia,All areas,66.63722
+2012,SH_H2O_SAFE,Georgia,Rural,39.57354
+2013,SH_H2O_SAFE,Georgia,Urban,87.67523
+2006,SH_H2O_SAFE,Turkmenistan,All areas,74.86708
+2006,SH_H2O_SAFE,Turkmenistan,Rural,63.39573
+2006,SH_H2O_SAFE,Turkmenistan,Urban,87.64396
+2007,SH_H2O_SAFE,Turkmenistan,All areas,76.57837
+2007,SH_H2O_SAFE,Turkmenistan,Rural,65.6542
+2007,SH_H2O_SAFE,Turkmenistan,Urban,88.6133
+2008,SH_H2O_SAFE,Turkmenistan,Urban,89.58337
+2008,SH_H2O_SAFE,Turkmenistan,All areas,78.30525
+2008,SH_H2O_SAFE,Turkmenistan,Rural,67.94959
+2009,SH_H2O_SAFE,Turkmenistan,Urban,90.55417
+2013,SH_H2O_SAFE,Georgia,Rural,39.66954
+2013,SH_H2O_SAFE,Georgia,All areas,66.88157
+2014,SH_H2O_SAFE,Georgia,Urban,87.70901
+2014,SH_H2O_SAFE,Georgia,Rural,39.76554
+2014,SH_H2O_SAFE,Georgia,All areas,67.12544
+2015,SH_H2O_SAFE,Georgia,Urban,87.74278
+2015,SH_H2O_SAFE,Georgia,All areas,67.36836
+2015,SH_H2O_SAFE,Georgia,Rural,39.86153
+2016,SH_H2O_SAFE,Georgia,Urban,87.77656
+2016,SH_H2O_SAFE,Georgia,Rural,39.95753
+2009,SH_H2O_SAFE,Turkmenistan,All areas,80.04745
+2009,SH_H2O_SAFE,Turkmenistan,Rural,70.28188
+2010,SH_H2O_SAFE,Turkmenistan,All areas,81.80358
+2010,SH_H2O_SAFE,Turkmenistan,Urban,91.52572
+2010,SH_H2O_SAFE,Turkmenistan,Rural,72.65109
+2011,SH_H2O_SAFE,Turkmenistan,Rural,75.0572
+2011,SH_H2O_SAFE,Turkmenistan,Urban,92.498
+2011,SH_H2O_SAFE,Turkmenistan,All areas,83.57267
+2012,SH_H2O_SAFE,Turkmenistan,Urban,93.47101
+2012,SH_H2O_SAFE,Turkmenistan,Rural,77.50022
+2016,SH_H2O_SAFE,Georgia,All areas,67.61462
+2017,SH_H2O_SAFE,Georgia,Urban,87.81034
+2017,SH_H2O_SAFE,Georgia,Rural,40.05352
+2017,SH_H2O_SAFE,Georgia,All areas,67.8628
+2018,SH_H2O_SAFE,Georgia,All areas,68.11381
+2018,SH_H2O_SAFE,Georgia,Rural,40.14952
+2018,SH_H2O_SAFE,Georgia,Urban,87.84412
+2019,SH_H2O_SAFE,Georgia,Urban,87.87789
+2019,SH_H2O_SAFE,Georgia,Rural,40.24552
+2019,SH_H2O_SAFE,Georgia,All areas,68.3672
+2002,SH_H2O_SAFE,Chile,All areas,93.07063
+2002,SH_H2O_SAFE,Chile,Urban,98.17712
+2003,SH_H2O_SAFE,Chile,Urban,98.29439
+2003,SH_H2O_SAFE,Chile,All areas,93.47617
+2004,SH_H2O_SAFE,Chile,Urban,98.41172
+2004,SH_H2O_SAFE,Chile,All areas,93.88458
+2005,SH_H2O_SAFE,Chile,Urban,98.52912
+2005,SH_H2O_SAFE,Chile,All areas,94.29475
+2006,SH_H2O_SAFE,Chile,Urban,98.64659
+2006,SH_H2O_SAFE,Chile,All areas,94.70764
+2012,SH_H2O_SAFE,Turkmenistan,All areas,85.35386
+2013,SH_H2O_SAFE,Turkmenistan,Urban,94.44477
+2013,SH_H2O_SAFE,Turkmenistan,All areas,87.14607
+2013,SH_H2O_SAFE,Turkmenistan,Rural,79.98016
+2014,SH_H2O_SAFE,Turkmenistan,Rural,82.497
+2014,SH_H2O_SAFE,Turkmenistan,All areas,88.94335
+2014,SH_H2O_SAFE,Turkmenistan,Urban,95.41011
+2015,SH_H2O_SAFE,Turkmenistan,Urban,96.37284
+2015,SH_H2O_SAFE,Turkmenistan,Rural,85.05075
+2015,SH_H2O_SAFE,Turkmenistan,All areas,90.74768
+2007,SH_H2O_SAFE,Chile,All areas,95.12259
+2007,SH_H2O_SAFE,Chile,Urban,98.73797
+2008,SH_H2O_SAFE,Chile,All areas,95.54009
+2008,SH_H2O_SAFE,Chile,Urban,98.8175
+2009,SH_H2O_SAFE,Chile,Urban,98.89705
+2009,SH_H2O_SAFE,Chile,All areas,95.95955
+2010,SH_H2O_SAFE,Chile,Urban,98.97663
+2010,SH_H2O_SAFE,Chile,All areas,96.38097
+2011,SH_H2O_SAFE,Chile,All areas,96.80475
+2011,SH_H2O_SAFE,Chile,Urban,99.05624
+2020,SH_H2O_SAFE,Georgia,All areas,68.62339
+2020,SH_H2O_SAFE,Georgia,Urban,87.91167
+2020,SH_H2O_SAFE,Georgia,Rural,40.34151
+2021,SH_H2O_SAFE,Georgia,Rural,40.43751
+2021,SH_H2O_SAFE,Georgia,All areas,68.88146
+2021,SH_H2O_SAFE,Georgia,Urban,87.94545
+2022,SH_H2O_SAFE,Georgia,All areas,69.14185
+2022,SH_H2O_SAFE,Georgia,Rural,40.5335
+2022,SH_H2O_SAFE,Georgia,Urban,87.97922
+2000,SH_H2O_SAFE,Germany,Rural,99.84176
+2016,SH_H2O_SAFE,Turkmenistan,All areas,92.28499
+2016,SH_H2O_SAFE,Turkmenistan,Urban,96.79529
+2016,SH_H2O_SAFE,Turkmenistan,Rural,87.64141
+2017,SH_H2O_SAFE,Turkmenistan,All areas,93.68088
+2017,SH_H2O_SAFE,Turkmenistan,Rural,90.26898
+2017,SH_H2O_SAFE,Turkmenistan,Urban,96.93897
+2018,SH_H2O_SAFE,Turkmenistan,All areas,94.79053
+2018,SH_H2O_SAFE,Turkmenistan,Rural,92.34755
+2018,SH_H2O_SAFE,Turkmenistan,Urban,97.08265
+2019,SH_H2O_SAFE,Turkmenistan,All areas,94.81207
+2000,SH_H2O_SAFE,Germany,All areas,99.8429
+2000,SH_H2O_SAFE,Germany,Urban,99.84328
+2001,SH_H2O_SAFE,Germany,All areas,99.8429
+2001,SH_H2O_SAFE,Germany,Rural,99.84176
+2001,SH_H2O_SAFE,Germany,Urban,99.84328
+2002,SH_H2O_SAFE,Germany,All areas,99.8429
+2002,SH_H2O_SAFE,Germany,Urban,99.84328
+2002,SH_H2O_SAFE,Germany,Rural,99.84176
+2003,SH_H2O_SAFE,Germany,All areas,99.84291
+2003,SH_H2O_SAFE,Germany,Urban,99.84328
+2019,SH_H2O_SAFE,Turkmenistan,Urban,97.08265
+2019,SH_H2O_SAFE,Turkmenistan,Rural,92.34755
+2020,SH_H2O_SAFE,Turkmenistan,All areas,94.83424
+2020,SH_H2O_SAFE,Turkmenistan,Urban,97.08265
+2020,SH_H2O_SAFE,Turkmenistan,Rural,92.34755
+2021,SH_H2O_SAFE,Turkmenistan,Urban,97.08265
+2021,SH_H2O_SAFE,Turkmenistan,Rural,92.34755
+2021,SH_H2O_SAFE,Turkmenistan,All areas,94.85706
+2022,SH_H2O_SAFE,Turkmenistan,Urban,97.08265
+2022,SH_H2O_SAFE,Turkmenistan,Rural,92.34755
+2003,SH_H2O_SAFE,Germany,Rural,99.84176
+2004,SH_H2O_SAFE,Germany,Rural,99.84176
+2004,SH_H2O_SAFE,Germany,All areas,99.84935
+2004,SH_H2O_SAFE,Germany,Urban,99.85177
+2005,SH_H2O_SAFE,Germany,All areas,99.85583
+2005,SH_H2O_SAFE,Germany,Urban,99.86027
+2005,SH_H2O_SAFE,Germany,Rural,99.84176
+2006,SH_H2O_SAFE,Germany,Urban,99.86877
+2006,SH_H2O_SAFE,Germany,Rural,99.84176
+2006,SH_H2O_SAFE,Germany,All areas,99.86234
+2007,SH_H2O_SAFE,Germany,Rural,99.84176
+2007,SH_H2O_SAFE,Germany,All areas,99.86888
+2007,SH_H2O_SAFE,Germany,Urban,99.87727
+2008,SH_H2O_SAFE,Germany,All areas,99.87546
+2008,SH_H2O_SAFE,Germany,Urban,99.88577
+2008,SH_H2O_SAFE,Germany,Rural,99.84176
+2009,SH_H2O_SAFE,Germany,Urban,99.89426
+2009,SH_H2O_SAFE,Germany,All areas,99.87845
+2009,SH_H2O_SAFE,Germany,Rural,99.82618
+2010,SH_H2O_SAFE,Germany,Rural,99.81059
+2006,SH_H2O_SAFE,Kyrgyzstan,Rural,31.96122
+2006,SH_H2O_SAFE,Kyrgyzstan,Urban,83.32254
+2007,SH_H2O_SAFE,Kyrgyzstan,All areas,51.91783
+2007,SH_H2O_SAFE,Kyrgyzstan,Rural,34.21218
+2007,SH_H2O_SAFE,Kyrgyzstan,Urban,84.3883
+2008,SH_H2O_SAFE,Kyrgyzstan,All areas,53.77832
+2008,SH_H2O_SAFE,Kyrgyzstan,Rural,36.50502
+2008,SH_H2O_SAFE,Kyrgyzstan,Urban,85.45868
+2009,SH_H2O_SAFE,Kyrgyzstan,Rural,38.83972
+2009,SH_H2O_SAFE,Kyrgyzstan,Urban,86.53367
+2022,SH_H2O_SAFE,Turkmenistan,All areas,94.88054
+2000,SH_H2O_SAFE,Ukraine,All areas,66.53978
+2000,SH_H2O_SAFE,Ukraine,Urban,94.89892
+2000,SH_H2O_SAFE,Ukraine,Rural,8.58286
+2001,SH_H2O_SAFE,Ukraine,Urban,94.86613
+2001,SH_H2O_SAFE,Ukraine,All areas,66.55705
+2001,SH_H2O_SAFE,Ukraine,Rural,8.60269
+2002,SH_H2O_SAFE,Ukraine,All areas,66.62774
+2002,SH_H2O_SAFE,Ukraine,Rural,8.62252
+2002,SH_H2O_SAFE,Ukraine,Urban,94.83333
+2010,SH_H2O_SAFE,Germany,Urban,99.90276
+2010,SH_H2O_SAFE,Germany,All areas,99.88153
+2011,SH_H2O_SAFE,Germany,Urban,99.91126
+2011,SH_H2O_SAFE,Germany,Rural,99.795
+2011,SH_H2O_SAFE,Germany,All areas,99.8847
+2012,SH_H2O_SAFE,Germany,Rural,99.77941
+2012,SH_H2O_SAFE,Germany,All areas,99.88772
+2012,SH_H2O_SAFE,Germany,Urban,99.91976
+2013,SH_H2O_SAFE,Germany,Rural,99.76382
+2013,SH_H2O_SAFE,Germany,Urban,99.92825
+2003,SH_H2O_SAFE,Ukraine,Urban,94.80053
+2003,SH_H2O_SAFE,Ukraine,Rural,8.64235
+2003,SH_H2O_SAFE,Ukraine,All areas,66.73623
+2004,SH_H2O_SAFE,Ukraine,All areas,69.34845
+2004,SH_H2O_SAFE,Ukraine,Rural,17.44791
+2004,SH_H2O_SAFE,Ukraine,Urban,94.22726
+2005,SH_H2O_SAFE,Ukraine,Urban,93.65436
+2005,SH_H2O_SAFE,Ukraine,Rural,26.2937
+2005,SH_H2O_SAFE,Ukraine,All areas,71.95749
+2006,SH_H2O_SAFE,Ukraine,Rural,35.17972
+2013,SH_H2O_SAFE,Germany,All areas,99.89073
+2014,SH_H2O_SAFE,Germany,Urban,99.93675
+2014,SH_H2O_SAFE,Germany,All areas,99.89375
+2014,SH_H2O_SAFE,Germany,Rural,99.74824
+2015,SH_H2O_SAFE,Germany,Rural,99.73265
+2015,SH_H2O_SAFE,Germany,All areas,99.89677
+2015,SH_H2O_SAFE,Germany,Urban,99.94525
+2016,SH_H2O_SAFE,Germany,All areas,99.89984
+2016,SH_H2O_SAFE,Germany,Rural,99.71706
+2016,SH_H2O_SAFE,Germany,Urban,99.95375
+2006,SH_H2O_SAFE,Ukraine,Urban,93.08184
+2006,SH_H2O_SAFE,Ukraine,All areas,74.53521
+2007,SH_H2O_SAFE,Ukraine,Urban,92.50969
+2007,SH_H2O_SAFE,Ukraine,Rural,44.10597
+2007,SH_H2O_SAFE,Ukraine,All areas,77.09165
+2008,SH_H2O_SAFE,Ukraine,All areas,79.62728
+2008,SH_H2O_SAFE,Ukraine,Rural,53.07244
+2008,SH_H2O_SAFE,Ukraine,Urban,91.93792
+2009,SH_H2O_SAFE,Ukraine,Urban,91.36652
+2009,SH_H2O_SAFE,Ukraine,Rural,62.07914
+2009,SH_H2O_SAFE,Ukraine,All areas,82.14158
+2010,SH_H2O_SAFE,Ukraine,Rural,71.12607
+2010,SH_H2O_SAFE,Ukraine,Urban,90.79549
+2010,SH_H2O_SAFE,Ukraine,All areas,84.6185
+2011,SH_H2O_SAFE,Ukraine,All areas,87.0901
+2011,SH_H2O_SAFE,Ukraine,Rural,80.21322
+2011,SH_H2O_SAFE,Ukraine,Urban,90.22484
+2012,SH_H2O_SAFE,Ukraine,All areas,89.55655
+2012,SH_H2O_SAFE,Ukraine,Rural,89.3406
+2012,SH_H2O_SAFE,Ukraine,Urban,89.65456
+2013,SH_H2O_SAFE,Ukraine,All areas,89.5572
+2013,SH_H2O_SAFE,Ukraine,Rural,90.60287
+2013,SH_H2O_SAFE,Ukraine,Urban,89.08466
+2014,SH_H2O_SAFE,Ukraine,All areas,89.0136
+2014,SH_H2O_SAFE,Ukraine,Rural,90.12145
+2014,SH_H2O_SAFE,Ukraine,Urban,88.51513
+2015,SH_H2O_SAFE,Ukraine,Rural,89.63697
+2015,SH_H2O_SAFE,Ukraine,Urban,88.48438
+2015,SH_H2O_SAFE,Ukraine,All areas,88.84098
+2016,SH_H2O_SAFE,Ukraine,Urban,88.45364
+2017,SH_H2O_SAFE,Germany,Rural,99.70147
+2017,SH_H2O_SAFE,Germany,Urban,99.96225
+2017,SH_H2O_SAFE,Germany,All areas,99.90295
+2018,SH_H2O_SAFE,Germany,All areas,99.90612
+2018,SH_H2O_SAFE,Germany,Rural,99.68588
+2018,SH_H2O_SAFE,Germany,Urban,99.97074
+2019,SH_H2O_SAFE,Germany,Urban,99.97924
+2019,SH_H2O_SAFE,Germany,All areas,99.90934
+2019,SH_H2O_SAFE,Germany,Rural,99.67029
+2020,SH_H2O_SAFE,Germany,All areas,99.91265
+2016,SH_H2O_SAFE,Ukraine,Rural,89.14942
+2016,SH_H2O_SAFE,Ukraine,All areas,88.66826
+2017,SH_H2O_SAFE,Ukraine,Rural,88.65881
+2017,SH_H2O_SAFE,Ukraine,All areas,88.49545
+2017,SH_H2O_SAFE,Ukraine,Urban,88.4229
+2018,SH_H2O_SAFE,Ukraine,All areas,88.32258
+2018,SH_H2O_SAFE,Ukraine,Rural,88.16513
+2018,SH_H2O_SAFE,Ukraine,Urban,88.39216
+2019,SH_H2O_SAFE,Ukraine,Rural,87.66839
+2019,SH_H2O_SAFE,Ukraine,All areas,88.14986
+2019,SH_H2O_SAFE,Ukraine,Urban,88.36142
+2020,SH_H2O_SAFE,Ukraine,All areas,87.9775
+2020,SH_H2O_SAFE,Ukraine,Rural,87.16859
+2020,SH_H2O_SAFE,Ukraine,Urban,88.33068
+2021,SH_H2O_SAFE,Ukraine,All areas,87.7694
+2021,SH_H2O_SAFE,Ukraine,Urban,88.29994
+2021,SH_H2O_SAFE,Ukraine,Rural,86.54567
+2022,SH_H2O_SAFE,Ukraine,All areas,87.62073
+2022,SH_H2O_SAFE,Ukraine,Urban,88.2692
+2022,SH_H2O_SAFE,Ukraine,Rural,86.11342
+2020,SH_H2O_SAFE,Germany,Urban,99.98774
+2020,SH_H2O_SAFE,Germany,Rural,99.65471
+2021,SH_H2O_SAFE,Germany,Rural,99.63912
+2021,SH_H2O_SAFE,Germany,Urban,99.99624
+2021,SH_H2O_SAFE,Germany,All areas,99.91604
+2022,SH_H2O_SAFE,Germany,Rural,99.63912
+2022,SH_H2O_SAFE,Germany,All areas,99.91641
+2022,SH_H2O_SAFE,Germany,Urban,99.99624
+2000,SH_H2O_SAFE,Greece,All areas,99.15239
+2001,SH_H2O_SAFE,Greece,All areas,99.21812
+2000,SH_H2O_SAFE,North Macedonia,Urban,84.7792
+2000,SH_H2O_SAFE,North Macedonia,Rural,74.39429
+2000,SH_H2O_SAFE,North Macedonia,All areas,80.47444
+2001,SH_H2O_SAFE,North Macedonia,Urban,84.7792
+2001,SH_H2O_SAFE,North Macedonia,All areas,80.45274
+2001,SH_H2O_SAFE,North Macedonia,Rural,74.39429
+2002,SH_H2O_SAFE,North Macedonia,Urban,84.7792
+2002,SH_H2O_SAFE,North Macedonia,Rural,74.39429
+2002,SH_H2O_SAFE,North Macedonia,All areas,80.43103
+2003,SH_H2O_SAFE,North Macedonia,Urban,84.7792
+2002,SH_H2O_SAFE,Greece,All areas,99.28736
+2003,SH_H2O_SAFE,Greece,All areas,99.35515
+2004,SH_H2O_SAFE,Greece,All areas,99.42153
+2005,SH_H2O_SAFE,Greece,All areas,99.48649
+2006,SH_H2O_SAFE,Greece,All areas,99.47334
+2007,SH_H2O_SAFE,Greece,All areas,99.44517
+2008,SH_H2O_SAFE,Greece,All areas,99.41645
+2009,SH_H2O_SAFE,Greece,All areas,99.38721
+2010,SH_H2O_SAFE,Greece,All areas,99.35745
+2011,SH_H2O_SAFE,Greece,All areas,99.3272
+2003,SH_H2O_SAFE,North Macedonia,Rural,74.39429
+2003,SH_H2O_SAFE,North Macedonia,All areas,80.40933
+2004,SH_H2O_SAFE,North Macedonia,All areas,80.38752
+2004,SH_H2O_SAFE,North Macedonia,Urban,84.7792
+2004,SH_H2O_SAFE,North Macedonia,Rural,74.39429
+2005,SH_H2O_SAFE,North Macedonia,All areas,80.37092
+2005,SH_H2O_SAFE,North Macedonia,Rural,74.41213
+2005,SH_H2O_SAFE,North Macedonia,Urban,84.76947
+2006,SH_H2O_SAFE,North Macedonia,Urban,84.75975
+2006,SH_H2O_SAFE,North Macedonia,All areas,80.35751
+2006,SH_H2O_SAFE,North Macedonia,Rural,74.42997
+2007,SH_H2O_SAFE,North Macedonia,All areas,80.34727
+2007,SH_H2O_SAFE,North Macedonia,Rural,74.44781
+2007,SH_H2O_SAFE,North Macedonia,Urban,84.75003
+2008,SH_H2O_SAFE,North Macedonia,Urban,84.74031
+2008,SH_H2O_SAFE,North Macedonia,Rural,74.46565
+2008,SH_H2O_SAFE,North Macedonia,All areas,80.34019
+2009,SH_H2O_SAFE,North Macedonia,Rural,74.48349
+2009,SH_H2O_SAFE,North Macedonia,All areas,80.33632
+2009,SH_H2O_SAFE,North Macedonia,Urban,84.73059
+2012,SH_H2O_SAFE,Greece,All areas,99.29645
+2013,SH_H2O_SAFE,Greece,All areas,99.2652
+2014,SH_H2O_SAFE,Greece,All areas,99.23347
+2015,SH_H2O_SAFE,Greece,All areas,99.18443
+2016,SH_H2O_SAFE,Greece,All areas,99.13364
+2017,SH_H2O_SAFE,Greece,All areas,99.08283
+2018,SH_H2O_SAFE,Greece,All areas,99.03204
+2019,SH_H2O_SAFE,Greece,All areas,98.98124
+2020,SH_H2O_SAFE,Greece,All areas,98.93044
+2021,SH_H2O_SAFE,Greece,All areas,98.87964
+2010,SH_H2O_SAFE,North Macedonia,Urban,84.72086
+2010,SH_H2O_SAFE,North Macedonia,Rural,74.50133
+2010,SH_H2O_SAFE,North Macedonia,All areas,80.33556
+2011,SH_H2O_SAFE,North Macedonia,Urban,84.71114
+2011,SH_H2O_SAFE,North Macedonia,Rural,74.51917
+2011,SH_H2O_SAFE,North Macedonia,All areas,80.33797
+2012,SH_H2O_SAFE,North Macedonia,All areas,80.34343
+2012,SH_H2O_SAFE,North Macedonia,Urban,84.70142
+2012,SH_H2O_SAFE,North Macedonia,Rural,74.53701
+2013,SH_H2O_SAFE,North Macedonia,All areas,80.35201
+2013,SH_H2O_SAFE,North Macedonia,Rural,74.55485
+2013,SH_H2O_SAFE,North Macedonia,Urban,84.6917
+2014,SH_H2O_SAFE,North Macedonia,Rural,74.57269
+2014,SH_H2O_SAFE,North Macedonia,All areas,80.36369
+2014,SH_H2O_SAFE,North Macedonia,Urban,84.68198
+2015,SH_H2O_SAFE,North Macedonia,Rural,74.59053
+2015,SH_H2O_SAFE,North Macedonia,Urban,84.67226
+2015,SH_H2O_SAFE,North Macedonia,All areas,80.37825
+2016,SH_H2O_SAFE,North Macedonia,Urban,84.66253
+2016,SH_H2O_SAFE,North Macedonia,All areas,80.39585
+2016,SH_H2O_SAFE,North Macedonia,Rural,74.60837
+2017,SH_H2O_SAFE,North Macedonia,All areas,80.41637
+2017,SH_H2O_SAFE,North Macedonia,Rural,74.62621
+2017,SH_H2O_SAFE,North Macedonia,Urban,84.65281
+2018,SH_H2O_SAFE,North Macedonia,Rural,74.36809
+2018,SH_H2O_SAFE,North Macedonia,Urban,84.64309
+2018,SH_H2O_SAFE,North Macedonia,All areas,80.32379
+2019,SH_H2O_SAFE,North Macedonia,All areas,80.35073
+2019,SH_H2O_SAFE,North Macedonia,Rural,74.38587
+2019,SH_H2O_SAFE,North Macedonia,Urban,84.63337
+2020,SH_H2O_SAFE,North Macedonia,All areas,80.3805
+2020,SH_H2O_SAFE,North Macedonia,Urban,84.62365
+2020,SH_H2O_SAFE,North Macedonia,Rural,74.40364
+2021,SH_H2O_SAFE,North Macedonia,Rural,74.42142
+2021,SH_H2O_SAFE,North Macedonia,All areas,80.41318
+2021,SH_H2O_SAFE,North Macedonia,Urban,84.61392
+2022,SH_H2O_SAFE,North Macedonia,All areas,80.44703
+2022,SH_H2O_SAFE,North Macedonia,Urban,84.61392
+2022,SH_H2O_SAFE,North Macedonia,Rural,74.42142
+2000,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2022,SH_H2O_SAFE,Greece,All areas,98.87964
+2000,SH_H2O_SAFE,Hungary,All areas,86.63125
+2000,SH_H2O_SAFE,Hungary,Urban,89.73371
+2000,SH_H2O_SAFE,Hungary,Rural,80.97588
+2001,SH_H2O_SAFE,Hungary,Urban,89.73371
+2001,SH_H2O_SAFE,Hungary,All areas,86.63957
+2001,SH_H2O_SAFE,Hungary,Rural,80.97588
+2002,SH_H2O_SAFE,Hungary,All areas,86.67556
+2002,SH_H2O_SAFE,Hungary,Rural,80.97589
+2002,SH_H2O_SAFE,Hungary,Urban,89.73371
+2001,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2002,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2003,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2004,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2005,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,100.0
+2006,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.99818
+2007,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.98605
+2008,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.97393
+2009,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.9618
+2003,SH_H2O_SAFE,Hungary,Rural,80.97589
+2003,SH_H2O_SAFE,Hungary,Urban,89.73371
+2003,SH_H2O_SAFE,Hungary,All areas,86.7113
+2004,SH_H2O_SAFE,Hungary,All areas,86.74695
+2004,SH_H2O_SAFE,Hungary,Rural,80.97589
+2004,SH_H2O_SAFE,Hungary,Urban,89.73371
+2005,SH_H2O_SAFE,Hungary,All areas,86.78802
+2005,SH_H2O_SAFE,Hungary,Rural,80.9759
+2005,SH_H2O_SAFE,Hungary,Urban,89.73371
+2006,SH_H2O_SAFE,Hungary,Urban,89.73371
+2010,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.94968
+2011,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.93754
+2012,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.92542
+2013,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.91329
+2014,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.90116
+2015,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.88904
+2016,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.87691
+2017,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.86478
+2018,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.85266
+2006,SH_H2O_SAFE,Hungary,Rural,80.9759
+2006,SH_H2O_SAFE,Hungary,All areas,86.83444
+2007,SH_H2O_SAFE,Hungary,Urban,89.73371
+2007,SH_H2O_SAFE,Hungary,All areas,86.88051
+2007,SH_H2O_SAFE,Hungary,Rural,80.97591
+2008,SH_H2O_SAFE,Hungary,Rural,80.97591
+2008,SH_H2O_SAFE,Hungary,Urban,89.73371
+2008,SH_H2O_SAFE,Hungary,All areas,86.92622
+2009,SH_H2O_SAFE,Hungary,All areas,86.9715
+2009,SH_H2O_SAFE,Hungary,Urban,89.73371
+2009,SH_H2O_SAFE,Hungary,Rural,80.97592
+2010,SH_H2O_SAFE,Hungary,Urban,89.73371
+2010,SH_H2O_SAFE,Hungary,Rural,80.97592
+2010,SH_H2O_SAFE,Hungary,All areas,87.011
+2011,SH_H2O_SAFE,Hungary,Rural,80.97593
+2011,SH_H2O_SAFE,Hungary,Urban,89.73371
+2011,SH_H2O_SAFE,Hungary,All areas,87.05015
+2012,SH_H2O_SAFE,Hungary,All areas,87.07818
+2012,SH_H2O_SAFE,Hungary,Rural,80.97593
+2012,SH_H2O_SAFE,Hungary,Urban,89.73371
+2019,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.84053
+2020,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.82841
+2021,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.81627
+2022,SH_H2O_SAFE,United Kingdom of Great Britain and Northern Ireland,All areas,99.80415
+2000,SH_H2O_SAFE,Uzbekistan,All areas,53.76749
+2000,SH_H2O_SAFE,Uzbekistan,Urban,84.20775
+2000,SH_H2O_SAFE,Uzbekistan,Rural,27.70505
+2001,SH_H2O_SAFE,Uzbekistan,Rural,29.51952
+2001,SH_H2O_SAFE,Uzbekistan,All areas,55.11487
+2001,SH_H2O_SAFE,Uzbekistan,Urban,84.43809
+2013,SH_H2O_SAFE,Hungary,Rural,83.21603
+2013,SH_H2O_SAFE,Hungary,All areas,88.59905
+2013,SH_H2O_SAFE,Hungary,Urban,90.91123
+2014,SH_H2O_SAFE,Hungary,Urban,92.08875
+2014,SH_H2O_SAFE,Hungary,All areas,90.11402
+2014,SH_H2O_SAFE,Hungary,Rural,85.45613
+2015,SH_H2O_SAFE,Hungary,Rural,87.69623
+2015,SH_H2O_SAFE,Hungary,All areas,91.62311
+2015,SH_H2O_SAFE,Hungary,Urban,93.26628
+2016,SH_H2O_SAFE,Hungary,Rural,89.93633
+2002,SH_H2O_SAFE,Uzbekistan,Urban,84.66869
+2002,SH_H2O_SAFE,Uzbekistan,Rural,31.34914
+2002,SH_H2O_SAFE,Uzbekistan,All areas,56.45625
+2003,SH_H2O_SAFE,Uzbekistan,All areas,57.7908
+2003,SH_H2O_SAFE,Uzbekistan,Urban,84.89954
+2003,SH_H2O_SAFE,Uzbekistan,Rural,33.19392
+2004,SH_H2O_SAFE,Uzbekistan,Rural,35.05386
+2004,SH_H2O_SAFE,Uzbekistan,Urban,85.13066
+2004,SH_H2O_SAFE,Uzbekistan,All areas,59.11776
+2005,SH_H2O_SAFE,Uzbekistan,All areas,60.43691
+2016,SH_H2O_SAFE,Hungary,Urban,94.4438
+2016,SH_H2O_SAFE,Hungary,All areas,93.12667
+2017,SH_H2O_SAFE,Hungary,All areas,94.62444
+2017,SH_H2O_SAFE,Hungary,Urban,95.62132
+2017,SH_H2O_SAFE,Hungary,Rural,92.17643
+2018,SH_H2O_SAFE,Hungary,Urban,96.79884
+2018,SH_H2O_SAFE,Hungary,All areas,96.14338
+2018,SH_H2O_SAFE,Hungary,Rural,94.51095
+2019,SH_H2O_SAFE,Hungary,Rural,96.75328
+2019,SH_H2O_SAFE,Hungary,Urban,97.97637
+2005,SH_H2O_SAFE,Uzbekistan,Urban,85.36204
+2005,SH_H2O_SAFE,Uzbekistan,Rural,36.92894
+2006,SH_H2O_SAFE,Uzbekistan,All areas,61.74851
+2006,SH_H2O_SAFE,Uzbekistan,Urban,85.59367
+2006,SH_H2O_SAFE,Uzbekistan,Rural,38.81918
+2007,SH_H2O_SAFE,Uzbekistan,All areas,63.05183
+2007,SH_H2O_SAFE,Uzbekistan,Urban,85.82557
+2007,SH_H2O_SAFE,Uzbekistan,Rural,40.72458
+2008,SH_H2O_SAFE,Uzbekistan,All areas,64.34665
+2008,SH_H2O_SAFE,Uzbekistan,Urban,86.05773
+2019,SH_H2O_SAFE,Hungary,All areas,97.62955
+2020,SH_H2O_SAFE,Hungary,Urban,99.15389
+2020,SH_H2O_SAFE,Hungary,All areas,99.10948
+2020,SH_H2O_SAFE,Hungary,Rural,98.99562
+2021,SH_H2O_SAFE,Hungary,Rural,100.0
+2021,SH_H2O_SAFE,Hungary,All areas,100.0
+2021,SH_H2O_SAFE,Hungary,Urban,100.0
+2022,SH_H2O_SAFE,Hungary,Urban,100.0
+2022,SH_H2O_SAFE,Hungary,Rural,100.0
+2022,SH_H2O_SAFE,Hungary,All areas,100.0
+2008,SH_H2O_SAFE,Uzbekistan,Rural,42.64512
+2009,SH_H2O_SAFE,Uzbekistan,All areas,65.63235
+2009,SH_H2O_SAFE,Uzbekistan,Urban,86.29015
+2009,SH_H2O_SAFE,Uzbekistan,Rural,44.58082
+2010,SH_H2O_SAFE,Uzbekistan,Rural,46.53168
+2010,SH_H2O_SAFE,Uzbekistan,Urban,86.52282
+2010,SH_H2O_SAFE,Uzbekistan,All areas,66.90957
+2011,SH_H2O_SAFE,Uzbekistan,All areas,68.06669
+2011,SH_H2O_SAFE,Uzbekistan,Rural,48.49769
+2011,SH_H2O_SAFE,Uzbekistan,Urban,86.75576
+2000,SH_H2O_SAFE,Iceland,All areas,90.15561
+2001,SH_H2O_SAFE,Iceland,All areas,90.6908
+2002,SH_H2O_SAFE,Iceland,All areas,91.226
+2003,SH_H2O_SAFE,Iceland,All areas,91.7612
+2004,SH_H2O_SAFE,Iceland,All areas,92.29639
+2005,SH_H2O_SAFE,Iceland,All areas,92.83159
+2006,SH_H2O_SAFE,Iceland,All areas,93.36679
+2007,SH_H2O_SAFE,Iceland,All areas,93.90199
+2008,SH_H2O_SAFE,Iceland,All areas,94.43718
+2009,SH_H2O_SAFE,Iceland,All areas,94.97238
+2012,SH_H2O_SAFE,Uzbekistan,Rural,50.47885
+2012,SH_H2O_SAFE,Uzbekistan,Urban,86.98896
+2012,SH_H2O_SAFE,Uzbekistan,All areas,69.11726
+2013,SH_H2O_SAFE,Uzbekistan,Rural,52.47517
+2013,SH_H2O_SAFE,Uzbekistan,All areas,70.17889
+2013,SH_H2O_SAFE,Uzbekistan,Urban,87.22242
+2014,SH_H2O_SAFE,Uzbekistan,All areas,71.25163
+2014,SH_H2O_SAFE,Uzbekistan,Urban,87.45614
+2014,SH_H2O_SAFE,Uzbekistan,Rural,54.48664
+2015,SH_H2O_SAFE,Uzbekistan,Rural,56.51326
+2015,SH_H2O_SAFE,Uzbekistan,Urban,87.69011
+2015,SH_H2O_SAFE,Uzbekistan,All areas,72.33551
+2016,SH_H2O_SAFE,Uzbekistan,All areas,73.4306
+2016,SH_H2O_SAFE,Uzbekistan,Rural,58.55504
+2016,SH_H2O_SAFE,Uzbekistan,Urban,87.92435
+2017,SH_H2O_SAFE,Uzbekistan,All areas,74.53692
+2017,SH_H2O_SAFE,Uzbekistan,Rural,60.61197
+2017,SH_H2O_SAFE,Uzbekistan,Urban,88.15885
+2018,SH_H2O_SAFE,Uzbekistan,Urban,88.39361
+2018,SH_H2O_SAFE,Uzbekistan,Rural,62.68405
+2010,SH_H2O_SAFE,Iceland,All areas,95.50758
+2011,SH_H2O_SAFE,Iceland,All areas,96.04278
+2012,SH_H2O_SAFE,Iceland,All areas,96.57797
+2013,SH_H2O_SAFE,Iceland,All areas,97.11317
+2014,SH_H2O_SAFE,Iceland,All areas,97.64837
+2015,SH_H2O_SAFE,Iceland,All areas,98.18356
+2016,SH_H2O_SAFE,Iceland,All areas,98.71876
+2017,SH_H2O_SAFE,Iceland,All areas,99.25396
+2018,SH_H2O_SAFE,Iceland,All areas,99.78916
+2019,SH_H2O_SAFE,Iceland,All areas,100.0
+2018,SH_H2O_SAFE,Uzbekistan,All areas,75.66172
+2019,SH_H2O_SAFE,Uzbekistan,All areas,76.77456
+2019,SH_H2O_SAFE,Uzbekistan,Urban,88.57479
+2019,SH_H2O_SAFE,Uzbekistan,Rural,64.76816
+2020,SH_H2O_SAFE,Uzbekistan,Rural,66.75038
+2020,SH_H2O_SAFE,Uzbekistan,All areas,77.78847
+2020,SH_H2O_SAFE,Uzbekistan,Urban,88.64441
+2021,SH_H2O_SAFE,Uzbekistan,Rural,68.7406
+2021,SH_H2O_SAFE,Uzbekistan,Urban,88.71402
+2021,SH_H2O_SAFE,Uzbekistan,All areas,78.8126
+2020,SH_H2O_SAFE,Iceland,All areas,100.0
+2021,SH_H2O_SAFE,Iceland,All areas,100.0
+2022,SH_H2O_SAFE,Iceland,All areas,100.0
+2000,SH_H2O_SAFE,India,Rural,27.8203
+2001,SH_H2O_SAFE,India,Rural,29.31268
+2002,SH_H2O_SAFE,India,Rural,30.82828
+2003,SH_H2O_SAFE,India,Rural,32.3671
+2004,SH_H2O_SAFE,India,Rural,33.92914
+2005,SH_H2O_SAFE,India,Rural,35.5144
+2006,SH_H2O_SAFE,India,Rural,37.12289
+2007,SH_H2O_SAFE,India,Rural,38.75459
+2008,SH_H2O_SAFE,India,Rural,40.40952
+2009,SH_H2O_SAFE,India,Rural,42.08767
+2010,SH_H2O_SAFE,India,Rural,43.78904
+2011,SH_H2O_SAFE,India,Rural,45.51363
+2012,SH_H2O_SAFE,India,Rural,47.26145
+2013,SH_H2O_SAFE,India,Rural,49.03248
+2014,SH_H2O_SAFE,India,Rural,50.82674
+2015,SH_H2O_SAFE,India,Rural,52.64422
+2016,SH_H2O_SAFE,India,Rural,54.48492
+2009,SH_H2O_SAFE,Kyrgyzstan,All areas,55.66806
+2010,SH_H2O_SAFE,Kyrgyzstan,Urban,87.61328
+2010,SH_H2O_SAFE,Kyrgyzstan,Rural,41.2163
+2010,SH_H2O_SAFE,Kyrgyzstan,All areas,57.59722
+2011,SH_H2O_SAFE,Kyrgyzstan,Rural,43.63475
+2011,SH_H2O_SAFE,Kyrgyzstan,All areas,59.56533
+2011,SH_H2O_SAFE,Kyrgyzstan,Urban,88.6975
+2012,SH_H2O_SAFE,Kyrgyzstan,All areas,61.57182
+2012,SH_H2O_SAFE,Kyrgyzstan,Rural,46.09506
+2012,SH_H2O_SAFE,Kyrgyzstan,Urban,89.78634
+2017,SH_H2O_SAFE,India,Rural,56.34884
+2018,SH_H2O_SAFE,India,Rural,58.23598
+2019,SH_H2O_SAFE,India,Rural,60.14635
+2020,SH_H2O_SAFE,India,Rural,62.07994
+2021,SH_H2O_SAFE,India,Rural,64.03674
+2022,SH_H2O_SAFE,India,Rural,66.01677
+2000,SH_H2O_SAFE,Ireland,All areas,64.42938
+2001,SH_H2O_SAFE,Ireland,All areas,64.53594
+2002,SH_H2O_SAFE,Ireland,All areas,64.64604
+2003,SH_H2O_SAFE,Ireland,All areas,64.77273
+2004,SH_H2O_SAFE,Ireland,All areas,64.89963
+2005,SH_H2O_SAFE,Ireland,All areas,69.56672
+2006,SH_H2O_SAFE,Ireland,All areas,74.17241
+2007,SH_H2O_SAFE,Ireland,All areas,78.70413
+2008,SH_H2O_SAFE,Ireland,All areas,83.19453
+2009,SH_H2O_SAFE,Ireland,All areas,87.64411
+2010,SH_H2O_SAFE,Ireland,All areas,92.05278
+2011,SH_H2O_SAFE,Ireland,All areas,94.9312
+2012,SH_H2O_SAFE,Ireland,All areas,95.02116
+2013,SH_H2O_SAFE,Ireland,All areas,95.11064
+2014,SH_H2O_SAFE,Ireland,All areas,95.19963
+2015,SH_H2O_SAFE,Ireland,All areas,95.28813
+2016,SH_H2O_SAFE,Ireland,All areas,95.37614
+2017,SH_H2O_SAFE,Ireland,All areas,95.46347
+2018,SH_H2O_SAFE,Ireland,All areas,95.55008
+2019,SH_H2O_SAFE,Ireland,All areas,95.70192
+2020,SH_H2O_SAFE,Ireland,All areas,95.85354
+2021,SH_H2O_SAFE,Ireland,All areas,95.99583
+2022,SH_H2O_SAFE,Ireland,All areas,95.99141
+2000,SH_H2O_SAFE,Israel,Rural,99.55769
+2013,SH_H2O_SAFE,Kyrgyzstan,All areas,63.35695
+2013,SH_H2O_SAFE,Kyrgyzstan,Urban,90.15397
+2013,SH_H2O_SAFE,Kyrgyzstan,Rural,48.59725
+2014,SH_H2O_SAFE,Kyrgyzstan,Rural,51.14131
+2014,SH_H2O_SAFE,Kyrgyzstan,All areas,65.13081
+2014,SH_H2O_SAFE,Kyrgyzstan,Urban,90.39905
+2015,SH_H2O_SAFE,Kyrgyzstan,All areas,66.935
+2015,SH_H2O_SAFE,Kyrgyzstan,Rural,53.72725
+2015,SH_H2O_SAFE,Kyrgyzstan,Urban,90.64413
+2016,SH_H2O_SAFE,Kyrgyzstan,Rural,56.35505
+2000,SH_H2O_SAFE,Israel,Urban,99.79266
+2000,SH_H2O_SAFE,Israel,All areas,99.77199
+2001,SH_H2O_SAFE,Israel,Urban,99.79266
+2001,SH_H2O_SAFE,Israel,All areas,99.77214
+2001,SH_H2O_SAFE,Israel,Rural,99.55769
+2002,SH_H2O_SAFE,Israel,All areas,99.75788
+2002,SH_H2O_SAFE,Israel,Urban,99.77768
+2002,SH_H2O_SAFE,Israel,Rural,99.54927
+2003,SH_H2O_SAFE,Israel,Urban,99.76271
+2003,SH_H2O_SAFE,Israel,Rural,99.54086
+2016,SH_H2O_SAFE,Kyrgyzstan,All areas,68.75854
+2016,SH_H2O_SAFE,Kyrgyzstan,Urban,90.86287
+2017,SH_H2O_SAFE,Kyrgyzstan,Urban,90.84154
+2017,SH_H2O_SAFE,Kyrgyzstan,Rural,59.02472
+2017,SH_H2O_SAFE,Kyrgyzstan,All areas,70.52173
+2018,SH_H2O_SAFE,Kyrgyzstan,All areas,72.30862
+2018,SH_H2O_SAFE,Kyrgyzstan,Rural,61.73627
+2018,SH_H2O_SAFE,Kyrgyzstan,Urban,90.82033
+2019,SH_H2O_SAFE,Kyrgyzstan,Urban,90.79924
+2019,SH_H2O_SAFE,Kyrgyzstan,All areas,74.11661
+2003,SH_H2O_SAFE,Israel,All areas,99.74361
+2004,SH_H2O_SAFE,Israel,Urban,99.74773
+2004,SH_H2O_SAFE,Israel,All areas,99.72934
+2004,SH_H2O_SAFE,Israel,Rural,99.53244
+2005,SH_H2O_SAFE,Israel,Rural,99.52403
+2005,SH_H2O_SAFE,Israel,All areas,99.71506
+2005,SH_H2O_SAFE,Israel,Urban,99.73276
+2006,SH_H2O_SAFE,Israel,All areas,99.70076
+2006,SH_H2O_SAFE,Israel,Rural,99.51561
+2006,SH_H2O_SAFE,Israel,Urban,99.71778
+2007,SH_H2O_SAFE,Israel,Rural,99.5072
+2007,SH_H2O_SAFE,Israel,Urban,99.70281
+2007,SH_H2O_SAFE,Israel,All areas,99.68646
+2008,SH_H2O_SAFE,Israel,Rural,99.49878
+2008,SH_H2O_SAFE,Israel,All areas,99.67215
+2008,SH_H2O_SAFE,Israel,Urban,99.68783
+2009,SH_H2O_SAFE,Israel,All areas,99.65783
+2009,SH_H2O_SAFE,Israel,Rural,99.49037
+2009,SH_H2O_SAFE,Israel,Urban,99.67286
+2010,SH_H2O_SAFE,Israel,Rural,99.48195
+2019,SH_H2O_SAFE,Kyrgyzstan,Rural,64.48968
+2020,SH_H2O_SAFE,Kyrgyzstan,Urban,91.84967
+2020,SH_H2O_SAFE,Kyrgyzstan,All areas,76.33854
+2020,SH_H2O_SAFE,Kyrgyzstan,Rural,67.28497
+2021,SH_H2O_SAFE,Kyrgyzstan,Rural,67.28497
+2021,SH_H2O_SAFE,Kyrgyzstan,All areas,76.40978
+2021,SH_H2O_SAFE,Kyrgyzstan,Urban,91.84967
+2022,SH_H2O_SAFE,Kyrgyzstan,All areas,76.48715
+2022,SH_H2O_SAFE,Kyrgyzstan,Rural,67.28497
+2022,SH_H2O_SAFE,Kyrgyzstan,Urban,91.84967
+2010,SH_H2O_SAFE,Israel,Urban,99.65788
+2010,SH_H2O_SAFE,Israel,All areas,99.64351
+2011,SH_H2O_SAFE,Israel,Rural,99.47354
+2011,SH_H2O_SAFE,Israel,All areas,99.62918
+2011,SH_H2O_SAFE,Israel,Urban,99.64291
+2012,SH_H2O_SAFE,Israel,All areas,99.61484
+2012,SH_H2O_SAFE,Israel,Rural,99.46512
+2012,SH_H2O_SAFE,Israel,Urban,99.62793
+2013,SH_H2O_SAFE,Israel,Rural,99.45671
+2013,SH_H2O_SAFE,Israel,Urban,99.61296
+2000,SH_H2O_SAFE,Latvia,All areas,92.38445
+2001,SH_H2O_SAFE,Latvia,All areas,92.36528
+2002,SH_H2O_SAFE,Latvia,All areas,92.39396
+2003,SH_H2O_SAFE,Latvia,All areas,92.43095
+2004,SH_H2O_SAFE,Latvia,All areas,92.49211
+2005,SH_H2O_SAFE,Latvia,All areas,92.55305
+2006,SH_H2O_SAFE,Latvia,All areas,92.63629
+2007,SH_H2O_SAFE,Latvia,All areas,92.89953
+2008,SH_H2O_SAFE,Latvia,All areas,93.16433
+2009,SH_H2O_SAFE,Latvia,All areas,93.43695
+2013,SH_H2O_SAFE,Israel,All areas,99.60051
+2014,SH_H2O_SAFE,Israel,Urban,99.59799
+2014,SH_H2O_SAFE,Israel,All areas,99.58616
+2014,SH_H2O_SAFE,Israel,Rural,99.44829
+2015,SH_H2O_SAFE,Israel,Rural,99.43988
+2015,SH_H2O_SAFE,Israel,All areas,99.57182
+2015,SH_H2O_SAFE,Israel,Urban,99.58301
+2016,SH_H2O_SAFE,Israel,Rural,99.43146
+2016,SH_H2O_SAFE,Israel,Urban,99.56804
+2016,SH_H2O_SAFE,Israel,All areas,99.55746
+2017,SH_H2O_SAFE,Israel,Rural,99.42305
+2017,SH_H2O_SAFE,Israel,All areas,99.5431
+2017,SH_H2O_SAFE,Israel,Urban,99.55306
+2018,SH_H2O_SAFE,Israel,All areas,99.52872
+2018,SH_H2O_SAFE,Israel,Rural,99.41463
+2018,SH_H2O_SAFE,Israel,Urban,99.53809
+2019,SH_H2O_SAFE,Israel,All areas,99.51434
+2019,SH_H2O_SAFE,Israel,Rural,99.40621
+2019,SH_H2O_SAFE,Israel,Urban,99.52311
+2020,SH_H2O_SAFE,Israel,All areas,99.49996
+2010,SH_H2O_SAFE,Latvia,All areas,93.71667
+2011,SH_H2O_SAFE,Latvia,All areas,93.99674
+2012,SH_H2O_SAFE,Latvia,All areas,94.27701
+2013,SH_H2O_SAFE,Latvia,All areas,94.55749
+2014,SH_H2O_SAFE,Latvia,All areas,94.83808
+2015,SH_H2O_SAFE,Latvia,All areas,95.11897
+2016,SH_H2O_SAFE,Latvia,All areas,95.40131
+2017,SH_H2O_SAFE,Latvia,All areas,95.68483
+2018,SH_H2O_SAFE,Latvia,All areas,95.96929
+2019,SH_H2O_SAFE,Latvia,All areas,96.25441
+2020,SH_H2O_SAFE,Israel,Urban,99.50814
+2020,SH_H2O_SAFE,Israel,Rural,99.3978
+2021,SH_H2O_SAFE,Israel,Urban,99.49316
+2021,SH_H2O_SAFE,Israel,All areas,99.48556
+2021,SH_H2O_SAFE,Israel,Rural,99.38938
+2022,SH_H2O_SAFE,Israel,All areas,99.47116
+2022,SH_H2O_SAFE,Israel,Rural,99.38097
+2022,SH_H2O_SAFE,Israel,Urban,99.47819
+2000,SH_H2O_SAFE,Italy,All areas,94.76838
+2001,SH_H2O_SAFE,Italy,All areas,94.98711
+2002,SH_H2O_SAFE,Italy,All areas,95.20594
+2003,SH_H2O_SAFE,Italy,All areas,95.42487
+2004,SH_H2O_SAFE,Italy,All areas,95.6439
+2005,SH_H2O_SAFE,Italy,All areas,95.86303
+2006,SH_H2O_SAFE,Italy,All areas,96.08226
+2007,SH_H2O_SAFE,Italy,All areas,96.13227
+2008,SH_H2O_SAFE,Italy,All areas,95.90065
+2009,SH_H2O_SAFE,Italy,All areas,95.6689
+2010,SH_H2O_SAFE,Italy,All areas,95.43701
+2011,SH_H2O_SAFE,Italy,All areas,95.205
+2020,SH_H2O_SAFE,Latvia,All areas,96.53996
+2021,SH_H2O_SAFE,Latvia,All areas,96.82567
+2022,SH_H2O_SAFE,Latvia,All areas,97.11127
+2000,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2001,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2002,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2003,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2004,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2005,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2006,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2012,SH_H2O_SAFE,Italy,All areas,94.97285
+2013,SH_H2O_SAFE,Italy,All areas,94.74057
+2014,SH_H2O_SAFE,Italy,All areas,94.50815
+2015,SH_H2O_SAFE,Italy,All areas,94.25136
+2016,SH_H2O_SAFE,Italy,All areas,93.99456
+2017,SH_H2O_SAFE,Italy,All areas,93.73776
+2018,SH_H2O_SAFE,Italy,All areas,93.48096
+2019,SH_H2O_SAFE,Italy,All areas,93.22416
+2020,SH_H2O_SAFE,Italy,All areas,92.96736
+2021,SH_H2O_SAFE,Italy,All areas,92.71056
+2007,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2008,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2009,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2010,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2011,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2012,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2013,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2014,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2015,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2016,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2017,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2018,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2019,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2020,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2021,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2022,SH_H2O_SAFE,Liechtenstein,All areas,100.0
+2000,SH_H2O_SAFE,Lithuania,Urban,92.49941
+2000,SH_H2O_SAFE,Lithuania,All areas,68.38195
+2001,SH_H2O_SAFE,Lithuania,All areas,68.72296
+2001,SH_H2O_SAFE,Lithuania,Urban,92.93012
+2002,SH_H2O_SAFE,Lithuania,All areas,69.06123
+2002,SH_H2O_SAFE,Lithuania,Urban,93.3618
+2003,SH_H2O_SAFE,Lithuania,Urban,93.79445
+2003,SH_H2O_SAFE,Lithuania,All areas,69.40066
+2004,SH_H2O_SAFE,Lithuania,All areas,71.21374
+2004,SH_H2O_SAFE,Lithuania,Urban,94.22806
+2005,SH_H2O_SAFE,Lithuania,All areas,73.05331
+2005,SH_H2O_SAFE,Lithuania,Urban,94.66265
+2006,SH_H2O_SAFE,Lithuania,Urban,95.0982
+2006,SH_H2O_SAFE,Lithuania,All areas,74.91872
+2022,SH_H2O_SAFE,Italy,All areas,92.71056
+2000,SH_H2O_SAFE,Japan,All areas,97.85424
+2001,SH_H2O_SAFE,Japan,All areas,97.85424
+2002,SH_H2O_SAFE,Japan,All areas,97.85424
+2003,SH_H2O_SAFE,Japan,All areas,97.85424
+2004,SH_H2O_SAFE,Japan,All areas,97.85424
+2005,SH_H2O_SAFE,Japan,All areas,97.90149
+2006,SH_H2O_SAFE,Japan,All areas,97.94875
+2007,SH_H2O_SAFE,Japan,All areas,97.99602
+2008,SH_H2O_SAFE,Japan,All areas,98.04329
+2009,SH_H2O_SAFE,Japan,All areas,98.09057
+2010,SH_H2O_SAFE,Japan,All areas,98.13786
+2011,SH_H2O_SAFE,Japan,All areas,98.18516
+2012,SH_H2O_SAFE,Japan,All areas,98.23246
+2013,SH_H2O_SAFE,Japan,All areas,98.27977
+2014,SH_H2O_SAFE,Japan,All areas,98.32709
+2015,SH_H2O_SAFE,Japan,All areas,98.37442
+2016,SH_H2O_SAFE,Japan,All areas,98.42176
+2017,SH_H2O_SAFE,Japan,All areas,98.4691
+2018,SH_H2O_SAFE,Japan,All areas,98.51645
+2007,SH_H2O_SAFE,Lithuania,All areas,76.79846
+2007,SH_H2O_SAFE,Lithuania,Urban,95.53472
+2008,SH_H2O_SAFE,Lithuania,Urban,95.97221
+2008,SH_H2O_SAFE,Lithuania,All areas,78.69247
+2009,SH_H2O_SAFE,Lithuania,All areas,80.59157
+2009,SH_H2O_SAFE,Lithuania,Urban,96.41067
+2010,SH_H2O_SAFE,Lithuania,Urban,96.85009
+2010,SH_H2O_SAFE,Lithuania,All areas,82.49667
+2011,SH_H2O_SAFE,Lithuania,Urban,97.29049
+2011,SH_H2O_SAFE,Lithuania,All areas,84.42501
+2019,SH_H2O_SAFE,Japan,All areas,98.56381
+2020,SH_H2O_SAFE,Japan,All areas,98.61118
+2021,SH_H2O_SAFE,Japan,All areas,98.65855
+2022,SH_H2O_SAFE,Japan,All areas,98.65855
+2000,SH_H2O_SAFE,Kazakhstan,All areas,63.10208
+2001,SH_H2O_SAFE,Kazakhstan,All areas,63.36984
+2002,SH_H2O_SAFE,Kazakhstan,All areas,64.92973
+2003,SH_H2O_SAFE,Kazakhstan,All areas,66.50293
+2004,SH_H2O_SAFE,Kazakhstan,All areas,68.08938
+2005,SH_H2O_SAFE,Kazakhstan,All areas,69.68898
+2012,SH_H2O_SAFE,Lithuania,Urban,97.73185
+2012,SH_H2O_SAFE,Lithuania,All areas,86.38264
+2013,SH_H2O_SAFE,Lithuania,All areas,88.35362
+2013,SH_H2O_SAFE,Lithuania,Urban,98.17418
+2014,SH_H2O_SAFE,Lithuania,All areas,90.33797
+2014,SH_H2O_SAFE,Lithuania,Urban,98.61748
+2015,SH_H2O_SAFE,Lithuania,All areas,92.33559
+2015,SH_H2O_SAFE,Lithuania,Urban,98.80085
+2016,SH_H2O_SAFE,Lithuania,Urban,98.98422
+2016,SH_H2O_SAFE,Lithuania,All areas,93.99288
+2006,SH_H2O_SAFE,Kazakhstan,All areas,71.30166
+2007,SH_H2O_SAFE,Kazakhstan,All areas,72.92734
+2008,SH_H2O_SAFE,Kazakhstan,All areas,74.56595
+2009,SH_H2O_SAFE,Kazakhstan,All areas,76.21741
+2010,SH_H2O_SAFE,Kazakhstan,All areas,77.88133
+2011,SH_H2O_SAFE,Kazakhstan,All areas,79.55827
+2012,SH_H2O_SAFE,Kazakhstan,All areas,81.24783
+2013,SH_H2O_SAFE,Kazakhstan,All areas,82.9075
+2014,SH_H2O_SAFE,Kazakhstan,All areas,84.48871
+2015,SH_H2O_SAFE,Kazakhstan,All areas,86.08145
+2017,SH_H2O_SAFE,Lithuania,All areas,94.44231
+2017,SH_H2O_SAFE,Lithuania,Urban,99.16758
+2018,SH_H2O_SAFE,Lithuania,All areas,94.87325
+2018,SH_H2O_SAFE,Lithuania,Urban,99.3243
+2019,SH_H2O_SAFE,Lithuania,All areas,94.89749
+2019,SH_H2O_SAFE,Lithuania,Urban,99.3243
+2020,SH_H2O_SAFE,Lithuania,Urban,99.3243
+2020,SH_H2O_SAFE,Lithuania,All areas,94.92379
+2021,SH_H2O_SAFE,Lithuania,Urban,99.3243
+2021,SH_H2O_SAFE,Lithuania,All areas,94.95175
+2022,SH_H2O_SAFE,Lithuania,All areas,94.9815
+2022,SH_H2O_SAFE,Lithuania,Urban,99.3243
+2000,SH_H2O_SAFE,Luxembourg,All areas,99.83157
+2000,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2000,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2001,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2001,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2001,SH_H2O_SAFE,Luxembourg,All areas,99.83031
+2002,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2002,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2002,SH_H2O_SAFE,Luxembourg,All areas,99.8294
+2003,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2003,SH_H2O_SAFE,Luxembourg,All areas,99.82852
+2003,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2004,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2004,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2004,SH_H2O_SAFE,Luxembourg,All areas,99.82765
+2005,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2005,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2005,SH_H2O_SAFE,Luxembourg,All areas,99.8268
+2006,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2006,SH_H2O_SAFE,Luxembourg,All areas,99.82598
+2006,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2007,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2007,SH_H2O_SAFE,Luxembourg,All areas,99.82518
+2007,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2008,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2008,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2008,SH_H2O_SAFE,Luxembourg,All areas,99.8244
+2009,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2009,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2009,SH_H2O_SAFE,Luxembourg,All areas,99.82365
+2010,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2010,SH_H2O_SAFE,Luxembourg,All areas,99.82291
+2010,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2011,SH_H2O_SAFE,Luxembourg,All areas,99.82219
+2011,SH_H2O_SAFE,Luxembourg,Rural,100.0
+2011,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2012,SH_H2O_SAFE,Luxembourg,All areas,99.77649
+2012,SH_H2O_SAFE,Luxembourg,Rural,99.58131
+2012,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2013,SH_H2O_SAFE,Luxembourg,All areas,99.72375
+2013,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2013,SH_H2O_SAFE,Luxembourg,Rural,99.06867
+2014,SH_H2O_SAFE,Luxembourg,All areas,99.67429
+2014,SH_H2O_SAFE,Luxembourg,Rural,98.55731
+2014,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2015,SH_H2O_SAFE,Luxembourg,Rural,98.04724
+2015,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2015,SH_H2O_SAFE,Luxembourg,All areas,99.62786
+2016,SH_H2O_SAFE,Luxembourg,Rural,97.53845
+2016,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2016,SH_H2O_SAFE,Luxembourg,All areas,99.58425
+2017,SH_H2O_SAFE,Luxembourg,Rural,97.03095
+2017,SH_H2O_SAFE,Luxembourg,All areas,99.54323
+2017,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2018,SH_H2O_SAFE,Luxembourg,All areas,99.5046
+2018,SH_H2O_SAFE,Luxembourg,Rural,96.52474
+2018,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2019,SH_H2O_SAFE,Luxembourg,All areas,99.51253
+2019,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2019,SH_H2O_SAFE,Luxembourg,Rural,96.52474
+2020,SH_H2O_SAFE,Luxembourg,Rural,96.52474
+2020,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2020,SH_H2O_SAFE,Luxembourg,All areas,99.52007
+2021,SH_H2O_SAFE,Luxembourg,Rural,96.52474
+2021,SH_H2O_SAFE,Luxembourg,All areas,99.52723
+2021,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2022,SH_H2O_SAFE,Luxembourg,All areas,99.53408
+2022,SH_H2O_SAFE,Luxembourg,Rural,96.52474
+2022,SH_H2O_SAFE,Luxembourg,Urban,99.8
+2000,SH_H2O_SAFE,Malta,All areas,100.0
+2001,SH_H2O_SAFE,Malta,All areas,100.0
+2002,SH_H2O_SAFE,Malta,All areas,100.0
+2003,SH_H2O_SAFE,Malta,All areas,100.0
+2004,SH_H2O_SAFE,Malta,All areas,100.0
+2005,SH_H2O_SAFE,Malta,All areas,100.0
+2006,SH_H2O_SAFE,Malta,All areas,100.0
+2007,SH_H2O_SAFE,Malta,All areas,100.0
+2008,SH_H2O_SAFE,Malta,All areas,100.0
+2009,SH_H2O_SAFE,Malta,All areas,100.0
+2010,SH_H2O_SAFE,Malta,All areas,99.98402
+2011,SH_H2O_SAFE,Malta,All areas,99.96639
+2012,SH_H2O_SAFE,Malta,All areas,99.94875
+2013,SH_H2O_SAFE,Malta,All areas,99.93112
+2014,SH_H2O_SAFE,Malta,All areas,99.91349
+2015,SH_H2O_SAFE,Malta,All areas,99.89585
+2016,SH_H2O_SAFE,Malta,All areas,99.87822
+2017,SH_H2O_SAFE,Malta,All areas,99.86059
+2018,SH_H2O_SAFE,Malta,All areas,99.84295
+2019,SH_H2O_SAFE,Malta,All areas,99.82532
+2020,SH_H2O_SAFE,Malta,All areas,99.80769
+2021,SH_H2O_SAFE,Malta,All areas,99.79005
+2022,SH_H2O_SAFE,Malta,All areas,99.77242
+2000,SH_H2O_SAFE,Mexico,All areas,39.59266
+2001,SH_H2O_SAFE,Mexico,All areas,39.77693
+2002,SH_H2O_SAFE,Mexico,All areas,39.95924
+2003,SH_H2O_SAFE,Mexico,All areas,40.1396
+2004,SH_H2O_SAFE,Mexico,All areas,40.31811
+2005,SH_H2O_SAFE,Mexico,All areas,40.49465
+2006,SH_H2O_SAFE,Mexico,All areas,40.66932
+2007,SH_H2O_SAFE,Mexico,All areas,40.84209
+2008,SH_H2O_SAFE,Mexico,All areas,41.0131
+2009,SH_H2O_SAFE,Mexico,All areas,41.18226
+2010,SH_H2O_SAFE,Mexico,All areas,41.34967
+2011,SH_H2O_SAFE,Mexico,All areas,41.51548
+2012,SH_H2O_SAFE,Mexico,All areas,41.67959
+2013,SH_H2O_SAFE,Mexico,All areas,41.84208
+2014,SH_H2O_SAFE,Mexico,All areas,42.00296
+2015,SH_H2O_SAFE,Mexico,All areas,42.16216
+2016,SH_H2O_SAFE,Mexico,All areas,42.31976
+2017,SH_H2O_SAFE,Mexico,All areas,42.4757
+2018,SH_H2O_SAFE,Mexico,All areas,42.63002
+2019,SH_H2O_SAFE,Mexico,All areas,42.78274
+2020,SH_H2O_SAFE,Mexico,All areas,42.8921
+2021,SH_H2O_SAFE,Mexico,All areas,42.96604
+2022,SH_H2O_SAFE,Mexico,All areas,43.03788
+2000,SH_H2O_SAFE,Moldova,All areas,40.35328
+2001,SH_H2O_SAFE,Moldova,All areas,42.26137
+2002,SH_H2O_SAFE,Moldova,All areas,44.21588
+2003,SH_H2O_SAFE,Moldova,All areas,46.2174
+2004,SH_H2O_SAFE,Moldova,All areas,48.26705
+2005,SH_H2O_SAFE,Moldova,All areas,50.45547
+2006,SH_H2O_SAFE,Moldova,All areas,52.77063
+2007,SH_H2O_SAFE,Moldova,All areas,55.11781
+2008,SH_H2O_SAFE,Moldova,All areas,57.49706
+2009,SH_H2O_SAFE,Moldova,All areas,59.90842
+2010,SH_H2O_SAFE,Moldova,All areas,62.35195
+2011,SH_H2O_SAFE,Moldova,All areas,64.82769
+2012,SH_H2O_SAFE,Moldova,All areas,67.33569
+2013,SH_H2O_SAFE,Moldova,All areas,69.87598
+2014,SH_H2O_SAFE,Moldova,All areas,72.44862
+2015,SH_H2O_SAFE,Moldova,All areas,72.77373
+2016,SH_H2O_SAFE,Moldova,All areas,73.10594
+2017,SH_H2O_SAFE,Moldova,All areas,73.44444
+2018,SH_H2O_SAFE,Moldova,All areas,73.78922
+2019,SH_H2O_SAFE,Moldova,All areas,74.13972
+2020,SH_H2O_SAFE,Moldova,All areas,74.49594
+2021,SH_H2O_SAFE,Moldova,All areas,74.85757
+2022,SH_H2O_SAFE,Moldova,All areas,75.22434
+2006,SH_H2O_SAFE,Montenegro,All areas,83.86928
+2006,SH_H2O_SAFE,Montenegro,Urban,86.85878
+2007,SH_H2O_SAFE,Montenegro,Urban,86.90006
+2007,SH_H2O_SAFE,Montenegro,All areas,83.9874
+2008,SH_H2O_SAFE,Montenegro,Urban,86.94134
+2008,SH_H2O_SAFE,Montenegro,All areas,84.07976
+2009,SH_H2O_SAFE,Montenegro,All areas,84.17143
+2009,SH_H2O_SAFE,Montenegro,Urban,86.98262
+2010,SH_H2O_SAFE,Montenegro,All areas,84.26259
+2010,SH_H2O_SAFE,Montenegro,Urban,87.0239
+2011,SH_H2O_SAFE,Montenegro,All areas,84.3533
+2011,SH_H2O_SAFE,Montenegro,Urban,87.06518
+2012,SH_H2O_SAFE,Montenegro,All areas,84.44356
+2012,SH_H2O_SAFE,Montenegro,Urban,87.10646
+2013,SH_H2O_SAFE,Montenegro,All areas,84.53345
+2013,SH_H2O_SAFE,Montenegro,Urban,87.14774
+2014,SH_H2O_SAFE,Montenegro,Urban,87.18902
+2014,SH_H2O_SAFE,Montenegro,All areas,84.62296
+2015,SH_H2O_SAFE,Montenegro,All areas,84.7121
+2015,SH_H2O_SAFE,Montenegro,Urban,87.2303
+2016,SH_H2O_SAFE,Montenegro,Urban,87.27159
+2016,SH_H2O_SAFE,Montenegro,All areas,84.8008
+2017,SH_H2O_SAFE,Montenegro,Urban,87.31287
+2017,SH_H2O_SAFE,Montenegro,All areas,84.88911
+2018,SH_H2O_SAFE,Montenegro,All areas,84.95357
+2018,SH_H2O_SAFE,Montenegro,Urban,87.31913
+2019,SH_H2O_SAFE,Montenegro,Urban,87.31913
+2019,SH_H2O_SAFE,Montenegro,All areas,85.01322
+2020,SH_H2O_SAFE,Montenegro,Urban,87.31913
+2020,SH_H2O_SAFE,Montenegro,All areas,85.0722
+2021,SH_H2O_SAFE,Montenegro,All areas,85.09556
+2021,SH_H2O_SAFE,Montenegro,Urban,87.31913
+2022,SH_H2O_SAFE,Montenegro,Urban,87.31913
+2022,SH_H2O_SAFE,Montenegro,All areas,85.11892
+2000,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.99387
+2001,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.99269
+2002,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.99151
+2003,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.99033
+2004,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98915
+2005,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98797
+2006,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98679
+2007,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98561
+2008,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98443
+2009,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98324
+2010,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98206
+2011,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.98088
+2012,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.9797
+2013,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97852
+2014,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97734
+2015,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97616
+2016,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97498
+2017,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.9738
+2018,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97262
+2019,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97144
+2020,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.97026
+2021,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.96908
+2022,SH_H2O_SAFE,Netherlands (Kingdom of the),All areas,99.96789
+2000,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2001,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2002,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2003,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2004,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2005,SH_H2O_SAFE,New Zealand,All areas,84.39357
+2006,SH_H2O_SAFE,New Zealand,All areas,85.37428
+2007,SH_H2O_SAFE,New Zealand,All areas,86.355
+2008,SH_H2O_SAFE,New Zealand,All areas,87.33571
+2009,SH_H2O_SAFE,New Zealand,All areas,88.31643
+2010,SH_H2O_SAFE,New Zealand,All areas,89.29714
+2011,SH_H2O_SAFE,New Zealand,All areas,90.27786
+2012,SH_H2O_SAFE,New Zealand,All areas,91.25857
+2013,SH_H2O_SAFE,New Zealand,All areas,92.23929
+2014,SH_H2O_SAFE,New Zealand,All areas,93.22
+2015,SH_H2O_SAFE,New Zealand,All areas,94.20071
+2016,SH_H2O_SAFE,New Zealand,All areas,95.18143
+2017,SH_H2O_SAFE,New Zealand,All areas,96.16215
+2018,SH_H2O_SAFE,New Zealand,All areas,97.14286
+2019,SH_H2O_SAFE,New Zealand,All areas,98.12357
+2020,SH_H2O_SAFE,New Zealand,All areas,99.10429
+2021,SH_H2O_SAFE,New Zealand,All areas,100.0
+2022,SH_H2O_SAFE,New Zealand,All areas,100.0
+2000,SH_H2O_SAFE,Norway,All areas,99.90883
+2001,SH_H2O_SAFE,Norway,All areas,99.90883
+2002,SH_H2O_SAFE,Norway,All areas,99.90883
+2003,SH_H2O_SAFE,Norway,All areas,99.85454
+2004,SH_H2O_SAFE,Norway,All areas,99.80026
+2005,SH_H2O_SAFE,Norway,All areas,99.74597
+2006,SH_H2O_SAFE,Norway,All areas,99.69168
+2007,SH_H2O_SAFE,Norway,All areas,99.6374
+2008,SH_H2O_SAFE,Norway,All areas,99.58311
+2009,SH_H2O_SAFE,Norway,All areas,99.52883
+2010,SH_H2O_SAFE,Norway,All areas,99.47454
+2011,SH_H2O_SAFE,Norway,All areas,99.42025
+2012,SH_H2O_SAFE,Norway,All areas,99.36597
+2013,SH_H2O_SAFE,Norway,All areas,99.31168
+2014,SH_H2O_SAFE,Norway,All areas,99.25739
+2015,SH_H2O_SAFE,Norway,All areas,99.20311
+2016,SH_H2O_SAFE,Norway,All areas,99.14882
+2017,SH_H2O_SAFE,Norway,All areas,99.09454
+2018,SH_H2O_SAFE,Norway,All areas,99.04025
+2019,SH_H2O_SAFE,Norway,All areas,98.98596
+2020,SH_H2O_SAFE,Norway,All areas,98.93168
+2021,SH_H2O_SAFE,Norway,All areas,98.8774
+2022,SH_H2O_SAFE,Norway,All areas,98.82311
+2005,SH_H2O_SAFE,Poland,All areas,91.9585
+2006,SH_H2O_SAFE,Poland,All areas,92.34341
+2007,SH_H2O_SAFE,Poland,All areas,92.72996
+2008,SH_H2O_SAFE,Poland,All areas,93.1182
+2009,SH_H2O_SAFE,Poland,All areas,93.50833
+2010,SH_H2O_SAFE,Poland,All areas,93.23505
+2011,SH_H2O_SAFE,Poland,All areas,92.95179
+2012,SH_H2O_SAFE,Poland,All areas,92.65699
+2013,SH_H2O_SAFE,Poland,All areas,92.35212
+2014,SH_H2O_SAFE,Poland,All areas,92.0369
+2015,SH_H2O_SAFE,Poland,All areas,91.71145
+2016,SH_H2O_SAFE,Poland,All areas,91.37842
+2017,SH_H2O_SAFE,Poland,All areas,91.03812
+2018,SH_H2O_SAFE,Poland,All areas,90.69059
+2019,SH_H2O_SAFE,Poland,All areas,90.33598
+2020,SH_H2O_SAFE,Poland,All areas,89.61919
+2021,SH_H2O_SAFE,Poland,All areas,88.90618
+2022,SH_H2O_SAFE,Poland,All areas,88.9145
+2000,SH_H2O_SAFE,Portugal,Urban,96.63256
+2000,SH_H2O_SAFE,Portugal,All areas,93.65894
+2000,SH_H2O_SAFE,Portugal,Rural,90.11161
+2001,SH_H2O_SAFE,Portugal,All areas,93.69343
+2001,SH_H2O_SAFE,Portugal,Urban,96.67389
+2001,SH_H2O_SAFE,Portugal,Rural,90.04418
+2002,SH_H2O_SAFE,Portugal,Urban,96.71521
+2002,SH_H2O_SAFE,Portugal,Rural,89.97675
+2002,SH_H2O_SAFE,Portugal,All areas,93.72778
+2003,SH_H2O_SAFE,Portugal,Urban,96.75654
+2003,SH_H2O_SAFE,Portugal,Rural,89.90932
+2003,SH_H2O_SAFE,Portugal,All areas,93.76341
+2004,SH_H2O_SAFE,Portugal,Urban,96.79786
+2004,SH_H2O_SAFE,Portugal,Rural,89.84189
+2004,SH_H2O_SAFE,Portugal,All areas,93.80033
+2005,SH_H2O_SAFE,Portugal,Rural,89.77446
+2005,SH_H2O_SAFE,Portugal,Urban,96.83919
+2005,SH_H2O_SAFE,Portugal,All areas,93.83823
+2006,SH_H2O_SAFE,Portugal,Urban,96.88051
+2006,SH_H2O_SAFE,Portugal,Rural,89.70703
+2006,SH_H2O_SAFE,Portugal,All areas,93.87748
+2007,SH_H2O_SAFE,Portugal,Rural,89.63961
+2007,SH_H2O_SAFE,Portugal,All areas,93.91784
+2007,SH_H2O_SAFE,Portugal,Urban,96.92184
+2008,SH_H2O_SAFE,Portugal,Urban,96.96317
+2008,SH_H2O_SAFE,Portugal,Rural,89.57218
+2008,SH_H2O_SAFE,Portugal,All areas,93.95939
+2009,SH_H2O_SAFE,Portugal,Urban,97.00449
+2009,SH_H2O_SAFE,Portugal,All areas,94.0019
+2009,SH_H2O_SAFE,Portugal,Rural,89.50475
+2010,SH_H2O_SAFE,Portugal,Urban,97.04582
+2010,SH_H2O_SAFE,Portugal,Rural,89.6361
+2010,SH_H2O_SAFE,Portugal,All areas,94.12394
+2011,SH_H2O_SAFE,Portugal,All areas,94.24457
+2011,SH_H2O_SAFE,Portugal,Urban,97.08714
+2011,SH_H2O_SAFE,Portugal,Rural,89.76715
+2012,SH_H2O_SAFE,Portugal,Rural,89.8979
+2012,SH_H2O_SAFE,Portugal,All areas,94.36371
+2012,SH_H2O_SAFE,Portugal,Urban,97.12847
+2013,SH_H2O_SAFE,Portugal,Urban,97.12355
+2013,SH_H2O_SAFE,Portugal,Rural,90.02835
+2013,SH_H2O_SAFE,Portugal,All areas,94.45235
+2014,SH_H2O_SAFE,Portugal,Rural,90.1585
+2014,SH_H2O_SAFE,Portugal,Urban,97.1186
+2014,SH_H2O_SAFE,Portugal,All areas,94.53891
+2015,SH_H2O_SAFE,Portugal,Urban,97.1136
+2015,SH_H2O_SAFE,Portugal,Rural,90.28835
+2015,SH_H2O_SAFE,Portugal,All areas,94.62334
+2016,SH_H2O_SAFE,Portugal,All areas,94.70568
+2016,SH_H2O_SAFE,Portugal,Rural,90.4179
+2016,SH_H2O_SAFE,Portugal,Urban,97.10857
+2017,SH_H2O_SAFE,Portugal,All areas,94.78596
+2017,SH_H2O_SAFE,Portugal,Rural,90.54715
+2017,SH_H2O_SAFE,Portugal,Urban,97.1035
+2018,SH_H2O_SAFE,Portugal,Urban,97.09839
+2018,SH_H2O_SAFE,Portugal,Rural,90.6761
+2018,SH_H2O_SAFE,Portugal,All areas,94.86414
+2019,SH_H2O_SAFE,Portugal,Rural,90.80475
+2019,SH_H2O_SAFE,Portugal,All areas,94.94031
+2019,SH_H2O_SAFE,Portugal,Urban,97.09324
+2020,SH_H2O_SAFE,Portugal,All areas,95.01444
+2020,SH_H2O_SAFE,Portugal,Rural,90.9331
+2020,SH_H2O_SAFE,Portugal,Urban,97.08805
+2021,SH_H2O_SAFE,Portugal,All areas,95.08658
+2021,SH_H2O_SAFE,Portugal,Urban,97.08282
+2021,SH_H2O_SAFE,Portugal,Rural,91.06116
+2022,SH_H2O_SAFE,Portugal,Urban,97.07755
+2022,SH_H2O_SAFE,Portugal,Rural,91.18891
+2022,SH_H2O_SAFE,Portugal,All areas,95.15673
+2000,SH_H2O_SAFE,Romania,Urban,94.9535
+2000,SH_H2O_SAFE,Romania,All areas,81.65202
+2000,SH_H2O_SAFE,Romania,Rural,66.65007
+2001,SH_H2O_SAFE,Romania,All areas,81.609
+2001,SH_H2O_SAFE,Romania,Rural,66.65007
+2001,SH_H2O_SAFE,Romania,Urban,94.9535
+2002,SH_H2O_SAFE,Romania,All areas,81.58862
+2002,SH_H2O_SAFE,Romania,Rural,66.65007
+2002,SH_H2O_SAFE,Romania,Urban,94.9535
+2003,SH_H2O_SAFE,Romania,All areas,81.62598
+2003,SH_H2O_SAFE,Romania,Rural,66.65007
+2003,SH_H2O_SAFE,Romania,Urban,94.9535
+2004,SH_H2O_SAFE,Romania,All areas,81.66306
+2004,SH_H2O_SAFE,Romania,Urban,94.9535
+2004,SH_H2O_SAFE,Romania,Rural,66.65007
+2005,SH_H2O_SAFE,Romania,Urban,94.9535
+2005,SH_H2O_SAFE,Romania,Rural,66.65007
+2005,SH_H2O_SAFE,Romania,All areas,81.70014
+2006,SH_H2O_SAFE,Romania,Urban,94.9535
+2006,SH_H2O_SAFE,Romania,All areas,81.73721
+2006,SH_H2O_SAFE,Romania,Rural,66.65007
+2007,SH_H2O_SAFE,Romania,Urban,94.9535
+2007,SH_H2O_SAFE,Romania,Rural,66.65007
+2007,SH_H2O_SAFE,Romania,All areas,81.77429
+2008,SH_H2O_SAFE,Romania,Urban,94.9535
+2008,SH_H2O_SAFE,Romania,Rural,66.65007
+2008,SH_H2O_SAFE,Romania,All areas,81.81137
+2009,SH_H2O_SAFE,Romania,Urban,94.9535
+2009,SH_H2O_SAFE,Romania,Rural,66.65007
+2009,SH_H2O_SAFE,Romania,All areas,81.84845
+2010,SH_H2O_SAFE,Romania,Rural,66.65007
+2010,SH_H2O_SAFE,Romania,All areas,81.88552
+2010,SH_H2O_SAFE,Romania,Urban,94.9535
+2011,SH_H2O_SAFE,Romania,Rural,66.65007
+2011,SH_H2O_SAFE,Romania,Urban,94.9535
+2011,SH_H2O_SAFE,Romania,All areas,81.9226
+2012,SH_H2O_SAFE,Romania,Urban,94.9535
+2012,SH_H2O_SAFE,Romania,All areas,81.92657
+2012,SH_H2O_SAFE,Romania,Rural,66.65007
+2013,SH_H2O_SAFE,Romania,All areas,81.91609
+2013,SH_H2O_SAFE,Romania,Rural,66.65007
+2013,SH_H2O_SAFE,Romania,Urban,94.9535
+2014,SH_H2O_SAFE,Romania,Rural,66.65007
+2014,SH_H2O_SAFE,Romania,Urban,94.9535
+2014,SH_H2O_SAFE,Romania,All areas,81.90562
+2015,SH_H2O_SAFE,Romania,Urban,94.9535
+2015,SH_H2O_SAFE,Romania,All areas,81.90194
+2015,SH_H2O_SAFE,Romania,Rural,66.65007
+2016,SH_H2O_SAFE,Romania,Urban,94.9535
+2016,SH_H2O_SAFE,Romania,Rural,66.65007
+2016,SH_H2O_SAFE,Romania,All areas,81.90562
+2017,SH_H2O_SAFE,Romania,All areas,81.91581
+2017,SH_H2O_SAFE,Romania,Urban,94.9535
+2017,SH_H2O_SAFE,Romania,Rural,66.65007
+2018,SH_H2O_SAFE,Romania,Urban,94.9535
+2018,SH_H2O_SAFE,Romania,All areas,81.93336
+2018,SH_H2O_SAFE,Romania,Rural,66.65007
+2019,SH_H2O_SAFE,Romania,Rural,66.65007
+2019,SH_H2O_SAFE,Romania,Urban,94.9535
+2019,SH_H2O_SAFE,Romania,All areas,81.9577
+2022,SH_H2O_SAFE,Uzbekistan,All areas,79.8453
+2022,SH_H2O_SAFE,Uzbekistan,Urban,88.78364
+2022,SH_H2O_SAFE,Uzbekistan,Rural,70.73877
+2016,SH_H2O_SAFE,Kazakhstan,All areas,87.68542
+2017,SH_H2O_SAFE,Kazakhstan,All areas,89.30042
+2018,SH_H2O_SAFE,Kazakhstan,All areas,89.30982
+2019,SH_H2O_SAFE,Kazakhstan,All areas,89.32126
+2020,SH_H2O_SAFE,Kazakhstan,All areas,89.33464
+2021,SH_H2O_SAFE,Kazakhstan,All areas,89.34997
+2012,SH_H2O_SAFE,Chile,Urban,99.13588
+2012,SH_H2O_SAFE,Chile,All areas,97.23041
+2020,SH_H2O_SAFE,Romania,Urban,94.9535
+2020,SH_H2O_SAFE,Romania,All areas,81.98883
+2020,SH_H2O_SAFE,Romania,Rural,66.65007
+2021,SH_H2O_SAFE,Romania,Urban,94.9535
+2021,SH_H2O_SAFE,Romania,Rural,66.65007
+2021,SH_H2O_SAFE,Romania,All areas,82.02704
+2022,SH_H2O_SAFE,Romania,Rural,66.65007
+2022,SH_H2O_SAFE,Romania,All areas,82.07232
+2022,SH_H2O_SAFE,Romania,Urban,94.9535
+2022,SH_H2O_SAFE,Romania,Urban,94.9535

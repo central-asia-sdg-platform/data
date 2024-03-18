@@ -1,1 +1,388 @@
-Year,Value
+Year,SeriesCode,Country,Sex,Value
+2013,IT_MOB_OWN,Azerbaijan,Both sexes,72.41433
+2014,IT_MOB_OWN,Azerbaijan,Male,77.2075
+2014,IT_MOB_OWN,Azerbaijan,Both sexes,73.9173
+2014,IT_MOB_OWN,Azerbaijan,Female,70.65596
+2015,IT_MOB_OWN,Azerbaijan,Both sexes,74.1245
+2015,IT_MOB_OWN,Azerbaijan,Female,70.46501
+2015,IT_MOB_OWN,Azerbaijan,Male,77.80999
+2016,IT_MOB_OWN,Azerbaijan,Female,69.84266
+2016,IT_MOB_OWN,Azerbaijan,Male,77.01012
+2016,IT_MOB_OWN,Azerbaijan,Both sexes,73.41631
+2017,IT_MOB_OWN,Azerbaijan,Both sexes,84.0
+2017,IT_MOB_OWN,Azerbaijan,Female,79.72038
+2017,IT_MOB_OWN,Azerbaijan,Male,88.3795
+2018,IT_MOB_OWN,Azerbaijan,Both sexes,83.5
+2018,IT_MOB_OWN,Azerbaijan,Female,79.34035
+2018,IT_MOB_OWN,Azerbaijan,Male,87.74649
+2019,IT_MOB_OWN,Azerbaijan,Both sexes,83.5
+2019,IT_MOB_OWN,Azerbaijan,Female,79.43088
+2019,IT_MOB_OWN,Azerbaijan,Male,87.64452
+2020,IT_MOB_OWN,Azerbaijan,Male,88.12328
+2020,IT_MOB_OWN,Azerbaijan,Both sexes,84.00001
+2020,IT_MOB_OWN,Azerbaijan,Female,79.94754
+2021,IT_MOB_OWN,Azerbaijan,Both sexes,84.0
+2021,IT_MOB_OWN,Azerbaijan,Female,83.37485
+2021,IT_MOB_OWN,Azerbaijan,Male,84.63484
+2017,IT_MOB_OWN,Armenia,Both sexes,72.60673
+2017,IT_MOB_OWN,Armenia,Female,72.63815
+2017,IT_MOB_OWN,Armenia,Male,72.56871
+2018,IT_MOB_OWN,Armenia,Female,76.81744
+2018,IT_MOB_OWN,Armenia,Male,75.95236
+2018,IT_MOB_OWN,Armenia,Both sexes,76.42854
+2021,IT_MOB_OWN,Belgium,Female,90.285
+2021,IT_MOB_OWN,Belgium,Male,89.77226
+2021,IT_MOB_OWN,Belgium,Both sexes,90.02923
+2017,IT_MOB_OWN,Belarus,Male,91.48085
+2017,IT_MOB_OWN,Belarus,Female,94.98769
+2017,IT_MOB_OWN,Belarus,Both sexes,93.48521
+2018,IT_MOB_OWN,Belarus,Both sexes,94.83765
+2018,IT_MOB_OWN,Belarus,Male,93.68755
+2018,IT_MOB_OWN,Belarus,Female,95.69948
+2019,IT_MOB_OWN,Belarus,Both sexes,95.26146
+2019,IT_MOB_OWN,Belarus,Female,96.25902
+2019,IT_MOB_OWN,Belarus,Male,93.94575
+2020,IT_MOB_OWN,Belarus,Both sexes,95.88722
+2020,IT_MOB_OWN,Belarus,Female,96.88836
+2020,IT_MOB_OWN,Belarus,Male,94.59995
+2021,IT_MOB_OWN,Belarus,Both sexes,97.08283
+2021,IT_MOB_OWN,Belarus,Female,97.77932
+2021,IT_MOB_OWN,Belarus,Male,96.09757
+2016,IT_MOB_OWN,Chile,Both sexes,95.32023
+2016,IT_MOB_OWN,Chile,Female,98.82035
+2016,IT_MOB_OWN,Chile,Male,91.55596
+2017,IT_MOB_OWN,Chile,Both sexes,92.01104
+2017,IT_MOB_OWN,Chile,Female,97.15276
+2017,IT_MOB_OWN,Chile,Male,86.6711
+2014,IT_MOB_OWN,Colombia,Female,70.56789
+2014,IT_MOB_OWN,Colombia,Male,68.03359
+2014,IT_MOB_OWN,Colombia,Both sexes,69.31919
+2015,IT_MOB_OWN,Colombia,Female,72.81828
+2015,IT_MOB_OWN,Colombia,Male,70.08439
+2015,IT_MOB_OWN,Colombia,Both sexes,71.47384
+2016,IT_MOB_OWN,Colombia,Both sexes,72.06032
+2016,IT_MOB_OWN,Colombia,Female,73.10334
+2016,IT_MOB_OWN,Colombia,Male,70.9842
+2017,IT_MOB_OWN,Colombia,Both sexes,73.15218
+2017,IT_MOB_OWN,Colombia,Female,74.45673
+2017,IT_MOB_OWN,Colombia,Male,71.80815
+2018,IT_MOB_OWN,Colombia,Both sexes,72.15799
+2018,IT_MOB_OWN,Colombia,Male,70.94716
+2018,IT_MOB_OWN,Colombia,Female,73.33209
+2019,IT_MOB_OWN,Colombia,Both sexes,73.05917
+2019,IT_MOB_OWN,Colombia,Female,74.17533
+2019,IT_MOB_OWN,Colombia,Male,71.90691
+2021,IT_MOB_OWN,Colombia,Male,75.07878
+2021,IT_MOB_OWN,Colombia,Both sexes,76.30502
+2021,IT_MOB_OWN,Colombia,Female,77.46249
+2015,IT_MOB_OWN,Costa Rica,Male,85.79635
+2015,IT_MOB_OWN,Costa Rica,Both sexes,86.01937
+2015,IT_MOB_OWN,Costa Rica,Female,86.22934
+2014,IT_MOB_OWN,Cyprus,Male,98.30874
+2014,IT_MOB_OWN,Cyprus,Female,95.12687
+2014,IT_MOB_OWN,Cyprus,Both sexes,96.64527
+2015,IT_MOB_OWN,Cyprus,Both sexes,97.88419
+2015,IT_MOB_OWN,Cyprus,Female,96.52754
+2015,IT_MOB_OWN,Cyprus,Male,99.32579
+2016,IT_MOB_OWN,Cyprus,Both sexes,94.6476
+2016,IT_MOB_OWN,Cyprus,Female,92.93833
+2016,IT_MOB_OWN,Cyprus,Male,96.50693
+2017,IT_MOB_OWN,Cyprus,Both sexes,99.39767
+2017,IT_MOB_OWN,Cyprus,Female,98.67434
+2018,IT_MOB_OWN,Cyprus,Both sexes,98.63963
+2018,IT_MOB_OWN,Cyprus,Female,98.1957
+2018,IT_MOB_OWN,Cyprus,Male,99.10814
+2014,IT_MOB_OWN,Czechia,Both sexes,96.83097
+2014,IT_MOB_OWN,Czechia,Female,96.30083
+2014,IT_MOB_OWN,Czechia,Male,97.3838
+2015,IT_MOB_OWN,Czechia,Female,96.85832
+2015,IT_MOB_OWN,Czechia,Male,97.17774
+2015,IT_MOB_OWN,Czechia,Both sexes,97.01434
+2018,IT_MOB_OWN,Czechia,Both sexes,95.99467
+2018,IT_MOB_OWN,Czechia,Female,95.55424
+2018,IT_MOB_OWN,Czechia,Male,96.45834
+2019,IT_MOB_OWN,Czechia,Both sexes,96.85865
+2019,IT_MOB_OWN,Czechia,Female,97.11053
+2019,IT_MOB_OWN,Czechia,Male,96.58792
+2020,IT_MOB_OWN,Czechia,Male,98.70424
+2020,IT_MOB_OWN,Czechia,Both sexes,98.78035
+2020,IT_MOB_OWN,Czechia,Female,98.85248
+2016,IT_MOB_OWN,Denmark,Male,82.47347
+2016,IT_MOB_OWN,Denmark,Female,83.16165
+2016,IT_MOB_OWN,Denmark,Both sexes,82.81615
+2014,IT_MOB_OWN,Finland,Male,98.66281
+2014,IT_MOB_OWN,Finland,Female,98.3671
+2014,IT_MOB_OWN,Finland,Both sexes,98.51155
+2015,IT_MOB_OWN,Finland,Both sexes,98.37641
+2015,IT_MOB_OWN,Finland,Male,99.08269
+2015,IT_MOB_OWN,Finland,Female,97.70135
+2016,IT_MOB_OWN,Finland,Both sexes,98.44687
+2016,IT_MOB_OWN,Finland,Male,98.7833
+2016,IT_MOB_OWN,Finland,Female,98.12443
+2017,IT_MOB_OWN,Finland,Male,99.14663
+2017,IT_MOB_OWN,Finland,Female,98.59119
+2017,IT_MOB_OWN,Finland,Both sexes,98.86333
+2018,IT_MOB_OWN,Finland,Male,98.86544
+2018,IT_MOB_OWN,Finland,Female,97.9644
+2018,IT_MOB_OWN,Finland,Both sexes,98.4067
+2018,IT_MOB_OWN,France,Female,77.8036
+2018,IT_MOB_OWN,France,Both sexes,78.65287
+2018,IT_MOB_OWN,France,Male,79.57814
+2021,IT_MOB_OWN,France,Both sexes,95.50847
+2021,IT_MOB_OWN,France,Female,95.06501
+2021,IT_MOB_OWN,France,Male,95.99248
+2016,IT_MOB_OWN,Georgia,Both sexes,78.36856
+2016,IT_MOB_OWN,Georgia,Male,80.82144
+2016,IT_MOB_OWN,Georgia,Female,76.1753
+2017,IT_MOB_OWN,Georgia,Female,77.63554
+2017,IT_MOB_OWN,Georgia,Both sexes,80.10182
+2017,IT_MOB_OWN,Georgia,Male,82.87116
+2018,IT_MOB_OWN,Georgia,Male,90.58676
+2018,IT_MOB_OWN,Georgia,Female,84.3448
+2018,IT_MOB_OWN,Georgia,Both sexes,87.24829
+2019,IT_MOB_OWN,Georgia,Both sexes,89.59828
+2019,IT_MOB_OWN,Georgia,Male,91.61623
+2019,IT_MOB_OWN,Georgia,Female,87.85453
+2020,IT_MOB_OWN,Georgia,Male,92.76031
+2020,IT_MOB_OWN,Georgia,Female,89.68109
+2020,IT_MOB_OWN,Georgia,Both sexes,91.12045
+2021,IT_MOB_OWN,Georgia,Male,93.38525
+2021,IT_MOB_OWN,Georgia,Female,89.5178
+2021,IT_MOB_OWN,Georgia,Both sexes,91.31344
+2017,IT_MOB_OWN,Ireland,Female,83.0
+2017,IT_MOB_OWN,Ireland,Male,83.0
+2017,IT_MOB_OWN,Ireland,Both sexes,83.00017
+2018,IT_MOB_OWN,Ireland,Male,86.5843
+2018,IT_MOB_OWN,Ireland,Female,88.30218
+2018,IT_MOB_OWN,Ireland,Both sexes,87.45078
+2017,IT_MOB_OWN,Israel,Both sexes,92.17751
+2017,IT_MOB_OWN,Israel,Female,90.94002
+2017,IT_MOB_OWN,Israel,Male,93.48429
+2018,IT_MOB_OWN,Israel,Both sexes,94.26782
+2018,IT_MOB_OWN,Israel,Male,94.96606
+2018,IT_MOB_OWN,Israel,Female,93.60608
+2014,IT_MOB_OWN,Italy,Male,91.51701
+2014,IT_MOB_OWN,Italy,Female,88.2709
+2014,IT_MOB_OWN,Italy,Both sexes,89.84244
+2015,IT_MOB_OWN,Italy,Both sexes,89.9968
+2015,IT_MOB_OWN,Italy,Male,91.36853
+2015,IT_MOB_OWN,Italy,Female,88.70872
+2016,IT_MOB_OWN,Italy,Female,90.41824
+2016,IT_MOB_OWN,Italy,Both sexes,91.51952
+2016,IT_MOB_OWN,Italy,Male,92.69065
+2015,IT_MOB_OWN,Japan,Male,81.54848
+2015,IT_MOB_OWN,Japan,Female,80.27758
+2015,IT_MOB_OWN,Japan,Both sexes,80.8985
+2016,IT_MOB_OWN,Japan,Both sexes,83.60045
+2016,IT_MOB_OWN,Japan,Male,85.29407
+2016,IT_MOB_OWN,Japan,Female,82.00428
+2017,IT_MOB_OWN,Japan,Male,89.69953
+2017,IT_MOB_OWN,Japan,Female,87.02667
+2017,IT_MOB_OWN,Japan,Both sexes,88.3117
+2018,IT_MOB_OWN,Japan,Female,87.5977
+2018,IT_MOB_OWN,Japan,Both sexes,88.98072
+2018,IT_MOB_OWN,Japan,Male,90.46491
+2019,IT_MOB_OWN,Japan,Male,93.05469
+2019,IT_MOB_OWN,Japan,Female,91.29683
+2019,IT_MOB_OWN,Japan,Both sexes,92.14335
+2020,IT_MOB_OWN,Japan,Female,92.11002
+2020,IT_MOB_OWN,Japan,Male,93.71681
+2020,IT_MOB_OWN,Japan,Both sexes,92.88982
+2021,IT_MOB_OWN,Japan,Male,93.60274
+2021,IT_MOB_OWN,Japan,Female,92.41508
+2021,IT_MOB_OWN,Japan,Both sexes,92.9895
+2016,IT_MOB_OWN,Kazakhstan,Male,86.01884
+2016,IT_MOB_OWN,Kazakhstan,Both sexes,85.39276
+2016,IT_MOB_OWN,Kazakhstan,Female,84.81702
+2017,IT_MOB_OWN,Kazakhstan,Both sexes,86.80756
+2017,IT_MOB_OWN,Kazakhstan,Female,86.49801
+2017,IT_MOB_OWN,Kazakhstan,Male,87.14367
+2018,IT_MOB_OWN,Kazakhstan,Male,88.77549
+2018,IT_MOB_OWN,Kazakhstan,Female,87.14488
+2018,IT_MOB_OWN,Kazakhstan,Both sexes,87.92729
+2019,IT_MOB_OWN,Kazakhstan,Both sexes,88.12096
+2019,IT_MOB_OWN,Kazakhstan,Female,87.6821
+2019,IT_MOB_OWN,Kazakhstan,Male,88.59599
+2020,IT_MOB_OWN,Kazakhstan,Both sexes,90.52256
+2020,IT_MOB_OWN,Kazakhstan,Male,90.93822
+2020,IT_MOB_OWN,Kazakhstan,Female,90.138
+2021,IT_MOB_OWN,Kazakhstan,Both sexes,92.59077
+2021,IT_MOB_OWN,Kazakhstan,Female,92.5023
+2021,IT_MOB_OWN,Kazakhstan,Male,92.68623
+2014,IT_MOB_OWN,Republic of Korea,Male,87.72014
+2014,IT_MOB_OWN,Republic of Korea,Female,81.58382
+2014,IT_MOB_OWN,Republic of Korea,Both sexes,84.67433
+2015,IT_MOB_OWN,Republic of Korea,Both sexes,95.74328
+2015,IT_MOB_OWN,Republic of Korea,Female,94.52632
+2015,IT_MOB_OWN,Republic of Korea,Male,96.9399
+2016,IT_MOB_OWN,Republic of Korea,Both sexes,90.04271
+2016,IT_MOB_OWN,Republic of Korea,Female,87.63666
+2016,IT_MOB_OWN,Republic of Korea,Male,92.41017
+2017,IT_MOB_OWN,Republic of Korea,Both sexes,94.35176
+2017,IT_MOB_OWN,Republic of Korea,Female,93.05085
+2017,IT_MOB_OWN,Republic of Korea,Male,95.615
+2018,IT_MOB_OWN,Republic of Korea,Both sexes,95.99558
+2018,IT_MOB_OWN,Republic of Korea,Male,97.15697
+2018,IT_MOB_OWN,Republic of Korea,Female,94.79212
+2019,IT_MOB_OWN,Republic of Korea,Male,96.94926
+2019,IT_MOB_OWN,Republic of Korea,Female,95.31023
+2019,IT_MOB_OWN,Republic of Korea,Both sexes,96.14358
+2020,IT_MOB_OWN,Republic of Korea,Female,95.42753
+2020,IT_MOB_OWN,Republic of Korea,Male,96.99189
+2020,IT_MOB_OWN,Republic of Korea,Both sexes,96.22352
+2021,IT_MOB_OWN,Republic of Korea,Male,98.19685
+2021,IT_MOB_OWN,Republic of Korea,Female,96.9235
+2021,IT_MOB_OWN,Republic of Korea,Both sexes,97.57133
+2014,IT_MOB_OWN,Lithuania,Male,96.39515
+2014,IT_MOB_OWN,Lithuania,Both sexes,96.70808
+2014,IT_MOB_OWN,Lithuania,Female,96.98561
+2015,IT_MOB_OWN,Lithuania,Male,95.50155
+2015,IT_MOB_OWN,Lithuania,Female,95.88235
+2015,IT_MOB_OWN,Lithuania,Both sexes,95.70312
+2016,IT_MOB_OWN,Lithuania,Both sexes,95.54746
+2016,IT_MOB_OWN,Lithuania,Male,95.50152
+2016,IT_MOB_OWN,Lithuania,Female,95.58825
+2017,IT_MOB_OWN,Lithuania,Male,95.5015
+2017,IT_MOB_OWN,Lithuania,Female,95.88237
+2017,IT_MOB_OWN,Lithuania,Both sexes,95.70313
+2018,IT_MOB_OWN,Lithuania,Female,95.88237
+2018,IT_MOB_OWN,Lithuania,Both sexes,95.70213
+2018,IT_MOB_OWN,Lithuania,Male,95.50158
+2019,IT_MOB_OWN,Lithuania,Both sexes,95.70315
+2019,IT_MOB_OWN,Lithuania,Male,95.50362
+2019,IT_MOB_OWN,Lithuania,Female,95.88447
+2014,IT_MOB_OWN,Mexico,Both sexes,62.96049
+2014,IT_MOB_OWN,Mexico,Female,61.84875
+2014,IT_MOB_OWN,Mexico,Male,64.15171
+2015,IT_MOB_OWN,Mexico,Male,73.15247
+2015,IT_MOB_OWN,Mexico,Female,69.91176
+2015,IT_MOB_OWN,Mexico,Both sexes,71.46701
+2013,IT_MOB_OWN,Moldova,Both sexes,53.63698
+2014,IT_MOB_OWN,Netherlands (Kingdom of the),Male,77.46479
+2014,IT_MOB_OWN,Netherlands (Kingdom of the),Both sexes,74.30556
+2014,IT_MOB_OWN,Netherlands (Kingdom of the),Female,71.23288
+2015,IT_MOB_OWN,Netherlands (Kingdom of the),Both sexes,78.62069
+2015,IT_MOB_OWN,Netherlands (Kingdom of the),Male,80.28169
+2015,IT_MOB_OWN,Netherlands (Kingdom of the),Female,78.08219
+2016,IT_MOB_OWN,Netherlands (Kingdom of the),Female,82.43243
+2016,IT_MOB_OWN,Netherlands (Kingdom of the),Both sexes,84.24658
+2016,IT_MOB_OWN,Netherlands (Kingdom of the),Male,86.11111
+2021,IT_MOB_OWN,Netherlands (Kingdom of the),Both sexes,87.41722
+2021,IT_MOB_OWN,Netherlands (Kingdom of the),Male,88.0
+2021,IT_MOB_OWN,Netherlands (Kingdom of the),Female,86.84211
+2017,IT_MOB_OWN,Norway,Both sexes,98.00001
+2019,IT_MOB_OWN,Norway,Both sexes,88.82264
+2019,IT_MOB_OWN,Norway,Male,90.12938
+2019,IT_MOB_OWN,Norway,Female,88.4848
+2021,IT_MOB_OWN,Norway,Both sexes,95.99999
+2021,IT_MOB_OWN,Norway,Female,97.00001
+2021,IT_MOB_OWN,Norway,Male,95.0
+2019,IT_MOB_OWN,Romania,Both sexes,96.18078
+2019,IT_MOB_OWN,Romania,Male,97.16888
+2019,IT_MOB_OWN,Romania,Female,95.20594
+2020,IT_MOB_OWN,Romania,Both sexes,96.80275
+2020,IT_MOB_OWN,Romania,Female,96.26653
+2020,IT_MOB_OWN,Romania,Male,97.3431
+2021,IT_MOB_OWN,Romania,Female,97.51483
+2021,IT_MOB_OWN,Romania,Both sexes,97.84308
+2021,IT_MOB_OWN,Romania,Male,98.17727
+2016,IT_MOB_OWN,Serbia,Male,92.46008
+2016,IT_MOB_OWN,Serbia,Female,91.06751
+2016,IT_MOB_OWN,Serbia,Both sexes,91.7518
+2017,IT_MOB_OWN,Serbia,Both sexes,92.56021
+2017,IT_MOB_OWN,Serbia,Female,91.9479
+2017,IT_MOB_OWN,Serbia,Male,93.19387
+2020,IT_MOB_OWN,Serbia,Male,96.66906
+2020,IT_MOB_OWN,Serbia,Female,91.53361
+2020,IT_MOB_OWN,Serbia,Both sexes,94.05679
+2021,IT_MOB_OWN,Serbia,Female,94.37235
+2021,IT_MOB_OWN,Serbia,Male,96.58234
+2021,IT_MOB_OWN,Serbia,Both sexes,95.45823
+2020,IT_MOB_OWN,Slovakia,Male,78.2876
+2020,IT_MOB_OWN,Slovakia,Both sexes,76.34679
+2020,IT_MOB_OWN,Slovakia,Female,74.43456
+2019,IT_MOB_OWN,Viet Nam,Both sexes,77.5
+2019,IT_MOB_OWN,Viet Nam,Female,76.74703
+2019,IT_MOB_OWN,Viet Nam,Male,78.26
+2020,IT_MOB_OWN,Viet Nam,Both sexes,79.3
+2020,IT_MOB_OWN,Viet Nam,Male,78.26
+2020,IT_MOB_OWN,Viet Nam,Female,76.78
+2021,IT_MOB_OWN,Viet Nam,Male,78.44303
+2021,IT_MOB_OWN,Viet Nam,Female,76.52791
+2021,IT_MOB_OWN,Viet Nam,Both sexes,77.48
+2017,IT_MOB_OWN,Slovenia,Both sexes,97.45229
+2017,IT_MOB_OWN,Slovenia,Male,97.39186
+2017,IT_MOB_OWN,Slovenia,Female,97.51455
+2018,IT_MOB_OWN,Slovenia,Both sexes,96.23437
+2018,IT_MOB_OWN,Slovenia,Male,95.73031
+2018,IT_MOB_OWN,Slovenia,Female,96.75501
+2019,IT_MOB_OWN,Slovenia,Female,96.81252
+2019,IT_MOB_OWN,Slovenia,Both sexes,97.25039
+2019,IT_MOB_OWN,Slovenia,Male,97.66963
+2020,IT_MOB_OWN,Slovenia,Both sexes,97.37228
+2020,IT_MOB_OWN,Slovenia,Female,97.1553
+2020,IT_MOB_OWN,Slovenia,Male,97.57786
+2021,IT_MOB_OWN,Slovenia,Male,97.73285
+2021,IT_MOB_OWN,Slovenia,Female,98.39615
+2021,IT_MOB_OWN,Slovenia,Both sexes,98.05505
+2017,IT_MOB_OWN,Spain,Male,96.20978
+2017,IT_MOB_OWN,Spain,Female,96.10953
+2017,IT_MOB_OWN,Spain,Both sexes,96.15931
+2019,IT_MOB_OWN,Spain,Both sexes,96.92442
+2019,IT_MOB_OWN,Spain,Male,96.72718
+2019,IT_MOB_OWN,Spain,Female,97.11854
+2020,IT_MOB_OWN,Spain,Both sexes,98.88978
+2020,IT_MOB_OWN,Spain,Female,98.91444
+2020,IT_MOB_OWN,Spain,Male,98.8647
+2019,IT_MOB_OWN,Switzerland,Male,93.58406
+2019,IT_MOB_OWN,Switzerland,Female,91.88307
+2019,IT_MOB_OWN,Switzerland,Both sexes,92.72459
+2014,IT_MOB_OWN,United Arab Emirates,Both sexes,99.7
+2016,IT_MOB_OWN,United Arab Emirates,Both sexes,99.23401
+2016,IT_MOB_OWN,United Arab Emirates,Male,99.20002
+2016,IT_MOB_OWN,United Arab Emirates,Female,99.30001
+2017,IT_MOB_OWN,United Arab Emirates,Male,99.39999
+2017,IT_MOB_OWN,United Arab Emirates,Female,99.39999
+2017,IT_MOB_OWN,United Arab Emirates,Both sexes,99.39999
+2018,IT_MOB_OWN,United Arab Emirates,Female,100.0
+2018,IT_MOB_OWN,United Arab Emirates,Both sexes,99.88963
+2018,IT_MOB_OWN,United Arab Emirates,Male,99.75001
+2019,IT_MOB_OWN,United Arab Emirates,Female,100.0
+2019,IT_MOB_OWN,United Arab Emirates,Both sexes,99.89
+2019,IT_MOB_OWN,United Arab Emirates,Male,99.8
+2020,IT_MOB_OWN,United Arab Emirates,Both sexes,100.0
+2020,IT_MOB_OWN,United Arab Emirates,Female,100.0
+2020,IT_MOB_OWN,United Arab Emirates,Male,100.0
+2021,IT_MOB_OWN,United Arab Emirates,Female,100.0
+2021,IT_MOB_OWN,United Arab Emirates,Both sexes,100.0
+2021,IT_MOB_OWN,United Arab Emirates,Male,100.0
+2020,IT_MOB_OWN,Türkiye,Both sexes,92.86028
+2020,IT_MOB_OWN,Türkiye,Male,96.32832
+2020,IT_MOB_OWN,Türkiye,Female,89.41242
+2021,IT_MOB_OWN,Türkiye,Male,96.98469
+2021,IT_MOB_OWN,Türkiye,Female,89.70722
+2021,IT_MOB_OWN,Türkiye,Both sexes,93.34068
+2014,IT_MOB_OWN,Ukraine,Both sexes,38.94417
+2016,IT_MOB_OWN,Ukraine,Both sexes,37.41682
+2020,IT_MOB_OWN,Ukraine,Male,89.26273
+2020,IT_MOB_OWN,Ukraine,Female,89.6064
+2020,IT_MOB_OWN,Ukraine,Both sexes,89.44711
+2021,IT_MOB_OWN,Ukraine,Both sexes,90.72872
+2021,IT_MOB_OWN,Ukraine,Female,90.97391
+2021,IT_MOB_OWN,Ukraine,Male,90.44488
+2017,IT_MOB_OWN,Uzbekistan,Male,73.3
+2017,IT_MOB_OWN,Uzbekistan,Female,53.78051
+2017,IT_MOB_OWN,Uzbekistan,Both sexes,63.5
+2018,IT_MOB_OWN,Uzbekistan,Both sexes,68.1
+2018,IT_MOB_OWN,Uzbekistan,Male,77.4
+2018,IT_MOB_OWN,Uzbekistan,Female,58.84556
+2019,IT_MOB_OWN,Uzbekistan,Female,62.13038
+2019,IT_MOB_OWN,Uzbekistan,Both sexes,69.8
+2019,IT_MOB_OWN,Uzbekistan,Male,77.5
+2020,IT_MOB_OWN,Uzbekistan,Both sexes,71.7
+2020,IT_MOB_OWN,Uzbekistan,Male,77.8
+2020,IT_MOB_OWN,Uzbekistan,Female,65.63703
+2021,IT_MOB_OWN,Uzbekistan,Female,63.65357
+2021,IT_MOB_OWN,Uzbekistan,Both sexes,72.35622
+2021,IT_MOB_OWN,Uzbekistan,Male,81.10627
+2021,IT_MOB_OWN,Uzbekistan,Male,81.10627

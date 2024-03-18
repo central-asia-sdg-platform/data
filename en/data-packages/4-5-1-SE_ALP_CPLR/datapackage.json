@@ -1,0 +1,146 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_ALP_CPLR",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Chile",
+                "Albania",
+                "Estonia",
+                "China",
+                "Finland",
+                "Colombia",
+                "Belgium",
+                "France",
+                "Georgia",
+                "Germany",
+                "Bosnia and Herzegovina",
+                "Greece",
+                "Hungary",
+                "Costa Rica",
+                "Bulgaria",
+                "India",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Canada",
+                "Kyrgyzstan",
+                "Denmark",
+                "Israel",
+                "Italy",
+                "Latvia",
+                "Moldova",
+                "Japan",
+                "Lithuania",
+                "Kazakhstan",
+                "Luxembourg",
+                "Mexico",
+                "Poland",
+                "Azerbaijan",
+                "Montenegro",
+                "Portugal",
+                "Romania",
+                "Republic of Korea",
+                "Serbia",
+                "Viet Nam",
+                "Norway",
+                "Türkiye",
+                "Uzbekistan",
+                "Turkmenistan",
+                "Slovenia",
+                "Ukraine",
+                "Spain",
+                "Austria",
+                "Sweden",
+                "Switzerland",
+                "North Macedonia",
+                "Tajikistan",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIMAR",
+                "UPPSEC",
+                "LOWSEC",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total or no breakdown",
+                "Quantile 4",
+                "Quantile 5 (richest)",
+                "Quantile 1 (poorest)",
+                "Quantile 2",
+                "Quantile 3",
+                ""
+              ]
+            },
+            "title": "Quantile"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_ALP_CPLR",
+  "title": "meta.name-4-5-1-SE_ALP_CPLR"
+}

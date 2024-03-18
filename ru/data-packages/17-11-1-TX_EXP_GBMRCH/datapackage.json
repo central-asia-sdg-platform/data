@@ -1,0 +1,113 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TX_EXP_GBMRCH",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Republic of Moldova",
+                "Montenegro",
+                "Belarus",
+                "Albania",
+                "Canada",
+                "Chile",
+                "Netherlands (Kingdom of the)",
+                "Azerbaijan",
+                "China",
+                "New Zealand",
+                "Australia",
+                "Austria",
+                "Norway",
+                "Colombia",
+                "Armenia",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Costa Rica",
+                "Croatia",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Cyprus",
+                "Slovenia",
+                "Czechia",
+                "Denmark",
+                "Spain",
+                "Sweden",
+                "Estonia",
+                "Switzerland",
+                "Finland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "France",
+                "Türkiye",
+                "Georgia",
+                "Туркменистан",
+                "Germany",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Greece",
+                "Узбекистан",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-11-1-TX_EXP_GBMRCH",
+  "title": "meta.name-17-11-1-TX_EXP_GBMRCH"
+}

@@ -56,7 +56,7 @@
                 "Spain",
                 "Belgium",
                 "Sweden",
-                "Republic of Moldova",
+                "Moldova",
                 "Switzerland",
                 "Tajikistan",
                 "Türkiye",
@@ -91,9 +91,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ALLAREA",
-                "RURAL",
-                "URBAN",
+                "All areas",
+                "Rural",
+                "Urban",
                 ""
               ]
             },
@@ -104,9 +104,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
-                "MALE",
-                "FEMALE",
+                "Both sexes",
+                "Male",
+                "Female",
                 ""
               ]
             },

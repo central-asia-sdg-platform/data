@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SUD_TREAT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Austria",
+                "Bulgaria",
+                "Chile",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "France",
+                "Germany",
+                "Greece",
+                "India",
+                "Italy",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Portugal",
+                "Romania",
+                "Slovenia",
+                "Spain",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Substance use disorders",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "OPIOIDS",
+                "TOTAL",
+                "ATS",
+                "COCAINE",
+                ""
+              ]
+            },
+            "title": "Substance use disorders"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-5-1-SH_SUD_TREAT",
+  "title": "meta.name-3-5-1-SH_SUD_TREAT"
+}

@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_ARM_SZTRACE",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Bulgaria",
+                "Colombia",
+                "France",
+                "Greece",
+                "Latvia",
+                "Lithuania",
+                "Moldova",
+                "Romania",
+                "Spain",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Value",

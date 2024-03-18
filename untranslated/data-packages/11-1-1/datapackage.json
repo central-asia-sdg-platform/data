@@ -12,7 +12,59 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LND_SLUM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Albania",
+                "Azerbaijan",
+                "Austria",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Viet Nam",
+                "Belarus",
+                "Chile",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "Hungary",
+                "India",
+                "Ireland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "URBAN",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

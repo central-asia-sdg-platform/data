@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_BRTC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Montenegro",
+                "New Zealand",
+                "Albania",
+                "Azerbaijan",
+                "Norway",
+                "Australia",
+                "Austria",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Serbia",
+                "Slovakia",
+                "Bulgaria",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Belarus",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Canada",
+                "Ukraine",
+                "North Macedonia",
+                "Chile",
+                "Uzbekistan",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-1-2-SH_STA_BRTC",
+  "title": "meta.name-3-1-2-SH_STA_BRTC"
+}

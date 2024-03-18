@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LKRV_PWAC",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Chile",
+                "Uzbekistan",
+                "China",
+                "Albania",
+                "Colombia",
+                "Costa Rica",
+                "Azerbaijan",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Australia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Austria",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_LKRV_PWAC",
+  "title": "meta.name-6-6-1-EN_LKRV_PWAC"
+}

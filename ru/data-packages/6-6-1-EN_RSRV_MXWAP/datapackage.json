@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_RSRV_MXWAP",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Estonia",
+                "Finland",
+                "France",
+                "Azerbaijan",
+                "Switzerland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Georgia",
+                "Australia",
+                "Türkiye",
+                "Austria",
+                "Туркменистан",
+                "Armenia",
+                "Ukraine",
+                "Germany",
+                "Belgium",
+                "Greece",
+                "North Macedonia",
+                "Bosnia and Herzegovina",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Hungary",
+                "Узбекистан",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Bulgaria",
+                "Israel",
+                "Chile",
+                "Italy",
+                "Japan",
+                "China",
+                "Colombia",
+                "Казахстан",
+                "Republic of Korea",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Кыргызстан",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_RSRV_MXWAP",
+  "title": "meta.name-6-6-1-EN_RSRV_MXWAP"
+}

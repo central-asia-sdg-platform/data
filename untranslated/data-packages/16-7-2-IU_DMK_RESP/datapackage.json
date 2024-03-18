@@ -1,0 +1,131 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IU_DMK_RESP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Colombia",
+                "Republic of Korea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "35-44",
+                "ALLAGE",
+                "25-34",
+                "65+",
+                "45-54",
+                "<25Y",
+                "55-64",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Population Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "POP_C",
+                "POP_B",
+                "POP_A",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantile",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-2-IU_DMK_RESP",
+  "title": "meta.name-16-7-2-IU_DMK_RESP"
+}

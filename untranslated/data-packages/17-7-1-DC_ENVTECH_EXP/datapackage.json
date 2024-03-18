@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_ENVTECH_EXP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Albania",
+                "Azerbaijan",
+                "Sweden",
+                "Australia",
+                "Switzerland",
+                "Austria",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Armenia",
+                "Türkiye",
+                "Belgium",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Bosnia and Herzegovina",
+                "Uzbekistan",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-7-1-DC_ENVTECH_EXP",
+  "title": "meta.name-17-7-1-DC_ENVTECH_EXP"
+}

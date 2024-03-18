@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GPI_ICTS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poland",
+                "Albania",
+                "Azerbaijan",
+                "Portugal",
+                "Austria",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Belgium",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Bosnia and Herzegovina",
+                "Switzerland",
+                "United Arab Emirates",
+                "Türkiye",
+                "Bulgaria",
+                "Ukraine",
+                "North Macedonia",
+                "Belarus",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Colombia",
+                "Uzbekistan",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TRAF",
+                "INST",
+                "ARSP",
+                "EPRS",
+                "COPA",
+                "PCPR",
+                "CMFL",
+                "EMAIL",
+                "SOFT",
+                "PRVCY",
+                "VRFY",
+                "SCRTY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_GPI_ICTS",
+  "title": "meta.name-4-5-1-SE_GPI_ICTS"
+}

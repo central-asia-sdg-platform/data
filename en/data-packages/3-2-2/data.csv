@@ -1,1 +1,1366 @@
-Year,Value
+Year,SeriesCode,Country,Age,Location,Sex,Value
+2000,SH_DYN_NMRT,Albania,<1M,,Both sexes,12.2
+2001,SH_DYN_NMRT,Albania,<1M,,Both sexes,11.8
+2002,SH_DYN_NMRT,Albania,<1M,,Both sexes,11.5
+2003,SH_DYN_NMRT,Albania,<1M,,Both sexes,11.2
+2004,SH_DYN_NMRT,Albania,<1M,,Both sexes,10.9
+2005,SH_DYN_NMRT,Albania,<1M,,Both sexes,10.5
+2006,SH_DYN_NMRT,Albania,<1M,,Both sexes,10.0
+2007,SH_DYN_NMRT,Albania,<1M,,Both sexes,9.3
+2008,SH_DYN_NMRT,Albania,<1M,,Both sexes,8.3
+2009,SH_DYN_NMRT,Albania,<1M,,Both sexes,7.4
+2010,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.7
+2011,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.3
+2012,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.1
+2013,SH_DYN_NMRT,Albania,<1M,,Both sexes,5.9
+2014,SH_DYN_NMRT,Albania,<1M,,Both sexes,5.9
+2015,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.0
+2016,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.3
+2017,SH_DYN_NMRT,Albania,<1M,,Both sexes,6.7
+2018,SH_DYN_NMRT,Albania,<1M,,Both sexes,7.0
+2019,SH_DYN_NMRT,Albania,<1M,,Both sexes,7.1
+2020,SH_DYN_NMRT,Albania,<1M,,Both sexes,7.2
+2021,SH_DYN_NMRT,Albania,<1M,,Both sexes,7.1
+2000,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,34.3
+2001,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,32.8
+2002,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,31.3
+2003,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,29.7
+2004,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,28.2
+2005,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,26.8
+2006,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,25.4
+2007,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,24.1
+2008,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,22.9
+2009,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,21.6
+2010,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,20.4
+2011,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,18.9
+2012,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,17.4
+2013,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,16.0
+2014,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,14.7
+2015,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,13.6
+2016,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,12.6
+2017,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,11.8
+2018,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,11.1
+2019,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,10.4
+2020,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,10.0
+2021,SH_DYN_NMRT,Azerbaijan,<1M,,Both sexes,9.5
+2000,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.5
+2001,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.5
+2002,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.4
+2003,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.4
+2004,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.3
+2005,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.3
+2006,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.2
+2007,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.1
+2008,SH_DYN_NMRT,Australia,<1M,,Both sexes,3.0
+2009,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.9
+2010,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.8
+2011,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.6
+2012,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.5
+2013,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.4
+2014,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.4
+2015,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.3
+2016,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.3
+2017,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.3
+2000,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,20.3
+2001,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.9
+2002,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.7
+2003,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.6
+2004,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.5
+2005,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.5
+2006,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.4
+2007,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,19.1
+2008,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,18.4
+2009,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,17.7
+2010,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,17.0
+2011,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,16.4
+2012,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,15.9
+2013,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,15.6
+2014,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,15.3
+2015,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,14.9
+2016,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,14.3
+2017,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,13.6
+2018,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,13.0
+2019,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,12.5
+2018,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.3
+2019,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.4
+2020,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.4
+2021,SH_DYN_NMRT,Australia,<1M,,Both sexes,2.4
+2000,SH_DYN_NMRT,Austria,<1M,,Both sexes,3.1
+2001,SH_DYN_NMRT,Austria,<1M,,Both sexes,3.1
+2002,SH_DYN_NMRT,Austria,<1M,,Both sexes,3.0
+2003,SH_DYN_NMRT,Austria,<1M,,Both sexes,3.0
+2004,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.9
+2005,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.8
+2006,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.7
+2007,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.7
+2008,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.6
+2009,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.6
+2010,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.5
+2011,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.5
+2012,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.4
+2013,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.3
+2014,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.3
+2015,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.2
+2016,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.2
+2017,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.2
+2020,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,12.2
+2021,SH_DYN_NMRT,Kyrgyzstan,<1M,,Both sexes,11.9
+2000,SH_DYN_NMRT,Latvia,<1M,,Both sexes,7.2
+2001,SH_DYN_NMRT,Latvia,<1M,,Both sexes,6.6
+2002,SH_DYN_NMRT,Latvia,<1M,,Both sexes,6.2
+2003,SH_DYN_NMRT,Latvia,<1M,,Both sexes,5.8
+2004,SH_DYN_NMRT,Latvia,<1M,,Both sexes,5.6
+2005,SH_DYN_NMRT,Latvia,<1M,,Both sexes,5.4
+2006,SH_DYN_NMRT,Latvia,<1M,,Both sexes,5.2
+2007,SH_DYN_NMRT,Latvia,<1M,,Both sexes,5.0
+2008,SH_DYN_NMRT,Latvia,<1M,,Both sexes,4.8
+2009,SH_DYN_NMRT,Latvia,<1M,,Both sexes,4.5
+2010,SH_DYN_NMRT,Latvia,<1M,,Both sexes,4.2
+2011,SH_DYN_NMRT,Latvia,<1M,,Both sexes,3.9
+2012,SH_DYN_NMRT,Latvia,<1M,,Both sexes,3.5
+2013,SH_DYN_NMRT,Latvia,<1M,,Both sexes,3.2
+2014,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.9
+2015,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.7
+2016,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.6
+2017,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.4
+2018,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.3
+2019,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.2
+2018,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.2
+2019,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.3
+2020,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.3
+2021,SH_DYN_NMRT,Austria,<1M,,Both sexes,2.3
+2000,SH_DYN_NMRT,Armenia,<1M,,Both sexes,16.0
+2001,SH_DYN_NMRT,Armenia,<1M,,Both sexes,15.3
+2002,SH_DYN_NMRT,Armenia,<1M,,Both sexes,14.6
+2003,SH_DYN_NMRT,Armenia,<1M,,Both sexes,13.9
+2004,SH_DYN_NMRT,Armenia,<1M,,Both sexes,13.2
+2005,SH_DYN_NMRT,Armenia,<1M,,Both sexes,12.6
+2006,SH_DYN_NMRT,Armenia,<1M,,Both sexes,11.9
+2020,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.1
+2021,SH_DYN_NMRT,Latvia,<1M,,Both sexes,2.1
+2000,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.5
+2001,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.4
+2002,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.3
+2003,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.3
+2004,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.4
+2005,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.3
+2006,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,4.0
+2007,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,3.7
+2008,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,3.4
+2009,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,3.1
+2010,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.8
+2011,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.7
+2012,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.5
+2013,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.4
+2014,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.4
+2015,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.3
+2016,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.3
+2017,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.2
+2018,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.2
+2019,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.1
+2020,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,2.0
+2021,SH_DYN_NMRT,Lithuania,<1M,,Both sexes,1.9
+2000,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,2.3
+2001,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,2.1
+2002,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,2.0
+2003,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.9
+2004,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.8
+2005,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2006,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2007,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2008,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2009,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2010,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.5
+2011,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.5
+2012,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.5
+2013,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2014,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2015,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2018,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2019,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2020,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2021,SH_DYN_NMRT,Luxembourg,<1M,,Both sexes,1.7
+2000,SH_DYN_NMRT,Malta,<1M,,Both sexes,5.1
+2001,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.9
+2002,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.8
+2003,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.7
+2004,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.6
+2005,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2006,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2007,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2008,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2009,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.6
+2010,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.6
+2011,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2012,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2013,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.5
+2014,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.4
+2015,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.4
+2016,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.3
+2017,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.3
+2018,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.2
+2019,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.1
+2020,SH_DYN_NMRT,Malta,<1M,,Both sexes,4.0
+2021,SH_DYN_NMRT,Malta,<1M,,Both sexes,3.9
+2000,SH_DYN_NMRT,Mexico,<1M,,Both sexes,14.3
+2001,SH_DYN_NMRT,Mexico,<1M,,Both sexes,13.3
+2002,SH_DYN_NMRT,Mexico,<1M,,Both sexes,12.3
+2003,SH_DYN_NMRT,Mexico,<1M,,Both sexes,11.4
+2004,SH_DYN_NMRT,Mexico,<1M,,Both sexes,10.5
+2005,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.8
+2006,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.4
+2007,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.2
+2008,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.2
+2009,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.1
+2010,SH_DYN_NMRT,Mexico,<1M,,Both sexes,9.0
+2011,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.9
+2012,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.7
+2013,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.5
+2014,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.3
+2015,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.3
+2016,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.4
+2017,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.6
+2018,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.7
+2019,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.6
+2020,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.4
+2021,SH_DYN_NMRT,Mexico,<1M,,Both sexes,8.1
+2000,SH_DYN_NMRT,Moldova,<1M,,Both sexes,20.7
+2001,SH_DYN_NMRT,Moldova,<1M,,Both sexes,18.8
+2002,SH_DYN_NMRT,Moldova,<1M,,Both sexes,17.1
+2003,SH_DYN_NMRT,Moldova,<1M,,Both sexes,15.7
+2004,SH_DYN_NMRT,Moldova,<1M,,Both sexes,14.6
+2007,SH_DYN_NMRT,Armenia,<1M,,Both sexes,11.3
+2008,SH_DYN_NMRT,Armenia,<1M,,Both sexes,10.8
+2009,SH_DYN_NMRT,Armenia,<1M,,Both sexes,10.2
+2010,SH_DYN_NMRT,Armenia,<1M,,Both sexes,9.7
+2011,SH_DYN_NMRT,Armenia,<1M,,Both sexes,9.3
+2012,SH_DYN_NMRT,Armenia,<1M,,Both sexes,8.8
+2013,SH_DYN_NMRT,Armenia,<1M,,Both sexes,8.4
+2014,SH_DYN_NMRT,Armenia,<1M,,Both sexes,8.0
+2015,SH_DYN_NMRT,Armenia,<1M,,Both sexes,7.6
+2016,SH_DYN_NMRT,Armenia,<1M,,Both sexes,7.2
+2017,SH_DYN_NMRT,Armenia,<1M,,Both sexes,6.9
+2018,SH_DYN_NMRT,Armenia,<1M,,Both sexes,6.6
+2019,SH_DYN_NMRT,Armenia,<1M,,Both sexes,6.2
+2020,SH_DYN_NMRT,Armenia,<1M,,Both sexes,5.9
+2021,SH_DYN_NMRT,Armenia,<1M,,Both sexes,5.6
+2000,SH_DYN_NMRT,Belgium,<1M,,Both sexes,3.0
+2001,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.9
+2002,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.8
+2003,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.7
+2004,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.7
+2005,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.6
+2006,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.6
+2007,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.5
+2008,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.5
+2009,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.4
+2010,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2011,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2012,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2014,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2015,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2016,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2017,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.3
+2018,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.4
+2019,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.4
+2020,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.4
+2021,SH_DYN_NMRT,Belgium,<1M,,Both sexes,2.4
+2000,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,6.9
+2001,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,6.5
+2002,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,6.2
+2003,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.9
+2004,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.7
+2005,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.5
+2006,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.4
+2007,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.3
+2008,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.3
+2009,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.2
+2010,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.1
+2011,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,5.0
+2012,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.9
+2013,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.8
+2014,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.7
+2015,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.6
+2016,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.6
+2017,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.5
+2018,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.4
+2019,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.3
+2020,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.2
+2021,SH_DYN_NMRT,Bosnia and Herzegovina,<1M,,Both sexes,4.1
+2000,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,7.9
+2001,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,7.6
+2002,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,7.2
+2003,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,6.8
+2004,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,6.4
+2005,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,6.0
+2006,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.6
+2007,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.3
+2008,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.2
+2009,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.2
+2010,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.1
+2011,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,5.0
+2012,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,4.7
+2013,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,4.5
+2014,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,4.3
+2015,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,4.1
+2016,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.9
+2017,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.7
+2018,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.5
+2019,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.3
+2020,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.1
+2021,SH_DYN_NMRT,Bulgaria,<1M,,Both sexes,3.0
+2000,SH_DYN_NMRT,Belarus,<1M,,Both sexes,5.2
+2001,SH_DYN_NMRT,Belarus,<1M,,Both sexes,4.4
+2002,SH_DYN_NMRT,Belarus,<1M,,Both sexes,3.9
+2003,SH_DYN_NMRT,Belarus,<1M,,Both sexes,3.6
+2004,SH_DYN_NMRT,Belarus,<1M,,Both sexes,3.4
+2005,SH_DYN_NMRT,Belarus,<1M,,Both sexes,3.2
+2006,SH_DYN_NMRT,Belarus,<1M,,Both sexes,2.9
+2007,SH_DYN_NMRT,Belarus,<1M,,Both sexes,2.6
+2008,SH_DYN_NMRT,Belarus,<1M,,Both sexes,2.2
+2009,SH_DYN_NMRT,Belarus,<1M,,Both sexes,2.0
+2010,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.8
+2011,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.7
+2012,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.7
+2013,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.7
+2014,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.6
+2015,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.5
+2017,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.4
+2018,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.2
+2019,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.1
+2020,SH_DYN_NMRT,Belarus,<1M,,Both sexes,1.0
+2021,SH_DYN_NMRT,Belarus,<1M,,Both sexes,0.9
+2000,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.8
+2001,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.8
+2002,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.9
+2003,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.9
+2004,SH_DYN_NMRT,Canada,<1M,,Both sexes,4.0
+2005,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.9
+2006,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.9
+2007,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.8
+2008,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.8
+2009,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.8
+2010,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.7
+2011,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.7
+2012,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.7
+2013,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.7
+2014,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.6
+2015,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.6
+2016,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.5
+2017,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.5
+2018,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.5
+2019,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.4
+2020,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.4
+2021,SH_DYN_NMRT,Canada,<1M,,Both sexes,3.4
+2000,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.7
+2001,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.4
+2002,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2003,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2004,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.4
+2005,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.4
+2006,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.5
+2007,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.4
+2008,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2009,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2010,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2011,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2012,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2013,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.3
+2014,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.2
+2015,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.1
+2016,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.1
+2017,SH_DYN_NMRT,Chile,<1M,,Both sexes,5.0
+2018,SH_DYN_NMRT,Chile,<1M,,Both sexes,4.8
+2019,SH_DYN_NMRT,Chile,<1M,,Both sexes,4.7
+2020,SH_DYN_NMRT,Chile,<1M,,Both sexes,4.5
+2021,SH_DYN_NMRT,Chile,<1M,,Both sexes,4.3
+2000,SH_DYN_NMRT,China,<1M,,Both sexes,21.3
+2001,SH_DYN_NMRT,China,<1M,,Both sexes,19.9
+2002,SH_DYN_NMRT,China,<1M,,Both sexes,18.4
+2003,SH_DYN_NMRT,China,<1M,,Both sexes,16.9
+2004,SH_DYN_NMRT,China,<1M,,Both sexes,15.4
+2005,SH_DYN_NMRT,China,<1M,,Both sexes,13.9
+2006,SH_DYN_NMRT,China,<1M,,Both sexes,12.5
+2007,SH_DYN_NMRT,China,<1M,,Both sexes,11.3
+2008,SH_DYN_NMRT,China,<1M,,Both sexes,10.2
+2009,SH_DYN_NMRT,China,<1M,,Both sexes,9.2
+2010,SH_DYN_NMRT,China,<1M,,Both sexes,8.4
+2011,SH_DYN_NMRT,China,<1M,,Both sexes,7.6
+2012,SH_DYN_NMRT,China,<1M,,Both sexes,7.0
+2013,SH_DYN_NMRT,China,<1M,,Both sexes,6.4
+2014,SH_DYN_NMRT,China,<1M,,Both sexes,5.8
+2015,SH_DYN_NMRT,China,<1M,,Both sexes,5.3
+2016,SH_DYN_NMRT,China,<1M,,Both sexes,4.9
+2017,SH_DYN_NMRT,China,<1M,,Both sexes,4.4
+2018,SH_DYN_NMRT,China,<1M,,Both sexes,4.1
+2019,SH_DYN_NMRT,China,<1M,,Both sexes,3.7
+2020,SH_DYN_NMRT,China,<1M,,Both sexes,3.4
+2021,SH_DYN_NMRT,China,<1M,,Both sexes,3.2
+2000,SH_DYN_NMRT,Colombia,<1M,,Both sexes,13.5
+2001,SH_DYN_NMRT,Colombia,<1M,,Both sexes,13.1
+2002,SH_DYN_NMRT,Colombia,<1M,,Both sexes,12.7
+2005,SH_DYN_NMRT,Moldova,<1M,,Both sexes,13.8
+2006,SH_DYN_NMRT,Moldova,<1M,,Both sexes,13.3
+2007,SH_DYN_NMRT,Moldova,<1M,,Both sexes,13.1
+2008,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.9
+2009,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.8
+2010,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.7
+2011,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.6
+2012,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.4
+2013,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.2
+2014,SH_DYN_NMRT,Moldova,<1M,,Both sexes,12.0
+2015,SH_DYN_NMRT,Moldova,<1M,,Both sexes,11.8
+2016,SH_DYN_NMRT,Moldova,<1M,,Both sexes,11.6
+2017,SH_DYN_NMRT,Moldova,<1M,,Both sexes,11.4
+2018,SH_DYN_NMRT,Moldova,<1M,,Both sexes,11.2
+2019,SH_DYN_NMRT,Moldova,<1M,,Both sexes,11.0
+2020,SH_DYN_NMRT,Moldova,<1M,,Both sexes,10.8
+2021,SH_DYN_NMRT,Moldova,<1M,,Both sexes,10.5
+2000,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,8.5
+2001,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,8.4
+2002,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,8.2
+2003,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,7.9
+2004,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,7.5
+2005,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,7.0
+2006,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,6.4
+2007,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,5.9
+2008,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,5.4
+2009,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,5.0
+2010,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,4.5
+2011,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,4.0
+2012,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,3.5
+2013,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,3.1
+2014,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,2.6
+2015,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,2.3
+2016,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.9
+2017,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.6
+2018,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.4
+2019,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.2
+2020,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.1
+2021,SH_DYN_NMRT,Montenegro,<1M,,Both sexes,1.0
+2000,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.8
+2001,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.8
+2002,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.7
+2003,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.6
+2004,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.5
+2005,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.4
+2006,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.3
+2007,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.2
+2008,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,3.0
+2009,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.9
+2010,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.8
+2003,SH_DYN_NMRT,Colombia,<1M,,Both sexes,12.4
+2004,SH_DYN_NMRT,Colombia,<1M,,Both sexes,12.0
+2005,SH_DYN_NMRT,Colombia,<1M,,Both sexes,11.7
+2006,SH_DYN_NMRT,Colombia,<1M,,Both sexes,11.4
+2007,SH_DYN_NMRT,Colombia,<1M,,Both sexes,11.0
+2008,SH_DYN_NMRT,Colombia,<1M,,Both sexes,10.7
+2009,SH_DYN_NMRT,Colombia,<1M,,Both sexes,10.4
+2010,SH_DYN_NMRT,Colombia,<1M,,Both sexes,10.0
+2011,SH_DYN_NMRT,Colombia,<1M,,Both sexes,9.7
+2012,SH_DYN_NMRT,Colombia,<1M,,Both sexes,9.4
+2013,SH_DYN_NMRT,Colombia,<1M,,Both sexes,9.1
+2014,SH_DYN_NMRT,Colombia,<1M,,Both sexes,8.8
+2015,SH_DYN_NMRT,Colombia,<1M,,Both sexes,8.5
+2016,SH_DYN_NMRT,Colombia,<1M,,Both sexes,8.2
+2017,SH_DYN_NMRT,Colombia,<1M,,Both sexes,8.0
+2018,SH_DYN_NMRT,Colombia,<1M,,Both sexes,7.7
+2019,SH_DYN_NMRT,Colombia,<1M,,Both sexes,7.5
+2020,SH_DYN_NMRT,Colombia,<1M,,Both sexes,7.2
+2021,SH_DYN_NMRT,Colombia,<1M,,Both sexes,7.0
+2000,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.7
+2001,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.5
+2002,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.3
+2003,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.2
+2004,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.1
+2005,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.1
+2006,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,7.0
+2007,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.9
+2008,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.8
+2009,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.7
+2010,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.6
+2011,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.5
+2012,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.5
+2013,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.4
+2014,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.3
+2015,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.3
+2016,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.2
+2017,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.1
+2018,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,6.0
+2019,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,5.8
+2020,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,5.6
+2021,SH_DYN_NMRT,Costa Rica,<1M,,Both sexes,5.4
+2000,SH_DYN_NMRT,Croatia,<1M,,Both sexes,5.6
+2001,SH_DYN_NMRT,Croatia,<1M,,Both sexes,5.3
+2002,SH_DYN_NMRT,Croatia,<1M,,Both sexes,5.0
+2003,SH_DYN_NMRT,Croatia,<1M,,Both sexes,4.7
+2004,SH_DYN_NMRT,Croatia,<1M,,Both sexes,4.5
+2005,SH_DYN_NMRT,Croatia,<1M,,Both sexes,4.2
+2006,SH_DYN_NMRT,Croatia,<1M,,Both sexes,4.0
+2007,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.9
+2008,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.8
+2009,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.7
+2010,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.6
+2011,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.4
+2012,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.3
+2013,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.2
+2014,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.2
+2015,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.1
+2016,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.0
+2017,SH_DYN_NMRT,Croatia,<1M,,Both sexes,3.0
+2018,SH_DYN_NMRT,Croatia,<1M,,Both sexes,2.9
+2019,SH_DYN_NMRT,Croatia,<1M,,Both sexes,2.9
+2020,SH_DYN_NMRT,Croatia,<1M,,Both sexes,2.9
+2021,SH_DYN_NMRT,Croatia,<1M,,Both sexes,2.8
+2000,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,3.7
+2001,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,3.5
+2002,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,3.2
+2003,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,3.0
+2004,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.8
+2005,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.6
+2006,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.5
+2007,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.3
+2008,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.2
+2009,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.1
+2010,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,2.0
+2011,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.9
+2012,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.8
+2013,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.7
+2014,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.7
+2015,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2018,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2019,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2020,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2021,SH_DYN_NMRT,Cyprus,<1M,,Both sexes,1.6
+2000,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.7
+2001,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.6
+2002,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.4
+2003,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.4
+2004,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.3
+2005,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.2
+2006,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.1
+2007,SH_DYN_NMRT,Czechia,<1M,,Both sexes,2.0
+2008,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.9
+2009,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.8
+2010,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.7
+2011,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2012,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2013,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2014,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2015,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2018,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2019,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.6
+2020,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.5
+2021,SH_DYN_NMRT,Czechia,<1M,,Both sexes,1.4
+2000,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.5
+2001,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.3
+2002,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.2
+2003,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.2
+2004,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.1
+2005,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.1
+2006,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.0
+2007,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.9
+2008,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.8
+2009,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.8
+2010,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.9
+2011,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.9
+2012,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.0
+2013,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.0
+2014,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.1
+2015,SH_DYN_NMRT,Denmark,<1M,,Both sexes,3.0
+2016,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.9
+2017,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.8
+2018,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.7
+2019,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.6
+2020,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.5
+2021,SH_DYN_NMRT,Denmark,<1M,,Both sexes,2.5
+2000,SH_DYN_NMRT,Estonia,<1M,,Both sexes,5.3
+2001,SH_DYN_NMRT,Estonia,<1M,,Both sexes,4.8
+2002,SH_DYN_NMRT,Estonia,<1M,,Both sexes,4.4
+2003,SH_DYN_NMRT,Estonia,<1M,,Both sexes,4.0
+2004,SH_DYN_NMRT,Estonia,<1M,,Both sexes,3.7
+2005,SH_DYN_NMRT,Estonia,<1M,,Both sexes,3.4
+2006,SH_DYN_NMRT,Estonia,<1M,,Both sexes,3.1
+2007,SH_DYN_NMRT,Estonia,<1M,,Both sexes,2.8
+2008,SH_DYN_NMRT,Estonia,<1M,,Both sexes,2.5
+2009,SH_DYN_NMRT,Estonia,<1M,,Both sexes,2.3
+2010,SH_DYN_NMRT,Estonia,<1M,,Both sexes,2.1
+2011,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.9
+2012,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.8
+2013,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.6
+2014,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.5
+2015,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.4
+2016,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.3
+2017,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.2
+2018,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.1
+2019,SH_DYN_NMRT,Estonia,<1M,,Both sexes,1.0
+2020,SH_DYN_NMRT,Estonia,<1M,,Both sexes,0.9
+2021,SH_DYN_NMRT,Estonia,<1M,,Both sexes,0.9
+2000,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.5
+2001,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.4
+2002,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.3
+2003,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.2
+2004,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.1
+2005,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.1
+2006,SH_DYN_NMRT,Finland,<1M,,Both sexes,2.0
+2007,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.9
+2008,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.8
+2009,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.8
+2010,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.7
+2011,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2012,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2013,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2014,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2015,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.6
+2016,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.6
+2017,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.6
+2018,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.6
+2019,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.6
+2020,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2021,SH_DYN_NMRT,Netherlands (Kingdom of the),<1M,,Both sexes,2.7
+2000,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.5
+2001,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.5
+2002,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.5
+2003,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.4
+2004,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.3
+2005,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.1
+2006,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.0
+2007,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.9
+2008,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.9
+2009,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.1
+2010,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.2
+2011,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.3
+2012,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.3
+2013,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.3
+2014,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.2
+2015,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.1
+2016,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,3.0
+2017,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.8
+2018,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.7
+2019,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.7
+2020,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.6
+2021,SH_DYN_NMRT,New Zealand,<1M,,Both sexes,2.5
+2000,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.7
+2001,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.6
+2002,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.5
+2003,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.4
+2004,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.4
+2005,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.3
+2006,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.2
+2007,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.1
+2008,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.0
+2009,SH_DYN_NMRT,Norway,<1M,,Both sexes,2.0
+2010,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.9
+2011,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.8
+2012,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.8
+2013,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.7
+2014,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.7
+2015,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.5
+2018,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.4
+2011,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.6
+2012,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.5
+2013,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2014,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2015,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2016,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2017,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2018,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.4
+2019,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.3
+2020,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.3
+2021,SH_DYN_NMRT,Finland,<1M,,Both sexes,1.3
+2000,SH_DYN_NMRT,France,<1M,,Both sexes,2.8
+2001,SH_DYN_NMRT,France,<1M,,Both sexes,2.7
+2002,SH_DYN_NMRT,France,<1M,,Both sexes,2.7
+2003,SH_DYN_NMRT,France,<1M,,Both sexes,2.6
+2004,SH_DYN_NMRT,France,<1M,,Both sexes,2.5
+2005,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2006,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2007,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2008,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2009,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2010,SH_DYN_NMRT,France,<1M,,Both sexes,2.3
+2011,SH_DYN_NMRT,France,<1M,,Both sexes,2.3
+2012,SH_DYN_NMRT,France,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,France,<1M,,Both sexes,2.3
+2014,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2015,SH_DYN_NMRT,France,<1M,,Both sexes,2.4
+2016,SH_DYN_NMRT,France,<1M,,Both sexes,2.5
+2017,SH_DYN_NMRT,France,<1M,,Both sexes,2.6
+2018,SH_DYN_NMRT,France,<1M,,Both sexes,2.6
+2019,SH_DYN_NMRT,France,<1M,,Both sexes,2.6
+2020,SH_DYN_NMRT,France,<1M,,Both sexes,2.6
+2021,SH_DYN_NMRT,France,<1M,,Both sexes,2.5
+2000,SH_DYN_NMRT,Georgia,<1M,,Both sexes,22.9
+2001,SH_DYN_NMRT,Georgia,<1M,,Both sexes,21.8
+2002,SH_DYN_NMRT,Georgia,<1M,,Both sexes,20.4
+2003,SH_DYN_NMRT,Georgia,<1M,,Both sexes,19.0
+2004,SH_DYN_NMRT,Georgia,<1M,,Both sexes,17.4
+2005,SH_DYN_NMRT,Georgia,<1M,,Both sexes,16.0
+2006,SH_DYN_NMRT,Georgia,<1M,,Both sexes,14.5
+2007,SH_DYN_NMRT,Georgia,<1M,,Both sexes,13.2
+2008,SH_DYN_NMRT,Georgia,<1M,,Both sexes,12.0
+2009,SH_DYN_NMRT,Georgia,<1M,,Both sexes,11.0
+2010,SH_DYN_NMRT,Georgia,<1M,,Both sexes,10.1
+2011,SH_DYN_NMRT,Georgia,<1M,,Both sexes,9.3
+2012,SH_DYN_NMRT,Georgia,<1M,,Both sexes,8.6
+2013,SH_DYN_NMRT,Georgia,<1M,,Both sexes,7.9
+2014,SH_DYN_NMRT,Georgia,<1M,,Both sexes,7.3
+2015,SH_DYN_NMRT,Georgia,<1M,,Both sexes,6.7
+2016,SH_DYN_NMRT,Georgia,<1M,,Both sexes,6.2
+2017,SH_DYN_NMRT,Georgia,<1M,,Both sexes,5.8
+2018,SH_DYN_NMRT,Georgia,<1M,,Both sexes,5.6
+2019,SH_DYN_NMRT,Georgia,<1M,,Both sexes,5.4
+2020,SH_DYN_NMRT,Georgia,<1M,,Both sexes,5.4
+2021,SH_DYN_NMRT,Georgia,<1M,,Both sexes,5.4
+2000,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.8
+2001,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.7
+2002,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.7
+2003,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.7
+2004,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.6
+2005,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.6
+2006,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.6
+2007,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.5
+2008,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.4
+2009,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.4
+2010,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2011,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2012,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2014,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2015,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2016,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2017,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2018,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2019,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.3
+2020,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.2
+2021,SH_DYN_NMRT,Germany,<1M,,Both sexes,2.2
+2000,SH_DYN_NMRT,Greece,<1M,,Both sexes,3.9
+2001,SH_DYN_NMRT,Greece,<1M,,Both sexes,3.6
+2002,SH_DYN_NMRT,Greece,<1M,,Both sexes,3.3
+2003,SH_DYN_NMRT,Greece,<1M,,Both sexes,3.0
+2004,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.7
+2005,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.5
+2006,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.4
+2007,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.2
+2008,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.1
+2009,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.1
+2010,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.1
+2011,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.2
+2012,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.5
+2014,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.6
+2015,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.6
+2016,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.6
+2017,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.6
+2018,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.5
+2019,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.4
+2020,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.3
+2021,SH_DYN_NMRT,Greece,<1M,,Both sexes,2.2
+2000,SH_DYN_NMRT,Hungary,<1M,,Both sexes,5.8
+2001,SH_DYN_NMRT,Hungary,<1M,,Both sexes,5.5
+2002,SH_DYN_NMRT,Hungary,<1M,,Both sexes,5.1
+2003,SH_DYN_NMRT,Hungary,<1M,,Both sexes,4.8
+2004,SH_DYN_NMRT,Hungary,<1M,,Both sexes,4.4
+2005,SH_DYN_NMRT,Hungary,<1M,,Both sexes,4.1
+2006,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.9
+2007,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.8
+2008,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.6
+2009,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.5
+2010,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.4
+2019,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.4
+2020,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.3
+2021,SH_DYN_NMRT,Norway,<1M,,Both sexes,1.3
+2000,SH_DYN_NMRT,Poland,<1M,,Both sexes,5.8
+2001,SH_DYN_NMRT,Poland,<1M,,Both sexes,5.4
+2002,SH_DYN_NMRT,Poland,<1M,,Both sexes,5.2
+2003,SH_DYN_NMRT,Poland,<1M,,Both sexes,5.0
+2004,SH_DYN_NMRT,Poland,<1M,,Both sexes,4.8
+2005,SH_DYN_NMRT,Poland,<1M,,Both sexes,4.6
+2006,SH_DYN_NMRT,Poland,<1M,,Both sexes,4.4
+2007,SH_DYN_NMRT,Poland,<1M,,Both sexes,4.2
+2008,SH_DYN_NMRT,Poland,<1M,,Both sexes,4.0
+2009,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.8
+2010,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.6
+2011,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.4
+2012,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.2
+2013,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.1
+2014,SH_DYN_NMRT,Poland,<1M,,Both sexes,3.0
+2015,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.9
+2016,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.9
+2017,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.8
+2018,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.8
+2019,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.7
+2020,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.7
+2021,SH_DYN_NMRT,Poland,<1M,,Both sexes,2.8
+2000,SH_DYN_NMRT,Portugal,<1M,,Both sexes,3.4
+2001,SH_DYN_NMRT,Portugal,<1M,,Both sexes,3.2
+2002,SH_DYN_NMRT,Portugal,<1M,,Both sexes,3.0
+2003,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.8
+2004,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.6
+2005,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.3
+2006,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.2
+2007,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2008,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2009,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2010,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2011,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2012,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2013,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2014,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2015,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2016,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.1
+2017,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.0
+2018,SH_DYN_NMRT,Portugal,<1M,,Both sexes,2.0
+2019,SH_DYN_NMRT,Portugal,<1M,,Both sexes,1.9
+2020,SH_DYN_NMRT,Portugal,<1M,,Both sexes,1.8
+2021,SH_DYN_NMRT,Portugal,<1M,,Both sexes,1.7
+2000,SH_DYN_NMRT,Romania,<1M,,Both sexes,10.5
+2001,SH_DYN_NMRT,Romania,<1M,,Both sexes,10.0
+2002,SH_DYN_NMRT,Romania,<1M,,Both sexes,9.7
+2003,SH_DYN_NMRT,Romania,<1M,,Both sexes,9.5
+2004,SH_DYN_NMRT,Romania,<1M,,Both sexes,9.1
+2005,SH_DYN_NMRT,Romania,<1M,,Both sexes,8.5
+2006,SH_DYN_NMRT,Romania,<1M,,Both sexes,7.7
+2007,SH_DYN_NMRT,Romania,<1M,,Both sexes,6.9
+2008,SH_DYN_NMRT,Romania,<1M,,Both sexes,6.2
+2009,SH_DYN_NMRT,Romania,<1M,,Both sexes,5.8
+2010,SH_DYN_NMRT,Romania,<1M,,Both sexes,5.4
+2011,SH_DYN_NMRT,Romania,<1M,,Both sexes,5.3
+2012,SH_DYN_NMRT,Romania,<1M,,Both sexes,5.1
+2013,SH_DYN_NMRT,Romania,<1M,,Both sexes,4.9
+2014,SH_DYN_NMRT,Romania,<1M,,Both sexes,4.7
+2015,SH_DYN_NMRT,Romania,<1M,,Both sexes,4.3
+2016,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.9
+2017,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.6
+2018,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.4
+2019,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.3
+2020,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.2
+2021,SH_DYN_NMRT,Romania,<1M,,Both sexes,3.2
+2000,SH_DYN_NMRT,Serbia,<1M,,Both sexes,7.7
+2001,SH_DYN_NMRT,Serbia,<1M,,Both sexes,7.4
+2002,SH_DYN_NMRT,Serbia,<1M,,Both sexes,7.0
+2003,SH_DYN_NMRT,Serbia,<1M,,Both sexes,6.5
+2004,SH_DYN_NMRT,Serbia,<1M,,Both sexes,6.0
+2005,SH_DYN_NMRT,Serbia,<1M,,Both sexes,5.6
+2006,SH_DYN_NMRT,Serbia,<1M,,Both sexes,5.3
+2007,SH_DYN_NMRT,Serbia,<1M,,Both sexes,5.1
+2008,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.9
+2009,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.9
+2010,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.8
+2011,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.6
+2012,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.5
+2013,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.4
+2014,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.2
+2015,SH_DYN_NMRT,Serbia,<1M,,Both sexes,4.0
+2016,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.8
+2017,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.7
+2011,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.3
+2012,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.2
+2013,SH_DYN_NMRT,Hungary,<1M,,Both sexes,3.0
+2014,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.9
+2015,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.7
+2016,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.5
+2017,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.4
+2018,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.3
+2019,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.2
+2020,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.1
+2021,SH_DYN_NMRT,Hungary,<1M,,Both sexes,2.1
+2018,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.7
+2019,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.6
+2020,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.6
+2021,SH_DYN_NMRT,Serbia,<1M,,Both sexes,3.6
+2000,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,5.0
+2001,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,4.8
+2002,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,4.6
+2003,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,4.3
+2004,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,4.0
+2005,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.8
+2006,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.6
+2000,SH_DYN_NMRT,Iceland,<1M,,Both sexes,2.1
+2001,SH_DYN_NMRT,Iceland,<1M,,Both sexes,2.0
+2002,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.9
+2003,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.8
+2004,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.7
+2005,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.6
+2006,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.5
+2007,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.5
+2008,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2009,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2010,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2011,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2012,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2013,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2014,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2015,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.3
+2016,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2017,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2018,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2019,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2020,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2021,SH_DYN_NMRT,Iceland,<1M,,Both sexes,1.4
+2000,SH_DYN_NMRT,India,<1M,,Both sexes,44.7
+2001,SH_DYN_NMRT,India,<1M,,Both sexes,43.3
+2002,SH_DYN_NMRT,India,<1M,,Both sexes,41.8
+2003,SH_DYN_NMRT,India,<1M,,Both sexes,40.4
+2004,SH_DYN_NMRT,India,<1M,,Both sexes,39.0
+2005,SH_DYN_NMRT,India,<1M,,Both sexes,37.7
+2006,SH_DYN_NMRT,India,<1M,,Both sexes,36.5
+2007,SH_DYN_NMRT,India,<1M,,Both sexes,35.4
+2008,SH_DYN_NMRT,India,<1M,,Both sexes,34.2
+2009,SH_DYN_NMRT,India,<1M,,Both sexes,33.0
+2010,SH_DYN_NMRT,India,<1M,,Both sexes,31.8
+2011,SH_DYN_NMRT,India,<1M,,Both sexes,30.6
+2012,SH_DYN_NMRT,India,<1M,,Both sexes,29.4
+2013,SH_DYN_NMRT,India,<1M,,Both sexes,28.2
+2014,SH_DYN_NMRT,India,<1M,,Both sexes,27.1
+2015,SH_DYN_NMRT,India,<1M,,Both sexes,26.0
+2016,SH_DYN_NMRT,India,<1M,,Both sexes,24.9
+2017,SH_DYN_NMRT,India,<1M,,Both sexes,23.8
+2018,SH_DYN_NMRT,India,<1M,,Both sexes,22.7
+2019,SH_DYN_NMRT,India,<1M,,Both sexes,21.4
+2020,SH_DYN_NMRT,India,<1M,,Both sexes,20.2
+2021,SH_DYN_NMRT,India,<1M,,Both sexes,19.1
+2000,SH_DYN_NMRT,Ireland,<1M,,Both sexes,4.0
+2001,SH_DYN_NMRT,Ireland,<1M,,Both sexes,3.9
+2002,SH_DYN_NMRT,Ireland,<1M,,Both sexes,3.7
+2003,SH_DYN_NMRT,Ireland,<1M,,Both sexes,3.5
+2004,SH_DYN_NMRT,Ireland,<1M,,Both sexes,3.3
+2005,SH_DYN_NMRT,Ireland,<1M,,Both sexes,3.0
+2006,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.8
+2007,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.6
+2008,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2009,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2010,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2007,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.5
+2008,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.4
+2009,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.4
+2010,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.3
+2011,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.3
+2012,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.3
+2013,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.2
+2014,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.1
+2015,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.1
+2016,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.0
+2017,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,3.0
+2018,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,2.9
+2019,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,2.9
+2020,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,2.9
+2021,SH_DYN_NMRT,Slovakia,<1M,,Both sexes,2.8
+2000,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,15.1
+2001,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,14.4
+2002,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,13.8
+2003,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,13.3
+2004,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,12.9
+2005,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,12.6
+2006,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,12.3
+2007,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,12.1
+2008,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,12.0
+2009,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.8
+2010,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.7
+2011,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.7
+2012,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.5
+2013,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.4
+2014,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.3
+2015,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.2
+2016,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.1
+2017,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,11.0
+2018,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,10.9
+2019,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,10.8
+2020,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,10.7
+2021,SH_DYN_NMRT,Viet Nam,<1M,,Both sexes,10.5
+2000,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,3.2
+2001,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,3.1
+2002,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.9
+2003,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.8
+2004,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.6
+2005,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.5
+2006,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.3
+2007,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.2
+2008,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,2.1
+2009,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.9
+2010,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.9
+2011,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.8
+2012,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.7
+2011,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2012,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2013,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2014,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.5
+2015,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.4
+2016,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.3
+2017,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.3
+2018,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.2
+2019,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.2
+2020,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.1
+2021,SH_DYN_NMRT,Ireland,<1M,,Both sexes,2.1
+2000,SH_DYN_NMRT,Israel,<1M,,Both sexes,3.6
+2001,SH_DYN_NMRT,Israel,<1M,,Both sexes,3.5
+2002,SH_DYN_NMRT,Israel,<1M,,Both sexes,3.3
+2003,SH_DYN_NMRT,Israel,<1M,,Both sexes,3.1
+2004,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.9
+2005,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.7
+2006,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.6
+2007,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.5
+2008,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.4
+2009,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.4
+2010,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.4
+2011,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.3
+2012,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.2
+2014,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.2
+2015,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.1
+2016,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.0
+2017,SH_DYN_NMRT,Israel,<1M,,Both sexes,2.0
+2018,SH_DYN_NMRT,Israel,<1M,,Both sexes,1.9
+2019,SH_DYN_NMRT,Israel,<1M,,Both sexes,1.9
+2020,SH_DYN_NMRT,Israel,<1M,,Both sexes,1.8
+2021,SH_DYN_NMRT,Israel,<1M,,Both sexes,1.7
+2000,SH_DYN_NMRT,Italy,<1M,,Both sexes,3.5
+2001,SH_DYN_NMRT,Italy,<1M,,Both sexes,3.3
+2002,SH_DYN_NMRT,Italy,<1M,,Both sexes,3.1
+2003,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.9
+2004,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.8
+2005,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.7
+2006,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.6
+2007,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.5
+2008,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.5
+2009,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.4
+2010,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.4
+2011,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.4
+2012,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.3
+2013,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.2
+2014,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.2
+2015,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.1
+2016,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.1
+2017,SH_DYN_NMRT,Italy,<1M,,Both sexes,2.0
+2018,SH_DYN_NMRT,Italy,<1M,,Both sexes,1.9
+2019,SH_DYN_NMRT,Italy,<1M,,Both sexes,1.7
+2020,SH_DYN_NMRT,Italy,<1M,,Both sexes,1.6
+2021,SH_DYN_NMRT,Italy,<1M,,Both sexes,1.5
+2000,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.8
+2001,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.7
+2002,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.7
+2003,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.6
+2004,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.5
+2005,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.4
+2006,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.3
+2007,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.3
+2008,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.2
+2009,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.2
+2010,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.1
+2013,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.7
+2014,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.6
+2015,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.5
+2017,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.4
+2018,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.4
+2019,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.4
+2020,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.3
+2021,SH_DYN_NMRT,Slovenia,<1M,,Both sexes,1.3
+2000,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.8
+2011,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.0
+2012,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.0
+2013,SH_DYN_NMRT,Japan,<1M,,Both sexes,1.0
+2014,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2015,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2016,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2017,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2018,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2019,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.9
+2020,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.8
+2021,SH_DYN_NMRT,Japan,<1M,,Both sexes,0.8
+2001,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.8
+2002,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.7
+2003,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.6
+2004,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.5
+2005,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.4
+2006,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.3
+2007,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.2
+2008,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.2
+2009,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.1
+2010,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.1
+2011,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.1
+2000,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,23.7
+2001,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,23.0
+2002,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,22.4
+2003,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,21.5
+2004,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,20.5
+2005,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,19.5
+2006,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,18.3
+2007,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,16.9
+2008,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,15.3
+2009,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,13.5
+2010,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,11.8
+2011,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,10.1
+2012,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,8.7
+2013,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,7.3
+2014,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,6.3
+2015,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,5.5
+2016,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,5.0
+2017,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,4.8
+2018,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,4.7
+2019,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,4.7
+2020,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,4.8
+2021,SH_DYN_NMRT,Kazakhstan,<1M,,Both sexes,5.0
+2000,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,3.4
+2001,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,3.2
+2002,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,3.0
+2003,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,2.8
+2004,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,2.6
+2005,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,2.4
+2006,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,2.2
+2007,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,2.0
+2008,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.9
+2009,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.8
+2010,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.8
+2011,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.7
+2012,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.7
+2013,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.7
+2014,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.7
+2015,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.6
+2012,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.1
+2013,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.0
+2014,SH_DYN_NMRT,Spain,<1M,,Both sexes,2.0
+2015,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.9
+2016,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.9
+2017,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.9
+2018,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.9
+2019,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.8
+2020,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.8
+2021,SH_DYN_NMRT,Spain,<1M,,Both sexes,1.8
+2000,SH_DYN_NMRT,Sweden,<1M,,Both sexes,2.3
+2001,SH_DYN_NMRT,Sweden,<1M,,Both sexes,2.3
+2002,SH_DYN_NMRT,Sweden,<1M,,Both sexes,2.2
+2003,SH_DYN_NMRT,Sweden,<1M,,Both sexes,2.1
+2004,SH_DYN_NMRT,Sweden,<1M,,Both sexes,2.0
+2005,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.9
+2006,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.8
+2007,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.8
+2008,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.7
+2009,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2010,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2011,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2012,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2013,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2014,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2015,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2016,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.6
+2017,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.5
+2018,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.5
+2019,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.4
+2020,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.4
+2021,SH_DYN_NMRT,Sweden,<1M,,Both sexes,1.4
+2000,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.5
+2001,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.5
+2002,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.4
+2003,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.4
+2004,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.3
+2005,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.3
+2006,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.3
+2007,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.2
+2008,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.2
+2009,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.2
+2010,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.2
+2011,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.1
+2012,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.1
+2013,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.0
+2014,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.0
+2015,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,3.0
+2016,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.9
+2017,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.9
+2018,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.8
+2019,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.8
+2020,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.7
+2021,SH_DYN_NMRT,Switzerland,<1M,,Both sexes,2.7
+2000,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,28.4
+2001,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,27.2
+2002,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,26.0
+2003,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,24.8
+2004,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,23.9
+2005,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,23.1
+2006,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,22.5
+2007,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,22.0
+2008,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,21.5
+2009,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,20.9
+2010,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,20.1
+2011,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,19.2
+2012,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,18.3
+2013,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,17.5
+2014,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,16.8
+2015,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,16.3
+2016,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,15.8
+2017,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,15.3
+2018,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,14.9
+2019,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,14.4
+2020,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,14.0
+2021,SH_DYN_NMRT,Tajikistan,<1M,,Both sexes,13.6
+2000,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.9
+2001,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.7
+2002,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.6
+2003,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.5
+2004,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.3
+2005,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.2
+2006,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.1
+2007,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,5.0
+2008,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.9
+2009,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.8
+2010,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.6
+2011,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.5
+2012,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.4
+2013,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.3
+2014,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.2
+2015,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.1
+2016,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,4.0
+2017,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,3.9
+2018,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,3.8
+2019,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,3.7
+2020,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,3.6
+2021,SH_DYN_NMRT,United Arab Emirates,<1M,,Both sexes,3.5
+2000,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,18.8
+2001,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,17.6
+2002,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,16.4
+2003,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,15.2
+2004,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,14.2
+2005,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,13.2
+2006,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,12.3
+2007,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,11.4
+2008,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,10.6
+2009,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,9.8
+2010,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,9.1
+2011,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,8.5
+2012,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,8.0
+2013,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,7.4
+2014,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,7.0
+2015,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,6.6
+2016,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,6.2
+2017,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,5.9
+2018,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,5.6
+2019,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,5.3
+2020,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,5.0
+2021,SH_DYN_NMRT,Türkiye,<1M,,Both sexes,4.7
+2000,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,30.0
+2001,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,29.4
+2002,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,28.6
+2003,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,27.8
+2004,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,26.9
+2005,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,25.9
+2006,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,25.1
+2007,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,24.3
+2008,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.8
+2009,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.4
+2010,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.1
+2011,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,22.9
+2012,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,22.8
+2013,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,22.9
+2014,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.1
+2015,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.4
+2016,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.8
+2017,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,24.0
+2018,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,24.2
+2019,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,24.1
+2020,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.8
+2021,SH_DYN_NMRT,Turkmenistan,<1M,,Both sexes,23.5
+2000,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,11.0
+2001,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,10.5
+2002,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,9.9
+2003,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,9.4
+2004,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,9.0
+2005,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,8.6
+2006,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,8.2
+2007,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,7.9
+2008,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,7.6
+2009,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,7.2
+2010,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,6.9
+2011,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,6.5
+2012,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,6.2
+2013,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,6.0
+2014,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.7
+2015,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.5
+2016,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.4
+2017,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.2
+2018,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.1
+2019,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,5.0
+2020,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,4.9
+2021,SH_DYN_NMRT,Ukraine,<1M,,Both sexes,4.8
+2000,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,9.4
+2001,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,8.9
+2002,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,8.8
+2003,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,9.0
+2004,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,9.1
+2005,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,9.0
+2006,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,8.6
+2007,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,8.2
+2008,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,7.8
+2009,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,7.3
+2010,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,6.9
+2011,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,6.7
+2012,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,6.8
+2013,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,7.3
+2014,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,7.9
+2015,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,8.1
+2016,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,7.8
+2017,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,6.8
+2018,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,5.5
+2019,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,4.5
+2020,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,3.9
+2021,SH_DYN_NMRT,North Macedonia,<1M,,Both sexes,3.4
+2000,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.8
+2001,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.7
+2002,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.6
+2003,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.6
+2004,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.5
+2005,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.5
+2006,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.4
+2007,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.3
+2008,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.2
+2009,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.1
+2010,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.0
+2011,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,3.0
+2012,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.9
+2013,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2014,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.7
+2015,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.7
+2016,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2017,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2018,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2019,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2020,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2021,SH_DYN_NMRT,United Kingdom of Great Britain and Northern Ireland,<1M,,Both sexes,2.8
+2000,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,27.8
+2001,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,26.7
+2002,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,25.6
+2003,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,24.4
+2004,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,23.2
+2005,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,21.9
+2006,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,20.7
+2007,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,19.4
+2008,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,17.8
+2009,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,16.3
+2010,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,14.9
+2011,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,13.8
+2012,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,12.8
+2013,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,11.8
+2014,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,11.1
+2015,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,10.4
+2018,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.5
+2019,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.5
+2020,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.4
+2021,SH_DYN_NMRT,Republic of Korea,<1M,,Both sexes,1.4
+2016,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,9.8
+2017,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,9.3
+2018,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,8.8
+2019,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,8.4
+2020,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,8.0
+2021,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,7.7
+2021,SH_DYN_NMRT,Uzbekistan,<1M,,Both sexes,7.7

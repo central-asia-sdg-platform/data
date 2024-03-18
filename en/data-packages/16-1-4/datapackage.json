@@ -7,13 +7,72 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "euc_jp",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_SNS_WALN_DRK",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belgium",
+                "Bulgaria",
+                "Canada",
+                "Chile",
+                "China",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Iceland",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Mexico",
+                "Poland",
+                "Slovakia",
+                "Sweden",
+                "Switzerland",
+                "Türkiye",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

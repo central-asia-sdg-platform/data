@@ -12,7 +12,69 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PD_AGR_SSFP",
+                "PD_AGR_LSFP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Croatia",
+                "Austria",
+                "Ireland",
+                "Cyprus",
+                "Denmark",
+                "Belgium",
+                "Bulgaria",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Italy",
+                "Germany",
+                "Czechia",
+                "Greece",
+                "Hungary",
+                "Latvia",
+                "India",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Netherlands (Kingdom of the)",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

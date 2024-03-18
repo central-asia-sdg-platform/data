@@ -12,7 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_XSUBDY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Bulgaria",
+                "Canada",
+                "Colombia",
+                "Cyprus",
+                "Czechia",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Israel",
+                "Republic of Korea",
+                "Mexico",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Romania",
+                "Slovakia",
+                "Switzerland",
+                "Türkiye",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

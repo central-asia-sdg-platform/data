@@ -1,0 +1,131 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TOT_GPI",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Albania",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Azerbaijan",
+                "Australia",
+                "New Zealand",
+                "Norway",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Serbia",
+                "Slovakia",
+                "Belarus",
+                "Canada",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Chile",
+                "Sweden",
+                "Colombia",
+                "Switzerland",
+                "Costa Rica",
+                "United Arab Emirates",
+                "Türkiye",
+                "Croatia",
+                "Ukraine",
+                "North Macedonia",
+                "Cyprus",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Kazakhstan",
+                "Republic of Korea",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PRIMAR",
+                "LOWSEC",
+                "GRAD23",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Type of skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_READ",
+                "SKILL_MATH",
+                ""
+              ]
+            },
+            "title": "Type of skill"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_TOT_GPI",
+  "title": "meta.name-4-5-1-SE_TOT_GPI"
+}

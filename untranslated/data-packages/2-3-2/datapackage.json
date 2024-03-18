@@ -12,7 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_AGR_SSFP",
+                "SI_AGR_LSFP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Georgia",
+                "India",
+                "Albania",
+                "Kyrgyzstan",
+                "Serbia",
+                "Armenia",
+                "Mexico",
+                "Viet Nam",
+                "Bulgaria",
+                "Canada",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "BOTHSEX",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

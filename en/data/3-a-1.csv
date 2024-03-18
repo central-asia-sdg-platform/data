@@ -1,1 +1,1241 @@
-Year,Value
+Year,SeriesCode,Country,Age,Location,Sex,Value
+2005,SH_PRV_SMOK,Croatia,15+,,Male,40.5
+2005,SH_PRV_SMOK,Croatia,15+,,Female,29.2
+2005,SH_PRV_SMOK,Croatia,15+,,Both sexes,34.9
+2010,SH_PRV_SMOK,Croatia,15+,,Male,39.5
+2010,SH_PRV_SMOK,Croatia,15+,,Female,31.3
+2010,SH_PRV_SMOK,Croatia,15+,,Both sexes,35.4
+2015,SH_PRV_SMOK,Croatia,15+,,Male,38.5
+2015,SH_PRV_SMOK,Croatia,15+,,Female,33.7
+2015,SH_PRV_SMOK,Croatia,15+,,Both sexes,36.1
+2018,SH_PRV_SMOK,Croatia,15+,,Both sexes,36.7
+2018,SH_PRV_SMOK,Croatia,15+,,Female,34.9
+2018,SH_PRV_SMOK,Croatia,15+,,Male,38.0
+2019,SH_PRV_SMOK,Croatia,15+,,Male,37.8
+2019,SH_PRV_SMOK,Croatia,15+,,Both sexes,36.7
+2019,SH_PRV_SMOK,Croatia,15+,,Female,35.6
+2020,SH_PRV_SMOK,Croatia,15+,,Female,36.1
+2000,SH_PRV_SMOK,Albania,15+,,Both sexes,35.0
+2000,SH_PRV_SMOK,Albania,15+,,Male,59.0
+2000,SH_PRV_SMOK,Albania,15+,,Female,10.9
+2005,SH_PRV_SMOK,Albania,15+,,Male,53.2
+2005,SH_PRV_SMOK,Albania,15+,,Female,9.4
+2005,SH_PRV_SMOK,Albania,15+,,Both sexes,31.3
+2010,SH_PRV_SMOK,Albania,15+,,Both sexes,28.0
+2010,SH_PRV_SMOK,Albania,15+,,Male,47.9
+2010,SH_PRV_SMOK,Albania,15+,,Female,8.1
+2015,SH_PRV_SMOK,Albania,15+,,Male,43.2
+2015,SH_PRV_SMOK,Albania,15+,,Female,6.9
+2015,SH_PRV_SMOK,Albania,15+,,Both sexes,25.1
+2018,SH_PRV_SMOK,Albania,15+,,Both sexes,23.0
+2018,SH_PRV_SMOK,Albania,15+,,Female,6.4
+2018,SH_PRV_SMOK,Albania,15+,,Male,40.7
+2019,SH_PRV_SMOK,Albania,15+,,Male,39.8
+2020,SH_PRV_SMOK,Croatia,15+,,Both sexes,36.9
+2020,SH_PRV_SMOK,Croatia,15+,,Male,37.6
+2000,SH_PRV_SMOK,Cyprus,15+,,Male,60.6
+2000,SH_PRV_SMOK,Cyprus,15+,,Female,21.1
+2000,SH_PRV_SMOK,Cyprus,15+,,Both sexes,40.9
+2005,SH_PRV_SMOK,Cyprus,15+,,Male,56.7
+2005,SH_PRV_SMOK,Cyprus,15+,,Female,21.6
+2005,SH_PRV_SMOK,Cyprus,15+,,Both sexes,39.2
+2019,SH_PRV_SMOK,Albania,15+,,Female,6.2
+2019,SH_PRV_SMOK,Albania,15+,,Both sexes,23.0
+2020,SH_PRV_SMOK,Albania,15+,,Male,38.8
+2020,SH_PRV_SMOK,Albania,15+,,Female,6.0
+2020,SH_PRV_SMOK,Albania,15+,,Both sexes,22.4
+2000,SH_PRV_SMOK,Azerbaijan,15+,,Male,57.1
+2000,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.3
+2000,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,28.7
+2010,SH_PRV_SMOK,Cyprus,15+,,Both sexes,37.7
+2010,SH_PRV_SMOK,Cyprus,15+,,Male,53.2
+2010,SH_PRV_SMOK,Cyprus,15+,,Female,22.2
+2015,SH_PRV_SMOK,Cyprus,15+,,Female,22.7
+2015,SH_PRV_SMOK,Cyprus,15+,,Both sexes,36.4
+2015,SH_PRV_SMOK,Cyprus,15+,,Male,50.1
+2018,SH_PRV_SMOK,Cyprus,15+,,Male,48.3
+2018,SH_PRV_SMOK,Cyprus,15+,,Female,22.9
+2005,SH_PRV_SMOK,Azerbaijan,15+,,Male,54.8
+2005,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.3
+2005,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,27.6
+2010,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.2
+2010,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,26.2
+2010,SH_PRV_SMOK,Azerbaijan,15+,,Male,52.2
+2015,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,25.2
+2015,SH_PRV_SMOK,Azerbaijan,15+,,Male,50.1
+2015,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.2
+2018,SH_PRV_SMOK,Azerbaijan,15+,,Male,48.4
+2018,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.1
+2018,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,24.2
+2019,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,24.2
+2019,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.1
+2019,SH_PRV_SMOK,Azerbaijan,15+,,Male,48.2
+2020,SH_PRV_SMOK,Azerbaijan,15+,,Male,47.9
+2020,SH_PRV_SMOK,Azerbaijan,15+,,Female,0.1
+2020,SH_PRV_SMOK,Azerbaijan,15+,,Both sexes,24.0
+2000,SH_PRV_SMOK,Australia,15+,,Female,22.2
+2000,SH_PRV_SMOK,Australia,15+,,Male,26.5
+2000,SH_PRV_SMOK,Australia,15+,,Both sexes,24.4
+2005,SH_PRV_SMOK,Australia,15+,,Male,23.2
+2005,SH_PRV_SMOK,Australia,15+,,Female,18.9
+2005,SH_PRV_SMOK,Australia,15+,,Both sexes,21.1
+2010,SH_PRV_SMOK,Australia,15+,,Male,20.3
+2010,SH_PRV_SMOK,Australia,15+,,Female,16.0
+2010,SH_PRV_SMOK,Australia,15+,,Both sexes,18.2
+2015,SH_PRV_SMOK,Australia,15+,,Male,17.8
+2015,SH_PRV_SMOK,Australia,15+,,Female,13.5
+2015,SH_PRV_SMOK,Australia,15+,,Both sexes,15.7
+2018,SH_PRV_SMOK,Australia,15+,,Male,16.5
+2018,SH_PRV_SMOK,Australia,15+,,Female,12.2
+2000,SH_PRV_SMOK,Serbia,15+,,Both sexes,45.1
+2000,SH_PRV_SMOK,Serbia,15+,,Male,51.0
+2000,SH_PRV_SMOK,Serbia,15+,,Female,39.1
+2005,SH_PRV_SMOK,Serbia,15+,,Male,48.0
+2005,SH_PRV_SMOK,Serbia,15+,,Female,39.3
+2005,SH_PRV_SMOK,Serbia,15+,,Both sexes,43.7
+2010,SH_PRV_SMOK,Serbia,15+,,Female,39.1
+2010,SH_PRV_SMOK,Serbia,15+,,Male,45.4
+2018,SH_PRV_SMOK,Australia,15+,,Both sexes,14.0
+2019,SH_PRV_SMOK,Australia,15+,,Female,11.9
+2019,SH_PRV_SMOK,Australia,15+,,Both sexes,14.0
+2019,SH_PRV_SMOK,Australia,15+,,Male,16.0
+2020,SH_PRV_SMOK,Australia,15+,,Male,15.6
+2020,SH_PRV_SMOK,Australia,15+,,Female,11.5
+2020,SH_PRV_SMOK,Australia,15+,,Both sexes,13.6
+2000,SH_PRV_SMOK,Austria,15+,,Male,56.8
+2010,SH_PRV_SMOK,Serbia,15+,,Both sexes,42.3
+2015,SH_PRV_SMOK,Serbia,15+,,Female,39.1
+2015,SH_PRV_SMOK,Serbia,15+,,Both sexes,40.9
+2015,SH_PRV_SMOK,Serbia,15+,,Male,42.7
+2018,SH_PRV_SMOK,Serbia,15+,,Female,39.0
+2018,SH_PRV_SMOK,Serbia,15+,,Male,41.4
+2018,SH_PRV_SMOK,Serbia,15+,,Both sexes,40.1
+2019,SH_PRV_SMOK,Serbia,15+,,Male,41.1
+2018,SH_PRV_SMOK,Cyprus,15+,,Both sexes,35.5
+2019,SH_PRV_SMOK,Cyprus,15+,,Both sexes,35.5
+2019,SH_PRV_SMOK,Cyprus,15+,,Female,23.2
+2019,SH_PRV_SMOK,Cyprus,15+,,Male,47.7
+2020,SH_PRV_SMOK,Cyprus,15+,,Both sexes,35.1
+2020,SH_PRV_SMOK,Cyprus,15+,,Female,23.2
+2020,SH_PRV_SMOK,Cyprus,15+,,Male,47.0
+2000,SH_PRV_SMOK,Czechia,15+,,Male,40.1
+2019,SH_PRV_SMOK,Serbia,15+,,Both sexes,40.1
+2019,SH_PRV_SMOK,Serbia,15+,,Female,39.0
+2020,SH_PRV_SMOK,Serbia,15+,,Both sexes,39.8
+2020,SH_PRV_SMOK,Serbia,15+,,Female,39.1
+2020,SH_PRV_SMOK,Serbia,15+,,Male,40.5
+2000,SH_PRV_SMOK,Slovakia,15+,,Male,43.2
+2000,SH_PRV_SMOK,Slovakia,15+,,Female,20.7
+2000,SH_PRV_SMOK,Slovakia,15+,,Both sexes,32.0
+2000,SH_PRV_SMOK,Czechia,15+,,Female,28.2
+2000,SH_PRV_SMOK,Czechia,15+,,Both sexes,34.2
+2005,SH_PRV_SMOK,Czechia,15+,,Male,38.8
+2005,SH_PRV_SMOK,Czechia,15+,,Female,28.0
+2005,SH_PRV_SMOK,Czechia,15+,,Both sexes,33.4
+2010,SH_PRV_SMOK,Czechia,15+,,Male,37.3
+2010,SH_PRV_SMOK,Czechia,15+,,Female,27.3
+2010,SH_PRV_SMOK,Czechia,15+,,Both sexes,32.3
+2015,SH_PRV_SMOK,Czechia,15+,,Both sexes,31.4
+2015,SH_PRV_SMOK,Czechia,15+,,Male,35.8
+2015,SH_PRV_SMOK,Czechia,15+,,Female,26.9
+2018,SH_PRV_SMOK,Czechia,15+,,Male,35.4
+2018,SH_PRV_SMOK,Czechia,15+,,Female,26.7
+2018,SH_PRV_SMOK,Czechia,15+,,Both sexes,30.9
+2019,SH_PRV_SMOK,Czechia,15+,,Both sexes,30.9
+2019,SH_PRV_SMOK,Czechia,15+,,Female,26.5
+2000,SH_PRV_SMOK,Austria,15+,,Female,47.8
+2000,SH_PRV_SMOK,Austria,15+,,Both sexes,52.3
+2005,SH_PRV_SMOK,Austria,15+,,Male,47.2
+2005,SH_PRV_SMOK,Austria,15+,,Female,40.4
+2005,SH_PRV_SMOK,Austria,15+,,Both sexes,43.8
+2010,SH_PRV_SMOK,Austria,15+,,Male,39.7
+2010,SH_PRV_SMOK,Austria,15+,,Female,34.5
+2010,SH_PRV_SMOK,Austria,15+,,Both sexes,37.1
+2005,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.7
+2005,SH_PRV_SMOK,Slovakia,15+,,Male,41.6
+2005,SH_PRV_SMOK,Slovakia,15+,,Female,21.8
+2010,SH_PRV_SMOK,Slovakia,15+,,Male,40.3
+2010,SH_PRV_SMOK,Slovakia,15+,,Female,22.9
+2010,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.6
+2015,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.5
+2015,SH_PRV_SMOK,Slovakia,15+,,Male,38.6
+2019,SH_PRV_SMOK,Czechia,15+,,Male,35.2
+2020,SH_PRV_SMOK,Czechia,15+,,Both sexes,30.7
+2020,SH_PRV_SMOK,Czechia,15+,,Male,35.0
+2020,SH_PRV_SMOK,Czechia,15+,,Female,26.4
+2000,SH_PRV_SMOK,Denmark,15+,,Female,34.1
+2000,SH_PRV_SMOK,Denmark,15+,,Male,40.4
+2000,SH_PRV_SMOK,Denmark,15+,,Both sexes,37.3
+2005,SH_PRV_SMOK,Denmark,15+,,Male,32.9
+2015,SH_PRV_SMOK,Slovakia,15+,,Female,24.3
+2018,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.5
+2018,SH_PRV_SMOK,Slovakia,15+,,Female,25.1
+2018,SH_PRV_SMOK,Slovakia,15+,,Male,38.0
+2019,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.5
+2019,SH_PRV_SMOK,Slovakia,15+,,Female,25.4
+2019,SH_PRV_SMOK,Slovakia,15+,,Male,37.6
+2020,SH_PRV_SMOK,Slovakia,15+,,Both sexes,31.5
+2005,SH_PRV_SMOK,Denmark,15+,,Female,28.6
+2005,SH_PRV_SMOK,Denmark,15+,,Both sexes,30.8
+2010,SH_PRV_SMOK,Denmark,15+,,Both sexes,25.5
+2010,SH_PRV_SMOK,Denmark,15+,,Female,24.2
+2010,SH_PRV_SMOK,Denmark,15+,,Male,26.8
+2015,SH_PRV_SMOK,Denmark,15+,,Male,21.9
+2015,SH_PRV_SMOK,Denmark,15+,,Female,20.3
+2015,SH_PRV_SMOK,Denmark,15+,,Both sexes,21.1
+2015,SH_PRV_SMOK,Austria,15+,,Male,33.1
+2015,SH_PRV_SMOK,Austria,15+,,Female,29.3
+2015,SH_PRV_SMOK,Austria,15+,,Both sexes,31.2
+2018,SH_PRV_SMOK,Austria,15+,,Female,26.6
+2018,SH_PRV_SMOK,Austria,15+,,Male,29.8
+2018,SH_PRV_SMOK,Austria,15+,,Both sexes,27.1
+2019,SH_PRV_SMOK,Austria,15+,,Both sexes,27.1
+2019,SH_PRV_SMOK,Austria,15+,,Male,28.6
+2018,SH_PRV_SMOK,Denmark,15+,,Male,19.4
+2018,SH_PRV_SMOK,Denmark,15+,,Female,18.4
+2018,SH_PRV_SMOK,Denmark,15+,,Both sexes,18.1
+2019,SH_PRV_SMOK,Denmark,15+,,Both sexes,18.1
+2019,SH_PRV_SMOK,Denmark,15+,,Female,17.8
+2019,SH_PRV_SMOK,Denmark,15+,,Male,18.4
+2020,SH_PRV_SMOK,Denmark,15+,,Female,17.1
+2020,SH_PRV_SMOK,Denmark,15+,,Both sexes,17.5
+2020,SH_PRV_SMOK,Denmark,15+,,Male,17.8
+2000,SH_PRV_SMOK,Estonia,15+,,Female,30.1
+2000,SH_PRV_SMOK,Estonia,15+,,Both sexes,46.0
+2000,SH_PRV_SMOK,Estonia,15+,,Male,61.9
+2005,SH_PRV_SMOK,Estonia,15+,,Male,54.9
+2005,SH_PRV_SMOK,Estonia,15+,,Female,28.2
+2005,SH_PRV_SMOK,Estonia,15+,,Both sexes,41.6
+2010,SH_PRV_SMOK,Estonia,15+,,Both sexes,37.2
+2010,SH_PRV_SMOK,Estonia,15+,,Female,26.4
+2010,SH_PRV_SMOK,Estonia,15+,,Male,47.9
+2015,SH_PRV_SMOK,Estonia,15+,,Male,41.8
+2015,SH_PRV_SMOK,Estonia,15+,,Female,24.7
+2015,SH_PRV_SMOK,Estonia,15+,,Both sexes,33.3
+2018,SH_PRV_SMOK,Estonia,15+,,Male,38.5
+2018,SH_PRV_SMOK,Estonia,15+,,Female,23.7
+2018,SH_PRV_SMOK,Estonia,15+,,Both sexes,30.5
+2020,SH_PRV_SMOK,Slovakia,15+,,Male,37.4
+2020,SH_PRV_SMOK,Slovakia,15+,,Female,25.6
+2000,SH_PRV_SMOK,Viet Nam,15+,,Male,54.8
+2000,SH_PRV_SMOK,Viet Nam,15+,,Female,4.8
+2000,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,29.8
+2005,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,28.3
+2005,SH_PRV_SMOK,Viet Nam,15+,,Male,52.7
+2005,SH_PRV_SMOK,Viet Nam,15+,,Female,3.9
+2019,SH_PRV_SMOK,Austria,15+,,Female,25.6
+2020,SH_PRV_SMOK,Austria,15+,,Male,27.7
+2020,SH_PRV_SMOK,Austria,15+,,Female,25.0
+2020,SH_PRV_SMOK,Austria,15+,,Both sexes,26.4
+2000,SH_PRV_SMOK,Armenia,15+,,Male,61.7
+2000,SH_PRV_SMOK,Armenia,15+,,Female,2.2
+2000,SH_PRV_SMOK,Armenia,15+,,Both sexes,32.0
+2005,SH_PRV_SMOK,Armenia,15+,,Male,58.5
+2019,SH_PRV_SMOK,Estonia,15+,,Female,23.5
+2019,SH_PRV_SMOK,Estonia,15+,,Male,37.4
+2019,SH_PRV_SMOK,Estonia,15+,,Both sexes,30.5
+2020,SH_PRV_SMOK,Estonia,15+,,Both sexes,29.7
+2020,SH_PRV_SMOK,Estonia,15+,,Male,36.3
+2020,SH_PRV_SMOK,Estonia,15+,,Female,23.0
+2000,SH_PRV_SMOK,Finland,15+,,Female,24.7
+2000,SH_PRV_SMOK,Finland,15+,,Both sexes,35.7
+2000,SH_PRV_SMOK,Finland,15+,,Male,46.7
+2005,SH_PRV_SMOK,Finland,15+,,Male,40.5
+2005,SH_PRV_SMOK,Finland,15+,,Female,22.2
+2005,SH_PRV_SMOK,Finland,15+,,Both sexes,31.4
+2010,SH_PRV_SMOK,Finland,15+,,Male,35.5
+2010,SH_PRV_SMOK,Finland,15+,,Female,20.1
+2010,SH_PRV_SMOK,Finland,15+,,Both sexes,27.8
+2015,SH_PRV_SMOK,Finland,15+,,Male,30.9
+2010,SH_PRV_SMOK,Viet Nam,15+,,Male,50.8
+2010,SH_PRV_SMOK,Viet Nam,15+,,Female,3.2
+2010,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,27.0
+2015,SH_PRV_SMOK,Viet Nam,15+,,Male,49.4
+2015,SH_PRV_SMOK,Viet Nam,15+,,Female,2.6
+2015,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,26.0
+2018,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,25.0
+2018,SH_PRV_SMOK,Viet Nam,15+,,Female,2.3
+2005,SH_PRV_SMOK,Armenia,15+,,Female,2.0
+2005,SH_PRV_SMOK,Armenia,15+,,Both sexes,30.3
+2010,SH_PRV_SMOK,Armenia,15+,,Male,55.4
+2010,SH_PRV_SMOK,Armenia,15+,,Female,1.8
+2010,SH_PRV_SMOK,Armenia,15+,,Both sexes,28.6
+2015,SH_PRV_SMOK,Armenia,15+,,Both sexes,26.9
+2015,SH_PRV_SMOK,Armenia,15+,,Male,52.0
+2015,SH_PRV_SMOK,Armenia,15+,,Female,1.7
+2015,SH_PRV_SMOK,Finland,15+,,Female,18.0
+2015,SH_PRV_SMOK,Finland,15+,,Both sexes,24.5
+2018,SH_PRV_SMOK,Finland,15+,,Both sexes,22.2
+2018,SH_PRV_SMOK,Finland,15+,,Female,17.0
+2018,SH_PRV_SMOK,Finland,15+,,Male,28.3
+2019,SH_PRV_SMOK,Finland,15+,,Both sexes,22.2
+2019,SH_PRV_SMOK,Finland,15+,,Female,16.6
+2019,SH_PRV_SMOK,Finland,15+,,Male,27.7
+2020,SH_PRV_SMOK,Finland,15+,,Both sexes,21.6
+2020,SH_PRV_SMOK,Finland,15+,,Female,16.3
+2020,SH_PRV_SMOK,Finland,15+,,Male,26.9
+2000,SH_PRV_SMOK,France,15+,,Both sexes,34.2
+2000,SH_PRV_SMOK,France,15+,,Male,38.5
+2000,SH_PRV_SMOK,France,15+,,Female,29.8
+2005,SH_PRV_SMOK,France,15+,,Female,30.5
+2005,SH_PRV_SMOK,France,15+,,Male,37.7
+2018,SH_PRV_SMOK,Viet Nam,15+,,Male,48.3
+2019,SH_PRV_SMOK,Viet Nam,15+,,Female,2.2
+2019,SH_PRV_SMOK,Viet Nam,15+,,Male,47.8
+2019,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,25.0
+2020,SH_PRV_SMOK,Viet Nam,15+,,Both sexes,24.8
+2020,SH_PRV_SMOK,Viet Nam,15+,,Female,2.2
+2020,SH_PRV_SMOK,Viet Nam,15+,,Male,47.4
+2000,SH_PRV_SMOK,Slovenia,15+,,Male,27.0
+2005,SH_PRV_SMOK,France,15+,,Both sexes,34.1
+2010,SH_PRV_SMOK,France,15+,,Male,36.7
+2010,SH_PRV_SMOK,France,15+,,Female,30.9
+2010,SH_PRV_SMOK,France,15+,,Both sexes,33.8
+2015,SH_PRV_SMOK,France,15+,,Male,35.9
+2015,SH_PRV_SMOK,France,15+,,Female,31.4
+2015,SH_PRV_SMOK,France,15+,,Both sexes,33.7
+2018,SH_PRV_SMOK,France,15+,,Female,31.7
+2018,SH_PRV_SMOK,France,15+,,Both sexes,33.6
+2018,SH_PRV_SMOK,France,15+,,Male,35.3
+2019,SH_PRV_SMOK,France,15+,,Both sexes,33.6
+2019,SH_PRV_SMOK,France,15+,,Female,31.9
+2019,SH_PRV_SMOK,France,15+,,Male,35.2
+2020,SH_PRV_SMOK,France,15+,,Male,34.9
+2020,SH_PRV_SMOK,France,15+,,Female,31.9
+2020,SH_PRV_SMOK,France,15+,,Both sexes,33.4
+2000,SH_PRV_SMOK,Georgia,15+,,Male,60.2
+2000,SH_PRV_SMOK,Georgia,15+,,Female,5.4
+2000,SH_PRV_SMOK,Georgia,15+,,Both sexes,32.8
+2005,SH_PRV_SMOK,Georgia,15+,,Female,5.8
+2005,SH_PRV_SMOK,Georgia,15+,,Both sexes,32.6
+2005,SH_PRV_SMOK,Georgia,15+,,Male,59.3
+2010,SH_PRV_SMOK,Georgia,15+,,Male,58.1
+2010,SH_PRV_SMOK,Georgia,15+,,Female,6.2
+2010,SH_PRV_SMOK,Georgia,15+,,Both sexes,32.2
+2015,SH_PRV_SMOK,Georgia,15+,,Both sexes,32.0
+2015,SH_PRV_SMOK,Georgia,15+,,Female,6.6
+2015,SH_PRV_SMOK,Georgia,15+,,Male,57.3
+2018,SH_PRV_SMOK,Georgia,15+,,Male,56.7
+2018,SH_PRV_SMOK,Georgia,15+,,Female,6.9
+2018,SH_PRV_SMOK,Georgia,15+,,Both sexes,31.7
+2019,SH_PRV_SMOK,Georgia,15+,,Both sexes,31.7
+2000,SH_PRV_SMOK,Slovenia,15+,,Both sexes,25.1
+2000,SH_PRV_SMOK,Slovenia,15+,,Female,23.1
+2005,SH_PRV_SMOK,Slovenia,15+,,Female,22.1
+2005,SH_PRV_SMOK,Slovenia,15+,,Both sexes,24.2
+2005,SH_PRV_SMOK,Slovenia,15+,,Male,26.2
+2010,SH_PRV_SMOK,Slovenia,15+,,Female,21.3
+2010,SH_PRV_SMOK,Slovenia,15+,,Both sexes,23.5
+2010,SH_PRV_SMOK,Slovenia,15+,,Male,25.7
+2019,SH_PRV_SMOK,Georgia,15+,,Female,7.0
+2019,SH_PRV_SMOK,Georgia,15+,,Male,56.3
+2020,SH_PRV_SMOK,Georgia,15+,,Male,56.3
+2020,SH_PRV_SMOK,Georgia,15+,,Female,7.1
+2020,SH_PRV_SMOK,Georgia,15+,,Both sexes,31.7
+2000,SH_PRV_SMOK,Germany,15+,,Both sexes,36.4
+2000,SH_PRV_SMOK,Germany,15+,,Female,31.6
+2000,SH_PRV_SMOK,Germany,15+,,Male,41.1
+2015,SH_PRV_SMOK,Slovenia,15+,,Male,25.0
+2015,SH_PRV_SMOK,Slovenia,15+,,Female,20.4
+2015,SH_PRV_SMOK,Slovenia,15+,,Both sexes,22.7
+2018,SH_PRV_SMOK,Slovenia,15+,,Male,24.7
+2018,SH_PRV_SMOK,Slovenia,15+,,Female,20.0
+2018,SH_PRV_SMOK,Slovenia,15+,,Both sexes,22.3
+2019,SH_PRV_SMOK,Slovenia,15+,,Female,19.8
+2019,SH_PRV_SMOK,Slovenia,15+,,Male,24.7
+2005,SH_PRV_SMOK,Germany,15+,,Both sexes,32.1
+2005,SH_PRV_SMOK,Germany,15+,,Male,35.9
+2005,SH_PRV_SMOK,Germany,15+,,Female,28.3
+2010,SH_PRV_SMOK,Germany,15+,,Male,31.4
+2010,SH_PRV_SMOK,Germany,15+,,Female,25.1
+2010,SH_PRV_SMOK,Germany,15+,,Both sexes,28.3
+2015,SH_PRV_SMOK,Germany,15+,,Male,27.5
+2015,SH_PRV_SMOK,Germany,15+,,Female,22.3
+2015,SH_PRV_SMOK,Germany,15+,,Both sexes,24.9
+2018,SH_PRV_SMOK,Germany,15+,,Male,25.5
+2018,SH_PRV_SMOK,Germany,15+,,Female,20.9
+2018,SH_PRV_SMOK,Germany,15+,,Both sexes,22.5
+2019,SH_PRV_SMOK,Germany,15+,,Both sexes,22.5
+2019,SH_PRV_SMOK,Germany,15+,,Female,20.4
+2019,SH_PRV_SMOK,Germany,15+,,Male,24.6
+2020,SH_PRV_SMOK,Germany,15+,,Both sexes,22.0
+2019,SH_PRV_SMOK,Slovenia,15+,,Both sexes,22.3
+2020,SH_PRV_SMOK,Slovenia,15+,,Male,24.4
+2020,SH_PRV_SMOK,Slovenia,15+,,Female,19.6
+2020,SH_PRV_SMOK,Slovenia,15+,,Both sexes,22.0
+2000,SH_PRV_SMOK,Spain,15+,,Male,44.5
+2000,SH_PRV_SMOK,Spain,15+,,Female,29.0
+2000,SH_PRV_SMOK,Spain,15+,,Both sexes,36.8
+2005,SH_PRV_SMOK,Spain,15+,,Both sexes,34.3
+2020,SH_PRV_SMOK,Germany,15+,,Female,19.9
+2020,SH_PRV_SMOK,Germany,15+,,Male,24.1
+2000,SH_PRV_SMOK,Greece,15+,,Male,65.9
+2000,SH_PRV_SMOK,Greece,15+,,Female,43.8
+2000,SH_PRV_SMOK,Greece,15+,,Both sexes,54.9
+2005,SH_PRV_SMOK,Greece,15+,,Female,40.0
+2005,SH_PRV_SMOK,Greece,15+,,Male,57.0
+2005,SH_PRV_SMOK,Greece,15+,,Both sexes,48.5
+2005,SH_PRV_SMOK,Spain,15+,,Female,28.5
+2005,SH_PRV_SMOK,Spain,15+,,Male,40.1
+2010,SH_PRV_SMOK,Spain,15+,,Male,35.8
+2010,SH_PRV_SMOK,Spain,15+,,Female,27.9
+2010,SH_PRV_SMOK,Spain,15+,,Both sexes,31.9
+2015,SH_PRV_SMOK,Spain,15+,,Male,32.0
+2015,SH_PRV_SMOK,Spain,15+,,Female,27.3
+2015,SH_PRV_SMOK,Spain,15+,,Both sexes,29.7
+2010,SH_PRV_SMOK,Greece,15+,,Female,36.7
+2010,SH_PRV_SMOK,Greece,15+,,Both sexes,42.9
+2010,SH_PRV_SMOK,Greece,15+,,Male,49.1
+2015,SH_PRV_SMOK,Greece,15+,,Male,42.3
+2015,SH_PRV_SMOK,Greece,15+,,Female,33.5
+2015,SH_PRV_SMOK,Greece,15+,,Both sexes,37.9
+2018,SH_PRV_SMOK,Greece,15+,,Male,38.8
+2018,SH_PRV_SMOK,Greece,15+,,Female,31.9
+2018,SH_PRV_SMOK,Spain,15+,,Both sexes,28.1
+2018,SH_PRV_SMOK,Spain,15+,,Female,27.0
+2018,SH_PRV_SMOK,Spain,15+,,Male,30.0
+2019,SH_PRV_SMOK,Spain,15+,,Female,26.9
+2019,SH_PRV_SMOK,Spain,15+,,Male,29.3
+2019,SH_PRV_SMOK,Spain,15+,,Both sexes,28.1
+2020,SH_PRV_SMOK,Spain,15+,,Both sexes,27.7
+2020,SH_PRV_SMOK,Spain,15+,,Female,26.7
+2018,SH_PRV_SMOK,Greece,15+,,Both sexes,34.5
+2019,SH_PRV_SMOK,Greece,15+,,Both sexes,34.5
+2019,SH_PRV_SMOK,Greece,15+,,Female,31.2
+2019,SH_PRV_SMOK,Greece,15+,,Male,37.7
+2020,SH_PRV_SMOK,Greece,15+,,Male,36.5
+2020,SH_PRV_SMOK,Greece,15+,,Female,30.5
+2020,SH_PRV_SMOK,Greece,15+,,Both sexes,33.5
+2000,SH_PRV_SMOK,Hungary,15+,,Female,31.6
+2000,SH_PRV_SMOK,Hungary,15+,,Both sexes,37.4
+2000,SH_PRV_SMOK,Hungary,15+,,Male,43.1
+2005,SH_PRV_SMOK,Hungary,15+,,Male,41.3
+2005,SH_PRV_SMOK,Hungary,15+,,Female,30.5
+2005,SH_PRV_SMOK,Hungary,15+,,Both sexes,35.9
+2010,SH_PRV_SMOK,Hungary,15+,,Both sexes,34.6
+2010,SH_PRV_SMOK,Hungary,15+,,Female,29.7
+2010,SH_PRV_SMOK,Hungary,15+,,Male,39.4
+2020,SH_PRV_SMOK,Spain,15+,,Male,28.6
+2000,SH_PRV_SMOK,Sweden,15+,,Male,48.6
+2000,SH_PRV_SMOK,Sweden,15+,,Female,38.9
+2000,SH_PRV_SMOK,Sweden,15+,,Both sexes,43.8
+2005,SH_PRV_SMOK,Sweden,15+,,Male,42.9
+2005,SH_PRV_SMOK,Sweden,15+,,Female,32.3
+2005,SH_PRV_SMOK,Sweden,15+,,Both sexes,37.6
+2010,SH_PRV_SMOK,Sweden,15+,,Male,37.9
+2015,SH_PRV_SMOK,Hungary,15+,,Male,37.6
+2015,SH_PRV_SMOK,Hungary,15+,,Female,28.7
+2015,SH_PRV_SMOK,Hungary,15+,,Both sexes,33.2
+2018,SH_PRV_SMOK,Hungary,15+,,Male,36.5
+2018,SH_PRV_SMOK,Hungary,15+,,Female,28.0
+2018,SH_PRV_SMOK,Hungary,15+,,Both sexes,32.2
+2019,SH_PRV_SMOK,Hungary,15+,,Both sexes,32.2
+2019,SH_PRV_SMOK,Hungary,15+,,Female,28.0
+2019,SH_PRV_SMOK,Hungary,15+,,Male,36.4
+2020,SH_PRV_SMOK,Hungary,15+,,Both sexes,31.8
+2020,SH_PRV_SMOK,Hungary,15+,,Female,27.8
+2020,SH_PRV_SMOK,Hungary,15+,,Male,35.8
+2000,SH_PRV_SMOK,Iceland,15+,,Both sexes,30.2
+2000,SH_PRV_SMOK,Iceland,15+,,Male,32.8
+2000,SH_PRV_SMOK,Iceland,15+,,Female,27.6
+2005,SH_PRV_SMOK,Iceland,15+,,Male,25.5
+2010,SH_PRV_SMOK,Sweden,15+,,Female,26.7
+2010,SH_PRV_SMOK,Sweden,15+,,Both sexes,32.3
+2015,SH_PRV_SMOK,Sweden,15+,,Both sexes,27.9
+2015,SH_PRV_SMOK,Sweden,15+,,Male,33.7
+2015,SH_PRV_SMOK,Sweden,15+,,Female,22.1
+2018,SH_PRV_SMOK,Sweden,15+,,Both sexes,24.8
+2018,SH_PRV_SMOK,Sweden,15+,,Male,31.3
+2018,SH_PRV_SMOK,Sweden,15+,,Female,19.6
+2005,SH_PRV_SMOK,Iceland,15+,,Female,22.4
+2005,SH_PRV_SMOK,Iceland,15+,,Both sexes,24.0
+2010,SH_PRV_SMOK,Iceland,15+,,Both sexes,19.1
+2010,SH_PRV_SMOK,Iceland,15+,,Male,19.9
+2010,SH_PRV_SMOK,Iceland,15+,,Female,18.2
+2015,SH_PRV_SMOK,Iceland,15+,,Male,15.4
+2015,SH_PRV_SMOK,Iceland,15+,,Female,14.9
+2015,SH_PRV_SMOK,Iceland,15+,,Both sexes,15.2
+2018,SH_PRV_SMOK,Iceland,15+,,Male,13.3
+2018,SH_PRV_SMOK,Iceland,15+,,Female,13.1
+2018,SH_PRV_SMOK,Iceland,15+,,Both sexes,12.6
+2019,SH_PRV_SMOK,Iceland,15+,,Both sexes,12.6
+2019,SH_PRV_SMOK,Iceland,15+,,Female,12.5
+2019,SH_PRV_SMOK,Iceland,15+,,Male,12.6
+2020,SH_PRV_SMOK,Iceland,15+,,Male,11.9
+2020,SH_PRV_SMOK,Iceland,15+,,Female,12.0
+2020,SH_PRV_SMOK,Iceland,15+,,Both sexes,12.0
+2000,SH_PRV_SMOK,India,15+,,Male,69.9
+2000,SH_PRV_SMOK,India,15+,,Female,39.0
+2000,SH_PRV_SMOK,India,15+,,Both sexes,54.5
+2005,SH_PRV_SMOK,India,15+,,Male,61.0
+2005,SH_PRV_SMOK,India,15+,,Female,29.9
+2005,SH_PRV_SMOK,India,15+,,Both sexes,45.5
+2010,SH_PRV_SMOK,India,15+,,Male,53.5
+2010,SH_PRV_SMOK,India,15+,,Female,22.7
+2010,SH_PRV_SMOK,India,15+,,Both sexes,38.1
+2015,SH_PRV_SMOK,India,15+,,Male,47.2
+2015,SH_PRV_SMOK,India,15+,,Female,17.2
+2015,SH_PRV_SMOK,India,15+,,Both sexes,32.2
+2018,SH_PRV_SMOK,India,15+,,Male,43.6
+2018,SH_PRV_SMOK,India,15+,,Both sexes,28.1
+2018,SH_PRV_SMOK,India,15+,,Female,14.5
+2019,SH_PRV_SMOK,Sweden,15+,,Both sexes,24.8
+2019,SH_PRV_SMOK,Sweden,15+,,Female,19.0
+2019,SH_PRV_SMOK,Sweden,15+,,Male,30.5
+2020,SH_PRV_SMOK,Sweden,15+,,Female,18.2
+2020,SH_PRV_SMOK,Sweden,15+,,Male,29.8
+2020,SH_PRV_SMOK,Sweden,15+,,Both sexes,24.0
+2000,SH_PRV_SMOK,Switzerland,15+,,Both sexes,28.3
+2000,SH_PRV_SMOK,Switzerland,15+,,Female,23.7
+2019,SH_PRV_SMOK,India,15+,,Both sexes,28.1
+2019,SH_PRV_SMOK,India,15+,,Female,13.7
+2019,SH_PRV_SMOK,India,15+,,Male,42.4
+2020,SH_PRV_SMOK,India,15+,,Male,41.3
+2020,SH_PRV_SMOK,India,15+,,Female,13.0
+2020,SH_PRV_SMOK,India,15+,,Both sexes,27.2
+2000,SH_PRV_SMOK,Ireland,15+,,Both sexes,35.6
+2000,SH_PRV_SMOK,Ireland,15+,,Female,35.9
+2000,SH_PRV_SMOK,Switzerland,15+,,Male,32.9
+2005,SH_PRV_SMOK,Switzerland,15+,,Male,31.8
+2005,SH_PRV_SMOK,Switzerland,15+,,Female,23.5
+2005,SH_PRV_SMOK,Switzerland,15+,,Both sexes,27.7
+2010,SH_PRV_SMOK,Switzerland,15+,,Female,23.3
+2010,SH_PRV_SMOK,Switzerland,15+,,Both sexes,26.9
+2010,SH_PRV_SMOK,Switzerland,15+,,Male,30.5
+2015,SH_PRV_SMOK,Switzerland,15+,,Male,29.3
+2000,SH_PRV_SMOK,Ireland,15+,,Male,35.2
+2005,SH_PRV_SMOK,Ireland,15+,,Female,30.9
+2005,SH_PRV_SMOK,Ireland,15+,,Both sexes,31.2
+2005,SH_PRV_SMOK,Ireland,15+,,Male,31.5
+2010,SH_PRV_SMOK,Ireland,15+,,Female,26.1
+2010,SH_PRV_SMOK,Ireland,15+,,Male,28.1
+2010,SH_PRV_SMOK,Ireland,15+,,Both sexes,27.1
+2015,SH_PRV_SMOK,Ireland,15+,,Male,25.2
+2015,SH_PRV_SMOK,Ireland,15+,,Female,22.3
+2015,SH_PRV_SMOK,Ireland,15+,,Both sexes,23.8
+2018,SH_PRV_SMOK,Ireland,15+,,Male,23.7
+2018,SH_PRV_SMOK,Ireland,15+,,Female,20.3
+2018,SH_PRV_SMOK,Ireland,15+,,Both sexes,21.4
+2019,SH_PRV_SMOK,Ireland,15+,,Both sexes,21.4
+2019,SH_PRV_SMOK,Ireland,15+,,Female,19.7
+2019,SH_PRV_SMOK,Ireland,15+,,Male,23.1
+2015,SH_PRV_SMOK,Switzerland,15+,,Female,23.1
+2015,SH_PRV_SMOK,Switzerland,15+,,Both sexes,26.2
+2018,SH_PRV_SMOK,Switzerland,15+,,Both sexes,25.7
+2018,SH_PRV_SMOK,Switzerland,15+,,Female,23.0
+2018,SH_PRV_SMOK,Switzerland,15+,,Male,28.4
+2019,SH_PRV_SMOK,Switzerland,15+,,Both sexes,25.7
+2019,SH_PRV_SMOK,Switzerland,15+,,Female,23.0
+2019,SH_PRV_SMOK,Switzerland,15+,,Male,28.3
+2020,SH_PRV_SMOK,Ireland,15+,,Male,22.5
+2020,SH_PRV_SMOK,Ireland,15+,,Female,19.0
+2020,SH_PRV_SMOK,Ireland,15+,,Both sexes,20.8
+2000,SH_PRV_SMOK,Israel,15+,,Male,39.1
+2000,SH_PRV_SMOK,Israel,15+,,Female,24.2
+2000,SH_PRV_SMOK,Israel,15+,,Both sexes,31.7
+2005,SH_PRV_SMOK,Israel,15+,,Both sexes,28.6
+2005,SH_PRV_SMOK,Israel,15+,,Male,36.3
+2020,SH_PRV_SMOK,Switzerland,15+,,Both sexes,25.5
+2020,SH_PRV_SMOK,Switzerland,15+,,Female,22.9
+2020,SH_PRV_SMOK,Switzerland,15+,,Male,28.1
+2000,SH_PRV_SMOK,Türkiye,15+,,Both sexes,32.9
+2000,SH_PRV_SMOK,Türkiye,15+,,Male,51.2
+2000,SH_PRV_SMOK,Türkiye,15+,,Female,14.5
+2005,SH_PRV_SMOK,Türkiye,15+,,Male,48.7
+2005,SH_PRV_SMOK,Türkiye,15+,,Female,15.6
+2005,SH_PRV_SMOK,Israel,15+,,Female,20.9
+2010,SH_PRV_SMOK,Israel,15+,,Both sexes,25.9
+2010,SH_PRV_SMOK,Israel,15+,,Male,33.7
+2010,SH_PRV_SMOK,Israel,15+,,Female,18.0
+2015,SH_PRV_SMOK,Israel,15+,,Male,31.4
+2015,SH_PRV_SMOK,Israel,15+,,Female,15.4
+2015,SH_PRV_SMOK,Israel,15+,,Both sexes,23.4
+2018,SH_PRV_SMOK,Israel,15+,,Male,30.2
+2018,SH_PRV_SMOK,Israel,15+,,Female,14.2
+2018,SH_PRV_SMOK,Israel,15+,,Both sexes,21.6
+2019,SH_PRV_SMOK,Israel,15+,,Female,13.9
+2019,SH_PRV_SMOK,Israel,15+,,Both sexes,21.6
+2019,SH_PRV_SMOK,Israel,15+,,Male,29.3
+2020,SH_PRV_SMOK,Israel,15+,,Female,13.5
+2020,SH_PRV_SMOK,Israel,15+,,Both sexes,21.2
+2020,SH_PRV_SMOK,Israel,15+,,Male,28.9
+2005,SH_PRV_SMOK,Türkiye,15+,,Both sexes,32.2
+2010,SH_PRV_SMOK,Türkiye,15+,,Male,46.6
+2010,SH_PRV_SMOK,Türkiye,15+,,Female,16.7
+2010,SH_PRV_SMOK,Türkiye,15+,,Both sexes,31.7
+2015,SH_PRV_SMOK,Türkiye,15+,,Male,44.3
+2015,SH_PRV_SMOK,Türkiye,15+,,Female,17.9
+2015,SH_PRV_SMOK,Türkiye,15+,,Both sexes,31.1
+2018,SH_PRV_SMOK,Türkiye,15+,,Female,18.6
+2000,SH_PRV_SMOK,Italy,15+,,Male,32.6
+2000,SH_PRV_SMOK,Italy,15+,,Female,19.7
+2000,SH_PRV_SMOK,Italy,15+,,Both sexes,26.2
+2005,SH_PRV_SMOK,Italy,15+,,Male,30.9
+2005,SH_PRV_SMOK,Italy,15+,,Female,19.6
+2005,SH_PRV_SMOK,Italy,15+,,Both sexes,25.3
+2010,SH_PRV_SMOK,Italy,15+,,Male,29.4
+2010,SH_PRV_SMOK,Italy,15+,,Female,19.6
+2018,SH_PRV_SMOK,Türkiye,15+,,Both sexes,30.9
+2018,SH_PRV_SMOK,Türkiye,15+,,Male,43.0
+2019,SH_PRV_SMOK,Türkiye,15+,,Both sexes,30.9
+2019,SH_PRV_SMOK,Türkiye,15+,,Female,18.9
+2019,SH_PRV_SMOK,Türkiye,15+,,Male,42.9
+2020,SH_PRV_SMOK,Türkiye,15+,,Male,42.1
+2020,SH_PRV_SMOK,Türkiye,15+,,Both sexes,30.7
+2020,SH_PRV_SMOK,Türkiye,15+,,Female,19.2
+2010,SH_PRV_SMOK,Italy,15+,,Both sexes,24.5
+2015,SH_PRV_SMOK,Italy,15+,,Male,27.9
+2015,SH_PRV_SMOK,Italy,15+,,Female,19.6
+2015,SH_PRV_SMOK,Italy,15+,,Both sexes,23.8
+2018,SH_PRV_SMOK,Italy,15+,,Both sexes,23.3
+2018,SH_PRV_SMOK,Italy,15+,,Male,27.1
+2018,SH_PRV_SMOK,Italy,15+,,Female,19.6
+2019,SH_PRV_SMOK,Italy,15+,,Male,26.9
+2019,SH_PRV_SMOK,Italy,15+,,Both sexes,23.3
+2019,SH_PRV_SMOK,Italy,15+,,Female,19.6
+2020,SH_PRV_SMOK,Italy,15+,,Male,26.6
+2020,SH_PRV_SMOK,Italy,15+,,Both sexes,23.1
+2020,SH_PRV_SMOK,Italy,15+,,Female,19.5
+2000,SH_PRV_SMOK,Japan,15+,,Female,14.5
+2000,SH_PRV_SMOK,Japan,15+,,Both sexes,33.3
+2000,SH_PRV_SMOK,Japan,15+,,Male,52.0
+2005,SH_PRV_SMOK,Japan,15+,,Male,45.5
+2005,SH_PRV_SMOK,Japan,15+,,Female,13.2
+2005,SH_PRV_SMOK,Japan,15+,,Both sexes,29.4
+2010,SH_PRV_SMOK,Japan,15+,,Both sexes,25.8
+2010,SH_PRV_SMOK,Japan,15+,,Male,39.5
+2010,SH_PRV_SMOK,Japan,15+,,Female,12.0
+2015,SH_PRV_SMOK,Japan,15+,,Male,34.5
+2015,SH_PRV_SMOK,Japan,15+,,Female,10.9
+2018,SH_PRV_SMOK,Armenia,15+,,Male,50.5
+2018,SH_PRV_SMOK,Armenia,15+,,Female,1.6
+2018,SH_PRV_SMOK,Armenia,15+,,Both sexes,25.8
+2019,SH_PRV_SMOK,Armenia,15+,,Female,1.5
+2019,SH_PRV_SMOK,Armenia,15+,,Male,50.0
+2019,SH_PRV_SMOK,Armenia,15+,,Both sexes,25.8
+2020,SH_PRV_SMOK,Armenia,15+,,Male,49.4
+2020,SH_PRV_SMOK,Armenia,15+,,Female,1.5
+2000,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.7
+2000,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,12.0
+2000,SH_PRV_SMOK,Turkmenistan,15+,,Male,23.3
+2005,SH_PRV_SMOK,Turkmenistan,15+,,Male,19.1
+2005,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.6
+2005,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,9.9
+2010,SH_PRV_SMOK,Turkmenistan,15+,,Male,15.8
+2010,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.6
+2015,SH_PRV_SMOK,Japan,15+,,Both sexes,22.7
+2018,SH_PRV_SMOK,Japan,15+,,Male,31.8
+2018,SH_PRV_SMOK,Japan,15+,,Female,10.3
+2018,SH_PRV_SMOK,Japan,15+,,Both sexes,20.5
+2019,SH_PRV_SMOK,Japan,15+,,Both sexes,20.5
+2019,SH_PRV_SMOK,Japan,15+,,Female,10.2
+2019,SH_PRV_SMOK,Japan,15+,,Male,30.8
+2020,SH_PRV_SMOK,Japan,15+,,Both sexes,20.1
+2020,SH_PRV_SMOK,Japan,15+,,Male,30.1
+2020,SH_PRV_SMOK,Japan,15+,,Female,10.0
+2000,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,34.2
+2000,SH_PRV_SMOK,Kazakhstan,15+,,Female,11.2
+2000,SH_PRV_SMOK,Kazakhstan,15+,,Male,57.1
+2005,SH_PRV_SMOK,Kazakhstan,15+,,Male,52.0
+2005,SH_PRV_SMOK,Kazakhstan,15+,,Female,9.8
+2005,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,30.9
+2010,SH_PRV_SMOK,Kazakhstan,15+,,Female,8.6
+2010,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,28.1
+2010,SH_PRV_SMOK,Kazakhstan,15+,,Male,47.5
+2015,SH_PRV_SMOK,Kazakhstan,15+,,Female,7.6
+2015,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,25.4
+2015,SH_PRV_SMOK,Kazakhstan,15+,,Male,43.2
+2018,SH_PRV_SMOK,Kazakhstan,15+,,Male,41.0
+2018,SH_PRV_SMOK,Kazakhstan,15+,,Female,7.1
+2010,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,8.2
+2015,SH_PRV_SMOK,Turkmenistan,15+,,Male,12.9
+2015,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.5
+2015,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,6.7
+2018,SH_PRV_SMOK,Turkmenistan,15+,,Male,11.5
+2018,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,5.8
+2018,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.5
+2019,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,5.8
+2020,SH_PRV_SMOK,Armenia,15+,,Both sexes,25.5
+2000,SH_PRV_SMOK,Belgium,15+,,Both sexes,33.4
+2000,SH_PRV_SMOK,Belgium,15+,,Male,39.0
+2000,SH_PRV_SMOK,Belgium,15+,,Female,27.7
+2005,SH_PRV_SMOK,Belgium,15+,,Male,35.1
+2005,SH_PRV_SMOK,Belgium,15+,,Female,25.9
+2005,SH_PRV_SMOK,Belgium,15+,,Both sexes,30.5
+2010,SH_PRV_SMOK,Belgium,15+,,Both sexes,28.0
+2018,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,23.5
+2019,SH_PRV_SMOK,Kazakhstan,15+,,Female,6.9
+2019,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,23.5
+2019,SH_PRV_SMOK,Kazakhstan,15+,,Male,40.1
+2020,SH_PRV_SMOK,Kazakhstan,15+,,Both sexes,23.2
+2020,SH_PRV_SMOK,Kazakhstan,15+,,Male,39.6
+2020,SH_PRV_SMOK,Kazakhstan,15+,,Female,6.7
+2000,SH_PRV_SMOK,Republic of Korea,15+,,Male,62.8
+2000,SH_PRV_SMOK,Republic of Korea,15+,,Female,7.1
+2000,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,35.0
+2005,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,30.7
+2005,SH_PRV_SMOK,Republic of Korea,15+,,Female,6.7
+2005,SH_PRV_SMOK,Republic of Korea,15+,,Male,54.6
+2010,SH_PRV_SMOK,Republic of Korea,15+,,Male,47.6
+2010,SH_PRV_SMOK,Republic of Korea,15+,,Female,6.4
+2010,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,27.0
+2019,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.5
+2019,SH_PRV_SMOK,Turkmenistan,15+,,Male,11.1
+2020,SH_PRV_SMOK,Turkmenistan,15+,,Both sexes,5.5
+2020,SH_PRV_SMOK,Turkmenistan,15+,,Female,0.4
+2020,SH_PRV_SMOK,Turkmenistan,15+,,Male,10.6
+2000,SH_PRV_SMOK,Ukraine,15+,,Male,61.3
+2000,SH_PRV_SMOK,Ukraine,15+,,Female,14.1
+2000,SH_PRV_SMOK,Ukraine,15+,,Both sexes,37.7
+2015,SH_PRV_SMOK,Republic of Korea,15+,,Male,41.3
+2015,SH_PRV_SMOK,Republic of Korea,15+,,Female,6.2
+2015,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,23.8
+2018,SH_PRV_SMOK,Republic of Korea,15+,,Male,37.9
+2018,SH_PRV_SMOK,Republic of Korea,15+,,Female,6.0
+2018,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,21.4
+2019,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,21.4
+2019,SH_PRV_SMOK,Republic of Korea,15+,,Female,6.0
+2005,SH_PRV_SMOK,Ukraine,15+,,Male,55.2
+2005,SH_PRV_SMOK,Ukraine,15+,,Female,13.4
+2005,SH_PRV_SMOK,Ukraine,15+,,Both sexes,34.3
+2010,SH_PRV_SMOK,Ukraine,15+,,Male,49.4
+2010,SH_PRV_SMOK,Ukraine,15+,,Female,12.7
+2010,SH_PRV_SMOK,Ukraine,15+,,Both sexes,31.1
+2015,SH_PRV_SMOK,Ukraine,15+,,Male,44.6
+2015,SH_PRV_SMOK,Ukraine,15+,,Female,12.1
+2010,SH_PRV_SMOK,Belgium,15+,,Male,31.8
+2010,SH_PRV_SMOK,Belgium,15+,,Female,24.1
+2015,SH_PRV_SMOK,Belgium,15+,,Male,28.8
+2015,SH_PRV_SMOK,Belgium,15+,,Female,22.5
+2015,SH_PRV_SMOK,Belgium,15+,,Both sexes,25.7
+2018,SH_PRV_SMOK,Belgium,15+,,Female,21.6
+2018,SH_PRV_SMOK,Belgium,15+,,Both sexes,23.9
+2018,SH_PRV_SMOK,Belgium,15+,,Male,27.1
+2019,SH_PRV_SMOK,Republic of Korea,15+,,Male,36.8
+2020,SH_PRV_SMOK,Republic of Korea,15+,,Female,5.9
+2020,SH_PRV_SMOK,Republic of Korea,15+,,Both sexes,20.8
+2020,SH_PRV_SMOK,Republic of Korea,15+,,Male,35.7
+2000,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,31.4
+2000,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,5.0
+2000,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,57.8
+2005,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,56.2
+2015,SH_PRV_SMOK,Ukraine,15+,,Both sexes,28.4
+2018,SH_PRV_SMOK,Ukraine,15+,,Female,11.7
+2018,SH_PRV_SMOK,Ukraine,15+,,Both sexes,26.2
+2018,SH_PRV_SMOK,Ukraine,15+,,Male,41.7
+2019,SH_PRV_SMOK,Ukraine,15+,,Both sexes,26.2
+2019,SH_PRV_SMOK,Ukraine,15+,,Male,40.7
+2019,SH_PRV_SMOK,Ukraine,15+,,Female,11.6
+2020,SH_PRV_SMOK,Ukraine,15+,,Male,40.0
+2005,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,4.4
+2005,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,30.3
+2010,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,54.8
+2010,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,4.0
+2010,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,29.4
+2015,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,53.1
+2015,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,3.6
+2015,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,28.4
+2018,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,27.6
+2018,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,52.6
+2018,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,3.4
+2019,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,27.6
+2019,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,3.3
+2019,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,51.8
+2020,SH_PRV_SMOK,Kyrgyzstan,15+,,Female,2.8
+2020,SH_PRV_SMOK,Kyrgyzstan,15+,,Both sexes,25.4
+2020,SH_PRV_SMOK,Ukraine,15+,,Both sexes,25.8
+2020,SH_PRV_SMOK,Ukraine,15+,,Female,11.5
+2000,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,39.2
+2000,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,36.5
+2000,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,37.9
+2005,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,30.1
+2005,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,31.9
+2005,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,28.3
+2020,SH_PRV_SMOK,Kyrgyzstan,15+,,Male,48.0
+2000,SH_PRV_SMOK,Latvia,15+,,Female,26.3
+2000,SH_PRV_SMOK,Latvia,15+,,Both sexes,43.8
+2000,SH_PRV_SMOK,Latvia,15+,,Male,61.3
+2005,SH_PRV_SMOK,Latvia,15+,,Both sexes,41.9
+2005,SH_PRV_SMOK,Latvia,15+,,Male,58.0
+2005,SH_PRV_SMOK,Latvia,15+,,Female,25.7
+2010,SH_PRV_SMOK,Latvia,15+,,Male,55.1
+2019,SH_PRV_SMOK,Belgium,15+,,Both sexes,23.9
+2019,SH_PRV_SMOK,Belgium,15+,,Female,21.4
+2019,SH_PRV_SMOK,Belgium,15+,,Male,26.3
+2020,SH_PRV_SMOK,Belgium,15+,,Male,25.8
+2020,SH_PRV_SMOK,Belgium,15+,,Female,21.0
+2020,SH_PRV_SMOK,Belgium,15+,,Both sexes,23.4
+2000,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,58.2
+2000,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,35.0
+2010,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,25.9
+2010,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,22.2
+2010,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,24.1
+2015,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,19.3
+2015,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,17.4
+2015,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,21.2
+2018,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,16.1
+2018,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,18.7
+2010,SH_PRV_SMOK,Latvia,15+,,Female,25.1
+2010,SH_PRV_SMOK,Latvia,15+,,Both sexes,40.1
+2015,SH_PRV_SMOK,Latvia,15+,,Male,52.5
+2015,SH_PRV_SMOK,Latvia,15+,,Female,24.4
+2015,SH_PRV_SMOK,Latvia,15+,,Both sexes,38.5
+2018,SH_PRV_SMOK,Latvia,15+,,Male,51.1
+2018,SH_PRV_SMOK,Latvia,15+,,Female,23.8
+2018,SH_PRV_SMOK,Latvia,15+,,Both sexes,37.2
+2018,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,15.0
+2019,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,16.1
+2019,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,14.2
+2019,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,17.9
+2020,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Female,13.5
+2020,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Both sexes,15.4
+2020,SH_PRV_SMOK,United Kingdom of Great Britain and Northern Ireland,15+,,Male,17.3
+2000,SH_PRV_SMOK,Uzbekistan,15+,,Male,48.4
+2019,SH_PRV_SMOK,Latvia,15+,,Both sexes,37.2
+2019,SH_PRV_SMOK,Latvia,15+,,Female,23.8
+2019,SH_PRV_SMOK,Latvia,15+,,Male,50.6
+2020,SH_PRV_SMOK,Latvia,15+,,Male,50.3
+2020,SH_PRV_SMOK,Latvia,15+,,Female,23.7
+2020,SH_PRV_SMOK,Latvia,15+,,Both sexes,37.0
+2000,SH_PRV_SMOK,Lithuania,15+,,Female,24.8
+2000,SH_PRV_SMOK,Lithuania,15+,,Male,58.0
+2000,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.4
+2000,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,24.9
+2005,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.3
+2005,SH_PRV_SMOK,Uzbekistan,15+,,Male,44.1
+2005,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,22.7
+2010,SH_PRV_SMOK,Uzbekistan,15+,,Male,40.5
+2010,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.3
+2010,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,20.9
+2015,SH_PRV_SMOK,Uzbekistan,15+,,Male,37.0
+2015,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.2
+2015,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,19.1
+2018,SH_PRV_SMOK,Uzbekistan,15+,,Male,35.3
+2018,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.1
+2018,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,17.8
+2019,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,17.8
+2019,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.1
+2000,SH_PRV_SMOK,Lithuania,15+,,Both sexes,41.4
+2005,SH_PRV_SMOK,Lithuania,15+,,Both sexes,38.9
+2005,SH_PRV_SMOK,Lithuania,15+,,Male,53.6
+2005,SH_PRV_SMOK,Lithuania,15+,,Female,24.1
+2010,SH_PRV_SMOK,Lithuania,15+,,Male,49.5
+2010,SH_PRV_SMOK,Lithuania,15+,,Female,23.2
+2010,SH_PRV_SMOK,Lithuania,15+,,Both sexes,36.4
+2015,SH_PRV_SMOK,Lithuania,15+,,Male,45.5
+2015,SH_PRV_SMOK,Lithuania,15+,,Female,22.4
+2015,SH_PRV_SMOK,Lithuania,15+,,Both sexes,34.0
+2018,SH_PRV_SMOK,Lithuania,15+,,Male,43.4
+2018,SH_PRV_SMOK,Lithuania,15+,,Female,21.9
+2018,SH_PRV_SMOK,Lithuania,15+,,Both sexes,32.3
+2019,SH_PRV_SMOK,Lithuania,15+,,Female,21.8
+2019,SH_PRV_SMOK,Lithuania,15+,,Both sexes,32.3
+2019,SH_PRV_SMOK,Lithuania,15+,,Male,42.8
+2020,SH_PRV_SMOK,Lithuania,15+,,Both sexes,32.0
+2020,SH_PRV_SMOK,Lithuania,15+,,Female,21.8
+2020,SH_PRV_SMOK,Lithuania,15+,,Male,42.1
+2000,SH_PRV_SMOK,Luxembourg,15+,,Male,36.5
+2000,SH_PRV_SMOK,Luxembourg,15+,,Female,25.5
+2000,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,31.0
+2005,SH_PRV_SMOK,Luxembourg,15+,,Male,32.5
+2005,SH_PRV_SMOK,Luxembourg,15+,,Female,23.8
+2005,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,28.2
+2010,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,25.6
+2010,SH_PRV_SMOK,Luxembourg,15+,,Female,22.5
+2010,SH_PRV_SMOK,Luxembourg,15+,,Male,28.6
+2015,SH_PRV_SMOK,Luxembourg,15+,,Male,25.3
+2015,SH_PRV_SMOK,Luxembourg,15+,,Female,21.1
+2015,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,23.2
+2018,SH_PRV_SMOK,Luxembourg,15+,,Male,23.5
+2000,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,46.6
+2005,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,43.4
+2005,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,53.5
+2005,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,33.2
+2010,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,49.3
+2010,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,31.2
+2010,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,40.3
+2015,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,45.6
+2018,SH_PRV_SMOK,Luxembourg,15+,,Female,20.3
+2018,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,21.6
+2019,SH_PRV_SMOK,Luxembourg,15+,,Male,23.0
+2019,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,21.6
+2019,SH_PRV_SMOK,Luxembourg,15+,,Female,20.1
+2020,SH_PRV_SMOK,Luxembourg,15+,,Female,19.8
+2020,SH_PRV_SMOK,Luxembourg,15+,,Male,22.4
+2020,SH_PRV_SMOK,Luxembourg,15+,,Both sexes,21.1
+2015,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,29.8
+2015,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,37.7
+2018,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,28.8
+2018,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,35.5
+2018,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,43.2
+2019,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,35.5
+2019,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,28.3
+2019,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,42.6
+2000,SH_PRV_SMOK,Malta,15+,,Male,42.2
+2000,SH_PRV_SMOK,Malta,15+,,Female,26.4
+2000,SH_PRV_SMOK,Malta,15+,,Both sexes,34.3
+2005,SH_PRV_SMOK,Malta,15+,,Male,37.5
+2005,SH_PRV_SMOK,Malta,15+,,Both sexes,31.4
+2005,SH_PRV_SMOK,Malta,15+,,Female,25.3
+2010,SH_PRV_SMOK,Malta,15+,,Male,33.3
+2010,SH_PRV_SMOK,Malta,15+,,Female,23.9
+2010,SH_PRV_SMOK,Malta,15+,,Both sexes,28.6
+2015,SH_PRV_SMOK,Malta,15+,,Male,29.8
+2015,SH_PRV_SMOK,Malta,15+,,Female,22.8
+2015,SH_PRV_SMOK,Malta,15+,,Both sexes,26.3
+2018,SH_PRV_SMOK,Malta,15+,,Male,27.7
+2018,SH_PRV_SMOK,Malta,15+,,Female,22.1
+2018,SH_PRV_SMOK,Malta,15+,,Both sexes,24.5
+2019,SH_PRV_SMOK,Malta,15+,,Female,21.8
+2020,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Male,42.0
+2020,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Female,28.0
+2020,SH_PRV_SMOK,Bosnia and Herzegovina,15+,,Both sexes,35.0
+2000,SH_PRV_SMOK,Bulgaria,15+,,Male,59.2
+2000,SH_PRV_SMOK,Bulgaria,15+,,Female,35.8
+2000,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,47.5
+2005,SH_PRV_SMOK,Bulgaria,15+,,Female,36.1
+2005,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,45.0
+2019,SH_PRV_SMOK,Malta,15+,,Male,27.1
+2019,SH_PRV_SMOK,Malta,15+,,Both sexes,24.5
+2020,SH_PRV_SMOK,Malta,15+,,Both sexes,24.0
+2020,SH_PRV_SMOK,Malta,15+,,Male,26.4
+2020,SH_PRV_SMOK,Malta,15+,,Female,21.6
+2000,SH_PRV_SMOK,Mexico,15+,,Male,35.2
+2000,SH_PRV_SMOK,Mexico,15+,,Female,12.8
+2000,SH_PRV_SMOK,Mexico,15+,,Both sexes,24.0
+2005,SH_PRV_SMOK,Mexico,15+,,Female,10.6
+2005,SH_PRV_SMOK,Mexico,15+,,Male,30.5
+2005,SH_PRV_SMOK,Mexico,15+,,Both sexes,20.6
+2010,SH_PRV_SMOK,Mexico,15+,,Male,26.4
+2010,SH_PRV_SMOK,Mexico,15+,,Female,8.9
+2010,SH_PRV_SMOK,Mexico,15+,,Both sexes,17.7
+2015,SH_PRV_SMOK,Mexico,15+,,Male,22.9
+2015,SH_PRV_SMOK,Mexico,15+,,Female,7.4
+2015,SH_PRV_SMOK,Mexico,15+,,Both sexes,15.2
+2018,SH_PRV_SMOK,Mexico,15+,,Both sexes,13.4
+2018,SH_PRV_SMOK,Mexico,15+,,Male,21.1
+2018,SH_PRV_SMOK,Mexico,15+,,Female,6.6
+2019,SH_PRV_SMOK,Mexico,15+,,Male,20.4
+2019,SH_PRV_SMOK,Mexico,15+,,Both sexes,13.4
+2019,SH_PRV_SMOK,Mexico,15+,,Female,6.4
+2020,SH_PRV_SMOK,Mexico,15+,,Male,19.9
+2020,SH_PRV_SMOK,Mexico,15+,,Female,6.2
+2020,SH_PRV_SMOK,Mexico,15+,,Both sexes,13.1
+2000,SH_PRV_SMOK,Moldova,15+,,Male,45.2
+2000,SH_PRV_SMOK,Moldova,15+,,Female,5.3
+2000,SH_PRV_SMOK,Moldova,15+,,Both sexes,25.3
+2005,SH_PRV_SMOK,Moldova,15+,,Male,46.5
+2005,SH_PRV_SMOK,Moldova,15+,,Female,5.5
+2005,SH_PRV_SMOK,Moldova,15+,,Both sexes,26.0
+2005,SH_PRV_SMOK,Bulgaria,15+,,Male,53.9
+2010,SH_PRV_SMOK,Bulgaria,15+,,Male,49.2
+2010,SH_PRV_SMOK,Bulgaria,15+,,Female,36.5
+2010,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,42.9
+2015,SH_PRV_SMOK,Bulgaria,15+,,Male,44.7
+2015,SH_PRV_SMOK,Bulgaria,15+,,Female,36.7
+2015,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,40.7
+2018,SH_PRV_SMOK,Bulgaria,15+,,Female,37.0
+2010,SH_PRV_SMOK,Moldova,15+,,Both sexes,26.9
+2010,SH_PRV_SMOK,Moldova,15+,,Male,48.0
+2010,SH_PRV_SMOK,Moldova,15+,,Female,5.8
+2015,SH_PRV_SMOK,Moldova,15+,,Both sexes,27.9
+2015,SH_PRV_SMOK,Moldova,15+,,Male,49.8
+2015,SH_PRV_SMOK,Moldova,15+,,Female,6.0
+2018,SH_PRV_SMOK,Moldova,15+,,Male,50.7
+2018,SH_PRV_SMOK,Moldova,15+,,Female,6.1
+2018,SH_PRV_SMOK,Moldova,15+,,Both sexes,28.7
+2019,SH_PRV_SMOK,Moldova,15+,,Both sexes,28.7
+2019,SH_PRV_SMOK,Moldova,15+,,Female,6.2
+2019,SH_PRV_SMOK,Moldova,15+,,Male,51.2
+2020,SH_PRV_SMOK,Moldova,15+,,Both sexes,29.0
+2020,SH_PRV_SMOK,Moldova,15+,,Male,51.7
+2020,SH_PRV_SMOK,Moldova,15+,,Female,6.2
+2000,SH_PRV_SMOK,Montenegro,15+,,Female,33.9
+2000,SH_PRV_SMOK,Montenegro,15+,,Both sexes,38.7
+2000,SH_PRV_SMOK,Montenegro,15+,,Male,43.4
+2005,SH_PRV_SMOK,Montenegro,15+,,Both sexes,36.7
+2005,SH_PRV_SMOK,Montenegro,15+,,Male,40.0
+2005,SH_PRV_SMOK,Montenegro,15+,,Female,33.3
+2010,SH_PRV_SMOK,Montenegro,15+,,Male,37.1
+2010,SH_PRV_SMOK,Montenegro,15+,,Female,32.6
+2010,SH_PRV_SMOK,Montenegro,15+,,Both sexes,34.9
+2018,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,39.4
+2018,SH_PRV_SMOK,Bulgaria,15+,,Male,42.4
+2019,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,39.4
+2019,SH_PRV_SMOK,Bulgaria,15+,,Female,37.1
+2019,SH_PRV_SMOK,Bulgaria,15+,,Male,41.7
+2020,SH_PRV_SMOK,Bulgaria,15+,,Male,40.9
+2020,SH_PRV_SMOK,Bulgaria,15+,,Female,37.1
+2020,SH_PRV_SMOK,Bulgaria,15+,,Both sexes,39.0
+2015,SH_PRV_SMOK,Montenegro,15+,,Male,34.3
+2015,SH_PRV_SMOK,Montenegro,15+,,Female,31.9
+2015,SH_PRV_SMOK,Montenegro,15+,,Both sexes,33.1
+2018,SH_PRV_SMOK,Montenegro,15+,,Male,32.8
+2018,SH_PRV_SMOK,Montenegro,15+,,Female,31.4
+2018,SH_PRV_SMOK,Montenegro,15+,,Both sexes,31.8
+2019,SH_PRV_SMOK,Montenegro,15+,,Both sexes,31.8
+2019,SH_PRV_SMOK,Montenegro,15+,,Female,31.3
+2000,SH_PRV_SMOK,Belarus,15+,,Both sexes,41.8
+2000,SH_PRV_SMOK,Belarus,15+,,Female,15.6
+2000,SH_PRV_SMOK,Belarus,15+,,Male,68.0
+2005,SH_PRV_SMOK,Belarus,15+,,Male,62.5
+2005,SH_PRV_SMOK,Belarus,15+,,Female,15.1
+2005,SH_PRV_SMOK,Belarus,15+,,Both sexes,38.8
+2010,SH_PRV_SMOK,Belarus,15+,,Male,57.0
+2010,SH_PRV_SMOK,Belarus,15+,,Female,14.6
+2010,SH_PRV_SMOK,Belarus,15+,,Both sexes,35.8
+2015,SH_PRV_SMOK,Belarus,15+,,Male,51.9
+2015,SH_PRV_SMOK,Belarus,15+,,Female,14.0
+2015,SH_PRV_SMOK,Belarus,15+,,Both sexes,33.0
+2018,SH_PRV_SMOK,Belarus,15+,,Male,49.3
+2018,SH_PRV_SMOK,Belarus,15+,,Female,13.7
+2018,SH_PRV_SMOK,Belarus,15+,,Both sexes,30.9
+2019,SH_PRV_SMOK,Belarus,15+,,Both sexes,30.9
+2019,SH_PRV_SMOK,Montenegro,15+,,Male,32.3
+2020,SH_PRV_SMOK,Montenegro,15+,,Male,31.6
+2020,SH_PRV_SMOK,Montenegro,15+,,Female,31.1
+2020,SH_PRV_SMOK,Montenegro,15+,,Both sexes,31.4
+2000,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,34.3
+2000,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,31.7
+2000,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,36.8
+2005,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,33.0
+2019,SH_PRV_SMOK,Belarus,15+,,Female,13.6
+2019,SH_PRV_SMOK,Belarus,15+,,Male,48.2
+2020,SH_PRV_SMOK,Belarus,15+,,Female,13.5
+2020,SH_PRV_SMOK,Belarus,15+,,Both sexes,30.5
+2020,SH_PRV_SMOK,Belarus,15+,,Male,47.4
+2000,SH_PRV_SMOK,Canada,15+,,Male,30.3
+2000,SH_PRV_SMOK,Canada,15+,,Female,26.4
+2000,SH_PRV_SMOK,Canada,15+,,Both sexes,28.4
+2005,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,28.2
+2005,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,30.6
+2010,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,27.5
+2010,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,30.0
+2010,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,25.0
+2015,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,24.6
+2015,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,26.9
+2015,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,22.2
+2018,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,25.5
+2018,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,20.8
+2018,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,22.6
+2019,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,24.8
+2019,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,22.6
+2019,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,20.3
+2020,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Both sexes,22.2
+2020,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Male,24.4
+2020,SH_PRV_SMOK,Netherlands (Kingdom of the),15+,,Female,19.9
+2000,SH_PRV_SMOK,New Zealand,15+,,Male,30.0
+2000,SH_PRV_SMOK,New Zealand,15+,,Female,29.1
+2000,SH_PRV_SMOK,New Zealand,15+,,Both sexes,29.6
+2005,SH_PRV_SMOK,New Zealand,15+,,Male,25.1
+2005,SH_PRV_SMOK,New Zealand,15+,,Female,23.5
+2005,SH_PRV_SMOK,New Zealand,15+,,Both sexes,24.3
+2010,SH_PRV_SMOK,New Zealand,15+,,Male,21.3
+2010,SH_PRV_SMOK,New Zealand,15+,,Female,18.9
+2010,SH_PRV_SMOK,New Zealand,15+,,Both sexes,20.1
+2015,SH_PRV_SMOK,New Zealand,15+,,Both sexes,16.5
+2015,SH_PRV_SMOK,New Zealand,15+,,Male,17.8
+2015,SH_PRV_SMOK,New Zealand,15+,,Female,15.2
+2018,SH_PRV_SMOK,New Zealand,15+,,Female,13.4
+2018,SH_PRV_SMOK,New Zealand,15+,,Male,16.1
+2018,SH_PRV_SMOK,New Zealand,15+,,Both sexes,14.2
+2019,SH_PRV_SMOK,New Zealand,15+,,Male,15.5
+2019,SH_PRV_SMOK,New Zealand,15+,,Both sexes,14.2
+2019,SH_PRV_SMOK,New Zealand,15+,,Female,12.8
+2020,SH_PRV_SMOK,New Zealand,15+,,Male,15.0
+2020,SH_PRV_SMOK,New Zealand,15+,,Female,12.3
+2020,SH_PRV_SMOK,New Zealand,15+,,Both sexes,13.7
+2000,SH_PRV_SMOK,Norway,15+,,Both sexes,44.0
+2000,SH_PRV_SMOK,Norway,15+,,Male,44.7
+2000,SH_PRV_SMOK,Norway,15+,,Female,43.3
+2005,SH_PRV_SMOK,Norway,15+,,Male,35.1
+2005,SH_PRV_SMOK,Norway,15+,,Female,33.5
+2005,SH_PRV_SMOK,Norway,15+,,Both sexes,34.3
+2010,SH_PRV_SMOK,Norway,15+,,Male,27.6
+2010,SH_PRV_SMOK,Norway,15+,,Female,25.8
+2010,SH_PRV_SMOK,Norway,15+,,Both sexes,26.7
+2015,SH_PRV_SMOK,Norway,15+,,Male,21.6
+2015,SH_PRV_SMOK,Norway,15+,,Female,19.7
+2015,SH_PRV_SMOK,Norway,15+,,Both sexes,20.7
+2018,SH_PRV_SMOK,Norway,15+,,Male,18.8
+2018,SH_PRV_SMOK,Norway,15+,,Female,17.0
+2018,SH_PRV_SMOK,Norway,15+,,Both sexes,17.1
+2019,SH_PRV_SMOK,Norway,15+,,Both sexes,17.1
+2019,SH_PRV_SMOK,Norway,15+,,Female,16.2
+2019,SH_PRV_SMOK,Norway,15+,,Male,17.9
+2005,SH_PRV_SMOK,Canada,15+,,Male,25.5
+2005,SH_PRV_SMOK,Canada,15+,,Female,21.1
+2005,SH_PRV_SMOK,Canada,15+,,Both sexes,23.3
+2010,SH_PRV_SMOK,Canada,15+,,Male,21.6
+2010,SH_PRV_SMOK,Canada,15+,,Female,17.0
+2010,SH_PRV_SMOK,Canada,15+,,Both sexes,19.3
+2015,SH_PRV_SMOK,Canada,15+,,Male,18.1
+2015,SH_PRV_SMOK,Canada,15+,,Female,13.5
+2015,SH_PRV_SMOK,Canada,15+,,Both sexes,15.8
+2018,SH_PRV_SMOK,Canada,15+,,Both sexes,13.6
+2018,SH_PRV_SMOK,Canada,15+,,Male,16.3
+2018,SH_PRV_SMOK,Canada,15+,,Female,11.8
+2019,SH_PRV_SMOK,Canada,15+,,Male,15.8
+2019,SH_PRV_SMOK,Canada,15+,,Both sexes,13.6
+2019,SH_PRV_SMOK,Canada,15+,,Female,11.3
+2020,SH_PRV_SMOK,Canada,15+,,Both sexes,13.0
+2020,SH_PRV_SMOK,Norway,15+,,Male,17.0
+2020,SH_PRV_SMOK,Norway,15+,,Female,15.4
+2020,SH_PRV_SMOK,Norway,15+,,Both sexes,16.2
+2000,SH_PRV_SMOK,Poland,15+,,Male,45.6
+2000,SH_PRV_SMOK,Poland,15+,,Female,33.6
+2000,SH_PRV_SMOK,Poland,15+,,Both sexes,39.6
+2005,SH_PRV_SMOK,Poland,15+,,Male,40.4
+2005,SH_PRV_SMOK,Poland,15+,,Female,29.6
+2005,SH_PRV_SMOK,Poland,15+,,Both sexes,35.0
+2010,SH_PRV_SMOK,Poland,15+,,Female,25.9
+2010,SH_PRV_SMOK,Poland,15+,,Both sexes,30.8
+2010,SH_PRV_SMOK,Poland,15+,,Male,35.7
+2015,SH_PRV_SMOK,Poland,15+,,Male,31.6
+2015,SH_PRV_SMOK,Poland,15+,,Female,22.8
+2015,SH_PRV_SMOK,Poland,15+,,Both sexes,27.2
+2018,SH_PRV_SMOK,Poland,15+,,Male,29.4
+2018,SH_PRV_SMOK,Poland,15+,,Both sexes,24.7
+2018,SH_PRV_SMOK,Poland,15+,,Female,21.2
+2019,SH_PRV_SMOK,Poland,15+,,Both sexes,24.7
+2019,SH_PRV_SMOK,Poland,15+,,Female,20.7
+2019,SH_PRV_SMOK,Poland,15+,,Male,28.6
+2020,SH_PRV_SMOK,Poland,15+,,Male,27.9
+2020,SH_PRV_SMOK,Poland,15+,,Female,20.1
+2020,SH_PRV_SMOK,Poland,15+,,Both sexes,24.0
+2020,SH_PRV_SMOK,Canada,15+,,Male,15.3
+2020,SH_PRV_SMOK,Canada,15+,,Female,10.7
+2000,SH_PRV_SMOK,Chile,15+,,Both sexes,46.9
+2000,SH_PRV_SMOK,Chile,15+,,Male,51.3
+2000,SH_PRV_SMOK,Chile,15+,,Female,42.4
+2005,SH_PRV_SMOK,Chile,15+,,Male,45.4
+2005,SH_PRV_SMOK,Chile,15+,,Female,37.9
+2005,SH_PRV_SMOK,Chile,15+,,Both sexes,41.7
+2000,SH_PRV_SMOK,Portugal,15+,,Male,36.4
+2000,SH_PRV_SMOK,Portugal,15+,,Female,14.9
+2000,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.7
+2005,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.3
+2005,SH_PRV_SMOK,Portugal,15+,,Female,16.1
+2005,SH_PRV_SMOK,Portugal,15+,,Male,34.5
+2010,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.3
+2010,SH_PRV_SMOK,Portugal,15+,,Male,33.1
+2010,SH_PRV_SMOK,Portugal,15+,,Female,17.4
+2015,SH_PRV_SMOK,Portugal,15+,,Male,31.7
+2015,SH_PRV_SMOK,Portugal,15+,,Female,18.7
+2015,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.2
+2018,SH_PRV_SMOK,Portugal,15+,,Female,19.7
+2018,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.3
+2018,SH_PRV_SMOK,Portugal,15+,,Male,30.9
+2019,SH_PRV_SMOK,Portugal,15+,,Male,30.6
+2010,SH_PRV_SMOK,Chile,15+,,Male,40.2
+2010,SH_PRV_SMOK,Chile,15+,,Female,33.9
+2010,SH_PRV_SMOK,Chile,15+,,Both sexes,37.1
+2015,SH_PRV_SMOK,Chile,15+,,Female,30.2
+2015,SH_PRV_SMOK,Chile,15+,,Both sexes,32.9
+2015,SH_PRV_SMOK,Chile,15+,,Male,35.5
+2018,SH_PRV_SMOK,Chile,15+,,Male,33.1
+2018,SH_PRV_SMOK,Chile,15+,,Female,28.1
+2019,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.3
+2019,SH_PRV_SMOK,Portugal,15+,,Female,20.0
+2020,SH_PRV_SMOK,Portugal,15+,,Female,20.2
+2020,SH_PRV_SMOK,Portugal,15+,,Both sexes,25.4
+2020,SH_PRV_SMOK,Portugal,15+,,Male,30.5
+2000,SH_PRV_SMOK,Romania,15+,,Both sexes,35.0
+2000,SH_PRV_SMOK,Romania,15+,,Male,46.7
+2000,SH_PRV_SMOK,Romania,15+,,Female,23.3
+2018,SH_PRV_SMOK,Chile,15+,,Both sexes,29.9
+2019,SH_PRV_SMOK,Chile,15+,,Male,32.3
+2019,SH_PRV_SMOK,Chile,15+,,Both sexes,29.9
+2019,SH_PRV_SMOK,Chile,15+,,Female,27.5
+2020,SH_PRV_SMOK,Chile,15+,,Male,31.6
+2020,SH_PRV_SMOK,Chile,15+,,Female,26.8
+2020,SH_PRV_SMOK,Chile,15+,,Both sexes,29.2
+2000,SH_PRV_SMOK,China,15+,,Male,50.2
+2005,SH_PRV_SMOK,Romania,15+,,Male,43.9
+2005,SH_PRV_SMOK,Romania,15+,,Female,22.5
+2005,SH_PRV_SMOK,Romania,15+,,Both sexes,33.2
+2010,SH_PRV_SMOK,Romania,15+,,Male,41.2
+2010,SH_PRV_SMOK,Romania,15+,,Both sexes,31.4
+2010,SH_PRV_SMOK,Romania,15+,,Female,21.6
+2015,SH_PRV_SMOK,Romania,15+,,Male,38.5
+2015,SH_PRV_SMOK,Romania,15+,,Female,20.8
+2015,SH_PRV_SMOK,Romania,15+,,Both sexes,29.7
+2018,SH_PRV_SMOK,Romania,15+,,Female,20.4
+2018,SH_PRV_SMOK,Romania,15+,,Male,36.9
+2018,SH_PRV_SMOK,Romania,15+,,Both sexes,28.4
+2019,SH_PRV_SMOK,Romania,15+,,Both sexes,28.4
+2019,SH_PRV_SMOK,Romania,15+,,Female,20.2
+2019,SH_PRV_SMOK,Romania,15+,,Male,36.5
+2020,SH_PRV_SMOK,Romania,15+,,Both sexes,28.0
+2000,SH_PRV_SMOK,China,15+,,Female,3.2
+2000,SH_PRV_SMOK,China,15+,,Both sexes,26.7
+2005,SH_PRV_SMOK,China,15+,,Male,50.4
+2005,SH_PRV_SMOK,China,15+,,Female,2.7
+2005,SH_PRV_SMOK,China,15+,,Both sexes,26.6
+2010,SH_PRV_SMOK,China,15+,,Both sexes,26.2
+2010,SH_PRV_SMOK,China,15+,,Female,2.3
+2010,SH_PRV_SMOK,China,15+,,Male,50.0
+2015,SH_PRV_SMOK,China,15+,,Both sexes,25.9
+2015,SH_PRV_SMOK,China,15+,,Male,49.8
+2015,SH_PRV_SMOK,China,15+,,Female,2.0
+2018,SH_PRV_SMOK,China,15+,,Female,1.8
+2018,SH_PRV_SMOK,China,15+,,Both sexes,25.7
+2018,SH_PRV_SMOK,China,15+,,Male,49.4
+2019,SH_PRV_SMOK,China,15+,,Male,49.7
+2019,SH_PRV_SMOK,China,15+,,Female,1.7
+2019,SH_PRV_SMOK,China,15+,,Both sexes,25.7
+2020,SH_PRV_SMOK,China,15+,,Male,49.4
+2020,SH_PRV_SMOK,China,15+,,Female,1.7
+2020,SH_PRV_SMOK,China,15+,,Both sexes,25.6
+2000,SH_PRV_SMOK,Colombia,15+,,Female,8.1
+2000,SH_PRV_SMOK,Colombia,15+,,Both sexes,15.1
+2000,SH_PRV_SMOK,Colombia,15+,,Male,22.1
+2005,SH_PRV_SMOK,Colombia,15+,,Male,19.4
+2005,SH_PRV_SMOK,Colombia,15+,,Female,7.0
+2005,SH_PRV_SMOK,Colombia,15+,,Both sexes,13.2
+2010,SH_PRV_SMOK,Colombia,15+,,Male,16.6
+2010,SH_PRV_SMOK,Colombia,15+,,Female,6.1
+2010,SH_PRV_SMOK,Colombia,15+,,Both sexes,11.4
+2015,SH_PRV_SMOK,Colombia,15+,,Male,14.4
+2015,SH_PRV_SMOK,Colombia,15+,,Female,5.3
+2015,SH_PRV_SMOK,Colombia,15+,,Both sexes,9.9
+2018,SH_PRV_SMOK,Colombia,15+,,Both sexes,8.8
+2018,SH_PRV_SMOK,Colombia,15+,,Male,13.2
+2018,SH_PRV_SMOK,Colombia,15+,,Female,4.8
+2019,SH_PRV_SMOK,Colombia,15+,,Both sexes,8.8
+2019,SH_PRV_SMOK,Colombia,15+,,Female,4.7
+2019,SH_PRV_SMOK,Colombia,15+,,Male,12.8
+2020,SH_PRV_SMOK,Colombia,15+,,Male,12.4
+2020,SH_PRV_SMOK,Colombia,15+,,Both sexes,8.5
+2020,SH_PRV_SMOK,Colombia,15+,,Female,4.6
+2000,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,18.0
+2000,SH_PRV_SMOK,Costa Rica,15+,,Male,26.1
+2000,SH_PRV_SMOK,Costa Rica,15+,,Female,9.8
+2005,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,15.0
+2005,SH_PRV_SMOK,Costa Rica,15+,,Male,21.8
+2005,SH_PRV_SMOK,Costa Rica,15+,,Female,8.1
+2010,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,12.6
+2010,SH_PRV_SMOK,Costa Rica,15+,,Male,18.4
+2010,SH_PRV_SMOK,Costa Rica,15+,,Female,6.7
+2015,SH_PRV_SMOK,Costa Rica,15+,,Male,15.4
+2015,SH_PRV_SMOK,Costa Rica,15+,,Female,5.5
+2015,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,10.5
+2018,SH_PRV_SMOK,Costa Rica,15+,,Male,13.8
+2018,SH_PRV_SMOK,Costa Rica,15+,,Female,4.9
+2018,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,9.1
+2019,SH_PRV_SMOK,Costa Rica,15+,,Female,4.8
+2019,SH_PRV_SMOK,Costa Rica,15+,,Male,13.4
+2019,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,9.1
+2020,SH_PRV_SMOK,Costa Rica,15+,,Male,12.9
+2020,SH_PRV_SMOK,Costa Rica,15+,,Female,4.6
+2020,SH_PRV_SMOK,Costa Rica,15+,,Both sexes,8.8
+2000,SH_PRV_SMOK,Croatia,15+,,Male,41.7
+2000,SH_PRV_SMOK,Croatia,15+,,Female,27.1
+2000,SH_PRV_SMOK,Croatia,15+,,Both sexes,34.4
+2020,SH_PRV_SMOK,Romania,15+,,Male,35.9
+2020,SH_PRV_SMOK,Romania,15+,,Female,20.0
+2019,SH_PRV_SMOK,Uzbekistan,15+,,Male,34.5
+2020,SH_PRV_SMOK,Uzbekistan,15+,,Both sexes,17.6
+2020,SH_PRV_SMOK,Uzbekistan,15+,,Female,1.1
+2020,SH_PRV_SMOK,Uzbekistan,15+,,Male,34.0
+2020,SH_PRV_SMOK,Uzbekistan,15+,,Male,34.0

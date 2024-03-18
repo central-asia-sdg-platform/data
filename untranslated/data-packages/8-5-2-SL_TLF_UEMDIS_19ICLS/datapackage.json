@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_UEMDIS_19ICLS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Denmark",
+                "Estonia",
+                "Austria",
+                "Malta",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Finland",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "France",
+                "Armenia",
+                "New Zealand",
+                "Germany",
+                "Norway",
+                "Belgium",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Bulgaria",
+                "Greece",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Hungary",
+                "Iceland",
+                "Chile",
+                "Ireland",
+                "Croatia",
+                "Israel",
+                "Cyprus",
+                "Italy",
+                "Czechia",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PWD",
+                "_T",
+                "PD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "BOTHSEX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-2-SL_TLF_UEMDIS_19ICLS",
+  "title": "meta.name-8-5-2-SL_TLF_UEMDIS_19ICLS"
+}

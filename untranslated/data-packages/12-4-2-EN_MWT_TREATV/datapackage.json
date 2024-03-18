@@ -1,0 +1,114 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_MWT_TREATV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kyrgyzstan",
+                "Albania",
+                "Latvia",
+                "Liechtenstein",
+                "Azerbaijan",
+                "Austria",
+                "Lithuania",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "China",
+                "Luxembourg",
+                "Malta",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Arab Emirates",
+                "Türkiye",
+                "Colombia",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Italy",
+                "Kazakhstan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of waste treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LANDFIL",
+                "LANDFILCTL",
+                "OTHERWM",
+                "COMPOST",
+                "INCINRT",
+                "INCINRT_EGY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2-EN_MWT_TREATV",
+  "title": "meta.name-12-4-2-EN_MWT_TREATV"
+}

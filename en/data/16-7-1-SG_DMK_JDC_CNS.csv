@@ -1,0 +1,69 @@
+Year,SeriesCode,Country,Age,Disability status,Population Group,Sex,Type of occupation,Value
+2021,SG_DMK_JDC_CNS,Austria,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.73
+2022,SG_DMK_JDC_CNS,Austria,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.74
+2022,SG_DMK_JDC_CNS,Austria,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.17
+2021,SG_DMK_JDC_CNS,Bosnia and Herzegovina,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.17
+2020,SG_DMK_JDC_CNS,Croatia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.57
+2020,SG_DMK_JDC_CNS,Croatia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.74
+2021,SG_DMK_JDC_CNS,Croatia,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.01
+2021,SG_DMK_JDC_CNS,Croatia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.55
+2021,SG_DMK_JDC_CNS,Croatia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.65
+2020,SG_DMK_JDC_CNS,Cyprus,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.92
+2020,SG_DMK_JDC_CNS,Cyprus,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.75
+2021,SG_DMK_JDC_CNS,Cyprus,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.84
+2021,SG_DMK_JDC_CNS,Cyprus,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.43
+2021,SG_DMK_JDC_CNS,Cyprus,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.92
+2021,SG_DMK_JDC_CNS,Czechia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.46
+2022,SG_DMK_JDC_CNS,Czechia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.45
+2019,SG_DMK_JDC_CNS,Denmark,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.71
+2020,SG_DMK_JDC_CNS,Denmark,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.7
+2020,SG_DMK_JDC_CNS,Denmark,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.62
+2020,SG_DMK_JDC_CNS,Estonia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.24
+2020,SG_DMK_JDC_CNS,Estonia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.53
+2021,SG_DMK_JDC_CNS,Estonia,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.4
+2021,SG_DMK_JDC_CNS,Estonia,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.4
+2021,SG_DMK_JDC_CNS,Estonia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.53
+2021,SG_DMK_JDC_CNS,Estonia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.16
+2020,SG_DMK_JDC_CNS,Finland,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.4
+2020,SG_DMK_JDC_CNS,Finland,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.21
+2019,SG_DMK_JDC_CNS,Germany,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.69
+2021,SG_DMK_JDC_CNS,Israel,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.62
+2021,SG_DMK_JDC_CNS,Israel,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.0
+2022,SG_DMK_JDC_CNS,Israel,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,2.0
+2022,SG_DMK_JDC_CNS,Israel,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.8
+2022,SG_DMK_JDC_CNS,Israel,ALLAGE,Total or no breakdown,POP_A,Both sexes,JUDGES,0.25
+2022,SG_DMK_JDC_CNS,Israel,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,3.03
+2021,SG_DMK_JDC_CNS,Kazakhstan,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.94
+2021,SG_DMK_JDC_CNS,Kazakhstan,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.41
+2022,SG_DMK_JDC_CNS,Kazakhstan,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.43
+2022,SG_DMK_JDC_CNS,Kazakhstan,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.95
+2022,SG_DMK_JDC_CNS,Kazakhstan,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.1
+2022,SG_DMK_JDC_CNS,Kazakhstan,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.26
+2021,SG_DMK_JDC_CNS,Latvia,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.78
+2021,SG_DMK_JDC_CNS,Latvia,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.27
+2021,SG_DMK_JDC_CNS,Latvia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.72
+2021,SG_DMK_JDC_CNS,Latvia,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.3
+2020,SG_DMK_JDC_CNS,Liechtenstein,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.17
+2020,SG_DMK_JDC_CNS,Lithuania,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.87
+2021,SG_DMK_JDC_CNS,Lithuania,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.92
+2021,SG_DMK_JDC_CNS,Lithuania,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.05
+2019,SG_DMK_JDC_CNS,Mexico,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.69
+2020,SG_DMK_JDC_CNS,Mexico,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.61
+2020,SG_DMK_JDC_CNS,Mexico,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.21
+2019,SG_DMK_JDC_CNS,Moldova,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.47
+2019,SG_DMK_JDC_CNS,Moldova,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.0
+2021,SG_DMK_JDC_CNS,Moldova,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,2.02
+2021,SG_DMK_JDC_CNS,Moldova,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.38
+2021,SG_DMK_JDC_CNS,Moldova,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.05
+2018,SG_DMK_JDC_CNS,Poland,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.42
+2018,SG_DMK_JDC_CNS,Poland,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.68
+2020,SG_DMK_JDC_CNS,Poland,ALLAGE,Persons with disability,TOTAL,Both sexes,REGISTRARS,0.21
+2020,SG_DMK_JDC_CNS,Poland,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.41
+2020,SG_DMK_JDC_CNS,Poland,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,0.61
+2020,SG_DMK_JDC_CNS,Poland,<45Y,Total or no breakdown,TOTAL,Both sexes,JUDGES,0.12
+2020,SG_DMK_JDC_CNS,Poland,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.75
+2020,SG_DMK_JDC_CNS,Slovakia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.93
+2021,SG_DMK_JDC_CNS,Slovakia,ALLAGE,Total or no breakdown,TOTAL,Female,REGISTRARS,1.9
+2021,SG_DMK_JDC_CNS,Slovakia,<45Y,Total or no breakdown,TOTAL,Both sexes,REGISTRARS,1.16
+2022,SG_DMK_JDC_CNS,Spain,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.56
+2022,SG_DMK_JDC_CNS,Spain,ALLAGE,Total or no breakdown,TOTAL,Female,JUDGES,1.56

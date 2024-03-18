@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GF_COM_PPPI",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mexico",
+                "Republic of Moldova",
+                "Albania",
+                "Montenegro",
+                "Azerbaijan",
+                "Armenia",
+                "Romania",
+                "Serbia",
+                "Viet Nam",
+                "Таджикистан",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "Узбекистан",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-17-1-GF_COM_PPPI",
+  "title": "meta.name-17-17-1-GF_COM_PPPI"
+}

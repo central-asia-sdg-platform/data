@@ -1,0 +1,122 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_ACS_BSRVH2O",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Belarus",
+                "Albania",
+                "Estonia",
+                "Azerbaijan",
+                "Australia",
+                "Israel",
+                "Canada",
+                "Austria",
+                "Italy",
+                "Armenia",
+                "Japan",
+                "Chile",
+                "Kazakhstan",
+                "Belgium",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Bosnia and Herzegovina",
+                "Croatia",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Cyprus",
+                "Latvia",
+                "Czechia",
+                "Denmark",
+                "Netherlands (Kingdom of the)",
+                "Liechtenstein",
+                "Serbia",
+                "New Zealand",
+                "Norway",
+                "Lithuania",
+                "Slovakia",
+                "Poland",
+                "Portugal",
+                "Viet Nam",
+                "Romania",
+                "Slovenia",
+                "Luxembourg",
+                "Spain",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Malta",
+                "United Arab Emirates",
+                "Türkiye",
+                "Mexico",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Republic of Moldova",
+                "Montenegro",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "URBAN",
+                "RURAL",
+                "ALLAREA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-4-1-SP_ACS_BSRVH2O",
+  "title": "meta.name-1-4-1-SP_ACS_BSRVH2O"
+}

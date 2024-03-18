@@ -1,1 +1,1078 @@
-Year,Value
+Year,SeriesCode,Country,Age,Freq,Location,Sex,Value
+2017,AG_PRD_FIESMS,Canada,15+,,All areas,Female,5.7
+2015,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,38.8
+2015,AG_PRD_FIESMS,Albania,15+,,All areas,Male,35.2
+2015,AG_PRD_FIESMS,Albania,15+,,All areas,Female,42.3
+2016,AG_PRD_FIESMS,Albania,15+,,All areas,Female,42.5
+2016,AG_PRD_FIESMS,Albania,15+,,All areas,Male,35.6
+2016,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,39.0
+2017,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,38.6
+2017,AG_PRD_FIESMS,Albania,15+,,All areas,Male,34.4
+2017,AG_PRD_FIESMS,Albania,15+,,All areas,Female,42.9
+2017,AG_PRD_FIESMS,Canada,ALLAGE,,All areas,Both sexes,5.0
+2017,AG_PRD_FIESMS,Canada,15+,,All areas,Male,4.4
+2018,AG_PRD_FIESMS,Canada,15+,,All areas,Male,4.9
+2018,AG_PRD_FIESMS,Canada,15+,,All areas,Female,5.2
+2018,AG_PRD_FIESMS,Canada,ALLAGE,,All areas,Both sexes,5.1
+2019,AG_PRD_FIESMS,Canada,ALLAGE,,All areas,Both sexes,5.8
+2019,AG_PRD_FIESMS,Canada,15+,,All areas,Female,6.0
+2019,AG_PRD_FIESMS,Canada,15+,,All areas,Male,5.5
+2020,AG_PRD_FIESMS,Canada,ALLAGE,,All areas,Both sexes,6.5
+2015,AG_PRD_FIESMS,Malta,15+,,All areas,Male,4.8
+2015,AG_PRD_FIESMS,Malta,15+,,All areas,Female,6.9
+2015,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,5.8
+2016,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,5.6
+2016,AG_PRD_FIESMS,Malta,15+,,All areas,Female,6.6
+2016,AG_PRD_FIESMS,Malta,15+,,All areas,Male,4.6
+2017,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,5.1
+2017,AG_PRD_FIESMS,Malta,15+,,All areas,Female,6.6
+2017,AG_PRD_FIESMS,Malta,15+,,All areas,Male,3.5
+2018,AG_PRD_FIESMS,Albania,15+,,All areas,Female,40.7
+2018,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,37.1
+2018,AG_PRD_FIESMS,Albania,15+,,All areas,Male,33.6
+2019,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,33.8
+2019,AG_PRD_FIESMS,Albania,15+,,All areas,Male,30.2
+2019,AG_PRD_FIESMS,Albania,15+,,All areas,Female,37.3
+2020,AG_PRD_FIESMS,Albania,15+,,All areas,Male,27.5
+2020,AG_PRD_FIESMS,Albania,15+,,All areas,Female,34.3
+2020,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,30.9
+2020,AG_PRD_FIESMS,Canada,15+,,All areas,Male,5.7
+2020,AG_PRD_FIESMS,Canada,15+,,All areas,Female,7.3
+2021,AG_PRD_FIESMS,Canada,15+,,All areas,Male,6.2
+2021,AG_PRD_FIESMS,Canada,15+,,All areas,Female,9.2
+2021,AG_PRD_FIESMS,Canada,ALLAGE,,All areas,Both sexes,7.7
+2015,AG_PRD_FIESMS,Chile,15+,,All areas,Female,12.5
+2015,AG_PRD_FIESMS,Chile,15+,,All areas,Male,9.1
+2015,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,10.8
+2016,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,12.2
+2016,AG_PRD_FIESMS,Chile,15+,,All areas,Female,13.5
+2016,AG_PRD_FIESMS,Chile,15+,,All areas,Male,10.8
+2017,AG_PRD_FIESMS,Chile,15+,,All areas,Female,14.9
+2017,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,13.7
+2017,AG_PRD_FIESMS,Chile,15+,,All areas,Male,12.4
+2018,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,4.4
+2018,AG_PRD_FIESMS,Malta,15+,,All areas,Male,2.8
+2018,AG_PRD_FIESMS,Malta,15+,,All areas,Female,5.9
+2019,AG_PRD_FIESMS,Malta,15+,,All areas,Female,5.7
+2019,AG_PRD_FIESMS,Malta,15+,,All areas,Male,2.9
+2019,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,4.3
+2020,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,5.2
+2020,AG_PRD_FIESMS,Malta,15+,,All areas,Male,4.0
+2020,AG_PRD_FIESMS,Malta,15+,,All areas,Female,6.4
+2018,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,15.3
+2018,AG_PRD_FIESMS,Chile,15+,,All areas,Male,13.5
+2018,AG_PRD_FIESMS,Chile,15+,,All areas,Female,17.1
+2019,AG_PRD_FIESMS,Chile,15+,,All areas,Male,16.1
+2019,AG_PRD_FIESMS,Chile,15+,,All areas,Female,18.5
+2019,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,17.3
+2020,AG_PRD_FIESMS,Chile,15+,,All areas,Male,16.0
+2020,AG_PRD_FIESMS,Chile,15+,,All areas,Female,18.8
+2021,AG_PRD_FIESMS,Malta,15+,,All areas,Male,5.9
+2021,AG_PRD_FIESMS,Malta,ALLAGE,,All areas,Both sexes,7.2
+2021,AG_PRD_FIESMS,Malta,15+,,All areas,Female,8.5
+2015,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,26.8
+2015,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,24.4
+2015,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,25.6
+2021,AG_PRD_FIESMS,Albania,15+,,All areas,Female,34.0
+2021,AG_PRD_FIESMS,Albania,ALLAGE,,All areas,Both sexes,30.2
+2021,AG_PRD_FIESMS,Albania,15+,,All areas,Male,26.3
+2015,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,5.9
+2015,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,6.2
+2015,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,5.5
+2016,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,24.3
+2016,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,22.6
+2016,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,25.9
+2017,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,21.0
+2017,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,25.0
+2017,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,23.0
+2018,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,23.0
+2018,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,25.7
+2018,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,20.3
+2020,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,17.4
+2021,AG_PRD_FIESMS,Chile,15+,,All areas,Female,20.1
+2021,AG_PRD_FIESMS,Chile,ALLAGE,,All areas,Both sexes,18.1
+2021,AG_PRD_FIESMS,Chile,15+,,All areas,Male,16.2
+2019,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,28.6
+2019,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,24.6
+2019,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,20.5
+2020,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,26.1
+2020,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,31.4
+2020,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,20.8
+2021,AG_PRD_FIESMS,Mexico,15+,,All areas,Male,22.1
+2021,AG_PRD_FIESMS,Mexico,15+,,All areas,Female,33.2
+2021,AG_PRD_FIESMS,Mexico,ALLAGE,,All areas,Both sexes,27.6
+2016,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,7.5
+2016,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,7.8
+2016,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,7.7
+2017,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,8.5
+2017,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,8.6
+2017,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,8.5
+2018,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,9.7
+2018,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,9.6
+2018,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,9.6
+2015,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,19.3
+2015,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,19.2
+2015,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,19.3
+2016,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,20.5
+2016,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,20.9
+2016,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,21.3
+2019,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,8.8
+2019,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,8.9
+2019,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,8.8
+2020,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,9.5
+2020,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,9.6
+2020,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,9.4
+2021,AG_PRD_FIESMS,Azerbaijan,ALLAGE,,All areas,Both sexes,10.1
+2021,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Female,10.5
+2021,AG_PRD_FIESMS,Azerbaijan,15+,,All areas,Male,9.7
+2017,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,24.6
+2017,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,23.7
+2017,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,25.4
+2018,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,30.6
+2018,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,27.5
+2018,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,24.3
+2019,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,24.2
+2019,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,27.2
+2019,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,30.1
+2015,AG_PRD_FIESMS,Australia,15+,,All areas,Female,12.3
+2015,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,10.8
+2015,AG_PRD_FIESMS,Australia,15+,,All areas,Male,9.2
+2016,AG_PRD_FIESMS,Australia,15+,,All areas,Female,13.0
+2016,AG_PRD_FIESMS,Australia,15+,,All areas,Male,10.6
+2016,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,11.8
+2020,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,21.2
+2020,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,28.7
+2020,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,24.9
+2021,AG_PRD_FIESMS,Moldova,ALLAGE,,All areas,Both sexes,23.5
+2021,AG_PRD_FIESMS,Moldova,15+,,All areas,Male,20.4
+2021,AG_PRD_FIESMS,Moldova,15+,,All areas,Female,26.6
+2015,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,12.2
+2015,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,13.1
+2015,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,12.6
+2016,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,11.3
+2016,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,12.2
+2016,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,10.3
+2017,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,10.4
+2017,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,13.6
+2017,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,12.0
+2017,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,12.7
+2017,AG_PRD_FIESMS,Australia,15+,,All areas,Male,11.5
+2017,AG_PRD_FIESMS,Australia,15+,,All areas,Female,13.9
+2018,AG_PRD_FIESMS,Australia,15+,,All areas,Female,13.6
+2018,AG_PRD_FIESMS,Australia,15+,,All areas,Male,13.0
+2018,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,13.3
+2019,AG_PRD_FIESMS,Australia,15+,,All areas,Female,12.8
+2019,AG_PRD_FIESMS,Australia,15+,,All areas,Male,11.8
+2019,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,12.3
+2018,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,12.9
+2018,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,11.9
+2018,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,13.8
+2019,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,13.3
+2019,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,13.6
+2019,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,13.5
+2020,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,14.0
+2020,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,14.8
+2020,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,13.3
+2020,AG_PRD_FIESMS,Australia,15+,,All areas,Male,11.9
+2020,AG_PRD_FIESMS,Australia,15+,,All areas,Female,12.0
+2020,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,11.9
+2021,AG_PRD_FIESMS,Australia,ALLAGE,,All areas,Both sexes,11.4
+2021,AG_PRD_FIESMS,Australia,15+,,All areas,Female,11.3
+2021,AG_PRD_FIESMS,Australia,15+,,All areas,Male,11.6
+2021,AG_PRD_FIESMS,Montenegro,15+,,All areas,Female,12.5
+2021,AG_PRD_FIESMS,Montenegro,15+,,All areas,Male,13.2
+2021,AG_PRD_FIESMS,Montenegro,ALLAGE,,All areas,Both sexes,12.9
+2015,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,5.7
+2015,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,5.7
+2015,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,5.8
+2015,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,5.5
+2015,AG_PRD_FIESMS,Austria,15+,,All areas,Male,4.5
+2015,AG_PRD_FIESMS,Austria,15+,,All areas,Female,6.6
+2016,AG_PRD_FIESMS,Austria,15+,,All areas,Female,5.9
+2016,AG_PRD_FIESMS,Austria,15+,,All areas,Male,4.4
+2016,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,5.2
+2017,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,4.4
+2017,AG_PRD_FIESMS,Austria,15+,,All areas,Female,5.1
+2017,AG_PRD_FIESMS,Austria,15+,,All areas,Male,3.8
+2015,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,11.5
+2015,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,12.9
+2015,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,12.2
+2016,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,11.6
+2016,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,6.2
+2016,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,4.9
+2016,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,5.5
+2017,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,4.0
+2017,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,5.1
+2017,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,6.2
+2018,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,5.1
+2018,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,3.9
+2018,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,6.2
+2019,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,5.0
+2019,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,4.3
+2019,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,4.6
+2020,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,4.4
+2020,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,4.4
+2020,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,4.4
+2021,AG_PRD_FIESMS,Netherlands (Kingdom of the),ALLAGE,,All areas,Both sexes,4.5
+2018,AG_PRD_FIESMS,Austria,15+,,All areas,Male,3.0
+2018,AG_PRD_FIESMS,Austria,15+,,All areas,Female,4.1
+2018,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,3.6
+2019,AG_PRD_FIESMS,Austria,15+,,All areas,Female,3.5
+2019,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,3.0
+2019,AG_PRD_FIESMS,Austria,15+,,All areas,Male,2.6
+2020,AG_PRD_FIESMS,Austria,15+,,All areas,Female,3.6
+2020,AG_PRD_FIESMS,Austria,15+,,All areas,Male,3.1
+2020,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,3.3
+2016,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,14.3
+2016,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,12.9
+2017,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,13.7
+2017,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,15.4
+2017,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,12.0
+2018,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,12.4
+2018,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,16.6
+2018,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,14.5
+2021,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Male,4.1
+2021,AG_PRD_FIESMS,Netherlands (Kingdom of the),15+,,All areas,Female,4.9
+2015,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,7.7
+2015,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,12.3
+2015,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,10.0
+2016,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,11.3
+2016,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,13.7
+2016,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,8.9
+2017,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,15.1
+2017,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,11.6
+2017,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,13.3
+2018,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,13.9
+2018,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,12.3
+2018,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,15.5
+2019,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,12.1
+2019,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,15.3
+2019,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,17.7
+2019,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,13.0
+2020,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,15.9
+2020,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,18.4
+2020,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,13.4
+2021,AG_PRD_FIESMS,Costa Rica,ALLAGE,,All areas,Both sexes,16.2
+2021,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Female,18.4
+2019,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,14.0
+2019,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,15.8
+2020,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,14.5
+2020,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,14.3
+2020,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,14.8
+2021,AG_PRD_FIESMS,New Zealand,15+,,All areas,Female,14.7
+2021,AG_PRD_FIESMS,New Zealand,15+,,All areas,Male,15.6
+2021,AG_PRD_FIESMS,New Zealand,ALLAGE,,All areas,Both sexes,15.1
+2021,AG_PRD_FIESMS,Costa Rica,15+,,All areas,Male,14.0
+2015,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,6.7
+2015,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,6.5
+2015,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,6.3
+2016,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,6.0
+2016,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,6.9
+2021,AG_PRD_FIESMS,Austria,ALLAGE,,All areas,Both sexes,4.3
+2021,AG_PRD_FIESMS,Austria,15+,,All areas,Female,4.2
+2021,AG_PRD_FIESMS,Austria,15+,,All areas,Male,4.5
+2017,AG_PRD_FIESMS,Armenia,15+,,All areas,Female,18.6
+2017,AG_PRD_FIESMS,Armenia,15+,,All areas,Male,15.6
+2017,AG_PRD_FIESMS,Armenia,ALLAGE,,All areas,Both sexes,17.1
+2018,AG_PRD_FIESMS,Armenia,ALLAGE,,All areas,Both sexes,14.8
+2018,AG_PRD_FIESMS,Armenia,15+,,All areas,Male,13.3
+2018,AG_PRD_FIESMS,Armenia,15+,,All areas,Female,16.3
+2019,AG_PRD_FIESMS,Armenia,ALLAGE,,All areas,Both sexes,11.7
+2016,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,7.8
+2017,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,8.6
+2017,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,7.8
+2017,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,6.9
+2018,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,10.9
+2018,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,9.1
+2018,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,10.0
+2019,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,11.0
+2019,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,12.9
+2019,AG_PRD_FIESMS,Armenia,15+,,All areas,Male,10.3
+2019,AG_PRD_FIESMS,Armenia,15+,,All areas,Female,13.2
+2020,AG_PRD_FIESMS,Armenia,ALLAGE,,All areas,Both sexes,8.3
+2020,AG_PRD_FIESMS,Armenia,15+,,All areas,Female,9.1
+2020,AG_PRD_FIESMS,Armenia,15+,,All areas,Male,7.5
+2021,AG_PRD_FIESMS,Armenia,15+,,All areas,Male,6.5
+2021,AG_PRD_FIESMS,Armenia,ALLAGE,,All areas,Both sexes,7.1
+2021,AG_PRD_FIESMS,Armenia,15+,,All areas,Female,7.8
+2019,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,9.2
+2020,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,13.9
+2020,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,8.9
+2020,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,11.4
+2021,AG_PRD_FIESMS,Croatia,ALLAGE,,All areas,Both sexes,9.7
+2021,AG_PRD_FIESMS,Croatia,15+,,All areas,Female,11.8
+2021,AG_PRD_FIESMS,Croatia,15+,,All areas,Male,7.6
+2015,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.6
+2015,AG_PRD_FIESMS,Norway,15+,,All areas,Female,4.9
+2015,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,4.8
+2016,AG_PRD_FIESMS,Norway,15+,,All areas,Female,5.4
+2016,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,5.0
+2016,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.5
+2017,AG_PRD_FIESMS,Norway,15+,,All areas,Female,5.3
+2017,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.4
+2017,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,4.8
+2018,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,4.8
+2018,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.1
+2018,AG_PRD_FIESMS,Norway,15+,,All areas,Female,5.5
+2019,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.3
+2019,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,4.1
+2019,AG_PRD_FIESMS,Norway,15+,,All areas,Female,3.9
+2020,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,4.3
+2020,AG_PRD_FIESMS,Norway,15+,,All areas,Male,4.6
+2020,AG_PRD_FIESMS,Norway,15+,,All areas,Female,4.1
+2021,AG_PRD_FIESMS,Norway,15+,,All areas,Female,5.0
+2021,AG_PRD_FIESMS,Norway,15+,,All areas,Male,5.4
+2021,AG_PRD_FIESMS,Norway,ALLAGE,,All areas,Both sexes,5.2
+2015,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,8.9
+2019,AG_PRD_FIESMS,Belgium,ALLAGE,,All areas,Both sexes,3.7
+2019,AG_PRD_FIESMS,Belgium,15+,,All areas,Female,3.1
+2019,AG_PRD_FIESMS,Belgium,15+,,All areas,Male,4.4
+2020,AG_PRD_FIESMS,Belgium,15+,,All areas,Female,4.2
+2020,AG_PRD_FIESMS,Belgium,15+,,All areas,Male,5.4
+2020,AG_PRD_FIESMS,Belgium,ALLAGE,,All areas,Both sexes,4.8
+2015,AG_PRD_FIESMS,Poland,15+,,All areas,Male,7.4
+2015,AG_PRD_FIESMS,Poland,15+,,All areas,Female,10.3
+2016,AG_PRD_FIESMS,Poland,15+,,All areas,Female,7.6
+2016,AG_PRD_FIESMS,Poland,15+,,All areas,Male,4.9
+2016,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,6.3
+2017,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,5.3
+2017,AG_PRD_FIESMS,Poland,15+,,All areas,Male,4.0
+2017,AG_PRD_FIESMS,Poland,15+,,All areas,Female,6.5
+2018,AG_PRD_FIESMS,Poland,15+,,All areas,Female,5.2
+2018,AG_PRD_FIESMS,Poland,15+,,All areas,Male,3.3
+2018,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,4.3
+2019,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,5.8
+2019,AG_PRD_FIESMS,Poland,15+,,All areas,Female,7.3
+2019,AG_PRD_FIESMS,Poland,15+,,All areas,Male,4.3
+2020,AG_PRD_FIESMS,Poland,15+,,All areas,Male,5.7
+2020,AG_PRD_FIESMS,Poland,15+,,All areas,Female,9.1
+2020,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,7.4
+2021,AG_PRD_FIESMS,Poland,15+,,All areas,Male,5.9
+2021,AG_PRD_FIESMS,Belgium,ALLAGE,,All areas,Both sexes,5.8
+2021,AG_PRD_FIESMS,Belgium,15+,,All areas,Male,5.9
+2021,AG_PRD_FIESMS,Belgium,15+,,All areas,Female,5.7
+2015,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,9.6
+2015,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,9.4
+2015,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,9.8
+2015,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,6.4
+2015,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,5.3
+2015,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,5.8
+2016,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,4.4
+2016,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,5.7
+2021,AG_PRD_FIESMS,Poland,ALLAGE,,All areas,Both sexes,7.5
+2021,AG_PRD_FIESMS,Poland,15+,,All areas,Female,9.1
+2015,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,17.1
+2015,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,14.7
+2015,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,12.3
+2016,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,11.3
+2016,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,5.1
+2017,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,3.9
+2017,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,2.9
+2017,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,4.9
+2018,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,3.8
+2018,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,2.5
+2018,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,5.1
+2019,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,3.4
+2019,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,4.9
+2019,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,4.2
+2020,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,5.8
+2020,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,5.4
+2020,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,6.2
+2021,AG_PRD_FIESMS,Czechia,15+,,All areas,Female,8.6
+2021,AG_PRD_FIESMS,Czechia,ALLAGE,,All areas,Both sexes,8.5
+2021,AG_PRD_FIESMS,Czechia,15+,,All areas,Male,8.5
+2016,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,15.2
+2016,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,13.2
+2017,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,11.6
+2017,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,14.1
+2017,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,9.0
+2018,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,7.6
+2018,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,13.8
+2018,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,10.7
+2019,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,13.4
+2016,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,10.3
+2016,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,9.3
+2016,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,11.2
+2017,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,8.0
+2017,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,9.4
+2017,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,8.7
+2018,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,9.9
+2018,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,8.4
+2015,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,6.5
+2015,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,5.2
+2015,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.9
+2016,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,5.0
+2016,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.8
+2016,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,6.6
+2017,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.4
+2017,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,6.7
+2017,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,4.1
+2018,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,4.4
+2018,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,6.0
+2018,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.2
+2019,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,5.5
+2019,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.0
+2019,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,4.5
+2020,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,4.9
+2020,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,6.1
+2018,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,9.2
+2019,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,10.4
+2019,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,10.0
+2019,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,9.7
+2020,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,11.2
+2020,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,13.9
+2020,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,12.6
+2021,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Female,15.5
+2020,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,5.5
+2021,AG_PRD_FIESMS,Denmark,ALLAGE,,All areas,Both sexes,6.8
+2021,AG_PRD_FIESMS,Denmark,15+,,All areas,Female,7.3
+2021,AG_PRD_FIESMS,Denmark,15+,,All areas,Male,6.2
+2015,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,10.3
+2015,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,8.6
+2021,AG_PRD_FIESMS,Bosnia and Herzegovina,15+,,All areas,Male,11.3
+2021,AG_PRD_FIESMS,Bosnia and Herzegovina,ALLAGE,,All areas,Both sexes,13.4
+2015,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,14.9
+2015,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,13.7
+2015,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,16.1
+2016,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,12.7
+2019,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,9.5
+2019,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,11.5
+2020,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,10.2
+2020,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,13.0
+2020,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,11.6
+2021,AG_PRD_FIESMS,Portugal,ALLAGE,,All areas,Both sexes,12.4
+2021,AG_PRD_FIESMS,Portugal,15+,,All areas,Female,13.2
+2021,AG_PRD_FIESMS,Portugal,15+,,All areas,Male,11.7
+2015,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,9.5
+2016,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,7.7
+2016,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,8.3
+2016,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,8.8
+2017,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,8.2
+2017,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,8.3
+2017,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,8.2
+2018,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,7.3
+2018,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,7.5
+2018,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,7.4
+2019,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,7.9
+2019,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,8.0
+2019,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,7.8
+2020,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,7.4
+2020,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,7.9
+2020,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,8.3
+2021,AG_PRD_FIESMS,Estonia,ALLAGE,,All areas,Both sexes,8.5
+2021,AG_PRD_FIESMS,Estonia,15+,,All areas,Male,7.8
+2015,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,19.3
+2015,AG_PRD_FIESMS,Romania,15+,,All areas,Female,22.0
+2015,AG_PRD_FIESMS,Romania,15+,,All areas,Male,16.5
+2016,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,16.6
+2016,AG_PRD_FIESMS,Romania,15+,,All areas,Male,14.3
+2016,AG_PRD_FIESMS,Romania,15+,,All areas,Female,18.8
+2017,AG_PRD_FIESMS,Romania,15+,,All areas,Female,16.7
+2021,AG_PRD_FIESMS,Estonia,15+,,All areas,Female,9.3
+2015,AG_PRD_FIESMS,Finland,15+,,All areas,Male,8.4
+2015,AG_PRD_FIESMS,Finland,15+,,All areas,Female,10.2
+2015,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,9.3
+2016,AG_PRD_FIESMS,Finland,15+,,All areas,Male,7.4
+2016,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,8.4
+2016,AG_PRD_FIESMS,Finland,15+,,All areas,Female,9.5
+2017,AG_PRD_FIESMS,Finland,15+,,All areas,Female,8.8
+2017,AG_PRD_FIESMS,Finland,15+,,All areas,Male,7.9
+2017,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,8.3
+2018,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,7.7
+2018,AG_PRD_FIESMS,Finland,15+,,All areas,Male,6.9
+2018,AG_PRD_FIESMS,Finland,15+,,All areas,Female,8.5
+2019,AG_PRD_FIESMS,Finland,15+,,All areas,Male,7.2
+2019,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,8.0
+2019,AG_PRD_FIESMS,Finland,15+,,All areas,Female,8.7
+2020,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,8.8
+2020,AG_PRD_FIESMS,Finland,15+,,All areas,Male,7.2
+2020,AG_PRD_FIESMS,Finland,15+,,All areas,Female,10.5
+2021,AG_PRD_FIESMS,Finland,ALLAGE,,All areas,Both sexes,10.5
+2021,AG_PRD_FIESMS,Finland,15+,,All areas,Male,8.1
+2021,AG_PRD_FIESMS,Finland,15+,,All areas,Female,12.8
+2016,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,13.6
+2016,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,14.4
+2017,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,13.5
+2017,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,12.0
+2017,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,10.6
+2018,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,12.5
+2018,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,10.7
+2018,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,14.3
+2019,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,13.2
+2015,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,6.8
+2015,AG_PRD_FIESMS,France,15+,,All areas,Female,7.1
+2015,AG_PRD_FIESMS,France,15+,,All areas,Male,6.5
+2016,AG_PRD_FIESMS,France,15+,,All areas,Male,6.5
+2016,AG_PRD_FIESMS,France,15+,,All areas,Female,6.2
+2016,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,6.3
+2017,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,6.3
+2017,AG_PRD_FIESMS,France,15+,,All areas,Male,7.1
+2017,AG_PRD_FIESMS,Romania,15+,,All areas,Male,12.7
+2017,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,14.7
+2018,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,14.5
+2018,AG_PRD_FIESMS,Romania,15+,,All areas,Male,12.9
+2018,AG_PRD_FIESMS,Romania,15+,,All areas,Female,16.0
+2019,AG_PRD_FIESMS,Romania,15+,,All areas,Female,15.7
+2019,AG_PRD_FIESMS,Romania,15+,,All areas,Male,12.1
+2019,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,13.9
+2020,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,13.4
+2017,AG_PRD_FIESMS,France,15+,,All areas,Female,5.6
+2018,AG_PRD_FIESMS,France,15+,,All areas,Female,5.6
+2018,AG_PRD_FIESMS,France,15+,,All areas,Male,6.4
+2018,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,6.0
+2019,AG_PRD_FIESMS,France,15+,,All areas,Male,6.4
+2019,AG_PRD_FIESMS,France,15+,,All areas,Female,5.1
+2019,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,5.8
+2020,AG_PRD_FIESMS,France,15+,,All areas,Male,6.3
+2020,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,5.9
+2020,AG_PRD_FIESMS,France,15+,,All areas,Female,5.5
+2021,AG_PRD_FIESMS,France,ALLAGE,,All areas,Both sexes,6.6
+2021,AG_PRD_FIESMS,France,15+,,All areas,Female,7.0
+2021,AG_PRD_FIESMS,France,15+,,All areas,Male,6.2
+2015,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,30.4
+2015,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,33.2
+2015,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,31.8
+2016,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,33.8
+2016,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,31.6
+2016,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,36.0
+2017,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,35.5
+2017,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,36.6
+2017,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,34.4
+2018,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,38.3
+2018,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,36.1
+2019,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,12.4
+2019,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,13.9
+2020,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,17.1
+2020,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,13.9
+2020,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,15.5
+2021,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Female,17.7
+2021,AG_PRD_FIESMS,Bulgaria,15+,,All areas,Male,13.8
+2021,AG_PRD_FIESMS,Bulgaria,ALLAGE,,All areas,Both sexes,15.8
+2020,AG_PRD_FIESMS,Romania,15+,,All areas,Female,15.1
+2020,AG_PRD_FIESMS,Romania,15+,,All areas,Male,11.8
+2021,AG_PRD_FIESMS,Romania,15+,,All areas,Male,13.5
+2021,AG_PRD_FIESMS,Romania,ALLAGE,,All areas,Both sexes,16.3
+2021,AG_PRD_FIESMS,Romania,15+,,All areas,Female,19.1
+2015,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,11.1
+2015,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,11.7
+2015,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,11.4
+2016,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,12.8
+2016,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,13.9
+2016,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,11.6
+2017,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,14.6
+2017,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,10.4
+2017,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,12.5
+2018,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,13.5
+2018,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,40.4
+2019,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,39.7
+2019,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,40.9
+2019,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,38.5
+2020,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,41.8
+2020,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,35.8
+2020,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,38.8
+2021,AG_PRD_FIESMS,Georgia,ALLAGE,,All areas,Both sexes,36.5
+2021,AG_PRD_FIESMS,Georgia,15+,,All areas,Female,38.7
+2018,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,12.5
+2018,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,11.4
+2019,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,12.0
+2019,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,12.1
+2019,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,12.0
+2020,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,14.1
+2020,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,14.3
+2020,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,13.9
+2021,AG_PRD_FIESMS,Serbia,15+,,All areas,Female,15.1
+2021,AG_PRD_FIESMS,Georgia,15+,,All areas,Male,34.4
+2015,AG_PRD_FIESMS,Germany,15+,,All areas,Male,3.4
+2015,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,4.1
+2015,AG_PRD_FIESMS,Germany,15+,,All areas,Female,4.7
+2016,AG_PRD_FIESMS,Germany,15+,,All areas,Male,3.8
+2016,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.8
+2016,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.7
+2017,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.6
+2017,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.1
+2017,AG_PRD_FIESMS,Germany,15+,,All areas,Male,4.1
+2018,AG_PRD_FIESMS,Germany,15+,,All areas,Male,4.1
+2018,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.0
+2018,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.5
+2019,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.4
+2019,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.1
+2019,AG_PRD_FIESMS,Germany,15+,,All areas,Male,3.7
+2020,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.3
+2020,AG_PRD_FIESMS,Germany,15+,,All areas,Male,3.6
+2020,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.5
+2021,AG_PRD_FIESMS,Germany,ALLAGE,,All areas,Both sexes,3.8
+2021,AG_PRD_FIESMS,Germany,15+,,All areas,Male,4.0
+2021,AG_PRD_FIESMS,Germany,15+,,All areas,Female,3.7
+2015,AG_PRD_FIESMS,Greece,15+,,All areas,Male,15.9
+2015,AG_PRD_FIESMS,Greece,15+,,All areas,Female,15.7
+2015,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,15.8
+2016,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,16.4
+2016,AG_PRD_FIESMS,Greece,15+,,All areas,Female,16.3
+2016,AG_PRD_FIESMS,Greece,15+,,All areas,Male,16.5
+2017,AG_PRD_FIESMS,Greece,15+,,All areas,Male,17.0
+2017,AG_PRD_FIESMS,Greece,15+,,All areas,Female,16.2
+2021,AG_PRD_FIESMS,Serbia,15+,,All areas,Male,14.6
+2021,AG_PRD_FIESMS,Serbia,ALLAGE,,All areas,Both sexes,14.8
+2015,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,6.4
+2015,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,6.1
+2015,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,6.2
+2016,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,6.3
+2017,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,16.6
+2018,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,13.3
+2018,AG_PRD_FIESMS,Greece,15+,,All areas,Female,14.3
+2018,AG_PRD_FIESMS,Greece,15+,,All areas,Male,12.2
+2019,AG_PRD_FIESMS,Greece,15+,,All areas,Male,7.6
+2019,AG_PRD_FIESMS,Greece,15+,,All areas,Female,9.7
+2019,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,8.6
+2020,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,6.8
+2020,AG_PRD_FIESMS,Greece,15+,,All areas,Female,7.6
+2016,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,4.4
+2016,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,5.3
+2017,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,6.1
+2017,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,4.0
+2017,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,5.0
+2018,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,5.0
+2018,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,4.8
+2018,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,5.2
+2019,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,6.3
+2020,AG_PRD_FIESMS,Greece,15+,,All areas,Male,5.9
+2021,AG_PRD_FIESMS,Greece,15+,,All areas,Female,6.8
+2021,AG_PRD_FIESMS,Greece,15+,,All areas,Male,5.8
+2021,AG_PRD_FIESMS,Greece,ALLAGE,,All areas,Both sexes,6.3
+2015,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,11.3
+2015,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,9.5
+2015,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,13.1
+2016,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,8.0
+2016,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,10.8
+2016,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,9.4
+2017,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,7.3
+2017,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,10.4
+2017,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,8.8
+2018,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,6.9
+2018,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,8.1
+2019,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,5.7
+2019,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,6.0
+2020,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,7.7
+2020,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,6.8
+2020,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,8.6
+2021,AG_PRD_FIESMS,Slovakia,15+,,All areas,Female,9.8
+2021,AG_PRD_FIESMS,Slovakia,15+,,All areas,Male,6.7
+2021,AG_PRD_FIESMS,Slovakia,ALLAGE,,All areas,Both sexes,8.3
+2018,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,5.7
+2019,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,7.2
+2019,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,8.6
+2019,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,10.0
+2020,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,10.6
+2020,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,11.9
+2020,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,9.3
+2021,AG_PRD_FIESMS,Hungary,15+,,All areas,Female,14.1
+2021,AG_PRD_FIESMS,Hungary,ALLAGE,,All areas,Both sexes,12.6
+2021,AG_PRD_FIESMS,Hungary,15+,,All areas,Male,11.1
+2015,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.3
+2015,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,7.5
+2015,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,6.4
+2016,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,7.2
+2016,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,8.7
+2016,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.7
+2017,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,8.1
+2017,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.5
+2017,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,6.8
+2018,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,7.2
+2018,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.7
+2018,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,8.7
+2019,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,7.3
+2019,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,6.0
+2019,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,6.6
+2020,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,6.3
+2020,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.9
+2020,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,6.8
+2021,AG_PRD_FIESMS,Iceland,15+,,All areas,Female,6.5
+2021,AG_PRD_FIESMS,Iceland,15+,,All areas,Male,5.8
+2021,AG_PRD_FIESMS,Iceland,ALLAGE,,All areas,Both sexes,6.1
+2017,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Female,6.8
+2017,AG_PRD_FIESMS,Viet Nam,ALLAGE,,All areas,Both sexes,6.2
+2017,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Male,5.7
+2018,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Female,7.3
+2018,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Male,5.2
+2018,AG_PRD_FIESMS,Viet Nam,ALLAGE,,All areas,Both sexes,6.2
+2019,AG_PRD_FIESMS,Viet Nam,ALLAGE,,All areas,Both sexes,6.5
+2019,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Male,5.1
+2019,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Female,7.8
+2020,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Female,8.7
+2020,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Male,6.6
+2015,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,9.3
+2015,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,8.6
+2015,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,8.9
+2016,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,7.2
+2016,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,7.6
+2020,AG_PRD_FIESMS,Viet Nam,ALLAGE,,All areas,Both sexes,7.6
+2021,AG_PRD_FIESMS,Viet Nam,ALLAGE,,All areas,Both sexes,9.0
+2021,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Male,7.7
+2021,AG_PRD_FIESMS,Viet Nam,15+,,All areas,Female,10.2
+2015,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,14.6
+2015,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,10.1
+2015,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,12.3
+2016,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,14.4
+2016,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,9.3
+2016,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,11.8
+2017,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,11.2
+2017,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,8.9
+2017,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,13.5
+2018,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,12.2
+2018,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,10.2
+2016,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,6.7
+2017,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,6.0
+2017,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,6.6
+2017,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,7.2
+2018,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,7.2
+2018,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,8.5
+2018,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,5.9
+2019,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,6.9
+2019,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,9.7
+2018,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,8.3
+2019,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,7.2
+2019,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,8.2
+2019,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,9.3
+2020,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,9.3
+2020,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,5.5
+2020,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,7.4
+2021,AG_PRD_FIESMS,Slovenia,ALLAGE,,All areas,Both sexes,7.0
+2021,AG_PRD_FIESMS,Slovenia,15+,,All areas,Male,4.8
+2019,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,8.3
+2020,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,5.5
+2020,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,6.5
+2020,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,7.6
+2021,AG_PRD_FIESMS,Ireland,15+,,All areas,Female,4.5
+2021,AG_PRD_FIESMS,Ireland,ALLAGE,,All areas,Both sexes,5.4
+2021,AG_PRD_FIESMS,Ireland,15+,,All areas,Male,6.4
+2021,AG_PRD_FIESMS,Slovenia,15+,,All areas,Female,9.2
+2015,AG_PRD_FIESMS,Spain,15+,,All areas,Male,6.6
+2015,AG_PRD_FIESMS,Spain,15+,,All areas,Female,7.5
+2015,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,7.1
+2016,AG_PRD_FIESMS,Spain,15+,,All areas,Male,6.6
+2016,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,7.5
+2016,AG_PRD_FIESMS,Spain,15+,,All areas,Female,8.5
+2017,AG_PRD_FIESMS,Spain,15+,,All areas,Male,6.1
+2017,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,7.5
+2017,AG_PRD_FIESMS,Spain,15+,,All areas,Female,8.9
+2018,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,8.6
+2018,AG_PRD_FIESMS,Spain,15+,,All areas,Female,10.8
+2018,AG_PRD_FIESMS,Spain,15+,,All areas,Male,6.4
+2019,AG_PRD_FIESMS,Spain,15+,,All areas,Male,7.7
+2019,AG_PRD_FIESMS,Spain,15+,,All areas,Female,10.0
+2019,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,8.8
+2020,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,8.6
+2020,AG_PRD_FIESMS,Spain,15+,,All areas,Male,7.6
+2020,AG_PRD_FIESMS,Spain,15+,,All areas,Female,9.7
+2021,AG_PRD_FIESMS,Spain,15+,,All areas,Female,8.8
+2021,AG_PRD_FIESMS,Spain,15+,,All areas,Male,7.1
+2021,AG_PRD_FIESMS,Spain,ALLAGE,,All areas,Both sexes,8.0
+2015,AG_PRD_FIESMS,Israel,15+,,All areas,Female,11.3
+2015,AG_PRD_FIESMS,Israel,15+,,All areas,Male,10.6
+2015,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,11.0
+2016,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,11.6
+2016,AG_PRD_FIESMS,Israel,15+,,All areas,Male,10.9
+2016,AG_PRD_FIESMS,Israel,15+,,All areas,Female,12.3
+2017,AG_PRD_FIESMS,Israel,15+,,All areas,Male,11.5
+2017,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,12.3
+2017,AG_PRD_FIESMS,Israel,15+,,All areas,Female,13.0
+2018,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,12.9
+2018,AG_PRD_FIESMS,Israel,15+,,All areas,Male,12.8
+2018,AG_PRD_FIESMS,Israel,15+,,All areas,Female,13.1
+2019,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,13.7
+2019,AG_PRD_FIESMS,Israel,15+,,All areas,Male,14.3
+2019,AG_PRD_FIESMS,Israel,15+,,All areas,Female,13.0
+2020,AG_PRD_FIESMS,Israel,15+,,All areas,Female,13.3
+2020,AG_PRD_FIESMS,Israel,15+,,All areas,Male,15.1
+2015,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,4.5
+2015,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,4.3
+2015,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,4.7
+2016,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.7
+2016,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.0
+2016,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.3
+2017,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.6
+2017,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.4
+2017,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.2
+2018,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.8
+2018,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.6
+2018,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.7
+2019,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.3
+2019,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.2
+2019,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.5
+2020,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.0
+2020,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.6
+2020,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,14.2
+2021,AG_PRD_FIESMS,Israel,ALLAGE,,All areas,Both sexes,13.2
+2021,AG_PRD_FIESMS,Israel,15+,,All areas,Female,12.6
+2021,AG_PRD_FIESMS,Israel,15+,,All areas,Male,13.9
+2015,AG_PRD_FIESMS,Italy,15+,,All areas,Female,9.3
+2015,AG_PRD_FIESMS,Italy,15+,,All areas,Male,7.8
+2020,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.3
+2021,AG_PRD_FIESMS,Sweden,ALLAGE,,All areas,Both sexes,5.4
+2021,AG_PRD_FIESMS,Sweden,15+,,All areas,Male,5.3
+2021,AG_PRD_FIESMS,Sweden,15+,,All areas,Female,5.5
+2015,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,5.3
+2015,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,4.8
+2015,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,4.3
+2016,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,4.2
+2016,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,4.2
+2016,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,4.2
+2017,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,3.1
+2017,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,3.7
+2017,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,2.6
+2018,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,2.3
+2018,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,3.0
+2015,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,8.6
+2016,AG_PRD_FIESMS,Italy,15+,,All areas,Male,7.2
+2016,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,7.6
+2016,AG_PRD_FIESMS,Italy,15+,,All areas,Female,8.1
+2017,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,7.5
+2017,AG_PRD_FIESMS,Italy,15+,,All areas,Male,7.2
+2017,AG_PRD_FIESMS,Italy,15+,,All areas,Female,7.8
+2018,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,7.2
+2018,AG_PRD_FIESMS,Italy,15+,,All areas,Male,7.1
+2018,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,2.6
+2019,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,2.0
+2019,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,2.4
+2019,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,1.5
+2020,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,1.8
+2020,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,2.5
+2020,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,2.2
+2021,AG_PRD_FIESMS,Switzerland,ALLAGE,,All areas,Both sexes,2.1
+2021,AG_PRD_FIESMS,Switzerland,15+,,All areas,Female,1.9
+2021,AG_PRD_FIESMS,Switzerland,15+,,All areas,Male,2.3
+2020,AG_PRD_FIESMS,United Arab Emirates,15+,,All areas,Male,11.0
+2020,AG_PRD_FIESMS,United Arab Emirates,15+,,All areas,Female,8.1
+2020,AG_PRD_FIESMS,United Arab Emirates,ALLAGE,,All areas,Both sexes,7.5
+2021,AG_PRD_FIESMS,United Arab Emirates,ALLAGE,,All areas,Both sexes,9.8
+2021,AG_PRD_FIESMS,United Arab Emirates,15+,,All areas,Female,8.2
+2021,AG_PRD_FIESMS,United Arab Emirates,15+,,All areas,Male,11.4
+2015,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,17.2
+2015,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,22.5
+2015,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,19.8
+2016,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,19.7
+2016,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,24.8
+2016,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,22.3
+2017,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,21.5
+2017,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,23.8
+2017,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,19.2
+2018,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,15.6
+2018,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,21.1
+2018,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,18.3
+2019,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,19.9
+2019,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,22.3
+2019,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,17.5
+2020,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,20.5
+2020,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,25.0
+2020,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,22.7
+2021,AG_PRD_FIESMS,Ukraine,ALLAGE,,All areas,Both sexes,28.2
+2021,AG_PRD_FIESMS,Ukraine,15+,,All areas,Female,31.4
+2021,AG_PRD_FIESMS,Ukraine,15+,,All areas,Male,25.0
+2015,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,12.9
+2015,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,17.4
+2015,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,15.1
+2016,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,13.7
+2016,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,12.3
+2016,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,15.2
+2017,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,14.3
+2017,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,14.7
+2017,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,13.8
+2018,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,14.4
+2018,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,15.1
+2018,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,13.8
+2019,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,17.5
+2019,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,17.9
+2019,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,17.7
+2020,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,20.9
+2020,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,22.0
+2020,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,19.9
+2021,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Male,23.2
+2021,AG_PRD_FIESMS,North Macedonia,15+,,All areas,Female,24.8
+2021,AG_PRD_FIESMS,North Macedonia,ALLAGE,,All areas,Both sexes,24.0
+2015,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,3.0
+2015,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,6.3
+2015,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,9.6
+2016,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,6.1
+2016,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,4.3
+2016,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,8.0
+2017,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,6.1
+2017,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,5.6
+2017,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,5.1
+2018,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,4.9
+2018,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,5.8
+2018,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,4.0
+2019,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,3.5
+2019,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,3.9
+2019,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,4.3
+2020,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,3.5
+2020,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,3.5
+2020,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,3.4
+2021,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,ALLAGE,,All areas,Both sexes,4.1
+2021,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Male,3.4
+2021,AG_PRD_FIESMS,United Kingdom of Great Britain and Northern Ireland,15+,,All areas,Female,4.7
+2015,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,12.4
+2015,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,9.9
+2015,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,11.2
+2016,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,13.4
+2016,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,14.1
+2016,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,12.7
+2017,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,14.7
+2017,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,14.9
+2017,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,15.2
+2018,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,16.9
+2018,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,17.5
+2018,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,17.2
+2019,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,19.7
+2019,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,18.2
+2019,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,21.3
+2020,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,23.6
+2020,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,24.2
+2020,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,22.9
+2021,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Female,26.6
+2018,AG_PRD_FIESMS,Italy,15+,,All areas,Female,7.4
+2019,AG_PRD_FIESMS,Italy,15+,,All areas,Male,6.7
+2019,AG_PRD_FIESMS,Italy,15+,,All areas,Female,6.6
+2019,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,6.7
+2020,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,6.3
+2020,AG_PRD_FIESMS,Italy,15+,,All areas,Male,6.6
+2020,AG_PRD_FIESMS,Italy,15+,,All areas,Female,6.1
+2021,AG_PRD_FIESMS,Italy,15+,,All areas,Female,5.0
+2021,AG_PRD_FIESMS,Italy,15+,,All areas,Male,6.4
+2021,AG_PRD_FIESMS,Italy,ALLAGE,,All areas,Both sexes,5.7
+2015,AG_PRD_FIESMS,Japan,15+,,All areas,Male,3.3
+2015,AG_PRD_FIESMS,Japan,15+,,All areas,Female,2.0
+2015,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,2.6
+2016,AG_PRD_FIESMS,Japan,15+,,All areas,Male,3.3
+2016,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,2.7
+2016,AG_PRD_FIESMS,Japan,15+,,All areas,Female,2.1
+2017,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,3.2
+2017,AG_PRD_FIESMS,Japan,15+,,All areas,Female,1.9
+2017,AG_PRD_FIESMS,Japan,15+,,All areas,Male,4.4
+2018,AG_PRD_FIESMS,Japan,15+,,All areas,Male,4.3
+2018,AG_PRD_FIESMS,Japan,15+,,All areas,Female,2.1
+2018,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,3.2
+2019,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,3.4
+2019,AG_PRD_FIESMS,Japan,15+,,All areas,Female,2.1
+2019,AG_PRD_FIESMS,Japan,15+,,All areas,Male,4.7
+2020,AG_PRD_FIESMS,Japan,15+,,All areas,Male,4.6
+2020,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,3.8
+2020,AG_PRD_FIESMS,Japan,15+,,All areas,Female,2.9
+2021,AG_PRD_FIESMS,Japan,15+,,All areas,Male,5.1
+2021,AG_PRD_FIESMS,Japan,15+,,All areas,Female,3.7
+2021,AG_PRD_FIESMS,Japan,ALLAGE,,All areas,Both sexes,4.4
+2017,AG_PRD_FIESMS,Kazakhstan,ALLAGE,,All areas,Both sexes,2.1
+2017,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Female,2.3
+2017,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Male,1.9
+2018,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Male,2.4
+2018,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Female,2.5
+2018,AG_PRD_FIESMS,Kazakhstan,ALLAGE,,All areas,Both sexes,2.4
+2019,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Male,2.5
+2019,AG_PRD_FIESMS,Kazakhstan,ALLAGE,,All areas,Both sexes,2.6
+2019,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Female,2.6
+2020,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Female,2.9
+2020,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Male,2.8
+2020,AG_PRD_FIESMS,Kazakhstan,ALLAGE,,All areas,Both sexes,2.8
+2021,AG_PRD_FIESMS,Kazakhstan,ALLAGE,,All areas,Both sexes,2.4
+2021,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Male,2.2
+2021,AG_PRD_FIESMS,Kazakhstan,15+,,All areas,Female,2.5
+2015,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,4.8
+2015,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,4.2
+2015,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,5.4
+2016,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,3.7
+2016,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.3
+2016,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.0
+2017,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.4
+2017,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,4.0
+2017,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.7
+2018,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,3.7
+2018,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.7
+2018,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.2
+2019,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.1
+2019,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.0
+2019,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,4.1
+2020,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,4.3
+2020,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.3
+2020,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.4
+2021,AG_PRD_FIESMS,Republic of Korea,ALLAGE,,All areas,Both sexes,5.6
+2021,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Male,6.6
+2021,AG_PRD_FIESMS,Republic of Korea,15+,,All areas,Female,4.6
+2017,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Male,6.5
+2017,AG_PRD_FIESMS,Kyrgyzstan,ALLAGE,,All areas,Both sexes,6.3
+2017,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Female,6.0
+2018,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Male,6.2
+2018,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Female,6.3
+2018,AG_PRD_FIESMS,Kyrgyzstan,ALLAGE,,All areas,Both sexes,6.3
+2019,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Female,6.6
+2019,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Male,6.1
+2019,AG_PRD_FIESMS,Kyrgyzstan,ALLAGE,,All areas,Both sexes,6.4
+2020,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Female,6.9
+2020,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Male,6.4
+2020,AG_PRD_FIESMS,Kyrgyzstan,ALLAGE,,All areas,Both sexes,6.6
+2021,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Male,6.6
+2021,AG_PRD_FIESMS,Kyrgyzstan,ALLAGE,,All areas,Both sexes,6.9
+2021,AG_PRD_FIESMS,Kyrgyzstan,15+,,All areas,Female,7.2
+2015,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,8.3
+2015,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.9
+2015,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,11.5
+2016,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,10.4
+2016,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.5
+2016,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,8.6
+2017,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,9.7
+2017,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,9.1
+2017,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.4
+2018,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,9.6
+2018,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.5
+2018,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,9.4
+2019,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,9.4
+2019,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,10.2
+2019,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,11.0
+2020,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,10.1
+2020,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.4
+2020,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,8.7
+2021,AG_PRD_FIESMS,Latvia,15+,,All areas,Male,8.2
+2021,AG_PRD_FIESMS,Latvia,ALLAGE,,All areas,Both sexes,9.4
+2021,AG_PRD_FIESMS,Latvia,15+,,All areas,Female,10.5
+2015,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,14.6
+2015,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,15.3
+2015,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,16.1
+2016,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,13.8
+2016,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,12.7
+2016,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,13.3
+2017,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,11.1
+2017,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,12.2
+2017,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,13.4
+2018,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,9.9
+2018,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,11.4
+2018,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,10.7
+2019,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,11.3
+2019,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,11.7
+2019,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,10.9
+2020,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,9.2
+2020,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,10.5
+2020,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,9.8
+2021,AG_PRD_FIESMS,Lithuania,ALLAGE,,All areas,Both sexes,8.5
+2021,AG_PRD_FIESMS,Lithuania,15+,,All areas,Male,7.7
+2021,AG_PRD_FIESMS,Lithuania,15+,,All areas,Female,9.3
+2015,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,4.7
+2015,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,5.2
+2015,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,4.1
+2016,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,4.0
+2016,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,3.8
+2016,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,4.2
+2017,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,3.3
+2017,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,3.3
+2017,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,3.4
+2018,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,3.4
+2018,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,3.2
+2018,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,3.3
+2019,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,3.1
+2019,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,3.0
+2019,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,3.1
+2020,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,2.9
+2021,AG_PRD_FIESMS,Uzbekistan,ALLAGE,,All areas,Both sexes,26.1
+2021,AG_PRD_FIESMS,Uzbekistan,15+,,All areas,Male,25.6
+2020,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,2.8
+2020,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,2.8
+2021,AG_PRD_FIESMS,Luxembourg,ALLAGE,,All areas,Both sexes,2.7
+2021,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Male,2.7
+2021,AG_PRD_FIESMS,Luxembourg,15+,,All areas,Female,2.6

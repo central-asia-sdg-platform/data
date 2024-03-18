@@ -12,8 +12,125 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DTH_NCOM",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Republic of Moldova",
+                "Albania",
+                "Montenegro",
+                "Azerbaijan",
+                "Netherlands (Kingdom of the)",
+                "Australia",
+                "New Zealand",
+                "Austria",
+                "Armenia",
+                "Norway",
+                "Belgium",
+                "Poland",
+                "Bosnia and Herzegovina",
+                "Portugal",
+                "Bulgaria",
+                "Romania",
+                "Belarus",
+                "Canada",
+                "Serbia",
+                "Chile",
+                "Slovakia",
+                "Viet Nam",
+                "China",
+                "Colombia",
+                "Slovenia",
+                "Costa Rica",
+                "Spain",
+                "Croatia",
+                "Sweden",
+                "Cyprus",
+                "Switzerland",
+                "Czechia",
+                "Denmark",
+                "Таджикистан",
+                "Estonia",
+                "United Arab Emirates",
+                "Finland",
+                "Türkiye",
+                "France",
+                "Georgia",
+                "Туркменистан",
+                "Germany",
+                "Ukraine",
+                "Greece",
+                "North Macedonia",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Israel",
+                "Узбекистан",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "30-70",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Name of non-communicable disease",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Name of non-communicable disease"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

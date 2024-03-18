@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_ODA_TOTGGE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Belgium",
+                "Canada",
+                "Czechia",
+                "Denmark",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                "Lithuania",
+                "Luxembourg",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-2-1-DC_ODA_TOTGGE",
+  "title": "meta.name-17-2-1-DC_ODA_TOTGGE"
+}

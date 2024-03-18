@@ -1,0 +1,113 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TX_IMP_GBMRCH",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Belarus",
+                "Albania",
+                "Canada",
+                "New Zealand",
+                "Chile",
+                "Azerbaijan",
+                "Norway",
+                "China",
+                "Australia",
+                "Austria",
+                "Poland",
+                "Colombia",
+                "Armenia",
+                "Belgium",
+                "Costa Rica",
+                "Croatia",
+                "Bosnia and Herzegovina",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Portugal",
+                "Greece",
+                "Romania",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Serbia",
+                "Ireland",
+                "Israel",
+                "Slovakia",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Viet Nam",
+                "Latvia",
+                "Slovenia",
+                "Lithuania",
+                "Luxembourg",
+                "Spain",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Sweden",
+                "Switzerland",
+                "Montenegro",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Netherlands (Kingdom of the)",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-11-1-TX_IMP_GBMRCH",
+  "title": "meta.name-17-11-1-TX_IMP_GBMRCH"
+}

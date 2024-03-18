@@ -12,8 +12,122 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_PRV_SMOK",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Croatia",
+                "Albania",
+                "Cyprus",
+                "Azerbaijan",
+                "Australia",
+                "Serbia",
+                "Austria",
+                "Czechia",
+                "Slovakia",
+                "Denmark",
+                "Estonia",
+                "Viet Nam",
+                "Armenia",
+                "Finland",
+                "France",
+                "Slovenia",
+                "Georgia",
+                "Germany",
+                "Spain",
+                "Greece",
+                "Hungary",
+                "Sweden",
+                "Iceland",
+                "India",
+                "Switzerland",
+                "Ireland",
+                "Israel",
+                "Türkiye",
+                "Italy",
+                "Japan",
+                "Туркменистан",
+                "Казахстан",
+                "Belgium",
+                "Republic of Korea",
+                "Ukraine",
+                "Кыргызстан",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Latvia",
+                "Bosnia and Herzegovina",
+                "Узбекистан",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Bulgaria",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Belarus",
+                "Netherlands (Kingdom of the)",
+                "Canada",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Chile",
+                "Portugal",
+                "Romania",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "FEMALE",
+                "BOTHSEX",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

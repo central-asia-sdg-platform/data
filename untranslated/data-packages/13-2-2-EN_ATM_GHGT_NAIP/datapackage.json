@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_GHGT_NAIP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                "Israel",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Viet Nam",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Turkmenistan",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-2-2-EN_ATM_GHGT_NAIP",
+  "title": "meta.name-13-2-2-EN_ATM_GHGT_NAIP"
+}

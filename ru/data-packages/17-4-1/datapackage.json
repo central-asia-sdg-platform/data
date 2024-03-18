@@ -12,8 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DT_TDS_DECT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "China",
+                "Serbia",
+                "Viet Nam",
+                "Colombia",
+                "Таджикистан",
+                "Albania",
+                "Costa Rica",
+                "Azerbaijan",
+                "Armenia",
+                "Georgia",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "Узбекистан",
+                "Bosnia and Herzegovina",
+                "India",
+                "Bulgaria",
+                "Казахстан",
+                "Кыргызстан",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

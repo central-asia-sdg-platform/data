@@ -1,0 +1,7 @@
+From,To
+SeriesCode,GeoAreaName
+GeoAreaName,Age
+Age,Education level
+Education level,Location
+Location,Quantile
+Quantile,Sex

@@ -1,1 +1,5 @@
-Year,Value
+Year,SeriesCode,Country,Location,Value
+2017,SP_ROD_R2KM,Armenia,Rural,66.0
+2019,SP_ROD_R2KM,United Arab Emirates,Rural,95.1
+2021,SP_ROD_R2KM,United Arab Emirates,Rural,99.5
+2021,SP_ROD_R2KM,United Arab Emirates,Rural,99.5

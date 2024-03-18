@@ -12,11 +12,92 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_TRP_INTVN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Albania",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Azerbaijan",
+                "Australia",
+                "Poland",
+                "Austria",
+                "Portugal",
+                "Armenia",
+                "Romania",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Serbia",
+                "Slovakia",
+                "Bulgaria",
+                "Viet Nam",
+                "Slovenia",
+                "Belarus",
+                "Canada",
+                "Spain",
+                "Chile",
+                "China",
+                "Sweden",
+                "Colombia",
+                "Switzerland",
+                "Costa Rica",
+                "Croatia",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

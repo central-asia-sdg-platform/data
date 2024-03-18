@@ -1,0 +1,434 @@
+Year,SeriesCode,Country,Sex,Value
+2016,SI_COV_DISAB,Norway,Male,100.0
+2016,SI_COV_DISAB,Norway,Female,100.0
+2016,SI_COV_DISAB,Norway,Both sexes,100.0
+2017,SI_COV_DISAB,Norway,Both sexes,100.0
+2020,SI_COV_DISAB,Norway,Male,100.0
+2020,SI_COV_DISAB,Norway,Female,100.0
+2020,SI_COV_DISAB,Norway,Both sexes,100.0
+2013,SI_COV_DISAB,Poland,Female,99.2
+2013,SI_COV_DISAB,Poland,Both sexes,100.0
+2013,SI_COV_DISAB,Poland,Male,100.0
+2014,SI_COV_DISAB,Poland,Both sexes,100.0
+2014,SI_COV_DISAB,Poland,Female,96.3
+2014,SI_COV_DISAB,Poland,Male,100.0
+2016,SI_COV_DISAB,Poland,Male,100.0
+2016,SI_COV_DISAB,Poland,Female,99.3
+2016,SI_COV_DISAB,Poland,Both sexes,100.0
+2017,SI_COV_DISAB,Poland,Both sexes,100.0
+2020,SI_COV_DISAB,Poland,Female,100.0
+2020,SI_COV_DISAB,Poland,Male,100.0
+2020,SI_COV_DISAB,Poland,Both sexes,100.0
+2013,SI_COV_DISAB,Portugal,Female,58.2
+2013,SI_COV_DISAB,Portugal,Both sexes,61.4
+2013,SI_COV_DISAB,Portugal,Male,65.0
+2014,SI_COV_DISAB,Portugal,Male,63.1
+2014,SI_COV_DISAB,Portugal,Female,55.4
+2014,SI_COV_DISAB,Portugal,Both sexes,59.0
+2016,SI_COV_DISAB,Portugal,Both sexes,89.2
+2019,SI_COV_DISAB,Portugal,Both sexes,89.0
+2020,SI_COV_DISAB,Portugal,Both sexes,89.0
+2016,SI_COV_DISAB,Romania,Both sexes,100.0
+2017,SI_COV_DISAB,Romania,Both sexes,100.0
+2020,SI_COV_DISAB,Romania,Male,100.0
+2020,SI_COV_DISAB,Romania,Both sexes,100.0
+2020,SI_COV_DISAB,Romania,Female,100.0
+2021,SI_COV_DISAB,Serbia,Both sexes,84.7
+2013,SI_COV_DISAB,Slovakia,Male,100.0
+2013,SI_COV_DISAB,Slovakia,Female,100.0
+2013,SI_COV_DISAB,Slovakia,Both sexes,100.0
+2014,SI_COV_DISAB,Slovakia,Male,100.0
+2014,SI_COV_DISAB,Slovakia,Female,100.0
+2014,SI_COV_DISAB,Slovakia,Both sexes,100.0
+2016,SI_COV_DISAB,Slovakia,Both sexes,100.0
+2017,SI_COV_DISAB,Slovakia,Both sexes,100.0
+2020,SI_COV_DISAB,Slovakia,Both sexes,100.0
+2020,SI_COV_DISAB,Slovakia,Female,100.0
+2020,SI_COV_DISAB,Slovakia,Male,100.0
+2016,SI_COV_DISAB,Viet Nam,Both sexes,9.7
+2017,SI_COV_DISAB,Viet Nam,Both sexes,9.0
+2020,SI_COV_DISAB,Viet Nam,Both sexes,83.5
+2013,SI_COV_DISAB,Slovenia,Both sexes,100.0
+2014,SI_COV_DISAB,Slovenia,Both sexes,100.0
+2016,SI_COV_DISAB,Slovenia,Both sexes,100.0
+2017,SI_COV_DISAB,Slovenia,Both sexes,100.0
+2020,SI_COV_DISAB,Slovenia,Female,100.0
+2020,SI_COV_DISAB,Slovenia,Male,100.0
+2020,SI_COV_DISAB,Slovenia,Both sexes,100.0
+2013,SI_COV_DISAB,Spain,Both sexes,81.2
+2013,SI_COV_DISAB,Spain,Male,100.0
+2013,SI_COV_DISAB,Spain,Female,60.7
+2014,SI_COV_DISAB,Spain,Female,60.5
+2014,SI_COV_DISAB,Spain,Male,100.0
+2014,SI_COV_DISAB,Spain,Both sexes,81.0
+2016,SI_COV_DISAB,Spain,Both sexes,83.5
+2017,SI_COV_DISAB,Spain,Both sexes,77.3
+2020,SI_COV_DISAB,Spain,Both sexes,77.3
+2016,SI_COV_DISAB,Sweden,Both sexes,100.0
+2017,SI_COV_DISAB,Sweden,Both sexes,100.0
+2020,SI_COV_DISAB,Sweden,Both sexes,100.0
+2020,SI_COV_DISAB,Sweden,Female,100.0
+2020,SI_COV_DISAB,Sweden,Male,100.0
+2013,SI_COV_DISAB,Switzerland,Female,85.2
+2013,SI_COV_DISAB,Switzerland,Male,99.5
+2013,SI_COV_DISAB,Switzerland,Both sexes,92.3
+2014,SI_COV_DISAB,Switzerland,Male,97.9
+2014,SI_COV_DISAB,Switzerland,Female,83.7
+2014,SI_COV_DISAB,Switzerland,Both sexes,90.7
+2016,SI_COV_DISAB,Switzerland,Female,100.0
+2016,SI_COV_DISAB,Switzerland,Both sexes,100.0
+2016,SI_COV_DISAB,Switzerland,Male,100.0
+2017,SI_COV_DISAB,Switzerland,Both sexes,96.9
+2020,SI_COV_DISAB,Switzerland,Both sexes,96.9
+2020,SI_COV_DISAB,Tajikistan,Both sexes,49.0
+2020,SI_COV_DISAB,United Arab Emirates,Both sexes,1.8
+2013,SI_COV_DISAB,Türkiye,Female,1.3
+2013,SI_COV_DISAB,Türkiye,Both sexes,5.1
+2013,SI_COV_DISAB,Türkiye,Male,9.0
+2014,SI_COV_DISAB,Türkiye,Both sexes,5.4
+2014,SI_COV_DISAB,Türkiye,Male,9.6
+2014,SI_COV_DISAB,Türkiye,Female,1.4
+2016,SI_COV_DISAB,Türkiye,Both sexes,5.0
+2017,SI_COV_DISAB,Türkiye,Both sexes,5.6
+2020,SI_COV_DISAB,Türkiye,Both sexes,5.6
+2021,SI_COV_DISAB,Turkmenistan,Both sexes,87.7
+2021,SI_COV_DISAB,Turkmenistan,Female,94.2
+2021,SI_COV_DISAB,Turkmenistan,Male,81.2
+2018,SI_COV_DISAB,Ukraine,Both sexes,100.0
+2020,SI_COV_DISAB,Ukraine,Male,100.0
+2020,SI_COV_DISAB,Ukraine,Female,100.0
+2020,SI_COV_DISAB,Ukraine,Both sexes,100.0
+2020,SI_COV_DISAB,North Macedonia,Male,100.0
+2020,SI_COV_DISAB,North Macedonia,Female,100.0
+2020,SI_COV_DISAB,North Macedonia,Both sexes,100.0
+2016,SI_COV_DISAB,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2017,SI_COV_DISAB,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2020,SI_COV_DISAB,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2020,SI_COV_DISAB,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2020,SI_COV_DISAB,United Kingdom of Great Britain and Northern Ireland,Male,100.0
+2017,SI_COV_DISAB,Uzbekistan,Both sexes,33.0
+2021,SI_COV_DISAB,Albania,Female,100.0
+2021,SI_COV_DISAB,Albania,Male,100.0
+2021,SI_COV_DISAB,Albania,Both sexes,100.0
+2016,SI_COV_DISAB,Azerbaijan,Both sexes,100.0
+2017,SI_COV_DISAB,Azerbaijan,Both sexes,100.0
+2018,SI_COV_DISAB,Azerbaijan,Both sexes,100.0
+2020,SI_COV_DISAB,Azerbaijan,Both sexes,100.0
+2020,SI_COV_DISAB,Azerbaijan,Female,100.0
+2020,SI_COV_DISAB,Azerbaijan,Male,100.0
+2013,SI_COV_DISAB,Australia,Female,100.0
+2013,SI_COV_DISAB,Australia,Both sexes,100.0
+2013,SI_COV_DISAB,Australia,Male,100.0
+2014,SI_COV_DISAB,Australia,Both sexes,100.0
+2014,SI_COV_DISAB,Australia,Female,100.0
+2014,SI_COV_DISAB,Australia,Male,100.0
+2017,SI_COV_DISAB,Australia,Both sexes,100.0
+2020,SI_COV_DISAB,Australia,Both sexes,100.0
+2020,SI_COV_DISAB,Australia,Male,100.0
+2020,SI_COV_DISAB,Australia,Female,100.0
+2013,SI_COV_DISAB,Austria,Male,100.0
+2013,SI_COV_DISAB,Austria,Both sexes,89.2
+2013,SI_COV_DISAB,Austria,Female,53.6
+2014,SI_COV_DISAB,Austria,Male,100.0
+2014,SI_COV_DISAB,Austria,Female,48.1
+2014,SI_COV_DISAB,Austria,Both sexes,82.2
+2019,SI_COV_DISAB,Austria,Both sexes,100.0
+2020,SI_COV_DISAB,Austria,Female,100.0
+2020,SI_COV_DISAB,Austria,Both sexes,100.0
+2020,SI_COV_DISAB,Austria,Male,100.0
+2016,SI_COV_DISAB,Armenia,Both sexes,100.0
+2017,SI_COV_DISAB,Armenia,Both sexes,100.0
+2018,SI_COV_DISAB,Armenia,Both sexes,100.0
+2020,SI_COV_DISAB,Armenia,Female,100.0
+2020,SI_COV_DISAB,Armenia,Male,100.0
+2020,SI_COV_DISAB,Armenia,Both sexes,100.0
+2013,SI_COV_DISAB,Belgium,Female,100.0
+2013,SI_COV_DISAB,Belgium,Both sexes,100.0
+2013,SI_COV_DISAB,Belgium,Male,100.0
+2014,SI_COV_DISAB,Belgium,Male,100.0
+2014,SI_COV_DISAB,Belgium,Female,100.0
+2014,SI_COV_DISAB,Belgium,Both sexes,100.0
+2016,SI_COV_DISAB,Belgium,Male,100.0
+2016,SI_COV_DISAB,Belgium,Both sexes,100.0
+2016,SI_COV_DISAB,Belgium,Female,100.0
+2017,SI_COV_DISAB,Belgium,Both sexes,100.0
+2020,SI_COV_DISAB,Belgium,Male,100.0
+2020,SI_COV_DISAB,Belgium,Female,100.0
+2020,SI_COV_DISAB,Belgium,Both sexes,100.0
+2020,SI_COV_DISAB,Bosnia and Herzegovina,Male,100.0
+2020,SI_COV_DISAB,Bosnia and Herzegovina,Female,100.0
+2020,SI_COV_DISAB,Bosnia and Herzegovina,Both sexes,100.0
+2013,SI_COV_DISAB,Bulgaria,Male,100.0
+2013,SI_COV_DISAB,Bulgaria,Both sexes,100.0
+2013,SI_COV_DISAB,Bulgaria,Female,100.0
+2014,SI_COV_DISAB,Bulgaria,Both sexes,100.0
+2014,SI_COV_DISAB,Bulgaria,Female,100.0
+2014,SI_COV_DISAB,Bulgaria,Male,100.0
+2017,SI_COV_DISAB,Bulgaria,Both sexes,100.0
+2020,SI_COV_DISAB,Bulgaria,Female,100.0
+2020,SI_COV_DISAB,Bulgaria,Both sexes,100.0
+2020,SI_COV_DISAB,Bulgaria,Male,100.0
+2020,SI_COV_DISAB,Belarus,Male,100.0
+2020,SI_COV_DISAB,Belarus,Both sexes,100.0
+2020,SI_COV_DISAB,Belarus,Female,100.0
+2016,SI_COV_DISAB,Canada,Both sexes,67.2
+2019,SI_COV_DISAB,Canada,Both sexes,68.0
+2020,SI_COV_DISAB,Canada,Both sexes,68.0
+2016,SI_COV_DISAB,Chile,Both sexes,100.0
+2020,SI_COV_DISAB,Chile,Both sexes,99.4
+2021,SI_COV_DISAB,Chile,Female,78.9
+2021,SI_COV_DISAB,Chile,Male,100.0
+2021,SI_COV_DISAB,Chile,Both sexes,92.8
+2020,SI_COV_DISAB,China,Both sexes,32.6
+2016,SI_COV_DISAB,Colombia,Both sexes,6.0
+2020,SI_COV_DISAB,Colombia,Both sexes,8.6
+2021,SI_COV_DISAB,Colombia,Both sexes,12.0
+2020,SI_COV_DISAB,Costa Rica,Both sexes,79.6
+2020,SI_COV_DISAB,Croatia,Both sexes,100.0
+2020,SI_COV_DISAB,Croatia,Male,100.0
+2020,SI_COV_DISAB,Croatia,Female,100.0
+2013,SI_COV_DISAB,Cyprus,Female,13.5
+2013,SI_COV_DISAB,Cyprus,Male,24.7
+2013,SI_COV_DISAB,Cyprus,Both sexes,19.1
+2014,SI_COV_DISAB,Cyprus,Female,12.5
+2014,SI_COV_DISAB,Cyprus,Both sexes,18.0
+2014,SI_COV_DISAB,Cyprus,Male,23.4
+2017,SI_COV_DISAB,Cyprus,Both sexes,22.6
+2020,SI_COV_DISAB,Cyprus,Both sexes,22.6
+2013,SI_COV_DISAB,Czechia,Male,70.1
+2013,SI_COV_DISAB,Czechia,Female,59.9
+2013,SI_COV_DISAB,Czechia,Both sexes,64.9
+2014,SI_COV_DISAB,Czechia,Both sexes,62.7
+2014,SI_COV_DISAB,Czechia,Female,57.9
+2014,SI_COV_DISAB,Czechia,Male,67.6
+2016,SI_COV_DISAB,Czechia,Male,100.0
+2016,SI_COV_DISAB,Czechia,Both sexes,100.0
+2016,SI_COV_DISAB,Czechia,Female,100.0
+2017,SI_COV_DISAB,Czechia,Both sexes,100.0
+2020,SI_COV_DISAB,Czechia,Male,100.0
+2020,SI_COV_DISAB,Czechia,Female,100.0
+2020,SI_COV_DISAB,Czechia,Both sexes,100.0
+2013,SI_COV_DISAB,Denmark,Male,100.0
+2013,SI_COV_DISAB,Denmark,Female,100.0
+2013,SI_COV_DISAB,Denmark,Both sexes,100.0
+2014,SI_COV_DISAB,Denmark,Female,100.0
+2014,SI_COV_DISAB,Denmark,Male,100.0
+2014,SI_COV_DISAB,Denmark,Both sexes,100.0
+2016,SI_COV_DISAB,Denmark,Male,100.0
+2016,SI_COV_DISAB,Denmark,Female,100.0
+2016,SI_COV_DISAB,Denmark,Both sexes,100.0
+2017,SI_COV_DISAB,Denmark,Both sexes,100.0
+2020,SI_COV_DISAB,Denmark,Both sexes,100.0
+2020,SI_COV_DISAB,Denmark,Male,100.0
+2020,SI_COV_DISAB,Denmark,Female,100.0
+2013,SI_COV_DISAB,Estonia,Female,100.0
+2013,SI_COV_DISAB,Estonia,Both sexes,100.0
+2013,SI_COV_DISAB,Estonia,Male,100.0
+2014,SI_COV_DISAB,Estonia,Male,100.0
+2014,SI_COV_DISAB,Estonia,Female,100.0
+2014,SI_COV_DISAB,Estonia,Both sexes,100.0
+2016,SI_COV_DISAB,Estonia,Both sexes,100.0
+2016,SI_COV_DISAB,Estonia,Male,100.0
+2016,SI_COV_DISAB,Estonia,Female,100.0
+2017,SI_COV_DISAB,Estonia,Both sexes,100.0
+2020,SI_COV_DISAB,Estonia,Female,100.0
+2020,SI_COV_DISAB,Estonia,Both sexes,100.0
+2020,SI_COV_DISAB,Estonia,Male,100.0
+2013,SI_COV_DISAB,Finland,Female,100.0
+2013,SI_COV_DISAB,Finland,Male,100.0
+2013,SI_COV_DISAB,Finland,Both sexes,100.0
+2014,SI_COV_DISAB,Finland,Female,100.0
+2014,SI_COV_DISAB,Finland,Male,100.0
+2014,SI_COV_DISAB,Finland,Both sexes,100.0
+2016,SI_COV_DISAB,Finland,Both sexes,100.0
+2016,SI_COV_DISAB,Finland,Female,100.0
+2016,SI_COV_DISAB,Finland,Male,100.0
+2017,SI_COV_DISAB,Finland,Both sexes,100.0
+2020,SI_COV_DISAB,Finland,Female,100.0
+2020,SI_COV_DISAB,Finland,Both sexes,100.0
+2020,SI_COV_DISAB,Finland,Male,100.0
+2013,SI_COV_DISAB,France,Female,100.0
+2013,SI_COV_DISAB,France,Both sexes,100.0
+2013,SI_COV_DISAB,France,Male,100.0
+2014,SI_COV_DISAB,France,Both sexes,100.0
+2014,SI_COV_DISAB,France,Female,100.0
+2014,SI_COV_DISAB,France,Male,100.0
+2016,SI_COV_DISAB,France,Both sexes,100.0
+2016,SI_COV_DISAB,France,Male,100.0
+2016,SI_COV_DISAB,France,Female,100.0
+2017,SI_COV_DISAB,France,Both sexes,100.0
+2020,SI_COV_DISAB,France,Both sexes,100.0
+2020,SI_COV_DISAB,France,Male,100.0
+2020,SI_COV_DISAB,France,Female,100.0
+2016,SI_COV_DISAB,Georgia,Both sexes,100.0
+2017,SI_COV_DISAB,Georgia,Both sexes,100.0
+2018,SI_COV_DISAB,Georgia,Both sexes,100.0
+2020,SI_COV_DISAB,Georgia,Both sexes,100.0
+2020,SI_COV_DISAB,Georgia,Female,100.0
+2020,SI_COV_DISAB,Georgia,Male,100.0
+2013,SI_COV_DISAB,Germany,Both sexes,72.5
+2013,SI_COV_DISAB,Germany,Male,96.2
+2013,SI_COV_DISAB,Germany,Female,49.6
+2014,SI_COV_DISAB,Germany,Male,97.1
+2014,SI_COV_DISAB,Germany,Both sexes,74.2
+2014,SI_COV_DISAB,Germany,Female,52.1
+2016,SI_COV_DISAB,Germany,Both sexes,73.6
+2017,SI_COV_DISAB,Germany,Both sexes,100.0
+2020,SI_COV_DISAB,Germany,Both sexes,100.0
+2020,SI_COV_DISAB,Germany,Female,100.0
+2020,SI_COV_DISAB,Germany,Male,100.0
+2020,SI_COV_DISAB,Greece,Both sexes,100.0
+2020,SI_COV_DISAB,Greece,Female,100.0
+2020,SI_COV_DISAB,Greece,Male,100.0
+2013,SI_COV_DISAB,Hungary,Male,80.4
+2013,SI_COV_DISAB,Hungary,Both sexes,85.3
+2013,SI_COV_DISAB,Hungary,Female,89.8
+2014,SI_COV_DISAB,Hungary,Both sexes,89.1
+2014,SI_COV_DISAB,Hungary,Female,93.9
+2014,SI_COV_DISAB,Hungary,Male,83.9
+2016,SI_COV_DISAB,Hungary,Female,100.0
+2016,SI_COV_DISAB,Hungary,Both sexes,100.0
+2016,SI_COV_DISAB,Hungary,Male,100.0
+2017,SI_COV_DISAB,Hungary,Both sexes,100.0
+2020,SI_COV_DISAB,Hungary,Male,100.0
+2020,SI_COV_DISAB,Hungary,Both sexes,100.0
+2020,SI_COV_DISAB,Hungary,Female,100.0
+2013,SI_COV_DISAB,Iceland,Male,100.0
+2013,SI_COV_DISAB,Iceland,Both sexes,100.0
+2013,SI_COV_DISAB,Iceland,Female,100.0
+2014,SI_COV_DISAB,Iceland,Male,100.0
+2014,SI_COV_DISAB,Iceland,Female,100.0
+2014,SI_COV_DISAB,Iceland,Both sexes,100.0
+2016,SI_COV_DISAB,Iceland,Female,100.0
+2016,SI_COV_DISAB,Iceland,Male,100.0
+2016,SI_COV_DISAB,Iceland,Both sexes,100.0
+2017,SI_COV_DISAB,Iceland,Both sexes,100.0
+2020,SI_COV_DISAB,Iceland,Female,100.0
+2020,SI_COV_DISAB,Iceland,Male,100.0
+2020,SI_COV_DISAB,Iceland,Both sexes,100.0
+2016,SI_COV_DISAB,India,Both sexes,5.4
+2020,SI_COV_DISAB,India,Both sexes,5.6
+2013,SI_COV_DISAB,Ireland,Male,100.0
+2013,SI_COV_DISAB,Ireland,Female,100.0
+2013,SI_COV_DISAB,Ireland,Both sexes,100.0
+2014,SI_COV_DISAB,Ireland,Male,100.0
+2014,SI_COV_DISAB,Ireland,Both sexes,100.0
+2014,SI_COV_DISAB,Ireland,Female,100.0
+2016,SI_COV_DISAB,Ireland,Male,100.0
+2016,SI_COV_DISAB,Ireland,Both sexes,100.0
+2016,SI_COV_DISAB,Ireland,Female,100.0
+2017,SI_COV_DISAB,Ireland,Both sexes,100.0
+2020,SI_COV_DISAB,Ireland,Male,100.0
+2020,SI_COV_DISAB,Ireland,Both sexes,100.0
+2020,SI_COV_DISAB,Ireland,Female,100.0
+2013,SI_COV_DISAB,Israel,Both sexes,92.0
+2014,SI_COV_DISAB,Israel,Both sexes,93.6
+2016,SI_COV_DISAB,Israel,Both sexes,90.4
+2017,SI_COV_DISAB,Israel,Both sexes,89.2
+2020,SI_COV_DISAB,Israel,Both sexes,89.2
+2016,SI_COV_DISAB,Italy,Both sexes,100.0
+2017,SI_COV_DISAB,Italy,Both sexes,91.4
+2020,SI_COV_DISAB,Italy,Both sexes,91.4
+2016,SI_COV_DISAB,Japan,Both sexes,55.7
+2017,SI_COV_DISAB,Japan,Both sexes,49.5
+2019,SI_COV_DISAB,Japan,Both sexes,56.1
+2020,SI_COV_DISAB,Japan,Both sexes,56.1
+2016,SI_COV_DISAB,Kazakhstan,Both sexes,100.0
+2017,SI_COV_DISAB,Kazakhstan,Both sexes,100.0
+2020,SI_COV_DISAB,Kazakhstan,Female,100.0
+2020,SI_COV_DISAB,Kazakhstan,Male,100.0
+2020,SI_COV_DISAB,Kazakhstan,Both sexes,100.0
+2013,SI_COV_DISAB,Republic of Korea,Female,1.5
+2013,SI_COV_DISAB,Republic of Korea,Both sexes,12.7
+2013,SI_COV_DISAB,Republic of Korea,Male,23.9
+2014,SI_COV_DISAB,Republic of Korea,Both sexes,12.8
+2014,SI_COV_DISAB,Republic of Korea,Female,1.6
+2014,SI_COV_DISAB,Republic of Korea,Male,23.9
+2017,SI_COV_DISAB,Republic of Korea,Both sexes,11.9
+2019,SI_COV_DISAB,Republic of Korea,Both sexes,24.8
+2020,SI_COV_DISAB,Republic of Korea,Both sexes,24.8
+2016,SI_COV_DISAB,Kyrgyzstan,Both sexes,75.9
+2017,SI_COV_DISAB,Kyrgyzstan,Both sexes,75.7
+2019,SI_COV_DISAB,Kyrgyzstan,Both sexes,76.0
+2013,SI_COV_DISAB,Latvia,Male,100.0
+2013,SI_COV_DISAB,Latvia,Both sexes,100.0
+2013,SI_COV_DISAB,Latvia,Female,100.0
+2014,SI_COV_DISAB,Latvia,Female,100.0
+2014,SI_COV_DISAB,Latvia,Both sexes,100.0
+2014,SI_COV_DISAB,Latvia,Male,100.0
+2016,SI_COV_DISAB,Latvia,Male,100.0
+2016,SI_COV_DISAB,Latvia,Female,100.0
+2016,SI_COV_DISAB,Latvia,Both sexes,100.0
+2017,SI_COV_DISAB,Latvia,Both sexes,100.0
+2020,SI_COV_DISAB,Latvia,Male,100.0
+2020,SI_COV_DISAB,Latvia,Female,100.0
+2020,SI_COV_DISAB,Latvia,Both sexes,100.0
+2020,SI_COV_DISAB,Liechtenstein,Both sexes,100.0
+2020,SI_COV_DISAB,Liechtenstein,Male,100.0
+2020,SI_COV_DISAB,Liechtenstein,Female,100.0
+2013,SI_COV_DISAB,Lithuania,Female,100.0
+2013,SI_COV_DISAB,Lithuania,Both sexes,100.0
+2013,SI_COV_DISAB,Lithuania,Male,100.0
+2014,SI_COV_DISAB,Lithuania,Male,100.0
+2014,SI_COV_DISAB,Lithuania,Female,100.0
+2014,SI_COV_DISAB,Lithuania,Both sexes,100.0
+2016,SI_COV_DISAB,Lithuania,Both sexes,100.0
+2016,SI_COV_DISAB,Lithuania,Female,100.0
+2016,SI_COV_DISAB,Lithuania,Male,100.0
+2017,SI_COV_DISAB,Lithuania,Both sexes,100.0
+2020,SI_COV_DISAB,Lithuania,Both sexes,100.0
+2020,SI_COV_DISAB,Lithuania,Male,100.0
+2020,SI_COV_DISAB,Lithuania,Female,100.0
+2013,SI_COV_DISAB,Luxembourg,Both sexes,100.0
+2013,SI_COV_DISAB,Luxembourg,Female,82.0
+2013,SI_COV_DISAB,Luxembourg,Male,100.0
+2014,SI_COV_DISAB,Luxembourg,Male,100.0
+2014,SI_COV_DISAB,Luxembourg,Female,84.2
+2014,SI_COV_DISAB,Luxembourg,Both sexes,100.0
+2016,SI_COV_DISAB,Luxembourg,Male,100.0
+2016,SI_COV_DISAB,Luxembourg,Female,100.0
+2016,SI_COV_DISAB,Luxembourg,Both sexes,100.0
+2017,SI_COV_DISAB,Luxembourg,Both sexes,100.0
+2020,SI_COV_DISAB,Luxembourg,Both sexes,100.0
+2020,SI_COV_DISAB,Luxembourg,Female,100.0
+2020,SI_COV_DISAB,Luxembourg,Male,100.0
+2013,SI_COV_DISAB,Malta,Female,41.5
+2013,SI_COV_DISAB,Malta,Male,75.6
+2013,SI_COV_DISAB,Malta,Both sexes,58.6
+2014,SI_COV_DISAB,Malta,Both sexes,58.7
+2014,SI_COV_DISAB,Malta,Male,74.6
+2014,SI_COV_DISAB,Malta,Female,42.7
+2016,SI_COV_DISAB,Malta,Both sexes,59.8
+2020,SI_COV_DISAB,Malta,Both sexes,60.0
+2019,SI_COV_DISAB,Mexico,Both sexes,38.7
+2020,SI_COV_DISAB,Mexico,Both sexes,40.4
+2021,SI_COV_DISAB,Mexico,Both sexes,47.1
+2020,SI_COV_DISAB,Moldova,Female,100.0
+2020,SI_COV_DISAB,Moldova,Male,100.0
+2020,SI_COV_DISAB,Moldova,Both sexes,100.0
+2020,SI_COV_DISAB,Montenegro,Both sexes,100.0
+2020,SI_COV_DISAB,Montenegro,Male,100.0
+2020,SI_COV_DISAB,Montenegro,Female,100.0
+2013,SI_COV_DISAB,Netherlands (Kingdom of the),Male,100.0
+2013,SI_COV_DISAB,Netherlands (Kingdom of the),Both sexes,100.0
+2013,SI_COV_DISAB,Netherlands (Kingdom of the),Female,100.0
+2014,SI_COV_DISAB,Netherlands (Kingdom of the),Both sexes,100.0
+2014,SI_COV_DISAB,Netherlands (Kingdom of the),Male,100.0
+2014,SI_COV_DISAB,Netherlands (Kingdom of the),Female,100.0
+2016,SI_COV_DISAB,Netherlands (Kingdom of the),Male,100.0
+2016,SI_COV_DISAB,Netherlands (Kingdom of the),Female,100.0
+2016,SI_COV_DISAB,Netherlands (Kingdom of the),Both sexes,100.0
+2017,SI_COV_DISAB,Netherlands (Kingdom of the),Both sexes,100.0
+2020,SI_COV_DISAB,Netherlands (Kingdom of the),Male,100.0
+2020,SI_COV_DISAB,Netherlands (Kingdom of the),Female,100.0
+2020,SI_COV_DISAB,Netherlands (Kingdom of the),Both sexes,100.0
+2016,SI_COV_DISAB,New Zealand,Both sexes,80.3
+2019,SI_COV_DISAB,New Zealand,Both sexes,82.0
+2020,SI_COV_DISAB,Uzbekistan,Both sexes,39.7
+2013,SI_COV_DISAB,Norway,Male,100.0
+2013,SI_COV_DISAB,Norway,Female,100.0
+2013,SI_COV_DISAB,Norway,Both sexes,100.0
+2014,SI_COV_DISAB,Norway,Both sexes,100.0
+2014,SI_COV_DISAB,Norway,Female,100.0
+2014,SI_COV_DISAB,Norway,Male,100.0
+2014,SI_COV_DISAB,Norway,Male,100.0

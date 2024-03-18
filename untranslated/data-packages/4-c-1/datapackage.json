@@ -12,7 +12,80 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TRA_GRDL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Costa Rica",
+                "Azerbaijan",
+                "Belarus",
+                "Georgia",
+                "India",
+                "Armenia",
+                "Kazakhstan",
+                "Colombia",
+                "Malta",
+                "Mexico",
+                "Republic of Korea",
+                "Croatia",
+                "Republic of Moldova",
+                "Viet Nam",
+                "Poland",
+                "Portugal",
+                "Uzbekistan",
+                "Spain",
+                "Kyrgyzstan",
+                "Serbia",
+                "Latvia",
+                "Lithuania",
+                "Slovakia",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Turkmenistan",
+                "Ukraine",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LOWSEC",
+                "PREPRI",
+                "PRIMAR",
+                "UPPSEC",
+                "SECOND",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                "BOTHSEX",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,0 +1,114 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_CBD_SMTA",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Luxembourg",
+                "Malta",
+                "Albania",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Azerbaijan",
+                "Australia",
+                "Netherlands (Kingdom of the)",
+                "Austria",
+                "Armenia",
+                "New Zealand",
+                "Belgium",
+                "Norway",
+                "Bosnia and Herzegovina",
+                "Poland",
+                "Bulgaria",
+                "Portugal",
+                "Belarus",
+                "Romania",
+                "Canada",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Slovenia",
+                "Czechia",
+                "Denmark",
+                "Spain",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Sweden",
+                "Switzerland",
+                "Germany",
+                "Tajikistan",
+                "Greece",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Hungary",
+                "Ukraine",
+                "Iceland",
+                "North Macedonia",
+                "India",
+                "Ireland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Israel",
+                "Italy",
+                "Uzbekistan",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-6-1-ER_CBD_SMTA",
+  "title": "meta.name-15-6-1-ER_CBD_SMTA"
+}

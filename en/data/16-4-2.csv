@@ -1,1 +1,29 @@
-Year,Value
+Year,SeriesCode,Country,Value
+2020,VC_ARM_SZTRACE,Albania,10.71
+2017,VC_ARM_SZTRACE,Azerbaijan,100.0
+2018,VC_ARM_SZTRACE,Azerbaijan,50.38
+2019,VC_ARM_SZTRACE,Azerbaijan,12.06
+2017,VC_ARM_SZTRACE,Australia,0.96
+2020,VC_ARM_SZTRACE,Bulgaria,67.19
+2020,VC_ARM_SZTRACE,Colombia,10.25
+2019,VC_ARM_SZTRACE,France,0.99
+2017,VC_ARM_SZTRACE,Greece,18.2
+2018,VC_ARM_SZTRACE,Greece,11.9
+2021,VC_ARM_SZTRACE,Greece,14.69
+2021,VC_ARM_SZTRACE,Latvia,100.0
+2016,VC_ARM_SZTRACE,Lithuania,1.68
+2017,VC_ARM_SZTRACE,Moldova,9.43
+2018,VC_ARM_SZTRACE,Moldova,6.25
+2019,VC_ARM_SZTRACE,Moldova,39.13
+2019,VC_ARM_SZTRACE,Romania,27.4
+2017,VC_ARM_SZTRACE,Spain,55.22
+2018,VC_ARM_SZTRACE,Spain,59.68
+2019,VC_ARM_SZTRACE,Spain,53.35
+2020,VC_ARM_SZTRACE,Spain,48.44
+2021,VC_ARM_SZTRACE,Spain,44.54
+2017,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,14.76
+2018,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,18.71
+2019,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,23.84
+2020,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,20.04
+2021,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,19.12
+2021,VC_ARM_SZTRACE,United Kingdom of Great Britain and Northern Ireland,19.12

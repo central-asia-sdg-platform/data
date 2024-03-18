@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_RSRV_MNWAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Albania",
+                "Romania",
+                "Cyprus",
+                "Czechia",
+                "Serbia",
+                "Azerbaijan",
+                "Denmark",
+                "Australia",
+                "Slovakia",
+                "Estonia",
+                "Austria",
+                "Finland",
+                "Armenia",
+                "Viet Nam",
+                "France",
+                "Belgium",
+                "Georgia",
+                "Slovenia",
+                "Germany",
+                "Bosnia and Herzegovina",
+                "Greece",
+                "Bulgaria",
+                "Spain",
+                "Hungary",
+                "Chile",
+                "Iceland",
+                "Switzerland",
+                "India",
+                "Tajikistan",
+                "Ireland",
+                "United Arab Emirates",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Türkiye",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Turkmenistan",
+                "Latvia",
+                "Liechtenstein",
+                "Ukraine",
+                "Lithuania",
+                "Luxembourg",
+                "North Macedonia",
+                "Malta",
+                "Mexico",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Republic of Moldova",
+                "Montenegro",
+                "Uzbekistan",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_RSRV_MNWAN",
+  "title": "meta.name-6-6-1-EN_RSRV_MNWAN"
+}

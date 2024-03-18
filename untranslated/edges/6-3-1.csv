@@ -1,1 +1,4 @@
 From,To
+SeriesCode,GeoAreaName
+GeoAreaName,Activity
+Activity,Location

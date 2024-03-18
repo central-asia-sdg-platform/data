@@ -1,0 +1,122 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_AWP_CPRA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Chile",
+                "Mexico",
+                "India",
+                "Azerbaijan",
+                "Australia",
+                "Armenia",
+                "Republic of Moldova",
+                "China",
+                "Colombia",
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Belarus",
+                "Canada",
+                "Serbia",
+                "Costa Rica",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "Viet Nam",
+                "North Macedonia",
+                "Tajikistan",
+                "Georgia",
+                "Uzbekistan",
+                "Israel",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LOWSEC",
+                "UPPSEC",
+                "PRIMAR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_AWP_CPRA",
+  "title": "meta.name-4-5-1-SE_AWP_CPRA"
+}

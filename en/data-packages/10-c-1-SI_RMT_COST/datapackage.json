@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_RMT_COST",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Estonia",
+                "Georgia",
+                "Hungary",
+                "India",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Mexico",
+                "Moldova",
+                "Poland",
+                "Romania",
+                "Serbia",
+                "Viet Nam",
+                "Tajikistan",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1-SI_RMT_COST",
+  "title": "meta.name-10-c-1-SI_RMT_COST"
+}

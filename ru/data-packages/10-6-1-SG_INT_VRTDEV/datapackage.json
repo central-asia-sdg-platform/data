@@ -1,0 +1,135 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_INT_VRTDEV",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Albania",
+                "Estonia",
+                "Belarus",
+                "Казахстан",
+                "Republic of Korea",
+                "Finland",
+                "Azerbaijan",
+                "Australia",
+                "France",
+                "Кыргызстан",
+                "Austria",
+                "Latvia",
+                "Georgia",
+                "Liechtenstein",
+                "Armenia",
+                "Lithuania",
+                "Germany",
+                "Luxembourg",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Malta",
+                "Greece",
+                "Netherlands (Kingdom of the)",
+                "Mexico",
+                "New Zealand",
+                "Republic of Moldova",
+                "Hungary",
+                "Norway",
+                "Montenegro",
+                "Poland",
+                "Canada",
+                "Slovakia",
+                "Portugal",
+                "Iceland",
+                "Romania",
+                "Serbia",
+                "Узбекистан",
+                "Viet Nam",
+                "India",
+                "Slovenia",
+                "Ireland",
+                "Israel",
+                "Chile",
+                "Spain",
+                "Italy",
+                "China",
+                "Japan",
+                "Sweden",
+                "Colombia",
+                "Switzerland",
+                "Таджикистан",
+                "Costa Rica",
+                "Croatia",
+                "United Arab Emirates",
+                "Türkiye",
+                "Cyprus",
+                "Туркменистан",
+                "Czechia",
+                "Ukraine",
+                "Denmark",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Name of international institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ECOSOC",
+                "UNGA",
+                "IFC",
+                "IMF",
+                "WTO",
+                "IBRD",
+                "UNSC",
+                "ADB",
+                "AFDB",
+                "IADB",
+                "FSB",
+                ""
+              ]
+            },
+            "title": "Name of international institution"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-6-1-SG_INT_VRTDEV",
+  "title": "meta.name-10-6-1-SG_INT_VRTDEV"
+}

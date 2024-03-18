@@ -12,8 +12,70 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_DEV_ONTRK",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Costa Rica",
+                "Georgia",
+                "Казахстан",
+                "Кыргызстан",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "North Macedonia",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M36T59",
+                "M24T59",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

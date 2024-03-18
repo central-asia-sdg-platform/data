@@ -1,0 +1,127 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_MED_DEN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Albania",
+                "Hungary",
+                "Moldova",
+                "Canada",
+                "Azerbaijan",
+                "Chile",
+                "Iceland",
+                "China",
+                "Australia",
+                "India",
+                "Colombia",
+                "Ireland",
+                "Costa Rica",
+                "Austria",
+                "Israel",
+                "Croatia",
+                "Armenia",
+                "Italy",
+                "Belgium",
+                "Cyprus",
+                "Bosnia and Herzegovina",
+                "Japan",
+                "Czechia",
+                "Kazakhstan",
+                "Bulgaria",
+                "Republic of Korea",
+                "Denmark",
+                "Spain",
+                "Kyrgyzstan",
+                "Estonia",
+                "Latvia",
+                "Finland",
+                "Sweden",
+                "France",
+                "Lithuania",
+                "Switzerland",
+                "Luxembourg",
+                "Montenegro",
+                "Malta",
+                "Mexico",
+                "Georgia",
+                "Netherlands (Kingdom of the)",
+                "Tajikistan",
+                "Germany",
+                "United Arab Emirates",
+                "New Zealand",
+                "Greece",
+                "Norway",
+                "Türkiye",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PHAR",
+                "DENT",
+                "NURSMID",
+                "PHYS",
+                ""
+              ]
+            },
+            "title": "Type of occupation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-c-1-SH_MED_DEN",
+  "title": "meta.name-3-c-1-SH_MED_DEN"
+}

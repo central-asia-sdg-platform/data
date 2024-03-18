@@ -1,1 +1,6 @@
-Year,Value
+Year,SeriesCode,GeoAreaName,Disability status,Sex,Value
+2022,SP_DISP_RESOL,Canada,_T,BOTHSEX,65.89
+2022,SP_DISP_RESOL,Colombia,_T,FEMALE,46.42
+2022,SP_DISP_RESOL,Colombia,_T,BOTHSEX,46.57
+2022,SP_DISP_RESOL,Colombia,_T,MALE,46.71
+2022,SP_DISP_RESOL,Colombia,_T,MALE,46.71

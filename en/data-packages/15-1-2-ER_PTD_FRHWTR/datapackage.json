@@ -1,0 +1,151 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_PTD_FRHWTR",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Finland",
+                "Bulgaria",
+                "Latvia",
+                "Australia",
+                "Belarus",
+                "France",
+                "Austria",
+                "Canada",
+                "Georgia",
+                "Armenia",
+                "Chile",
+                "China",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Germany",
+                "Colombia",
+                "Poland",
+                "Greece",
+                "Costa Rica",
+                "Portugal",
+                "Croatia",
+                "Hungary",
+                "Romania",
+                "Iceland",
+                "Cyprus",
+                "India",
+                "Czechia",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Serbia",
+                "Denmark",
+                "Japan",
+                "Kazakhstan",
+                "Estonia",
+                "Republic of Korea",
+                "Tajikistan",
+                "Türkiye",
+                "Slovakia",
+                "Kyrgyzstan",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Viet Nam",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Slovenia",
+                "Spain",
+                "Uzbekistan",
+                "Lithuania",
+                "Sweden",
+                "Luxembourg",
+                "Switzerland",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-2-ER_PTD_FRHWTR",
+  "title": "meta.name-15-1-2-ER_PTD_FRHWTR"
+}

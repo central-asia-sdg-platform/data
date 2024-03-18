@@ -1,1 +1,4 @@
 From,To
+SeriesCode,GeoAreaName
+GeoAreaName,Education level
+Education level,Sex

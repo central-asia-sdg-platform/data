@@ -1,0 +1,505 @@
+Year,SeriesCode,Country,Sex,Value
+2000,SI_COV_PENSN,Albania,Both sexes,89.0
+2011,SI_COV_PENSN,Albania,Both sexes,77.0
+2021,SI_COV_PENSN,Albania,Male,100.0
+2021,SI_COV_PENSN,Albania,Both sexes,100.0
+2021,SI_COV_PENSN,Albania,Female,100.0
+2000,SI_COV_PENSN,Azerbaijan,Both sexes,97.0
+2016,SI_COV_PENSN,Azerbaijan,Both sexes,81.1
+2016,SI_COV_PENSN,Azerbaijan,Female,95.3
+2016,SI_COV_PENSN,Azerbaijan,Male,63.1
+2018,SI_COV_PENSN,Azerbaijan,Both sexes,100.0
+2020,SI_COV_PENSN,Azerbaijan,Both sexes,72.8
+2020,SI_COV_PENSN,Azerbaijan,Female,76.8
+2020,SI_COV_PENSN,Azerbaijan,Male,56.6
+2000,SI_COV_PENSN,Australia,Both sexes,80.0
+2013,SI_COV_PENSN,Australia,Both sexes,70.1
+2013,SI_COV_PENSN,Australia,Female,72.6
+2013,SI_COV_PENSN,Australia,Male,67.2
+2014,SI_COV_PENSN,Australia,Female,73.1
+2014,SI_COV_PENSN,Australia,Male,69.2
+2014,SI_COV_PENSN,Australia,Both sexes,71.3
+2016,SI_COV_PENSN,Australia,Both sexes,74.3
+2020,SI_COV_PENSN,Australia,Male,100.0
+2020,SI_COV_PENSN,Australia,Both sexes,100.0
+2020,SI_COV_PENSN,Australia,Female,100.0
+2000,SI_COV_PENSN,Austria,Both sexes,96.0
+2013,SI_COV_PENSN,Austria,Male,100.0
+2013,SI_COV_PENSN,Austria,Female,96.5
+2013,SI_COV_PENSN,Austria,Both sexes,100.0
+2014,SI_COV_PENSN,Austria,Both sexes,100.0
+2014,SI_COV_PENSN,Austria,Male,100.0
+2014,SI_COV_PENSN,Austria,Female,98.8
+2020,SI_COV_PENSN,Austria,Female,100.0
+2020,SI_COV_PENSN,Austria,Male,100.0
+2020,SI_COV_PENSN,Austria,Both sexes,100.0
+2000,SI_COV_PENSN,Armenia,Both sexes,87.0
+2016,SI_COV_PENSN,Armenia,Both sexes,68.5
+2016,SI_COV_PENSN,Armenia,Female,72.6
+2016,SI_COV_PENSN,Armenia,Male,62.3
+2018,SI_COV_PENSN,Armenia,Both sexes,100.0
+2020,SI_COV_PENSN,Armenia,Female,69.9
+2020,SI_COV_PENSN,Armenia,Male,58.3
+2020,SI_COV_PENSN,Armenia,Both sexes,65.2
+2000,SI_COV_PENSN,Belgium,Both sexes,100.0
+2013,SI_COV_PENSN,Belgium,Both sexes,100.0
+2013,SI_COV_PENSN,Belgium,Female,98.9
+2013,SI_COV_PENSN,Belgium,Male,100.0
+2014,SI_COV_PENSN,Belgium,Male,100.0
+2014,SI_COV_PENSN,Belgium,Female,100.0
+2014,SI_COV_PENSN,Belgium,Both sexes,100.0
+2020,SI_COV_PENSN,Belgium,Both sexes,100.0
+2020,SI_COV_PENSN,Belgium,Female,100.0
+2020,SI_COV_PENSN,Belgium,Male,100.0
+2009,SI_COV_PENSN,Bosnia and Herzegovina,Both sexes,29.6
+2020,SI_COV_PENSN,Bosnia and Herzegovina,Female,41.3
+2020,SI_COV_PENSN,Bosnia and Herzegovina,Both sexes,69.5
+2020,SI_COV_PENSN,Bosnia and Herzegovina,Male,100.0
+2000,SI_COV_PENSN,Bulgaria,Both sexes,96.0
+2013,SI_COV_PENSN,Bulgaria,Both sexes,100.0
+2013,SI_COV_PENSN,Bulgaria,Female,100.0
+2013,SI_COV_PENSN,Bulgaria,Male,100.0
+2014,SI_COV_PENSN,Bulgaria,Both sexes,100.0
+2014,SI_COV_PENSN,Bulgaria,Female,100.0
+2014,SI_COV_PENSN,Bulgaria,Male,100.0
+2016,SI_COV_PENSN,Bulgaria,Both sexes,100.0
+2016,SI_COV_PENSN,Bulgaria,Male,100.0
+2016,SI_COV_PENSN,Bulgaria,Female,100.0
+2020,SI_COV_PENSN,Bulgaria,Female,82.5
+2020,SI_COV_PENSN,Bulgaria,Male,100.0
+2020,SI_COV_PENSN,Bulgaria,Both sexes,94.0
+2000,SI_COV_PENSN,Belarus,Both sexes,39.0
+2016,SI_COV_PENSN,Belarus,Both sexes,100.0
+2020,SI_COV_PENSN,Belarus,Male,100.0
+2020,SI_COV_PENSN,Belarus,Both sexes,100.0
+2020,SI_COV_PENSN,Belarus,Female,100.0
+2000,SI_COV_PENSN,Canada,Both sexes,91.0
+2013,SI_COV_PENSN,Canada,Both sexes,92.1
+2013,SI_COV_PENSN,Canada,Male,91.0
+2013,SI_COV_PENSN,Canada,Female,93.0
+2014,SI_COV_PENSN,Canada,Female,95.8
+2014,SI_COV_PENSN,Canada,Male,94.1
+2014,SI_COV_PENSN,Canada,Both sexes,95.1
+2016,SI_COV_PENSN,Canada,Female,100.0
+2016,SI_COV_PENSN,Canada,Both sexes,100.0
+2016,SI_COV_PENSN,Canada,Male,100.0
+2020,SI_COV_PENSN,Canada,Male,100.0
+2020,SI_COV_PENSN,Canada,Both sexes,100.0
+2020,SI_COV_PENSN,Canada,Female,100.0
+2003,SI_COV_PENSN,Chile,Both sexes,63.0
+2013,SI_COV_PENSN,Chile,Male,30.7
+2013,SI_COV_PENSN,Chile,Female,47.8
+2013,SI_COV_PENSN,Chile,Both sexes,40.6
+2014,SI_COV_PENSN,Chile,Male,29.8
+2014,SI_COV_PENSN,Chile,Both sexes,40.0
+2014,SI_COV_PENSN,Chile,Female,47.5
+2016,SI_COV_PENSN,Chile,Both sexes,78.6
+2020,SI_COV_PENSN,Chile,Both sexes,71.5
+2020,SI_COV_PENSN,Chile,Female,72.6
+2020,SI_COV_PENSN,Chile,Male,69.5
+2021,SI_COV_PENSN,Chile,Male,100.0
+2021,SI_COV_PENSN,Chile,Both sexes,100.0
+2021,SI_COV_PENSN,Chile,Female,100.0
+2000,SI_COV_PENSN,China,Both sexes,24.0
+2016,SI_COV_PENSN,China,Both sexes,100.0
+2017,SI_COV_PENSN,China,Both sexes,100.0
+2020,SI_COV_PENSN,China,Female,100.0
+2020,SI_COV_PENSN,China,Male,100.0
+2020,SI_COV_PENSN,China,Both sexes,100.0
+2000,SI_COV_PENSN,Colombia,Both sexes,14.0
+2016,SI_COV_PENSN,Colombia,Male,53.6
+2016,SI_COV_PENSN,Colombia,Female,53.0
+2016,SI_COV_PENSN,Colombia,Both sexes,51.7
+2020,SI_COV_PENSN,Colombia,Both sexes,50.6
+2021,SI_COV_PENSN,Colombia,Both sexes,45.7
+2000,SI_COV_PENSN,Costa Rica,Both sexes,28.0
+2016,SI_COV_PENSN,Costa Rica,Both sexes,68.8
+2020,SI_COV_PENSN,Costa Rica,Male,68.0
+2020,SI_COV_PENSN,Costa Rica,Both sexes,56.2
+2020,SI_COV_PENSN,Costa Rica,Female,46.1
+2021,SI_COV_PENSN,Costa Rica,Both sexes,56.2
+2016,SI_COV_PENSN,Croatia,Both sexes,57.6
+2020,SI_COV_PENSN,Croatia,Female,63.1
+2020,SI_COV_PENSN,Croatia,Both sexes,89.8
+2020,SI_COV_PENSN,Croatia,Male,100.0
+2000,SI_COV_PENSN,Cyprus,Both sexes,74.0
+2013,SI_COV_PENSN,Cyprus,Female,73.8
+2013,SI_COV_PENSN,Cyprus,Male,100.0
+2013,SI_COV_PENSN,Cyprus,Both sexes,91.4
+2014,SI_COV_PENSN,Cyprus,Female,76.8
+2014,SI_COV_PENSN,Cyprus,Both sexes,94.3
+2014,SI_COV_PENSN,Cyprus,Male,100.0
+2020,SI_COV_PENSN,Cyprus,Male,100.0
+2020,SI_COV_PENSN,Cyprus,Female,79.9
+2020,SI_COV_PENSN,Cyprus,Both sexes,97.8
+2000,SI_COV_PENSN,Czechia,Both sexes,100.0
+2013,SI_COV_PENSN,Czechia,Female,100.0
+2013,SI_COV_PENSN,Czechia,Male,100.0
+2013,SI_COV_PENSN,Czechia,Both sexes,100.0
+2014,SI_COV_PENSN,Czechia,Both sexes,100.0
+2014,SI_COV_PENSN,Czechia,Female,100.0
+2014,SI_COV_PENSN,Czechia,Male,100.0
+2020,SI_COV_PENSN,Czechia,Both sexes,91.3
+2020,SI_COV_PENSN,Czechia,Male,84.0
+2020,SI_COV_PENSN,Czechia,Female,96.9
+2000,SI_COV_PENSN,Denmark,Both sexes,100.0
+2013,SI_COV_PENSN,Denmark,Male,95.2
+2013,SI_COV_PENSN,Denmark,Both sexes,96.8
+2013,SI_COV_PENSN,Denmark,Female,98.2
+2014,SI_COV_PENSN,Denmark,Both sexes,99.2
+2014,SI_COV_PENSN,Denmark,Male,97.8
+2014,SI_COV_PENSN,Denmark,Female,100.0
+2020,SI_COV_PENSN,Denmark,Female,100.0
+2020,SI_COV_PENSN,Denmark,Male,100.0
+2020,SI_COV_PENSN,Denmark,Both sexes,100.0
+2000,SI_COV_PENSN,Estonia,Both sexes,92.0
+2013,SI_COV_PENSN,Estonia,Male,100.0
+2013,SI_COV_PENSN,Estonia,Female,100.0
+2013,SI_COV_PENSN,Estonia,Both sexes,100.0
+2014,SI_COV_PENSN,Estonia,Male,100.0
+2014,SI_COV_PENSN,Estonia,Both sexes,100.0
+2014,SI_COV_PENSN,Estonia,Female,100.0
+2020,SI_COV_PENSN,Estonia,Male,100.0
+2020,SI_COV_PENSN,Estonia,Both sexes,100.0
+2020,SI_COV_PENSN,Estonia,Female,100.0
+2000,SI_COV_PENSN,Finland,Both sexes,100.0
+2013,SI_COV_PENSN,Finland,Both sexes,100.0
+2013,SI_COV_PENSN,Finland,Female,100.0
+2013,SI_COV_PENSN,Finland,Male,100.0
+2014,SI_COV_PENSN,Finland,Male,100.0
+2014,SI_COV_PENSN,Finland,Both sexes,100.0
+2014,SI_COV_PENSN,Finland,Female,100.0
+2020,SI_COV_PENSN,Finland,Both sexes,100.0
+2020,SI_COV_PENSN,Finland,Female,100.0
+2020,SI_COV_PENSN,Finland,Male,100.0
+2000,SI_COV_PENSN,France,Both sexes,100.0
+2013,SI_COV_PENSN,France,Female,100.0
+2013,SI_COV_PENSN,France,Male,100.0
+2013,SI_COV_PENSN,France,Both sexes,100.0
+2014,SI_COV_PENSN,France,Female,100.0
+2014,SI_COV_PENSN,France,Male,100.0
+2014,SI_COV_PENSN,France,Both sexes,100.0
+2020,SI_COV_PENSN,France,Male,100.0
+2020,SI_COV_PENSN,France,Both sexes,100.0
+2020,SI_COV_PENSN,France,Female,100.0
+2000,SI_COV_PENSN,Georgia,Both sexes,80.0
+2016,SI_COV_PENSN,Georgia,Male,97.7
+2016,SI_COV_PENSN,Georgia,Both sexes,91.9
+2016,SI_COV_PENSN,Georgia,Female,89.7
+2018,SI_COV_PENSN,Georgia,Both sexes,100.0
+2020,SI_COV_PENSN,Georgia,Both sexes,90.9
+2020,SI_COV_PENSN,Georgia,Male,98.7
+2020,SI_COV_PENSN,Georgia,Female,100.0
+2000,SI_COV_PENSN,Germany,Both sexes,100.0
+2013,SI_COV_PENSN,Germany,Male,77.1
+2013,SI_COV_PENSN,Germany,Female,66.4
+2013,SI_COV_PENSN,Germany,Both sexes,71.1
+2014,SI_COV_PENSN,Germany,Female,66.7
+2014,SI_COV_PENSN,Germany,Male,77.6
+2014,SI_COV_PENSN,Germany,Both sexes,71.5
+2016,SI_COV_PENSN,Germany,Both sexes,100.0
+2016,SI_COV_PENSN,Germany,Female,100.0
+2016,SI_COV_PENSN,Germany,Male,100.0
+2020,SI_COV_PENSN,Germany,Male,100.0
+2020,SI_COV_PENSN,Germany,Female,100.0
+2020,SI_COV_PENSN,Germany,Both sexes,100.0
+2000,SI_COV_PENSN,Greece,Both sexes,91.0
+2010,SI_COV_PENSN,Greece,Both sexes,77.4
+2020,SI_COV_PENSN,Greece,Male,100.0
+2020,SI_COV_PENSN,Greece,Both sexes,95.8
+2020,SI_COV_PENSN,Greece,Female,79.1
+2000,SI_COV_PENSN,Hungary,Both sexes,97.0
+2013,SI_COV_PENSN,Hungary,Female,100.0
+2013,SI_COV_PENSN,Hungary,Male,100.0
+2013,SI_COV_PENSN,Hungary,Both sexes,100.0
+2014,SI_COV_PENSN,Hungary,Female,100.0
+2014,SI_COV_PENSN,Hungary,Male,100.0
+2014,SI_COV_PENSN,Hungary,Both sexes,100.0
+2020,SI_COV_PENSN,Hungary,Both sexes,90.5
+2020,SI_COV_PENSN,Hungary,Male,83.2
+2020,SI_COV_PENSN,Hungary,Female,95.3
+2000,SI_COV_PENSN,Iceland,Both sexes,91.0
+2013,SI_COV_PENSN,Iceland,Male,61.9
+2013,SI_COV_PENSN,Iceland,Both sexes,66.7
+2013,SI_COV_PENSN,Iceland,Female,70.9
+2014,SI_COV_PENSN,Iceland,Male,64.9
+2014,SI_COV_PENSN,Iceland,Both sexes,69.2
+2014,SI_COV_PENSN,Iceland,Female,73.0
+2016,SI_COV_PENSN,Iceland,Both sexes,85.6
+2020,SI_COV_PENSN,Iceland,Both sexes,71.4
+2000,SI_COV_PENSN,India,Both sexes,7.0
+2016,SI_COV_PENSN,India,Both sexes,25.2
+2020,SI_COV_PENSN,India,Both sexes,42.5
+2013,SI_COV_PENSN,Ireland,Female,54.3
+2013,SI_COV_PENSN,Ireland,Both sexes,70.4
+2013,SI_COV_PENSN,Ireland,Male,89.2
+2014,SI_COV_PENSN,Ireland,Both sexes,71.3
+2014,SI_COV_PENSN,Ireland,Male,90.1
+2014,SI_COV_PENSN,Ireland,Female,55.1
+2016,SI_COV_PENSN,Ireland,Both sexes,95.8
+2019,SI_COV_PENSN,Ireland,Both sexes,100.0
+2020,SI_COV_PENSN,Ireland,Both sexes,100.0
+2020,SI_COV_PENSN,Ireland,Female,100.0
+2020,SI_COV_PENSN,Ireland,Male,100.0
+2002,SI_COV_PENSN,Israel,Both sexes,78.0
+2013,SI_COV_PENSN,Israel,Both sexes,81.1
+2014,SI_COV_PENSN,Israel,Both sexes,85.0
+2016,SI_COV_PENSN,Israel,Both sexes,99.1
+2019,SI_COV_PENSN,Israel,Both sexes,100.0
+2020,SI_COV_PENSN,Israel,Female,100.0
+2020,SI_COV_PENSN,Israel,Both sexes,100.0
+2020,SI_COV_PENSN,Israel,Male,100.0
+2000,SI_COV_PENSN,Italy,Both sexes,65.0
+2013,SI_COV_PENSN,Italy,Both sexes,90.2
+2013,SI_COV_PENSN,Italy,Female,83.3
+2013,SI_COV_PENSN,Italy,Male,99.3
+2014,SI_COV_PENSN,Italy,Both sexes,90.5
+2014,SI_COV_PENSN,Italy,Male,100.0
+2014,SI_COV_PENSN,Italy,Female,82.5
+2020,SI_COV_PENSN,Italy,Male,100.0
+2020,SI_COV_PENSN,Italy,Both sexes,94.4
+2020,SI_COV_PENSN,Italy,Female,80.2
+2000,SI_COV_PENSN,Japan,Both sexes,74.0
+2014,SI_COV_PENSN,Japan,Both sexes,100.0
+2018,SI_COV_PENSN,Japan,Both sexes,100.0
+2020,SI_COV_PENSN,Japan,Male,100.0
+2020,SI_COV_PENSN,Japan,Both sexes,100.0
+2020,SI_COV_PENSN,Japan,Female,100.0
+2000,SI_COV_PENSN,Kazakhstan,Both sexes,100.0
+2016,SI_COV_PENSN,Kazakhstan,Both sexes,82.6
+2020,SI_COV_PENSN,Kazakhstan,Both sexes,99.6
+2013,SI_COV_PENSN,Republic of Korea,Both sexes,100.0
+2013,SI_COV_PENSN,Republic of Korea,Male,100.0
+2013,SI_COV_PENSN,Republic of Korea,Female,91.0
+2014,SI_COV_PENSN,Republic of Korea,Male,100.0
+2014,SI_COV_PENSN,Republic of Korea,Both sexes,100.0
+2014,SI_COV_PENSN,Republic of Korea,Female,95.9
+2018,SI_COV_PENSN,Republic of Korea,Both sexes,100.0
+2020,SI_COV_PENSN,Republic of Korea,Female,100.0
+2020,SI_COV_PENSN,Republic of Korea,Both sexes,100.0
+2020,SI_COV_PENSN,Republic of Korea,Male,100.0
+2000,SI_COV_PENSN,Kyrgyzstan,Both sexes,86.0
+2016,SI_COV_PENSN,Kyrgyzstan,Both sexes,100.0
+2018,SI_COV_PENSN,Kyrgyzstan,Both sexes,100.0
+2020,SI_COV_PENSN,Kyrgyzstan,Male,100.0
+2020,SI_COV_PENSN,Kyrgyzstan,Both sexes,100.0
+2020,SI_COV_PENSN,Kyrgyzstan,Female,100.0
+2000,SI_COV_PENSN,Latvia,Both sexes,100.0
+2013,SI_COV_PENSN,Latvia,Both sexes,100.0
+2013,SI_COV_PENSN,Latvia,Female,100.0
+2013,SI_COV_PENSN,Latvia,Male,100.0
+2014,SI_COV_PENSN,Latvia,Female,100.0
+2014,SI_COV_PENSN,Latvia,Both sexes,100.0
+2014,SI_COV_PENSN,Latvia,Male,100.0
+2020,SI_COV_PENSN,Latvia,Both sexes,92.0
+2020,SI_COV_PENSN,Latvia,Female,92.1
+2020,SI_COV_PENSN,Latvia,Male,91.9
+2020,SI_COV_PENSN,Liechtenstein,Female,100.0
+2020,SI_COV_PENSN,Liechtenstein,Both sexes,100.0
+2020,SI_COV_PENSN,Liechtenstein,Male,100.0
+2000,SI_COV_PENSN,Lithuania,Both sexes,91.0
+2013,SI_COV_PENSN,Lithuania,Both sexes,100.0
+2013,SI_COV_PENSN,Lithuania,Male,100.0
+2013,SI_COV_PENSN,Lithuania,Female,100.0
+2014,SI_COV_PENSN,Lithuania,Both sexes,100.0
+2014,SI_COV_PENSN,Lithuania,Male,100.0
+2014,SI_COV_PENSN,Lithuania,Female,100.0
+2020,SI_COV_PENSN,Lithuania,Both sexes,97.1
+2000,SI_COV_PENSN,Luxembourg,Both sexes,100.0
+2013,SI_COV_PENSN,Luxembourg,Female,62.1
+2013,SI_COV_PENSN,Luxembourg,Both sexes,100.0
+2013,SI_COV_PENSN,Luxembourg,Male,100.0
+2014,SI_COV_PENSN,Luxembourg,Female,66.1
+2014,SI_COV_PENSN,Luxembourg,Male,100.0
+2014,SI_COV_PENSN,Luxembourg,Both sexes,100.0
+2020,SI_COV_PENSN,Luxembourg,Male,100.0
+2020,SI_COV_PENSN,Luxembourg,Female,100.0
+2020,SI_COV_PENSN,Luxembourg,Both sexes,100.0
+2000,SI_COV_PENSN,Malta,Both sexes,37.0
+2013,SI_COV_PENSN,Malta,Both sexes,79.3
+2013,SI_COV_PENSN,Malta,Female,41.9
+2013,SI_COV_PENSN,Malta,Male,100.0
+2014,SI_COV_PENSN,Malta,Female,42.8
+2014,SI_COV_PENSN,Malta,Male,100.0
+2014,SI_COV_PENSN,Malta,Both sexes,81.0
+2019,SI_COV_PENSN,Malta,Both sexes,100.0
+2020,SI_COV_PENSN,Malta,Male,100.0
+2020,SI_COV_PENSN,Malta,Both sexes,100.0
+2020,SI_COV_PENSN,Malta,Female,100.0
+2000,SI_COV_PENSN,Mexico,Both sexes,10.0
+2014,SI_COV_PENSN,Mexico,Both sexes,64.1
+2017,SI_COV_PENSN,Mexico,Male,86.1
+2017,SI_COV_PENSN,Mexico,Female,72.2
+2017,SI_COV_PENSN,Mexico,Both sexes,78.6
+2019,SI_COV_PENSN,Mexico,Both sexes,100.0
+2020,SI_COV_PENSN,Mexico,Male,100.0
+2020,SI_COV_PENSN,Mexico,Both sexes,100.0
+2020,SI_COV_PENSN,Mexico,Female,100.0
+2021,SI_COV_PENSN,Mexico,Female,100.0
+2021,SI_COV_PENSN,Mexico,Male,100.0
+2021,SI_COV_PENSN,Mexico,Both sexes,100.0
+2000,SI_COV_PENSN,Moldova,Both sexes,84.0
+2016,SI_COV_PENSN,Moldova,Both sexes,75.2
+2020,SI_COV_PENSN,Moldova,Both sexes,75.2
+2020,SI_COV_PENSN,Moldova,Male,100.0
+2020,SI_COV_PENSN,Moldova,Female,46.1
+2000,SI_COV_PENSN,Montenegro,Both sexes,39.0
+2016,SI_COV_PENSN,Montenegro,Both sexes,52.3
+2020,SI_COV_PENSN,Montenegro,Female,63.2
+2020,SI_COV_PENSN,Montenegro,Both sexes,90.6
+2020,SI_COV_PENSN,Montenegro,Male,100.0
+2000,SI_COV_PENSN,Netherlands (Kingdom of the),Both sexes,100.0
+2013,SI_COV_PENSN,Netherlands (Kingdom of the),Both sexes,96.8
+2013,SI_COV_PENSN,Netherlands (Kingdom of the),Male,96.1
+2013,SI_COV_PENSN,Netherlands (Kingdom of the),Female,97.3
+2014,SI_COV_PENSN,Netherlands (Kingdom of the),Both sexes,99.0
+2014,SI_COV_PENSN,Netherlands (Kingdom of the),Male,98.8
+2014,SI_COV_PENSN,Netherlands (Kingdom of the),Female,99.1
+2020,SI_COV_PENSN,Netherlands (Kingdom of the),Female,100.0
+2020,SI_COV_PENSN,Netherlands (Kingdom of the),Both sexes,100.0
+2020,SI_COV_PENSN,Netherlands (Kingdom of the),Male,100.0
+2000,SI_COV_PENSN,New Zealand,Both sexes,100.0
+2013,SI_COV_PENSN,New Zealand,Female,99.0
+2013,SI_COV_PENSN,New Zealand,Male,96.6
+2013,SI_COV_PENSN,New Zealand,Both sexes,97.9
+2014,SI_COV_PENSN,New Zealand,Male,100.0
+2014,SI_COV_PENSN,New Zealand,Female,100.0
+2014,SI_COV_PENSN,New Zealand,Both sexes,100.0
+2016,SI_COV_PENSN,New Zealand,Both sexes,100.0
+2020,SI_COV_PENSN,New Zealand,Male,100.0
+2020,SI_COV_PENSN,New Zealand,Both sexes,100.0
+2020,SI_COV_PENSN,New Zealand,Female,100.0
+2000,SI_COV_PENSN,Norway,Both sexes,95.0
+2013,SI_COV_PENSN,Norway,Both sexes,94.4
+2013,SI_COV_PENSN,Norway,Female,82.0
+2013,SI_COV_PENSN,Norway,Male,100.0
+2014,SI_COV_PENSN,Norway,Both sexes,98.8
+2014,SI_COV_PENSN,Norway,Male,100.0
+2014,SI_COV_PENSN,Norway,Female,86.6
+2020,SI_COV_PENSN,Norway,Male,100.0
+2020,SI_COV_PENSN,Norway,Female,100.0
+2020,SI_COV_PENSN,Norway,Both sexes,100.0
+2001,SI_COV_PENSN,Poland,Both sexes,80.0
+2013,SI_COV_PENSN,Poland,Female,99.8
+2013,SI_COV_PENSN,Poland,Male,100.0
+2013,SI_COV_PENSN,Poland,Both sexes,100.0
+2014,SI_COV_PENSN,Poland,Female,99.5
+2014,SI_COV_PENSN,Poland,Male,100.0
+2014,SI_COV_PENSN,Poland,Both sexes,100.0
+2020,SI_COV_PENSN,Poland,Male,100.0
+2020,SI_COV_PENSN,Poland,Female,71.6
+2020,SI_COV_PENSN,Poland,Both sexes,83.6
+2000,SI_COV_PENSN,Portugal,Both sexes,97.0
+2013,SI_COV_PENSN,Portugal,Female,73.1
+2013,SI_COV_PENSN,Portugal,Male,95.3
+2013,SI_COV_PENSN,Portugal,Both sexes,82.4
+2014,SI_COV_PENSN,Portugal,Female,73.1
+2014,SI_COV_PENSN,Portugal,Both sexes,82.2
+2014,SI_COV_PENSN,Portugal,Male,94.7
+2020,SI_COV_PENSN,Portugal,Female,84.6
+2020,SI_COV_PENSN,Portugal,Male,100.0
+2020,SI_COV_PENSN,Portugal,Both sexes,90.4
+2000,SI_COV_PENSN,Romania,Both sexes,100.0
+2013,SI_COV_PENSN,Romania,Both sexes,100.0
+2013,SI_COV_PENSN,Romania,Male,100.0
+2013,SI_COV_PENSN,Romania,Female,100.0
+2014,SI_COV_PENSN,Romania,Female,100.0
+2014,SI_COV_PENSN,Romania,Both sexes,100.0
+2014,SI_COV_PENSN,Romania,Male,100.0
+2020,SI_COV_PENSN,Romania,Female,81.5
+2020,SI_COV_PENSN,Romania,Both sexes,93.5
+2020,SI_COV_PENSN,Romania,Male,100.0
+2000,SI_COV_PENSN,Serbia,Both sexes,25.0
+2010,SI_COV_PENSN,Serbia,Both sexes,46.1
+2020,SI_COV_PENSN,Serbia,Female,49.2
+2020,SI_COV_PENSN,Serbia,Male,89.4
+2020,SI_COV_PENSN,Serbia,Both sexes,63.5
+2021,SI_COV_PENSN,Serbia,Both sexes,53.5
+2000,SI_COV_PENSN,Slovakia,Both sexes,94.0
+2013,SI_COV_PENSN,Slovakia,Male,100.0
+2013,SI_COV_PENSN,Slovakia,Female,100.0
+2013,SI_COV_PENSN,Slovakia,Both sexes,100.0
+2014,SI_COV_PENSN,Slovakia,Male,100.0
+2014,SI_COV_PENSN,Slovakia,Female,100.0
+2014,SI_COV_PENSN,Slovakia,Both sexes,100.0
+2020,SI_COV_PENSN,Slovakia,Both sexes,90.6
+2020,SI_COV_PENSN,Slovakia,Female,94.2
+2020,SI_COV_PENSN,Slovakia,Male,85.4
+2000,SI_COV_PENSN,Viet Nam,Both sexes,16.0
+2016,SI_COV_PENSN,Viet Nam,Both sexes,39.9
+2020,SI_COV_PENSN,Viet Nam,Both sexes,40.9
+2000,SI_COV_PENSN,Slovenia,Both sexes,79.0
+2013,SI_COV_PENSN,Slovenia,Both sexes,100.0
+2014,SI_COV_PENSN,Slovenia,Both sexes,100.0
+2016,SI_COV_PENSN,Slovenia,Both sexes,100.0
+2020,SI_COV_PENSN,Slovenia,Male,100.0
+2020,SI_COV_PENSN,Slovenia,Female,100.0
+2020,SI_COV_PENSN,Slovenia,Both sexes,100.0
+2000,SI_COV_PENSN,Spain,Both sexes,75.0
+2013,SI_COV_PENSN,Spain,Male,93.9
+2013,SI_COV_PENSN,Spain,Female,43.5
+2013,SI_COV_PENSN,Spain,Both sexes,65.1
+2014,SI_COV_PENSN,Spain,Both sexes,66.3
+2014,SI_COV_PENSN,Spain,Male,95.5
+2014,SI_COV_PENSN,Spain,Female,44.5
+2020,SI_COV_PENSN,Spain,Both sexes,98.2
+2000,SI_COV_PENSN,Sweden,Both sexes,100.0
+2013,SI_COV_PENSN,Sweden,Female,100.0
+2013,SI_COV_PENSN,Sweden,Male,100.0
+2013,SI_COV_PENSN,Sweden,Both sexes,100.0
+2014,SI_COV_PENSN,Sweden,Both sexes,100.0
+2014,SI_COV_PENSN,Sweden,Female,100.0
+2014,SI_COV_PENSN,Sweden,Male,100.0
+2020,SI_COV_PENSN,Sweden,Female,100.0
+2020,SI_COV_PENSN,Sweden,Male,100.0
+2020,SI_COV_PENSN,Sweden,Both sexes,100.0
+2000,SI_COV_PENSN,Switzerland,Both sexes,100.0
+2013,SI_COV_PENSN,Switzerland,Male,93.8
+2013,SI_COV_PENSN,Switzerland,Both sexes,97.6
+2013,SI_COV_PENSN,Switzerland,Female,100.0
+2014,SI_COV_PENSN,Switzerland,Both sexes,99.7
+2014,SI_COV_PENSN,Switzerland,Female,100.0
+2014,SI_COV_PENSN,Switzerland,Male,96.3
+2020,SI_COV_PENSN,Switzerland,Female,100.0
+2020,SI_COV_PENSN,Switzerland,Male,100.0
+2020,SI_COV_PENSN,Switzerland,Both sexes,100.0
+2005,SI_COV_PENSN,Tajikistan,Both sexes,88.0
+2016,SI_COV_PENSN,Tajikistan,Both sexes,92.8
+2018,SI_COV_PENSN,Tajikistan,Both sexes,100.0
+2020,SI_COV_PENSN,Tajikistan,Both sexes,93.7
+2020,SI_COV_PENSN,United Arab Emirates,Both sexes,22.6
+2000,SI_COV_PENSN,Türkiye,Both sexes,55.0
+2013,SI_COV_PENSN,Türkiye,Both sexes,100.0
+2014,SI_COV_PENSN,Türkiye,Both sexes,100.0
+2016,SI_COV_PENSN,Türkiye,Both sexes,100.0
+2020,SI_COV_PENSN,Türkiye,Both sexes,100.0
+2020,SI_COV_PENSN,Türkiye,Female,100.0
+2020,SI_COV_PENSN,Türkiye,Male,100.0
+2021,SI_COV_PENSN,Turkmenistan,Both sexes,77.2
+2000,SI_COV_PENSN,Ukraine,Both sexes,92.0
+2016,SI_COV_PENSN,Ukraine,Both sexes,91.9
+2018,SI_COV_PENSN,Ukraine,Both sexes,96.0
+2020,SI_COV_PENSN,Ukraine,Both sexes,96.2
+2000,SI_COV_PENSN,North Macedonia,Both sexes,52.0
+2015,SI_COV_PENSN,North Macedonia,Both sexes,71.4
+2020,SI_COV_PENSN,North Macedonia,Female,40.9
+2020,SI_COV_PENSN,North Macedonia,Both sexes,68.6
+2020,SI_COV_PENSN,North Macedonia,Male,100.0
+2000,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Both sexes,98.0
+2013,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2013,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Male,98.7
+2013,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2014,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Male,100.0
+2014,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2014,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2020,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Male,100.0
+2020,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2020,SI_COV_PENSN,United Kingdom of Great Britain and Northern Ireland,Both sexes,100.0
+2000,SI_COV_PENSN,Uzbekistan,Both sexes,100.0
+2010,SI_COV_PENSN,Uzbekistan,Both sexes,98.1
+2017,SI_COV_PENSN,Uzbekistan,Both sexes,100.0
+2018,SI_COV_PENSN,Uzbekistan,Both sexes,100.0
+2020,SI_COV_PENSN,Uzbekistan,Both sexes,100.0
+2020,SI_COV_PENSN,Uzbekistan,Female,100.0
+2020,SI_COV_PENSN,Uzbekistan,Male,100.0
+2020,SI_COV_PENSN,Uzbekistan,Male,100.0

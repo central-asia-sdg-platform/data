@@ -1,1 +1,56 @@
-Year,Value
+Year,SeriesCode,Country,Age,Sex,Value
+2020,SP_DYN_MRBF18,China,20-24,Female,2.799
+2015,SP_DYN_MRBF18,Colombia,20-24,Female,23.443
+2018,SP_DYN_MRBF18,Costa Rica,20-24,Female,17.1
+2021,SP_DYN_MRBF18,Denmark,20-24,Female,0.7
+2017,SP_DYN_MRBF18,Finland,20-24,Female,0.06
+2018,SP_DYN_MRBF18,Georgia,20-24,Female,13.9
+2021,SP_DYN_MRBF18,India,20-24,Female,23.3
+2015,SP_DYN_MRBF18,Kazakhstan,20-24,Female,7.0
+2018,SP_DYN_MRBF18,Kyrgyzstan,20-24,Female,12.867
+2021,SP_DYN_MRBF18,Lithuania,20-24,Female,0.3
+2018,SP_DYN_MRBF18,Mexico,20-24,Female,20.701
+2012,SP_DYN_MRBF18,Moldova,20-24,Female,12.2
+2018,SP_DYN_MRBF18,Montenegro,20-24,Female,5.8
+2021,SP_DYN_MRBF18,Norway,20-24,Female,0.013
+2019,SP_DYN_MRBF18,Serbia,20-24,Female,5.5
+2021,SP_DYN_MRBF18,Viet Nam,20-24,Female,14.619
+2017,SP_DYN_MRBF18,Tajikistan,20-24,Female,8.667
+2018,SP_DYN_MRBF18,Türkiye,20-24,Female,14.7
+2019,SP_DYN_MRBF18,Turkmenistan,20-24,Female,6.1
+2012,SP_DYN_MRBF18,Ukraine,20-24,Female,9.059
+2019,SP_DYN_MRBF18,North Macedonia,20-24,Female,7.5
+2021,SP_DYN_MRBF18,United Kingdom of Great Britain and Northern Ireland,20-24,Female,0.02
+2022,SP_DYN_MRBF18,Uzbekistan,20-24,Female,3.407
+2018,SP_DYN_MRBF15,Albania,20-24,Female,1.387
+2011,SP_DYN_MRBF15,Azerbaijan,20-24,Female,1.9
+2016,SP_DYN_MRBF15,Armenia,20-24,Female,0.042
+2019,SP_DYN_MRBF15,Belgium,20-24,Female,0.0
+2012,SP_DYN_MRBF15,Bosnia and Herzegovina,20-24,Female,0.158
+2019,SP_DYN_MRBF15,Belarus,20-24,Female,0.1
+2020,SP_DYN_MRBF15,China,20-24,Female,0.138
+2015,SP_DYN_MRBF15,Colombia,20-24,Female,4.867
+2018,SP_DYN_MRBF15,Costa Rica,20-24,Female,2.0
+2018,SP_DYN_MRBF15,Georgia,20-24,Female,0.3
+2021,SP_DYN_MRBF15,India,20-24,Female,4.8
+2015,SP_DYN_MRBF15,Kazakhstan,20-24,Female,0.2
+2018,SP_DYN_MRBF15,Kyrgyzstan,20-24,Female,0.307
+2021,SP_DYN_MRBF15,Lithuania,20-24,Female,0.0
+2018,SP_DYN_MRBF15,Mexico,20-24,Female,3.63
+2012,SP_DYN_MRBF15,Moldova,20-24,Female,0.4
+2018,SP_DYN_MRBF15,Montenegro,20-24,Female,1.9
+2019,SP_DYN_MRBF15,Serbia,20-24,Female,1.2
+2021,SP_DYN_MRBF15,Viet Nam,20-24,Female,1.098
+2018,SP_DYN_MRBF18,Albania,20-24,Female,11.761
+2011,SP_DYN_MRBF18,Azerbaijan,20-24,Female,11.0
+2016,SP_DYN_MRBF18,Armenia,20-24,Female,5.3
+2019,SP_DYN_MRBF18,Belgium,20-24,Female,0.002
+2012,SP_DYN_MRBF18,Bosnia and Herzegovina,20-24,Female,3.496
+2019,SP_DYN_MRBF18,Belarus,20-24,Female,4.7
+2017,SP_DYN_MRBF15,Tajikistan,20-24,Female,0.124
+2018,SP_DYN_MRBF15,Türkiye,20-24,Female,2.0
+2019,SP_DYN_MRBF15,Turkmenistan,20-24,Female,0.2
+2012,SP_DYN_MRBF15,Ukraine,20-24,Female,0.1
+2019,SP_DYN_MRBF15,North Macedonia,20-24,Female,0.3
+2022,SP_DYN_MRBF15,Uzbekistan,20-24,Female,0.17
+2022,SP_DYN_MRBF15,Uzbekistan,20-24,Female,0.17

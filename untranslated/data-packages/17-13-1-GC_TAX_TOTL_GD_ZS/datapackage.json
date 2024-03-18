@@ -1,0 +1,105 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GC_TAX_TOTL_GD_ZS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Albania",
+                "China",
+                "Colombia",
+                "Azerbaijan",
+                "Poland",
+                "Costa Rica",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Slovakia",
+                "Slovenia",
+                "Bosnia and Herzegovina",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Croatia",
+                "Bulgaria",
+                "Belarus",
+                "Cyprus",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Czechia",
+                "Türkiye",
+                "Denmark",
+                "Canada",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Ukraine",
+                "Iceland",
+                "North Macedonia",
+                "India",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Ireland",
+                "Uzbekistan",
+                "Israel",
+                "Italy",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-GC_TAX_TOTL_GD_ZS",
+  "title": "meta.name-17-13-1-GC_TAX_TOTL_GD_ZS"
+}

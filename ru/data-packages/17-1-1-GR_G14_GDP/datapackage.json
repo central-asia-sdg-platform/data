@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GR_G14_GDP",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hungary",
+                "Iceland",
+                "India",
+                "Albania",
+                "Ireland",
+                "Azerbaijan",
+                "Australia",
+                "Israel",
+                "Austria",
+                "Armenia",
+                "Italy",
+                "Belgium",
+                "Japan",
+                "Bosnia and Herzegovina",
+                "Казахстан",
+                "Republic of Korea",
+                "Bulgaria",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Belarus",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-1-1-GR_G14_GDP",
+  "title": "meta.name-17-1-1-GR_G14_GDP"
+}

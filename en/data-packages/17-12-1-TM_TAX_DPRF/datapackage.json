@@ -1,0 +1,128 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TM_TAX_DPRF",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Albania",
+                "Chile",
+                "Denmark",
+                "China",
+                "Azerbaijan",
+                "Estonia",
+                "Belgium",
+                "Australia",
+                "Colombia",
+                "Finland",
+                "Costa Rica",
+                "Austria",
+                "Croatia",
+                "France",
+                "Cyprus",
+                "Germany",
+                "Georgia",
+                "Czechia",
+                "Greece",
+                "Ireland",
+                "Israel",
+                "Hungary",
+                "Italy",
+                "Iceland",
+                "Liechtenstein",
+                "Lithuania",
+                "India",
+                "Japan",
+                "Kazakhstan",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Republic of Korea",
+                "Luxembourg",
+                "Kyrgyzstan",
+                "Norway",
+                "Latvia",
+                "Malta",
+                "Mexico",
+                "Poland",
+                "Portugal",
+                "Moldova",
+                "Slovakia",
+                "Romania",
+                "United Arab Emirates",
+                "Bosnia and Herzegovina",
+                "Türkiye",
+                "Viet Nam",
+                "Slovenia",
+                "Turkmenistan",
+                "Spain",
+                "Bulgaria",
+                "Ukraine",
+                "Sweden",
+                "North Macedonia",
+                "Tajikistan",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Belarus",
+                "Uzbekistan",
+                "Canada",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TEX",
+                "IND",
+                "CLO",
+                "ALP",
+                "AGR",
+                "OIL",
+                "ARM",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-12-1-TM_TAX_DPRF",
+  "title": "meta.name-17-12-1-TM_TAX_DPRF"
+}

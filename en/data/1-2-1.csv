@@ -1,1 +1,605 @@
-Year,Value
+Year,SeriesCode,Country,Age,Location,Sex,Value
+2002,SI_POV_NAHC,Albania,,All areas,,25.4
+2005,SI_POV_NAHC,Albania,,All areas,,18.5
+2008,SI_POV_NAHC,Albania,,All areas,,12.4
+2012,SI_POV_NAHC,Albania,,All areas,,14.3
+2016,SI_POV_NAHC,Albania,,All areas,,23.7
+2017,SI_POV_NAHC,Albania,,All areas,,23.4
+2018,SI_POV_NAHC,Albania,,All areas,,23.0
+2019,SI_POV_NAHC,Albania,,All areas,,21.8
+2001,SI_POV_NAHC,Azerbaijan,,All areas,,49.6
+2007,SI_POV_NAHC,Azerbaijan,,All areas,,15.8
+2008,SI_POV_NAHC,Azerbaijan,,All areas,,13.2
+2009,SI_POV_NAHC,Azerbaijan,,All areas,,10.9
+2010,SI_POV_NAHC,Azerbaijan,,All areas,,9.1
+2011,SI_POV_NAHC,Azerbaijan,,All areas,,7.6
+2012,SI_POV_NAHC,Azerbaijan,,All areas,,6.0
+2002,SI_POV_NAHC,Austria,,All areas,,13.2
+2003,SI_POV_NAHC,Austria,,All areas,,13.0
+2004,SI_POV_NAHC,Austria,,All areas,,12.6
+2005,SI_POV_NAHC,Austria,,All areas,,12.6
+2006,SI_POV_NAHC,Austria,,All areas,,12.0
+2007,SI_POV_NAHC,Austria,,All areas,,15.2
+2008,SI_POV_NAHC,Austria,,All areas,,14.5
+2009,SI_POV_NAHC,Austria,,All areas,,14.7
+2010,SI_POV_NAHC,Austria,,All areas,,14.5
+2011,SI_POV_NAHC,Austria,,All areas,,14.4
+2012,SI_POV_NAHC,Austria,,All areas,,14.4
+2013,SI_POV_NAHC,Austria,,All areas,,14.1
+2014,SI_POV_NAHC,Austria,,All areas,,13.9
+2015,SI_POV_NAHC,Austria,,All areas,,14.1
+2016,SI_POV_NAHC,Austria,,All areas,,14.4
+2017,SI_POV_NAHC,Austria,,All areas,,14.3
+2018,SI_POV_NAHC,Austria,,All areas,,13.3
+2019,SI_POV_NAHC,Austria,,All areas,,13.9
+2020,SI_POV_NAHC,Austria,,All areas,,14.7
+2019,SI_POV_NAHC,Armenia,,All areas,,26.4
+2020,SI_POV_NAHC,Armenia,,All areas,,27.0
+2021,SI_POV_NAHC,Armenia,,All areas,,26.5
+2018,SI_POV_NAHC,Belgium,,All areas,,14.8
+2019,SI_POV_NAHC,Belgium,,All areas,,14.1
+2020,SI_POV_NAHC,Belgium,,All areas,,12.7
+2004,SI_POV_NAHC,Bosnia and Herzegovina,,All areas,,17.7
+2007,SI_POV_NAHC,Bosnia and Herzegovina,,All areas,,18.2
+2011,SI_POV_NAHC,Bosnia and Herzegovina,,All areas,,17.9
+2015,SI_POV_NAHC,Bosnia and Herzegovina,,All areas,,16.9
+2015,SI_POV_NAHC,Bulgaria,,All areas,,22.9
+2016,SI_POV_NAHC,Bulgaria,,All areas,,23.4
+2017,SI_POV_NAHC,Bulgaria,,All areas,,22.0
+2018,SI_POV_NAHC,Bulgaria,,All areas,,22.6
+2019,SI_POV_NAHC,Bulgaria,,All areas,,23.8
+2020,SI_POV_NAHC,Bulgaria,,All areas,,22.1
+2000,SI_POV_NAHC,Belarus,,All areas,,41.9
+2001,SI_POV_NAHC,Belarus,,All areas,,28.9
+2002,SI_POV_NAHC,Belarus,,All areas,,30.5
+2003,SI_POV_NAHC,Belarus,,All areas,,27.1
+2004,SI_POV_NAHC,Belarus,,All areas,,17.8
+2005,SI_POV_NAHC,Belarus,,All areas,,12.7
+2006,SI_POV_NAHC,Belarus,,All areas,,11.1
+2007,SI_POV_NAHC,Belarus,,All areas,,7.7
+2008,SI_POV_NAHC,Belarus,,All areas,,6.1
+2009,SI_POV_NAHC,Belarus,,All areas,,5.4
+2010,SI_POV_NAHC,Belarus,,All areas,,5.2
+2011,SI_POV_NAHC,Belarus,,All areas,,7.3
+2012,SI_POV_NAHC,Belarus,,All areas,,6.3
+2013,SI_POV_NAHC,Belarus,,All areas,,5.5
+2014,SI_POV_NAHC,Belarus,,All areas,,4.8
+2015,SI_POV_NAHC,Belarus,,All areas,,5.1
+2016,SI_POV_NAHC,Belarus,,All areas,,5.7
+2017,SI_POV_NAHC,Belarus,,All areas,,5.9
+2018,SI_POV_NAHC,Belarus,,All areas,,5.6
+2019,SI_POV_NAHC,Belarus,,All areas,,5.0
+2020,SI_POV_NAHC,Belarus,,All areas,,4.8
+2000,SI_POV_NAHC,Chile,,All areas,,36.0
+2003,SI_POV_NAHC,Chile,,All areas,,35.4
+2006,SI_POV_NAHC,Chile,,All areas,,29.1
+2009,SI_POV_NAHC,Chile,,All areas,,25.3
+2011,SI_POV_NAHC,Chile,,All areas,,22.2
+2013,SI_POV_NAHC,Chile,,All areas,,14.4
+2015,SI_POV_NAHC,Chile,,All areas,,11.7
+2017,SI_POV_NAHC,Chile,,All areas,,8.6
+2020,SI_POV_NAHC,Chile,,All areas,,10.8
+2000,SI_POV_NAHC,China,,All areas,,49.8
+2005,SI_POV_NAHC,China,,All areas,,30.2
+2010,SI_POV_NAHC,China,,All areas,,17.2
+2011,SI_POV_NAHC,China,,All areas,,12.7
+2012,SI_POV_NAHC,China,,All areas,,10.2
+2013,SI_POV_NAHC,China,,All areas,,8.5
+2014,SI_POV_NAHC,China,,All areas,,7.2
+2015,SI_POV_NAHC,China,,All areas,,5.7
+2016,SI_POV_NAHC,China,,All areas,,4.5
+2017,SI_POV_NAHC,China,,All areas,,3.1
+2018,SI_POV_NAHC,China,,All areas,,1.7
+2019,SI_POV_NAHC,China,,All areas,,0.6
+2020,SI_POV_NAHC,China,,All areas,,0.0
+2019,SI_POV_NAHC,Colombia,,All areas,,35.7
+2020,SI_POV_NAHC,Colombia,,All areas,,42.5
+2021,SI_POV_NAHC,Colombia,,All areas,,39.3
+2000,SI_POV_NAHC,Costa Rica,,All areas,,20.6
+2001,SI_POV_NAHC,Costa Rica,,All areas,,20.3
+2002,SI_POV_NAHC,Costa Rica,,All areas,,20.6
+2003,SI_POV_NAHC,Costa Rica,,All areas,,18.5
+2004,SI_POV_NAHC,Costa Rica,,All areas,,21.7
+2005,SI_POV_NAHC,Costa Rica,,All areas,,21.2
+2006,SI_POV_NAHC,Costa Rica,,All areas,,20.2
+2007,SI_POV_NAHC,Costa Rica,,All areas,,16.7
+2008,SI_POV_NAHC,Costa Rica,,All areas,,17.7
+2009,SI_POV_NAHC,Costa Rica,,All areas,,18.5
+2011,SI_POV_NAHC,Costa Rica,,All areas,,24.8
+2012,SI_POV_NAHC,Costa Rica,,All areas,,23.5
+2013,SI_POV_NAHC,Costa Rica,,All areas,,23.3
+2014,SI_POV_NAHC,Costa Rica,,All areas,,24.6
+2015,SI_POV_NAHC,Costa Rica,,All areas,,23.6
+2016,SI_POV_NAHC,Costa Rica,,All areas,,22.9
+2017,SI_POV_NAHC,Costa Rica,,All areas,,22.1
+2018,SI_POV_NAHC,Costa Rica,,All areas,,22.9
+2019,SI_POV_NAHC,Costa Rica,,All areas,,23.9
+2020,SI_POV_NAHC,Costa Rica,,All areas,,30.0
+2009,SI_POV_NAHC,Croatia,,All areas,,20.6
+2010,SI_POV_NAHC,Croatia,,All areas,,20.9
+2011,SI_POV_NAHC,Croatia,,All areas,,20.4
+2012,SI_POV_NAHC,Croatia,,All areas,,19.5
+2013,SI_POV_NAHC,Croatia,,All areas,,19.4
+2014,SI_POV_NAHC,Croatia,,All areas,,20.0
+2015,SI_POV_NAHC,Croatia,,All areas,,19.5
+2016,SI_POV_NAHC,Croatia,,All areas,,20.0
+2017,SI_POV_NAHC,Croatia,,All areas,,19.3
+2018,SI_POV_NAHC,Croatia,,All areas,,18.3
+2019,SI_POV_NAHC,Croatia,,All areas,,18.3
+2020,SI_POV_NAHC,Croatia,,All areas,,19.2
+2004,SI_POV_NAHC,Cyprus,,All areas,,16.1
+2005,SI_POV_NAHC,Cyprus,,All areas,,15.6
+2006,SI_POV_NAHC,Cyprus,,All areas,,15.5
+2007,SI_POV_NAHC,Cyprus,,All areas,,15.9
+2008,SI_POV_NAHC,Cyprus,,All areas,,15.8
+2009,SI_POV_NAHC,Cyprus,,All areas,,15.6
+2010,SI_POV_NAHC,Cyprus,,All areas,,14.8
+2011,SI_POV_NAHC,Cyprus,,All areas,,14.7
+2012,SI_POV_NAHC,Cyprus,,All areas,,15.3
+2013,SI_POV_NAHC,Cyprus,,All areas,,14.4
+2014,SI_POV_NAHC,Cyprus,,All areas,,16.2
+2015,SI_POV_NAHC,Cyprus,,All areas,,16.1
+2016,SI_POV_NAHC,Cyprus,,All areas,,15.7
+2017,SI_POV_NAHC,Cyprus,,All areas,,15.4
+2018,SI_POV_NAHC,Cyprus,,All areas,,14.7
+2019,SI_POV_NAHC,Cyprus,,All areas,,14.3
+2020,SI_POV_NAHC,Cyprus,,All areas,,13.8
+2004,SI_POV_NAHC,Czechia,,All areas,,10.4
+2005,SI_POV_NAHC,Czechia,,All areas,,9.9
+2006,SI_POV_NAHC,Czechia,,All areas,,9.6
+2007,SI_POV_NAHC,Czechia,,All areas,,9.0
+2008,SI_POV_NAHC,Czechia,,All areas,,8.6
+2009,SI_POV_NAHC,Czechia,,All areas,,9.0
+2010,SI_POV_NAHC,Czechia,,All areas,,9.8
+2011,SI_POV_NAHC,Czechia,,All areas,,9.6
+2012,SI_POV_NAHC,Czechia,,All areas,,8.6
+2013,SI_POV_NAHC,Czechia,,All areas,,9.7
+2014,SI_POV_NAHC,Czechia,,All areas,,9.7
+2015,SI_POV_NAHC,Czechia,,All areas,,9.7
+2016,SI_POV_NAHC,Czechia,,All areas,,9.1
+2017,SI_POV_NAHC,Czechia,,All areas,,9.6
+2018,SI_POV_NAHC,Czechia,,All areas,,10.1
+2019,SI_POV_NAHC,Czechia,,All areas,,9.5
+2020,SI_POV_NAHC,Czechia,,All areas,,8.6
+2019,SI_POV_NAHC,Denmark,,All areas,,12.1
+2020,SI_POV_NAHC,Denmark,,All areas,,12.3
+2003,SI_POV_NAHC,Estonia,,All areas,,20.2
+2004,SI_POV_NAHC,Estonia,,All areas,,18.3
+2005,SI_POV_NAHC,Estonia,,All areas,,18.3
+2006,SI_POV_NAHC,Estonia,,All areas,,19.4
+2007,SI_POV_NAHC,Estonia,,All areas,,19.5
+2008,SI_POV_NAHC,Estonia,,All areas,,19.7
+2009,SI_POV_NAHC,Estonia,,All areas,,15.8
+2010,SI_POV_NAHC,Estonia,,All areas,,17.5
+2011,SI_POV_NAHC,Estonia,,All areas,,17.5
+2012,SI_POV_NAHC,Estonia,,All areas,,18.6
+2013,SI_POV_NAHC,Estonia,,All areas,,21.8
+2014,SI_POV_NAHC,Estonia,,All areas,,21.6
+2015,SI_POV_NAHC,Estonia,,All areas,,21.7
+2016,SI_POV_NAHC,Estonia,,All areas,,21.0
+2017,SI_POV_NAHC,Estonia,,All areas,,21.9
+2018,SI_POV_NAHC,Estonia,,All areas,,21.7
+2019,SI_POV_NAHC,Estonia,,All areas,,20.7
+2020,SI_POV_NAHC,Estonia,,All areas,,20.6
+2003,SI_POV_NAHC,Finland,,All areas,,11.0
+2004,SI_POV_NAHC,Finland,,All areas,,11.7
+2005,SI_POV_NAHC,Finland,,All areas,,12.6
+2006,SI_POV_NAHC,Finland,,All areas,,13.0
+2007,SI_POV_NAHC,Finland,,All areas,,13.6
+2008,SI_POV_NAHC,Finland,,All areas,,13.8
+2009,SI_POV_NAHC,Finland,,All areas,,13.1
+2010,SI_POV_NAHC,Finland,,All areas,,13.7
+2011,SI_POV_NAHC,Finland,,All areas,,13.2
+2012,SI_POV_NAHC,Finland,,All areas,,11.8
+2013,SI_POV_NAHC,Finland,,All areas,,12.8
+2014,SI_POV_NAHC,Finland,,All areas,,12.4
+2015,SI_POV_NAHC,Finland,,All areas,,11.6
+2016,SI_POV_NAHC,Finland,,All areas,,11.5
+2017,SI_POV_NAHC,Finland,,All areas,,12.0
+2018,SI_POV_NAHC,Finland,,All areas,,11.6
+2019,SI_POV_NAHC,Finland,,All areas,,12.2
+2020,SI_POV_NAHC,Finland,,All areas,,10.8
+2019,SI_POV_NAHC,France,,All areas,,14.2
+2020,SI_POV_NAHC,France,,All areas,,14.4
+2004,SI_POV_NAHC,Georgia,,All areas,,34.3
+2005,SI_POV_NAHC,Georgia,,All areas,,35.4
+2006,SI_POV_NAHC,Georgia,,All areas,,36.9
+2007,SI_POV_NAHC,Georgia,,All areas,,38.8
+2008,SI_POV_NAHC,Georgia,,All areas,,34.9
+2009,SI_POV_NAHC,Georgia,,All areas,,34.9
+2010,SI_POV_NAHC,Georgia,,All areas,,37.3
+2011,SI_POV_NAHC,Georgia,,All areas,,34.1
+2012,SI_POV_NAHC,Georgia,,All areas,,30.0
+2013,SI_POV_NAHC,Georgia,,All areas,,26.2
+2014,SI_POV_NAHC,Georgia,,All areas,,23.5
+2015,SI_POV_NAHC,Georgia,,All areas,,21.6
+2016,SI_POV_NAHC,Georgia,,All areas,,22.0
+2017,SI_POV_NAHC,Georgia,,All areas,,21.9
+2018,SI_POV_NAHC,Georgia,,All areas,,20.1
+2019,SI_POV_NAHC,Georgia,,All areas,,19.5
+2020,SI_POV_NAHC,Georgia,,All areas,,21.3
+2019,SI_POV_NAHC,Germany,,All areas,,16.1
+2020,SI_POV_NAHC,Germany,,All areas,,16.0
+2002,SI_POV_NAHC,Greece,,All areas,,20.7
+2003,SI_POV_NAHC,Greece,,All areas,,19.9
+2004,SI_POV_NAHC,Greece,,All areas,,19.6
+2005,SI_POV_NAHC,Greece,,All areas,,20.5
+2006,SI_POV_NAHC,Greece,,All areas,,20.3
+2007,SI_POV_NAHC,Greece,,All areas,,20.1
+2008,SI_POV_NAHC,Greece,,All areas,,19.7
+2009,SI_POV_NAHC,Greece,,All areas,,20.1
+2010,SI_POV_NAHC,Greece,,All areas,,21.4
+2011,SI_POV_NAHC,Greece,,All areas,,23.1
+2012,SI_POV_NAHC,Greece,,All areas,,23.1
+2013,SI_POV_NAHC,Greece,,All areas,,22.1
+2014,SI_POV_NAHC,Greece,,All areas,,21.4
+2015,SI_POV_NAHC,Greece,,All areas,,21.2
+2016,SI_POV_NAHC,Greece,,All areas,,20.2
+2017,SI_POV_NAHC,Greece,,All areas,,18.5
+2018,SI_POV_NAHC,Greece,,All areas,,17.9
+2019,SI_POV_NAHC,Greece,,All areas,,17.7
+2020,SI_POV_NAHC,Greece,,All areas,,19.6
+2004,SI_POV_NAHC,Hungary,,All areas,,13.5
+2005,SI_POV_NAHC,Hungary,,All areas,,15.9
+2006,SI_POV_NAHC,Hungary,,All areas,,12.3
+2007,SI_POV_NAHC,Hungary,,All areas,,12.4
+2008,SI_POV_NAHC,Hungary,,All areas,,12.4
+2009,SI_POV_NAHC,Hungary,,All areas,,12.3
+2010,SI_POV_NAHC,Hungary,,All areas,,14.1
+2011,SI_POV_NAHC,Hungary,,All areas,,14.3
+2012,SI_POV_NAHC,Hungary,,All areas,,15.0
+2013,SI_POV_NAHC,Hungary,,All areas,,15.0
+2014,SI_POV_NAHC,Hungary,,All areas,,14.9
+2015,SI_POV_NAHC,Hungary,,All areas,,14.5
+2016,SI_POV_NAHC,Hungary,,All areas,,13.4
+2017,SI_POV_NAHC,Hungary,,All areas,,12.8
+2018,SI_POV_NAHC,Hungary,,All areas,,12.3
+2019,SI_POV_NAHC,Hungary,,All areas,,12.3
+2020,SI_POV_NAHC,Hungary,,All areas,,12.7
+2003,SI_POV_NAHC,Iceland,,All areas,,10.0
+2004,SI_POV_NAHC,Iceland,,All areas,,9.7
+2005,SI_POV_NAHC,Iceland,,All areas,,9.6
+2006,SI_POV_NAHC,Iceland,,All areas,,10.1
+2007,SI_POV_NAHC,Iceland,,All areas,,10.1
+2008,SI_POV_NAHC,Iceland,,All areas,,10.2
+2009,SI_POV_NAHC,Iceland,,All areas,,9.8
+2010,SI_POV_NAHC,Iceland,,All areas,,9.2
+2011,SI_POV_NAHC,Iceland,,All areas,,7.9
+2012,SI_POV_NAHC,Iceland,,All areas,,9.3
+2013,SI_POV_NAHC,Iceland,,All areas,,7.9
+2014,SI_POV_NAHC,Iceland,,All areas,,9.2
+2015,SI_POV_NAHC,Iceland,,All areas,,8.8
+2016,SI_POV_NAHC,Iceland,,All areas,,10.1
+2017,SI_POV_NAHC,Iceland,,All areas,,8.8
+2004,SI_POV_NAHC,India,,All areas,,37.2
+2009,SI_POV_NAHC,India,,All areas,,29.8
+2011,SI_POV_NAHC,India,,All areas,,21.9
+2019,SI_POV_NAHC,Ireland,,All areas,,13.8
+2020,SI_POV_NAHC,Ireland,,All areas,,12.9
+2003,SI_POV_NAHC,Italy,,All areas,,18.9
+2004,SI_POV_NAHC,Italy,,All areas,,19.2
+2005,SI_POV_NAHC,Italy,,All areas,,19.3
+2006,SI_POV_NAHC,Italy,,All areas,,19.5
+2007,SI_POV_NAHC,Italy,,All areas,,18.9
+2008,SI_POV_NAHC,Italy,,All areas,,18.4
+2009,SI_POV_NAHC,Italy,,All areas,,18.7
+2010,SI_POV_NAHC,Italy,,All areas,,19.8
+2011,SI_POV_NAHC,Italy,,All areas,,19.5
+2012,SI_POV_NAHC,Italy,,All areas,,19.3
+2013,SI_POV_NAHC,Italy,,All areas,,19.4
+2014,SI_POV_NAHC,Italy,,All areas,,19.9
+2015,SI_POV_NAHC,Italy,,All areas,,20.6
+2016,SI_POV_NAHC,Italy,,All areas,,20.3
+2017,SI_POV_NAHC,Italy,,All areas,,20.3
+2018,SI_POV_NAHC,Italy,,All areas,,20.1
+2019,SI_POV_NAHC,Italy,,All areas,,20.0
+2020,SI_POV_NAHC,Italy,,All areas,,20.1
+2018,SI_POV_NAHC,Kazakhstan,,All areas,,4.3
+2019,SI_POV_NAHC,Kazakhstan,,All areas,,4.3
+2020,SI_POV_NAHC,Kazakhstan,,All areas,,5.3
+2021,SI_POV_NAHC,Kazakhstan,,All areas,,5.2
+2006,SI_POV_NAHC,Kyrgyzstan,,All areas,,39.9
+2007,SI_POV_NAHC,Kyrgyzstan,,All areas,,35.0
+2008,SI_POV_NAHC,Kyrgyzstan,,All areas,,31.7
+2009,SI_POV_NAHC,Kyrgyzstan,,All areas,,31.7
+2010,SI_POV_NAHC,Kyrgyzstan,,All areas,,33.7
+2011,SI_POV_NAHC,Kyrgyzstan,,All areas,,36.8
+2012,SI_POV_NAHC,Kyrgyzstan,,All areas,,38.0
+2013,SI_POV_NAHC,Kyrgyzstan,,All areas,,37.0
+2014,SI_POV_NAHC,Kyrgyzstan,,All areas,,30.6
+2015,SI_POV_NAHC,Kyrgyzstan,,All areas,,32.1
+2016,SI_POV_NAHC,Kyrgyzstan,,All areas,,25.4
+2017,SI_POV_NAHC,Kyrgyzstan,,All areas,,25.6
+2018,SI_POV_NAHC,Kyrgyzstan,,All areas,,22.4
+2019,SI_POV_NAHC,Kyrgyzstan,,All areas,,20.1
+2020,SI_POV_NAHC,Kyrgyzstan,,All areas,,25.3
+2004,SI_POV_NAHC,Latvia,,All areas,,19.4
+2005,SI_POV_NAHC,Latvia,,All areas,,23.5
+2006,SI_POV_NAHC,Latvia,,All areas,,21.2
+2007,SI_POV_NAHC,Latvia,,All areas,,25.9
+2008,SI_POV_NAHC,Latvia,,All areas,,26.4
+2009,SI_POV_NAHC,Latvia,,All areas,,20.9
+2010,SI_POV_NAHC,Latvia,,All areas,,19.0
+2011,SI_POV_NAHC,Latvia,,All areas,,19.2
+2012,SI_POV_NAHC,Latvia,,All areas,,19.4
+2013,SI_POV_NAHC,Latvia,,All areas,,21.2
+2014,SI_POV_NAHC,Latvia,,All areas,,22.5
+2015,SI_POV_NAHC,Latvia,,All areas,,21.8
+2016,SI_POV_NAHC,Latvia,,All areas,,22.1
+2017,SI_POV_NAHC,Latvia,,All areas,,23.3
+2018,SI_POV_NAHC,Latvia,,All areas,,22.9
+2019,SI_POV_NAHC,Latvia,,All areas,,21.6
+2020,SI_POV_NAHC,Latvia,,All areas,,23.4
+2004,SI_POV_NAHC,Lithuania,,All areas,,20.5
+2005,SI_POV_NAHC,Lithuania,,All areas,,20.0
+2006,SI_POV_NAHC,Lithuania,,All areas,,19.1
+2007,SI_POV_NAHC,Lithuania,,All areas,,20.9
+2008,SI_POV_NAHC,Lithuania,,All areas,,20.3
+2009,SI_POV_NAHC,Lithuania,,All areas,,20.5
+2010,SI_POV_NAHC,Lithuania,,All areas,,19.2
+2011,SI_POV_NAHC,Lithuania,,All areas,,18.6
+2012,SI_POV_NAHC,Lithuania,,All areas,,20.6
+2013,SI_POV_NAHC,Lithuania,,All areas,,19.1
+2014,SI_POV_NAHC,Lithuania,,All areas,,22.2
+2015,SI_POV_NAHC,Lithuania,,All areas,,21.9
+2016,SI_POV_NAHC,Lithuania,,All areas,,22.9
+2017,SI_POV_NAHC,Lithuania,,All areas,,22.9
+2018,SI_POV_NAHC,Lithuania,,All areas,,20.6
+2019,SI_POV_NAHC,Lithuania,,All areas,,20.9
+2020,SI_POV_NAHC,Lithuania,,All areas,,20.0
+2020,SI_POV_NAHC,Luxembourg,,All areas,,18.1
+2004,SI_POV_NAHC,Malta,,All areas,,14.3
+2005,SI_POV_NAHC,Malta,,All areas,,14.2
+2006,SI_POV_NAHC,Malta,,All areas,,15.1
+2007,SI_POV_NAHC,Malta,,All areas,,15.3
+2008,SI_POV_NAHC,Malta,,All areas,,14.9
+2009,SI_POV_NAHC,Malta,,All areas,,15.5
+2010,SI_POV_NAHC,Malta,,All areas,,15.6
+2011,SI_POV_NAHC,Malta,,All areas,,15.1
+2012,SI_POV_NAHC,Malta,,All areas,,15.8
+2013,SI_POV_NAHC,Malta,,All areas,,15.8
+2014,SI_POV_NAHC,Malta,,All areas,,16.6
+2015,SI_POV_NAHC,Malta,,All areas,,16.5
+2016,SI_POV_NAHC,Malta,,All areas,,16.7
+2017,SI_POV_NAHC,Malta,,All areas,,16.8
+2018,SI_POV_NAHC,Malta,,All areas,,17.1
+2019,SI_POV_NAHC,Malta,,All areas,,16.9
+2020,SI_POV_NAHC,Malta,,All areas,,16.9
+2018,SI_POV_NAHC,Mexico,,All areas,,41.9
+2020,SI_POV_NAHC,Mexico,,All areas,,43.9
+2019,SI_POV_NAHC,Moldova,,All areas,,25.2
+2020,SI_POV_NAHC,Moldova,,All areas,,26.8
+2021,SI_POV_NAHC,Moldova,,All areas,,24.5
+2005,SI_POV_NAHC,Montenegro,,All areas,,11.2
+2006,SI_POV_NAHC,Montenegro,,All areas,,11.3
+2007,SI_POV_NAHC,Montenegro,,All areas,,8.0
+2008,SI_POV_NAHC,Montenegro,,All areas,,4.9
+2009,SI_POV_NAHC,Montenegro,,All areas,,6.8
+2010,SI_POV_NAHC,Montenegro,,All areas,,6.6
+2011,SI_POV_NAHC,Montenegro,,All areas,,9.3
+2012,SI_POV_NAHC,Montenegro,,All areas,,25.2
+2013,SI_POV_NAHC,Montenegro,,All areas,,24.1
+2014,SI_POV_NAHC,Montenegro,,All areas,,24.4
+2015,SI_POV_NAHC,Montenegro,,All areas,,24.0
+2016,SI_POV_NAHC,Montenegro,,All areas,,23.6
+2017,SI_POV_NAHC,Montenegro,,All areas,,23.8
+2018,SI_POV_NAHC,Montenegro,,All areas,,24.5
+2019,SI_POV_NAHC,Montenegro,,All areas,,22.6
+2015,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,12.7
+2016,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,13.2
+2017,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,13.3
+2018,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,13.2
+2019,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,13.4
+2020,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,14.4
+2021,SI_POV_NAHC,Netherlands (Kingdom of the),,All areas,,14.5
+2002,SI_POV_NAHC,Norway,,All areas,,10.8
+2003,SI_POV_NAHC,Norway,,All areas,,10.8
+2004,SI_POV_NAHC,Norway,,All areas,,11.4
+2005,SI_POV_NAHC,Norway,,All areas,,12.0
+2006,SI_POV_NAHC,Norway,,All areas,,11.9
+2007,SI_POV_NAHC,Norway,,All areas,,11.4
+2008,SI_POV_NAHC,Norway,,All areas,,11.7
+2009,SI_POV_NAHC,Norway,,All areas,,11.2
+2010,SI_POV_NAHC,Norway,,All areas,,10.5
+2011,SI_POV_NAHC,Norway,,All areas,,10.0
+2012,SI_POV_NAHC,Norway,,All areas,,10.9
+2013,SI_POV_NAHC,Norway,,All areas,,10.9
+2014,SI_POV_NAHC,Norway,,All areas,,11.9
+2015,SI_POV_NAHC,Norway,,All areas,,12.2
+2016,SI_POV_NAHC,Norway,,All areas,,12.3
+2017,SI_POV_NAHC,Norway,,All areas,,12.9
+2018,SI_POV_NAHC,Norway,,All areas,,12.7
+2019,SI_POV_NAHC,Norway,,All areas,,12.7
+2020,SI_POV_NAHC,Poland,,All areas,,11.8
+2021,SI_POV_NAHC,Poland,,All areas,,12.0
+2003,SI_POV_NAHC,Portugal,,All areas,,20.4
+2004,SI_POV_NAHC,Portugal,,All areas,,19.4
+2005,SI_POV_NAHC,Portugal,,All areas,,18.5
+2006,SI_POV_NAHC,Portugal,,All areas,,18.1
+2007,SI_POV_NAHC,Portugal,,All areas,,18.5
+2008,SI_POV_NAHC,Portugal,,All areas,,17.9
+2009,SI_POV_NAHC,Portugal,,All areas,,17.9
+2010,SI_POV_NAHC,Portugal,,All areas,,18.0
+2011,SI_POV_NAHC,Portugal,,All areas,,17.9
+2012,SI_POV_NAHC,Portugal,,All areas,,18.7
+2013,SI_POV_NAHC,Portugal,,All areas,,19.5
+2014,SI_POV_NAHC,Portugal,,All areas,,19.5
+2015,SI_POV_NAHC,Portugal,,All areas,,19.0
+2016,SI_POV_NAHC,Portugal,,All areas,,18.3
+2017,SI_POV_NAHC,Portugal,,All areas,,17.3
+2018,SI_POV_NAHC,Portugal,,All areas,,17.2
+2019,SI_POV_NAHC,Portugal,,All areas,,16.2
+2020,SI_POV_NAHC,Portugal,,All areas,,18.4
+2006,SI_POV_NAHC,Romania,,All areas,,24.6
+2007,SI_POV_NAHC,Romania,,All areas,,23.6
+2008,SI_POV_NAHC,Romania,,All areas,,22.1
+2009,SI_POV_NAHC,Romania,,All areas,,21.6
+2010,SI_POV_NAHC,Romania,,All areas,,22.3
+2011,SI_POV_NAHC,Romania,,All areas,,22.9
+2012,SI_POV_NAHC,Romania,,All areas,,23.0
+2013,SI_POV_NAHC,Romania,,All areas,,25.1
+2014,SI_POV_NAHC,Romania,,All areas,,25.4
+2015,SI_POV_NAHC,Romania,,All areas,,25.3
+2016,SI_POV_NAHC,Romania,,All areas,,23.6
+2017,SI_POV_NAHC,Romania,,All areas,,23.5
+2018,SI_POV_NAHC,Romania,,All areas,,23.8
+2019,SI_POV_NAHC,Romania,,All areas,,23.4
+2020,SI_POV_NAHC,Romania,,All areas,,22.6
+2002,SI_POV_NAHC,Serbia,,All areas,,14.0
+2004,SI_POV_NAHC,Serbia,,All areas,,14.6
+2006,SI_POV_NAHC,Serbia,,All areas,,9.0
+2007,SI_POV_NAHC,Serbia,,All areas,,6.6
+2008,SI_POV_NAHC,Serbia,,All areas,,6.1
+2009,SI_POV_NAHC,Serbia,,All areas,,6.9
+2010,SI_POV_NAHC,Serbia,,All areas,,9.2
+2012,SI_POV_NAHC,Serbia,,All areas,,24.5
+2013,SI_POV_NAHC,Serbia,,All areas,,25.0
+2014,SI_POV_NAHC,Serbia,,All areas,,26.7
+2015,SI_POV_NAHC,Serbia,,All areas,,25.9
+2016,SI_POV_NAHC,Serbia,,All areas,,25.7
+2017,SI_POV_NAHC,Serbia,,All areas,,24.3
+2018,SI_POV_NAHC,Serbia,,All areas,,23.2
+2019,SI_POV_NAHC,Serbia,,All areas,,21.7
+2004,SI_POV_NAHC,Slovakia,,All areas,,13.3
+2005,SI_POV_NAHC,Slovakia,,All areas,,11.6
+2006,SI_POV_NAHC,Slovakia,,All areas,,10.6
+2007,SI_POV_NAHC,Slovakia,,All areas,,10.9
+2008,SI_POV_NAHC,Slovakia,,All areas,,11.0
+2009,SI_POV_NAHC,Slovakia,,All areas,,12.0
+2010,SI_POV_NAHC,Slovakia,,All areas,,13.0
+2011,SI_POV_NAHC,Slovakia,,All areas,,13.2
+2012,SI_POV_NAHC,Slovakia,,All areas,,12.8
+2013,SI_POV_NAHC,Slovakia,,All areas,,12.6
+2014,SI_POV_NAHC,Slovakia,,All areas,,12.3
+2015,SI_POV_NAHC,Slovakia,,All areas,,12.7
+2016,SI_POV_NAHC,Slovakia,,All areas,,12.4
+2017,SI_POV_NAHC,Slovakia,,All areas,,12.2
+2018,SI_POV_NAHC,Slovakia,,All areas,,11.9
+2019,SI_POV_NAHC,Slovakia,,All areas,,11.4
+2002,SI_POV_NAHC,Viet Nam,,All areas,,28.9
+2004,SI_POV_NAHC,Viet Nam,,All areas,,19.5
+2006,SI_POV_NAHC,Viet Nam,,All areas,,16.0
+2008,SI_POV_NAHC,Viet Nam,,All areas,,14.5
+2010,SI_POV_NAHC,Viet Nam,,All areas,,20.7
+2012,SI_POV_NAHC,Viet Nam,,All areas,,17.2
+2014,SI_POV_NAHC,Viet Nam,,All areas,,13.5
+2016,SI_POV_NAHC,Viet Nam,,All areas,,9.8
+2018,SI_POV_NAHC,Viet Nam,,All areas,,6.7
+2004,SI_POV_NAHC,Slovenia,,All areas,,12.2
+2005,SI_POV_NAHC,Slovenia,,All areas,,11.6
+2006,SI_POV_NAHC,Slovenia,,All areas,,11.5
+2007,SI_POV_NAHC,Slovenia,,All areas,,12.3
+2008,SI_POV_NAHC,Slovenia,,All areas,,11.3
+2009,SI_POV_NAHC,Slovenia,,All areas,,12.7
+2010,SI_POV_NAHC,Slovenia,,All areas,,13.6
+2011,SI_POV_NAHC,Slovenia,,All areas,,13.5
+2012,SI_POV_NAHC,Slovenia,,All areas,,14.5
+2013,SI_POV_NAHC,Slovenia,,All areas,,14.5
+2014,SI_POV_NAHC,Slovenia,,All areas,,14.3
+2015,SI_POV_NAHC,Slovenia,,All areas,,13.9
+2016,SI_POV_NAHC,Slovenia,,All areas,,13.3
+2017,SI_POV_NAHC,Slovenia,,All areas,,13.3
+2018,SI_POV_NAHC,Slovenia,,All areas,,12.0
+2019,SI_POV_NAHC,Slovenia,,All areas,,12.4
+2020,SI_POV_NAHC,Slovenia,,All areas,,11.7
+2003,SI_POV_NAHC,Spain,,All areas,,20.1
+2004,SI_POV_NAHC,Spain,,All areas,,20.1
+2005,SI_POV_NAHC,Spain,,All areas,,20.3
+2006,SI_POV_NAHC,Spain,,All areas,,19.7
+2007,SI_POV_NAHC,Spain,,All areas,,19.8
+2008,SI_POV_NAHC,Spain,,All areas,,20.4
+2009,SI_POV_NAHC,Spain,,All areas,,20.7
+2010,SI_POV_NAHC,Spain,,All areas,,20.6
+2011,SI_POV_NAHC,Spain,,All areas,,20.8
+2012,SI_POV_NAHC,Spain,,All areas,,20.4
+2013,SI_POV_NAHC,Spain,,All areas,,22.2
+2014,SI_POV_NAHC,Spain,,All areas,,22.1
+2015,SI_POV_NAHC,Spain,,All areas,,22.3
+2016,SI_POV_NAHC,Spain,,All areas,,21.6
+2017,SI_POV_NAHC,Spain,,All areas,,21.5
+2018,SI_POV_NAHC,Spain,,All areas,,20.7
+2019,SI_POV_NAHC,Spain,,All areas,,21.0
+2020,SI_POV_NAHC,Spain,,All areas,,21.7
+2007,SI_POV_NAHC,Sweden,,All areas,,13.5
+2008,SI_POV_NAHC,Sweden,,All areas,,14.4
+2009,SI_POV_NAHC,Sweden,,All areas,,14.8
+2010,SI_POV_NAHC,Sweden,,All areas,,15.4
+2011,SI_POV_NAHC,Sweden,,All areas,,15.2
+2012,SI_POV_NAHC,Sweden,,All areas,,16.0
+2013,SI_POV_NAHC,Sweden,,All areas,,15.6
+2014,SI_POV_NAHC,Sweden,,All areas,,16.3
+2015,SI_POV_NAHC,Sweden,,All areas,,16.2
+2016,SI_POV_NAHC,Sweden,,All areas,,15.8
+2017,SI_POV_NAHC,Sweden,,All areas,,16.4
+2018,SI_POV_NAHC,Sweden,,All areas,,17.1
+2019,SI_POV_NAHC,Sweden,,All areas,,16.1
+2020,SI_POV_NAHC,Sweden,,All areas,,15.7
+2006,SI_POV_NAHC,Switzerland,,All areas,,15.0
+2007,SI_POV_NAHC,Switzerland,,All areas,,15.7
+2008,SI_POV_NAHC,Switzerland,,All areas,,15.6
+2009,SI_POV_NAHC,Switzerland,,All areas,,15.0
+2010,SI_POV_NAHC,Switzerland,,All areas,,15.0
+2011,SI_POV_NAHC,Switzerland,,All areas,,15.9
+2012,SI_POV_NAHC,Switzerland,,All areas,,14.5
+2013,SI_POV_NAHC,Switzerland,,All areas,,13.8
+2014,SI_POV_NAHC,Switzerland,,All areas,,15.6
+2015,SI_POV_NAHC,Switzerland,,All areas,,14.7
+2016,SI_POV_NAHC,Switzerland,,All areas,,15.5
+2017,SI_POV_NAHC,Switzerland,,All areas,,14.6
+2018,SI_POV_NAHC,Switzerland,,All areas,,16.0
+2019,SI_POV_NAHC,Switzerland,,All areas,,15.5
+2003,SI_POV_NAHC,Tajikistan,,All areas,,72.4
+2007,SI_POV_NAHC,Tajikistan,,All areas,,53.1
+2009,SI_POV_NAHC,Tajikistan,,All areas,,47.2
+2013,SI_POV_NAHC,Tajikistan,,All areas,,34.3
+2014,SI_POV_NAHC,Tajikistan,,All areas,,32.0
+2015,SI_POV_NAHC,Tajikistan,,All areas,,31.3
+2016,SI_POV_NAHC,Tajikistan,,All areas,,30.3
+2017,SI_POV_NAHC,Tajikistan,,All areas,,29.5
+2018,SI_POV_NAHC,Tajikistan,,All areas,,27.4
+2019,SI_POV_NAHC,Tajikistan,,All areas,,26.3
+2005,SI_POV_NAHC,Türkiye,,All areas,,18.6
+2006,SI_POV_NAHC,Türkiye,,All areas,,16.3
+2007,SI_POV_NAHC,Türkiye,,All areas,,16.7
+2008,SI_POV_NAHC,Türkiye,,All areas,,17.1
+2009,SI_POV_NAHC,Türkiye,,All areas,,16.9
+2010,SI_POV_NAHC,Türkiye,,All areas,,16.1
+2011,SI_POV_NAHC,Türkiye,,All areas,,16.3
+2012,SI_POV_NAHC,Türkiye,,All areas,,15.0
+2013,SI_POV_NAHC,Türkiye,,All areas,,15.0
+2014,SI_POV_NAHC,Türkiye,,All areas,,14.7
+2015,SI_POV_NAHC,Türkiye,,All areas,,14.3
+2016,SI_POV_NAHC,Türkiye,,All areas,,13.5
+2017,SI_POV_NAHC,Türkiye,,All areas,,13.9
+2018,SI_POV_NAHC,Türkiye,,All areas,,14.4
+2019,SI_POV_NAHC,Türkiye,,All areas,,15.0
+2020,SI_POV_NAHC,Türkiye,,All areas,,14.4
+2020,SI_POV_NAHC,Ukraine,,All areas,,1.6
+2002,SI_POV_NAHC,North Macedonia,,All areas,,19.1
+2003,SI_POV_NAHC,North Macedonia,,All areas,,19.2
+2004,SI_POV_NAHC,North Macedonia,,All areas,,18.5
+2005,SI_POV_NAHC,North Macedonia,,All areas,,20.4
+2006,SI_POV_NAHC,North Macedonia,,All areas,,19.0
+2009,SI_POV_NAHC,North Macedonia,,All areas,,27.0
+2010,SI_POV_NAHC,North Macedonia,,All areas,,26.8
+2011,SI_POV_NAHC,North Macedonia,,All areas,,26.2
+2012,SI_POV_NAHC,North Macedonia,,All areas,,24.2
+2013,SI_POV_NAHC,North Macedonia,,All areas,,22.1
+2014,SI_POV_NAHC,North Macedonia,,All areas,,21.5
+2015,SI_POV_NAHC,North Macedonia,,All areas,,21.9
+2016,SI_POV_NAHC,North Macedonia,,All areas,,22.2
+2017,SI_POV_NAHC,North Macedonia,,All areas,,21.9
+2018,SI_POV_NAHC,North Macedonia,,All areas,,21.6
+2019,SI_POV_NAHC,North Macedonia,,All areas,,21.8
+2016,SI_POV_NAHC,United Kingdom of Great Britain and Northern Ireland,,All areas,,17.0
+2017,SI_POV_NAHC,United Kingdom of Great Britain and Northern Ireland,,All areas,,18.6
+2001,SI_POV_NAHC,Uzbekistan,,All areas,,27.5
+2002,SI_POV_NAHC,Uzbekistan,,All areas,,26.5
+2003,SI_POV_NAHC,Uzbekistan,,All areas,,27.2
+2004,SI_POV_NAHC,Uzbekistan,,All areas,,26.1
+2005,SI_POV_NAHC,Uzbekistan,,All areas,,25.8
+2010,SI_POV_NAHC,Uzbekistan,,All areas,,17.7
+2011,SI_POV_NAHC,Uzbekistan,,All areas,,16.0
+2012,SI_POV_NAHC,Uzbekistan,,All areas,,15.0
+2013,SI_POV_NAHC,Uzbekistan,,All areas,,14.1
+2013,SI_POV_NAHC,Uzbekistan,,All areas,,14.1

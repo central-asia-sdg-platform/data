@@ -12,7 +12,71 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_H2O_OPAMBQ",
+                "EN_H2O_RVAMBQ",
+                "EN_H2O_GRAMBQ",
+                "EN_H2O_WBAMBQ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Latvia",
+                "Lithuania",
+                "Mexico",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Sweden",
+                "Switzerland",
+                "United Arab Emirates",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Canada",
+                "Chile",
+                "Costa Rica",
+                "Liechtenstein",
+                "Georgia",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_CPA_MIGRS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Belarus",
+                "Albania",
+                "Azerbaijan",
+                "Serbia",
+                "Canada",
+                "Slovakia",
+                "Viet Nam",
+                "Australia",
+                "Chile",
+                "Slovenia",
+                "Spain",
+                "Austria",
+                "Armenia",
+                "China",
+                "Sweden",
+                "Colombia",
+                "Belgium",
+                "Switzerland",
+                "Bosnia and Herzegovina",
+                "Таджикистан",
+                "Croatia",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "Czechia",
+                "North Macedonia",
+                "Denmark",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Policy Domains",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DOMAIN3",
+                "DOMAIN2",
+                "DOMAIN1",
+                "ALLDOMAINS",
+                "DOMAIN5",
+                "DOMAIN6",
+                "DOMAIN4",
+                ""
+              ]
+            },
+            "title": "Policy Domains"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-7-2-SG_CPA_MIGRS",
+  "title": "meta.name-10-7-2-SG_CPA_MIGRS"
+}

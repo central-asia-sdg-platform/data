@@ -1,0 +1,126 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_IHR_PSRCN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Finland",
+                "Mexico",
+                "Albania",
+                "France",
+                "Georgia",
+                "Armenia",
+                "Germany",
+                "Greece",
+                "Belgium",
+                "Hungary",
+                "Iceland",
+                "Azerbaijan",
+                "Republic of Moldova",
+                "India",
+                "Bosnia and Herzegovina",
+                "Sweden",
+                "Montenegro",
+                "Bulgaria",
+                "Switzerland",
+                "Ireland",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Israel",
+                "Belarus",
+                "Таджикистан",
+                "Italy",
+                "Japan",
+                "United Arab Emirates",
+                "Canada",
+                "Казахстан",
+                "Türkiye",
+                "Norway",
+                "Republic of Korea",
+                "Туркменистан",
+                "Latvia",
+                "Liechtenstein",
+                "Ukraine",
+                "Lithuania",
+                "North Macedonia",
+                "Luxembourg",
+                "Poland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Malta",
+                "Chile",
+                "Узбекистан",
+                "China",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Colombia",
+                "Spain",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "BOTHSEX",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-1-1-VC_IHR_PSRCN",
+  "title": "meta.name-16-1-1-VC_IHR_PSRCN"
+}

@@ -1,0 +1,94 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_DSR_LSGP",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Albania",
+                "Australia",
+                "Serbia",
+                "Austria",
+                "Armenia",
+                "Viet Nam",
+                "Slovenia",
+                "Bulgaria",
+                "Sweden",
+                "Switzerland",
+                "Belarus",
+                "Tajikistan",
+                "Chile",
+                "United Arab Emirates",
+                "Colombia",
+                "Türkiye",
+                "Costa Rica",
+                "Turkmenistan",
+                "Ukraine",
+                "Croatia",
+                "Cyprus",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Czechia",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Hungary",
+                "Ireland",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Lithuania",
+                "Mexico",
+                "Montenegro",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-5-2-VC_DSR_LSGP",
+  "title": "meta.name-11-5-2-VC_DSR_LSGP"
+}

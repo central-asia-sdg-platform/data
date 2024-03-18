@@ -12,8 +12,125 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_DYN_ADKL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Ukraine",
+                "Azerbaijan",
+                "North Macedonia",
+                "Hungary",
+                "Australia",
+                "Austria",
+                "Iceland",
+                "Armenia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "India",
+                "Belgium",
+                "Uzbekistan",
+                "Bosnia and Herzegovina",
+                "Ireland",
+                "Bulgaria",
+                "Israel",
+                "Belarus",
+                "Canada",
+                "Italy",
+                "Japan",
+                "Chile",
+                "China",
+                "Kazakhstan",
+                "Colombia",
+                "Republic of Korea",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Kyrgyzstan",
+                "Czechia",
+                "Latvia",
+                "Denmark",
+                "Estonia",
+                "Liechtenstein",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Lithuania",
+                "Greece",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10-14",
+                "15-19",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

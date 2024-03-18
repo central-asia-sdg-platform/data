@@ -1,0 +1,111 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BN_KLT_PTXL_CD",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Albania",
+                "Republic of Korea",
+                "Belarus",
+                "Canada",
+                "Kyrgyzstan",
+                "Azerbaijan",
+                "Chile",
+                "Latvia",
+                "Spain",
+                "China",
+                "Lithuania",
+                "Colombia",
+                "Luxembourg",
+                "Costa Rica",
+                "Australia",
+                "Malta",
+                "Croatia",
+                "Mexico",
+                "Cyprus",
+                "Sweden",
+                "Switzerland",
+                "Moldova",
+                "Czechia",
+                "Austria",
+                "Montenegro",
+                "Tajikistan",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Slovenia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-BN_KLT_PTXL_CD",
+  "title": "meta.name-17-13-1-BN_KLT_PTXL_CD"
+}

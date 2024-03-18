@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FP_CPI_TOTL_ZG",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Hungary",
+                "Iceland",
+                "Bulgaria",
+                "India",
+                "Poland",
+                "Belarus",
+                "Ireland",
+                "Portugal",
+                "Albania",
+                "Israel",
+                "Canada",
+                "Romania",
+                "Italy",
+                "Chile",
+                "Azerbaijan",
+                "Serbia",
+                "Japan",
+                "Kazakhstan",
+                "China",
+                "Slovakia",
+                "Republic of Korea",
+                "Colombia",
+                "Viet Nam",
+                "Kyrgyzstan",
+                "Costa Rica",
+                "Slovenia",
+                "Spain",
+                "Croatia",
+                "Latvia",
+                "Cyprus",
+                "Lithuania",
+                "Sweden",
+                "Luxembourg",
+                "Czechia",
+                "Malta",
+                "Denmark",
+                "Switzerland",
+                "Mexico",
+                "Estonia",
+                "Finland",
+                "Tajikistan",
+                "Moldova",
+                "France",
+                "United Arab Emirates",
+                "Montenegro",
+                "Georgia",
+                "Netherlands (Kingdom of the)",
+                "Australia",
+                "Türkiye",
+                "Germany",
+                "New Zealand",
+                "Greece",
+                "Ukraine",
+                "Austria",
+                "Norway",
+                "North Macedonia",
+                "Armenia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-FP_CPI_TOTL_ZG",
+  "title": "meta.name-17-13-1-FP_CPI_TOTL_ZG"
+}

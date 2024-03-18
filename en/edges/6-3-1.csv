@@ -1,1 +1,4 @@
 From,To
+SeriesCode,Country
+Country,Activity
+Activity,Location

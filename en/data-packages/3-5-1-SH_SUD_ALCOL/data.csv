@@ -1,0 +1,188 @@
+Year,SeriesCode,Country,Age,Sex,Value
+2016,SH_SUD_ALCOL,Albania,15+,Male,9.9
+2016,SH_SUD_ALCOL,Albania,15+,Female,2.1
+2016,SH_SUD_ALCOL,Albania,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Azerbaijan,15+,Male,10.0
+2016,SH_SUD_ALCOL,Azerbaijan,15+,Female,2.1
+2016,SH_SUD_ALCOL,Azerbaijan,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Australia,15+,Female,2.7
+2016,SH_SUD_ALCOL,Australia,15+,Male,6.1
+2016,SH_SUD_ALCOL,Australia,15+,Both sexes,4.4
+2016,SH_SUD_ALCOL,Austria,15+,Female,6.1
+2016,SH_SUD_ALCOL,Austria,15+,Both sexes,12.0
+2016,SH_SUD_ALCOL,Austria,15+,Male,18.1
+2016,SH_SUD_ALCOL,Armenia,15+,Both sexes,5.7
+2016,SH_SUD_ALCOL,Armenia,15+,Male,9.9
+2016,SH_SUD_ALCOL,Armenia,15+,Female,2.2
+2016,SH_SUD_ALCOL,Belgium,15+,Both sexes,8.1
+2016,SH_SUD_ALCOL,Belgium,15+,Female,4.3
+2016,SH_SUD_ALCOL,Belgium,15+,Male,12.1
+2016,SH_SUD_ALCOL,Bosnia and Herzegovina,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Bosnia and Herzegovina,15+,Male,9.8
+2016,SH_SUD_ALCOL,Bosnia and Herzegovina,15+,Female,2.2
+2016,SH_SUD_ALCOL,Bulgaria,15+,Female,1.9
+2016,SH_SUD_ALCOL,Bulgaria,15+,Male,12.2
+2016,SH_SUD_ALCOL,Bulgaria,15+,Both sexes,6.9
+2016,SH_SUD_ALCOL,Belarus,15+,Male,33.9
+2016,SH_SUD_ALCOL,Belarus,15+,Female,6.2
+2016,SH_SUD_ALCOL,Belarus,15+,Both sexes,18.8
+2016,SH_SUD_ALCOL,Canada,15+,Female,4.1
+2016,SH_SUD_ALCOL,Canada,15+,Both sexes,8.0
+2016,SH_SUD_ALCOL,Canada,15+,Male,12.0
+2016,SH_SUD_ALCOL,Chile,15+,Male,10.3
+2016,SH_SUD_ALCOL,Chile,15+,Female,1.9
+2016,SH_SUD_ALCOL,Chile,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,China,15+,Male,8.4
+2016,SH_SUD_ALCOL,China,15+,Both sexes,4.4
+2016,SH_SUD_ALCOL,China,15+,Female,0.2
+2016,SH_SUD_ALCOL,Colombia,15+,Both sexes,7.0
+2016,SH_SUD_ALCOL,Colombia,15+,Male,10.4
+2016,SH_SUD_ALCOL,Colombia,15+,Female,3.8
+2016,SH_SUD_ALCOL,Costa Rica,15+,Female,3.4
+2016,SH_SUD_ALCOL,Costa Rica,15+,Both sexes,6.9
+2016,SH_SUD_ALCOL,Costa Rica,15+,Male,10.4
+2016,SH_SUD_ALCOL,Croatia,15+,Both sexes,5.8
+2016,SH_SUD_ALCOL,Croatia,15+,Female,2.2
+2016,SH_SUD_ALCOL,Croatia,15+,Male,9.8
+2016,SH_SUD_ALCOL,Cyprus,15+,Both sexes,6.9
+2016,SH_SUD_ALCOL,Cyprus,15+,Male,10.5
+2016,SH_SUD_ALCOL,Cyprus,15+,Female,3.2
+2016,SH_SUD_ALCOL,Czechia,15+,Female,1.7
+2016,SH_SUD_ALCOL,Czechia,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Czechia,15+,Male,10.6
+2016,SH_SUD_ALCOL,Denmark,15+,Both sexes,7.5
+2016,SH_SUD_ALCOL,Denmark,15+,Male,10.9
+2016,SH_SUD_ALCOL,Denmark,15+,Female,4.2
+2016,SH_SUD_ALCOL,Estonia,15+,Female,3.8
+2016,SH_SUD_ALCOL,Estonia,15+,Both sexes,12.2
+2016,SH_SUD_ALCOL,Estonia,15+,Male,22.2
+2016,SH_SUD_ALCOL,Finland,15+,Male,14.8
+2016,SH_SUD_ALCOL,Finland,15+,Both sexes,9.1
+2016,SH_SUD_ALCOL,Finland,15+,Female,3.8
+2016,SH_SUD_ALCOL,France,15+,Male,11.1
+2016,SH_SUD_ALCOL,France,15+,Both sexes,7.0
+2016,SH_SUD_ALCOL,France,15+,Female,3.1
+2016,SH_SUD_ALCOL,Georgia,15+,Male,8.8
+2016,SH_SUD_ALCOL,Georgia,15+,Both sexes,4.6
+2016,SH_SUD_ALCOL,Georgia,15+,Female,1.0
+2016,SH_SUD_ALCOL,Germany,15+,Female,4.0
+2016,SH_SUD_ALCOL,Germany,15+,Both sexes,6.8
+2016,SH_SUD_ALCOL,Germany,15+,Male,9.8
+2016,SH_SUD_ALCOL,Greece,15+,Male,9.4
+2016,SH_SUD_ALCOL,Greece,15+,Female,2.9
+2016,SH_SUD_ALCOL,Greece,15+,Both sexes,6.1
+2016,SH_SUD_ALCOL,Hungary,15+,Male,36.9
+2016,SH_SUD_ALCOL,Hungary,15+,Both sexes,21.2
+2016,SH_SUD_ALCOL,Hungary,15+,Female,7.2
+2016,SH_SUD_ALCOL,Iceland,15+,Both sexes,4.4
+2016,SH_SUD_ALCOL,Iceland,15+,Female,2.0
+2016,SH_SUD_ALCOL,Iceland,15+,Male,6.7
+2016,SH_SUD_ALCOL,India,15+,Both sexes,4.9
+2016,SH_SUD_ALCOL,India,15+,Female,0.5
+2016,SH_SUD_ALCOL,India,15+,Male,9.1
+2016,SH_SUD_ALCOL,Ireland,15+,Female,4.1
+2016,SH_SUD_ALCOL,Ireland,15+,Both sexes,8.5
+2016,SH_SUD_ALCOL,Ireland,15+,Male,13.0
+2016,SH_SUD_ALCOL,Israel,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Israel,15+,Female,2.1
+2016,SH_SUD_ALCOL,Israel,15+,Male,9.8
+2016,SH_SUD_ALCOL,Italy,15+,Male,1.7
+2016,SH_SUD_ALCOL,Italy,15+,Both sexes,1.3
+2016,SH_SUD_ALCOL,Italy,15+,Female,1.0
+2016,SH_SUD_ALCOL,Japan,15+,Female,1.4
+2016,SH_SUD_ALCOL,Japan,15+,Both sexes,3.4
+2016,SH_SUD_ALCOL,Japan,15+,Male,5.7
+2016,SH_SUD_ALCOL,Kazakhstan,15+,Male,10.3
+2016,SH_SUD_ALCOL,Kazakhstan,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Kazakhstan,15+,Female,2.2
+2016,SH_SUD_ALCOL,Republic of Korea,15+,Male,21.2
+2016,SH_SUD_ALCOL,Republic of Korea,15+,Both sexes,13.9
+2016,SH_SUD_ALCOL,Republic of Korea,15+,Female,6.8
+2016,SH_SUD_ALCOL,Kyrgyzstan,15+,Male,9.9
+2016,SH_SUD_ALCOL,Kyrgyzstan,15+,Female,2.1
+2016,SH_SUD_ALCOL,Kyrgyzstan,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Latvia,15+,Female,4.6
+2016,SH_SUD_ALCOL,Latvia,15+,Both sexes,15.5
+2016,SH_SUD_ALCOL,Latvia,15+,Male,28.8
+2016,SH_SUD_ALCOL,Lithuania,15+,Female,3.6
+2016,SH_SUD_ALCOL,Lithuania,15+,Both sexes,11.0
+2016,SH_SUD_ALCOL,Lithuania,15+,Male,19.9
+2016,SH_SUD_ALCOL,Luxembourg,15+,Female,2.7
+2016,SH_SUD_ALCOL,Luxembourg,15+,Male,10.5
+2016,SH_SUD_ALCOL,Luxembourg,15+,Both sexes,6.6
+2016,SH_SUD_ALCOL,Malta,15+,Both sexes,3.6
+2016,SH_SUD_ALCOL,Malta,15+,Female,1.6
+2016,SH_SUD_ALCOL,Malta,15+,Male,5.6
+2016,SH_SUD_ALCOL,Mexico,15+,Both sexes,2.3
+2016,SH_SUD_ALCOL,Mexico,15+,Male,4.3
+2016,SH_SUD_ALCOL,Mexico,15+,Female,0.4
+2016,SH_SUD_ALCOL,Moldova,15+,Female,2.2
+2016,SH_SUD_ALCOL,Moldova,15+,Male,10.3
+2016,SH_SUD_ALCOL,Moldova,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Montenegro,15+,Male,9.9
+2016,SH_SUD_ALCOL,Montenegro,15+,Female,2.2
+2016,SH_SUD_ALCOL,Montenegro,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Netherlands (Kingdom of the),15+,Female,0.9
+2016,SH_SUD_ALCOL,Netherlands (Kingdom of the),15+,Both sexes,1.5
+2016,SH_SUD_ALCOL,Netherlands (Kingdom of the),15+,Male,2.0
+2016,SH_SUD_ALCOL,New Zealand,15+,Male,5.6
+2016,SH_SUD_ALCOL,New Zealand,15+,Both sexes,4.0
+2016,SH_SUD_ALCOL,New Zealand,15+,Female,2.5
+2016,SH_SUD_ALCOL,Norway,15+,Male,10.6
+2016,SH_SUD_ALCOL,Norway,15+,Female,3.8
+2016,SH_SUD_ALCOL,Norway,15+,Both sexes,7.2
+2016,SH_SUD_ALCOL,Poland,15+,Female,3.7
+2016,SH_SUD_ALCOL,Poland,15+,Male,22.7
+2016,SH_SUD_ALCOL,Poland,15+,Both sexes,12.8
+2016,SH_SUD_ALCOL,Portugal,15+,Both sexes,6.8
+2016,SH_SUD_ALCOL,Portugal,15+,Female,3.2
+2016,SH_SUD_ALCOL,Portugal,15+,Male,11.0
+2016,SH_SUD_ALCOL,Romania,15+,Female,1.4
+2016,SH_SUD_ALCOL,Romania,15+,Male,4.5
+2016,SH_SUD_ALCOL,Romania,15+,Both sexes,2.8
+2016,SH_SUD_ALCOL,Serbia,15+,Male,9.9
+2016,SH_SUD_ALCOL,Serbia,15+,Female,2.1
+2016,SH_SUD_ALCOL,Serbia,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Slovakia,15+,Both sexes,12.2
+2016,SH_SUD_ALCOL,Slovakia,15+,Male,22.8
+2016,SH_SUD_ALCOL,Slovakia,15+,Female,2.5
+2016,SH_SUD_ALCOL,Viet Nam,15+,Both sexes,5.4
+2016,SH_SUD_ALCOL,Viet Nam,15+,Male,9.8
+2016,SH_SUD_ALCOL,Viet Nam,15+,Female,1.2
+2016,SH_SUD_ALCOL,Slovenia,15+,Male,23.5
+2016,SH_SUD_ALCOL,Slovenia,15+,Female,4.5
+2016,SH_SUD_ALCOL,Slovenia,15+,Both sexes,13.9
+2016,SH_SUD_ALCOL,Spain,15+,Both sexes,1.5
+2016,SH_SUD_ALCOL,Spain,15+,Male,2.7
+2016,SH_SUD_ALCOL,Spain,15+,Female,0.5
+2016,SH_SUD_ALCOL,Sweden,15+,Both sexes,11.0
+2016,SH_SUD_ALCOL,Sweden,15+,Male,14.7
+2016,SH_SUD_ALCOL,Sweden,15+,Female,7.3
+2016,SH_SUD_ALCOL,Switzerland,15+,Female,3.2
+2016,SH_SUD_ALCOL,Switzerland,15+,Male,16.1
+2016,SH_SUD_ALCOL,Switzerland,15+,Both sexes,9.5
+2016,SH_SUD_ALCOL,Tajikistan,15+,Male,1.6
+2016,SH_SUD_ALCOL,Tajikistan,15+,Female,0.3
+2016,SH_SUD_ALCOL,Tajikistan,15+,Both sexes,0.9
+2016,SH_SUD_ALCOL,United Arab Emirates,15+,Both sexes,0.7
+2016,SH_SUD_ALCOL,United Arab Emirates,15+,Male,0.8
+2016,SH_SUD_ALCOL,United Arab Emirates,15+,Female,0.2
+2016,SH_SUD_ALCOL,Türkiye,15+,Female,1.7
+2016,SH_SUD_ALCOL,Türkiye,15+,Male,8.1
+2016,SH_SUD_ALCOL,Türkiye,15+,Both sexes,4.8
+2016,SH_SUD_ALCOL,Turkmenistan,15+,Female,2.1
+2016,SH_SUD_ALCOL,Turkmenistan,15+,Male,9.9
+2016,SH_SUD_ALCOL,Turkmenistan,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Ukraine,15+,Female,1.4
+2016,SH_SUD_ALCOL,Ukraine,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,Ukraine,15+,Male,11.5
+2016,SH_SUD_ALCOL,North Macedonia,15+,Male,9.9
+2016,SH_SUD_ALCOL,North Macedonia,15+,Female,2.1
+2016,SH_SUD_ALCOL,North Macedonia,15+,Both sexes,6.0
+2016,SH_SUD_ALCOL,United Kingdom of Great Britain and Northern Ireland,15+,Both sexes,8.7
+2016,SH_SUD_ALCOL,United Kingdom of Great Britain and Northern Ireland,15+,Male,13.0
+2016,SH_SUD_ALCOL,United Kingdom of Great Britain and Northern Ireland,15+,Female,4.7
+2016,SH_SUD_ALCOL,Uzbekistan,15+,Female,2.1
+2016,SH_SUD_ALCOL,Uzbekistan,15+,Male,9.9
+2016,SH_SUD_ALCOL,Uzbekistan,15+,Both sexes,5.9
+2016,SH_SUD_ALCOL,Uzbekistan,15+,Both sexes,5.9

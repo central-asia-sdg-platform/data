@@ -12,7 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VAW_SXVLN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Armenia",
+                "Colombia",
+                "India",
+                "Mexico",
+                "Republic of Moldova",
+                "Sweden",
+                "Tajikistan",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-29",
+                "18-74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

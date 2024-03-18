@@ -1,1 +1,255 @@
-Year,Value
+Year,SeriesCode,Country,Sex,Value
+2018,VC_SNS_WALN_DRK,Belgium,Both sexes,74.25
+2018,VC_SNS_WALN_DRK,Belgium,Male,79.14
+2018,VC_SNS_WALN_DRK,Belgium,Female,69.7
+2020,VC_SNS_WALN_DRK,Bulgaria,Female,18.6
+2014,VC_SNS_WALN_DRK,Canada,Both sexes,52.0
+2014,VC_SNS_WALN_DRK,Canada,Male,64.0
+2014,VC_SNS_WALN_DRK,Canada,Female,38.0
+2019,VC_SNS_WALN_DRK,Canada,Female,82.5
+2019,VC_SNS_WALN_DRK,Canada,Male,92.3
+2019,VC_SNS_WALN_DRK,Canada,Both sexes,87.6
+2016,VC_SNS_WALN_DRK,Chile,Female,20.1
+2016,VC_SNS_WALN_DRK,Chile,Male,35.9
+2016,VC_SNS_WALN_DRK,Chile,Both sexes,27.8
+2017,VC_SNS_WALN_DRK,Chile,Male,36.6
+2017,VC_SNS_WALN_DRK,Chile,Female,18.7
+2017,VC_SNS_WALN_DRK,Chile,Both sexes,27.4
+2018,VC_SNS_WALN_DRK,Chile,Female,20.6
+2018,VC_SNS_WALN_DRK,Chile,Both sexes,29.3
+2018,VC_SNS_WALN_DRK,Chile,Male,38.5
+2019,VC_SNS_WALN_DRK,Chile,Female,22.3
+2019,VC_SNS_WALN_DRK,Chile,Both sexes,32.6
+2019,VC_SNS_WALN_DRK,Chile,Male,43.4
+2020,VC_SNS_WALN_DRK,Chile,Both sexes,35.0
+2020,VC_SNS_WALN_DRK,Chile,Male,44.3
+2020,VC_SNS_WALN_DRK,Chile,Female,26.3
+2021,VC_SNS_WALN_DRK,Chile,Both sexes,32.3
+2021,VC_SNS_WALN_DRK,Chile,Male,43.0
+2021,VC_SNS_WALN_DRK,Chile,Female,22.0
+2019,VC_SNS_WALN_DRK,China,Both sexes,88.58
+2019,VC_SNS_WALN_DRK,China,Female,82.24
+2019,VC_SNS_WALN_DRK,China,Male,92.74
+2020,VC_SNS_WALN_DRK,China,Male,94.71
+2020,VC_SNS_WALN_DRK,China,Female,85.95
+2020,VC_SNS_WALN_DRK,China,Both sexes,91.44
+2015,VC_SNS_WALN_DRK,Estonia,Both sexes,74.0
+2016,VC_SNS_WALN_DRK,Estonia,Both sexes,72.0
+2017,VC_SNS_WALN_DRK,Estonia,Both sexes,76.0
+2018,VC_SNS_WALN_DRK,Estonia,Both sexes,76.0
+2019,VC_SNS_WALN_DRK,Estonia,Both sexes,76.1
+2020,VC_SNS_WALN_DRK,Estonia,Both sexes,74.1
+2020,VC_SNS_WALN_DRK,Estonia,Male,88.0
+2020,VC_SNS_WALN_DRK,Estonia,Female,62.0
+2021,VC_SNS_WALN_DRK,Estonia,Male,88.0
+2021,VC_SNS_WALN_DRK,Estonia,Female,63.6
+2021,VC_SNS_WALN_DRK,Estonia,Both sexes,75.0
+2013,VC_SNS_WALN_DRK,Finland,Female,79.9
+2013,VC_SNS_WALN_DRK,Finland,Male,89.9
+2013,VC_SNS_WALN_DRK,Finland,Both sexes,84.9
+2014,VC_SNS_WALN_DRK,Finland,Both sexes,86.2
+2014,VC_SNS_WALN_DRK,Finland,Female,81.8
+2014,VC_SNS_WALN_DRK,Finland,Male,90.4
+2015,VC_SNS_WALN_DRK,Finland,Both sexes,84.3
+2015,VC_SNS_WALN_DRK,Finland,Male,88.6
+2015,VC_SNS_WALN_DRK,Finland,Female,80.0
+2016,VC_SNS_WALN_DRK,Finland,Female,79.9
+2016,VC_SNS_WALN_DRK,Finland,Male,89.0
+2016,VC_SNS_WALN_DRK,Finland,Both sexes,84.4
+2017,VC_SNS_WALN_DRK,Finland,Male,89.1
+2017,VC_SNS_WALN_DRK,Finland,Both sexes,84.7
+2017,VC_SNS_WALN_DRK,Finland,Female,80.2
+2018,VC_SNS_WALN_DRK,Finland,Both sexes,86.8
+2018,VC_SNS_WALN_DRK,Finland,Female,82.5
+2018,VC_SNS_WALN_DRK,Finland,Male,91.1
+2019,VC_SNS_WALN_DRK,Finland,Both sexes,88.3
+2019,VC_SNS_WALN_DRK,Finland,Female,84.4
+2019,VC_SNS_WALN_DRK,Finland,Male,92.2
+2020,VC_SNS_WALN_DRK,Finland,Female,84.2
+2020,VC_SNS_WALN_DRK,Finland,Both sexes,87.4
+2020,VC_SNS_WALN_DRK,Finland,Male,90.4
+2021,VC_SNS_WALN_DRK,Finland,Both sexes,85.8
+2021,VC_SNS_WALN_DRK,Finland,Male,90.0
+2021,VC_SNS_WALN_DRK,Finland,Female,81.4
+2019,VC_SNS_WALN_DRK,France,Both sexes,89.0
+2012,VC_SNS_WALN_DRK,Germany,Female,73.9
+2012,VC_SNS_WALN_DRK,Germany,Both sexes,82.8
+2012,VC_SNS_WALN_DRK,Germany,Male,92.0
+2017,VC_SNS_WALN_DRK,Germany,Female,68.2
+2017,VC_SNS_WALN_DRK,Germany,Male,89.4
+2017,VC_SNS_WALN_DRK,Germany,Both sexes,78.6
+2020,VC_SNS_WALN_DRK,Germany,Both sexes,72.0
+2020,VC_SNS_WALN_DRK,Germany,Male,83.4
+2020,VC_SNS_WALN_DRK,Germany,Female,61.3
+2013,VC_SNS_WALN_DRK,Iceland,Both sexes,90.6
+2014,VC_SNS_WALN_DRK,Iceland,Both sexes,92.2
+2015,VC_SNS_WALN_DRK,Iceland,Both sexes,92.6
+2016,VC_SNS_WALN_DRK,Iceland,Both sexes,92.3
+2017,VC_SNS_WALN_DRK,Iceland,Both sexes,91.9
+2018,VC_SNS_WALN_DRK,Iceland,Female,87.1
+2018,VC_SNS_WALN_DRK,Iceland,Both sexes,90.9
+2018,VC_SNS_WALN_DRK,Iceland,Male,94.5
+2019,VC_SNS_WALN_DRK,Iceland,Both sexes,92.5
+2019,VC_SNS_WALN_DRK,Iceland,Male,97.0
+2019,VC_SNS_WALN_DRK,Iceland,Female,88.0
+2020,VC_SNS_WALN_DRK,Iceland,Both sexes,95.0
+2020,VC_SNS_WALN_DRK,Iceland,Male,95.0
+2020,VC_SNS_WALN_DRK,Iceland,Female,87.0
+2021,VC_SNS_WALN_DRK,Iceland,Male,92.0
+2021,VC_SNS_WALN_DRK,Iceland,Female,86.0
+2021,VC_SNS_WALN_DRK,Iceland,Both sexes,89.0
+2019,VC_SNS_WALN_DRK,Ireland,Both sexes,75.0
+2019,VC_SNS_WALN_DRK,Ireland,Male,87.0
+2019,VC_SNS_WALN_DRK,Ireland,Female,64.0
+2014,VC_SNS_WALN_DRK,Israel,Both sexes,75.81
+2014,VC_SNS_WALN_DRK,Israel,Male,85.33
+2014,VC_SNS_WALN_DRK,Israel,Female,66.44
+2015,VC_SNS_WALN_DRK,Israel,Male,90.06
+2015,VC_SNS_WALN_DRK,Israel,Female,71.57
+2015,VC_SNS_WALN_DRK,Israel,Both sexes,80.62
+2016,VC_SNS_WALN_DRK,Israel,Both sexes,85.43
+2016,VC_SNS_WALN_DRK,Israel,Female,77.4
+2016,VC_SNS_WALN_DRK,Israel,Male,93.24
+2017,VC_SNS_WALN_DRK,Israel,Male,91.68
+2017,VC_SNS_WALN_DRK,Israel,Both sexes,85.56
+2017,VC_SNS_WALN_DRK,Israel,Female,79.34
+2018,VC_SNS_WALN_DRK,Israel,Female,77.65
+2018,VC_SNS_WALN_DRK,Israel,Both sexes,84.43
+2018,VC_SNS_WALN_DRK,Israel,Male,91.23
+2019,VC_SNS_WALN_DRK,Israel,Female,79.63
+2019,VC_SNS_WALN_DRK,Israel,Male,91.75
+2019,VC_SNS_WALN_DRK,Israel,Both sexes,85.7
+2020,VC_SNS_WALN_DRK,Israel,Male,92.79
+2020,VC_SNS_WALN_DRK,Israel,Both sexes,87.79
+2020,VC_SNS_WALN_DRK,Israel,Female,82.82
+2021,VC_SNS_WALN_DRK,Israel,Both sexes,82.86
+2021,VC_SNS_WALN_DRK,Israel,Female,76.83
+2021,VC_SNS_WALN_DRK,Israel,Male,88.97
+2009,VC_SNS_WALN_DRK,Italy,Both sexes,59.6
+2016,VC_SNS_WALN_DRK,Italy,Male,75.4
+2016,VC_SNS_WALN_DRK,Italy,Female,46.9
+2016,VC_SNS_WALN_DRK,Italy,Both sexes,60.6
+2012,VC_SNS_WALN_DRK,Japan,Female,58.6
+2012,VC_SNS_WALN_DRK,Japan,Both sexes,65.9
+2012,VC_SNS_WALN_DRK,Japan,Male,73.8
+2019,VC_SNS_WALN_DRK,Japan,Female,78.5
+2019,VC_SNS_WALN_DRK,Japan,Both sexes,83.4
+2019,VC_SNS_WALN_DRK,Japan,Male,88.7
+2014,VC_SNS_WALN_DRK,Republic of Korea,Both sexes,54.1
+2014,VC_SNS_WALN_DRK,Republic of Korea,Male,68.0
+2016,VC_SNS_WALN_DRK,Republic of Korea,Male,75.0
+2016,VC_SNS_WALN_DRK,Republic of Korea,Both sexes,58.6
+2017,VC_SNS_WALN_DRK,Republic of Korea,Male,75.0
+2017,VC_SNS_WALN_DRK,Republic of Korea,Female,42.6
+2017,VC_SNS_WALN_DRK,Republic of Korea,Both sexes,58.6
+2019,VC_SNS_WALN_DRK,Republic of Korea,Female,45.1
+2019,VC_SNS_WALN_DRK,Republic of Korea,Both sexes,59.8
+2019,VC_SNS_WALN_DRK,Republic of Korea,Male,74.4
+2021,VC_SNS_WALN_DRK,Republic of Korea,Both sexes,64.1
+2021,VC_SNS_WALN_DRK,Republic of Korea,Male,78.2
+2021,VC_SNS_WALN_DRK,Republic of Korea,Female,50.1
+2018,VC_SNS_WALN_DRK,Kyrgyzstan,Both sexes,57.9
+2019,VC_SNS_WALN_DRK,Kyrgyzstan,Both sexes,64.35
+2020,VC_SNS_WALN_DRK,Kyrgyzstan,Both sexes,66.8
+2021,VC_SNS_WALN_DRK,Kyrgyzstan,Both sexes,67.14
+2020,VC_SNS_WALN_DRK,Latvia,Both sexes,75.0
+2020,VC_SNS_WALN_DRK,Latvia,Male,85.0
+2020,VC_SNS_WALN_DRK,Latvia,Female,67.0
+2013,VC_SNS_WALN_DRK,Lithuania,Both sexes,63.9
+2013,VC_SNS_WALN_DRK,Lithuania,Male,74.3
+2013,VC_SNS_WALN_DRK,Lithuania,Female,56.6
+2016,VC_SNS_WALN_DRK,Luxembourg,Both sexes,71.0
+2017,VC_SNS_WALN_DRK,Luxembourg,Both sexes,72.0
+2020,VC_SNS_WALN_DRK,Luxembourg,Both sexes,79.18
+2020,VC_SNS_WALN_DRK,Luxembourg,Male,86.35
+2020,VC_SNS_WALN_DRK,Luxembourg,Female,71.45
+2021,VC_SNS_WALN_DRK,Mexico,Both sexes,38.62
+2021,VC_SNS_WALN_DRK,Mexico,Male,47.01
+2021,VC_SNS_WALN_DRK,Mexico,Female,31.09
+2013,VC_SNS_WALN_DRK,Poland,Both sexes,75.5
+2014,VC_SNS_WALN_DRK,Poland,Both sexes,76.9
+2015,VC_SNS_WALN_DRK,Poland,Both sexes,78.1
+2016,VC_SNS_WALN_DRK,Poland,Both sexes,74.1
+2017,VC_SNS_WALN_DRK,Poland,Both sexes,76.1
+2019,VC_SNS_WALN_DRK,Poland,Both sexes,70.1
+2019,VC_SNS_WALN_DRK,Poland,Male,78.8
+2019,VC_SNS_WALN_DRK,Poland,Female,62.0
+2013,VC_SNS_WALN_DRK,Slovakia,Both sexes,74.0
+2010,VC_SNS_WALN_DRK,Sweden,Male,87.0
+2010,VC_SNS_WALN_DRK,Sweden,Female,71.0
+2010,VC_SNS_WALN_DRK,Sweden,Both sexes,78.0
+2011,VC_SNS_WALN_DRK,Sweden,Female,69.0
+2011,VC_SNS_WALN_DRK,Sweden,Male,86.0
+2011,VC_SNS_WALN_DRK,Sweden,Both sexes,77.0
+2012,VC_SNS_WALN_DRK,Sweden,Both sexes,78.0
+2012,VC_SNS_WALN_DRK,Sweden,Female,70.0
+2012,VC_SNS_WALN_DRK,Sweden,Male,86.0
+2013,VC_SNS_WALN_DRK,Sweden,Male,87.0
+2013,VC_SNS_WALN_DRK,Sweden,Female,72.0
+2013,VC_SNS_WALN_DRK,Sweden,Both sexes,79.0
+2014,VC_SNS_WALN_DRK,Sweden,Female,71.0
+2014,VC_SNS_WALN_DRK,Sweden,Both sexes,78.0
+2014,VC_SNS_WALN_DRK,Sweden,Male,87.0
+2015,VC_SNS_WALN_DRK,Sweden,Male,86.0
+2015,VC_SNS_WALN_DRK,Sweden,Both sexes,78.0
+2015,VC_SNS_WALN_DRK,Sweden,Female,70.0
+2016,VC_SNS_WALN_DRK,Sweden,Both sexes,72.0
+2016,VC_SNS_WALN_DRK,Sweden,Female,63.0
+2016,VC_SNS_WALN_DRK,Sweden,Male,82.0
+2017,VC_SNS_WALN_DRK,Sweden,Both sexes,72.0
+2017,VC_SNS_WALN_DRK,Sweden,Male,81.0
+2017,VC_SNS_WALN_DRK,Sweden,Female,64.0
+2018,VC_SNS_WALN_DRK,Sweden,Both sexes,72.0
+2018,VC_SNS_WALN_DRK,Sweden,Female,64.0
+2018,VC_SNS_WALN_DRK,Sweden,Male,81.0
+2019,VC_SNS_WALN_DRK,Sweden,Female,64.0
+2019,VC_SNS_WALN_DRK,Sweden,Both sexes,72.0
+2019,VC_SNS_WALN_DRK,Sweden,Male,81.0
+2020,VC_SNS_WALN_DRK,Sweden,Female,62.0
+2020,VC_SNS_WALN_DRK,Sweden,Male,78.0
+2020,VC_SNS_WALN_DRK,Sweden,Both sexes,70.0
+2021,VC_SNS_WALN_DRK,Sweden,Male,81.0
+2021,VC_SNS_WALN_DRK,Sweden,Both sexes,72.0
+2021,VC_SNS_WALN_DRK,Sweden,Female,64.0
+2014,VC_SNS_WALN_DRK,Switzerland,Female,78.08
+2014,VC_SNS_WALN_DRK,Switzerland,Both sexes,85.71
+2014,VC_SNS_WALN_DRK,Switzerland,Male,93.51
+2015,VC_SNS_WALN_DRK,Switzerland,Male,93.7
+2015,VC_SNS_WALN_DRK,Switzerland,Both sexes,84.89
+2015,VC_SNS_WALN_DRK,Switzerland,Female,75.26
+2016,VC_SNS_WALN_DRK,Switzerland,Both sexes,84.22
+2016,VC_SNS_WALN_DRK,Switzerland,Male,93.17
+2016,VC_SNS_WALN_DRK,Switzerland,Female,75.44
+2017,VC_SNS_WALN_DRK,Switzerland,Female,78.01
+2017,VC_SNS_WALN_DRK,Switzerland,Both sexes,85.86
+2017,VC_SNS_WALN_DRK,Switzerland,Male,93.84
+2018,VC_SNS_WALN_DRK,Switzerland,Both sexes,71.6
+2018,VC_SNS_WALN_DRK,Switzerland,Male,75.3
+2018,VC_SNS_WALN_DRK,Switzerland,Female,68.0
+2019,VC_SNS_WALN_DRK,Switzerland,Female,68.4
+2019,VC_SNS_WALN_DRK,Switzerland,Male,77.6
+2019,VC_SNS_WALN_DRK,Switzerland,Both sexes,72.9
+2013,VC_SNS_WALN_DRK,Türkiye,Both sexes,60.0
+2014,VC_SNS_WALN_DRK,Türkiye,Both sexes,60.0
+2015,VC_SNS_WALN_DRK,Türkiye,Male,69.4
+2015,VC_SNS_WALN_DRK,Türkiye,Female,44.0
+2015,VC_SNS_WALN_DRK,Türkiye,Both sexes,56.5
+2016,VC_SNS_WALN_DRK,Türkiye,Female,47.5
+2016,VC_SNS_WALN_DRK,Türkiye,Male,71.0
+2016,VC_SNS_WALN_DRK,Türkiye,Both sexes,59.1
+2017,VC_SNS_WALN_DRK,Türkiye,Female,45.6
+2017,VC_SNS_WALN_DRK,Türkiye,Both sexes,57.1
+2017,VC_SNS_WALN_DRK,Türkiye,Male,68.8
+2018,VC_SNS_WALN_DRK,Türkiye,Male,72.0
+2018,VC_SNS_WALN_DRK,Türkiye,Female,46.4
+2018,VC_SNS_WALN_DRK,Türkiye,Both sexes,59.1
+2019,VC_SNS_WALN_DRK,Türkiye,Both sexes,61.5
+2019,VC_SNS_WALN_DRK,Türkiye,Male,73.8
+2019,VC_SNS_WALN_DRK,Türkiye,Female,49.6
+2020,VC_SNS_WALN_DRK,Türkiye,Female,48.7
+2020,VC_SNS_WALN_DRK,Türkiye,Both sexes,59.2
+2020,VC_SNS_WALN_DRK,Türkiye,Male,69.9
+2021,VC_SNS_WALN_DRK,Türkiye,Both sexes,59.4
+2021,VC_SNS_WALN_DRK,Türkiye,Male,70.9
+2021,VC_SNS_WALN_DRK,Türkiye,Female,48.1
+2021,VC_SNS_WALN_DRK,Türkiye,Female,48.1

@@ -12,7 +12,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_GTOTL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Slovenia",
+                "Spain",
+                "Albania",
+                "Sweden",
+                "Switzerland",
+                "Azerbaijan",
+                "Australia",
+                "Tajikistan",
+                "Austria",
+                "United Arab Emirates",
+                "Armenia",
+                "Türkiye",
+                "Belgium",
+                "Turkmenistan",
+                "Ukraine",
+                "Bosnia and Herzegovina",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Bulgaria",
+                "Uzbekistan",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

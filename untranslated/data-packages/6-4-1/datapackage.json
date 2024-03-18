@@ -12,7 +12,102 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_H2O_WUEYST",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Albania",
+                "Cyprus",
+                "Belgium",
+                "Ireland",
+                "Azerbaijan",
+                "Czechia",
+                "Israel",
+                "Denmark",
+                "Italy",
+                "Australia",
+                "Austria",
+                "Estonia",
+                "Japan",
+                "Finland",
+                "Mexico",
+                "Kazakhstan",
+                "Republic of Moldova",
+                "France",
+                "Republic of Korea",
+                "Georgia",
+                "Montenegro",
+                "Kyrgyzstan",
+                "Netherlands (Kingdom of the)",
+                "Germany",
+                "Greece",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Hungary",
+                "New Zealand",
+                "Luxembourg",
+                "Iceland",
+                "Malta",
+                "Bosnia and Herzegovina",
+                "Norway",
+                "India",
+                "Bulgaria",
+                "Ukraine",
+                "Serbia",
+                "Poland",
+                "Portugal",
+                "North Macedonia",
+                "Belarus",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Romania",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "ISIC4_A01_A0210_A0322",
+                "INDUSTRIES",
+                "ISIC4_GTT",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

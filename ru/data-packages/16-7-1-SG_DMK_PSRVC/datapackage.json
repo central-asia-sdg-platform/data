@@ -1,0 +1,147 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DMK_PSRVC",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poland",
+                "Portugal",
+                "Slovakia",
+                "Slovenia",
+                "Albania",
+                "Bosnia and Herzegovina",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Bulgaria",
+                "Belarus",
+                "Colombia",
+                "Costa Rica",
+                "Cyprus",
+                "Denmark",
+                "Estonia",
+                "France",
+                "Germany",
+                "Greece",
+                "Israel",
+                "Japan",
+                "Казахстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Norway",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAGE",
+                "<35Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "PD",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Population Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "POP_C",
+                "POP_B",
+                "POP_A",
+                ""
+              ]
+            },
+            "title": "Population Group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                "BOTHSEX",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SENIORMAN",
+                "OTHERMAN",
+                "TOTAL_PSP",
+                "ASSOCPRO",
+                "ADMINPRO",
+                "GENERAL",
+                ""
+              ]
+            },
+            "title": "Type of occupation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1-SG_DMK_PSRVC",
+  "title": "meta.name-16-7-1-SG_DMK_PSRVC"
+}

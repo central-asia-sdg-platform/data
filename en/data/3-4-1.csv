@@ -1,1 +1,932 @@
-Year,Value
+Year,SeriesCode,Country,Age,Name of non-communicable disease,Sex,Value
+2000,SH_DTH_NCOM,Moldova,30-70,,Both sexes,33.0
+2000,SH_DTH_NCOM,Moldova,30-70,,Male,40.8
+2000,SH_DTH_NCOM,Moldova,30-70,,Female,26.4
+2005,SH_DTH_NCOM,Moldova,30-70,,Both sexes,32.3
+2005,SH_DTH_NCOM,Moldova,30-70,,Female,25.1
+2005,SH_DTH_NCOM,Moldova,30-70,,Male,40.8
+2010,SH_DTH_NCOM,Moldova,30-70,,Both sexes,29.9
+2010,SH_DTH_NCOM,Moldova,30-70,,Female,22.2
+2000,SH_DTH_NCOM,Albania,30-70,,Female,12.9
+2000,SH_DTH_NCOM,Albania,30-70,,Both sexes,18.7
+2000,SH_DTH_NCOM,Albania,30-70,,Male,23.5
+2005,SH_DTH_NCOM,Albania,30-70,,Male,25.2
+2005,SH_DTH_NCOM,Albania,30-70,,Female,14.5
+2005,SH_DTH_NCOM,Albania,30-70,,Both sexes,20.3
+2010,SH_DTH_NCOM,Albania,30-70,,Female,17.0
+2010,SH_DTH_NCOM,Albania,30-70,,Both sexes,19.5
+2010,SH_DTH_NCOM,Moldova,30-70,,Male,38.5
+2015,SH_DTH_NCOM,Moldova,30-70,,Both sexes,26.6
+2015,SH_DTH_NCOM,Moldova,30-70,,Male,35.5
+2015,SH_DTH_NCOM,Moldova,30-70,,Female,18.6
+2019,SH_DTH_NCOM,Moldova,30-70,,Both sexes,24.1
+2019,SH_DTH_NCOM,Moldova,30-70,,Female,15.7
+2019,SH_DTH_NCOM,Moldova,30-70,,Male,33.8
+2000,SH_DTH_NCOM,Montenegro,30-70,,Male,30.5
+2000,SH_DTH_NCOM,Montenegro,30-70,,Both sexes,24.8
+2000,SH_DTH_NCOM,Montenegro,30-70,,Female,19.3
+2005,SH_DTH_NCOM,Montenegro,30-70,,Both sexes,25.8
+2005,SH_DTH_NCOM,Montenegro,30-70,,Male,32.9
+2005,SH_DTH_NCOM,Montenegro,30-70,,Female,19.0
+2010,SH_DTH_NCOM,Montenegro,30-70,,Both sexes,23.6
+2010,SH_DTH_NCOM,Montenegro,30-70,,Female,17.9
+2010,SH_DTH_NCOM,Montenegro,30-70,,Male,29.7
+2010,SH_DTH_NCOM,Albania,30-70,,Male,21.8
+2015,SH_DTH_NCOM,Albania,30-70,,Both sexes,13.6
+2015,SH_DTH_NCOM,Albania,30-70,,Female,10.0
+2015,SH_DTH_NCOM,Albania,30-70,,Male,17.0
+2019,SH_DTH_NCOM,Albania,30-70,,Male,16.7
+2019,SH_DTH_NCOM,Albania,30-70,,Female,6.0
+2019,SH_DTH_NCOM,Albania,30-70,,Both sexes,11.4
+2000,SH_DTH_NCOM,Azerbaijan,30-70,,Male,39.7
+2000,SH_DTH_NCOM,Azerbaijan,30-70,,Female,25.5
+2000,SH_DTH_NCOM,Azerbaijan,30-70,,Both sexes,32.5
+2005,SH_DTH_NCOM,Azerbaijan,30-70,,Both sexes,32.1
+2005,SH_DTH_NCOM,Azerbaijan,30-70,,Male,39.6
+2005,SH_DTH_NCOM,Azerbaijan,30-70,,Female,25.0
+2010,SH_DTH_NCOM,Azerbaijan,30-70,,Male,37.4
+2010,SH_DTH_NCOM,Azerbaijan,30-70,,Female,22.6
+2010,SH_DTH_NCOM,Azerbaijan,30-70,,Both sexes,29.8
+2015,SH_DTH_NCOM,Montenegro,30-70,,Both sexes,22.8
+2015,SH_DTH_NCOM,Montenegro,30-70,,Female,16.7
+2015,SH_DTH_NCOM,Montenegro,30-70,,Male,29.0
+2019,SH_DTH_NCOM,Montenegro,30-70,,Female,16.0
+2019,SH_DTH_NCOM,Montenegro,30-70,,Male,28.6
+2019,SH_DTH_NCOM,Montenegro,30-70,,Both sexes,22.3
+2000,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Both sexes,16.5
+2000,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Female,12.5
+2015,SH_DTH_NCOM,Azerbaijan,30-70,,Both sexes,28.4
+2015,SH_DTH_NCOM,Azerbaijan,30-70,,Male,36.1
+2015,SH_DTH_NCOM,Azerbaijan,30-70,,Female,21.1
+2019,SH_DTH_NCOM,Azerbaijan,30-70,,Male,34.4
+2019,SH_DTH_NCOM,Azerbaijan,30-70,,Female,20.4
+2019,SH_DTH_NCOM,Azerbaijan,30-70,,Both sexes,27.2
+2000,SH_DTH_NCOM,Australia,30-70,,Male,16.0
+2000,SH_DTH_NCOM,Australia,30-70,,Female,9.8
+2000,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Male,20.4
+2005,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Both sexes,14.0
+2005,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Female,11.2
+2005,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Male,16.8
+2010,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Both sexes,12.6
+2010,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Female,10.4
+2010,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Male,14.7
+2015,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Both sexes,11.2
+2000,SH_DTH_NCOM,Australia,30-70,,Both sexes,12.9
+2005,SH_DTH_NCOM,Australia,30-70,,Both sexes,11.4
+2005,SH_DTH_NCOM,Australia,30-70,,Male,13.9
+2005,SH_DTH_NCOM,Australia,30-70,,Female,8.7
+2010,SH_DTH_NCOM,Australia,30-70,,Both sexes,9.9
+2010,SH_DTH_NCOM,Australia,30-70,,Male,12.1
+2010,SH_DTH_NCOM,Australia,30-70,,Female,7.6
+2015,SH_DTH_NCOM,Australia,30-70,,Both sexes,9.3
+2015,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Male,12.7
+2015,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Female,9.7
+2019,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Both sexes,10.3
+2019,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Female,9.1
+2019,SH_DTH_NCOM,Netherlands (Kingdom of the),30-70,,Male,11.6
+2000,SH_DTH_NCOM,New Zealand,30-70,,Female,13.0
+2000,SH_DTH_NCOM,New Zealand,30-70,,Male,18.8
+2000,SH_DTH_NCOM,New Zealand,30-70,,Both sexes,15.9
+2015,SH_DTH_NCOM,Australia,30-70,,Female,7.3
+2015,SH_DTH_NCOM,Australia,30-70,,Male,11.3
+2019,SH_DTH_NCOM,Australia,30-70,,Male,10.4
+2019,SH_DTH_NCOM,Australia,30-70,,Female,6.8
+2019,SH_DTH_NCOM,Australia,30-70,,Both sexes,8.6
+2000,SH_DTH_NCOM,Austria,30-70,,Male,20.2
+2000,SH_DTH_NCOM,Austria,30-70,,Female,10.7
+2000,SH_DTH_NCOM,Austria,30-70,,Both sexes,15.3
+2005,SH_DTH_NCOM,Austria,30-70,,Female,9.1
+2005,SH_DTH_NCOM,Austria,30-70,,Both sexes,12.8
+2005,SH_DTH_NCOM,Austria,30-70,,Male,16.6
+2010,SH_DTH_NCOM,Austria,30-70,,Male,16.2
+2010,SH_DTH_NCOM,Austria,30-70,,Female,8.8
+2010,SH_DTH_NCOM,Austria,30-70,,Both sexes,12.4
+2015,SH_DTH_NCOM,Austria,30-70,,Male,14.7
+2015,SH_DTH_NCOM,Austria,30-70,,Female,8.6
+2005,SH_DTH_NCOM,New Zealand,30-70,,Both sexes,13.3
+2005,SH_DTH_NCOM,New Zealand,30-70,,Female,11.1
+2005,SH_DTH_NCOM,New Zealand,30-70,,Male,15.5
+2010,SH_DTH_NCOM,New Zealand,30-70,,Both sexes,11.8
+2010,SH_DTH_NCOM,New Zealand,30-70,,Male,13.7
+2010,SH_DTH_NCOM,New Zealand,30-70,,Female,9.9
+2015,SH_DTH_NCOM,New Zealand,30-70,,Both sexes,10.9
+2015,SH_DTH_NCOM,New Zealand,30-70,,Female,9.3
+2015,SH_DTH_NCOM,Austria,30-70,,Both sexes,11.6
+2019,SH_DTH_NCOM,Austria,30-70,,Both sexes,10.4
+2019,SH_DTH_NCOM,Austria,30-70,,Male,12.9
+2019,SH_DTH_NCOM,Austria,30-70,,Female,7.9
+2000,SH_DTH_NCOM,Armenia,30-70,,Female,20.2
+2000,SH_DTH_NCOM,Armenia,30-70,,Both sexes,26.7
+2000,SH_DTH_NCOM,Armenia,30-70,,Male,34.1
+2005,SH_DTH_NCOM,Armenia,30-70,,Male,33.9
+2015,SH_DTH_NCOM,New Zealand,30-70,,Male,12.6
+2019,SH_DTH_NCOM,New Zealand,30-70,,Both sexes,10.3
+2019,SH_DTH_NCOM,New Zealand,30-70,,Female,8.5
+2019,SH_DTH_NCOM,New Zealand,30-70,,Male,12.1
+2000,SH_DTH_NCOM,Norway,30-70,,Both sexes,14.3
+2000,SH_DTH_NCOM,Norway,30-70,,Female,11.0
+2000,SH_DTH_NCOM,Norway,30-70,,Male,17.7
+2005,SH_DTH_NCOM,Norway,30-70,,Male,14.8
+2005,SH_DTH_NCOM,Armenia,30-70,,Female,18.5
+2005,SH_DTH_NCOM,Armenia,30-70,,Both sexes,25.7
+2010,SH_DTH_NCOM,Armenia,30-70,,Male,33.9
+2010,SH_DTH_NCOM,Armenia,30-70,,Female,17.4
+2010,SH_DTH_NCOM,Armenia,30-70,,Both sexes,25.0
+2015,SH_DTH_NCOM,Armenia,30-70,,Female,15.3
+2015,SH_DTH_NCOM,Armenia,30-70,,Both sexes,22.3
+2015,SH_DTH_NCOM,Armenia,30-70,,Male,30.6
+2005,SH_DTH_NCOM,Norway,30-70,,Both sexes,12.3
+2005,SH_DTH_NCOM,Norway,30-70,,Female,9.9
+2010,SH_DTH_NCOM,Norway,30-70,,Both sexes,11.3
+2010,SH_DTH_NCOM,Norway,30-70,,Female,9.1
+2010,SH_DTH_NCOM,Norway,30-70,,Male,13.4
+2015,SH_DTH_NCOM,Norway,30-70,,Both sexes,9.5
+2015,SH_DTH_NCOM,Norway,30-70,,Female,7.7
+2015,SH_DTH_NCOM,Norway,30-70,,Male,11.2
+2019,SH_DTH_NCOM,Armenia,30-70,,Male,28.0
+2019,SH_DTH_NCOM,Armenia,30-70,,Female,13.4
+2019,SH_DTH_NCOM,Armenia,30-70,,Both sexes,19.9
+2000,SH_DTH_NCOM,Belgium,30-70,,Female,10.7
+2000,SH_DTH_NCOM,Belgium,30-70,,Both sexes,15.4
+2000,SH_DTH_NCOM,Belgium,30-70,,Male,20.3
+2005,SH_DTH_NCOM,Belgium,30-70,,Both sexes,13.7
+2005,SH_DTH_NCOM,Belgium,30-70,,Male,17.7
+2005,SH_DTH_NCOM,Belgium,30-70,,Female,9.9
+2010,SH_DTH_NCOM,Belgium,30-70,,Both sexes,12.9
+2010,SH_DTH_NCOM,Belgium,30-70,,Female,9.7
+2010,SH_DTH_NCOM,Belgium,30-70,,Male,16.3
+2015,SH_DTH_NCOM,Belgium,30-70,,Male,14.2
+2015,SH_DTH_NCOM,Belgium,30-70,,Female,8.8
+2015,SH_DTH_NCOM,Belgium,30-70,,Both sexes,11.5
+2019,SH_DTH_NCOM,Belgium,30-70,,Both sexes,10.6
+2019,SH_DTH_NCOM,Norway,30-70,,Both sexes,8.7
+2019,SH_DTH_NCOM,Norway,30-70,,Female,7.4
+2019,SH_DTH_NCOM,Norway,30-70,,Male,10.0
+2000,SH_DTH_NCOM,Poland,30-70,,Male,34.4
+2000,SH_DTH_NCOM,Poland,30-70,,Female,16.4
+2000,SH_DTH_NCOM,Poland,30-70,,Both sexes,25.0
+2005,SH_DTH_NCOM,Poland,30-70,,Both sexes,22.5
+2005,SH_DTH_NCOM,Poland,30-70,,Female,14.4
+2019,SH_DTH_NCOM,Belgium,30-70,,Male,13.0
+2019,SH_DTH_NCOM,Belgium,30-70,,Female,8.2
+2000,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Both sexes,22.0
+2000,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Female,17.0
+2000,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Male,27.4
+2005,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Both sexes,21.7
+2005,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Female,16.2
+2005,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Male,27.5
+2005,SH_DTH_NCOM,Poland,30-70,,Male,31.3
+2010,SH_DTH_NCOM,Poland,30-70,,Both sexes,20.6
+2010,SH_DTH_NCOM,Poland,30-70,,Female,13.4
+2010,SH_DTH_NCOM,Poland,30-70,,Male,28.4
+2015,SH_DTH_NCOM,Poland,30-70,,Female,12.8
+2015,SH_DTH_NCOM,Poland,30-70,,Male,26.5
+2015,SH_DTH_NCOM,Poland,30-70,,Both sexes,19.4
+2019,SH_DTH_NCOM,Poland,30-70,,Both sexes,17.0
+2010,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Both sexes,20.1
+2010,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Female,15.2
+2010,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Male,25.3
+2015,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Both sexes,19.2
+2015,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Female,14.1
+2015,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Male,24.6
+2019,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Both sexes,18.7
+2019,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Female,13.6
+2019,SH_DTH_NCOM,Poland,30-70,,Female,11.5
+2019,SH_DTH_NCOM,Poland,30-70,,Male,22.8
+2000,SH_DTH_NCOM,Portugal,30-70,,Both sexes,15.8
+2000,SH_DTH_NCOM,Portugal,30-70,,Female,10.9
+2000,SH_DTH_NCOM,Portugal,30-70,,Male,21.2
+2005,SH_DTH_NCOM,Portugal,30-70,,Both sexes,14.2
+2005,SH_DTH_NCOM,Portugal,30-70,,Female,9.6
+2005,SH_DTH_NCOM,Portugal,30-70,,Male,19.1
+2010,SH_DTH_NCOM,Portugal,30-70,,Female,7.9
+2010,SH_DTH_NCOM,Portugal,30-70,,Male,17.2
+2010,SH_DTH_NCOM,Portugal,30-70,,Both sexes,12.4
+2015,SH_DTH_NCOM,Portugal,30-70,,Both sexes,11.5
+2015,SH_DTH_NCOM,Portugal,30-70,,Female,7.3
+2015,SH_DTH_NCOM,Portugal,30-70,,Male,16.0
+2019,SH_DTH_NCOM,Portugal,30-70,,Both sexes,11.0
+2019,SH_DTH_NCOM,Portugal,30-70,,Male,15.4
+2019,SH_DTH_NCOM,Bosnia and Herzegovina,30-70,,Male,24.0
+2000,SH_DTH_NCOM,Bulgaria,30-70,,Both sexes,28.5
+2000,SH_DTH_NCOM,Bulgaria,30-70,,Male,36.9
+2000,SH_DTH_NCOM,Bulgaria,30-70,,Female,20.2
+2005,SH_DTH_NCOM,Bulgaria,30-70,,Both sexes,27.6
+2005,SH_DTH_NCOM,Bulgaria,30-70,,Female,18.6
+2005,SH_DTH_NCOM,Bulgaria,30-70,,Male,36.8
+2010,SH_DTH_NCOM,Bulgaria,30-70,,Female,17.0
+2010,SH_DTH_NCOM,Bulgaria,30-70,,Male,34.5
+2010,SH_DTH_NCOM,Bulgaria,30-70,,Both sexes,25.6
+2015,SH_DTH_NCOM,Bulgaria,30-70,,Male,32.8
+2015,SH_DTH_NCOM,Bulgaria,30-70,,Female,16.1
+2015,SH_DTH_NCOM,Bulgaria,30-70,,Both sexes,24.3
+2019,SH_DTH_NCOM,Bulgaria,30-70,,Both sexes,24.2
+2019,SH_DTH_NCOM,Bulgaria,30-70,,Female,16.4
+2019,SH_DTH_NCOM,Bulgaria,30-70,,Male,32.1
+2019,SH_DTH_NCOM,Portugal,30-70,,Female,7.0
+2000,SH_DTH_NCOM,Romania,30-70,,Both sexes,26.5
+2000,SH_DTH_NCOM,Romania,30-70,,Female,19.2
+2000,SH_DTH_NCOM,Romania,30-70,,Male,34.2
+2005,SH_DTH_NCOM,Romania,30-70,,Both sexes,25.5
+2005,SH_DTH_NCOM,Romania,30-70,,Female,17.9
+2005,SH_DTH_NCOM,Romania,30-70,,Male,33.7
+2010,SH_DTH_NCOM,Romania,30-70,,Female,15.4
+2000,SH_DTH_NCOM,Belarus,30-70,,Both sexes,33.2
+2000,SH_DTH_NCOM,Belarus,30-70,,Female,21.7
+2000,SH_DTH_NCOM,Belarus,30-70,,Male,46.1
+2005,SH_DTH_NCOM,Belarus,30-70,,Male,48.4
+2005,SH_DTH_NCOM,Belarus,30-70,,Both sexes,34.1
+2005,SH_DTH_NCOM,Belarus,30-70,,Female,21.3
+2010,SH_DTH_NCOM,Belarus,30-70,,Male,44.8
+2010,SH_DTH_NCOM,Belarus,30-70,,Female,18.4
+2010,SH_DTH_NCOM,Romania,30-70,,Both sexes,23.1
+2010,SH_DTH_NCOM,Romania,30-70,,Male,31.3
+2015,SH_DTH_NCOM,Romania,30-70,,Female,14.3
+2015,SH_DTH_NCOM,Romania,30-70,,Male,29.5
+2015,SH_DTH_NCOM,Romania,30-70,,Both sexes,21.7
+2019,SH_DTH_NCOM,Romania,30-70,,Both sexes,21.0
+2019,SH_DTH_NCOM,Romania,30-70,,Female,13.6
+2019,SH_DTH_NCOM,Romania,30-70,,Male,28.6
+2010,SH_DTH_NCOM,Belarus,30-70,,Both sexes,30.8
+2015,SH_DTH_NCOM,Belarus,30-70,,Female,14.4
+2015,SH_DTH_NCOM,Belarus,30-70,,Both sexes,24.7
+2015,SH_DTH_NCOM,Belarus,30-70,,Male,36.6
+2019,SH_DTH_NCOM,Belarus,30-70,,Male,35.7
+2019,SH_DTH_NCOM,Belarus,30-70,,Female,13.6
+2019,SH_DTH_NCOM,Belarus,30-70,,Both sexes,23.8
+2000,SH_DTH_NCOM,Canada,30-70,,Female,11.3
+2000,SH_DTH_NCOM,Canada,30-70,,Male,17.6
+2000,SH_DTH_NCOM,Canada,30-70,,Both sexes,14.4
+2005,SH_DTH_NCOM,Canada,30-70,,Male,15.2
+2005,SH_DTH_NCOM,Canada,30-70,,Female,10.1
+2005,SH_DTH_NCOM,Canada,30-70,,Both sexes,12.7
+2010,SH_DTH_NCOM,Canada,30-70,,Male,13.2
+2010,SH_DTH_NCOM,Canada,30-70,,Female,9.0
+2010,SH_DTH_NCOM,Canada,30-70,,Both sexes,11.1
+2000,SH_DTH_NCOM,Serbia,30-70,,Male,36.5
+2000,SH_DTH_NCOM,Serbia,30-70,,Female,22.7
+2000,SH_DTH_NCOM,Serbia,30-70,,Both sexes,29.5
+2005,SH_DTH_NCOM,Serbia,30-70,,Female,20.6
+2005,SH_DTH_NCOM,Serbia,30-70,,Both sexes,27.2
+2005,SH_DTH_NCOM,Serbia,30-70,,Male,33.9
+2010,SH_DTH_NCOM,Serbia,30-70,,Female,18.2
+2010,SH_DTH_NCOM,Serbia,30-70,,Both sexes,24.6
+2015,SH_DTH_NCOM,Canada,30-70,,Both sexes,10.3
+2015,SH_DTH_NCOM,Canada,30-70,,Male,12.0
+2015,SH_DTH_NCOM,Canada,30-70,,Female,8.6
+2019,SH_DTH_NCOM,Canada,30-70,,Both sexes,9.6
+2019,SH_DTH_NCOM,Canada,30-70,,Female,8.0
+2019,SH_DTH_NCOM,Canada,30-70,,Male,11.2
+2000,SH_DTH_NCOM,Chile,30-70,,Male,17.4
+2000,SH_DTH_NCOM,Chile,30-70,,Female,11.7
+2010,SH_DTH_NCOM,Serbia,30-70,,Male,31.1
+2015,SH_DTH_NCOM,Serbia,30-70,,Female,16.0
+2015,SH_DTH_NCOM,Serbia,30-70,,Both sexes,22.2
+2015,SH_DTH_NCOM,Serbia,30-70,,Male,28.5
+2019,SH_DTH_NCOM,Serbia,30-70,,Female,15.9
+2019,SH_DTH_NCOM,Serbia,30-70,,Both sexes,22.0
+2019,SH_DTH_NCOM,Serbia,30-70,,Male,28.3
+2000,SH_DTH_NCOM,Slovakia,30-70,,Male,35.2
+2000,SH_DTH_NCOM,Chile,30-70,,Both sexes,14.3
+2005,SH_DTH_NCOM,Chile,30-70,,Both sexes,13.7
+2005,SH_DTH_NCOM,Chile,30-70,,Male,16.7
+2005,SH_DTH_NCOM,Chile,30-70,,Female,11.1
+2010,SH_DTH_NCOM,Chile,30-70,,Male,15.7
+2010,SH_DTH_NCOM,Chile,30-70,,Female,10.5
+2010,SH_DTH_NCOM,Chile,30-70,,Both sexes,12.9
+2015,SH_DTH_NCOM,Chile,30-70,,Female,9.4
+2000,SH_DTH_NCOM,Slovakia,30-70,,Female,16.5
+2000,SH_DTH_NCOM,Slovakia,30-70,,Both sexes,25.4
+2005,SH_DTH_NCOM,Slovakia,30-70,,Female,14.8
+2005,SH_DTH_NCOM,Slovakia,30-70,,Both sexes,23.0
+2005,SH_DTH_NCOM,Slovakia,30-70,,Male,32.2
+2010,SH_DTH_NCOM,Slovakia,30-70,,Female,13.2
+2010,SH_DTH_NCOM,Slovakia,30-70,,Male,28.6
+2010,SH_DTH_NCOM,Slovakia,30-70,,Both sexes,20.5
+2015,SH_DTH_NCOM,Slovakia,30-70,,Both sexes,17.5
+2015,SH_DTH_NCOM,Slovakia,30-70,,Female,11.5
+2015,SH_DTH_NCOM,Slovakia,30-70,,Male,24.1
+2019,SH_DTH_NCOM,Slovakia,30-70,,Male,21.0
+2019,SH_DTH_NCOM,Slovakia,30-70,,Female,10.4
+2019,SH_DTH_NCOM,Slovakia,30-70,,Both sexes,15.5
+2000,SH_DTH_NCOM,Viet Nam,30-70,,Female,14.8
+2000,SH_DTH_NCOM,Viet Nam,30-70,,Both sexes,21.6
+2015,SH_DTH_NCOM,Chile,30-70,,Both sexes,11.6
+2015,SH_DTH_NCOM,Chile,30-70,,Male,14.1
+2019,SH_DTH_NCOM,Chile,30-70,,Male,12.0
+2019,SH_DTH_NCOM,Chile,30-70,,Female,8.3
+2019,SH_DTH_NCOM,Chile,30-70,,Both sexes,10.0
+2000,SH_DTH_NCOM,China,30-70,,Both sexes,23.0
+2000,SH_DTH_NCOM,China,30-70,,Male,27.7
+2000,SH_DTH_NCOM,China,30-70,,Female,17.8
+2000,SH_DTH_NCOM,Viet Nam,30-70,,Male,29.2
+2005,SH_DTH_NCOM,Viet Nam,30-70,,Male,30.0
+2005,SH_DTH_NCOM,Viet Nam,30-70,,Female,14.5
+2005,SH_DTH_NCOM,Viet Nam,30-70,,Both sexes,21.8
+2010,SH_DTH_NCOM,Viet Nam,30-70,,Both sexes,22.4
+2010,SH_DTH_NCOM,Viet Nam,30-70,,Male,30.9
+2010,SH_DTH_NCOM,Viet Nam,30-70,,Female,14.6
+2015,SH_DTH_NCOM,Viet Nam,30-70,,Female,14.2
+2005,SH_DTH_NCOM,China,30-70,,Female,16.9
+2005,SH_DTH_NCOM,China,30-70,,Male,26.1
+2005,SH_DTH_NCOM,China,30-70,,Both sexes,21.8
+2010,SH_DTH_NCOM,China,30-70,,Male,23.8
+2010,SH_DTH_NCOM,China,30-70,,Female,13.8
+2010,SH_DTH_NCOM,China,30-70,,Both sexes,19.0
+2015,SH_DTH_NCOM,China,30-70,,Both sexes,16.8
+2015,SH_DTH_NCOM,China,30-70,,Male,21.7
+2015,SH_DTH_NCOM,China,30-70,,Female,11.7
+2019,SH_DTH_NCOM,China,30-70,,Female,11.2
+2019,SH_DTH_NCOM,China,30-70,,Male,20.2
+2019,SH_DTH_NCOM,China,30-70,,Both sexes,15.9
+2000,SH_DTH_NCOM,Colombia,30-70,,Male,15.9
+2000,SH_DTH_NCOM,Colombia,30-70,,Female,14.5
+2000,SH_DTH_NCOM,Colombia,30-70,,Both sexes,15.1
+2005,SH_DTH_NCOM,Colombia,30-70,,Male,14.7
+2005,SH_DTH_NCOM,Colombia,30-70,,Female,12.4
+2005,SH_DTH_NCOM,Colombia,30-70,,Both sexes,13.5
+2010,SH_DTH_NCOM,Colombia,30-70,,Both sexes,11.1
+2010,SH_DTH_NCOM,Colombia,30-70,,Female,10.5
+2010,SH_DTH_NCOM,Colombia,30-70,,Male,11.9
+2015,SH_DTH_NCOM,Colombia,30-70,,Male,11.2
+2015,SH_DTH_NCOM,Colombia,30-70,,Female,9.6
+2015,SH_DTH_NCOM,Colombia,30-70,,Both sexes,10.3
+2015,SH_DTH_NCOM,Viet Nam,30-70,,Male,30.3
+2015,SH_DTH_NCOM,Viet Nam,30-70,,Both sexes,21.9
+2019,SH_DTH_NCOM,Viet Nam,30-70,,Male,29.1
+2019,SH_DTH_NCOM,Viet Nam,30-70,,Female,13.7
+2019,SH_DTH_NCOM,Viet Nam,30-70,,Both sexes,21.2
+2000,SH_DTH_NCOM,Slovenia,30-70,,Male,25.4
+2000,SH_DTH_NCOM,Slovenia,30-70,,Both sexes,18.5
+2000,SH_DTH_NCOM,Slovenia,30-70,,Female,12.0
+2005,SH_DTH_NCOM,Slovenia,30-70,,Male,21.7
+2005,SH_DTH_NCOM,Slovenia,30-70,,Both sexes,16.1
+2005,SH_DTH_NCOM,Slovenia,30-70,,Female,10.7
+2010,SH_DTH_NCOM,Slovenia,30-70,,Female,8.9
+2010,SH_DTH_NCOM,Slovenia,30-70,,Both sexes,13.5
+2010,SH_DTH_NCOM,Slovenia,30-70,,Male,18.0
+2015,SH_DTH_NCOM,Slovenia,30-70,,Female,9.0
+2015,SH_DTH_NCOM,Slovenia,30-70,,Both sexes,12.8
+2019,SH_DTH_NCOM,Colombia,30-70,,Male,10.8
+2019,SH_DTH_NCOM,Colombia,30-70,,Female,8.9
+2019,SH_DTH_NCOM,Colombia,30-70,,Both sexes,9.7
+2000,SH_DTH_NCOM,Costa Rica,30-70,,Male,14.9
+2000,SH_DTH_NCOM,Costa Rica,30-70,,Female,10.9
+2000,SH_DTH_NCOM,Costa Rica,30-70,,Both sexes,12.9
+2005,SH_DTH_NCOM,Costa Rica,30-70,,Male,12.6
+2005,SH_DTH_NCOM,Costa Rica,30-70,,Female,9.5
+2015,SH_DTH_NCOM,Slovenia,30-70,,Male,16.5
+2019,SH_DTH_NCOM,Slovenia,30-70,,Male,14.8
+2019,SH_DTH_NCOM,Slovenia,30-70,,Female,8.0
+2019,SH_DTH_NCOM,Slovenia,30-70,,Both sexes,11.4
+2000,SH_DTH_NCOM,Spain,30-70,,Male,19.3
+2000,SH_DTH_NCOM,Spain,30-70,,Female,8.2
+2000,SH_DTH_NCOM,Spain,30-70,,Both sexes,13.7
+2005,SH_DTH_NCOM,Spain,30-70,,Both sexes,12.4
+2005,SH_DTH_NCOM,Costa Rica,30-70,,Both sexes,11.0
+2010,SH_DTH_NCOM,Costa Rica,30-70,,Both sexes,11.1
+2010,SH_DTH_NCOM,Costa Rica,30-70,,Female,9.2
+2010,SH_DTH_NCOM,Costa Rica,30-70,,Male,13.0
+2015,SH_DTH_NCOM,Costa Rica,30-70,,Male,11.8
+2015,SH_DTH_NCOM,Costa Rica,30-70,,Female,7.7
+2015,SH_DTH_NCOM,Costa Rica,30-70,,Both sexes,9.8
+2019,SH_DTH_NCOM,Costa Rica,30-70,,Male,11.0
+2005,SH_DTH_NCOM,Spain,30-70,,Female,7.4
+2005,SH_DTH_NCOM,Spain,30-70,,Male,17.5
+2010,SH_DTH_NCOM,Spain,30-70,,Both sexes,11.0
+2010,SH_DTH_NCOM,Spain,30-70,,Female,6.7
+2010,SH_DTH_NCOM,Spain,30-70,,Male,15.4
+2015,SH_DTH_NCOM,Spain,30-70,,Both sexes,10.3
+2015,SH_DTH_NCOM,Spain,30-70,,Female,6.6
+2015,SH_DTH_NCOM,Spain,30-70,,Male,14.0
+2019,SH_DTH_NCOM,Costa Rica,30-70,,Female,8.1
+2019,SH_DTH_NCOM,Costa Rica,30-70,,Both sexes,9.5
+2000,SH_DTH_NCOM,Croatia,30-70,,Both sexes,22.9
+2000,SH_DTH_NCOM,Croatia,30-70,,Female,15.4
+2000,SH_DTH_NCOM,Croatia,30-70,,Male,30.8
+2005,SH_DTH_NCOM,Croatia,30-70,,Male,28.6
+2005,SH_DTH_NCOM,Croatia,30-70,,Female,13.2
+2005,SH_DTH_NCOM,Croatia,30-70,,Both sexes,20.7
+2010,SH_DTH_NCOM,Croatia,30-70,,Male,25.6
+2010,SH_DTH_NCOM,Croatia,30-70,,Female,12.4
+2010,SH_DTH_NCOM,Croatia,30-70,,Both sexes,18.8
+2015,SH_DTH_NCOM,Croatia,30-70,,Female,11.4
+2015,SH_DTH_NCOM,Croatia,30-70,,Both sexes,17.6
+2015,SH_DTH_NCOM,Croatia,30-70,,Male,24.1
+2019,SH_DTH_NCOM,Croatia,30-70,,Male,21.8
+2019,SH_DTH_NCOM,Croatia,30-70,,Female,10.5
+2019,SH_DTH_NCOM,Spain,30-70,,Both sexes,9.6
+2019,SH_DTH_NCOM,Spain,30-70,,Female,6.5
+2019,SH_DTH_NCOM,Spain,30-70,,Male,12.8
+2000,SH_DTH_NCOM,Sweden,30-70,,Both sexes,13.2
+2000,SH_DTH_NCOM,Sweden,30-70,,Female,10.6
+2000,SH_DTH_NCOM,Sweden,30-70,,Male,15.8
+2005,SH_DTH_NCOM,Sweden,30-70,,Both sexes,11.8
+2005,SH_DTH_NCOM,Sweden,30-70,,Female,9.7
+2019,SH_DTH_NCOM,Croatia,30-70,,Both sexes,16.1
+2000,SH_DTH_NCOM,Cyprus,30-70,,Both sexes,13.1
+2000,SH_DTH_NCOM,Cyprus,30-70,,Male,16.7
+2000,SH_DTH_NCOM,Cyprus,30-70,,Female,9.5
+2005,SH_DTH_NCOM,Cyprus,30-70,,Male,16.2
+2005,SH_DTH_NCOM,Cyprus,30-70,,Female,9.1
+2005,SH_DTH_NCOM,Cyprus,30-70,,Both sexes,12.7
+2010,SH_DTH_NCOM,Cyprus,30-70,,Male,14.0
+2005,SH_DTH_NCOM,Sweden,30-70,,Male,13.9
+2010,SH_DTH_NCOM,Sweden,30-70,,Both sexes,10.4
+2010,SH_DTH_NCOM,Sweden,30-70,,Female,8.6
+2010,SH_DTH_NCOM,Sweden,30-70,,Male,12.1
+2015,SH_DTH_NCOM,Sweden,30-70,,Male,10.6
+2015,SH_DTH_NCOM,Sweden,30-70,,Both sexes,9.2
+2015,SH_DTH_NCOM,Sweden,30-70,,Female,7.8
+2019,SH_DTH_NCOM,Sweden,30-70,,Both sexes,8.4
+2010,SH_DTH_NCOM,Cyprus,30-70,,Female,7.2
+2010,SH_DTH_NCOM,Cyprus,30-70,,Both sexes,10.6
+2015,SH_DTH_NCOM,Cyprus,30-70,,Both sexes,9.7
+2015,SH_DTH_NCOM,Cyprus,30-70,,Male,12.9
+2015,SH_DTH_NCOM,Cyprus,30-70,,Female,6.6
+2019,SH_DTH_NCOM,Cyprus,30-70,,Male,10.7
+2019,SH_DTH_NCOM,Cyprus,30-70,,Female,5.7
+2019,SH_DTH_NCOM,Cyprus,30-70,,Both sexes,8.2
+2019,SH_DTH_NCOM,Sweden,30-70,,Female,7.1
+2019,SH_DTH_NCOM,Sweden,30-70,,Male,9.6
+2000,SH_DTH_NCOM,Switzerland,30-70,,Both sexes,12.5
+2000,SH_DTH_NCOM,Switzerland,30-70,,Female,9.0
+2000,SH_DTH_NCOM,Switzerland,30-70,,Male,16.3
+2005,SH_DTH_NCOM,Switzerland,30-70,,Both sexes,10.8
+2005,SH_DTH_NCOM,Switzerland,30-70,,Female,7.7
+2005,SH_DTH_NCOM,Switzerland,30-70,,Male,14.0
+2000,SH_DTH_NCOM,Czechia,30-70,,Male,30.3
+2000,SH_DTH_NCOM,Czechia,30-70,,Female,15.2
+2000,SH_DTH_NCOM,Czechia,30-70,,Both sexes,22.5
+2005,SH_DTH_NCOM,Czechia,30-70,,Female,13.5
+2005,SH_DTH_NCOM,Czechia,30-70,,Both sexes,19.7
+2005,SH_DTH_NCOM,Czechia,30-70,,Male,26.3
+2010,SH_DTH_NCOM,Czechia,30-70,,Male,23.8
+2010,SH_DTH_NCOM,Czechia,30-70,,Female,12.0
+2010,SH_DTH_NCOM,Switzerland,30-70,,Both sexes,9.7
+2010,SH_DTH_NCOM,Switzerland,30-70,,Female,7.3
+2010,SH_DTH_NCOM,Switzerland,30-70,,Male,12.2
+2015,SH_DTH_NCOM,Switzerland,30-70,,Both sexes,8.8
+2015,SH_DTH_NCOM,Switzerland,30-70,,Female,6.7
+2015,SH_DTH_NCOM,Switzerland,30-70,,Male,10.8
+2019,SH_DTH_NCOM,Switzerland,30-70,,Both sexes,7.9
+2019,SH_DTH_NCOM,Switzerland,30-70,,Female,6.1
+2010,SH_DTH_NCOM,Czechia,30-70,,Both sexes,17.8
+2015,SH_DTH_NCOM,Czechia,30-70,,Both sexes,15.6
+2015,SH_DTH_NCOM,Czechia,30-70,,Male,20.7
+2015,SH_DTH_NCOM,Czechia,30-70,,Female,10.6
+2019,SH_DTH_NCOM,Czechia,30-70,,Male,18.8
+2019,SH_DTH_NCOM,Czechia,30-70,,Female,9.8
+2019,SH_DTH_NCOM,Czechia,30-70,,Both sexes,14.3
+2000,SH_DTH_NCOM,Denmark,30-70,,Female,15.8
+2019,SH_DTH_NCOM,Switzerland,30-70,,Male,9.6
+2000,SH_DTH_NCOM,Tajikistan,30-70,,Female,25.4
+2000,SH_DTH_NCOM,Tajikistan,30-70,,Male,30.7
+2000,SH_DTH_NCOM,Tajikistan,30-70,,Both sexes,28.2
+2005,SH_DTH_NCOM,Tajikistan,30-70,,Male,32.7
+2005,SH_DTH_NCOM,Tajikistan,30-70,,Both sexes,29.8
+2005,SH_DTH_NCOM,Tajikistan,30-70,,Female,26.7
+2010,SH_DTH_NCOM,Tajikistan,30-70,,Both sexes,30.5
+2000,SH_DTH_NCOM,Denmark,30-70,,Both sexes,18.4
+2000,SH_DTH_NCOM,Denmark,30-70,,Male,21.0
+2005,SH_DTH_NCOM,Denmark,30-70,,Female,12.7
+2005,SH_DTH_NCOM,Denmark,30-70,,Male,17.5
+2005,SH_DTH_NCOM,Denmark,30-70,,Both sexes,15.1
+2010,SH_DTH_NCOM,Denmark,30-70,,Male,15.6
+2010,SH_DTH_NCOM,Denmark,30-70,,Female,11.4
+2010,SH_DTH_NCOM,Denmark,30-70,,Both sexes,13.5
+2010,SH_DTH_NCOM,Tajikistan,30-70,,Female,26.8
+2010,SH_DTH_NCOM,Tajikistan,30-70,,Male,33.8
+2015,SH_DTH_NCOM,Tajikistan,30-70,,Both sexes,29.5
+2015,SH_DTH_NCOM,Tajikistan,30-70,,Female,26.0
+2015,SH_DTH_NCOM,Tajikistan,30-70,,Male,33.2
+2019,SH_DTH_NCOM,Tajikistan,30-70,,Both sexes,28.3
+2019,SH_DTH_NCOM,Tajikistan,30-70,,Female,25.1
+2019,SH_DTH_NCOM,Tajikistan,30-70,,Male,31.8
+2015,SH_DTH_NCOM,Denmark,30-70,,Male,13.8
+2015,SH_DTH_NCOM,Denmark,30-70,,Female,10.1
+2015,SH_DTH_NCOM,Denmark,30-70,,Both sexes,11.9
+2019,SH_DTH_NCOM,Denmark,30-70,,Both sexes,10.8
+2019,SH_DTH_NCOM,Denmark,30-70,,Female,9.0
+2019,SH_DTH_NCOM,Denmark,30-70,,Male,12.6
+2000,SH_DTH_NCOM,Estonia,30-70,,Female,17.6
+2000,SH_DTH_NCOM,Estonia,30-70,,Both sexes,27.0
+2000,SH_DTH_NCOM,Estonia,30-70,,Male,38.2
+2005,SH_DTH_NCOM,Estonia,30-70,,Both sexes,23.7
+2005,SH_DTH_NCOM,Estonia,30-70,,Male,35.1
+2005,SH_DTH_NCOM,Estonia,30-70,,Female,14.1
+2010,SH_DTH_NCOM,Estonia,30-70,,Male,29.0
+2010,SH_DTH_NCOM,Estonia,30-70,,Female,12.3
+2010,SH_DTH_NCOM,Estonia,30-70,,Both sexes,19.9
+2015,SH_DTH_NCOM,Estonia,30-70,,Male,25.0
+2000,SH_DTH_NCOM,United Arab Emirates,30-70,,Male,25.6
+2000,SH_DTH_NCOM,United Arab Emirates,30-70,,Both sexes,24.4
+2000,SH_DTH_NCOM,United Arab Emirates,30-70,,Female,21.9
+2005,SH_DTH_NCOM,United Arab Emirates,30-70,,Both sexes,23.1
+2005,SH_DTH_NCOM,United Arab Emirates,30-70,,Female,19.8
+2005,SH_DTH_NCOM,United Arab Emirates,30-70,,Male,24.5
+2010,SH_DTH_NCOM,United Arab Emirates,30-70,,Female,17.6
+2010,SH_DTH_NCOM,United Arab Emirates,30-70,,Both sexes,21.1
+2015,SH_DTH_NCOM,Estonia,30-70,,Both sexes,17.1
+2015,SH_DTH_NCOM,Estonia,30-70,,Female,10.5
+2019,SH_DTH_NCOM,Estonia,30-70,,Male,22.1
+2019,SH_DTH_NCOM,Estonia,30-70,,Female,8.8
+2019,SH_DTH_NCOM,Estonia,30-70,,Both sexes,14.9
+2000,SH_DTH_NCOM,Finland,30-70,,Male,19.8
+2000,SH_DTH_NCOM,Finland,30-70,,Female,9.7
+2000,SH_DTH_NCOM,Finland,30-70,,Both sexes,14.7
+2005,SH_DTH_NCOM,Finland,30-70,,Male,17.6
+2005,SH_DTH_NCOM,Finland,30-70,,Female,8.4
+2005,SH_DTH_NCOM,Finland,30-70,,Both sexes,13.0
+2010,SH_DTH_NCOM,Finland,30-70,,Both sexes,12.0
+2010,SH_DTH_NCOM,Finland,30-70,,Female,8.0
+2010,SH_DTH_NCOM,Finland,30-70,,Male,16.0
+2015,SH_DTH_NCOM,Finland,30-70,,Both sexes,10.6
+2015,SH_DTH_NCOM,Finland,30-70,,Male,14.0
+2010,SH_DTH_NCOM,United Arab Emirates,30-70,,Male,22.2
+2015,SH_DTH_NCOM,United Arab Emirates,30-70,,Both sexes,19.9
+2015,SH_DTH_NCOM,United Arab Emirates,30-70,,Female,16.5
+2015,SH_DTH_NCOM,United Arab Emirates,30-70,,Male,21.3
+2019,SH_DTH_NCOM,United Arab Emirates,30-70,,Female,15.5
+2019,SH_DTH_NCOM,United Arab Emirates,30-70,,Male,19.8
+2019,SH_DTH_NCOM,United Arab Emirates,30-70,,Both sexes,18.5
+2000,SH_DTH_NCOM,Türkiye,30-70,,Both sexes,21.0
+2015,SH_DTH_NCOM,Finland,30-70,,Female,7.3
+2019,SH_DTH_NCOM,Finland,30-70,,Male,12.4
+2019,SH_DTH_NCOM,Finland,30-70,,Female,6.8
+2019,SH_DTH_NCOM,Finland,30-70,,Both sexes,9.6
+2000,SH_DTH_NCOM,France,30-70,,Both sexes,14.1
+2000,SH_DTH_NCOM,France,30-70,,Male,19.7
+2000,SH_DTH_NCOM,France,30-70,,Female,8.7
+2005,SH_DTH_NCOM,France,30-70,,Both sexes,12.7
+2000,SH_DTH_NCOM,Türkiye,30-70,,Female,15.2
+2000,SH_DTH_NCOM,Türkiye,30-70,,Male,26.6
+2005,SH_DTH_NCOM,Türkiye,30-70,,Both sexes,18.2
+2005,SH_DTH_NCOM,Türkiye,30-70,,Female,12.7
+2005,SH_DTH_NCOM,Türkiye,30-70,,Male,23.8
+2010,SH_DTH_NCOM,Türkiye,30-70,,Both sexes,17.9
+2010,SH_DTH_NCOM,Türkiye,30-70,,Female,12.4
+2010,SH_DTH_NCOM,Türkiye,30-70,,Male,23.9
+2005,SH_DTH_NCOM,France,30-70,,Female,8.2
+2005,SH_DTH_NCOM,France,30-70,,Male,17.4
+2010,SH_DTH_NCOM,France,30-70,,Male,15.9
+2010,SH_DTH_NCOM,France,30-70,,Female,7.8
+2010,SH_DTH_NCOM,France,30-70,,Both sexes,11.8
+2015,SH_DTH_NCOM,France,30-70,,Male,14.7
+2015,SH_DTH_NCOM,France,30-70,,Female,7.5
+2015,SH_DTH_NCOM,France,30-70,,Both sexes,11.0
+2019,SH_DTH_NCOM,France,30-70,,Female,7.3
+2019,SH_DTH_NCOM,France,30-70,,Both sexes,10.6
+2019,SH_DTH_NCOM,France,30-70,,Male,14.0
+2000,SH_DTH_NCOM,Georgia,30-70,,Female,21.3
+2000,SH_DTH_NCOM,Georgia,30-70,,Both sexes,30.0
+2000,SH_DTH_NCOM,Georgia,30-70,,Male,39.6
+2005,SH_DTH_NCOM,Georgia,30-70,,Male,34.9
+2005,SH_DTH_NCOM,Georgia,30-70,,Female,19.2
+2015,SH_DTH_NCOM,Türkiye,30-70,,Both sexes,16.4
+2015,SH_DTH_NCOM,Türkiye,30-70,,Female,11.3
+2015,SH_DTH_NCOM,Türkiye,30-70,,Male,22.0
+2019,SH_DTH_NCOM,Türkiye,30-70,,Both sexes,15.6
+2019,SH_DTH_NCOM,Türkiye,30-70,,Female,10.8
+2019,SH_DTH_NCOM,Türkiye,30-70,,Male,21.0
+2000,SH_DTH_NCOM,Turkmenistan,30-70,,Both sexes,37.3
+2000,SH_DTH_NCOM,Turkmenistan,30-70,,Female,30.1
+2005,SH_DTH_NCOM,Georgia,30-70,,Both sexes,26.6
+2010,SH_DTH_NCOM,Georgia,30-70,,Both sexes,27.1
+2010,SH_DTH_NCOM,Georgia,30-70,,Female,18.1
+2010,SH_DTH_NCOM,Georgia,30-70,,Male,37.0
+2015,SH_DTH_NCOM,Georgia,30-70,,Both sexes,25.5
+2015,SH_DTH_NCOM,Georgia,30-70,,Female,16.5
+2015,SH_DTH_NCOM,Georgia,30-70,,Male,35.5
+2019,SH_DTH_NCOM,Georgia,30-70,,Both sexes,24.9
+2000,SH_DTH_NCOM,Turkmenistan,30-70,,Male,44.6
+2005,SH_DTH_NCOM,Turkmenistan,30-70,,Male,47.6
+2005,SH_DTH_NCOM,Turkmenistan,30-70,,Both sexes,40.2
+2005,SH_DTH_NCOM,Turkmenistan,30-70,,Female,32.9
+2010,SH_DTH_NCOM,Turkmenistan,30-70,,Both sexes,33.1
+2010,SH_DTH_NCOM,Turkmenistan,30-70,,Female,26.8
+2010,SH_DTH_NCOM,Turkmenistan,30-70,,Male,39.7
+2015,SH_DTH_NCOM,Turkmenistan,30-70,,Both sexes,28.5
+2019,SH_DTH_NCOM,Georgia,30-70,,Male,35.5
+2019,SH_DTH_NCOM,Georgia,30-70,,Female,15.2
+2000,SH_DTH_NCOM,Germany,30-70,,Male,21.1
+2000,SH_DTH_NCOM,Germany,30-70,,Female,11.2
+2000,SH_DTH_NCOM,Germany,30-70,,Both sexes,16.1
+2005,SH_DTH_NCOM,Germany,30-70,,Both sexes,14.1
+2005,SH_DTH_NCOM,Germany,30-70,,Female,9.9
+2005,SH_DTH_NCOM,Germany,30-70,,Male,18.2
+2015,SH_DTH_NCOM,Turkmenistan,30-70,,Male,34.5
+2015,SH_DTH_NCOM,Turkmenistan,30-70,,Female,23.3
+2019,SH_DTH_NCOM,Turkmenistan,30-70,,Female,22.3
+2019,SH_DTH_NCOM,Turkmenistan,30-70,,Male,34.0
+2019,SH_DTH_NCOM,Turkmenistan,30-70,,Both sexes,27.7
+2000,SH_DTH_NCOM,Ukraine,30-70,,Both sexes,34.7
+2000,SH_DTH_NCOM,Ukraine,30-70,,Female,23.9
+2000,SH_DTH_NCOM,Ukraine,30-70,,Male,46.8
+2010,SH_DTH_NCOM,Germany,30-70,,Male,16.7
+2010,SH_DTH_NCOM,Germany,30-70,,Both sexes,13.0
+2010,SH_DTH_NCOM,Germany,30-70,,Female,9.3
+2015,SH_DTH_NCOM,Germany,30-70,,Both sexes,12.6
+2015,SH_DTH_NCOM,Germany,30-70,,Female,9.2
+2015,SH_DTH_NCOM,Germany,30-70,,Male,15.9
+2019,SH_DTH_NCOM,Germany,30-70,,Both sexes,12.1
+2019,SH_DTH_NCOM,Germany,30-70,,Female,9.0
+2005,SH_DTH_NCOM,Ukraine,30-70,,Both sexes,35.3
+2005,SH_DTH_NCOM,Ukraine,30-70,,Female,23.8
+2005,SH_DTH_NCOM,Ukraine,30-70,,Male,48.4
+2010,SH_DTH_NCOM,Ukraine,30-70,,Female,19.9
+2010,SH_DTH_NCOM,Ukraine,30-70,,Male,41.4
+2010,SH_DTH_NCOM,Ukraine,30-70,,Both sexes,29.7
+2015,SH_DTH_NCOM,Ukraine,30-70,,Both sexes,26.2
+2015,SH_DTH_NCOM,Ukraine,30-70,,Female,16.8
+2019,SH_DTH_NCOM,Germany,30-70,,Male,15.2
+2000,SH_DTH_NCOM,Greece,30-70,,Both sexes,14.9
+2000,SH_DTH_NCOM,Greece,30-70,,Female,9.6
+2000,SH_DTH_NCOM,Greece,30-70,,Male,20.5
+2005,SH_DTH_NCOM,Greece,30-70,,Both sexes,13.6
+2005,SH_DTH_NCOM,Greece,30-70,,Female,8.7
+2005,SH_DTH_NCOM,Greece,30-70,,Male,18.6
+2010,SH_DTH_NCOM,Greece,30-70,,Both sexes,13.4
+2010,SH_DTH_NCOM,Greece,30-70,,Male,18.2
+2010,SH_DTH_NCOM,Greece,30-70,,Female,8.8
+2015,SH_DTH_NCOM,Greece,30-70,,Male,18.2
+2015,SH_DTH_NCOM,Greece,30-70,,Both sexes,13.1
+2015,SH_DTH_NCOM,Greece,30-70,,Female,8.1
+2019,SH_DTH_NCOM,Greece,30-70,,Both sexes,12.5
+2019,SH_DTH_NCOM,Greece,30-70,,Female,8.0
+2019,SH_DTH_NCOM,Greece,30-70,,Male,17.2
+2015,SH_DTH_NCOM,Ukraine,30-70,,Male,37.5
+2019,SH_DTH_NCOM,Ukraine,30-70,,Both sexes,25.5
+2019,SH_DTH_NCOM,Ukraine,30-70,,Male,36.9
+2019,SH_DTH_NCOM,Ukraine,30-70,,Female,16.0
+2000,SH_DTH_NCOM,North Macedonia,30-70,,Female,24.1
+2000,SH_DTH_NCOM,North Macedonia,30-70,,Male,36.3
+2000,SH_DTH_NCOM,North Macedonia,30-70,,Both sexes,30.2
+2005,SH_DTH_NCOM,North Macedonia,30-70,,Male,34.3
+2000,SH_DTH_NCOM,Hungary,30-70,,Both sexes,29.1
+2000,SH_DTH_NCOM,Hungary,30-70,,Female,19.8
+2000,SH_DTH_NCOM,Hungary,30-70,,Male,39.4
+2005,SH_DTH_NCOM,Hungary,30-70,,Both sexes,26.7
+2005,SH_DTH_NCOM,Hungary,30-70,,Female,17.7
+2005,SH_DTH_NCOM,Hungary,30-70,,Male,36.7
+2010,SH_DTH_NCOM,Hungary,30-70,,Both sexes,24.5
+2010,SH_DTH_NCOM,Hungary,30-70,,Female,16.4
+2010,SH_DTH_NCOM,Hungary,30-70,,Male,33.5
+2015,SH_DTH_NCOM,Hungary,30-70,,Male,30.7
+2015,SH_DTH_NCOM,Hungary,30-70,,Both sexes,23.2
+2015,SH_DTH_NCOM,Hungary,30-70,,Female,16.5
+2019,SH_DTH_NCOM,Hungary,30-70,,Both sexes,22.1
+2019,SH_DTH_NCOM,Hungary,30-70,,Female,15.2
+2019,SH_DTH_NCOM,Hungary,30-70,,Male,29.8
+2000,SH_DTH_NCOM,Iceland,30-70,,Both sexes,13.3
+2005,SH_DTH_NCOM,North Macedonia,30-70,,Both sexes,28.3
+2005,SH_DTH_NCOM,North Macedonia,30-70,,Female,22.3
+2010,SH_DTH_NCOM,North Macedonia,30-70,,Both sexes,26.6
+2010,SH_DTH_NCOM,North Macedonia,30-70,,Female,20.3
+2010,SH_DTH_NCOM,North Macedonia,30-70,,Male,32.9
+2015,SH_DTH_NCOM,North Macedonia,30-70,,Both sexes,24.5
+2015,SH_DTH_NCOM,North Macedonia,30-70,,Female,18.9
+2015,SH_DTH_NCOM,North Macedonia,30-70,,Male,30.0
+2000,SH_DTH_NCOM,Iceland,30-70,,Female,11.1
+2000,SH_DTH_NCOM,Iceland,30-70,,Male,15.4
+2005,SH_DTH_NCOM,Iceland,30-70,,Both sexes,11.4
+2005,SH_DTH_NCOM,Iceland,30-70,,Female,9.6
+2005,SH_DTH_NCOM,Iceland,30-70,,Male,13.2
+2010,SH_DTH_NCOM,Iceland,30-70,,Male,11.7
+2010,SH_DTH_NCOM,Iceland,30-70,,Female,8.1
+2010,SH_DTH_NCOM,Iceland,30-70,,Both sexes,9.9
+2015,SH_DTH_NCOM,Iceland,30-70,,Both sexes,9.2
+2015,SH_DTH_NCOM,Iceland,30-70,,Female,7.9
+2015,SH_DTH_NCOM,Iceland,30-70,,Male,10.5
+2019,SH_DTH_NCOM,Iceland,30-70,,Both sexes,8.7
+2019,SH_DTH_NCOM,Iceland,30-70,,Female,7.0
+2019,SH_DTH_NCOM,Iceland,30-70,,Male,10.2
+2000,SH_DTH_NCOM,India,30-70,,Both sexes,25.1
+2000,SH_DTH_NCOM,India,30-70,,Female,21.3
+2000,SH_DTH_NCOM,India,30-70,,Male,28.8
+2005,SH_DTH_NCOM,India,30-70,,Both sexes,22.5
+2005,SH_DTH_NCOM,India,30-70,,Female,18.9
+2005,SH_DTH_NCOM,India,30-70,,Male,26.0
+2010,SH_DTH_NCOM,India,30-70,,Both sexes,23.7
+2010,SH_DTH_NCOM,India,30-70,,Female,19.1
+2010,SH_DTH_NCOM,India,30-70,,Male,28.0
+2015,SH_DTH_NCOM,India,30-70,,Female,19.8
+2015,SH_DTH_NCOM,India,30-70,,Both sexes,22.6
+2015,SH_DTH_NCOM,India,30-70,,Male,25.4
+2019,SH_DTH_NCOM,India,30-70,,Female,19.0
+2019,SH_DTH_NCOM,India,30-70,,Male,24.6
+2019,SH_DTH_NCOM,India,30-70,,Both sexes,21.9
+2000,SH_DTH_NCOM,Ireland,30-70,,Female,13.6
+2000,SH_DTH_NCOM,Ireland,30-70,,Both sexes,17.7
+2000,SH_DTH_NCOM,Ireland,30-70,,Male,21.7
+2019,SH_DTH_NCOM,North Macedonia,30-70,,Both sexes,22.7
+2019,SH_DTH_NCOM,North Macedonia,30-70,,Female,17.5
+2019,SH_DTH_NCOM,North Macedonia,30-70,,Male,27.9
+2000,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Male,20.0
+2000,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Female,13.0
+2000,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Both sexes,16.5
+2005,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Both sexes,14.2
+2005,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Female,11.3
+2005,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Male,17.1
+2010,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Male,14.9
+2010,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Both sexes,12.4
+2010,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Female,10.0
+2015,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Both sexes,11.3
+2015,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Male,13.4
+2015,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Female,9.3
+2019,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Both sexes,10.3
+2005,SH_DTH_NCOM,Ireland,30-70,,Female,11.1
+2005,SH_DTH_NCOM,Ireland,30-70,,Male,16.6
+2005,SH_DTH_NCOM,Ireland,30-70,,Both sexes,13.9
+2010,SH_DTH_NCOM,Ireland,30-70,,Both sexes,11.3
+2010,SH_DTH_NCOM,Ireland,30-70,,Female,9.1
+2010,SH_DTH_NCOM,Ireland,30-70,,Male,13.5
+2015,SH_DTH_NCOM,Ireland,30-70,,Both sexes,10.6
+2015,SH_DTH_NCOM,Ireland,30-70,,Male,12.6
+2015,SH_DTH_NCOM,Ireland,30-70,,Female,8.7
+2019,SH_DTH_NCOM,Ireland,30-70,,Male,11.2
+2019,SH_DTH_NCOM,Ireland,30-70,,Both sexes,9.7
+2019,SH_DTH_NCOM,Ireland,30-70,,Female,8.1
+2000,SH_DTH_NCOM,Israel,30-70,,Both sexes,14.3
+2000,SH_DTH_NCOM,Israel,30-70,,Female,11.5
+2000,SH_DTH_NCOM,Israel,30-70,,Male,17.6
+2005,SH_DTH_NCOM,Israel,30-70,,Female,9.6
+2019,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Female,8.5
+2019,SH_DTH_NCOM,United Kingdom of Great Britain and Northern Ireland,30-70,,Male,12.1
+2000,SH_DTH_NCOM,Uzbekistan,30-70,,Both sexes,34.2
+2000,SH_DTH_NCOM,Uzbekistan,30-70,,Female,28.5
+2000,SH_DTH_NCOM,Uzbekistan,30-70,,Male,40.1
+2005,SH_DTH_NCOM,Uzbekistan,30-70,,Both sexes,34.9
+2005,SH_DTH_NCOM,Uzbekistan,30-70,,Female,28.9
+2005,SH_DTH_NCOM,Uzbekistan,30-70,,Male,41.0
+2005,SH_DTH_NCOM,Israel,30-70,,Both sexes,12.2
+2005,SH_DTH_NCOM,Israel,30-70,,Male,15.0
+2010,SH_DTH_NCOM,Israel,30-70,,Both sexes,10.4
+2010,SH_DTH_NCOM,Israel,30-70,,Female,8.2
+2010,SH_DTH_NCOM,Israel,30-70,,Male,12.8
+2015,SH_DTH_NCOM,Israel,30-70,,Both sexes,9.6
+2015,SH_DTH_NCOM,Israel,30-70,,Female,7.4
+2015,SH_DTH_NCOM,Israel,30-70,,Male,11.8
+2010,SH_DTH_NCOM,Uzbekistan,30-70,,Both sexes,28.9
+2010,SH_DTH_NCOM,Uzbekistan,30-70,,Female,23.6
+2010,SH_DTH_NCOM,Uzbekistan,30-70,,Male,34.4
+2015,SH_DTH_NCOM,Uzbekistan,30-70,,Male,32.1
+2015,SH_DTH_NCOM,Uzbekistan,30-70,,Female,22.2
+2015,SH_DTH_NCOM,Uzbekistan,30-70,,Both sexes,27.0
+2019,SH_DTH_NCOM,Uzbekistan,30-70,,Both sexes,25.3
+2019,SH_DTH_NCOM,Uzbekistan,30-70,,Female,21.2
+2019,SH_DTH_NCOM,Israel,30-70,,Male,10.9
+2019,SH_DTH_NCOM,Israel,30-70,,Both sexes,8.8
+2019,SH_DTH_NCOM,Israel,30-70,,Female,6.8
+2000,SH_DTH_NCOM,Italy,30-70,,Male,18.1
+2000,SH_DTH_NCOM,Italy,30-70,,Both sexes,13.6
+2000,SH_DTH_NCOM,Italy,30-70,,Female,9.3
+2005,SH_DTH_NCOM,Italy,30-70,,Both sexes,11.8
+2005,SH_DTH_NCOM,Italy,30-70,,Male,15.4
+2005,SH_DTH_NCOM,Italy,30-70,,Female,8.3
+2010,SH_DTH_NCOM,Italy,30-70,,Female,7.6
+2010,SH_DTH_NCOM,Italy,30-70,,Both sexes,10.4
+2010,SH_DTH_NCOM,Italy,30-70,,Male,13.5
+2015,SH_DTH_NCOM,Italy,30-70,,Female,7.3
+2015,SH_DTH_NCOM,Italy,30-70,,Male,12.4
+2015,SH_DTH_NCOM,Italy,30-70,,Both sexes,9.8
+2019,SH_DTH_NCOM,Italy,30-70,,Both sexes,9.0
+2019,SH_DTH_NCOM,Italy,30-70,,Female,6.8
+2019,SH_DTH_NCOM,Italy,30-70,,Male,11.3
+2000,SH_DTH_NCOM,Japan,30-70,,Male,15.4
+2000,SH_DTH_NCOM,Japan,30-70,,Both sexes,11.4
+2000,SH_DTH_NCOM,Japan,30-70,,Female,7.5
+2005,SH_DTH_NCOM,Japan,30-70,,Both sexes,10.3
+2005,SH_DTH_NCOM,Japan,30-70,,Male,13.9
+2005,SH_DTH_NCOM,Japan,30-70,,Female,6.9
+2010,SH_DTH_NCOM,Japan,30-70,,Both sexes,9.5
+2010,SH_DTH_NCOM,Japan,30-70,,Female,6.3
+2010,SH_DTH_NCOM,Japan,30-70,,Male,12.8
+2015,SH_DTH_NCOM,Japan,30-70,,Both sexes,8.6
+2015,SH_DTH_NCOM,Japan,30-70,,Female,5.8
+2015,SH_DTH_NCOM,Japan,30-70,,Male,11.5
+2019,SH_DTH_NCOM,Japan,30-70,,Male,10.9
+2019,SH_DTH_NCOM,Japan,30-70,,Female,5.7
+2019,SH_DTH_NCOM,Japan,30-70,,Both sexes,8.3
+2000,SH_DTH_NCOM,Kazakhstan,30-70,,Male,54.2
+2000,SH_DTH_NCOM,Kazakhstan,30-70,,Both sexes,41.5
+2000,SH_DTH_NCOM,Kazakhstan,30-70,,Female,29.7
+2005,SH_DTH_NCOM,Kazakhstan,30-70,,Male,50.1
+2005,SH_DTH_NCOM,Kazakhstan,30-70,,Both sexes,37.6
+2005,SH_DTH_NCOM,Kazakhstan,30-70,,Female,26.4
+2010,SH_DTH_NCOM,Kazakhstan,30-70,,Male,42.4
+2010,SH_DTH_NCOM,Kazakhstan,30-70,,Female,22.0
+2010,SH_DTH_NCOM,Kazakhstan,30-70,,Both sexes,31.4
+2015,SH_DTH_NCOM,Kazakhstan,30-70,,Female,17.5
+2015,SH_DTH_NCOM,Kazakhstan,30-70,,Male,35.2
+2015,SH_DTH_NCOM,Kazakhstan,30-70,,Both sexes,25.6
+2019,SH_DTH_NCOM,Kazakhstan,30-70,,Both sexes,22.4
+2019,SH_DTH_NCOM,Kazakhstan,30-70,,Female,15.3
+2019,SH_DTH_NCOM,Kazakhstan,30-70,,Male,31.1
+2000,SH_DTH_NCOM,Republic of Korea,30-70,,Male,23.0
+2000,SH_DTH_NCOM,Republic of Korea,30-70,,Both sexes,16.5
+2000,SH_DTH_NCOM,Republic of Korea,30-70,,Female,10.6
+2005,SH_DTH_NCOM,Republic of Korea,30-70,,Both sexes,13.5
+2005,SH_DTH_NCOM,Republic of Korea,30-70,,Female,8.5
+2005,SH_DTH_NCOM,Republic of Korea,30-70,,Male,18.7
+2010,SH_DTH_NCOM,Republic of Korea,30-70,,Male,14.9
+2010,SH_DTH_NCOM,Republic of Korea,30-70,,Female,6.4
+2010,SH_DTH_NCOM,Republic of Korea,30-70,,Both sexes,10.6
+2015,SH_DTH_NCOM,Republic of Korea,30-70,,Both sexes,8.4
+2015,SH_DTH_NCOM,Republic of Korea,30-70,,Female,5.1
+2015,SH_DTH_NCOM,Republic of Korea,30-70,,Male,11.7
+2019,SH_DTH_NCOM,Republic of Korea,30-70,,Both sexes,7.3
+2019,SH_DTH_NCOM,Republic of Korea,30-70,,Female,4.4
+2019,SH_DTH_NCOM,Republic of Korea,30-70,,Male,10.1
+2000,SH_DTH_NCOM,Kyrgyzstan,30-70,,Both sexes,33.5
+2000,SH_DTH_NCOM,Kyrgyzstan,30-70,,Female,25.6
+2000,SH_DTH_NCOM,Kyrgyzstan,30-70,,Male,41.8
+2005,SH_DTH_NCOM,Kyrgyzstan,30-70,,Both sexes,32.5
+2005,SH_DTH_NCOM,Kyrgyzstan,30-70,,Female,24.5
+2005,SH_DTH_NCOM,Kyrgyzstan,30-70,,Male,41.0
+2010,SH_DTH_NCOM,Kyrgyzstan,30-70,,Both sexes,27.9
+2010,SH_DTH_NCOM,Kyrgyzstan,30-70,,Female,20.3
+2010,SH_DTH_NCOM,Kyrgyzstan,30-70,,Male,36.2
+2015,SH_DTH_NCOM,Kyrgyzstan,30-70,,Male,33.1
+2015,SH_DTH_NCOM,Kyrgyzstan,30-70,,Both sexes,24.9
+2015,SH_DTH_NCOM,Kyrgyzstan,30-70,,Female,17.7
+2019,SH_DTH_NCOM,Kyrgyzstan,30-70,,Both sexes,20.3
+2019,SH_DTH_NCOM,Kyrgyzstan,30-70,,Female,15.0
+2019,SH_DTH_NCOM,Kyrgyzstan,30-70,,Male,26.5
+2000,SH_DTH_NCOM,Latvia,30-70,,Male,40.0
+2000,SH_DTH_NCOM,Latvia,30-70,,Both sexes,27.9
+2000,SH_DTH_NCOM,Latvia,30-70,,Female,17.9
+2005,SH_DTH_NCOM,Latvia,30-70,,Both sexes,28.4
+2005,SH_DTH_NCOM,Latvia,30-70,,Female,17.3
+2005,SH_DTH_NCOM,Latvia,30-70,,Male,41.6
+2010,SH_DTH_NCOM,Latvia,30-70,,Both sexes,26.0
+2010,SH_DTH_NCOM,Latvia,30-70,,Female,16.6
+2010,SH_DTH_NCOM,Latvia,30-70,,Male,37.5
+2015,SH_DTH_NCOM,Latvia,30-70,,Both sexes,22.0
+2015,SH_DTH_NCOM,Latvia,30-70,,Female,13.9
+2015,SH_DTH_NCOM,Latvia,30-70,,Male,31.9
+2019,SH_DTH_NCOM,Latvia,30-70,,Both sexes,21.6
+2019,SH_DTH_NCOM,Latvia,30-70,,Female,13.5
+2019,SH_DTH_NCOM,Latvia,30-70,,Male,31.2
+2000,SH_DTH_NCOM,Lithuania,30-70,,Both sexes,24.2
+2000,SH_DTH_NCOM,Lithuania,30-70,,Male,34.6
+2000,SH_DTH_NCOM,Lithuania,30-70,,Female,15.5
+2005,SH_DTH_NCOM,Lithuania,30-70,,Both sexes,25.7
+2005,SH_DTH_NCOM,Lithuania,30-70,,Female,15.4
+2005,SH_DTH_NCOM,Lithuania,30-70,,Male,37.7
+2010,SH_DTH_NCOM,Lithuania,30-70,,Male,35.0
+2010,SH_DTH_NCOM,Lithuania,30-70,,Both sexes,23.7
+2010,SH_DTH_NCOM,Lithuania,30-70,,Female,14.2
+2015,SH_DTH_NCOM,Lithuania,30-70,,Female,13.2
+2015,SH_DTH_NCOM,Lithuania,30-70,,Both sexes,22.2
+2015,SH_DTH_NCOM,Lithuania,30-70,,Male,32.8
+2019,SH_DTH_NCOM,Lithuania,30-70,,Both sexes,19.3
+2019,SH_DTH_NCOM,Lithuania,30-70,,Female,11.7
+2019,SH_DTH_NCOM,Lithuania,30-70,,Male,28.4
+2000,SH_DTH_NCOM,Luxembourg,30-70,,Both sexes,15.2
+2000,SH_DTH_NCOM,Luxembourg,30-70,,Female,10.9
+2000,SH_DTH_NCOM,Luxembourg,30-70,,Male,19.5
+2005,SH_DTH_NCOM,Luxembourg,30-70,,Female,9.7
+2005,SH_DTH_NCOM,Luxembourg,30-70,,Male,17.5
+2005,SH_DTH_NCOM,Luxembourg,30-70,,Both sexes,13.6
+2010,SH_DTH_NCOM,Luxembourg,30-70,,Both sexes,11.8
+2010,SH_DTH_NCOM,Luxembourg,30-70,,Female,9.1
+2010,SH_DTH_NCOM,Luxembourg,30-70,,Male,14.4
+2015,SH_DTH_NCOM,Luxembourg,30-70,,Both sexes,9.7
+2015,SH_DTH_NCOM,Luxembourg,30-70,,Female,7.4
+2015,SH_DTH_NCOM,Luxembourg,30-70,,Male,11.9
+2019,SH_DTH_NCOM,Luxembourg,30-70,,Both sexes,9.7
+2019,SH_DTH_NCOM,Luxembourg,30-70,,Female,7.4
+2019,SH_DTH_NCOM,Luxembourg,30-70,,Male,12.0
+2000,SH_DTH_NCOM,Malta,30-70,,Female,11.9
+2000,SH_DTH_NCOM,Malta,30-70,,Male,20.1
+2000,SH_DTH_NCOM,Malta,30-70,,Both sexes,15.8
+2005,SH_DTH_NCOM,Malta,30-70,,Both sexes,13.2
+2005,SH_DTH_NCOM,Malta,30-70,,Female,10.2
+2005,SH_DTH_NCOM,Malta,30-70,,Male,16.5
+2010,SH_DTH_NCOM,Malta,30-70,,Male,14.8
+2010,SH_DTH_NCOM,Malta,30-70,,Both sexes,11.8
+2010,SH_DTH_NCOM,Malta,30-70,,Female,8.8
+2015,SH_DTH_NCOM,Malta,30-70,,Both sexes,10.7
+2015,SH_DTH_NCOM,Malta,30-70,,Female,8.1
+2015,SH_DTH_NCOM,Malta,30-70,,Male,13.4
+2019,SH_DTH_NCOM,Malta,30-70,,Female,8.2
+2019,SH_DTH_NCOM,Malta,30-70,,Male,12.9
+2019,SH_DTH_NCOM,Malta,30-70,,Both sexes,10.5
+2000,SH_DTH_NCOM,Mexico,30-70,,Female,16.0
+2000,SH_DTH_NCOM,Mexico,30-70,,Male,17.6
+2000,SH_DTH_NCOM,Mexico,30-70,,Both sexes,16.7
+2005,SH_DTH_NCOM,Mexico,30-70,,Both sexes,16.7
+2005,SH_DTH_NCOM,Mexico,30-70,,Female,15.7
+2005,SH_DTH_NCOM,Mexico,30-70,,Male,17.8
+2010,SH_DTH_NCOM,Mexico,30-70,,Both sexes,15.9
+2010,SH_DTH_NCOM,Mexico,30-70,,Female,14.5
+2010,SH_DTH_NCOM,Mexico,30-70,,Male,17.5
+2015,SH_DTH_NCOM,Mexico,30-70,,Both sexes,15.7
+2015,SH_DTH_NCOM,Mexico,30-70,,Female,13.9
+2015,SH_DTH_NCOM,Mexico,30-70,,Male,17.7
+2019,SH_DTH_NCOM,Mexico,30-70,,Both sexes,15.6
+2019,SH_DTH_NCOM,Mexico,30-70,,Female,13.5
+2019,SH_DTH_NCOM,Uzbekistan,30-70,,Male,29.8
+2019,SH_DTH_NCOM,Mexico,30-70,,Male,18.0
+2019,SH_DTH_NCOM,Mexico,30-70,,Male,18.0

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2017,2019,2021,2021],"SeriesCode":["SP_ROD_R2KM","SP_ROD_R2KM","SP_ROD_R2KM","SP_ROD_R2KM"],"Country":["Armenia","United Arab Emirates","United Arab Emirates","United Arab Emirates"],"Location":["Rural","Rural","Rural","Rural"],"Value":[66.0,95.1,99.5,99.5]},"edges":{"From":["SeriesCode","Country"],"To":["Country","Location"]}}

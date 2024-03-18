@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_HLTHNT",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Кыргызстан",
+                "Azerbaijan",
+                "Mexico",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Republic of Moldova",
+                "Montenegro",
+                "Serbia",
+                "Belarus",
+                "Viet Nam",
+                "Chile",
+                "China",
+                "Таджикистан",
+                "Colombia",
+                "Türkiye",
+                "Costa Rica",
+                "Туркменистан",
+                "Ukraine",
+                "Croatia",
+                "Georgia",
+                "North Macedonia",
+                "Узбекистан",
+                "India",
+                "Казахстан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-b-2-DC_TOF_HLTHNT",
+  "title": "meta.name-3-b-2-DC_TOF_HLTHNT"
+}

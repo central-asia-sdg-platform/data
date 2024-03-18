@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_HLF_EMED",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Colombia",
+                "Kyrgyzstan",
+                "Republic of Moldova",
+                "Tajikistan",
+                "Ukraine",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

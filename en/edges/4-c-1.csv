@@ -1,1 +1,4 @@
 From,To
+SeriesCode,Country
+Country,Education level
+Education level,Sex

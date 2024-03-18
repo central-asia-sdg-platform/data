@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NE_EXP_GNFS_KD_ZG",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Canada",
+                "Azerbaijan",
+                "Tajikistan",
+                "Latvia",
+                "Australia",
+                "Chile",
+                "United Arab Emirates",
+                "Lithuania",
+                "Türkiye",
+                "Luxembourg",
+                "Austria",
+                "Malta",
+                "Turkmenistan",
+                "Ukraine",
+                "Mexico",
+                "Armenia",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Republic of Moldova",
+                "Belgium",
+                "Uzbekistan",
+                "Montenegro",
+                "Bosnia and Herzegovina",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Colombia",
+                "Bulgaria",
+                "Belarus",
+                "Norway",
+                "Costa Rica",
+                "Poland",
+                "Portugal",
+                "Croatia",
+                "Romania",
+                "Cyprus",
+                "Serbia",
+                "Czechia",
+                "Slovakia",
+                "Denmark",
+                "Viet Nam",
+                "Slovenia",
+                "Estonia",
+                "Spain",
+                "Finland",
+                "France",
+                "Sweden",
+                "Switzerland",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-NE_EXP_GNFS_KD_ZG",
+  "title": "meta.name-17-13-1-NE_EXP_GNFS_KD_ZG"
+}

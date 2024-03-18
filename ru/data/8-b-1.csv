@@ -1,1 +1,171 @@
-Year,Value
+Year,SeriesCode,Страна ,Value
+2019,SL_CPA_YEMP,Azerbaijan,2
+2020,SL_CPA_YEMP,Azerbaijan,2
+2021,SL_CPA_YEMP,Azerbaijan,2
+2022,SL_CPA_YEMP,Azerbaijan,2
+2019,SL_CPA_YEMP,Australia,3
+2020,SL_CPA_YEMP,Australia,3
+2021,SL_CPA_YEMP,Australia,3
+2022,SL_CPA_YEMP,Australia,2
+2021,SL_CPA_YEMP,Austria,3
+2022,SL_CPA_YEMP,Austria,3
+2019,SL_CPA_YEMP,Armenia,1
+2020,SL_CPA_YEMP,Armenia,1
+2021,SL_CPA_YEMP,Armenia,1
+2022,SL_CPA_YEMP,Armenia,1
+2019,SL_CPA_YEMP,Belgium,3
+2020,SL_CPA_YEMP,Belgium,3
+2021,SL_CPA_YEMP,Belgium,3
+2022,SL_CPA_YEMP,Belgium,3
+2019,SL_CPA_YEMP,Bosnia and Herzegovina,0
+2020,SL_CPA_YEMP,Bosnia and Herzegovina,0
+2021,SL_CPA_YEMP,Bosnia and Herzegovina,1
+2022,SL_CPA_YEMP,Bosnia and Herzegovina,2
+2021,SL_CPA_YEMP,Bulgaria,3
+2019,SL_CPA_YEMP,Belarus,2
+2020,SL_CPA_YEMP,Belarus,2
+2021,SL_CPA_YEMP,Belarus,2
+2022,SL_CPA_YEMP,Belarus,2
+2021,SL_CPA_YEMP,Canada,3
+2022,SL_CPA_YEMP,Canada,3
+2019,SL_CPA_YEMP,Chile,2
+2020,SL_CPA_YEMP,Chile,2
+2022,SL_CPA_YEMP,Chile,1
+2019,SL_CPA_YEMP,China,2
+2020,SL_CPA_YEMP,China,2
+2021,SL_CPA_YEMP,China,2
+2022,SL_CPA_YEMP,China,2
+2019,SL_CPA_YEMP,Colombia,3
+2020,SL_CPA_YEMP,Colombia,3
+2021,SL_CPA_YEMP,Colombia,3
+2022,SL_CPA_YEMP,Colombia,3
+2019,SL_CPA_YEMP,Costa Rica,1
+2020,SL_CPA_YEMP,Costa Rica,1
+2022,SL_CPA_YEMP,Costa Rica,1
+2021,SL_CPA_YEMP,Croatia,3
+2021,SL_CPA_YEMP,Cyprus,3
+2022,SL_CPA_YEMP,Cyprus,3
+2019,SL_CPA_YEMP,Czechia,3
+2020,SL_CPA_YEMP,Czechia,3
+2021,SL_CPA_YEMP,Czechia,3
+2022,SL_CPA_YEMP,Czechia,3
+2021,SL_CPA_YEMP,Denmark,3
+2022,SL_CPA_YEMP,Denmark,3
+2021,SL_CPA_YEMP,Estonia,3
+2022,SL_CPA_YEMP,Estonia,3
+2021,SL_CPA_YEMP,Finland,3
+2021,SL_CPA_YEMP,France,3
+2022,SL_CPA_YEMP,France,3
+2019,SL_CPA_YEMP,Georgia,1
+2020,SL_CPA_YEMP,Georgia,1
+2021,SL_CPA_YEMP,Georgia,2
+2022,SL_CPA_YEMP,Georgia,2
+2019,SL_CPA_YEMP,Germany,3
+2020,SL_CPA_YEMP,Germany,3
+2021,SL_CPA_YEMP,Germany,3
+2022,SL_CPA_YEMP,Germany,3
+2019,SL_CPA_YEMP,Greece,3
+2020,SL_CPA_YEMP,Greece,3
+2022,SL_CPA_YEMP,Greece,3
+2019,SL_CPA_YEMP,Hungary,3
+2020,SL_CPA_YEMP,Hungary,3
+2021,SL_CPA_YEMP,Hungary,3
+2022,SL_CPA_YEMP,Hungary,3
+2021,SL_CPA_YEMP,Iceland,0
+2022,SL_CPA_YEMP,Iceland,0
+2019,SL_CPA_YEMP,India,2
+2020,SL_CPA_YEMP,India,2
+2021,SL_CPA_YEMP,Ireland,3
+2022,SL_CPA_YEMP,Ireland,3
+2021,SL_CPA_YEMP,Israel,1
+2019,SL_CPA_YEMP,Italy,3
+2020,SL_CPA_YEMP,Italy,3
+2022,SL_CPA_YEMP,Italy,3
+2019,SL_CPA_YEMP,Japan,3
+2020,SL_CPA_YEMP,Japan,3
+2021,SL_CPA_YEMP,Japan,3
+2022,SL_CPA_YEMP,Japan,3
+2019,SL_CPA_YEMP,Казахстан,1
+2020,SL_CPA_YEMP,Казахстан,1
+2020,SL_CPA_YEMP,Republic of Korea,3
+2021,SL_CPA_YEMP,Republic of Korea,3
+2022,SL_CPA_YEMP,Republic of Korea,3
+2019,SL_CPA_YEMP,Кыргызстан,1
+2020,SL_CPA_YEMP,Кыргызстан,1
+2019,SL_CPA_YEMP,Latvia,3
+2020,SL_CPA_YEMP,Latvia,3
+2021,SL_CPA_YEMP,Latvia,3
+2022,SL_CPA_YEMP,Latvia,3
+2021,SL_CPA_YEMP,Lithuania,3
+2022,SL_CPA_YEMP,Lithuania,3
+2021,SL_CPA_YEMP,Luxembourg,3
+2022,SL_CPA_YEMP,Luxembourg,3
+2019,SL_CPA_YEMP,Malta,3
+2020,SL_CPA_YEMP,Malta,3
+2021,SL_CPA_YEMP,Malta,3
+2019,SL_CPA_YEMP,Mexico,3
+2020,SL_CPA_YEMP,Mexico,3
+2021,SL_CPA_YEMP,Mexico,3
+2022,SL_CPA_YEMP,Mexico,3
+2019,SL_CPA_YEMP,Republic of Moldova,2
+2020,SL_CPA_YEMP,Republic of Moldova,2
+2021,SL_CPA_YEMP,Republic of Moldova,2
+2022,SL_CPA_YEMP,Republic of Moldova,2
+2019,SL_CPA_YEMP,Montenegro,3
+2020,SL_CPA_YEMP,Montenegro,3
+2021,SL_CPA_YEMP,Montenegro,3
+2022,SL_CPA_YEMP,Montenegro,3
+2019,SL_CPA_YEMP,Netherlands (Kingdom of the),3
+2020,SL_CPA_YEMP,Netherlands (Kingdom of the),3
+2021,SL_CPA_YEMP,Netherlands (Kingdom of the),3
+2022,SL_CPA_YEMP,Netherlands (Kingdom of the),3
+2019,SL_CPA_YEMP,New Zealand,3
+2020,SL_CPA_YEMP,New Zealand,2
+2021,SL_CPA_YEMP,New Zealand,3
+2022,SL_CPA_YEMP,New Zealand,3
+2022,SL_CPA_YEMP,Norway,3
+2021,SL_CPA_YEMP,Poland,3
+2022,SL_CPA_YEMP,Poland,3
+2019,SL_CPA_YEMP,Portugal,3
+2020,SL_CPA_YEMP,Portugal,3
+2021,SL_CPA_YEMP,Portugal,3
+2022,SL_CPA_YEMP,Portugal,3
+2019,SL_CPA_YEMP,Serbia,3
+2020,SL_CPA_YEMP,Serbia,3
+2021,SL_CPA_YEMP,Serbia,3
+2022,SL_CPA_YEMP,Serbia,3
+2021,SL_CPA_YEMP,Slovakia,3
+2022,SL_CPA_YEMP,Slovakia,3
+2019,SL_CPA_YEMP,Viet Nam,2
+2020,SL_CPA_YEMP,Viet Nam,2
+2021,SL_CPA_YEMP,Viet Nam,2
+2022,SL_CPA_YEMP,Viet Nam,2
+2019,SL_CPA_YEMP,Slovenia,3
+2020,SL_CPA_YEMP,Slovenia,3
+2022,SL_CPA_YEMP,Slovenia,3
+2019,SL_CPA_YEMP,Spain,3
+2020,SL_CPA_YEMP,Spain,3
+2021,SL_CPA_YEMP,Spain,3
+2022,SL_CPA_YEMP,Spain,3
+2021,SL_CPA_YEMP,Sweden,3
+2022,SL_CPA_YEMP,Sweden,3
+2021,SL_CPA_YEMP,Switzerland,3
+2022,SL_CPA_YEMP,Switzerland,3
+2019,SL_CPA_YEMP,Таджикистан,2
+2020,SL_CPA_YEMP,Таджикистан,2
+2021,SL_CPA_YEMP,Таджикистан,2
+2022,SL_CPA_YEMP,Таджикистан,2
+2019,SL_CPA_YEMP,Türkiye,2
+2020,SL_CPA_YEMP,Türkiye,2
+2021,SL_CPA_YEMP,Türkiye,2
+2022,SL_CPA_YEMP,Türkiye,3
+2019,SL_CPA_YEMP,Туркменистан,2
+2020,SL_CPA_YEMP,Туркменистан,2
+2019,SL_CPA_YEMP,Ukraine,2
+2020,SL_CPA_YEMP,Ukraine,2
+2019,SL_CPA_YEMP,United Kingdom of Great Britain and Northern Ireland,3
+2020,SL_CPA_YEMP,United Kingdom of Great Britain and Northern Ireland,3
+2021,SL_CPA_YEMP,United Kingdom of Great Britain and Northern Ireland,3
+2019,SL_CPA_YEMP,Узбекистан,3
+2020,SL_CPA_YEMP,Узбекистан,3
+2020,SL_CPA_YEMP,Узбекистан,3

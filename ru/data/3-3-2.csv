@@ -1,1 +1,1356 @@
-Year,Value
+Year,SeriesCode,Страна ,Age,Freq,Location,Sex,Value
+2000,SH_TBS_INCD,Belarus,,,,,86.0
+2001,SH_TBS_INCD,Belarus,,,,,70.0
+2002,SH_TBS_INCD,Belarus,,,,,66.0
+2003,SH_TBS_INCD,Belarus,,,,,77.0
+2004,SH_TBS_INCD,Belarus,,,,,71.0
+2005,SH_TBS_INCD,Belarus,,,,,69.0
+2006,SH_TBS_INCD,Belarus,,,,,68.0
+2007,SH_TBS_INCD,Belarus,,,,,71.0
+2008,SH_TBS_INCD,Belarus,,,,,68.0
+2009,SH_TBS_INCD,Belarus,,,,,70.0
+2010,SH_TBS_INCD,Belarus,,,,,68.0
+2011,SH_TBS_INCD,Belarus,,,,,62.0
+2012,SH_TBS_INCD,Belarus,,,,,63.0
+2013,SH_TBS_INCD,Belarus,,,,,59.0
+2014,SH_TBS_INCD,Belarus,,,,,51.0
+2015,SH_TBS_INCD,Belarus,,,,,50.0
+2016,SH_TBS_INCD,Belarus,,,,,42.0
+2017,SH_TBS_INCD,Belarus,,,,,37.0
+2018,SH_TBS_INCD,Belarus,,,,,31.0
+2019,SH_TBS_INCD,Belarus,,,,,29.0
+2020,SH_TBS_INCD,Belarus,,,,,28.0
+2021,SH_TBS_INCD,Belarus,,,,,30.0
+2000,SH_TBS_INCD,Canada,,,,,6.5
+2001,SH_TBS_INCD,Canada,,,,,6.6
+2002,SH_TBS_INCD,Canada,,,,,6.1
+2003,SH_TBS_INCD,Canada,,,,,5.9
+2004,SH_TBS_INCD,Canada,,,,,5.6
+2005,SH_TBS_INCD,Canada,,,,,5.5
+2006,SH_TBS_INCD,Canada,,,,,5.4
+2007,SH_TBS_INCD,Canada,,,,,5.3
+2008,SH_TBS_INCD,Canada,,,,,5.4
+2009,SH_TBS_INCD,Canada,,,,,5.4
+2010,SH_TBS_INCD,Canada,,,,,4.6
+2011,SH_TBS_INCD,Canada,,,,,4.8
+2012,SH_TBS_INCD,Canada,,,,,5.5
+2013,SH_TBS_INCD,Canada,,,,,5.4
+2014,SH_TBS_INCD,Canada,,,,,5.1
+2015,SH_TBS_INCD,Canada,,,,,5.3
+2016,SH_TBS_INCD,Canada,,,,,5.5
+2017,SH_TBS_INCD,Canada,,,,,5.7
+2018,SH_TBS_INCD,Canada,,,,,5.6
+2019,SH_TBS_INCD,Canada,,,,,5.9
+2020,SH_TBS_INCD,Canada,,,,,5.4
+2021,SH_TBS_INCD,Canada,,,,,5.3
+2000,SH_TBS_INCD,Chile,,,,,23.0
+2001,SH_TBS_INCD,Chile,,,,,22.0
+2002,SH_TBS_INCD,Chile,,,,,18.0
+2003,SH_TBS_INCD,Chile,,,,,16.0
+2004,SH_TBS_INCD,Chile,,,,,19.0
+2005,SH_TBS_INCD,Chile,,,,,18.0
+2006,SH_TBS_INCD,Chile,,,,,18.0
+2007,SH_TBS_INCD,Chile,,,,,17.0
+2008,SH_TBS_INCD,Chile,,,,,17.0
+2000,SH_TBS_INCD,Albania,,,,,22.0
+2001,SH_TBS_INCD,Albania,,,,,20.0
+2002,SH_TBS_INCD,Albania,,,,,22.0
+2003,SH_TBS_INCD,Albania,,,,,20.0
+2004,SH_TBS_INCD,Albania,,,,,20.0
+2005,SH_TBS_INCD,Albania,,,,,19.0
+2006,SH_TBS_INCD,Albania,,,,,18.0
+2007,SH_TBS_INCD,Albania,,,,,17.0
+2008,SH_TBS_INCD,Albania,,,,,16.0
+2000,SH_TBS_INCD,Republic of Moldova,,,,,80.0
+2001,SH_TBS_INCD,Republic of Moldova,,,,,99.0
+2002,SH_TBS_INCD,Republic of Moldova,,,,,104.0
+2003,SH_TBS_INCD,Republic of Moldova,,,,,119.0
+2004,SH_TBS_INCD,Republic of Moldova,,,,,133.0
+2005,SH_TBS_INCD,Republic of Moldova,,,,,142.0
+2006,SH_TBS_INCD,Republic of Moldova,,,,,138.0
+2007,SH_TBS_INCD,Republic of Moldova,,,,,135.0
+2008,SH_TBS_INCD,Republic of Moldova,,,,,125.0
+2009,SH_TBS_INCD,Chile,,,,,16.0
+2010,SH_TBS_INCD,Chile,,,,,16.0
+2011,SH_TBS_INCD,Chile,,,,,16.0
+2012,SH_TBS_INCD,Chile,,,,,16.0
+2013,SH_TBS_INCD,Chile,,,,,16.0
+2014,SH_TBS_INCD,Chile,,,,,15.0
+2015,SH_TBS_INCD,Chile,,,,,17.0
+2016,SH_TBS_INCD,Chile,,,,,16.0
+2017,SH_TBS_INCD,Chile,,,,,17.0
+2009,SH_TBS_INCD,Albania,,,,,17.0
+2010,SH_TBS_INCD,Albania,,,,,17.0
+2011,SH_TBS_INCD,Albania,,,,,17.0
+2012,SH_TBS_INCD,Albania,,,,,16.0
+2013,SH_TBS_INCD,Albania,,,,,19.0
+2014,SH_TBS_INCD,Albania,,,,,16.0
+2015,SH_TBS_INCD,Albania,,,,,17.0
+2016,SH_TBS_INCD,Albania,,,,,17.0
+2017,SH_TBS_INCD,Albania,,,,,20.0
+2009,SH_TBS_INCD,Republic of Moldova,,,,,125.0
+2010,SH_TBS_INCD,Republic of Moldova,,,,,116.0
+2011,SH_TBS_INCD,Republic of Moldova,,,,,119.0
+2012,SH_TBS_INCD,Republic of Moldova,,,,,124.0
+2013,SH_TBS_INCD,Republic of Moldova,,,,,127.0
+2014,SH_TBS_INCD,Republic of Moldova,,,,,115.0
+2015,SH_TBS_INCD,Republic of Moldova,,,,,102.0
+2016,SH_TBS_INCD,Republic of Moldova,,,,,101.0
+2017,SH_TBS_INCD,Republic of Moldova,,,,,95.0
+2018,SH_TBS_INCD,Chile,,,,,18.0
+2019,SH_TBS_INCD,Chile,,,,,18.0
+2020,SH_TBS_INCD,Chile,,,,,14.0
+2021,SH_TBS_INCD,Chile,,,,,16.0
+2000,SH_TBS_INCD,China,,,,,107.0
+2001,SH_TBS_INCD,China,,,,,104.0
+2002,SH_TBS_INCD,China,,,,,100.0
+2003,SH_TBS_INCD,China,,,,,97.0
+2004,SH_TBS_INCD,China,,,,,94.0
+2018,SH_TBS_INCD,Albania,,,,,18.0
+2019,SH_TBS_INCD,Albania,,,,,16.0
+2020,SH_TBS_INCD,Albania,,,,,16.0
+2021,SH_TBS_INCD,Albania,,,,,17.0
+2000,SH_TBS_INCD,Azerbaijan,,,,,80.0
+2001,SH_TBS_INCD,Azerbaijan,,,,,75.0
+2002,SH_TBS_INCD,Azerbaijan,,,,,78.0
+2003,SH_TBS_INCD,Azerbaijan,,,,,57.0
+2004,SH_TBS_INCD,Azerbaijan,,,,,80.0
+2005,SH_TBS_INCD,Azerbaijan,,,,,88.0
+2006,SH_TBS_INCD,Azerbaijan,,,,,83.0
+2007,SH_TBS_INCD,Azerbaijan,,,,,79.0
+2008,SH_TBS_INCD,Azerbaijan,,,,,108.0
+2009,SH_TBS_INCD,Azerbaijan,,,,,133.0
+2010,SH_TBS_INCD,Azerbaijan,,,,,104.0
+2011,SH_TBS_INCD,Azerbaijan,,,,,125.0
+2012,SH_TBS_INCD,Azerbaijan,,,,,86.0
+2005,SH_TBS_INCD,China,,,,,91.0
+2006,SH_TBS_INCD,China,,,,,88.0
+2007,SH_TBS_INCD,China,,,,,85.0
+2008,SH_TBS_INCD,China,,,,,82.0
+2009,SH_TBS_INCD,China,,,,,81.0
+2010,SH_TBS_INCD,China,,,,,76.0
+2011,SH_TBS_INCD,China,,,,,75.0
+2012,SH_TBS_INCD,China,,,,,73.0
+2013,SH_TBS_INCD,China,,,,,70.0
+2014,SH_TBS_INCD,China,,,,,67.0
+2015,SH_TBS_INCD,China,,,,,65.0
+2016,SH_TBS_INCD,China,,,,,63.0
+2017,SH_TBS_INCD,China,,,,,62.0
+2018,SH_TBS_INCD,China,,,,,61.0
+2019,SH_TBS_INCD,China,,,,,58.0
+2020,SH_TBS_INCD,China,,,,,57.0
+2021,SH_TBS_INCD,China,,,,,55.0
+2000,SH_TBS_INCD,Colombia,,,,,37.0
+2001,SH_TBS_INCD,Colombia,,,,,36.0
+2002,SH_TBS_INCD,Colombia,,,,,35.0
+2003,SH_TBS_INCD,Colombia,,,,,35.0
+2004,SH_TBS_INCD,Colombia,,,,,33.0
+2005,SH_TBS_INCD,Colombia,,,,,30.0
+2006,SH_TBS_INCD,Colombia,,,,,32.0
+2007,SH_TBS_INCD,Colombia,,,,,31.0
+2008,SH_TBS_INCD,Colombia,,,,,32.0
+2009,SH_TBS_INCD,Colombia,,,,,32.0
+2013,SH_TBS_INCD,Azerbaijan,,,,,78.0
+2014,SH_TBS_INCD,Azerbaijan,,,,,76.0
+2015,SH_TBS_INCD,Azerbaijan,,,,,71.0
+2016,SH_TBS_INCD,Azerbaijan,,,,,66.0
+2017,SH_TBS_INCD,Azerbaijan,,,,,66.0
+2018,SH_TBS_INCD,Azerbaijan,,,,,63.0
+2019,SH_TBS_INCD,Azerbaijan,,,,,60.0
+2020,SH_TBS_INCD,Azerbaijan,,,,,58.0
+2021,SH_TBS_INCD,Azerbaijan,,,,,63.0
+2010,SH_TBS_INCD,Colombia,,,,,32.0
+2011,SH_TBS_INCD,Colombia,,,,,33.0
+2012,SH_TBS_INCD,Colombia,,,,,33.0
+2013,SH_TBS_INCD,Colombia,,,,,32.0
+2014,SH_TBS_INCD,Colombia,,,,,31.0
+2015,SH_TBS_INCD,Colombia,,,,,31.0
+2016,SH_TBS_INCD,Colombia,,,,,33.0
+2017,SH_TBS_INCD,Colombia,,,,,33.0
+2018,SH_TBS_INCD,Colombia,,,,,33.0
+2000,SH_TBS_INCD,Australia,,,,,6.3
+2001,SH_TBS_INCD,Australia,,,,,5.9
+2002,SH_TBS_INCD,Australia,,,,,6.0
+2003,SH_TBS_INCD,Australia,,,,,5.5
+2004,SH_TBS_INCD,Australia,,,,,6.2
+2005,SH_TBS_INCD,Australia,,,,,6.0
+2006,SH_TBS_INCD,Australia,,,,,6.5
+2007,SH_TBS_INCD,Australia,,,,,6.2
+2008,SH_TBS_INCD,Australia,,,,,6.6
+2019,SH_TBS_INCD,Colombia,,,,,35.0
+2020,SH_TBS_INCD,Colombia,,,,,34.0
+2021,SH_TBS_INCD,Colombia,,,,,41.0
+2000,SH_TBS_INCD,Costa Rica,,,,,18.0
+2001,SH_TBS_INCD,Costa Rica,,,,,20.0
+2002,SH_TBS_INCD,Costa Rica,,,,,17.0
+2003,SH_TBS_INCD,Costa Rica,,,,,16.0
+2004,SH_TBS_INCD,Costa Rica,,,,,21.0
+2009,SH_TBS_INCD,Australia,,,,,6.9
+2010,SH_TBS_INCD,Australia,,,,,6.6
+2011,SH_TBS_INCD,Australia,,,,,6.4
+2012,SH_TBS_INCD,Australia,,,,,6.6
+2013,SH_TBS_INCD,Australia,,,,,6.2
+2014,SH_TBS_INCD,Australia,,,,,6.5
+2015,SH_TBS_INCD,Australia,,,,,6.1
+2016,SH_TBS_INCD,Australia,,,,,6.5
+2017,SH_TBS_INCD,Australia,,,,,6.7
+2005,SH_TBS_INCD,Costa Rica,,,,,16.0
+2006,SH_TBS_INCD,Costa Rica,,,,,14.0
+2007,SH_TBS_INCD,Costa Rica,,,,,16.0
+2008,SH_TBS_INCD,Costa Rica,,,,,14.0
+2009,SH_TBS_INCD,Costa Rica,,,,,12.0
+2010,SH_TBS_INCD,Costa Rica,,,,,13.0
+2011,SH_TBS_INCD,Costa Rica,,,,,14.0
+2012,SH_TBS_INCD,Costa Rica,,,,,13.0
+2013,SH_TBS_INCD,Costa Rica,,,,,11.0
+2018,SH_TBS_INCD,Australia,,,,,6.6
+2019,SH_TBS_INCD,Australia,,,,,6.8
+2020,SH_TBS_INCD,Australia,,,,,7.2
+2021,SH_TBS_INCD,Australia,,,,,6.5
+2000,SH_TBS_INCD,Austria,,,,,17.0
+2001,SH_TBS_INCD,Austria,,,,,14.0
+2002,SH_TBS_INCD,Austria,,,,,15.0
+2003,SH_TBS_INCD,Austria,,,,,13.0
+2004,SH_TBS_INCD,Austria,,,,,13.0
+2018,SH_TBS_INCD,Republic of Moldova,,,,,86.0
+2019,SH_TBS_INCD,Republic of Moldova,,,,,80.0
+2020,SH_TBS_INCD,Republic of Moldova,,,,,78.0
+2021,SH_TBS_INCD,Republic of Moldova,,,,,84.0
+2005,SH_TBS_INCD,Montenegro,,,,,29.0
+2006,SH_TBS_INCD,Montenegro,,,,,31.0
+2007,SH_TBS_INCD,Montenegro,,,,,27.0
+2008,SH_TBS_INCD,Montenegro,,,,,24.0
+2005,SH_TBS_INCD,Austria,,,,,13.0
+2006,SH_TBS_INCD,Austria,,,,,12.0
+2007,SH_TBS_INCD,Austria,,,,,11.0
+2008,SH_TBS_INCD,Austria,,,,,10.0
+2009,SH_TBS_INCD,Austria,,,,,9.1
+2010,SH_TBS_INCD,Austria,,,,,9.1
+2011,SH_TBS_INCD,Austria,,,,,9.2
+2012,SH_TBS_INCD,Austria,,,,,8.5
+2013,SH_TBS_INCD,Austria,,,,,8.5
+2009,SH_TBS_INCD,Montenegro,,,,,21.0
+2010,SH_TBS_INCD,Montenegro,,,,,20.0
+2011,SH_TBS_INCD,Montenegro,,,,,20.0
+2012,SH_TBS_INCD,Montenegro,,,,,18.0
+2013,SH_TBS_INCD,Montenegro,,,,,22.0
+2014,SH_TBS_INCD,Montenegro,,,,,21.0
+2015,SH_TBS_INCD,Montenegro,,,,,15.0
+2016,SH_TBS_INCD,Montenegro,,,,,16.0
+2017,SH_TBS_INCD,Montenegro,,,,,14.0
+2014,SH_TBS_INCD,Costa Rica,,,,,12.0
+2015,SH_TBS_INCD,Costa Rica,,,,,11.0
+2016,SH_TBS_INCD,Costa Rica,,,,,9.4
+2017,SH_TBS_INCD,Costa Rica,,,,,9.6
+2018,SH_TBS_INCD,Costa Rica,,,,,10.0
+2019,SH_TBS_INCD,Costa Rica,,,,,10.0
+2020,SH_TBS_INCD,Costa Rica,,,,,9.7
+2021,SH_TBS_INCD,Costa Rica,,,,,11.0
+2000,SH_TBS_INCD,Croatia,,,,,41.0
+2001,SH_TBS_INCD,Croatia,,,,,35.0
+2002,SH_TBS_INCD,Croatia,,,,,37.0
+2003,SH_TBS_INCD,Croatia,,,,,36.0
+2004,SH_TBS_INCD,Croatia,,,,,30.0
+2005,SH_TBS_INCD,Croatia,,,,,27.0
+2006,SH_TBS_INCD,Croatia,,,,,27.0
+2007,SH_TBS_INCD,Croatia,,,,,25.0
+2008,SH_TBS_INCD,Croatia,,,,,26.0
+2009,SH_TBS_INCD,Croatia,,,,,22.0
+2010,SH_TBS_INCD,Croatia,,,,,18.0
+2011,SH_TBS_INCD,Croatia,,,,,16.0
+2012,SH_TBS_INCD,Croatia,,,,,14.0
+2013,SH_TBS_INCD,Croatia,,,,,14.0
+2014,SH_TBS_INCD,Croatia,,,,,13.0
+2015,SH_TBS_INCD,Croatia,,,,,13.0
+2016,SH_TBS_INCD,Croatia,,,,,12.0
+2017,SH_TBS_INCD,Croatia,,,,,10.0
+2014,SH_TBS_INCD,Austria,,,,,7.6
+2015,SH_TBS_INCD,Austria,,,,,7.5
+2016,SH_TBS_INCD,Austria,,,,,8.1
+2017,SH_TBS_INCD,Austria,,,,,7.3
+2018,SH_TBS_INCD,Austria,,,,,6.1
+2019,SH_TBS_INCD,Austria,,,,,6.0
+2020,SH_TBS_INCD,Austria,,,,,4.9
+2021,SH_TBS_INCD,Austria,,,,,5.0
+2000,SH_TBS_INCD,Armenia,,,,,54.0
+2018,SH_TBS_INCD,Croatia,,,,,10.0
+2019,SH_TBS_INCD,Croatia,,,,,8.3
+2020,SH_TBS_INCD,Croatia,,,,,5.0
+2021,SH_TBS_INCD,Croatia,,,,,4.0
+2000,SH_TBS_INCD,Cyprus,,,,,4.0
+2001,SH_TBS_INCD,Cyprus,,,,,4.8
+2002,SH_TBS_INCD,Cyprus,,,,,2.3
+2003,SH_TBS_INCD,Cyprus,,,,,4.0
+2004,SH_TBS_INCD,Cyprus,,,,,3.4
+2001,SH_TBS_INCD,Armenia,,,,,57.0
+2002,SH_TBS_INCD,Armenia,,,,,59.0
+2003,SH_TBS_INCD,Armenia,,,,,64.0
+2004,SH_TBS_INCD,Armenia,,,,,69.0
+2005,SH_TBS_INCD,Armenia,,,,,92.0
+2006,SH_TBS_INCD,Armenia,,,,,75.0
+2007,SH_TBS_INCD,Armenia,,,,,72.0
+2008,SH_TBS_INCD,Armenia,,,,,71.0
+2009,SH_TBS_INCD,Armenia,,,,,68.0
+2005,SH_TBS_INCD,Cyprus,,,,,3.8
+2006,SH_TBS_INCD,Cyprus,,,,,3.9
+2007,SH_TBS_INCD,Cyprus,,,,,4.4
+2008,SH_TBS_INCD,Cyprus,,,,,5.1
+2009,SH_TBS_INCD,Cyprus,,,,,5.3
+2010,SH_TBS_INCD,Cyprus,,,,,6.2
+2011,SH_TBS_INCD,Cyprus,,,,,5.1
+2012,SH_TBS_INCD,Cyprus,,,,,6.3
+2013,SH_TBS_INCD,Cyprus,,,,,4.0
+2010,SH_TBS_INCD,Armenia,,,,,61.0
+2011,SH_TBS_INCD,Armenia,,,,,55.0
+2012,SH_TBS_INCD,Armenia,,,,,53.0
+2013,SH_TBS_INCD,Armenia,,,,,60.0
+2014,SH_TBS_INCD,Armenia,,,,,57.0
+2015,SH_TBS_INCD,Armenia,,,,,50.0
+2016,SH_TBS_INCD,Armenia,,,,,44.0
+2017,SH_TBS_INCD,Armenia,,,,,36.0
+2018,SH_TBS_INCD,Armenia,,,,,31.0
+2018,SH_TBS_INCD,Montenegro,,,,,15.0
+2019,SH_TBS_INCD,Montenegro,,,,,15.0
+2020,SH_TBS_INCD,Montenegro,,,,,15.0
+2021,SH_TBS_INCD,Montenegro,,,,,16.0
+2000,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,9.0
+2001,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,10.0
+2002,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,9.7
+2003,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,9.3
+2014,SH_TBS_INCD,Cyprus,,,,,3.8
+2015,SH_TBS_INCD,Cyprus,,,,,6.1
+2016,SH_TBS_INCD,Cyprus,,,,,5.5
+2017,SH_TBS_INCD,Cyprus,,,,,4.9
+2018,SH_TBS_INCD,Cyprus,,,,,4.8
+2019,SH_TBS_INCD,Cyprus,,,,,6.2
+2020,SH_TBS_INCD,Cyprus,,,,,3.2
+2021,SH_TBS_INCD,Cyprus,,,,,4.4
+2000,SH_TBS_INCD,Czechia,,,,,16.0
+2004,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,9.3
+2005,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,8.0
+2006,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,7.1
+2007,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,6.5
+2008,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,6.7
+2009,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,7.8
+2010,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,7.1
+2011,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,6.7
+2001,SH_TBS_INCD,Czechia,,,,,15.0
+2002,SH_TBS_INCD,Czechia,,,,,13.0
+2003,SH_TBS_INCD,Czechia,,,,,13.0
+2004,SH_TBS_INCD,Czechia,,,,,12.0
+2005,SH_TBS_INCD,Czechia,,,,,11.0
+2006,SH_TBS_INCD,Czechia,,,,,11.0
+2007,SH_TBS_INCD,Czechia,,,,,8.8
+2008,SH_TBS_INCD,Czechia,,,,,8.9
+2009,SH_TBS_INCD,Czechia,,,,,7.0
+2010,SH_TBS_INCD,Czechia,,,,,6.8
+2011,SH_TBS_INCD,Czechia,,,,,6.2
+2012,SH_TBS_INCD,Czechia,,,,,6.2
+2013,SH_TBS_INCD,Czechia,,,,,5.2
+2014,SH_TBS_INCD,Czechia,,,,,5.2
+2015,SH_TBS_INCD,Czechia,,,,,5.6
+2016,SH_TBS_INCD,Czechia,,,,,5.6
+2017,SH_TBS_INCD,Czechia,,,,,5.4
+2018,SH_TBS_INCD,Czechia,,,,,4.7
+2019,SH_TBS_INCD,Armenia,,,,,26.0
+2020,SH_TBS_INCD,Armenia,,,,,25.0
+2021,SH_TBS_INCD,Armenia,,,,,27.0
+2000,SH_TBS_INCD,Belgium,,,,,14.0
+2001,SH_TBS_INCD,Belgium,,,,,15.0
+2002,SH_TBS_INCD,Belgium,,,,,13.0
+2003,SH_TBS_INCD,Belgium,,,,,12.0
+2004,SH_TBS_INCD,Belgium,,,,,12.0
+2012,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,6.3
+2013,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.7
+2014,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.5
+2015,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.7
+2016,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.9
+2017,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.2
+2018,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,5.3
+2019,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,4.9
+2019,SH_TBS_INCD,Czechia,,,,,5.0
+2020,SH_TBS_INCD,Czechia,,,,,3.9
+2021,SH_TBS_INCD,Czechia,,,,,3.9
+2000,SH_TBS_INCD,Denmark,,,,,13.0
+2001,SH_TBS_INCD,Denmark,,,,,11.0
+2002,SH_TBS_INCD,Denmark,,,,,8.6
+2003,SH_TBS_INCD,Denmark,,,,,8.3
+2004,SH_TBS_INCD,Denmark,,,,,7.6
+2005,SH_TBS_INCD,Denmark,,,,,8.4
+2006,SH_TBS_INCD,Denmark,,,,,7.2
+2007,SH_TBS_INCD,Denmark,,,,,7.5
+2008,SH_TBS_INCD,Denmark,,,,,6.9
+2009,SH_TBS_INCD,Denmark,,,,,6.1
+2010,SH_TBS_INCD,Denmark,,,,,6.9
+2011,SH_TBS_INCD,Denmark,,,,,7.4
+2012,SH_TBS_INCD,Denmark,,,,,7.0
+2013,SH_TBS_INCD,Denmark,,,,,6.7
+2014,SH_TBS_INCD,Denmark,,,,,6.0
+2005,SH_TBS_INCD,Belgium,,,,,12.0
+2006,SH_TBS_INCD,Belgium,,,,,11.0
+2007,SH_TBS_INCD,Belgium,,,,,10.0
+2008,SH_TBS_INCD,Belgium,,,,,10.0
+2009,SH_TBS_INCD,Belgium,,,,,9.8
+2010,SH_TBS_INCD,Belgium,,,,,11.0
+2011,SH_TBS_INCD,Belgium,,,,,10.0
+2012,SH_TBS_INCD,Belgium,,,,,9.5
+2013,SH_TBS_INCD,Belgium,,,,,9.4
+2015,SH_TBS_INCD,Denmark,,,,,6.5
+2016,SH_TBS_INCD,Denmark,,,,,5.9
+2017,SH_TBS_INCD,Denmark,,,,,5.1
+2018,SH_TBS_INCD,Denmark,,,,,5.4
+2019,SH_TBS_INCD,Denmark,,,,,5.2
+2020,SH_TBS_INCD,Denmark,,,,,4.1
+2021,SH_TBS_INCD,Denmark,,,,,3.8
+2000,SH_TBS_INCD,Estonia,,,,,65.0
+2001,SH_TBS_INCD,Estonia,,,,,59.0
+2014,SH_TBS_INCD,Belgium,,,,,9.1
+2015,SH_TBS_INCD,Belgium,,,,,9.5
+2016,SH_TBS_INCD,Belgium,,,,,10.0
+2017,SH_TBS_INCD,Belgium,,,,,9.3
+2018,SH_TBS_INCD,Belgium,,,,,9.2
+2019,SH_TBS_INCD,Belgium,,,,,8.9
+2020,SH_TBS_INCD,Belgium,,,,,7.7
+2021,SH_TBS_INCD,Belgium,,,,,8.1
+2000,SH_TBS_INCD,Bosnia and Herzegovina,,,,,83.0
+2020,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,4.1
+2021,SH_TBS_INCD,Netherlands (Kingdom of the),,,,,4.4
+2000,SH_TBS_INCD,New Zealand,,,,,10.0
+2001,SH_TBS_INCD,New Zealand,,,,,11.0
+2002,SH_TBS_INCD,New Zealand,,,,,9.6
+2003,SH_TBS_INCD,New Zealand,,,,,12.0
+2004,SH_TBS_INCD,New Zealand,,,,,10.0
+2005,SH_TBS_INCD,New Zealand,,,,,9.2
+2006,SH_TBS_INCD,New Zealand,,,,,9.5
+2002,SH_TBS_INCD,Estonia,,,,,52.0
+2003,SH_TBS_INCD,Estonia,,,,,49.0
+2004,SH_TBS_INCD,Estonia,,,,,45.0
+2005,SH_TBS_INCD,Estonia,,,,,41.0
+2006,SH_TBS_INCD,Estonia,,,,,36.0
+2007,SH_TBS_INCD,Estonia,,,,,39.0
+2008,SH_TBS_INCD,Estonia,,,,,34.0
+2009,SH_TBS_INCD,Estonia,,,,,31.0
+2010,SH_TBS_INCD,Estonia,,,,,25.0
+2007,SH_TBS_INCD,New Zealand,,,,,7.5
+2008,SH_TBS_INCD,New Zealand,,,,,7.9
+2009,SH_TBS_INCD,New Zealand,,,,,8.0
+2010,SH_TBS_INCD,New Zealand,,,,,8.0
+2011,SH_TBS_INCD,New Zealand,,,,,8.0
+2012,SH_TBS_INCD,New Zealand,,,,,7.6
+2013,SH_TBS_INCD,New Zealand,,,,,7.0
+2014,SH_TBS_INCD,New Zealand,,,,,7.6
+2015,SH_TBS_INCD,New Zealand,,,,,7.3
+2011,SH_TBS_INCD,Estonia,,,,,25.0
+2012,SH_TBS_INCD,Estonia,,,,,23.0
+2013,SH_TBS_INCD,Estonia,,,,,23.0
+2014,SH_TBS_INCD,Estonia,,,,,21.0
+2015,SH_TBS_INCD,Estonia,,,,,18.0
+2016,SH_TBS_INCD,Estonia,,,,,16.0
+2017,SH_TBS_INCD,Estonia,,,,,15.0
+2018,SH_TBS_INCD,Estonia,,,,,13.0
+2019,SH_TBS_INCD,Estonia,,,,,13.0
+2001,SH_TBS_INCD,Bosnia and Herzegovina,,,,,82.0
+2002,SH_TBS_INCD,Bosnia and Herzegovina,,,,,56.0
+2003,SH_TBS_INCD,Bosnia and Herzegovina,,,,,59.0
+2004,SH_TBS_INCD,Bosnia and Herzegovina,,,,,78.0
+2005,SH_TBS_INCD,Bosnia and Herzegovina,,,,,70.0
+2006,SH_TBS_INCD,Bosnia and Herzegovina,,,,,59.0
+2007,SH_TBS_INCD,Bosnia and Herzegovina,,,,,79.0
+2008,SH_TBS_INCD,Bosnia and Herzegovina,,,,,57.0
+2009,SH_TBS_INCD,Bosnia and Herzegovina,,,,,58.0
+2020,SH_TBS_INCD,Estonia,,,,,10.0
+2021,SH_TBS_INCD,Estonia,,,,,9.3
+2000,SH_TBS_INCD,Finland,,,,,12.0
+2001,SH_TBS_INCD,Finland,,,,,10.0
+2002,SH_TBS_INCD,Finland,,,,,9.9
+2003,SH_TBS_INCD,Finland,,,,,8.7
+2004,SH_TBS_INCD,Finland,,,,,7.0
+2005,SH_TBS_INCD,Finland,,,,,7.4
+2006,SH_TBS_INCD,Finland,,,,,6.1
+2010,SH_TBS_INCD,Bosnia and Herzegovina,,,,,45.0
+2011,SH_TBS_INCD,Bosnia and Herzegovina,,,,,46.0
+2012,SH_TBS_INCD,Bosnia and Herzegovina,,,,,49.0
+2013,SH_TBS_INCD,Bosnia and Herzegovina,,,,,44.0
+2014,SH_TBS_INCD,Bosnia and Herzegovina,,,,,43.0
+2015,SH_TBS_INCD,Bosnia and Herzegovina,,,,,40.0
+2016,SH_TBS_INCD,Bosnia and Herzegovina,,,,,33.0
+2017,SH_TBS_INCD,Bosnia and Herzegovina,,,,,29.0
+2018,SH_TBS_INCD,Bosnia and Herzegovina,,,,,25.0
+2007,SH_TBS_INCD,Finland,,,,,6.5
+2008,SH_TBS_INCD,Finland,,,,,7.2
+2009,SH_TBS_INCD,Finland,,,,,8.7
+2010,SH_TBS_INCD,Finland,,,,,6.6
+2011,SH_TBS_INCD,Finland,,,,,6.7
+2012,SH_TBS_INCD,Finland,,,,,5.5
+2013,SH_TBS_INCD,Finland,,,,,5.6
+2014,SH_TBS_INCD,Finland,,,,,5.3
+2015,SH_TBS_INCD,Finland,,,,,5.6
+2016,SH_TBS_INCD,New Zealand,,,,,7.3
+2017,SH_TBS_INCD,New Zealand,,,,,7.3
+2018,SH_TBS_INCD,New Zealand,,,,,7.2
+2019,SH_TBS_INCD,New Zealand,,,,,7.2
+2020,SH_TBS_INCD,New Zealand,,,,,7.2
+2021,SH_TBS_INCD,New Zealand,,,,,6.8
+2000,SH_TBS_INCD,Norway,,,,,5.7
+2001,SH_TBS_INCD,Norway,,,,,7.0
+2002,SH_TBS_INCD,Norway,,,,,6.2
+2019,SH_TBS_INCD,Bosnia and Herzegovina,,,,,27.0
+2020,SH_TBS_INCD,Bosnia and Herzegovina,,,,,26.0
+2021,SH_TBS_INCD,Bosnia and Herzegovina,,,,,25.0
+2000,SH_TBS_INCD,Bulgaria,,,,,52.0
+2001,SH_TBS_INCD,Bulgaria,,,,,61.0
+2002,SH_TBS_INCD,Bulgaria,,,,,53.0
+2003,SH_TBS_INCD,Bulgaria,,,,,52.0
+2004,SH_TBS_INCD,Bulgaria,,,,,49.0
+2005,SH_TBS_INCD,Bulgaria,,,,,52.0
+2016,SH_TBS_INCD,Finland,,,,,4.7
+2017,SH_TBS_INCD,Finland,,,,,4.9
+2018,SH_TBS_INCD,Finland,,,,,4.8
+2019,SH_TBS_INCD,Finland,,,,,4.7
+2020,SH_TBS_INCD,Finland,,,,,3.6
+2021,SH_TBS_INCD,Finland,,,,,3.5
+2000,SH_TBS_INCD,France,,,,,13.0
+2001,SH_TBS_INCD,France,,,,,12.0
+2002,SH_TBS_INCD,France,,,,,12.0
+2003,SH_TBS_INCD,France,,,,,12.0
+2004,SH_TBS_INCD,France,,,,,10.0
+2005,SH_TBS_INCD,France,,,,,10.0
+2006,SH_TBS_INCD,France,,,,,9.9
+2007,SH_TBS_INCD,France,,,,,11.0
+2008,SH_TBS_INCD,France,,,,,11.0
+2009,SH_TBS_INCD,France,,,,,9.6
+2010,SH_TBS_INCD,France,,,,,9.3
+2011,SH_TBS_INCD,France,,,,,9.1
+2003,SH_TBS_INCD,Norway,,,,,8.4
+2004,SH_TBS_INCD,Norway,,,,,7.1
+2005,SH_TBS_INCD,Norway,,,,,6.9
+2006,SH_TBS_INCD,Norway,,,,,6.8
+2007,SH_TBS_INCD,Norway,,,,,6.9
+2008,SH_TBS_INCD,Norway,,,,,7.2
+2009,SH_TBS_INCD,Norway,,,,,7.8
+2010,SH_TBS_INCD,Norway,,,,,6.9
+2011,SH_TBS_INCD,Norway,,,,,7.4
+2006,SH_TBS_INCD,Bulgaria,,,,,51.0
+2007,SH_TBS_INCD,Bulgaria,,,,,47.0
+2008,SH_TBS_INCD,Bulgaria,,,,,49.0
+2009,SH_TBS_INCD,Bulgaria,,,,,44.0
+2010,SH_TBS_INCD,Bulgaria,,,,,41.0
+2011,SH_TBS_INCD,Bulgaria,,,,,37.0
+2012,SH_TBS_INCD,Bulgaria,,,,,35.0
+2013,SH_TBS_INCD,Bulgaria,,,,,33.0
+2014,SH_TBS_INCD,Bulgaria,,,,,31.0
+2012,SH_TBS_INCD,France,,,,,9.0
+2013,SH_TBS_INCD,France,,,,,9.0
+2014,SH_TBS_INCD,France,,,,,8.6
+2015,SH_TBS_INCD,France,,,,,8.5
+2016,SH_TBS_INCD,France,,,,,8.8
+2017,SH_TBS_INCD,France,,,,,9.1
+2018,SH_TBS_INCD,France,,,,,9.0
+2019,SH_TBS_INCD,France,,,,,9.1
+2020,SH_TBS_INCD,France,,,,,8.3
+2012,SH_TBS_INCD,Norway,,,,,7.9
+2013,SH_TBS_INCD,Norway,,,,,8.2
+2014,SH_TBS_INCD,Norway,,,,,6.8
+2015,SH_TBS_INCD,Norway,,,,,6.3
+2016,SH_TBS_INCD,Norway,,,,,6.1
+2017,SH_TBS_INCD,Norway,,,,,5.2
+2018,SH_TBS_INCD,Norway,,,,,4.1
+2019,SH_TBS_INCD,Norway,,,,,3.3
+2020,SH_TBS_INCD,Norway,,,,,3.1
+2021,SH_TBS_INCD,France,,,,,7.7
+2000,SH_TBS_INCD,Georgia,,,,,254.0
+2001,SH_TBS_INCD,Georgia,,,,,243.0
+2002,SH_TBS_INCD,Georgia,,,,,228.0
+2003,SH_TBS_INCD,Georgia,,,,,210.0
+2004,SH_TBS_INCD,Georgia,,,,,192.0
+2005,SH_TBS_INCD,Georgia,,,,,175.0
+2006,SH_TBS_INCD,Georgia,,,,,161.0
+2007,SH_TBS_INCD,Georgia,,,,,149.0
+2021,SH_TBS_INCD,Norway,,,,,2.9
+2000,SH_TBS_INCD,Poland,,,,,33.0
+2001,SH_TBS_INCD,Poland,,,,,30.0
+2002,SH_TBS_INCD,Poland,,,,,30.0
+2003,SH_TBS_INCD,Poland,,,,,30.0
+2004,SH_TBS_INCD,Poland,,,,,26.0
+2005,SH_TBS_INCD,Poland,,,,,24.0
+2006,SH_TBS_INCD,Poland,,,,,24.0
+2007,SH_TBS_INCD,Poland,,,,,24.0
+2008,SH_TBS_INCD,Georgia,,,,,140.0
+2009,SH_TBS_INCD,Georgia,,,,,133.0
+2010,SH_TBS_INCD,Georgia,,,,,127.0
+2011,SH_TBS_INCD,Georgia,,,,,122.0
+2012,SH_TBS_INCD,Georgia,,,,,119.0
+2013,SH_TBS_INCD,Georgia,,,,,116.0
+2014,SH_TBS_INCD,Georgia,,,,,106.0
+2015,SH_TBS_INCD,Georgia,,,,,99.0
+2016,SH_TBS_INCD,Georgia,,,,,92.0
+2008,SH_TBS_INCD,Poland,,,,,22.0
+2009,SH_TBS_INCD,Poland,,,,,23.0
+2010,SH_TBS_INCD,Poland,,,,,21.0
+2011,SH_TBS_INCD,Poland,,,,,24.0
+2012,SH_TBS_INCD,Poland,,,,,21.0
+2013,SH_TBS_INCD,Poland,,,,,21.0
+2014,SH_TBS_INCD,Poland,,,,,19.0
+2015,SH_TBS_INCD,Poland,,,,,19.0
+2016,SH_TBS_INCD,Poland,,,,,18.0
+2017,SH_TBS_INCD,Poland,,,,,17.0
+2018,SH_TBS_INCD,Poland,,,,,16.0
+2019,SH_TBS_INCD,Poland,,,,,15.0
+2020,SH_TBS_INCD,Poland,,,,,9.4
+2021,SH_TBS_INCD,Poland,,,,,10.0
+2000,SH_TBS_INCD,Portugal,,,,,47.0
+2001,SH_TBS_INCD,Portugal,,,,,48.0
+2002,SH_TBS_INCD,Portugal,,,,,48.0
+2003,SH_TBS_INCD,Portugal,,,,,44.0
+2017,SH_TBS_INCD,Georgia,,,,,86.0
+2018,SH_TBS_INCD,Georgia,,,,,80.0
+2019,SH_TBS_INCD,Georgia,,,,,74.0
+2020,SH_TBS_INCD,Georgia,,,,,69.0
+2021,SH_TBS_INCD,Georgia,,,,,64.0
+2000,SH_TBS_INCD,Germany,,,,,12.0
+2001,SH_TBS_INCD,Germany,,,,,9.4
+2002,SH_TBS_INCD,Germany,,,,,9.4
+2003,SH_TBS_INCD,Germany,,,,,9.5
+2004,SH_TBS_INCD,Portugal,,,,,40.0
+2005,SH_TBS_INCD,Portugal,,,,,36.0
+2006,SH_TBS_INCD,Portugal,,,,,35.0
+2007,SH_TBS_INCD,Portugal,,,,,32.0
+2008,SH_TBS_INCD,Portugal,,,,,31.0
+2009,SH_TBS_INCD,Portugal,,,,,29.0
+2010,SH_TBS_INCD,Portugal,,,,,28.0
+2011,SH_TBS_INCD,Portugal,,,,,27.0
+2012,SH_TBS_INCD,Portugal,,,,,27.0
+2013,SH_TBS_INCD,Portugal,,,,,26.0
+2014,SH_TBS_INCD,Portugal,,,,,24.0
+2015,SH_TBS_INCD,Portugal,,,,,23.0
+2016,SH_TBS_INCD,Portugal,,,,,20.0
+2017,SH_TBS_INCD,Portugal,,,,,20.0
+2018,SH_TBS_INCD,Portugal,,,,,21.0
+2019,SH_TBS_INCD,Portugal,,,,,19.0
+2020,SH_TBS_INCD,Portugal,,,,,16.0
+2021,SH_TBS_INCD,Portugal,,,,,16.0
+2004,SH_TBS_INCD,Germany,,,,,8.4
+2005,SH_TBS_INCD,Germany,,,,,7.7
+2006,SH_TBS_INCD,Germany,,,,,7.0
+2007,SH_TBS_INCD,Germany,,,,,6.3
+2008,SH_TBS_INCD,Germany,,,,,5.6
+2009,SH_TBS_INCD,Germany,,,,,5.6
+2010,SH_TBS_INCD,Germany,,,,,5.5
+2011,SH_TBS_INCD,Germany,,,,,5.5
+2012,SH_TBS_INCD,Germany,,,,,5.4
+2013,SH_TBS_INCD,Germany,,,,,5.6
+2014,SH_TBS_INCD,Germany,,,,,5.8
+2015,SH_TBS_INCD,Germany,,,,,7.6
+2016,SH_TBS_INCD,Germany,,,,,7.7
+2017,SH_TBS_INCD,Germany,,,,,7.1
+2018,SH_TBS_INCD,Germany,,,,,7.0
+2019,SH_TBS_INCD,Germany,,,,,6.1
+2020,SH_TBS_INCD,Germany,,,,,5.3
+2021,SH_TBS_INCD,Germany,,,,,5.0
+2000,SH_TBS_INCD,Romania,,,,,144.0
+2001,SH_TBS_INCD,Romania,,,,,151.0
+2002,SH_TBS_INCD,Romania,,,,,158.0
+2003,SH_TBS_INCD,Romania,,,,,159.0
+2004,SH_TBS_INCD,Romania,,,,,154.0
+2005,SH_TBS_INCD,Romania,,,,,142.0
+2006,SH_TBS_INCD,Romania,,,,,134.0
+2007,SH_TBS_INCD,Romania,,,,,125.0
+2008,SH_TBS_INCD,Romania,,,,,121.0
+2009,SH_TBS_INCD,Romania,,,,,116.0
+2010,SH_TBS_INCD,Romania,,,,,105.0
+2011,SH_TBS_INCD,Romania,,,,,97.0
+2012,SH_TBS_INCD,Romania,,,,,92.0
+2013,SH_TBS_INCD,Romania,,,,,89.0
+2014,SH_TBS_INCD,Romania,,,,,85.0
+2015,SH_TBS_INCD,Romania,,,,,82.0
+2016,SH_TBS_INCD,Romania,,,,,74.0
+2017,SH_TBS_INCD,Romania,,,,,72.0
+2000,SH_TBS_INCD,Greece,,,,,7.3
+2001,SH_TBS_INCD,Greece,,,,,5.2
+2002,SH_TBS_INCD,Greece,,,,,5.9
+2003,SH_TBS_INCD,Greece,,,,,6.1
+2004,SH_TBS_INCD,Greece,,,,,7.6
+2005,SH_TBS_INCD,Greece,,,,,7.2
+2006,SH_TBS_INCD,Greece,,,,,6.4
+2007,SH_TBS_INCD,Greece,,,,,6.4
+2008,SH_TBS_INCD,Greece,,,,,6.1
+2009,SH_TBS_INCD,Greece,,,,,5.6
+2010,SH_TBS_INCD,Greece,,,,,4.6
+2011,SH_TBS_INCD,Greece,,,,,4.7
+2012,SH_TBS_INCD,Greece,,,,,5.4
+2013,SH_TBS_INCD,Greece,,,,,5.2
+2014,SH_TBS_INCD,Greece,,,,,5.1
+2015,SH_TBS_INCD,Greece,,,,,4.7
+2016,SH_TBS_INCD,Greece,,,,,4.4
+2017,SH_TBS_INCD,Greece,,,,,4.7
+2018,SH_TBS_INCD,Romania,,,,,68.0
+2019,SH_TBS_INCD,Romania,,,,,65.0
+2020,SH_TBS_INCD,Romania,,,,,43.0
+2021,SH_TBS_INCD,Romania,,,,,45.0
+2005,SH_TBS_INCD,Serbia,,,,,40.0
+2006,SH_TBS_INCD,Serbia,,,,,40.0
+2007,SH_TBS_INCD,Serbia,,,,,37.0
+2008,SH_TBS_INCD,Serbia,,,,,35.0
+2009,SH_TBS_INCD,Serbia,,,,,32.0
+2010,SH_TBS_INCD,Serbia,,,,,30.0
+2011,SH_TBS_INCD,Serbia,,,,,28.0
+2012,SH_TBS_INCD,Serbia,,,,,24.0
+2013,SH_TBS_INCD,Serbia,,,,,27.0
+2014,SH_TBS_INCD,Serbia,,,,,23.0
+2015,SH_TBS_INCD,Serbia,,,,,21.0
+2016,SH_TBS_INCD,Serbia,,,,,19.0
+2017,SH_TBS_INCD,Serbia,,,,,19.0
+2018,SH_TBS_INCD,Serbia,,,,,17.0
+2019,SH_TBS_INCD,Serbia,,,,,14.0
+2020,SH_TBS_INCD,Serbia,,,,,14.0
+2021,SH_TBS_INCD,Serbia,,,,,15.0
+2000,SH_TBS_INCD,Slovakia,,,,,22.0
+2001,SH_TBS_INCD,Slovakia,,,,,21.0
+2002,SH_TBS_INCD,Slovakia,,,,,21.0
+2003,SH_TBS_INCD,Slovakia,,,,,21.0
+2004,SH_TBS_INCD,Slovakia,,,,,14.0
+2005,SH_TBS_INCD,Slovakia,,,,,15.0
+2006,SH_TBS_INCD,Slovakia,,,,,14.0
+2007,SH_TBS_INCD,Slovakia,,,,,13.0
+2008,SH_TBS_INCD,Slovakia,,,,,12.0
+2009,SH_TBS_INCD,Slovakia,,,,,9.7
+2010,SH_TBS_INCD,Slovakia,,,,,8.7
+2011,SH_TBS_INCD,Slovakia,,,,,8.0
+2012,SH_TBS_INCD,Slovakia,,,,,6.8
+2013,SH_TBS_INCD,Slovakia,,,,,8.5
+2014,SH_TBS_INCD,Slovakia,,,,,6.8
+2015,SH_TBS_INCD,Slovakia,,,,,6.5
+2016,SH_TBS_INCD,Slovakia,,,,,5.9
+2017,SH_TBS_INCD,Slovakia,,,,,4.8
+2018,SH_TBS_INCD,Slovakia,,,,,5.8
+2019,SH_TBS_INCD,Slovakia,,,,,4.5
+2020,SH_TBS_INCD,Slovakia,,,,,3.2
+2021,SH_TBS_INCD,Slovakia,,,,,2.8
+2000,SH_TBS_INCD,Viet Nam,,,,,296.0
+2018,SH_TBS_INCD,Greece,,,,,4.4
+2019,SH_TBS_INCD,Greece,,,,,4.7
+2020,SH_TBS_INCD,Greece,,,,,4.2
+2021,SH_TBS_INCD,Greece,,,,,4.1
+2000,SH_TBS_INCD,Hungary,,,,,35.0
+2001,SH_TBS_INCD,Hungary,,,,,33.0
+2002,SH_TBS_INCD,Hungary,,,,,31.0
+2003,SH_TBS_INCD,Hungary,,,,,31.0
+2004,SH_TBS_INCD,Hungary,,,,,26.0
+2001,SH_TBS_INCD,Viet Nam,,,,,290.0
+2002,SH_TBS_INCD,Viet Nam,,,,,284.0
+2003,SH_TBS_INCD,Viet Nam,,,,,278.0
+2004,SH_TBS_INCD,Viet Nam,,,,,272.0
+2005,SH_TBS_INCD,Viet Nam,,,,,266.0
+2006,SH_TBS_INCD,Viet Nam,,,,,260.0
+2007,SH_TBS_INCD,Viet Nam,,,,,253.0
+2008,SH_TBS_INCD,Viet Nam,,,,,246.0
+2009,SH_TBS_INCD,Viet Nam,,,,,239.0
+2005,SH_TBS_INCD,Hungary,,,,,21.0
+2006,SH_TBS_INCD,Hungary,,,,,19.0
+2007,SH_TBS_INCD,Hungary,,,,,18.0
+2008,SH_TBS_INCD,Hungary,,,,,16.0
+2009,SH_TBS_INCD,Hungary,,,,,15.0
+2010,SH_TBS_INCD,Hungary,,,,,18.0
+2011,SH_TBS_INCD,Hungary,,,,,15.0
+2012,SH_TBS_INCD,Hungary,,,,,13.0
+2013,SH_TBS_INCD,Hungary,,,,,12.0
+2010,SH_TBS_INCD,Viet Nam,,,,,231.0
+2011,SH_TBS_INCD,Viet Nam,,,,,225.0
+2012,SH_TBS_INCD,Viet Nam,,,,,218.0
+2013,SH_TBS_INCD,Viet Nam,,,,,212.0
+2014,SH_TBS_INCD,Viet Nam,,,,,205.0
+2015,SH_TBS_INCD,Viet Nam,,,,,199.0
+2016,SH_TBS_INCD,Viet Nam,,,,,193.0
+2017,SH_TBS_INCD,Viet Nam,,,,,188.0
+2018,SH_TBS_INCD,Viet Nam,,,,,182.0
+2014,SH_TBS_INCD,Hungary,,,,,9.3
+2015,SH_TBS_INCD,Hungary,,,,,10.0
+2016,SH_TBS_INCD,Hungary,,,,,8.6
+2017,SH_TBS_INCD,Hungary,,,,,7.6
+2018,SH_TBS_INCD,Hungary,,,,,7.1
+2019,SH_TBS_INCD,Hungary,,,,,6.2
+2020,SH_TBS_INCD,Hungary,,,,,4.5
+2021,SH_TBS_INCD,Hungary,,,,,3.7
+2000,SH_TBS_INCD,Iceland,,,,,5.3
+2019,SH_TBS_INCD,Viet Nam,,,,,176.0
+2020,SH_TBS_INCD,Viet Nam,,,,,171.0
+2021,SH_TBS_INCD,Viet Nam,,,,,173.0
+2000,SH_TBS_INCD,Slovenia,,,,,21.0
+2001,SH_TBS_INCD,Slovenia,,,,,21.0
+2002,SH_TBS_INCD,Slovenia,,,,,20.0
+2003,SH_TBS_INCD,Slovenia,,,,,16.0
+2004,SH_TBS_INCD,Slovenia,,,,,14.0
+2001,SH_TBS_INCD,Iceland,,,,,4.8
+2002,SH_TBS_INCD,Iceland,,,,,3.2
+2003,SH_TBS_INCD,Iceland,,,,,2.0
+2004,SH_TBS_INCD,Iceland,,,,,4.3
+2005,SH_TBS_INCD,Iceland,,,,,3.9
+2006,SH_TBS_INCD,Iceland,,,,,4.9
+2007,SH_TBS_INCD,Iceland,,,,,4.4
+2008,SH_TBS_INCD,Iceland,,,,,2.2
+2009,SH_TBS_INCD,Iceland,,,,,3.2
+2005,SH_TBS_INCD,Slovenia,,,,,15.0
+2006,SH_TBS_INCD,Slovenia,,,,,12.0
+2007,SH_TBS_INCD,Slovenia,,,,,12.0
+2008,SH_TBS_INCD,Slovenia,,,,,12.0
+2009,SH_TBS_INCD,Slovenia,,,,,10.0
+2010,SH_TBS_INCD,Slovenia,,,,,9.4
+2011,SH_TBS_INCD,Slovenia,,,,,10.0
+2012,SH_TBS_INCD,Slovenia,,,,,7.4
+2013,SH_TBS_INCD,Slovenia,,,,,7.7
+2010,SH_TBS_INCD,Iceland,,,,,7.9
+2011,SH_TBS_INCD,Iceland,,,,,2.9
+2012,SH_TBS_INCD,Iceland,,,,,3.6
+2013,SH_TBS_INCD,Iceland,,,,,3.9
+2014,SH_TBS_INCD,Iceland,,,,,2.8
+2015,SH_TBS_INCD,Iceland,,,,,2.4
+2016,SH_TBS_INCD,Iceland,,,,,2.1
+2017,SH_TBS_INCD,Iceland,,,,,4.4
+2018,SH_TBS_INCD,Iceland,,,,,2.6
+2014,SH_TBS_INCD,Slovenia,,,,,7.9
+2015,SH_TBS_INCD,Slovenia,,,,,7.1
+2016,SH_TBS_INCD,Slovenia,,,,,6.5
+2017,SH_TBS_INCD,Slovenia,,,,,6.1
+2018,SH_TBS_INCD,Slovenia,,,,,5.4
+2019,SH_TBS_INCD,Slovenia,,,,,5.3
+2020,SH_TBS_INCD,Slovenia,,,,,4.1
+2021,SH_TBS_INCD,Slovenia,,,,,4.3
+2000,SH_TBS_INCD,Spain,,,,,23.0
+2019,SH_TBS_INCD,Iceland,,,,,4.1
+2020,SH_TBS_INCD,Iceland,,,,,3.8
+2021,SH_TBS_INCD,Iceland,,,,,2.9
+2000,SH_TBS_INCD,India,,,,,341.0
+2001,SH_TBS_INCD,India,,,,,340.0
+2002,SH_TBS_INCD,India,,,,,339.0
+2003,SH_TBS_INCD,India,,,,,337.0
+2004,SH_TBS_INCD,India,,,,,334.0
+2005,SH_TBS_INCD,India,,,,,329.0
+2006,SH_TBS_INCD,India,,,,,323.0
+2007,SH_TBS_INCD,India,,,,,316.0
+2008,SH_TBS_INCD,India,,,,,309.0
+2009,SH_TBS_INCD,India,,,,,300.0
+2010,SH_TBS_INCD,India,,,,,292.0
+2011,SH_TBS_INCD,India,,,,,284.0
+2012,SH_TBS_INCD,India,,,,,277.0
+2013,SH_TBS_INCD,India,,,,,270.0
+2014,SH_TBS_INCD,India,,,,,263.0
+2001,SH_TBS_INCD,Spain,,,,,19.0
+2002,SH_TBS_INCD,Spain,,,,,20.0
+2003,SH_TBS_INCD,Spain,,,,,27.0
+2004,SH_TBS_INCD,Spain,,,,,16.0
+2005,SH_TBS_INCD,Spain,,,,,19.0
+2006,SH_TBS_INCD,Spain,,,,,20.0
+2007,SH_TBS_INCD,Spain,,,,,19.0
+2008,SH_TBS_INCD,Spain,,,,,19.0
+2009,SH_TBS_INCD,Spain,,,,,18.0
+2010,SH_TBS_INCD,Spain,,,,,17.0
+2011,SH_TBS_INCD,Spain,,,,,16.0
+2012,SH_TBS_INCD,Spain,,,,,14.0
+2013,SH_TBS_INCD,Spain,,,,,13.0
+2014,SH_TBS_INCD,Spain,,,,,12.0
+2015,SH_TBS_INCD,Spain,,,,,10.0
+2016,SH_TBS_INCD,Spain,,,,,12.0
+2017,SH_TBS_INCD,Spain,,,,,11.0
+2018,SH_TBS_INCD,Spain,,,,,11.0
+2015,SH_TBS_INCD,India,,,,,256.0
+2016,SH_TBS_INCD,India,,,,,249.0
+2017,SH_TBS_INCD,India,,,,,234.0
+2018,SH_TBS_INCD,India,,,,,224.0
+2019,SH_TBS_INCD,India,,,,,214.0
+2020,SH_TBS_INCD,India,,,,,204.0
+2021,SH_TBS_INCD,India,,,,,210.0
+2000,SH_TBS_INCD,Ireland,,,,,12.0
+2001,SH_TBS_INCD,Ireland,,,,,12.0
+2002,SH_TBS_INCD,Ireland,,,,,11.0
+2003,SH_TBS_INCD,Ireland,,,,,12.0
+2004,SH_TBS_INCD,Ireland,,,,,12.0
+2005,SH_TBS_INCD,Ireland,,,,,12.0
+2006,SH_TBS_INCD,Ireland,,,,,12.0
+2007,SH_TBS_INCD,Ireland,,,,,11.0
+2008,SH_TBS_INCD,Ireland,,,,,11.0
+2009,SH_TBS_INCD,Ireland,,,,,11.0
+2019,SH_TBS_INCD,Spain,,,,,9.9
+2020,SH_TBS_INCD,Spain,,,,,7.2
+2021,SH_TBS_INCD,Spain,,,,,8.2
+2000,SH_TBS_INCD,Sweden,,,,,5.4
+2001,SH_TBS_INCD,Sweden,,,,,5.1
+2002,SH_TBS_INCD,Sweden,,,,,4.8
+2003,SH_TBS_INCD,Sweden,,,,,5.1
+2004,SH_TBS_INCD,Sweden,,,,,5.5
+2005,SH_TBS_INCD,Sweden,,,,,6.8
+2010,SH_TBS_INCD,Ireland,,,,,9.8
+2011,SH_TBS_INCD,Ireland,,,,,9.8
+2012,SH_TBS_INCD,Ireland,,,,,8.6
+2013,SH_TBS_INCD,Ireland,,,,,8.9
+2014,SH_TBS_INCD,Ireland,,,,,7.4
+2015,SH_TBS_INCD,Ireland,,,,,7.3
+2016,SH_TBS_INCD,Ireland,,,,,7.1
+2017,SH_TBS_INCD,Ireland,,,,,7.3
+2018,SH_TBS_INCD,Ireland,,,,,7.0
+2006,SH_TBS_INCD,Sweden,,,,,6.2
+2007,SH_TBS_INCD,Sweden,,,,,5.8
+2008,SH_TBS_INCD,Sweden,,,,,6.4
+2009,SH_TBS_INCD,Sweden,,,,,7.1
+2010,SH_TBS_INCD,Sweden,,,,,7.5
+2011,SH_TBS_INCD,Sweden,,,,,6.5
+2012,SH_TBS_INCD,Sweden,,,,,7.1
+2013,SH_TBS_INCD,Sweden,,,,,7.3
+2014,SH_TBS_INCD,Sweden,,,,,7.5
+2019,SH_TBS_INCD,Ireland,,,,,5.8
+2020,SH_TBS_INCD,Ireland,,,,,5.3
+2021,SH_TBS_INCD,Ireland,,,,,4.8
+2000,SH_TBS_INCD,Israel,,,,,10.0
+2001,SH_TBS_INCD,Israel,,,,,9.4
+2002,SH_TBS_INCD,Israel,,,,,8.4
+2003,SH_TBS_INCD,Israel,,,,,8.4
+2004,SH_TBS_INCD,Israel,,,,,8.0
+2005,SH_TBS_INCD,Israel,,,,,6.4
+2015,SH_TBS_INCD,Sweden,,,,,9.1
+2016,SH_TBS_INCD,Sweden,,,,,8.1
+2017,SH_TBS_INCD,Sweden,,,,,5.6
+2018,SH_TBS_INCD,Sweden,,,,,5.4
+2019,SH_TBS_INCD,Sweden,,,,,5.4
+2020,SH_TBS_INCD,Sweden,,,,,3.5
+2021,SH_TBS_INCD,Sweden,,,,,3.8
+2000,SH_TBS_INCD,Switzerland,,,,,9.2
+2001,SH_TBS_INCD,Switzerland,,,,,8.7
+2006,SH_TBS_INCD,Israel,,,,,5.7
+2007,SH_TBS_INCD,Israel,,,,,6.6
+2008,SH_TBS_INCD,Israel,,,,,5.2
+2009,SH_TBS_INCD,Israel,,,,,5.5
+2010,SH_TBS_INCD,Israel,,,,,5.3
+2011,SH_TBS_INCD,Israel,,,,,6.4
+2012,SH_TBS_INCD,Israel,,,,,7.7
+2013,SH_TBS_INCD,Israel,,,,,4.6
+2014,SH_TBS_INCD,Israel,,,,,5.3
+2002,SH_TBS_INCD,Switzerland,,,,,9.4
+2003,SH_TBS_INCD,Switzerland,,,,,9.0
+2004,SH_TBS_INCD,Switzerland,,,,,8.6
+2005,SH_TBS_INCD,Switzerland,,,,,8.0
+2006,SH_TBS_INCD,Switzerland,,,,,7.3
+2007,SH_TBS_INCD,Switzerland,,,,,6.4
+2008,SH_TBS_INCD,Switzerland,,,,,7.0
+2009,SH_TBS_INCD,Switzerland,,,,,7.5
+2010,SH_TBS_INCD,Switzerland,,,,,7.5
+2015,SH_TBS_INCD,Israel,,,,,4.0
+2016,SH_TBS_INCD,Israel,,,,,3.5
+2017,SH_TBS_INCD,Israel,,,,,3.2
+2018,SH_TBS_INCD,Israel,,,,,4.0
+2019,SH_TBS_INCD,Israel,,,,,2.9
+2020,SH_TBS_INCD,Israel,,,,,2.1
+2021,SH_TBS_INCD,Israel,,,,,2.8
+2000,SH_TBS_INCD,Italy,,,,,7.1
+2001,SH_TBS_INCD,Italy,,,,,8.6
+2011,SH_TBS_INCD,Switzerland,,,,,7.6
+2012,SH_TBS_INCD,Switzerland,,,,,6.0
+2013,SH_TBS_INCD,Switzerland,,,,,6.6
+2014,SH_TBS_INCD,Switzerland,,,,,5.9
+2015,SH_TBS_INCD,Switzerland,,,,,7.4
+2016,SH_TBS_INCD,Switzerland,,,,,7.9
+2017,SH_TBS_INCD,Switzerland,,,,,7.2
+2018,SH_TBS_INCD,Switzerland,,,,,6.4
+2019,SH_TBS_INCD,Switzerland,,,,,5.4
+2002,SH_TBS_INCD,Italy,,,,,7.9
+2003,SH_TBS_INCD,Italy,,,,,8.7
+2004,SH_TBS_INCD,Italy,,,,,7.9
+2005,SH_TBS_INCD,Italy,,,,,7.6
+2006,SH_TBS_INCD,Italy,,,,,8.2
+2007,SH_TBS_INCD,Italy,,,,,5.4
+2008,SH_TBS_INCD,Italy,,,,,8.0
+2009,SH_TBS_INCD,Italy,,,,,7.9
+2010,SH_TBS_INCD,Italy,,,,,8.7
+2020,SH_TBS_INCD,Switzerland,,,,,4.7
+2021,SH_TBS_INCD,Switzerland,,,,,4.7
+2000,SH_TBS_INCD,Таджикистан,,,,,219.0
+2001,SH_TBS_INCD,Таджикистан,,,,,222.0
+2002,SH_TBS_INCD,Таджикистан,,,,,220.0
+2003,SH_TBS_INCD,Таджикистан,,,,,215.0
+2004,SH_TBS_INCD,Таджикистан,,,,,207.0
+2005,SH_TBS_INCD,Таджикистан,,,,,196.0
+2006,SH_TBS_INCD,Таджикистан,,,,,183.0
+2011,SH_TBS_INCD,Italy,,,,,6.6
+2012,SH_TBS_INCD,Italy,,,,,5.9
+2013,SH_TBS_INCD,Italy,,,,,5.8
+2014,SH_TBS_INCD,Italy,,,,,6.4
+2015,SH_TBS_INCD,Italy,,,,,6.6
+2016,SH_TBS_INCD,Italy,,,,,7.2
+2017,SH_TBS_INCD,Italy,,,,,7.3
+2018,SH_TBS_INCD,Italy,,,,,7.3
+2019,SH_TBS_INCD,Italy,,,,,6.1
+2007,SH_TBS_INCD,Таджикистан,,,,,169.0
+2008,SH_TBS_INCD,Таджикистан,,,,,155.0
+2009,SH_TBS_INCD,Таджикистан,,,,,141.0
+2010,SH_TBS_INCD,Таджикистан,,,,,128.0
+2011,SH_TBS_INCD,Таджикистан,,,,,117.0
+2012,SH_TBS_INCD,Таджикистан,,,,,108.0
+2013,SH_TBS_INCD,Таджикистан,,,,,100.0
+2014,SH_TBS_INCD,Таджикистан,,,,,91.0
+2015,SH_TBS_INCD,Таджикистан,,,,,86.0
+2020,SH_TBS_INCD,Italy,,,,,4.2
+2021,SH_TBS_INCD,Italy,,,,,4.9
+2000,SH_TBS_INCD,Japan,,,,,36.0
+2001,SH_TBS_INCD,Japan,,,,,32.0
+2002,SH_TBS_INCD,Japan,,,,,30.0
+2003,SH_TBS_INCD,Japan,,,,,29.0
+2004,SH_TBS_INCD,Japan,,,,,27.0
+2005,SH_TBS_INCD,Japan,,,,,24.0
+2006,SH_TBS_INCD,Japan,,,,,23.0
+2007,SH_TBS_INCD,Japan,,,,,22.0
+2008,SH_TBS_INCD,Japan,,,,,22.0
+2009,SH_TBS_INCD,Japan,,,,,21.0
+2010,SH_TBS_INCD,Japan,,,,,20.0
+2011,SH_TBS_INCD,Japan,,,,,20.0
+2012,SH_TBS_INCD,Japan,,,,,19.0
+2013,SH_TBS_INCD,Japan,,,,,18.0
+2014,SH_TBS_INCD,Japan,,,,,18.0
+2015,SH_TBS_INCD,Japan,,,,,17.0
+2016,SH_TBS_INCD,Таджикистан,,,,,85.0
+2017,SH_TBS_INCD,Таджикистан,,,,,85.0
+2018,SH_TBS_INCD,Таджикистан,,,,,84.0
+2019,SH_TBS_INCD,Таджикистан,,,,,83.0
+2020,SH_TBS_INCD,Таджикистан,,,,,80.0
+2021,SH_TBS_INCD,Таджикистан,,,,,88.0
+2000,SH_TBS_INCD,United Arab Emirates,,,,,4.0
+2001,SH_TBS_INCD,United Arab Emirates,,,,,2.5
+2016,SH_TBS_INCD,Japan,,,,,16.0
+2017,SH_TBS_INCD,Japan,,,,,15.0
+2018,SH_TBS_INCD,Japan,,,,,14.0
+2019,SH_TBS_INCD,Japan,,,,,13.0
+2020,SH_TBS_INCD,Japan,,,,,12.0
+2021,SH_TBS_INCD,Japan,,,,,11.0
+2000,SH_TBS_INCD,Казахстан,,,,,171.0
+2001,SH_TBS_INCD,Казахстан,,,,,185.0
+2002,SH_TBS_INCD,Казахстан,,,,,193.0
+2002,SH_TBS_INCD,United Arab Emirates,,,,,2.8
+2003,SH_TBS_INCD,United Arab Emirates,,,,,3.5
+2004,SH_TBS_INCD,United Arab Emirates,,,,,2.6
+2005,SH_TBS_INCD,United Arab Emirates,,,,,2.8
+2006,SH_TBS_INCD,United Arab Emirates,,,,,2.1
+2007,SH_TBS_INCD,United Arab Emirates,,,,,1.9
+2008,SH_TBS_INCD,United Arab Emirates,,,,,1.5
+2009,SH_TBS_INCD,United Arab Emirates,,,,,1.7
+2010,SH_TBS_INCD,United Arab Emirates,,,,,1.8
+2003,SH_TBS_INCD,Казахстан,,,,,196.0
+2004,SH_TBS_INCD,Казахстан,,,,,195.0
+2005,SH_TBS_INCD,Казахстан,,,,,187.0
+2006,SH_TBS_INCD,Казахстан,,,,,175.0
+2007,SH_TBS_INCD,Казахстан,,,,,164.0
+2008,SH_TBS_INCD,Казахстан,,,,,158.0
+2009,SH_TBS_INCD,Казахстан,,,,,152.0
+2010,SH_TBS_INCD,Казахстан,,,,,144.0
+2011,SH_TBS_INCD,Казахстан,,,,,135.0
+2011,SH_TBS_INCD,United Arab Emirates,,,,,1.4
+2012,SH_TBS_INCD,United Arab Emirates,,,,,1.0
+2013,SH_TBS_INCD,United Arab Emirates,,,,,1.1
+2014,SH_TBS_INCD,United Arab Emirates,,,,,0.78
+2015,SH_TBS_INCD,United Arab Emirates,,,,,0.79
+2016,SH_TBS_INCD,United Arab Emirates,,,,,0.82
+2017,SH_TBS_INCD,United Arab Emirates,,,,,0.84
+2018,SH_TBS_INCD,United Arab Emirates,,,,,1.0
+2019,SH_TBS_INCD,United Arab Emirates,,,,,1.0
+2012,SH_TBS_INCD,Казахстан,,,,,122.0
+2013,SH_TBS_INCD,Казахстан,,,,,106.0
+2014,SH_TBS_INCD,Казахстан,,,,,91.0
+2015,SH_TBS_INCD,Казахстан,,,,,81.0
+2016,SH_TBS_INCD,Казахстан,,,,,73.0
+2017,SH_TBS_INCD,Казахстан,,,,,69.0
+2018,SH_TBS_INCD,Казахстан,,,,,67.0
+2019,SH_TBS_INCD,Казахстан,,,,,68.0
+2020,SH_TBS_INCD,Казахстан,,,,,66.0
+2020,SH_TBS_INCD,United Arab Emirates,,,,,0.77
+2021,SH_TBS_INCD,United Arab Emirates,,,,,0.82
+2000,SH_TBS_INCD,Türkiye,,,,,33.0
+2001,SH_TBS_INCD,Türkiye,,,,,31.0
+2002,SH_TBS_INCD,Türkiye,,,,,32.0
+2003,SH_TBS_INCD,Türkiye,,,,,31.0
+2004,SH_TBS_INCD,Türkiye,,,,,30.0
+2005,SH_TBS_INCD,Türkiye,,,,,33.0
+2006,SH_TBS_INCD,Türkiye,,,,,33.0
+2007,SH_TBS_INCD,Türkiye,,,,,31.0
+2008,SH_TBS_INCD,Türkiye,,,,,29.0
+2009,SH_TBS_INCD,Türkiye,,,,,27.0
+2010,SH_TBS_INCD,Türkiye,,,,,25.0
+2011,SH_TBS_INCD,Türkiye,,,,,24.0
+2012,SH_TBS_INCD,Türkiye,,,,,22.0
+2013,SH_TBS_INCD,Türkiye,,,,,20.0
+2014,SH_TBS_INCD,Türkiye,,,,,20.0
+2015,SH_TBS_INCD,Türkiye,,,,,18.0
+2021,SH_TBS_INCD,Казахстан,,,,,74.0
+2000,SH_TBS_INCD,Republic of Korea,,,,,50.0
+2001,SH_TBS_INCD,Republic of Korea,,,,,85.0
+2002,SH_TBS_INCD,Republic of Korea,,,,,79.0
+2003,SH_TBS_INCD,Republic of Korea,,,,,83.0
+2004,SH_TBS_INCD,Republic of Korea,,,,,78.0
+2005,SH_TBS_INCD,Republic of Korea,,,,,96.0
+2006,SH_TBS_INCD,Republic of Korea,,,,,94.0
+2016,SH_TBS_INCD,Türkiye,,,,,18.0
+2017,SH_TBS_INCD,Türkiye,,,,,17.0
+2018,SH_TBS_INCD,Türkiye,,,,,16.0
+2019,SH_TBS_INCD,Türkiye,,,,,16.0
+2020,SH_TBS_INCD,Türkiye,,,,,16.0
+2021,SH_TBS_INCD,Türkiye,,,,,18.0
+2000,SH_TBS_INCD,Туркменистан,,,,,112.0
+2001,SH_TBS_INCD,Туркменистан,,,,,108.0
+2007,SH_TBS_INCD,Republic of Korea,,,,,93.0
+2008,SH_TBS_INCD,Republic of Korea,,,,,90.0
+2009,SH_TBS_INCD,Republic of Korea,,,,,95.0
+2010,SH_TBS_INCD,Republic of Korea,,,,,97.0
+2011,SH_TBS_INCD,Republic of Korea,,,,,101.0
+2012,SH_TBS_INCD,Republic of Korea,,,,,94.0
+2013,SH_TBS_INCD,Republic of Korea,,,,,89.0
+2014,SH_TBS_INCD,Republic of Korea,,,,,85.0
+2015,SH_TBS_INCD,Republic of Korea,,,,,79.0
+2002,SH_TBS_INCD,Туркменистан,,,,,100.0
+2003,SH_TBS_INCD,Туркменистан,,,,,116.0
+2004,SH_TBS_INCD,Туркменистан,,,,,90.0
+2005,SH_TBS_INCD,Туркменистан,,,,,84.0
+2006,SH_TBS_INCD,Туркменистан,,,,,84.0
+2007,SH_TBS_INCD,Туркменистан,,,,,88.0
+2008,SH_TBS_INCD,Туркменистан,,,,,95.0
+2009,SH_TBS_INCD,Туркменистан,,,,,79.0
+2010,SH_TBS_INCD,Туркменистан,,,,,79.0
+2016,SH_TBS_INCD,Republic of Korea,,,,,76.0
+2017,SH_TBS_INCD,Republic of Korea,,,,,69.0
+2018,SH_TBS_INCD,Republic of Korea,,,,,64.0
+2019,SH_TBS_INCD,Republic of Korea,,,,,58.0
+2020,SH_TBS_INCD,Republic of Korea,,,,,48.0
+2021,SH_TBS_INCD,Republic of Korea,,,,,44.0
+2000,SH_TBS_INCD,Кыргызстан,,,,,145.0
+2001,SH_TBS_INCD,Кыргызстан,,,,,154.0
+2002,SH_TBS_INCD,Кыргызстан,,,,,152.0
+2003,SH_TBS_INCD,Кыргызстан,,,,,146.0
+2004,SH_TBS_INCD,Кыргызстан,,,,,139.0
+2005,SH_TBS_INCD,Кыргызстан,,,,,143.0
+2006,SH_TBS_INCD,Кыргызстан,,,,,139.0
+2007,SH_TBS_INCD,Кыргызстан,,,,,135.0
+2008,SH_TBS_INCD,Кыргызстан,,,,,148.0
+2009,SH_TBS_INCD,Кыргызстан,,,,,128.0
+2010,SH_TBS_INCD,Кыргызстан,,,,,120.0
+2011,SH_TBS_INCD,Кыргызстан,,,,,125.0
+2011,SH_TBS_INCD,Туркменистан,,,,,66.0
+2012,SH_TBS_INCD,Туркменистан,,,,,70.0
+2013,SH_TBS_INCD,Туркменистан,,,,,71.0
+2014,SH_TBS_INCD,Туркменистан,,,,,58.0
+2015,SH_TBS_INCD,Туркменистан,,,,,49.0
+2016,SH_TBS_INCD,Туркменистан,,,,,46.0
+2017,SH_TBS_INCD,Туркменистан,,,,,43.0
+2018,SH_TBS_INCD,Туркменистан,,,,,46.0
+2019,SH_TBS_INCD,Туркменистан,,,,,45.0
+2012,SH_TBS_INCD,Кыргызстан,,,,,127.0
+2013,SH_TBS_INCD,Кыргызстан,,,,,142.0
+2014,SH_TBS_INCD,Кыргызстан,,,,,126.0
+2015,SH_TBS_INCD,Кыргызстан,,,,,136.0
+2016,SH_TBS_INCD,Кыргызстан,,,,,133.0
+2017,SH_TBS_INCD,Кыргызстан,,,,,124.0
+2018,SH_TBS_INCD,Кыргызстан,,,,,116.0
+2019,SH_TBS_INCD,Кыргызстан,,,,,110.0
+2020,SH_TBS_INCD,Кыргызстан,,,,,108.0
+2021,SH_TBS_INCD,Кыргызстан,,,,,130.0
+2000,SH_TBS_INCD,Latvia,,,,,95.0
+2001,SH_TBS_INCD,Latvia,,,,,97.0
+2002,SH_TBS_INCD,Latvia,,,,,89.0
+2003,SH_TBS_INCD,Latvia,,,,,85.0
+2004,SH_TBS_INCD,Latvia,,,,,80.0
+2005,SH_TBS_INCD,Latvia,,,,,73.0
+2006,SH_TBS_INCD,Latvia,,,,,67.0
+2007,SH_TBS_INCD,Latvia,,,,,65.0
+2008,SH_TBS_INCD,Latvia,,,,,56.0
+2009,SH_TBS_INCD,Latvia,,,,,51.0
+2010,SH_TBS_INCD,Latvia,,,,,50.0
+2011,SH_TBS_INCD,Latvia,,,,,48.0
+2012,SH_TBS_INCD,Latvia,,,,,54.0
+2013,SH_TBS_INCD,Latvia,,,,,49.0
+2014,SH_TBS_INCD,Latvia,,,,,42.0
+2015,SH_TBS_INCD,Latvia,,,,,40.0
+2016,SH_TBS_INCD,Latvia,,,,,37.0
+2020,SH_TBS_INCD,Туркменистан,,,,,46.0
+2021,SH_TBS_INCD,Туркменистан,,,,,47.0
+2000,SH_TBS_INCD,Ukraine,,,,,114.0
+2001,SH_TBS_INCD,Ukraine,,,,,119.0
+2002,SH_TBS_INCD,Ukraine,,,,,123.0
+2003,SH_TBS_INCD,Ukraine,,,,,126.0
+2004,SH_TBS_INCD,Ukraine,,,,,127.0
+2005,SH_TBS_INCD,Ukraine,,,,,127.0
+2006,SH_TBS_INCD,Ukraine,,,,,125.0
+2017,SH_TBS_INCD,Latvia,,,,,32.0
+2018,SH_TBS_INCD,Latvia,,,,,28.0
+2019,SH_TBS_INCD,Latvia,,,,,24.0
+2020,SH_TBS_INCD,Latvia,,,,,20.0
+2021,SH_TBS_INCD,Latvia,,,,,16.0
+2000,SH_TBS_INCD,Lithuania,,,,,85.0
+2001,SH_TBS_INCD,Lithuania,,,,,84.0
+2002,SH_TBS_INCD,Lithuania,,,,,79.0
+2003,SH_TBS_INCD,Lithuania,,,,,87.0
+2007,SH_TBS_INCD,Ukraine,,,,,123.0
+2008,SH_TBS_INCD,Ukraine,,,,,119.0
+2009,SH_TBS_INCD,Ukraine,,,,,115.0
+2010,SH_TBS_INCD,Ukraine,,,,,110.0
+2011,SH_TBS_INCD,Ukraine,,,,,105.0
+2012,SH_TBS_INCD,Ukraine,,,,,101.0
+2013,SH_TBS_INCD,Ukraine,,,,,96.0
+2014,SH_TBS_INCD,Ukraine,,,,,94.0
+2015,SH_TBS_INCD,Ukraine,,,,,91.0
+2004,SH_TBS_INCD,Lithuania,,,,,68.0
+2005,SH_TBS_INCD,Lithuania,,,,,72.0
+2006,SH_TBS_INCD,Lithuania,,,,,82.0
+2007,SH_TBS_INCD,Lithuania,,,,,79.0
+2008,SH_TBS_INCD,Lithuania,,,,,75.0
+2009,SH_TBS_INCD,Lithuania,,,,,69.0
+2010,SH_TBS_INCD,Lithuania,,,,,64.0
+2011,SH_TBS_INCD,Lithuania,,,,,65.0
+2012,SH_TBS_INCD,Lithuania,,,,,61.0
+2016,SH_TBS_INCD,Ukraine,,,,,87.0
+2017,SH_TBS_INCD,Ukraine,,,,,84.0
+2018,SH_TBS_INCD,Ukraine,,,,,80.0
+2019,SH_TBS_INCD,Ukraine,,,,,77.0
+2020,SH_TBS_INCD,Ukraine,,,,,74.0
+2021,SH_TBS_INCD,Ukraine,,,,,71.0
+2000,SH_TBS_INCD,North Macedonia,,,,,39.0
+2001,SH_TBS_INCD,North Macedonia,,,,,40.0
+2002,SH_TBS_INCD,North Macedonia,,,,,42.0
+2013,SH_TBS_INCD,Lithuania,,,,,60.0
+2014,SH_TBS_INCD,Lithuania,,,,,57.0
+2015,SH_TBS_INCD,Lithuania,,,,,54.0
+2016,SH_TBS_INCD,Lithuania,,,,,53.0
+2017,SH_TBS_INCD,Lithuania,,,,,50.0
+2018,SH_TBS_INCD,Lithuania,,,,,43.0
+2019,SH_TBS_INCD,Lithuania,,,,,41.0
+2020,SH_TBS_INCD,Lithuania,,,,,28.0
+2021,SH_TBS_INCD,Lithuania,,,,,26.0
+2003,SH_TBS_INCD,North Macedonia,,,,,42.0
+2004,SH_TBS_INCD,North Macedonia,,,,,39.0
+2005,SH_TBS_INCD,North Macedonia,,,,,36.0
+2006,SH_TBS_INCD,North Macedonia,,,,,34.0
+2007,SH_TBS_INCD,North Macedonia,,,,,32.0
+2008,SH_TBS_INCD,North Macedonia,,,,,27.0
+2009,SH_TBS_INCD,North Macedonia,,,,,27.0
+2010,SH_TBS_INCD,North Macedonia,,,,,23.0
+2011,SH_TBS_INCD,North Macedonia,,,,,20.0
+2000,SH_TBS_INCD,Luxembourg,,,,,12.0
+2001,SH_TBS_INCD,Luxembourg,,,,,8.1
+2002,SH_TBS_INCD,Luxembourg,,,,,8.0
+2003,SH_TBS_INCD,Luxembourg,,,,,14.0
+2004,SH_TBS_INCD,Luxembourg,,,,,7.8
+2005,SH_TBS_INCD,Luxembourg,,,,,9.2
+2006,SH_TBS_INCD,Luxembourg,,,,,8.0
+2007,SH_TBS_INCD,Luxembourg,,,,,9.3
+2008,SH_TBS_INCD,Luxembourg,,,,,6.6
+2012,SH_TBS_INCD,North Macedonia,,,,,21.0
+2013,SH_TBS_INCD,North Macedonia,,,,,19.0
+2014,SH_TBS_INCD,North Macedonia,,,,,17.0
+2015,SH_TBS_INCD,North Macedonia,,,,,17.0
+2016,SH_TBS_INCD,North Macedonia,,,,,16.0
+2017,SH_TBS_INCD,North Macedonia,,,,,13.0
+2018,SH_TBS_INCD,North Macedonia,,,,,13.0
+2019,SH_TBS_INCD,North Macedonia,,,,,12.0
+2020,SH_TBS_INCD,North Macedonia,,,,,12.0
+2009,SH_TBS_INCD,Luxembourg,,,,,6.2
+2010,SH_TBS_INCD,Luxembourg,,,,,6.6
+2011,SH_TBS_INCD,Luxembourg,,,,,5.5
+2012,SH_TBS_INCD,Luxembourg,,,,,9.8
+2013,SH_TBS_INCD,Luxembourg,,,,,8.0
+2014,SH_TBS_INCD,Luxembourg,,,,,5.0
+2015,SH_TBS_INCD,Luxembourg,,,,,6.1
+2016,SH_TBS_INCD,Luxembourg,,,,,5.7
+2017,SH_TBS_INCD,Luxembourg,,,,,6.2
+2021,SH_TBS_INCD,North Macedonia,,,,,11.0
+2000,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,12.0
+2001,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,11.0
+2002,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,13.0
+2003,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,13.0
+2004,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,13.0
+2005,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2006,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2007,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2008,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2009,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2010,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,14.0
+2011,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2012,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,15.0
+2013,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,13.0
+2014,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,12.0
+2018,SH_TBS_INCD,Luxembourg,,,,,7.9
+2019,SH_TBS_INCD,Luxembourg,,,,,8.9
+2020,SH_TBS_INCD,Luxembourg,,,,,5.8
+2021,SH_TBS_INCD,Luxembourg,,,,,6.1
+2000,SH_TBS_INCD,Malta,,,,,4.6
+2001,SH_TBS_INCD,Malta,,,,,4.6
+2002,SH_TBS_INCD,Malta,,,,,6.8
+2003,SH_TBS_INCD,Malta,,,,,2.0
+2004,SH_TBS_INCD,Malta,,,,,5.1
+2005,SH_TBS_INCD,Malta,,,,,6.2
+2006,SH_TBS_INCD,Malta,,,,,8.4
+2007,SH_TBS_INCD,Malta,,,,,11.0
+2008,SH_TBS_INCD,Malta,,,,,13.0
+2009,SH_TBS_INCD,Malta,,,,,12.0
+2010,SH_TBS_INCD,Malta,,,,,8.0
+2011,SH_TBS_INCD,Malta,,,,,8.1
+2012,SH_TBS_INCD,Malta,,,,,11.0
+2013,SH_TBS_INCD,Malta,,,,,13.0
+2014,SH_TBS_INCD,Malta,,,,,12.0
+2015,SH_TBS_INCD,Malta,,,,,8.1
+2016,SH_TBS_INCD,Malta,,,,,12.0
+2017,SH_TBS_INCD,Malta,,,,,10.0
+2018,SH_TBS_INCD,Malta,,,,,13.0
+2019,SH_TBS_INCD,Malta,,,,,22.0
+2020,SH_TBS_INCD,Malta,,,,,31.0
+2021,SH_TBS_INCD,Malta,,,,,12.0
+2000,SH_TBS_INCD,Mexico,,,,,23.0
+2015,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,10.0
+2016,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,9.9
+2017,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,8.9
+2018,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,8.1
+2019,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,8.1
+2020,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,7.0
+2021,SH_TBS_INCD,United Kingdom of Great Britain and Northern Ireland,,,,,6.3
+2000,SH_TBS_INCD,Узбекистан,,,,,99.0
+2001,SH_TBS_INCD,Mexico,,,,,24.0
+2002,SH_TBS_INCD,Mexico,,,,,22.0
+2003,SH_TBS_INCD,Mexico,,,,,23.0
+2004,SH_TBS_INCD,Mexico,,,,,18.0
+2005,SH_TBS_INCD,Mexico,,,,,22.0
+2006,SH_TBS_INCD,Mexico,,,,,21.0
+2007,SH_TBS_INCD,Mexico,,,,,21.0
+2008,SH_TBS_INCD,Mexico,,,,,21.0
+2009,SH_TBS_INCD,Mexico,,,,,21.0
+2010,SH_TBS_INCD,Mexico,,,,,22.0
+2011,SH_TBS_INCD,Mexico,,,,,21.0
+2012,SH_TBS_INCD,Mexico,,,,,22.0
+2013,SH_TBS_INCD,Mexico,,,,,22.0
+2014,SH_TBS_INCD,Mexico,,,,,22.0
+2015,SH_TBS_INCD,Mexico,,,,,22.0
+2016,SH_TBS_INCD,Mexico,,,,,22.0
+2017,SH_TBS_INCD,Mexico,,,,,23.0
+2018,SH_TBS_INCD,Mexico,,,,,23.0
+2001,SH_TBS_INCD,Узбекистан,,,,,107.0
+2002,SH_TBS_INCD,Узбекистан,,,,,113.0
+2003,SH_TBS_INCD,Узбекистан,,,,,117.0
+2004,SH_TBS_INCD,Узбекистан,,,,,119.0
+2005,SH_TBS_INCD,Узбекистан,,,,,120.0
+2006,SH_TBS_INCD,Узбекистан,,,,,116.0
+2007,SH_TBS_INCD,Узбекистан,,,,,110.0
+2008,SH_TBS_INCD,Узбекистан,,,,,105.0
+2009,SH_TBS_INCD,Узбекистан,,,,,101.0
+2010,SH_TBS_INCD,Узбекистан,,,,,97.0
+2011,SH_TBS_INCD,Узбекистан,,,,,93.0
+2012,SH_TBS_INCD,Узбекистан,,,,,89.0
+2013,SH_TBS_INCD,Узбекистан,,,,,86.0
+2014,SH_TBS_INCD,Узбекистан,,,,,82.0
+2015,SH_TBS_INCD,Узбекистан,,,,,79.0
+2016,SH_TBS_INCD,Узбекистан,,,,,76.0
+2017,SH_TBS_INCD,Узбекистан,,,,,73.0
+2018,SH_TBS_INCD,Узбекистан,,,,,70.0
+2019,SH_TBS_INCD,Mexico,,,,,23.0
+2020,SH_TBS_INCD,Mexico,,,,,23.0
+2021,SH_TBS_INCD,Mexico,,,,,25.0
+2019,SH_TBS_INCD,Узбекистан,,,,,67.0
+2020,SH_TBS_INCD,Узбекистан,,,,,65.0
+2021,SH_TBS_INCD,Узбекистан,,,,,62.0
+2015,SH_TBS_INCD,Bulgaria,,,,,28.0
+2016,SH_TBS_INCD,Bulgaria,,,,,27.0
+2017,SH_TBS_INCD,Bulgaria,,,,,25.0
+2018,SH_TBS_INCD,Bulgaria,,,,,23.0
+2019,SH_TBS_INCD,Bulgaria,,,,,21.0
+2020,SH_TBS_INCD,Bulgaria,,,,,19.0
+2021,SH_TBS_INCD,Bulgaria,,,,,17.0
+2021,SH_TBS_INCD,Bulgaria,,,,,17.0

@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_PRR_SEXV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Belgium",
+                "Canada",
+                "Croatia",
+                "France",
+                "Georgia",
+                "Germany",
+                "Iceland",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Luxembourg",
+                "Mexico",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Sweden",
+                "Switzerland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-1-VC_PRR_SEXV",
+  "title": "meta.name-16-3-1-VC_PRR_SEXV"
+}

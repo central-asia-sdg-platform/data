@@ -1,0 +1,102 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TM_TAX_WMFN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Albania",
+                "Armenia",
+                "Costa Rica",
+                "Mexico",
+                "Bosnia and Herzegovina",
+                "Georgia",
+                "Azerbaijan",
+                "Belarus",
+                "Serbia",
+                "Republic of Moldova",
+                "Iceland",
+                "Canada",
+                "India",
+                "Viet Nam",
+                "Chile",
+                "Israel",
+                "China",
+                "Switzerland",
+                "Japan",
+                "Colombia",
+                "Таджикистан",
+                "Казахстан",
+                "Montenegro",
+                "Узбекистан",
+                "United Arab Emirates",
+                "New Zealand",
+                "Republic of Korea",
+                "Türkiye",
+                "Ukraine",
+                "Кыргызстан",
+                "Norway",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGR",
+                "ARM",
+                "CLO",
+                "TEX",
+                "IND",
+                "OIL",
+                "ALP",
+                ""
+              ]
+            },
+            "title": "Type of product"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-10-1-TM_TAX_WMFN",
+  "title": "meta.name-17-10-1-TM_TAX_WMFN"
+}

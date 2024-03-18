@@ -1,1 +1,6 @@
 From,To
+SeriesCode,Страна 
+Страна ,Disability status
+Disability status,Grounds of discrimination
+Grounds of discrimination,Location
+Location,Sex

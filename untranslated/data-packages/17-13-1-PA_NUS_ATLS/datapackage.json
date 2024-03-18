@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PA_NUS_ATLS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Belarus",
+                "Canada",
+                "Azerbaijan",
+                "Germany",
+                "Malta",
+                "Australia",
+                "Chile",
+                "Greece",
+                "China",
+                "Austria",
+                "Hungary",
+                "Colombia",
+                "Armenia",
+                "Iceland",
+                "Costa Rica",
+                "Belgium",
+                "India",
+                "Croatia",
+                "Bosnia and Herzegovina",
+                "Cyprus",
+                "Ireland",
+                "Bulgaria",
+                "Czechia",
+                "Israel",
+                "Denmark",
+                "Romania",
+                "Italy",
+                "Serbia",
+                "Estonia",
+                "Japan",
+                "Mexico",
+                "Kazakhstan",
+                "Slovakia",
+                "Finland",
+                "Republic of Korea",
+                "Viet Nam",
+                "France",
+                "Slovenia",
+                "Kyrgyzstan",
+                "Georgia",
+                "Republic of Moldova",
+                "Spain",
+                "Montenegro",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Sweden",
+                "Netherlands (Kingdom of the)",
+                "Latvia",
+                "Uzbekistan",
+                "New Zealand",
+                "Switzerland",
+                "Norway",
+                "Tajikistan",
+                "Poland",
+                "Portugal",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-PA_NUS_ATLS",
+  "title": "meta.name-17-13-1-PA_NUS_ATLS"
+}

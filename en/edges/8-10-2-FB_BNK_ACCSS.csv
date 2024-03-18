@@ -1,0 +1,7 @@
+From,To
+SeriesCode,Country
+Country,Age
+Age,Education level
+Education level,Location
+Location,Quantile
+Quantile,Sex

@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_SCP_POLINS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Australia",
+                "Belgium",
+                "Bulgaria",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Czechia",
+                "Finland",
+                "France",
+                "Germany",
+                "Hungary",
+                "India",
+                "Republic of Korea",
+                "Latvia",
+                "Lithuania",
+                "Mexico",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Sweden",
+                "Switzerland",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Policy instruments",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "POLICY_MACRO",
+                "POLICY_REGLEG",
+                "POLICY_VOLSRG",
+                "POLICY_ECONFIS",
+                ""
+              ]
+            },
+            "title": "Policy instruments"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-1-1-SG_SCP_POLINS",
+  "title": "meta.name-12-1-1-SG_SCP_POLINS"
+}

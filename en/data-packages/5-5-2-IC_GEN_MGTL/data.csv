@@ -1,0 +1,1144 @@
+Year,SeriesCode,Country,Age,Sex,Value
+2008,IC_GEN_MGTL,Armenia,,Female,35.2
+2011,IC_GEN_MGTL,Armenia,,Female,31.7
+2013,IC_GEN_MGTL,Armenia,,Female,28.8
+2014,IC_GEN_MGTL,Armenia,,Female,32.4
+2015,IC_GEN_MGTL,Armenia,,Female,29.1
+2016,IC_GEN_MGTL,Armenia,,Female,29.5
+2017,IC_GEN_MGTL,Armenia,,Female,28.7
+2018,IC_GEN_MGTL,Armenia,,Female,25.7
+2019,IC_GEN_MGTL,Armenia,,Female,24.4
+2020,IC_GEN_MGTL,Armenia,,Female,28.1
+2000,IC_GEN_MGTL,Belgium,,Female,32.1
+2001,IC_GEN_MGTL,Belgium,,Female,32.9
+2002,IC_GEN_MGTL,Belgium,,Female,31.8
+2003,IC_GEN_MGTL,Belgium,,Female,29.9
+2004,IC_GEN_MGTL,Belgium,,Female,29.9
+2005,IC_GEN_MGTL,Belgium,,Female,31.8
+2006,IC_GEN_MGTL,Belgium,,Female,31.5
+2007,IC_GEN_MGTL,Belgium,,Female,33.9
+2008,IC_GEN_MGTL,Belgium,,Female,32.7
+2009,IC_GEN_MGTL,Belgium,,Female,34.0
+2010,IC_GEN_MGTL,Belgium,,Female,34.1
+2011,IC_GEN_MGTL,Belgium,,Female,29.9
+2012,IC_GEN_MGTL,Belgium,,Female,32.4
+2013,IC_GEN_MGTL,Belgium,,Female,31.4
+2014,IC_GEN_MGTL,Belgium,,Female,31.7
+2015,IC_GEN_MGTL,Belgium,,Female,32.6
+2016,IC_GEN_MGTL,Belgium,,Female,32.7
+2017,IC_GEN_MGTL,Belgium,,Female,33.6
+2018,IC_GEN_MGTL,Belgium,,Female,33.9
+2019,IC_GEN_MGTL,Belgium,,Female,32.7
+2020,IC_GEN_MGTL,Belgium,,Female,34.5
+2021,IC_GEN_MGTL,Belgium,,Female,35.4
+2001,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,18.9
+2006,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,20.8
+2007,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,16.1
+2008,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,23.0
+2009,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,25.3
+2010,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,23.8
+2011,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,21.4
+2012,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,24.2
+2013,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,22.8
+2014,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,24.2
+2015,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,22.0
+2016,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,21.6
+2017,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,20.3
+2018,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,25.9
+2019,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,24.3
+2020,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,25.1
+2021,IC_GEN_MGTL,Bosnia and Herzegovina,,Female,24.2
+2000,IC_GEN_MGTL,Bulgaria,,Female,29.8
+2001,IC_GEN_MGTL,Bulgaria,,Female,32.7
+2002,IC_GEN_MGTL,Bulgaria,,Female,33.5
+2003,IC_GEN_MGTL,Bulgaria,,Female,31.3
+2004,IC_GEN_MGTL,Bulgaria,,Female,34.4
+2005,IC_GEN_MGTL,Bulgaria,,Female,34.0
+2006,IC_GEN_MGTL,Bulgaria,,Female,31.6
+2007,IC_GEN_MGTL,Bulgaria,,Female,31.4
+2008,IC_GEN_MGTL,Bulgaria,,Female,32.3
+2009,IC_GEN_MGTL,Bulgaria,,Female,32.2
+2010,IC_GEN_MGTL,Bulgaria,,Female,33.3
+2011,IC_GEN_MGTL,Bulgaria,,Female,36.8
+2012,IC_GEN_MGTL,Bulgaria,,Female,36.4
+2002,IC_GEN_MGTL,Albania,,Female,13.1
+2007,IC_GEN_MGTL,Albania,,Female,20.5
+2008,IC_GEN_MGTL,Albania,,Female,23.7
+2009,IC_GEN_MGTL,Albania,,Female,22.5
+2010,IC_GEN_MGTL,Albania,,Female,19.1
+2012,IC_GEN_MGTL,Albania,,Female,16.1
+2014,IC_GEN_MGTL,Albania,,Female,18.7
+2015,IC_GEN_MGTL,Albania,,Female,19.8
+2016,IC_GEN_MGTL,Albania,,Female,24.1
+2017,IC_GEN_MGTL,Albania,,Female,22.7
+2018,IC_GEN_MGTL,Albania,,Female,29.3
+2013,IC_GEN_MGTL,Bulgaria,,Female,36.5
+2014,IC_GEN_MGTL,Bulgaria,,Female,36.7
+2015,IC_GEN_MGTL,Bulgaria,,Female,36.5
+2016,IC_GEN_MGTL,Bulgaria,,Female,37.9
+2017,IC_GEN_MGTL,Bulgaria,,Female,39.2
+2018,IC_GEN_MGTL,Bulgaria,,Female,38.6
+2019,IC_GEN_MGTL,Bulgaria,,Female,39.0
+2020,IC_GEN_MGTL,Bulgaria,,Female,41.3
+2021,IC_GEN_MGTL,Bulgaria,,Female,38.3
+2016,IC_GEN_MGTL,Belarus,,Female,46.0
+2017,IC_GEN_MGTL,Belarus,,Female,47.6
+2018,IC_GEN_MGTL,Belarus,,Female,47.3
+2019,IC_GEN_MGTL,Belarus,,Female,49.1
+2020,IC_GEN_MGTL,Belarus,,Female,50.5
+2021,IC_GEN_MGTL,Belarus,,Female,47.2
+2000,IC_GEN_MGTL,Canada,,Female,35.5
+2001,IC_GEN_MGTL,Canada,,Female,35.0
+2002,IC_GEN_MGTL,Canada,,Female,34.1
+2003,IC_GEN_MGTL,Canada,,Female,35.7
+2004,IC_GEN_MGTL,Canada,,Female,36.5
+2005,IC_GEN_MGTL,Canada,,Female,35.9
+2006,IC_GEN_MGTL,Canada,,Female,36.3
+2007,IC_GEN_MGTL,Canada,,Female,36.9
+2008,IC_GEN_MGTL,Canada,,Female,36.0
+2009,IC_GEN_MGTL,Canada,,Female,37.0
+2010,IC_GEN_MGTL,Canada,,Female,36.8
+2011,IC_GEN_MGTL,Canada,,Female,37.1
+2012,IC_GEN_MGTL,Canada,,Female,36.4
+2013,IC_GEN_MGTL,Canada,,Female,35.8
+2014,IC_GEN_MGTL,Canada,,Female,35.5
+2015,IC_GEN_MGTL,Canada,,Female,36.3
+2017,IC_GEN_MGTL,Canada,,Female,34.5
+2018,IC_GEN_MGTL,Canada,,Female,35.1
+2019,IC_GEN_MGTL,Canada,,Female,35.3
+2020,IC_GEN_MGTL,Canada,,Female,35.8
+2021,IC_GEN_MGTL,Canada,,Female,35.6
+2000,IC_GEN_MGTL,Chile,,Female,32.6
+2002,IC_GEN_MGTL,Chile,,Female,32.7
+2003,IC_GEN_MGTL,Chile,,Female,42.7
+2006,IC_GEN_MGTL,Chile,,Female,40.2
+2009,IC_GEN_MGTL,Chile,,Female,33.3
+2010,IC_GEN_MGTL,Chile,,Female,23.8
+2019,IC_GEN_MGTL,Albania,,Female,34.1
+2000,IC_GEN_MGTL,Azerbaijan,,Female,26.9
+2001,IC_GEN_MGTL,Azerbaijan,,Female,27.6
+2002,IC_GEN_MGTL,Azerbaijan,,Female,25.3
+2003,IC_GEN_MGTL,Azerbaijan,,Female,24.4
+2004,IC_GEN_MGTL,Azerbaijan,,Female,29.6
+2005,IC_GEN_MGTL,Azerbaijan,,Female,28.2
+2006,IC_GEN_MGTL,Azerbaijan,,Female,23.2
+2007,IC_GEN_MGTL,Azerbaijan,,Female,22.1
+2008,IC_GEN_MGTL,Azerbaijan,,Female,24.7
+2009,IC_GEN_MGTL,Azerbaijan,,Female,19.2
+2011,IC_GEN_MGTL,Chile,,Female,23.6
+2012,IC_GEN_MGTL,Chile,,Female,24.0
+2013,IC_GEN_MGTL,Chile,,Female,25.0
+2014,IC_GEN_MGTL,Chile,,Female,26.9
+2015,IC_GEN_MGTL,Chile,,Female,27.4
+2016,IC_GEN_MGTL,Chile,,Female,27.4
+2017,IC_GEN_MGTL,Chile,,Female,26.5
+2018,IC_GEN_MGTL,Chile,,Female,27.3
+2019,IC_GEN_MGTL,Chile,,Female,29.9
+2020,IC_GEN_MGTL,Chile,,Female,27.4
+2021,IC_GEN_MGTL,Chile,,Female,30.4
+2005,IC_GEN_MGTL,China,,Female,16.8
+2002,IC_GEN_MGTL,Colombia,,Female,30.8
+2003,IC_GEN_MGTL,Colombia,,Female,32.8
+2004,IC_GEN_MGTL,Colombia,,Female,32.9
+2005,IC_GEN_MGTL,Colombia,,Female,31.8
+2007,IC_GEN_MGTL,Colombia,,Female,39.3
+2008,IC_GEN_MGTL,Colombia,,Female,33.7
+2009,IC_GEN_MGTL,Colombia,,Female,32.5
+2010,IC_GEN_MGTL,Colombia,,Female,32.4
+2011,IC_GEN_MGTL,Colombia,,Female,33.1
+2012,IC_GEN_MGTL,Colombia,,Female,33.3
+2013,IC_GEN_MGTL,Colombia,,Female,34.2
+2014,IC_GEN_MGTL,Colombia,,Female,33.4
+2015,IC_GEN_MGTL,Colombia,,Female,33.8
+2016,IC_GEN_MGTL,Colombia,,Female,35.0
+2017,IC_GEN_MGTL,Colombia,,Female,34.5
+2018,IC_GEN_MGTL,Colombia,,Female,34.7
+2019,IC_GEN_MGTL,Colombia,,Female,34.8
+2020,IC_GEN_MGTL,Colombia,,Female,35.0
+2021,IC_GEN_MGTL,Colombia,,Female,35.3
+2000,IC_GEN_MGTL,Costa Rica,,Female,32.9
+2001,IC_GEN_MGTL,Costa Rica,,Female,25.4
+2002,IC_GEN_MGTL,Costa Rica,,Female,26.1
+2003,IC_GEN_MGTL,Costa Rica,,Female,29.1
+2004,IC_GEN_MGTL,Costa Rica,,Female,26.2
+2005,IC_GEN_MGTL,Costa Rica,,Female,24.9
+2006,IC_GEN_MGTL,Costa Rica,,Female,29.9
+2007,IC_GEN_MGTL,Costa Rica,,Female,27.0
+2008,IC_GEN_MGTL,Costa Rica,,Female,30.4
+2010,IC_GEN_MGTL,Costa Rica,,Female,30.0
+2011,IC_GEN_MGTL,Costa Rica,,Female,35.2
+2012,IC_GEN_MGTL,Costa Rica,,Female,28.7
+2013,IC_GEN_MGTL,Costa Rica,,Female,36.8
+2014,IC_GEN_MGTL,Costa Rica,,Female,31.9
+2015,IC_GEN_MGTL,Costa Rica,,Female,28.7
+2016,IC_GEN_MGTL,Costa Rica,,Female,34.6
+2017,IC_GEN_MGTL,Costa Rica,,Female,41.1
+2018,IC_GEN_MGTL,Costa Rica,,Female,37.1
+2019,IC_GEN_MGTL,Costa Rica,,Female,40.5
+2021,IC_GEN_MGTL,Costa Rica,,Female,40.2
+2000,IC_GEN_MGTL,Croatia,,Female,24.7
+2001,IC_GEN_MGTL,Croatia,,Female,24.7
+2010,IC_GEN_MGTL,Azerbaijan,,Female,25.5
+2011,IC_GEN_MGTL,Azerbaijan,,Female,32.8
+2012,IC_GEN_MGTL,Azerbaijan,,Female,34.2
+2013,IC_GEN_MGTL,Azerbaijan,,Female,33.0
+2014,IC_GEN_MGTL,Azerbaijan,,Female,34.5
+2015,IC_GEN_MGTL,Azerbaijan,,Female,35.1
+2016,IC_GEN_MGTL,Azerbaijan,,Female,34.9
+2017,IC_GEN_MGTL,Azerbaijan,,Female,34.5
+2018,IC_GEN_MGTL,Azerbaijan,,Female,38.1
+2002,IC_GEN_MGTL,Croatia,,Female,27.1
+2003,IC_GEN_MGTL,Croatia,,Female,24.6
+2004,IC_GEN_MGTL,Croatia,,Female,22.6
+2005,IC_GEN_MGTL,Croatia,,Female,24.0
+2006,IC_GEN_MGTL,Croatia,,Female,25.6
+2007,IC_GEN_MGTL,Croatia,,Female,20.7
+2008,IC_GEN_MGTL,Croatia,,Female,25.4
+2009,IC_GEN_MGTL,Croatia,,Female,25.2
+2010,IC_GEN_MGTL,Croatia,,Female,25.8
+2011,IC_GEN_MGTL,Croatia,,Female,24.0
+2012,IC_GEN_MGTL,Croatia,,Female,26.1
+2019,IC_GEN_MGTL,Azerbaijan,,Female,35.8
+2020,IC_GEN_MGTL,Azerbaijan,,Female,35.5
+2021,IC_GEN_MGTL,Azerbaijan,,Female,36.2
+2000,IC_GEN_MGTL,Australia,,Female,30.0
+2001,IC_GEN_MGTL,Australia,,Female,31.8
+2002,IC_GEN_MGTL,Australia,,Female,32.2
+2003,IC_GEN_MGTL,Australia,,Female,32.7
+2004,IC_GEN_MGTL,Australia,,Female,33.5
+2005,IC_GEN_MGTL,Australia,,Female,34.4
+2006,IC_GEN_MGTL,Australia,,Female,34.3
+2013,IC_GEN_MGTL,Croatia,,Female,24.4
+2014,IC_GEN_MGTL,Croatia,,Female,23.2
+2015,IC_GEN_MGTL,Croatia,,Female,26.7
+2016,IC_GEN_MGTL,Croatia,,Female,29.9
+2017,IC_GEN_MGTL,Croatia,,Female,29.1
+2018,IC_GEN_MGTL,Croatia,,Female,30.0
+2019,IC_GEN_MGTL,Croatia,,Female,26.4
+2020,IC_GEN_MGTL,Croatia,,Female,28.4
+2021,IC_GEN_MGTL,Croatia,,Female,28.9
+2000,IC_GEN_MGTL,Cyprus,,Female,14.8
+2001,IC_GEN_MGTL,Cyprus,,Female,19.0
+2007,IC_GEN_MGTL,Australia,,Female,34.3
+2008,IC_GEN_MGTL,Australia,,Female,35.5
+2009,IC_GEN_MGTL,Australia,,Female,35.5
+2010,IC_GEN_MGTL,Australia,,Female,34.4
+2011,IC_GEN_MGTL,Australia,,Female,36.1
+2012,IC_GEN_MGTL,Australia,,Female,35.7
+2013,IC_GEN_MGTL,Australia,,Female,35.8
+2014,IC_GEN_MGTL,Australia,,Female,36.3
+2002,IC_GEN_MGTL,Cyprus,,Female,17.6
+2003,IC_GEN_MGTL,Cyprus,,Female,17.5
+2004,IC_GEN_MGTL,Cyprus,,Female,15.3
+2005,IC_GEN_MGTL,Cyprus,,Female,14.8
+2006,IC_GEN_MGTL,Cyprus,,Female,16.2
+2007,IC_GEN_MGTL,Cyprus,,Female,15.4
+2008,IC_GEN_MGTL,Cyprus,,Female,16.1
+2009,IC_GEN_MGTL,Cyprus,,Female,12.2
+2010,IC_GEN_MGTL,Cyprus,,Female,13.8
+2011,IC_GEN_MGTL,Cyprus,,Female,15.0
+2012,IC_GEN_MGTL,Cyprus,,Female,15.8
+2015,IC_GEN_MGTL,Australia,,Female,37.7
+2016,IC_GEN_MGTL,Australia,,Female,36.7
+2017,IC_GEN_MGTL,Australia,,Female,38.7
+2018,IC_GEN_MGTL,Australia,,Female,37.8
+2019,IC_GEN_MGTL,Australia,,Female,39.2
+2020,IC_GEN_MGTL,Australia,,Female,40.0
+2000,IC_GEN_MGTL,Austria,,Female,30.1
+2001,IC_GEN_MGTL,Austria,,Female,30.1
+2013,IC_GEN_MGTL,Cyprus,,Female,18.9
+2014,IC_GEN_MGTL,Cyprus,,Female,17.3
+2015,IC_GEN_MGTL,Cyprus,,Female,22.8
+2016,IC_GEN_MGTL,Cyprus,,Female,25.7
+2017,IC_GEN_MGTL,Cyprus,,Female,20.7
+2018,IC_GEN_MGTL,Cyprus,,Female,17.0
+2019,IC_GEN_MGTL,Cyprus,,Female,21.4
+2020,IC_GEN_MGTL,Cyprus,,Female,24.2
+2021,IC_GEN_MGTL,Cyprus,,Female,21.0
+2000,IC_GEN_MGTL,Czechia,,Female,24.9
+2001,IC_GEN_MGTL,Czechia,,Female,26.5
+2002,IC_GEN_MGTL,Czechia,,Female,25.9
+2003,IC_GEN_MGTL,Czechia,,Female,26.9
+2004,IC_GEN_MGTL,Czechia,,Female,27.8
+2005,IC_GEN_MGTL,Czechia,,Female,29.6
+2006,IC_GEN_MGTL,Czechia,,Female,28.9
+2007,IC_GEN_MGTL,Czechia,,Female,28.6
+2008,IC_GEN_MGTL,Czechia,,Female,28.1
+2009,IC_GEN_MGTL,Czechia,,Female,29.0
+2010,IC_GEN_MGTL,Czechia,,Female,27.7
+2011,IC_GEN_MGTL,Czechia,,Female,25.5
+2012,IC_GEN_MGTL,Czechia,,Female,26.0
+2002,IC_GEN_MGTL,Austria,,Female,29.3
+2003,IC_GEN_MGTL,Austria,,Female,27.4
+2004,IC_GEN_MGTL,Austria,,Female,26.7
+2005,IC_GEN_MGTL,Austria,,Female,26.8
+2006,IC_GEN_MGTL,Austria,,Female,27.9
+2007,IC_GEN_MGTL,Austria,,Female,26.2
+2008,IC_GEN_MGTL,Austria,,Female,28.1
+2009,IC_GEN_MGTL,Austria,,Female,27.4
+2010,IC_GEN_MGTL,Austria,,Female,28.9
+2011,IC_GEN_MGTL,Austria,,Female,27.5
+2012,IC_GEN_MGTL,Austria,,Female,30.1
+2013,IC_GEN_MGTL,Czechia,,Female,27.0
+2014,IC_GEN_MGTL,Czechia,,Female,27.6
+2015,IC_GEN_MGTL,Czechia,,Female,29.2
+2016,IC_GEN_MGTL,Czechia,,Female,25.3
+2017,IC_GEN_MGTL,Czechia,,Female,24.5
+2018,IC_GEN_MGTL,Czechia,,Female,26.4
+2019,IC_GEN_MGTL,Czechia,,Female,26.8
+2020,IC_GEN_MGTL,Czechia,,Female,27.8
+2021,IC_GEN_MGTL,Czechia,,Female,28.4
+2000,IC_GEN_MGTL,Denmark,,Female,24.2
+2001,IC_GEN_MGTL,Denmark,,Female,21.0
+2002,IC_GEN_MGTL,Denmark,,Female,21.4
+2003,IC_GEN_MGTL,Denmark,,Female,25.8
+2004,IC_GEN_MGTL,Denmark,,Female,23.8
+2005,IC_GEN_MGTL,Denmark,,Female,24.2
+2006,IC_GEN_MGTL,Denmark,,Female,24.5
+2007,IC_GEN_MGTL,Denmark,,Female,28.3
+2008,IC_GEN_MGTL,Denmark,,Female,23.6
+2009,IC_GEN_MGTL,Denmark,,Female,24.6
+2010,IC_GEN_MGTL,Denmark,,Female,21.9
+2011,IC_GEN_MGTL,Denmark,,Female,27.8
+2012,IC_GEN_MGTL,Denmark,,Female,28.4
+2013,IC_GEN_MGTL,Denmark,,Female,26.7
+2014,IC_GEN_MGTL,Denmark,,Female,26.0
+2015,IC_GEN_MGTL,Denmark,,Female,26.3
+2016,IC_GEN_MGTL,Denmark,,Female,27.5
+2017,IC_GEN_MGTL,Denmark,,Female,26.3
+2018,IC_GEN_MGTL,Denmark,,Female,26.1
+2019,IC_GEN_MGTL,Denmark,,Female,26.8
+2020,IC_GEN_MGTL,Denmark,,Female,27.9
+2021,IC_GEN_MGTL,Denmark,,Female,28.2
+2000,IC_GEN_MGTL,Estonia,,Female,40.4
+2001,IC_GEN_MGTL,Estonia,,Female,36.9
+2002,IC_GEN_MGTL,Estonia,,Female,37.9
+2003,IC_GEN_MGTL,Estonia,,Female,31.2
+2004,IC_GEN_MGTL,Estonia,,Female,35.2
+2005,IC_GEN_MGTL,Estonia,,Female,37.2
+2006,IC_GEN_MGTL,Estonia,,Female,33.0
+2007,IC_GEN_MGTL,Estonia,,Female,33.5
+2008,IC_GEN_MGTL,Estonia,,Female,35.9
+2009,IC_GEN_MGTL,Estonia,,Female,35.3
+2010,IC_GEN_MGTL,Estonia,,Female,36.1
+2011,IC_GEN_MGTL,Estonia,,Female,35.4
+2012,IC_GEN_MGTL,Estonia,,Female,31.8
+2013,IC_GEN_MGTL,Estonia,,Female,33.4
+2014,IC_GEN_MGTL,Estonia,,Female,32.6
+2015,IC_GEN_MGTL,Estonia,,Female,30.7
+2016,IC_GEN_MGTL,Estonia,,Female,36.2
+2017,IC_GEN_MGTL,Estonia,,Female,38.5
+2018,IC_GEN_MGTL,Estonia,,Female,36.1
+2019,IC_GEN_MGTL,Estonia,,Female,37.2
+2020,IC_GEN_MGTL,Estonia,,Female,37.4
+2021,IC_GEN_MGTL,Estonia,,Female,41.2
+2000,IC_GEN_MGTL,Finland,,Female,26.6
+2001,IC_GEN_MGTL,Finland,,Female,27.9
+2002,IC_GEN_MGTL,Finland,,Female,28.4
+2003,IC_GEN_MGTL,Finland,,Female,28.6
+2004,IC_GEN_MGTL,Finland,,Female,28.2
+2005,IC_GEN_MGTL,Finland,,Female,29.9
+2006,IC_GEN_MGTL,Finland,,Female,29.6
+2007,IC_GEN_MGTL,Finland,,Female,28.6
+2008,IC_GEN_MGTL,Finland,,Female,29.5
+2009,IC_GEN_MGTL,Finland,,Female,29.7
+2010,IC_GEN_MGTL,Finland,,Female,30.5
+2011,IC_GEN_MGTL,Finland,,Female,32.0
+2012,IC_GEN_MGTL,Finland,,Female,29.7
+2013,IC_GEN_MGTL,Finland,,Female,29.6
+2014,IC_GEN_MGTL,Finland,,Female,33.7
+2015,IC_GEN_MGTL,Finland,,Female,33.3
+2016,IC_GEN_MGTL,Finland,,Female,34.1
+2017,IC_GEN_MGTL,Finland,,Female,31.3
+2018,IC_GEN_MGTL,Finland,,Female,31.8
+2019,IC_GEN_MGTL,Finland,,Female,36.9
+2020,IC_GEN_MGTL,Finland,,Female,37.5
+2021,IC_GEN_MGTL,Finland,,Female,36.5
+2000,IC_GEN_MGTL,France,,Female,35.0
+2001,IC_GEN_MGTL,France,,Female,35.5
+2002,IC_GEN_MGTL,France,,Female,36.4
+2003,IC_GEN_MGTL,France,,Female,35.4
+2004,IC_GEN_MGTL,France,,Female,35.9
+2005,IC_GEN_MGTL,France,,Female,37.6
+2006,IC_GEN_MGTL,France,,Female,37.9
+2007,IC_GEN_MGTL,France,,Female,37.8
+2008,IC_GEN_MGTL,France,,Female,38.5
+2009,IC_GEN_MGTL,France,,Female,38.1
+2010,IC_GEN_MGTL,France,,Female,38.5
+2011,IC_GEN_MGTL,France,,Female,39.3
+2012,IC_GEN_MGTL,France,,Female,39.3
+2013,IC_GEN_MGTL,France,,Female,36.0
+2014,IC_GEN_MGTL,France,,Female,32.7
+2015,IC_GEN_MGTL,France,,Female,31.7
+2016,IC_GEN_MGTL,France,,Female,32.9
+2017,IC_GEN_MGTL,France,,Female,33.4
+2018,IC_GEN_MGTL,France,,Female,34.4
+2019,IC_GEN_MGTL,France,,Female,34.7
+2020,IC_GEN_MGTL,France,,Female,35.5
+2021,IC_GEN_MGTL,France,,Female,37.8
+2000,IC_GEN_MGTL,Georgia,,Female,19.0
+2001,IC_GEN_MGTL,Georgia,,Female,23.4
+2002,IC_GEN_MGTL,Georgia,,Female,27.5
+2003,IC_GEN_MGTL,Georgia,,Female,28.4
+2004,IC_GEN_MGTL,Georgia,,Female,25.6
+2005,IC_GEN_MGTL,Georgia,,Female,26.3
+2006,IC_GEN_MGTL,Georgia,,Female,32.5
+2007,IC_GEN_MGTL,Georgia,,Female,34.0
+2009,IC_GEN_MGTL,Georgia,,Female,30.0
+2010,IC_GEN_MGTL,Georgia,,Female,29.8
+2011,IC_GEN_MGTL,Georgia,,Female,33.5
+2012,IC_GEN_MGTL,Georgia,,Female,31.0
+2013,IC_GEN_MGTL,Georgia,,Female,32.8
+2014,IC_GEN_MGTL,Georgia,,Female,33.8
+2015,IC_GEN_MGTL,Georgia,,Female,38.8
+2016,IC_GEN_MGTL,Georgia,,Female,44.2
+2017,IC_GEN_MGTL,Georgia,,Female,32.0
+2018,IC_GEN_MGTL,Georgia,,Female,35.7
+2019,IC_GEN_MGTL,Georgia,,Female,36.7
+2020,IC_GEN_MGTL,Georgia,,Female,36.1
+2000,IC_GEN_MGTL,Germany,,Female,27.1
+2001,IC_GEN_MGTL,Germany,,Female,26.9
+2002,IC_GEN_MGTL,Germany,,Female,27.3
+2003,IC_GEN_MGTL,Germany,,Female,28.0
+2004,IC_GEN_MGTL,Germany,,Female,27.7
+2005,IC_GEN_MGTL,Germany,,Female,28.2
+2006,IC_GEN_MGTL,Germany,,Female,28.5
+2007,IC_GEN_MGTL,Germany,,Female,28.7
+2008,IC_GEN_MGTL,Germany,,Female,29.2
+2009,IC_GEN_MGTL,Germany,,Female,29.7
+2010,IC_GEN_MGTL,Germany,,Female,29.9
+2011,IC_GEN_MGTL,Germany,,Female,30.3
+2012,IC_GEN_MGTL,Germany,,Female,28.6
+2013,IC_GEN_MGTL,Germany,,Female,28.9
+2014,IC_GEN_MGTL,Germany,,Female,29.0
+2015,IC_GEN_MGTL,Germany,,Female,29.3
+2016,IC_GEN_MGTL,Germany,,Female,29.3
+2017,IC_GEN_MGTL,Germany,,Female,29.2
+2018,IC_GEN_MGTL,Germany,,Female,29.4
+2019,IC_GEN_MGTL,Germany,,Female,29.4
+2020,IC_GEN_MGTL,Germany,,Female,28.9
+2021,IC_GEN_MGTL,Germany,,Female,29.2
+2000,IC_GEN_MGTL,Greece,,Female,25.0
+2001,IC_GEN_MGTL,Greece,,Female,24.8
+2002,IC_GEN_MGTL,Greece,,Female,25.3
+2003,IC_GEN_MGTL,Greece,,Female,26.4
+2004,IC_GEN_MGTL,Greece,,Female,25.8
+2005,IC_GEN_MGTL,Greece,,Female,26.4
+2006,IC_GEN_MGTL,Greece,,Female,26.7
+2007,IC_GEN_MGTL,Greece,,Female,28.0
+2008,IC_GEN_MGTL,Greece,,Female,28.3
+2009,IC_GEN_MGTL,Greece,,Female,29.8
+2010,IC_GEN_MGTL,Greece,,Female,29.9
+2011,IC_GEN_MGTL,Greece,,Female,23.3
+2012,IC_GEN_MGTL,Greece,,Female,25.5
+2013,IC_GEN_MGTL,Greece,,Female,28.3
+2014,IC_GEN_MGTL,Greece,,Female,28.1
+2015,IC_GEN_MGTL,Greece,,Female,25.2
+2016,IC_GEN_MGTL,Greece,,Female,24.9
+2017,IC_GEN_MGTL,Greece,,Female,29.5
+2018,IC_GEN_MGTL,Greece,,Female,27.2
+2019,IC_GEN_MGTL,Greece,,Female,28.4
+2020,IC_GEN_MGTL,Greece,,Female,29.3
+2021,IC_GEN_MGTL,Greece,,Female,29.6
+2000,IC_GEN_MGTL,Hungary,,Female,33.5
+2001,IC_GEN_MGTL,Hungary,,Female,35.4
+2002,IC_GEN_MGTL,Hungary,,Female,35.7
+2003,IC_GEN_MGTL,Hungary,,Female,34.2
+2004,IC_GEN_MGTL,Hungary,,Female,33.7
+2005,IC_GEN_MGTL,Hungary,,Female,34.8
+2006,IC_GEN_MGTL,Hungary,,Female,36.6
+2007,IC_GEN_MGTL,Hungary,,Female,35.4
+2008,IC_GEN_MGTL,Hungary,,Female,36.5
+2009,IC_GEN_MGTL,Hungary,,Female,36.2
+2010,IC_GEN_MGTL,Hungary,,Female,36.5
+2011,IC_GEN_MGTL,Hungary,,Female,40.4
+2012,IC_GEN_MGTL,Hungary,,Female,38.9
+2013,IC_GEN_MGTL,Hungary,,Female,40.8
+2014,IC_GEN_MGTL,Hungary,,Female,39.8
+2015,IC_GEN_MGTL,Hungary,,Female,40.5
+2016,IC_GEN_MGTL,Hungary,,Female,39.4
+2017,IC_GEN_MGTL,Hungary,,Female,39.4
+2018,IC_GEN_MGTL,Hungary,,Female,38.6
+2019,IC_GEN_MGTL,Hungary,,Female,38.9
+2020,IC_GEN_MGTL,Hungary,,Female,39.2
+2021,IC_GEN_MGTL,Hungary,,Female,36.6
+2000,IC_GEN_MGTL,Iceland,,Female,29.0
+2001,IC_GEN_MGTL,Iceland,,Female,28.9
+2002,IC_GEN_MGTL,Iceland,,Female,29.4
+2003,IC_GEN_MGTL,Iceland,,Female,37.0
+2004,IC_GEN_MGTL,Iceland,,Female,33.6
+2005,IC_GEN_MGTL,Iceland,,Female,27.4
+2006,IC_GEN_MGTL,Iceland,,Female,29.4
+2007,IC_GEN_MGTL,Iceland,,Female,29.7
+2008,IC_GEN_MGTL,Iceland,,Female,32.9
+2009,IC_GEN_MGTL,Iceland,,Female,33.6
+2010,IC_GEN_MGTL,Iceland,,Female,34.3
+2011,IC_GEN_MGTL,Iceland,,Female,39.8
+2012,IC_GEN_MGTL,Iceland,,Female,39.9
+2013,IC_GEN_MGTL,Iceland,,Female,37.6
+2014,IC_GEN_MGTL,Iceland,,Female,37.2
+2015,IC_GEN_MGTL,Iceland,,Female,38.2
+2016,IC_GEN_MGTL,Iceland,,Female,34.2
+2017,IC_GEN_MGTL,Iceland,,Female,32.4
+2018,IC_GEN_MGTL,Iceland,,Female,41.5
+2019,IC_GEN_MGTL,Iceland,,Female,41.9
+2020,IC_GEN_MGTL,Iceland,,Female,38.6
+2021,IC_GEN_MGTL,Iceland,,Female,37.6
+2000,IC_GEN_MGTL,India,,Female,14.0
+2005,IC_GEN_MGTL,India,,Female,15.2
+2010,IC_GEN_MGTL,India,,Female,12.1
+2012,IC_GEN_MGTL,India,,Female,12.8
+2018,IC_GEN_MGTL,India,,Female,13.5
+2019,IC_GEN_MGTL,India,,Female,16.4
+2020,IC_GEN_MGTL,India,,Female,16.3
+2000,IC_GEN_MGTL,Ireland,,Female,26.3
+2001,IC_GEN_MGTL,Ireland,,Female,27.5
+2002,IC_GEN_MGTL,Ireland,,Female,27.3
+2003,IC_GEN_MGTL,Ireland,,Female,28.7
+2004,IC_GEN_MGTL,Ireland,,Female,28.7
+2005,IC_GEN_MGTL,Ireland,,Female,30.3
+2006,IC_GEN_MGTL,Ireland,,Female,30.6
+2007,IC_GEN_MGTL,Ireland,,Female,38.6
+2008,IC_GEN_MGTL,Ireland,,Female,39.9
+2009,IC_GEN_MGTL,Ireland,,Female,39.5
+2010,IC_GEN_MGTL,Ireland,,Female,39.1
+2011,IC_GEN_MGTL,Ireland,,Female,33.8
+2012,IC_GEN_MGTL,Ireland,,Female,33.2
+2013,IC_GEN_MGTL,Ireland,,Female,33.3
+2014,IC_GEN_MGTL,Ireland,,Female,33.7
+2015,IC_GEN_MGTL,Ireland,,Female,34.6
+2016,IC_GEN_MGTL,Ireland,,Female,36.2
+2017,IC_GEN_MGTL,Ireland,,Female,36.2
+2018,IC_GEN_MGTL,Ireland,,Female,36.0
+2019,IC_GEN_MGTL,Ireland,,Female,35.3
+2020,IC_GEN_MGTL,Ireland,,Female,36.4
+2021,IC_GEN_MGTL,Ireland,,Female,38.0
+2000,IC_GEN_MGTL,Israel,,Female,27.2
+2001,IC_GEN_MGTL,Israel,,Female,27.1
+2002,IC_GEN_MGTL,Israel,,Female,26.9
+2003,IC_GEN_MGTL,Israel,,Female,29.6
+2004,IC_GEN_MGTL,Israel,,Female,28.7
+2005,IC_GEN_MGTL,Israel,,Female,27.6
+2006,IC_GEN_MGTL,Israel,,Female,30.1
+2007,IC_GEN_MGTL,Israel,,Female,29.7
+2008,IC_GEN_MGTL,Israel,,Female,32.1
+2009,IC_GEN_MGTL,Israel,,Female,31.2
+2010,IC_GEN_MGTL,Israel,,Female,34.8
+2011,IC_GEN_MGTL,Israel,,Female,35.5
+2012,IC_GEN_MGTL,Israel,,Female,32.1
+2013,IC_GEN_MGTL,Israel,,Female,32.7
+2014,IC_GEN_MGTL,Israel,,Female,32.9
+2015,IC_GEN_MGTL,Israel,,Female,32.3
+2016,IC_GEN_MGTL,Israel,,Female,34.2
+2017,IC_GEN_MGTL,Israel,,Female,34.6
+2018,IC_GEN_MGTL,Israel,,Female,33.9
+2019,IC_GEN_MGTL,Israel,,Female,30.4
+2020,IC_GEN_MGTL,Israel,,Female,28.0
+2021,IC_GEN_MGTL,Israel,,Female,29.1
+2000,IC_GEN_MGTL,Italy,,Female,14.3
+2001,IC_GEN_MGTL,Italy,,Female,18.8
+2002,IC_GEN_MGTL,Italy,,Female,20.2
+2003,IC_GEN_MGTL,Italy,,Female,20.8
+2004,IC_GEN_MGTL,Italy,,Female,33.3
+2005,IC_GEN_MGTL,Italy,,Female,32.5
+2006,IC_GEN_MGTL,Italy,,Female,33.0
+2007,IC_GEN_MGTL,Italy,,Female,33.7
+2008,IC_GEN_MGTL,Italy,,Female,33.4
+2009,IC_GEN_MGTL,Italy,,Female,33.8
+2010,IC_GEN_MGTL,Italy,,Female,32.8
+2011,IC_GEN_MGTL,Italy,,Female,25.1
+2012,IC_GEN_MGTL,Italy,,Female,26.0
+2013,IC_GEN_MGTL,Italy,,Female,27.0
+2014,IC_GEN_MGTL,Italy,,Female,26.6
+2015,IC_GEN_MGTL,Italy,,Female,26.6
+2016,IC_GEN_MGTL,Italy,,Female,27.7
+2017,IC_GEN_MGTL,Italy,,Female,27.5
+2018,IC_GEN_MGTL,Italy,,Female,27.0
+2019,IC_GEN_MGTL,Italy,,Female,27.8
+2020,IC_GEN_MGTL,Italy,,Female,27.3
+2021,IC_GEN_MGTL,Italy,,Female,28.6
+2000,IC_GEN_MGTL,Japan,,Female,9.4
+2001,IC_GEN_MGTL,Japan,,Female,9.2
+2002,IC_GEN_MGTL,Japan,,Female,9.7
+2003,IC_GEN_MGTL,Japan,,Female,9.5
+2004,IC_GEN_MGTL,Japan,,Female,9.5
+2005,IC_GEN_MGTL,Japan,,Female,9.9
+2006,IC_GEN_MGTL,Japan,,Female,10.2
+2007,IC_GEN_MGTL,Japan,,Female,9.5
+2008,IC_GEN_MGTL,Japan,,Female,9.5
+2009,IC_GEN_MGTL,Japan,,Female,10.2
+2010,IC_GEN_MGTL,Japan,,Female,10.4
+2011,IC_GEN_MGTL,Japan,,Female,11.7
+2012,IC_GEN_MGTL,Japan,,Female,11.3
+2013,IC_GEN_MGTL,Japan,,Female,10.9
+2014,IC_GEN_MGTL,Japan,,Female,11.4
+2015,IC_GEN_MGTL,Japan,,Female,12.1
+2016,IC_GEN_MGTL,Japan,,Female,13.3
+2017,IC_GEN_MGTL,Japan,,Female,12.8
+2018,IC_GEN_MGTL,Japan,,Female,14.4
+2019,IC_GEN_MGTL,Japan,,Female,14.7
+2020,IC_GEN_MGTL,Japan,,Female,13.3
+2021,IC_GEN_MGTL,Japan,,Female,13.2
+2022,IC_GEN_MGTL,Japan,,Female,12.9
+2001,IC_GEN_MGTL,Kazakhstan,,Female,33.0
+2002,IC_GEN_MGTL,Kazakhstan,,Female,33.8
+2003,IC_GEN_MGTL,Kazakhstan,,Female,34.2
+2004,IC_GEN_MGTL,Kazakhstan,,Female,38.0
+2005,IC_GEN_MGTL,Kazakhstan,,Female,35.6
+2006,IC_GEN_MGTL,Kazakhstan,,Female,35.8
+2007,IC_GEN_MGTL,Kazakhstan,,Female,36.8
+2008,IC_GEN_MGTL,Kazakhstan,,Female,38.4
+2009,IC_GEN_MGTL,Kazakhstan,,Female,38.8
+2010,IC_GEN_MGTL,Kazakhstan,,Female,37.2
+2011,IC_GEN_MGTL,Kazakhstan,,Female,38.5
+2012,IC_GEN_MGTL,Kazakhstan,,Female,39.8
+2013,IC_GEN_MGTL,Kazakhstan,,Female,38.3
+2015,IC_GEN_MGTL,Kazakhstan,,Female,37.1
+2017,IC_GEN_MGTL,Kazakhstan,,Female,37.0
+2020,IC_GEN_MGTL,Kazakhstan,,Female,41.1
+2000,IC_GEN_MGTL,Republic of Korea,,Female,5.0
+2001,IC_GEN_MGTL,Republic of Korea,,Female,6.0
+2002,IC_GEN_MGTL,Republic of Korea,,Female,5.6
+2003,IC_GEN_MGTL,Republic of Korea,,Female,6.0
+2004,IC_GEN_MGTL,Republic of Korea,,Female,7.1
+2005,IC_GEN_MGTL,Republic of Korea,,Female,7.9
+2006,IC_GEN_MGTL,Republic of Korea,,Female,8.7
+2007,IC_GEN_MGTL,Republic of Korea,,Female,8.9
+2008,IC_GEN_MGTL,Republic of Korea,,Female,9.5
+2009,IC_GEN_MGTL,Republic of Korea,,Female,8.6
+2010,IC_GEN_MGTL,Republic of Korea,,Female,9.4
+2011,IC_GEN_MGTL,Republic of Korea,,Female,10.1
+2012,IC_GEN_MGTL,Republic of Korea,,Female,11.1
+2013,IC_GEN_MGTL,Republic of Korea,,Female,11.4
+2014,IC_GEN_MGTL,Republic of Korea,,Female,11.1
+2015,IC_GEN_MGTL,Republic of Korea,,Female,10.5
+2016,IC_GEN_MGTL,Republic of Korea,,Female,9.8
+2017,IC_GEN_MGTL,Republic of Korea,,Female,12.3
+2018,IC_GEN_MGTL,Republic of Korea,,Female,14.5
+2019,IC_GEN_MGTL,Republic of Korea,,Female,15.4
+2020,IC_GEN_MGTL,Republic of Korea,,Female,15.7
+2021,IC_GEN_MGTL,Republic of Korea,,Female,16.3
+2022,IC_GEN_MGTL,Republic of Korea,,Female,14.6
+2002,IC_GEN_MGTL,Kyrgyzstan,,Female,27.7
+2003,IC_GEN_MGTL,Kyrgyzstan,,Female,25.8
+2004,IC_GEN_MGTL,Kyrgyzstan,,Female,25.2
+2005,IC_GEN_MGTL,Kyrgyzstan,,Female,30.1
+2006,IC_GEN_MGTL,Kyrgyzstan,,Female,35.2
+2009,IC_GEN_MGTL,Kyrgyzstan,,Female,30.6
+2010,IC_GEN_MGTL,Kyrgyzstan,,Female,32.4
+2011,IC_GEN_MGTL,Kyrgyzstan,,Female,29.1
+2012,IC_GEN_MGTL,Kyrgyzstan,,Female,32.2
+2013,IC_GEN_MGTL,Kyrgyzstan,,Female,27.5
+2014,IC_GEN_MGTL,Kyrgyzstan,,Female,33.4
+2015,IC_GEN_MGTL,Kyrgyzstan,,Female,36.2
+2016,IC_GEN_MGTL,Kyrgyzstan,,Female,35.2
+2017,IC_GEN_MGTL,Kyrgyzstan,,Female,34.2
+2018,IC_GEN_MGTL,Kyrgyzstan,,Female,37.8
+2019,IC_GEN_MGTL,Kyrgyzstan,,Female,40.9
+2020,IC_GEN_MGTL,Kyrgyzstan,,Female,47.4
+2021,IC_GEN_MGTL,Kyrgyzstan,,Female,42.9
+2000,IC_GEN_MGTL,Latvia,,Female,37.1
+2001,IC_GEN_MGTL,Latvia,,Female,38.4
+2002,IC_GEN_MGTL,Latvia,,Female,40.3
+2003,IC_GEN_MGTL,Latvia,,Female,39.3
+2004,IC_GEN_MGTL,Latvia,,Female,43.6
+2005,IC_GEN_MGTL,Latvia,,Female,43.3
+2006,IC_GEN_MGTL,Latvia,,Female,40.2
+2007,IC_GEN_MGTL,Latvia,,Female,42.5
+2008,IC_GEN_MGTL,Latvia,,Female,42.5
+2009,IC_GEN_MGTL,Latvia,,Female,44.3
+2010,IC_GEN_MGTL,Latvia,,Female,42.1
+2011,IC_GEN_MGTL,Latvia,,Female,45.5
+2012,IC_GEN_MGTL,Latvia,,Female,45.8
+2013,IC_GEN_MGTL,Latvia,,Female,43.8
+2014,IC_GEN_MGTL,Latvia,,Female,44.1
+2015,IC_GEN_MGTL,Latvia,,Female,44.3
+2016,IC_GEN_MGTL,Latvia,,Female,47.3
+2017,IC_GEN_MGTL,Latvia,,Female,46.3
+2018,IC_GEN_MGTL,Latvia,,Female,44.9
+2019,IC_GEN_MGTL,Latvia,,Female,45.8
+2020,IC_GEN_MGTL,Latvia,,Female,46.9
+2021,IC_GEN_MGTL,Latvia,,Female,45.9
+2000,IC_GEN_MGTL,Lithuania,,Female,42.7
+2001,IC_GEN_MGTL,Lithuania,,Female,46.4
+2002,IC_GEN_MGTL,Lithuania,,Female,47.0
+2003,IC_GEN_MGTL,Lithuania,,Female,40.8
+2004,IC_GEN_MGTL,Lithuania,,Female,45.4
+2005,IC_GEN_MGTL,Lithuania,,Female,43.2
+2006,IC_GEN_MGTL,Lithuania,,Female,40.5
+2007,IC_GEN_MGTL,Lithuania,,Female,38.1
+2008,IC_GEN_MGTL,Lithuania,,Female,40.2
+2009,IC_GEN_MGTL,Lithuania,,Female,39.2
+2010,IC_GEN_MGTL,Lithuania,,Female,41.1
+2011,IC_GEN_MGTL,Lithuania,,Female,39.1
+2012,IC_GEN_MGTL,Lithuania,,Female,38.9
+2013,IC_GEN_MGTL,Lithuania,,Female,39.6
+2014,IC_GEN_MGTL,Lithuania,,Female,38.6
+2015,IC_GEN_MGTL,Lithuania,,Female,39.6
+2016,IC_GEN_MGTL,Lithuania,,Female,39.4
+2017,IC_GEN_MGTL,Lithuania,,Female,39.3
+2018,IC_GEN_MGTL,Lithuania,,Female,39.2
+2019,IC_GEN_MGTL,Lithuania,,Female,39.2
+2020,IC_GEN_MGTL,Lithuania,,Female,37.9
+2021,IC_GEN_MGTL,Lithuania,,Female,37.0
+2000,IC_GEN_MGTL,Luxembourg,,Female,26.9
+2001,IC_GEN_MGTL,Luxembourg,,Female,30.2
+2002,IC_GEN_MGTL,Luxembourg,,Female,22.1
+2003,IC_GEN_MGTL,Luxembourg,,Female,28.8
+2004,IC_GEN_MGTL,Luxembourg,,Female,26.7
+2005,IC_GEN_MGTL,Luxembourg,,Female,23.8
+2006,IC_GEN_MGTL,Luxembourg,,Female,26.8
+2007,IC_GEN_MGTL,Luxembourg,,Female,21.2
+2008,IC_GEN_MGTL,Luxembourg,,Female,27.5
+2009,IC_GEN_MGTL,Luxembourg,,Female,19.1
+2010,IC_GEN_MGTL,Luxembourg,,Female,24.7
+2011,IC_GEN_MGTL,Luxembourg,,Female,24.0
+2012,IC_GEN_MGTL,Luxembourg,,Female,18.0
+2013,IC_GEN_MGTL,Luxembourg,,Female,14.9
+2014,IC_GEN_MGTL,Luxembourg,,Female,22.5
+2015,IC_GEN_MGTL,Luxembourg,,Female,18.2
+2016,IC_GEN_MGTL,Luxembourg,,Female,17.7
+2017,IC_GEN_MGTL,Luxembourg,,Female,18.8
+2018,IC_GEN_MGTL,Luxembourg,,Female,24.5
+2019,IC_GEN_MGTL,Luxembourg,,Female,25.8
+2020,IC_GEN_MGTL,Luxembourg,,Female,26.3
+2021,IC_GEN_MGTL,Luxembourg,,Female,22.0
+2000,IC_GEN_MGTL,Malta,,Female,17.6
+2001,IC_GEN_MGTL,Malta,,Female,15.3
+2002,IC_GEN_MGTL,Malta,,Female,17.7
+2003,IC_GEN_MGTL,Malta,,Female,19.1
+2004,IC_GEN_MGTL,Malta,,Female,13.1
+2005,IC_GEN_MGTL,Malta,,Female,18.0
+2006,IC_GEN_MGTL,Malta,,Female,18.3
+2007,IC_GEN_MGTL,Malta,,Female,18.0
+2008,IC_GEN_MGTL,Malta,,Female,17.1
+2011,IC_GEN_MGTL,Malta,,Female,24.2
+2012,IC_GEN_MGTL,Malta,,Female,27.1
+2013,IC_GEN_MGTL,Malta,,Female,28.4
+2014,IC_GEN_MGTL,Malta,,Female,26.3
+2015,IC_GEN_MGTL,Malta,,Female,26.7
+2016,IC_GEN_MGTL,Malta,,Female,27.6
+2017,IC_GEN_MGTL,Malta,,Female,28.7
+2018,IC_GEN_MGTL,Malta,,Female,28.9
+2019,IC_GEN_MGTL,Malta,,Female,29.9
+2020,IC_GEN_MGTL,Malta,,Female,28.2
+2021,IC_GEN_MGTL,Malta,,Female,28.9
+2000,IC_GEN_MGTL,Mexico,,Female,23.6
+2001,IC_GEN_MGTL,Mexico,,Female,25.2
+2002,IC_GEN_MGTL,Mexico,,Female,23.2
+2003,IC_GEN_MGTL,Mexico,,Female,23.9
+2004,IC_GEN_MGTL,Mexico,,Female,25.3
+2013,IC_GEN_MGTL,Mexico,,Female,35.0
+2014,IC_GEN_MGTL,Mexico,,Female,35.4
+2015,IC_GEN_MGTL,Mexico,,Female,36.0
+2016,IC_GEN_MGTL,Mexico,,Female,36.1
+2017,IC_GEN_MGTL,Mexico,,Female,36.7
+2018,IC_GEN_MGTL,Mexico,,Female,36.0
+2019,IC_GEN_MGTL,Mexico,,Female,36.0
+2020,IC_GEN_MGTL,Mexico,,Female,38.4
+2021,IC_GEN_MGTL,Mexico,,Female,38.5
+2000,IC_GEN_MGTL,Moldova,,Female,33.2
+2001,IC_GEN_MGTL,Moldova,,Female,37.5
+2002,IC_GEN_MGTL,Moldova,,Female,40.2
+2003,IC_GEN_MGTL,Moldova,,Female,39.4
+2004,IC_GEN_MGTL,Moldova,,Female,39.0
+2005,IC_GEN_MGTL,Moldova,,Female,38.8
+2006,IC_GEN_MGTL,Moldova,,Female,38.9
+2007,IC_GEN_MGTL,Moldova,,Female,40.2
+2008,IC_GEN_MGTL,Moldova,,Female,37.9
+2009,IC_GEN_MGTL,Moldova,,Female,38.7
+2010,IC_GEN_MGTL,Moldova,,Female,36.4
+2011,IC_GEN_MGTL,Moldova,,Female,39.4
+2012,IC_GEN_MGTL,Moldova,,Female,44.1
+2013,IC_GEN_MGTL,Moldova,,Female,39.2
+2014,IC_GEN_MGTL,Moldova,,Female,42.6
+2015,IC_GEN_MGTL,Moldova,,Female,48.5
+2016,IC_GEN_MGTL,Moldova,,Female,46.6
+2017,IC_GEN_MGTL,Moldova,,Female,41.5
+2018,IC_GEN_MGTL,Moldova,,Female,40.3
+2019,IC_GEN_MGTL,Moldova,,Female,45.7
+2020,IC_GEN_MGTL,Moldova,,Female,42.2
+2021,IC_GEN_MGTL,Moldova,,Female,44.6
+2003,IC_GEN_MGTL,Montenegro,,Female,26.5
+2005,IC_GEN_MGTL,Montenegro,,Female,19.7
+2007,IC_GEN_MGTL,Montenegro,,Female,31.4
+2008,IC_GEN_MGTL,Montenegro,,Female,23.4
+2009,IC_GEN_MGTL,Montenegro,,Female,24.5
+2010,IC_GEN_MGTL,Montenegro,,Female,30.2
+2011,IC_GEN_MGTL,Montenegro,,Female,30.5
+2012,IC_GEN_MGTL,Montenegro,,Female,26.8
+2013,IC_GEN_MGTL,Montenegro,,Female,25.4
+2014,IC_GEN_MGTL,Montenegro,,Female,26.7
+2015,IC_GEN_MGTL,Montenegro,,Female,22.3
+2016,IC_GEN_MGTL,Montenegro,,Female,29.4
+2017,IC_GEN_MGTL,Montenegro,,Female,22.1
+2018,IC_GEN_MGTL,Montenegro,,Female,28.8
+2019,IC_GEN_MGTL,Montenegro,,Female,35.8
+2020,IC_GEN_MGTL,Montenegro,,Female,32.1
+2000,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.3
+2001,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.2
+2002,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.4
+2003,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.7
+2004,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.4
+2005,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.0
+2006,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.7
+2007,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,27.4
+2008,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,27.3
+2009,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,28.2
+2010,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,28.4
+2011,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,29.3
+2012,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,28.8
+2013,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,24.6
+2014,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.5
+2015,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.0
+2016,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.4
+2017,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.6
+2018,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,25.7
+2019,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,27.1
+2020,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.2
+2021,IC_GEN_MGTL,Netherlands (Kingdom of the),,Female,26.0
+2000,IC_GEN_MGTL,New Zealand,,Female,38.2
+2001,IC_GEN_MGTL,New Zealand,,Female,38.6
+2002,IC_GEN_MGTL,New Zealand,,Female,38.6
+2003,IC_GEN_MGTL,New Zealand,,Female,36.4
+2004,IC_GEN_MGTL,New Zealand,,Female,36.3
+2005,IC_GEN_MGTL,New Zealand,,Female,36.5
+2006,IC_GEN_MGTL,New Zealand,,Female,39.9
+2007,IC_GEN_MGTL,New Zealand,,Female,40.0
+2008,IC_GEN_MGTL,New Zealand,,Female,40.0
+2000,IC_GEN_MGTL,Norway,,Female,25.0
+2001,IC_GEN_MGTL,Norway,,Female,25.2
+2002,IC_GEN_MGTL,Norway,,Female,27.5
+2003,IC_GEN_MGTL,Norway,,Female,28.4
+2004,IC_GEN_MGTL,Norway,,Female,29.2
+2005,IC_GEN_MGTL,Norway,,Female,30.4
+2006,IC_GEN_MGTL,Norway,,Female,33.2
+2007,IC_GEN_MGTL,Norway,,Female,31.6
+2008,IC_GEN_MGTL,Norway,,Female,31.5
+2009,IC_GEN_MGTL,Norway,,Female,34.1
+2010,IC_GEN_MGTL,Norway,,Female,34.4
+2011,IC_GEN_MGTL,Norway,,Female,31.4
+2012,IC_GEN_MGTL,Norway,,Female,32.2
+2013,IC_GEN_MGTL,Norway,,Female,32.9
+2014,IC_GEN_MGTL,Norway,,Female,35.5
+2015,IC_GEN_MGTL,Norway,,Female,36.0
+2016,IC_GEN_MGTL,Norway,,Female,37.9
+2017,IC_GEN_MGTL,Norway,,Female,38.3
+2018,IC_GEN_MGTL,Norway,,Female,35.6
+2019,IC_GEN_MGTL,Norway,,Female,34.5
+2020,IC_GEN_MGTL,Norway,,Female,34.1
+2021,IC_GEN_MGTL,Norway,,Female,33.5
+2000,IC_GEN_MGTL,Poland,,Female,32.5
+2001,IC_GEN_MGTL,Poland,,Female,29.8
+2002,IC_GEN_MGTL,Poland,,Female,31.1
+2003,IC_GEN_MGTL,Poland,,Female,33.3
+2004,IC_GEN_MGTL,Poland,,Female,32.8
+2005,IC_GEN_MGTL,Poland,,Female,32.8
+2006,IC_GEN_MGTL,Poland,,Female,35.4
+2007,IC_GEN_MGTL,Poland,,Female,36.2
+2008,IC_GEN_MGTL,Poland,,Female,36.1
+2009,IC_GEN_MGTL,Poland,,Female,35.5
+2010,IC_GEN_MGTL,Poland,,Female,35.6
+2011,IC_GEN_MGTL,Poland,,Female,38.0
+2012,IC_GEN_MGTL,Poland,,Female,37.8
+2013,IC_GEN_MGTL,Poland,,Female,37.8
+2014,IC_GEN_MGTL,Poland,,Female,38.8
+2015,IC_GEN_MGTL,Poland,,Female,40.2
+2016,IC_GEN_MGTL,Poland,,Female,41.2
+2017,IC_GEN_MGTL,Poland,,Female,41.3
+2018,IC_GEN_MGTL,Poland,,Female,42.5
+2019,IC_GEN_MGTL,Poland,,Female,43.1
+2020,IC_GEN_MGTL,Poland,,Female,43.3
+2021,IC_GEN_MGTL,Poland,,Female,43.0
+2000,IC_GEN_MGTL,Portugal,,Female,31.1
+2001,IC_GEN_MGTL,Portugal,,Female,30.8
+2002,IC_GEN_MGTL,Portugal,,Female,29.5
+2003,IC_GEN_MGTL,Portugal,,Female,32.2
+2004,IC_GEN_MGTL,Portugal,,Female,33.5
+2005,IC_GEN_MGTL,Portugal,,Female,34.1
+2006,IC_GEN_MGTL,Portugal,,Female,33.0
+2007,IC_GEN_MGTL,Portugal,,Female,31.8
+2008,IC_GEN_MGTL,Portugal,,Female,31.5
+2009,IC_GEN_MGTL,Portugal,,Female,31.8
+2010,IC_GEN_MGTL,Portugal,,Female,32.3
+2011,IC_GEN_MGTL,Portugal,,Female,33.4
+2012,IC_GEN_MGTL,Portugal,,Female,35.2
+2013,IC_GEN_MGTL,Portugal,,Female,33.8
+2014,IC_GEN_MGTL,Portugal,,Female,35.1
+2015,IC_GEN_MGTL,Portugal,,Female,32.6
+2016,IC_GEN_MGTL,Portugal,,Female,35.9
+2017,IC_GEN_MGTL,Portugal,,Female,34.3
+2018,IC_GEN_MGTL,Portugal,,Female,34.0
+2019,IC_GEN_MGTL,Portugal,,Female,37.2
+2020,IC_GEN_MGTL,Portugal,,Female,35.7
+2021,IC_GEN_MGTL,Portugal,,Female,38.0
+2000,IC_GEN_MGTL,Romania,,Female,26.8
+2001,IC_GEN_MGTL,Romania,,Female,28.5
+2002,IC_GEN_MGTL,Romania,,Female,33.3
+2003,IC_GEN_MGTL,Romania,,Female,33.2
+2004,IC_GEN_MGTL,Romania,,Female,28.9
+2005,IC_GEN_MGTL,Romania,,Female,29.2
+2006,IC_GEN_MGTL,Romania,,Female,30.2
+2007,IC_GEN_MGTL,Romania,,Female,28.2
+2008,IC_GEN_MGTL,Romania,,Female,29.5
+2009,IC_GEN_MGTL,Romania,,Female,31.3
+2010,IC_GEN_MGTL,Romania,,Female,31.1
+2011,IC_GEN_MGTL,Romania,,Female,30.8
+2012,IC_GEN_MGTL,Romania,,Female,31.1
+2013,IC_GEN_MGTL,Romania,,Female,31.3
+2014,IC_GEN_MGTL,Romania,,Female,31.7
+2015,IC_GEN_MGTL,Romania,,Female,31.5
+2016,IC_GEN_MGTL,Romania,,Female,33.6
+2017,IC_GEN_MGTL,Romania,,Female,30.4
+2018,IC_GEN_MGTL,Romania,,Female,31.6
+2019,IC_GEN_MGTL,Romania,,Female,33.6
+2020,IC_GEN_MGTL,Romania,,Female,35.0
+2021,IC_GEN_MGTL,Romania,,Female,35.8
+2004,IC_GEN_MGTL,Serbia,,Female,25.9
+2005,IC_GEN_MGTL,Serbia,,Female,24.8
+2006,IC_GEN_MGTL,Serbia,,Female,24.9
+2007,IC_GEN_MGTL,Serbia,,Female,35.4
+2008,IC_GEN_MGTL,Serbia,,Female,36.2
+2009,IC_GEN_MGTL,Serbia,,Female,35.0
+2010,IC_GEN_MGTL,Serbia,,Female,33.3
+2011,IC_GEN_MGTL,Serbia,,Female,32.8
+2012,IC_GEN_MGTL,Serbia,,Female,29.1
+2013,IC_GEN_MGTL,Serbia,,Female,31.5
+2014,IC_GEN_MGTL,Serbia,,Female,29.8
+2015,IC_GEN_MGTL,Serbia,,Female,28.6
+2016,IC_GEN_MGTL,Serbia,,Female,29.4
+2017,IC_GEN_MGTL,Serbia,,Female,30.7
+2018,IC_GEN_MGTL,Serbia,,Female,31.3
+2019,IC_GEN_MGTL,Serbia,,Female,32.7
+2020,IC_GEN_MGTL,Serbia,,Female,31.5
+2021,IC_GEN_MGTL,Serbia,,Female,33.0
+2000,IC_GEN_MGTL,Slovakia,,Female,31.2
+2001,IC_GEN_MGTL,Slovakia,,Female,31.2
+2002,IC_GEN_MGTL,Slovakia,,Female,31.2
+2003,IC_GEN_MGTL,Slovakia,,Female,34.6
+2004,IC_GEN_MGTL,Slovakia,,Female,32.4
+2005,IC_GEN_MGTL,Slovakia,,Female,30.8
+2006,IC_GEN_MGTL,Slovakia,,Female,27.9
+2007,IC_GEN_MGTL,Slovakia,,Female,30.9
+2008,IC_GEN_MGTL,Slovakia,,Female,29.7
+2009,IC_GEN_MGTL,Slovakia,,Female,32.2
+2010,IC_GEN_MGTL,Slovakia,,Female,34.2
+2011,IC_GEN_MGTL,Slovakia,,Female,31.4
+2012,IC_GEN_MGTL,Slovakia,,Female,33.1
+2013,IC_GEN_MGTL,Slovakia,,Female,32.3
+2014,IC_GEN_MGTL,Slovakia,,Female,31.4
+2015,IC_GEN_MGTL,Slovakia,,Female,31.4
+2016,IC_GEN_MGTL,Slovakia,,Female,35.1
+2017,IC_GEN_MGTL,Slovakia,,Female,32.5
+2018,IC_GEN_MGTL,Slovakia,,Female,32.1
+2019,IC_GEN_MGTL,Slovakia,,Female,33.7
+2020,IC_GEN_MGTL,Slovakia,,Female,35.5
+2021,IC_GEN_MGTL,Slovakia,,Female,38.0
+2000,IC_GEN_MGTL,Viet Nam,,Female,16.8
+2001,IC_GEN_MGTL,Viet Nam,,Female,19.1
+2002,IC_GEN_MGTL,Viet Nam,,Female,19.3
+2003,IC_GEN_MGTL,Viet Nam,,Female,19.9
+2004,IC_GEN_MGTL,Viet Nam,,Female,22.2
+2007,IC_GEN_MGTL,Viet Nam,,Female,20.5
+2009,IC_GEN_MGTL,Viet Nam,,Female,20.8
+2010,IC_GEN_MGTL,Viet Nam,,Female,23.4
+2011,IC_GEN_MGTL,Viet Nam,,Female,23.3
+2012,IC_GEN_MGTL,Viet Nam,,Female,23.9
+2013,IC_GEN_MGTL,Viet Nam,,Female,24.4
+2014,IC_GEN_MGTL,Viet Nam,,Female,22.9
+2015,IC_GEN_MGTL,Viet Nam,,Female,25.8
+2016,IC_GEN_MGTL,Viet Nam,,Female,26.1
+2018,IC_GEN_MGTL,Viet Nam,,Female,27.3
+2019,IC_GEN_MGTL,Viet Nam,,Female,24.7
+2020,IC_GEN_MGTL,Viet Nam,,Female,26.3
+2021,IC_GEN_MGTL,Viet Nam,,Female,24.9
+2000,IC_GEN_MGTL,Slovenia,,Female,29.6
+2001,IC_GEN_MGTL,Slovenia,,Female,31.8
+2002,IC_GEN_MGTL,Slovenia,,Female,31.2
+2003,IC_GEN_MGTL,Slovenia,,Female,33.2
+2004,IC_GEN_MGTL,Slovenia,,Female,33.3
+2005,IC_GEN_MGTL,Slovenia,,Female,34.2
+2006,IC_GEN_MGTL,Slovenia,,Female,33.1
+2007,IC_GEN_MGTL,Slovenia,,Female,31.9
+2008,IC_GEN_MGTL,Slovenia,,Female,34.8
+2009,IC_GEN_MGTL,Slovenia,,Female,35.5
+2010,IC_GEN_MGTL,Slovenia,,Female,34.8
+2011,IC_GEN_MGTL,Slovenia,,Female,38.4
+2012,IC_GEN_MGTL,Slovenia,,Female,39.0
+2013,IC_GEN_MGTL,Slovenia,,Female,37.0
+2014,IC_GEN_MGTL,Slovenia,,Female,37.6
+2015,IC_GEN_MGTL,Slovenia,,Female,37.4
+2016,IC_GEN_MGTL,Slovenia,,Female,40.8
+2017,IC_GEN_MGTL,Slovenia,,Female,41.2
+2018,IC_GEN_MGTL,Slovenia,,Female,38.6
+2019,IC_GEN_MGTL,Slovenia,,Female,40.1
+2020,IC_GEN_MGTL,Slovenia,,Female,40.1
+2021,IC_GEN_MGTL,Slovenia,,Female,34.0
+2000,IC_GEN_MGTL,Spain,,Female,31.5
+2001,IC_GEN_MGTL,Spain,,Female,32.3
+2002,IC_GEN_MGTL,Spain,,Female,31.6
+2003,IC_GEN_MGTL,Spain,,Female,29.9
+2004,IC_GEN_MGTL,Spain,,Female,31.6
+2005,IC_GEN_MGTL,Spain,,Female,32.0
+2006,IC_GEN_MGTL,Spain,,Female,31.9
+2007,IC_GEN_MGTL,Spain,,Female,32.3
+2008,IC_GEN_MGTL,Spain,,Female,32.5
+2009,IC_GEN_MGTL,Spain,,Female,33.2
+2010,IC_GEN_MGTL,Spain,,Female,34.3
+2011,IC_GEN_MGTL,Spain,,Female,30.0
+2012,IC_GEN_MGTL,Spain,,Female,30.2
+2013,IC_GEN_MGTL,Spain,,Female,30.8
+2014,IC_GEN_MGTL,Spain,,Female,30.9
+2015,IC_GEN_MGTL,Spain,,Female,31.4
+2016,IC_GEN_MGTL,Spain,,Female,31.2
+2017,IC_GEN_MGTL,Spain,,Female,30.6
+2018,IC_GEN_MGTL,Spain,,Female,32.1
+2019,IC_GEN_MGTL,Spain,,Female,33.2
+2020,IC_GEN_MGTL,Spain,,Female,35.0
+2021,IC_GEN_MGTL,Spain,,Female,33.3
+2000,IC_GEN_MGTL,Sweden,,Female,30.6
+2001,IC_GEN_MGTL,Sweden,,Female,30.6
+2002,IC_GEN_MGTL,Sweden,,Female,30.7
+2003,IC_GEN_MGTL,Sweden,,Female,30.3
+2004,IC_GEN_MGTL,Sweden,,Female,30.3
+2005,IC_GEN_MGTL,Sweden,,Female,31.9
+2006,IC_GEN_MGTL,Sweden,,Female,32.1
+2007,IC_GEN_MGTL,Sweden,,Female,31.6
+2008,IC_GEN_MGTL,Sweden,,Female,32.1
+2009,IC_GEN_MGTL,Sweden,,Female,32.5
+2010,IC_GEN_MGTL,Sweden,,Female,31.4
+2011,IC_GEN_MGTL,Sweden,,Female,34.5
+2012,IC_GEN_MGTL,Sweden,,Female,35.5
+2013,IC_GEN_MGTL,Sweden,,Female,35.4
+2014,IC_GEN_MGTL,Sweden,,Female,37.1
+2015,IC_GEN_MGTL,Sweden,,Female,39.5
+2016,IC_GEN_MGTL,Sweden,,Female,39.3
+2017,IC_GEN_MGTL,Sweden,,Female,38.9
+2018,IC_GEN_MGTL,Sweden,,Female,38.1
+2019,IC_GEN_MGTL,Sweden,,Female,40.3
+2020,IC_GEN_MGTL,Sweden,,Female,42.3
+2021,IC_GEN_MGTL,Sweden,,Female,43.0
+2000,IC_GEN_MGTL,Switzerland,,Female,25.4
+2001,IC_GEN_MGTL,Switzerland,,Female,24.4
+2002,IC_GEN_MGTL,Switzerland,,Female,26.4
+2003,IC_GEN_MGTL,Switzerland,,Female,26.7
+2004,IC_GEN_MGTL,Switzerland,,Female,26.5
+2005,IC_GEN_MGTL,Switzerland,,Female,26.9
+2006,IC_GEN_MGTL,Switzerland,,Female,29.7
+2007,IC_GEN_MGTL,Switzerland,,Female,29.2
+2008,IC_GEN_MGTL,Switzerland,,Female,27.8
+2009,IC_GEN_MGTL,Switzerland,,Female,30.3
+2010,IC_GEN_MGTL,Switzerland,,Female,30.5
+2011,IC_GEN_MGTL,Switzerland,,Female,30.5
+2012,IC_GEN_MGTL,Switzerland,,Female,30.5
+2013,IC_GEN_MGTL,Switzerland,,Female,29.5
+2014,IC_GEN_MGTL,Switzerland,,Female,31.3
+2015,IC_GEN_MGTL,Switzerland,,Female,33.1
+2016,IC_GEN_MGTL,Switzerland,,Female,33.0
+2017,IC_GEN_MGTL,Switzerland,,Female,30.8
+2018,IC_GEN_MGTL,Switzerland,,Female,32.1
+2019,IC_GEN_MGTL,Switzerland,,Female,33.5
+2020,IC_GEN_MGTL,Switzerland,,Female,33.1
+2021,IC_GEN_MGTL,Switzerland,,Female,31.5
+2003,IC_GEN_MGTL,Tajikistan,,Female,15.6
+2007,IC_GEN_MGTL,Tajikistan,,Female,13.9
+2009,IC_GEN_MGTL,Tajikistan,,Female,16.1
+2000,IC_GEN_MGTL,United Arab Emirates,,Female,7.8
+2005,IC_GEN_MGTL,United Arab Emirates,,Female,10.2
+2008,IC_GEN_MGTL,United Arab Emirates,,Female,10.0
+2016,IC_GEN_MGTL,United Arab Emirates,,Female,14.6
+2017,IC_GEN_MGTL,United Arab Emirates,,Female,12.5
+2018,IC_GEN_MGTL,United Arab Emirates,,Female,15.8
+2019,IC_GEN_MGTL,United Arab Emirates,,Female,21.5
+2020,IC_GEN_MGTL,United Arab Emirates,,Female,17.7
+2021,IC_GEN_MGTL,United Arab Emirates,,Female,23.1
+2002,IC_GEN_MGTL,Türkiye,,Female,6.8
+2003,IC_GEN_MGTL,Türkiye,,Female,6.2
+2004,IC_GEN_MGTL,Türkiye,,Female,7.0
+2005,IC_GEN_MGTL,Türkiye,,Female,7.3
+2006,IC_GEN_MGTL,Türkiye,,Female,8.2
+2007,IC_GEN_MGTL,Türkiye,,Female,8.6
+2008,IC_GEN_MGTL,Türkiye,,Female,9.8
+2009,IC_GEN_MGTL,Türkiye,,Female,10.2
+2010,IC_GEN_MGTL,Türkiye,,Female,10.0
+2011,IC_GEN_MGTL,Türkiye,,Female,11.0
+2012,IC_GEN_MGTL,Türkiye,,Female,12.2
+2013,IC_GEN_MGTL,Türkiye,,Female,14.4
+2014,IC_GEN_MGTL,Türkiye,,Female,13.4
+2015,IC_GEN_MGTL,Türkiye,,Female,13.2
+2016,IC_GEN_MGTL,Türkiye,,Female,15.1
+2017,IC_GEN_MGTL,Türkiye,,Female,15.0
+2018,IC_GEN_MGTL,Türkiye,,Female,14.8
+2019,IC_GEN_MGTL,Türkiye,,Female,16.2
+2020,IC_GEN_MGTL,Türkiye,,Female,18.2
+2021,IC_GEN_MGTL,Türkiye,,Female,19.7
+2000,IC_GEN_MGTL,Ukraine,,Female,36.7
+2001,IC_GEN_MGTL,Ukraine,,Female,37.4
+2002,IC_GEN_MGTL,Ukraine,,Female,38.5
+2003,IC_GEN_MGTL,Ukraine,,Female,39.6
+2004,IC_GEN_MGTL,Ukraine,,Female,43.1
+2005,IC_GEN_MGTL,Ukraine,,Female,38.2
+2006,IC_GEN_MGTL,Ukraine,,Female,38.3
+2007,IC_GEN_MGTL,Ukraine,,Female,39.4
+2008,IC_GEN_MGTL,Ukraine,,Female,38.6
+2009,IC_GEN_MGTL,Ukraine,,Female,41.1
+2010,IC_GEN_MGTL,Ukraine,,Female,41.2
+2013,IC_GEN_MGTL,Ukraine,,Female,38.3
+2014,IC_GEN_MGTL,Ukraine,,Female,37.8
+2015,IC_GEN_MGTL,Ukraine,,Female,39.6
+2016,IC_GEN_MGTL,Ukraine,,Female,40.9
+2017,IC_GEN_MGTL,Ukraine,,Female,41.1
+2018,IC_GEN_MGTL,Ukraine,,Female,40.4
+2019,IC_GEN_MGTL,Ukraine,,Female,41.3
+2020,IC_GEN_MGTL,Ukraine,,Female,40.7
+2021,IC_GEN_MGTL,Ukraine,,Female,41.0
+2002,IC_GEN_MGTL,North Macedonia,,Female,19.0
+2003,IC_GEN_MGTL,North Macedonia,,Female,26.8
+2004,IC_GEN_MGTL,North Macedonia,,Female,28.0
+2005,IC_GEN_MGTL,North Macedonia,,Female,28.5
+2006,IC_GEN_MGTL,North Macedonia,,Female,26.4
+2007,IC_GEN_MGTL,North Macedonia,,Female,29.3
+2008,IC_GEN_MGTL,North Macedonia,,Female,28.5
+2009,IC_GEN_MGTL,North Macedonia,,Female,26.8
+2010,IC_GEN_MGTL,North Macedonia,,Female,27.0
+2011,IC_GEN_MGTL,North Macedonia,,Female,28.0
+2012,IC_GEN_MGTL,North Macedonia,,Female,23.1
+2013,IC_GEN_MGTL,North Macedonia,,Female,27.3
+2014,IC_GEN_MGTL,North Macedonia,,Female,29.0
+2015,IC_GEN_MGTL,North Macedonia,,Female,24.0
+2016,IC_GEN_MGTL,North Macedonia,,Female,25.3
+2017,IC_GEN_MGTL,North Macedonia,,Female,24.0
+2018,IC_GEN_MGTL,North Macedonia,,Female,26.9
+2019,IC_GEN_MGTL,North Macedonia,,Female,26.3
+2020,IC_GEN_MGTL,North Macedonia,,Female,20.6
+2021,IC_GEN_MGTL,North Macedonia,,Female,21.6
+2000,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.5
+2001,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,30.9
+2002,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,32.5
+2003,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,32.3
+2004,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,33.1
+2005,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.3
+2006,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.6
+2007,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.4
+2008,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.9
+2009,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,35.6
+2010,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,35.7
+2011,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.6
+2012,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.4
+2013,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,34.0
+2014,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,35.3
+2015,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,35.4
+2016,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,36.0
+2017,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,36.2
+2018,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,36.3
+2019,IC_GEN_MGTL,United Kingdom of Great Britain and Northern Ireland,,Female,36.8
+2013,IC_GEN_MGTL,Austria,,Female,29.4
+2014,IC_GEN_MGTL,Austria,,Female,30.3
+2015,IC_GEN_MGTL,Austria,,Female,29.7
+2016,IC_GEN_MGTL,Austria,,Female,31.8
+2017,IC_GEN_MGTL,Austria,,Female,31.8
+2018,IC_GEN_MGTL,Austria,,Female,31.6
+2019,IC_GEN_MGTL,Austria,,Female,33.2
+2020,IC_GEN_MGTL,Austria,,Female,32.8
+2021,IC_GEN_MGTL,Austria,,Female,35.5
+2021,IC_GEN_MGTL,Austria,,Female,35.5

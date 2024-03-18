@@ -12,7 +12,89 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_LND_FRST",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "New Zealand",
+                "Norway",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Poland",
+                "Belarus",
+                "Portugal",
+                "Romania",
+                "Canada",
+                "Chile",
+                "China",
+                "Serbia",
+                "Colombia",
+                "Costa Rica",
+                "Slovakia",
+                "Viet Nam",
+                "Croatia",
+                "Slovenia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Spain",
+                "Sweden",
+                "Estonia",
+                "Finland",
+                "France",
+                "Switzerland",
+                "Georgia",
+                "Germany",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Greece",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "Hungary",
+                "Iceland",
+                "North Macedonia",
+                "India",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

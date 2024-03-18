@@ -12,12 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_SCP_ECSYBA",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "China",
+                "Colombia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Germany",
+                "Republic of Korea",
+                "Latvia",
+                "Lithuania",
+                "Poland",
+                "Romania",
+                "Viet Nam",
+                "Sweden",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Level/Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LI_IMP_ADMNG",
+                "LI_PLDV",
+                "LI_PLA_DSG",
+                ""
+              ]
+            },
+            "title": "Level/Status"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

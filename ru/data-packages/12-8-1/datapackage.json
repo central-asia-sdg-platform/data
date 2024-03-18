@@ -12,8 +12,70 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GCEDESD_NEP",
+                "SE_GCEDESD_CUR",
+                "SE_GCEDESD_TED",
+                "SE_GCEDESD_SAS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "Colombia",
+                "Cyprus",
+                "Czechia",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Hungary",
+                "India",
+                "Ireland",
+                "Italy",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "New Zealand",
+                "Poland",
+                "Romania",
+                "Slovakia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Denmark",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

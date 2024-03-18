@@ -12,7 +12,60 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_EGY_RNEW",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Armenia",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Mexico",
+                "Viet Nam",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SOLAR",
+                "ALL",
+                "BIOENERGY",
+                "HYDROPOWER",
+                "WIND",
+                "GEOTHERMAL",
+                "MARINE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

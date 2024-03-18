@@ -1,0 +1,7 @@
+From,To
+SeriesCode,Country
+Country,Age
+Age,Disability status
+Disability status,Location
+Location,Population Group
+Population Group,Sex

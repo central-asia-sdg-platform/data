@@ -12,7 +12,58 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VAW_PHYPYV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Chile",
+                "Costa Rica",
+                "Georgia",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Tajikistan",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2-14",
+                "1-14",
+                "5-12",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

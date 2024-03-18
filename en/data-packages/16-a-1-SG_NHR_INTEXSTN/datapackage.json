@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_NHR_INTEXSTN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Cyprus",
+                "Denmark",
+                "Ireland",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Slovakia",
+                "Slovenia",
+                "Sweden",
+                "Tajikistan",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-a-1-SG_NHR_INTEXSTN",
+  "title": "meta.name-16-a-1-SG_NHR_INTEXSTN"
+}

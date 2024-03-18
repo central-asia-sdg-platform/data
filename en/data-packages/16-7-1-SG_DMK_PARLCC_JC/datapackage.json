@@ -1,0 +1,99 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DMK_PARLCC_JC",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Bosnia and Herzegovina",
+                "Colombia",
+                "India",
+                "Ireland",
+                "Spain",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "46+",
+                "<=45Y",
+                "_U",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Parliamentary committees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAFF_DEF",
+                "HUM_RIGH",
+                "DEFENCE",
+                "GEN_EQU",
+                "FINANCE",
+                ""
+              ]
+            },
+            "title": "Parliamentary committees"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1-SG_DMK_PARLCC_JC",
+  "title": "meta.name-16-7-1-SG_DMK_PARLCC_JC"
+}

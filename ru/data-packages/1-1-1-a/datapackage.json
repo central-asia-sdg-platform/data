@@ -16,16 +16,15 @@
             "title": "Год"
           },
           {
-            "name": "Poverty Line",
+            "name": "SeriesCode",
             "type": "string",
             "constraints": {
               "enum": [
-                "Poverty line at $3.65 a day (LMIC)",
-                "Poverty line at $6.85 a day (UMIC)",
+                "SI_POV_DAY1",
                 ""
               ]
             },
-            "title": "Poverty Line"
+            "title": "SeriesCode"
           },
           {
             "name": "GeoAreaName",
@@ -33,57 +32,109 @@
             "constraints": {
               "enum": [
                 "Albania",
-                "Armenia",
-                "Austria",
                 "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Colombia",
+                "Hungary",
+                "Republic of Moldova",
+                "Costa Rica",
+                "Armenia",
                 "Belgium",
-                "Bulgaria",
                 "Bosnia and Herzegovina",
+                "Bulgaria",
                 "Belarus",
+                "Montenegro",
+                "Canada",
+                "Chile",
+                "China",
+                "Sweden",
+                "Croatia",
                 "Switzerland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "Netherlands (Kingdom of the)",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                "Iceland",
+                "Norway",
+                "India",
+                "Ireland",
+                "Poland",
+                "Israel",
+                "Italy",
+                "Portugal",
                 "Cyprus",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Japan",
+                "Казахстан",
+                "Viet Nam",
+                "Slovenia",
                 "Czechia",
-                "Germany",
-                "Denmark",
                 "Spain",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Denmark",
+                "Lithuania",
                 "Estonia",
                 "Finland",
                 "France",
                 "Georgia",
-                "Greece",
-                "Croatia",
-                "Hungary",
-                "Ireland",
-                "Iceland",
-                "Italy",
-                "Казахстан",
-                "Кыргызстан",
-                "Lithuania",
                 "Luxembourg",
-                "Latvia",
-                "Moldova",
-                "North Macedonia",
                 "Malta",
-                "Montenegro",
-                "Netherlands",
-                "Norway",
-                "Poland",
-                "Portugal",
-                "Romania",
-                "Serbia",
-                "Slovak Republic",
-                "Slovenia",
-                "Sweden",
-                "Таджикистан",
-                "Туркменистан",
-                "Türkiye",
-                "Ukraine",
-                "Узбекистан",
-                "Kosovo⁎",
+                "Mexico",
+                "Germany",
+                "Greece",
                 ""
               ]
             },
             "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAGE",
+                "<15Y",
+                "65+",
+                "15-64",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -96,5 +147,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-a",
-  "title": "regional_indicators.1-1-1-a-title"
+  "title": "meta.name-1-1-1-a"
 }

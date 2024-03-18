@@ -1,0 +1,76 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_TRDCML",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Türkiye",
+                "Albania",
+                "Turkmenistan",
+                "Croatia",
+                "Georgia",
+                "Azerbaijan",
+                "Ukraine",
+                "North Macedonia",
+                "India",
+                "Uzbekistan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Tajikistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-a-1-DC_TOF_TRDCML",
+  "title": "meta.name-8-a-1-DC_TOF_TRDCML"
+}

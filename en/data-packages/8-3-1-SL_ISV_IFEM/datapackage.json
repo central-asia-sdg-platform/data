@@ -1,0 +1,125 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_ISV_IFEM",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Colombia",
+                "Greece",
+                "Albania",
+                "Costa Rica",
+                "Mexico",
+                "Croatia",
+                "Hungary",
+                "Moldova",
+                "Austria",
+                "Cyprus",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Czechia",
+                "Italy",
+                "Netherlands (Kingdom of the)",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Norway",
+                "Denmark",
+                "Latvia",
+                "Poland",
+                "Estonia",
+                "Lithuania",
+                "Portugal",
+                "Finland",
+                "Luxembourg",
+                "France",
+                "Serbia",
+                "Malta",
+                "Georgia",
+                "Germany",
+                "Slovakia",
+                "Viet Nam",
+                "Armenia",
+                "Slovenia",
+                "Spain",
+                "Belgium",
+                "Sweden",
+                "Bosnia and Herzegovina",
+                "Switzerland",
+                "Bulgaria",
+                "Chile",
+                "Türkiye",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NONAGR",
+                "ISIC4_A",
+                "TOTAL",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Both sexes",
+                "_O",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-3-1-SL_ISV_IFEM",
+  "title": "meta.name-8-3-1-SL_ISV_IFEM"
+}

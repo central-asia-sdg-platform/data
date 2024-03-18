@@ -12,7 +12,81 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_XPD_EARN25",
+                "SH_XPD_EARN10",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Republic of Moldova",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Montenegro",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "India",
+                "Ireland",
+                "Israel",
+                "Poland",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Portugal",
+                "Romania",
+                "Kyrgyzstan",
+                "Serbia",
+                "Latvia",
+                "Slovakia",
+                "Viet Nam",
+                "Lithuania",
+                "Luxembourg",
+                "Slovenia",
+                "Spain",
+                "Switzerland",
+                "Malta",
+                "Mexico",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,109 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TM_TRF_ZERO",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Albania",
+                "China",
+                "Azerbaijan",
+                "Hungary",
+                "Netherlands (Kingdom of the)",
+                "Australia",
+                "Colombia",
+                "Austria",
+                "Iceland",
+                "New Zealand",
+                "Costa Rica",
+                "India",
+                "Armenia",
+                "Norway",
+                "Croatia",
+                "Ireland",
+                "Cyprus",
+                "Israel",
+                "Belgium",
+                "Italy",
+                "Poland",
+                "Bosnia and Herzegovina",
+                "Czechia",
+                "Portugal",
+                "Japan",
+                "Romania",
+                "Bulgaria",
+                "Belarus",
+                "Denmark",
+                "Serbia",
+                "Canada",
+                "Kazakhstan",
+                "Slovakia",
+                "Estonia",
+                "Spain",
+                "Republic of Korea",
+                "Viet Nam",
+                "Finland",
+                "Slovenia",
+                "Sweden",
+                "France",
+                "Switzerland",
+                "Georgia",
+                "Kyrgyzstan",
+                "Germany",
+                "Greece",
+                "Tajikistan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CLO",
+                "ARM",
+                "IND",
+                "AGR",
+                "ALP",
+                "TEX",
+                "OIL",
+                ""
+              ]
+            },
+            "title": "Type of product"
           },
           {
             "name": "Value",

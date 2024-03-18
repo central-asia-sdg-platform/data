@@ -1,0 +1,133 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_MANF",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Albania",
+                "Greece",
+                "Azerbaijan",
+                "Hungary",
+                "Australia",
+                "Iceland",
+                "Austria",
+                "Armenia",
+                "India",
+                "Belgium",
+                "Ireland",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Israel",
+                "Belarus",
+                "Canada",
+                "Italy",
+                "Japan",
+                "Chile",
+                "Казахстан",
+                "China",
+                "Colombia",
+                "Republic of Korea",
+                "Costa Rica",
+                "Кыргызстан",
+                "Croatia",
+                "Cyprus",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_C",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-2-SL_TLF_MANF",
+  "title": "meta.name-9-2-2-SL_TLF_MANF"
+}

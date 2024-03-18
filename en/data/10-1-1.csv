@@ -1,1 +1,114 @@
-Year,Value
+Year,SeriesCode,Country,Quantile,Value
+2017,SI_HEI_TOTL,Albania,Total or no breakdown,6.96
+2017,SI_HEI_TOTL,Albania,Bottom 40%,8.81
+2018,SI_HEI_TOTL,Australia,Bottom 40%,-0.49
+2018,SI_HEI_TOTL,Australia,Total or no breakdown,-0.26
+2020,SI_HEI_TOTL,Austria,Total or no breakdown,1.29
+2020,SI_HEI_TOTL,Austria,Bottom 40%,1.61
+2018,SI_HEI_TOTL,Armenia,Total or no breakdown,2.4
+2018,SI_HEI_TOTL,Armenia,Bottom 40%,1.26
+2020,SI_HEI_TOTL,Belgium,Bottom 40%,2.2
+2020,SI_HEI_TOTL,Belgium,Total or no breakdown,1.09
+2020,SI_HEI_TOTL,Bulgaria,Total or no breakdown,9.91
+2020,SI_HEI_TOTL,Bulgaria,Bottom 40%,10.13
+2020,SI_HEI_TOTL,Belarus,Bottom 40%,3.32
+2020,SI_HEI_TOTL,Belarus,Total or no breakdown,2.6
+2018,SI_HEI_TOTL,Canada,Total or no breakdown,0.86
+2018,SI_HEI_TOTL,Canada,Bottom 40%,1.84
+2020,SI_HEI_TOTL,Chile,Total or no breakdown,2.5
+2020,SI_HEI_TOTL,Chile,Bottom 40%,1.92
+2019,SI_HEI_TOTL,China,Total or no breakdown,6.28
+2019,SI_HEI_TOTL,China,Bottom 40%,7.2
+2021,SI_HEI_TOTL,Colombia,Bottom 40%,-2.39
+2021,SI_HEI_TOTL,Colombia,Total or no breakdown,-1.62
+2021,SI_HEI_TOTL,Costa Rica,Total or no breakdown,-0.4
+2021,SI_HEI_TOTL,Costa Rica,Bottom 40%,-0.37
+2020,SI_HEI_TOTL,Croatia,Total or no breakdown,6.18
+2020,SI_HEI_TOTL,Croatia,Bottom 40%,7.12
+2020,SI_HEI_TOTL,Cyprus,Total or no breakdown,3.26
+2020,SI_HEI_TOTL,Cyprus,Bottom 40%,4.64
+2020,SI_HEI_TOTL,Czechia,Bottom 40%,3.5
+2020,SI_HEI_TOTL,Czechia,Total or no breakdown,3.62
+2020,SI_HEI_TOTL,Denmark,Bottom 40%,1.69
+2020,SI_HEI_TOTL,Denmark,Total or no breakdown,1.59
+2020,SI_HEI_TOTL,Estonia,Total or no breakdown,5.56
+2020,SI_HEI_TOTL,Estonia,Bottom 40%,6.63
+2020,SI_HEI_TOTL,Finland,Bottom 40%,1.38
+2020,SI_HEI_TOTL,Finland,Total or no breakdown,1.3
+2020,SI_HEI_TOTL,France,Total or no breakdown,-0.52
+2020,SI_HEI_TOTL,France,Bottom 40%,-0.11
+2021,SI_HEI_TOTL,Georgia,Bottom 40%,0.2
+2021,SI_HEI_TOTL,Georgia,Total or no breakdown,-0.89
+2019,SI_HEI_TOTL,Germany,Total or no breakdown,2.34
+2019,SI_HEI_TOTL,Germany,Bottom 40%,2.14
+2020,SI_HEI_TOTL,Greece,Bottom 40%,4.2
+2020,SI_HEI_TOTL,Greece,Total or no breakdown,2.76
+2020,SI_HEI_TOTL,Hungary,Total or no breakdown,6.34
+2020,SI_HEI_TOTL,Hungary,Bottom 40%,6.81
+2017,SI_HEI_TOTL,Iceland,Total or no breakdown,5.26
+2017,SI_HEI_TOTL,Iceland,Bottom 40%,5.65
+2019,SI_HEI_TOTL,India,Bottom 40%,4.48
+2019,SI_HEI_TOTL,India,Total or no breakdown,4.86
+2020,SI_HEI_TOTL,Ireland,Total or no breakdown,4.52
+2020,SI_HEI_TOTL,Ireland,Bottom 40%,5.93
+2018,SI_HEI_TOTL,Israel,Total or no breakdown,2.83
+2018,SI_HEI_TOTL,Israel,Bottom 40%,3.69
+2020,SI_HEI_TOTL,Italy,Total or no breakdown,1.67
+2020,SI_HEI_TOTL,Italy,Bottom 40%,2.19
+2018,SI_HEI_TOTL,Kazakhstan,Bottom 40%,-0.3
+2018,SI_HEI_TOTL,Kazakhstan,Total or no breakdown,-0.23
+2016,SI_HEI_TOTL,Republic of Korea,Bottom 40%,2.52
+2016,SI_HEI_TOTL,Republic of Korea,Total or no breakdown,2.25
+2020,SI_HEI_TOTL,Kyrgyzstan,Bottom 40%,0.76
+2020,SI_HEI_TOTL,Kyrgyzstan,Total or no breakdown,1.14
+2020,SI_HEI_TOTL,Latvia,Total or no breakdown,6.79
+2020,SI_HEI_TOTL,Latvia,Bottom 40%,5.99
+2020,SI_HEI_TOTL,Lithuania,Bottom 40%,10.66
+2020,SI_HEI_TOTL,Lithuania,Total or no breakdown,8.98
+2020,SI_HEI_TOTL,Luxembourg,Bottom 40%,4.49
+2020,SI_HEI_TOTL,Luxembourg,Total or no breakdown,4.9
+2020,SI_HEI_TOTL,Malta,Bottom 40%,3.21
+2020,SI_HEI_TOTL,Malta,Total or no breakdown,4.43
+2020,SI_HEI_TOTL,Mexico,Bottom 40%,0.7
+2020,SI_HEI_TOTL,Mexico,Total or no breakdown,-0.68
+2021,SI_HEI_TOTL,Moldova,Total or no breakdown,1.12
+2021,SI_HEI_TOTL,Moldova,Bottom 40%,1.3
+2018,SI_HEI_TOTL,Montenegro,Total or no breakdown,1.9
+2018,SI_HEI_TOTL,Montenegro,Bottom 40%,3.43
+2020,SI_HEI_TOTL,Netherlands (Kingdom of the),Bottom 40%,3.07
+2020,SI_HEI_TOTL,Netherlands (Kingdom of the),Total or no breakdown,2.1
+2019,SI_HEI_TOTL,Norway,Bottom 40%,-0.24
+2019,SI_HEI_TOTL,Norway,Total or no breakdown,0.36
+2019,SI_HEI_TOTL,Poland,Bottom 40%,8.82
+2019,SI_HEI_TOTL,Poland,Total or no breakdown,6.34
+2020,SI_HEI_TOTL,Portugal,Total or no breakdown,3.86
+2020,SI_HEI_TOTL,Portugal,Bottom 40%,4.5
+2020,SI_HEI_TOTL,Romania,Bottom 40%,15.29
+2020,SI_HEI_TOTL,Romania,Total or no breakdown,14.23
+2020,SI_HEI_TOTL,Serbia,Bottom 40%,13.4
+2020,SI_HEI_TOTL,Serbia,Total or no breakdown,7.63
+2019,SI_HEI_TOTL,Slovakia,Bottom 40%,4.47
+2019,SI_HEI_TOTL,Slovakia,Total or no breakdown,2.9
+2020,SI_HEI_TOTL,Viet Nam,Bottom 40%,4.69
+2020,SI_HEI_TOTL,Viet Nam,Total or no breakdown,5.61
+2020,SI_HEI_TOTL,Slovenia,Bottom 40%,4.54
+2020,SI_HEI_TOTL,Slovenia,Total or no breakdown,3.73
+2020,SI_HEI_TOTL,Spain,Total or no breakdown,1.99
+2020,SI_HEI_TOTL,Spain,Bottom 40%,2.68
+2020,SI_HEI_TOTL,Sweden,Bottom 40%,1.29
+2020,SI_HEI_TOTL,Sweden,Total or no breakdown,1.3
+2018,SI_HEI_TOTL,Switzerland,Total or no breakdown,0.08
+2018,SI_HEI_TOTL,Switzerland,Bottom 40%,-0.34
+2015,SI_HEI_TOTL,Tajikistan,Bottom 40%,1.32
+2015,SI_HEI_TOTL,Tajikistan,Total or no breakdown,2.67
+2018,SI_HEI_TOTL,United Arab Emirates,Total or no breakdown,1.84
+2018,SI_HEI_TOTL,United Arab Emirates,Bottom 40%,7.08
+2019,SI_HEI_TOTL,Türkiye,Bottom 40%,0.85
+2019,SI_HEI_TOTL,Türkiye,Total or no breakdown,1.47
+2020,SI_HEI_TOTL,Ukraine,Total or no breakdown,4.12
+2020,SI_HEI_TOTL,Ukraine,Bottom 40%,4.13
+2019,SI_HEI_TOTL,North Macedonia,Bottom 40%,6.09
+2019,SI_HEI_TOTL,North Macedonia,Total or no breakdown,5.34
+2020,SI_HEI_TOTL,United Kingdom of Great Britain and Northern Ireland,Bottom 40%,0.84
+2020,SI_HEI_TOTL,United Kingdom of Great Britain and Northern Ireland,Total or no breakdown,0.57
+2020,SI_HEI_TOTL,United Kingdom of Great Britain and Northern Ireland,Total or no breakdown,0.57

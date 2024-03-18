@@ -1,0 +1,90 @@
+Year,SeriesCode,Country,Age,Location,Sex,Value
+2010,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,42
+2010,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,44
+2010,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,43
+2011,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,43
+2011,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,44
+2011,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,42
+2012,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,42
+2012,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,44
+2012,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,42
+2013,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,42
+2013,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,43
+2013,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,42
+2014,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,43
+2014,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2014,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,42
+2015,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2015,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,42
+2015,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,43
+2016,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,42
+2016,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,41
+2016,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2017,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2018,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2018,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,42
+2018,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,42
+2019,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2019,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,41
+2019,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,42
+2020,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,41
+2020,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,41
+2020,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,42
+2021,SD_MDP_ANDI,Colombia,ALLAGE,Rural,Both sexes,42
+2021,SD_MDP_ANDI,Colombia,ALLAGE,Urban,Both sexes,40
+2021,SD_MDP_ANDI,Colombia,ALLAGE,All areas,Both sexes,41
+2010,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,28
+2010,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,30
+2010,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2011,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,30
+2011,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2011,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,28
+2012,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,29
+2012,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2012,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,29
+2013,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,29
+2013,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,28
+2013,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2014,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2014,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,27
+2014,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,29
+2015,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,29
+2015,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,28
+2015,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2016,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,28
+2016,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,28
+2016,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2017,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,27
+2017,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,28
+2017,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,27
+2018,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,27
+2018,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,27
+2018,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2019,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2019,SD_MDP_ANDI,Costa Rica,ALLAGE,All areas,Both sexes,27
+2019,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,28
+2020,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,27
+2020,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2021,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,27
+2021,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,26
+2022,SD_MDP_ANDI,Costa Rica,ALLAGE,Rural,Both sexes,26
+2022,SD_MDP_ANDI,Costa Rica,ALLAGE,Urban,Both sexes,25
+2010,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2010,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2010,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,3
+2012,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2012,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2012,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2
+2014,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2014,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2
+2014,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2016,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2016,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2
+2016,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2018,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2018,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2
+2018,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2020,SD_MDP_ANDI,Mexico,ALLAGE,Urban,Both sexes,2
+2020,SD_MDP_ANDI,Mexico,ALLAGE,Rural,Both sexes,3
+2020,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2
+2020,SD_MDP_ANDI,Mexico,ALLAGE,All areas,Both sexes,2

@@ -1,0 +1,3096 @@
+Year,SeriesCode,GeoAreaName,Age,Value
+2008,SE_GPI_PART,Austria,15-24,1.1
+2008,SE_GPI_PART,Austria,55-64,1.2
+2009,SE_GPI_PART,Austria,55-64,1.2
+2009,SE_GPI_PART,Austria,15-24,1.0
+2009,SE_GPI_PART,Austria,15-64,1.1
+2009,SE_GPI_PART,Austria,25-54,1.1
+2010,SE_GPI_PART,Austria,25-54,1.1
+2010,SE_GPI_PART,Austria,15-64,1.1
+2010,SE_GPI_PART,Austria,15-24,1.0
+2010,SE_GPI_PART,Austria,55-64,1.3
+2011,SE_GPI_PART,Austria,55-64,1.3
+2011,SE_GPI_PART,Austria,15-24,1.1
+2011,SE_GPI_PART,Austria,15-64,1.1
+2011,SE_GPI_PART,Austria,25-54,1.2
+2012,SE_GPI_PART,Austria,25-54,1.1
+2012,SE_GPI_PART,Austria,15-64,1.1
+2012,SE_GPI_PART,Austria,15-24,1.1
+2012,SE_GPI_PART,Austria,55-64,1.2
+2013,SE_GPI_PART,Austria,55-64,1.3
+2013,SE_GPI_PART,Austria,15-24,1.1
+2013,SE_GPI_PART,Austria,15-64,1.1
+2013,SE_GPI_PART,Austria,25-54,1.2
+2014,SE_GPI_PART,Austria,25-54,1.1
+2014,SE_GPI_PART,Austria,15-64,1.1
+2014,SE_GPI_PART,Austria,15-24,1.0
+2014,SE_GPI_PART,Austria,55-64,1.2
+2015,SE_GPI_PART,Austria,55-64,1.2
+2015,SE_GPI_PART,Austria,15-24,1.1
+2019,SE_GPI_PART,France,15-64,1.2
+2020,SE_GPI_PART,France,15-64,1.1
+2020,SE_GPI_PART,France,15-24,1.1
+2020,SE_GPI_PART,France,25-54,1.2
+2020,SE_GPI_PART,France,55-64,1.4
+2012,SE_GPI_PART,Georgia,25-54,1.6
+2012,SE_GPI_PART,Georgia,15-24,1.0
+2015,SE_GPI_PART,Austria,15-64,1.1
+2015,SE_GPI_PART,Austria,25-54,1.1
+2016,SE_GPI_PART,Austria,25-54,1.2
+2016,SE_GPI_PART,Austria,15-64,1.1
+2016,SE_GPI_PART,Austria,15-24,1.1
+2016,SE_GPI_PART,Austria,55-64,1.3
+2017,SE_GPI_PART,Austria,55-64,1.3
+2012,SE_GPI_PART,Georgia,15-64,0.9
+2013,SE_GPI_PART,Georgia,15-64,0.9
+2013,SE_GPI_PART,Georgia,15-24,1.0
+2013,SE_GPI_PART,Georgia,25-54,0.8
+2014,SE_GPI_PART,Georgia,25-54,0.7
+2014,SE_GPI_PART,Georgia,15-24,1.1
+2014,SE_GPI_PART,Georgia,15-64,0.9
+2004,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2004,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2004,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2004,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.2
+2005,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.3
+2005,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2005,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2005,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2006,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.2
+2006,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2006,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2006,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2007,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.2
+2007,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2017,SE_GPI_PART,Austria,15-24,1.1
+2017,SE_GPI_PART,Austria,15-64,1.1
+2017,SE_GPI_PART,Austria,25-54,1.2
+2018,SE_GPI_PART,Austria,25-54,1.2
+2018,SE_GPI_PART,Austria,15-64,1.1
+2018,SE_GPI_PART,Austria,15-24,1.1
+2018,SE_GPI_PART,Austria,55-64,1.3
+2019,SE_GPI_PART,Austria,55-64,1.3
+2019,SE_GPI_PART,Austria,15-24,1.1
+2019,SE_GPI_PART,Austria,15-64,1.1
+2019,SE_GPI_PART,Austria,25-54,1.2
+2020,SE_GPI_PART,Austria,25-54,1.2
+2020,SE_GPI_PART,Austria,15-64,1.1
+2020,SE_GPI_PART,Austria,15-24,1.1
+2020,SE_GPI_PART,Austria,55-64,1.2
+2018,SE_GPI_PART,Armenia,25-54,0.9
+2018,SE_GPI_PART,Armenia,15-64,1.1
+2018,SE_GPI_PART,Armenia,15-24,1.1
+2019,SE_GPI_PART,Armenia,15-24,1.1
+2019,SE_GPI_PART,Armenia,15-64,0.9
+2019,SE_GPI_PART,Armenia,25-54,0.7
+2020,SE_GPI_PART,Armenia,25-54,1.0
+2020,SE_GPI_PART,Armenia,15-64,0.9
+2020,SE_GPI_PART,Armenia,15-24,1.1
+2004,SE_GPI_PART,Belgium,25-54,1.0
+2004,SE_GPI_PART,Belgium,55-64,0.8
+2004,SE_GPI_PART,Belgium,15-64,1.0
+2004,SE_GPI_PART,Belgium,15-24,1.1
+2007,SE_GPI_PART,Albania,15-64,1.0
+2007,SE_GPI_PART,Albania,25-54,1.0
+2007,SE_GPI_PART,Albania,55-64,0.6
+2007,SE_GPI_PART,Albania,15-24,1.1
+2008,SE_GPI_PART,Albania,55-64,1.1
+2008,SE_GPI_PART,Albania,25-54,1.2
+2008,SE_GPI_PART,Albania,15-64,1.0
+2015,SE_GPI_PART,Georgia,15-64,0.9
+2015,SE_GPI_PART,Georgia,15-24,1.0
+2015,SE_GPI_PART,Georgia,25-54,0.6
+2016,SE_GPI_PART,Georgia,25-54,1.0
+2016,SE_GPI_PART,Georgia,15-24,1.0
+2016,SE_GPI_PART,Georgia,15-64,0.9
+2017,SE_GPI_PART,Georgia,15-64,1.0
+2008,SE_GPI_PART,Albania,15-24,1.0
+2009,SE_GPI_PART,Albania,15-24,0.9
+2009,SE_GPI_PART,Albania,15-64,0.9
+2009,SE_GPI_PART,Albania,25-54,0.8
+2009,SE_GPI_PART,Albania,55-64,0.7
+2010,SE_GPI_PART,Albania,55-64,0.1
+2010,SE_GPI_PART,Albania,25-54,1.0
+2017,SE_GPI_PART,Georgia,15-24,1.0
+2017,SE_GPI_PART,Georgia,25-54,1.4
+2017,SE_GPI_PART,Georgia,55-64,1.5
+2018,SE_GPI_PART,Georgia,55-64,1.7
+2018,SE_GPI_PART,Georgia,25-54,1.3
+2018,SE_GPI_PART,Georgia,15-24,1.1
+2018,SE_GPI_PART,Georgia,15-64,1.0
+2010,SE_GPI_PART,Albania,15-64,1.0
+2010,SE_GPI_PART,Albania,15-24,1.0
+2011,SE_GPI_PART,Albania,15-24,1.1
+2011,SE_GPI_PART,Albania,15-64,1.0
+2011,SE_GPI_PART,Albania,25-54,1.0
+2012,SE_GPI_PART,Albania,25-54,0.5
+2012,SE_GPI_PART,Albania,15-64,0.9
+2012,SE_GPI_PART,Albania,15-24,1.1
+2013,SE_GPI_PART,Albania,15-24,1.1
+2013,SE_GPI_PART,Albania,15-64,1.1
+2013,SE_GPI_PART,Albania,25-54,0.8
+2014,SE_GPI_PART,Albania,25-54,1.0
+2014,SE_GPI_PART,Albania,15-64,1.0
+2014,SE_GPI_PART,Albania,15-24,1.1
+2019,SE_GPI_PART,Georgia,15-64,1.0
+2019,SE_GPI_PART,Georgia,15-24,1.1
+2019,SE_GPI_PART,Georgia,25-54,1.0
+2019,SE_GPI_PART,Georgia,55-64,0.9
+2020,SE_GPI_PART,Georgia,25-54,1.2
+2020,SE_GPI_PART,Georgia,15-24,1.1
+2020,SE_GPI_PART,Georgia,15-64,1.0
+2015,SE_GPI_PART,Albania,15-24,1.1
+2015,SE_GPI_PART,Albania,15-64,1.0
+2015,SE_GPI_PART,Albania,25-54,0.9
+2016,SE_GPI_PART,Albania,25-54,0.5
+2016,SE_GPI_PART,Albania,15-64,1.0
+2016,SE_GPI_PART,Albania,15-24,1.1
+2017,SE_GPI_PART,Albania,15-24,1.1
+2017,SE_GPI_PART,Albania,15-64,0.9
+2017,SE_GPI_PART,Albania,25-54,0.7
+2018,SE_GPI_PART,Albania,25-54,0.7
+2018,SE_GPI_PART,Albania,15-64,1.1
+2018,SE_GPI_PART,Albania,15-24,1.2
+2019,SE_GPI_PART,Albania,15-24,1.2
+2019,SE_GPI_PART,Albania,15-64,1.1
+2004,SE_GPI_PART,Germany,55-64,0.9
+2004,SE_GPI_PART,Germany,25-54,0.9
+2004,SE_GPI_PART,Germany,15-24,1.0
+2004,SE_GPI_PART,Germany,15-64,1.0
+2005,SE_GPI_PART,Germany,15-64,1.0
+2005,SE_GPI_PART,Germany,15-24,1.0
+2005,SE_GPI_PART,Germany,25-54,0.9
+2005,SE_GPI_PART,Germany,55-64,0.9
+2006,SE_GPI_PART,Germany,55-64,1.0
+2006,SE_GPI_PART,Germany,25-54,1.0
+2006,SE_GPI_PART,Germany,15-24,1.0
+2006,SE_GPI_PART,Germany,15-64,1.0
+2007,SE_GPI_PART,Germany,15-64,1.0
+2007,SE_GPI_PART,Germany,15-24,1.0
+2007,SE_GPI_PART,Germany,25-54,1.0
+2007,SE_GPI_PART,Germany,55-64,1.0
+2008,SE_GPI_PART,Germany,55-64,1.0
+2008,SE_GPI_PART,Germany,25-54,0.9
+2008,SE_GPI_PART,Germany,15-24,1.0
+2008,SE_GPI_PART,Germany,15-64,1.0
+2009,SE_GPI_PART,Germany,15-64,1.0
+2019,SE_GPI_PART,Albania,25-54,0.7
+2004,SE_GPI_PART,Austria,25-54,1.1
+2004,SE_GPI_PART,Austria,15-64,1.1
+2004,SE_GPI_PART,Austria,15-24,1.0
+2004,SE_GPI_PART,Austria,55-64,1.4
+2005,SE_GPI_PART,Austria,55-64,1.2
+2005,SE_GPI_PART,Austria,15-24,1.0
+2009,SE_GPI_PART,Germany,15-24,1.0
+2009,SE_GPI_PART,Germany,25-54,1.0
+2009,SE_GPI_PART,Germany,55-64,1.1
+2010,SE_GPI_PART,Germany,55-64,1.2
+2010,SE_GPI_PART,Germany,25-54,1.1
+2010,SE_GPI_PART,Germany,15-24,1.0
+2010,SE_GPI_PART,Germany,15-64,1.0
+2011,SE_GPI_PART,Germany,15-64,1.0
+2011,SE_GPI_PART,Germany,15-24,1.0
+2011,SE_GPI_PART,Germany,25-54,1.0
+2011,SE_GPI_PART,Germany,55-64,0.8
+2012,SE_GPI_PART,Germany,55-64,1.0
+2012,SE_GPI_PART,Germany,25-54,1.0
+2012,SE_GPI_PART,Germany,15-24,1.0
+2005,SE_GPI_PART,Belgium,15-64,1.0
+2005,SE_GPI_PART,Belgium,55-64,1.0
+2005,SE_GPI_PART,Belgium,25-54,1.1
+2005,SE_GPI_PART,Belgium,15-24,1.1
+2006,SE_GPI_PART,Belgium,15-24,1.1
+2006,SE_GPI_PART,Belgium,25-54,1.0
+2006,SE_GPI_PART,Belgium,55-64,1.0
+2012,SE_GPI_PART,Germany,15-64,1.0
+2013,SE_GPI_PART,Germany,15-64,1.0
+2013,SE_GPI_PART,Germany,15-24,1.0
+2013,SE_GPI_PART,Germany,25-54,1.0
+2013,SE_GPI_PART,Germany,55-64,1.1
+2014,SE_GPI_PART,Germany,55-64,1.0
+2014,SE_GPI_PART,Germany,25-54,1.0
+2014,SE_GPI_PART,Germany,15-24,1.0
+2014,SE_GPI_PART,Germany,15-64,1.0
+2015,SE_GPI_PART,Germany,15-64,1.0
+2015,SE_GPI_PART,Germany,25-54,1.0
+2015,SE_GPI_PART,Germany,15-24,1.0
+2015,SE_GPI_PART,Germany,55-64,1.1
+2016,SE_GPI_PART,Germany,55-64,1.0
+2016,SE_GPI_PART,Germany,25-54,0.9
+2016,SE_GPI_PART,Germany,15-24,1.0
+2016,SE_GPI_PART,Germany,15-64,1.0
+2017,SE_GPI_PART,Germany,25-54,0.9
+2017,SE_GPI_PART,Germany,15-64,1.0
+2017,SE_GPI_PART,Germany,15-24,1.0
+2017,SE_GPI_PART,Germany,55-64,1.1
+2005,SE_GPI_PART,Austria,15-64,1.1
+2005,SE_GPI_PART,Austria,25-54,1.1
+2006,SE_GPI_PART,Austria,25-54,1.1
+2006,SE_GPI_PART,Austria,15-64,1.1
+2006,SE_GPI_PART,Austria,15-24,1.0
+2006,SE_GPI_PART,Austria,55-64,1.2
+2007,SE_GPI_PART,Austria,55-64,1.3
+2018,SE_GPI_PART,Germany,55-64,1.1
+2018,SE_GPI_PART,Germany,15-24,1.0
+2018,SE_GPI_PART,Germany,25-54,0.9
+2018,SE_GPI_PART,Germany,15-64,1.0
+2019,SE_GPI_PART,Germany,25-54,1.0
+2019,SE_GPI_PART,Germany,15-64,1.0
+2019,SE_GPI_PART,Germany,15-24,1.0
+2019,SE_GPI_PART,Germany,55-64,1.2
+2020,SE_GPI_PART,Germany,55-64,1.0
+2020,SE_GPI_PART,Germany,15-64,1.0
+2020,SE_GPI_PART,Germany,25-54,1.0
+2020,SE_GPI_PART,Germany,15-24,1.0
+2000,SE_GPI_PART,Greece,15-24,1.0
+2000,SE_GPI_PART,Greece,15-64,1.0
+2007,SE_GPI_PART,Austria,15-24,1.0
+2007,SE_GPI_PART,Austria,15-64,1.1
+2007,SE_GPI_PART,Austria,25-54,1.2
+2008,SE_GPI_PART,Austria,25-54,1.1
+2008,SE_GPI_PART,Austria,15-64,1.1
+2000,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2000,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,0.9
+2000,SE_GPI_PART,Greece,25-54,1.1
+2001,SE_GPI_PART,Greece,25-54,0.9
+2001,SE_GPI_PART,Greece,15-64,1.0
+2001,SE_GPI_PART,Greece,15-24,1.0
+2002,SE_GPI_PART,Greece,25-54,1.0
+2002,SE_GPI_PART,Greece,15-24,1.0
+2002,SE_GPI_PART,Greece,15-64,1.0
+2003,SE_GPI_PART,Greece,25-54,0.9
+2000,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2000,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2001,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.1
+2001,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.4
+2001,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2001,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2002,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2003,SE_GPI_PART,Greece,15-64,1.0
+2003,SE_GPI_PART,Greece,15-24,1.1
+2004,SE_GPI_PART,Greece,15-24,1.0
+2004,SE_GPI_PART,Greece,15-64,1.0
+2004,SE_GPI_PART,Greece,25-54,1.1
+2004,SE_GPI_PART,Greece,55-64,1.0
+2005,SE_GPI_PART,Greece,55-64,0.5
+2005,SE_GPI_PART,Greece,25-54,0.9
+2005,SE_GPI_PART,Greece,15-64,1.0
+2005,SE_GPI_PART,Greece,15-24,1.1
+2006,SE_GPI_PART,Greece,15-24,1.1
+2006,SE_GPI_PART,Greece,15-64,1.0
+2006,SE_GPI_PART,Greece,25-54,0.9
+2006,SE_GPI_PART,Greece,55-64,1.6
+2002,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2002,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2002,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2003,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2003,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.4
+2003,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2003,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2007,SE_GPI_PART,Greece,55-64,1.2
+2007,SE_GPI_PART,Greece,25-54,1.0
+2007,SE_GPI_PART,Greece,15-64,1.0
+2007,SE_GPI_PART,Greece,15-24,1.1
+2008,SE_GPI_PART,Greece,15-24,1.1
+2008,SE_GPI_PART,Greece,15-64,1.1
+2008,SE_GPI_PART,Greece,25-54,1.1
+2004,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2004,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2004,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2004,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2005,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2005,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2005,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2008,SE_GPI_PART,Greece,55-64,0.9
+2009,SE_GPI_PART,Greece,55-64,0.8
+2009,SE_GPI_PART,Greece,25-54,1.0
+2009,SE_GPI_PART,Greece,15-64,1.0
+2009,SE_GPI_PART,Greece,15-24,1.0
+2010,SE_GPI_PART,Greece,15-24,1.1
+2010,SE_GPI_PART,Greece,15-64,1.0
+2005,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2006,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2006,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2006,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2006,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2007,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.4
+2007,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2007,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2007,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2008,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2008,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.4
+2008,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2008,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2009,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.3
+2010,SE_GPI_PART,Greece,25-54,1.0
+2010,SE_GPI_PART,Greece,55-64,0.8
+2011,SE_GPI_PART,Greece,55-64,0.9
+2011,SE_GPI_PART,Greece,25-54,0.9
+2011,SE_GPI_PART,Greece,15-64,1.0
+2011,SE_GPI_PART,Greece,15-24,1.1
+2012,SE_GPI_PART,Greece,15-24,1.1
+2009,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2009,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2009,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2010,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2010,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.3
+2010,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2010,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2012,SE_GPI_PART,Greece,15-64,1.0
+2012,SE_GPI_PART,Greece,25-54,0.9
+2012,SE_GPI_PART,Greece,55-64,0.8
+2013,SE_GPI_PART,Greece,55-64,0.6
+2013,SE_GPI_PART,Greece,25-54,1.0
+2013,SE_GPI_PART,Greece,15-64,1.1
+2013,SE_GPI_PART,Greece,15-24,1.1
+2011,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2011,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2011,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2011,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2012,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2012,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2012,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2012,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2013,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2013,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2013,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2013,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2014,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2014,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2014,SE_GPI_PART,Greece,15-24,1.1
+2014,SE_GPI_PART,Greece,15-64,1.0
+2014,SE_GPI_PART,Greece,25-54,1.0
+2014,SE_GPI_PART,Greece,55-64,0.5
+2015,SE_GPI_PART,Greece,55-64,0.6
+2015,SE_GPI_PART,Greece,25-54,1.0
+2015,SE_GPI_PART,Greece,15-64,1.0
+2014,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2014,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2015,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2015,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2015,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2015,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2016,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.2
+2015,SE_GPI_PART,Greece,15-24,1.1
+2016,SE_GPI_PART,Greece,15-64,1.0
+2016,SE_GPI_PART,Greece,25-54,1.0
+2016,SE_GPI_PART,Greece,15-24,1.1
+2016,SE_GPI_PART,Greece,55-64,1.1
+2017,SE_GPI_PART,Greece,55-64,1.0
+2017,SE_GPI_PART,Greece,15-24,1.1
+2016,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2016,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2016,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2017,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2017,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.1
+2017,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2017,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2017,SE_GPI_PART,Greece,15-64,1.0
+2017,SE_GPI_PART,Greece,25-54,1.0
+2018,SE_GPI_PART,Greece,25-54,1.0
+2018,SE_GPI_PART,Greece,15-64,1.0
+2018,SE_GPI_PART,Greece,15-24,1.1
+2018,SE_GPI_PART,Greece,55-64,1.2
+2019,SE_GPI_PART,Greece,55-64,1.3
+2019,SE_GPI_PART,Greece,15-24,1.0
+2019,SE_GPI_PART,Greece,15-64,1.1
+2019,SE_GPI_PART,Greece,25-54,1.2
+2020,SE_GPI_PART,Greece,25-54,0.9
+2020,SE_GPI_PART,Greece,15-64,1.0
+2020,SE_GPI_PART,Greece,15-24,1.0
+2020,SE_GPI_PART,Greece,55-64,1.2
+2018,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.3
+2018,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2018,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2018,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2019,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.2
+2019,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.1
+2019,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.0
+2006,SE_GPI_PART,Belgium,15-64,1.0
+2007,SE_GPI_PART,Belgium,15-64,1.0
+2007,SE_GPI_PART,Belgium,55-64,1.1
+2007,SE_GPI_PART,Belgium,25-54,1.0
+2007,SE_GPI_PART,Belgium,15-24,1.1
+2008,SE_GPI_PART,Belgium,15-24,1.0
+2008,SE_GPI_PART,Belgium,25-54,1.1
+2019,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.1
+2020,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.3
+2020,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2020,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2020,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2021,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,25-54,1.3
+2021,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,55-64,1.3
+2004,SE_GPI_PART,Hungary,25-54,1.3
+2004,SE_GPI_PART,Hungary,15-24,1.0
+2004,SE_GPI_PART,Hungary,15-64,1.1
+2004,SE_GPI_PART,Hungary,55-64,1.0
+2005,SE_GPI_PART,Hungary,15-64,1.1
+2005,SE_GPI_PART,Hungary,15-24,1.0
+2005,SE_GPI_PART,Hungary,25-54,1.3
+2005,SE_GPI_PART,Hungary,55-64,1.0
+2006,SE_GPI_PART,Hungary,25-54,1.3
+2006,SE_GPI_PART,Hungary,15-24,1.1
+2006,SE_GPI_PART,Hungary,15-64,1.1
+2006,SE_GPI_PART,Hungary,55-64,1.4
+2007,SE_GPI_PART,Hungary,55-64,1.2
+2007,SE_GPI_PART,Hungary,15-64,1.1
+2007,SE_GPI_PART,Hungary,15-24,1.1
+2007,SE_GPI_PART,Hungary,25-54,1.3
+2008,SE_GPI_PART,Hungary,25-54,1.3
+2008,SE_GPI_PART,Hungary,15-24,1.1
+2008,SE_GPI_PART,Hungary,15-64,1.0
+2008,SE_GPI_PART,Hungary,55-64,0.8
+2009,SE_GPI_PART,Hungary,55-64,0.8
+2009,SE_GPI_PART,Hungary,15-64,1.0
+2009,SE_GPI_PART,Hungary,15-24,1.0
+2009,SE_GPI_PART,Hungary,25-54,1.2
+2010,SE_GPI_PART,Hungary,25-54,1.1
+2010,SE_GPI_PART,Hungary,15-24,1.0
+2010,SE_GPI_PART,Hungary,15-64,1.0
+2010,SE_GPI_PART,Hungary,55-64,0.7
+2008,SE_GPI_PART,Belgium,55-64,1.0
+2008,SE_GPI_PART,Belgium,15-64,1.1
+2009,SE_GPI_PART,Belgium,15-64,1.1
+2009,SE_GPI_PART,Belgium,55-64,1.1
+2009,SE_GPI_PART,Belgium,25-54,1.1
+2009,SE_GPI_PART,Belgium,15-24,1.0
+2010,SE_GPI_PART,Belgium,15-24,1.1
+2011,SE_GPI_PART,Hungary,55-64,0.9
+2011,SE_GPI_PART,Hungary,15-64,1.0
+2011,SE_GPI_PART,Hungary,15-24,1.0
+2011,SE_GPI_PART,Hungary,25-54,1.2
+2012,SE_GPI_PART,Hungary,25-54,1.2
+2012,SE_GPI_PART,Hungary,15-24,1.0
+2012,SE_GPI_PART,Hungary,15-64,1.0
+2012,SE_GPI_PART,Hungary,55-64,1.0
+2013,SE_GPI_PART,Hungary,55-64,1.2
+2013,SE_GPI_PART,Hungary,15-64,1.0
+2013,SE_GPI_PART,Hungary,15-24,1.0
+2013,SE_GPI_PART,Hungary,25-54,1.1
+2014,SE_GPI_PART,Hungary,25-54,1.2
+2014,SE_GPI_PART,Hungary,15-64,1.0
+2014,SE_GPI_PART,Hungary,15-24,1.0
+2014,SE_GPI_PART,Hungary,55-64,1.2
+2015,SE_GPI_PART,Hungary,55-64,1.0
+2015,SE_GPI_PART,Hungary,15-24,1.0
+2015,SE_GPI_PART,Hungary,15-64,1.0
+2015,SE_GPI_PART,Hungary,25-54,1.1
+2016,SE_GPI_PART,Hungary,25-54,1.2
+2016,SE_GPI_PART,Hungary,15-24,1.1
+2016,SE_GPI_PART,Hungary,15-64,1.1
+2016,SE_GPI_PART,Hungary,55-64,1.2
+2017,SE_GPI_PART,Hungary,55-64,1.1
+2017,SE_GPI_PART,Hungary,15-64,1.0
+2017,SE_GPI_PART,Hungary,25-54,1.1
+2017,SE_GPI_PART,Hungary,15-24,1.0
+2018,SE_GPI_PART,Hungary,15-24,1.1
+2018,SE_GPI_PART,Hungary,25-54,1.1
+2018,SE_GPI_PART,Hungary,15-64,1.0
+2018,SE_GPI_PART,Hungary,55-64,1.2
+2019,SE_GPI_PART,Hungary,55-64,0.9
+2019,SE_GPI_PART,Hungary,15-64,1.0
+2019,SE_GPI_PART,Hungary,25-54,1.1
+2019,SE_GPI_PART,Hungary,15-24,1.1
+2020,SE_GPI_PART,Hungary,15-24,1.1
+2020,SE_GPI_PART,Hungary,25-54,1.2
+2020,SE_GPI_PART,Hungary,15-64,1.1
+2020,SE_GPI_PART,Hungary,55-64,1.3
+2004,SE_GPI_PART,Iceland,55-64,1.2
+2004,SE_GPI_PART,Iceland,25-54,1.4
+2010,SE_GPI_PART,Belgium,25-54,1.1
+2010,SE_GPI_PART,Belgium,55-64,1.1
+2010,SE_GPI_PART,Belgium,15-64,1.0
+2011,SE_GPI_PART,Belgium,15-64,1.1
+2011,SE_GPI_PART,Belgium,55-64,1.1
+2011,SE_GPI_PART,Belgium,25-54,1.1
+2011,SE_GPI_PART,Belgium,15-24,1.1
+2004,SE_GPI_PART,Iceland,15-64,1.2
+2004,SE_GPI_PART,Iceland,15-24,1.0
+2005,SE_GPI_PART,Iceland,15-24,1.1
+2005,SE_GPI_PART,Iceland,15-64,1.2
+2005,SE_GPI_PART,Iceland,25-54,1.3
+2005,SE_GPI_PART,Iceland,55-64,1.2
+2006,SE_GPI_PART,Iceland,55-64,1.3
+2006,SE_GPI_PART,Iceland,25-54,1.3
+2006,SE_GPI_PART,Iceland,15-64,1.2
+2006,SE_GPI_PART,Iceland,15-24,1.1
+2007,SE_GPI_PART,Iceland,15-24,1.1
+2007,SE_GPI_PART,Iceland,15-64,1.2
+2007,SE_GPI_PART,Iceland,25-54,1.3
+2007,SE_GPI_PART,Iceland,55-64,1.3
+2008,SE_GPI_PART,Iceland,55-64,1.2
+2008,SE_GPI_PART,Iceland,25-54,1.4
+2008,SE_GPI_PART,Iceland,15-64,1.2
+2008,SE_GPI_PART,Iceland,15-24,1.0
+2009,SE_GPI_PART,Iceland,15-24,1.1
+2009,SE_GPI_PART,Iceland,15-64,1.2
+2009,SE_GPI_PART,Iceland,25-54,1.3
+2009,SE_GPI_PART,Iceland,55-64,1.2
+2010,SE_GPI_PART,Iceland,55-64,1.3
+2010,SE_GPI_PART,Iceland,25-54,1.3
+2010,SE_GPI_PART,Iceland,15-64,1.2
+2010,SE_GPI_PART,Iceland,15-24,1.1
+2011,SE_GPI_PART,Iceland,15-24,1.1
+2011,SE_GPI_PART,Iceland,15-64,1.2
+2011,SE_GPI_PART,Iceland,55-64,1.2
+2011,SE_GPI_PART,Iceland,25-54,1.2
+2012,SE_GPI_PART,Iceland,55-64,1.2
+2012,SE_GPI_PART,Iceland,15-64,1.2
+2012,SE_GPI_PART,Iceland,25-54,1.3
+2012,SE_GPI_PART,Iceland,15-24,1.1
+2013,SE_GPI_PART,Iceland,15-24,1.1
+2013,SE_GPI_PART,Iceland,15-64,1.2
+2013,SE_GPI_PART,Iceland,55-64,1.3
+2013,SE_GPI_PART,Iceland,25-54,1.2
+2014,SE_GPI_PART,Iceland,25-54,1.3
+2014,SE_GPI_PART,Iceland,55-64,1.5
+2014,SE_GPI_PART,Iceland,15-64,1.2
+2014,SE_GPI_PART,Iceland,15-24,1.1
+2012,SE_GPI_PART,Belgium,15-24,1.1
+2012,SE_GPI_PART,Belgium,25-54,1.1
+2012,SE_GPI_PART,Belgium,55-64,1.0
+2012,SE_GPI_PART,Belgium,15-64,1.1
+2013,SE_GPI_PART,Belgium,15-64,1.1
+2013,SE_GPI_PART,Belgium,55-64,0.9
+2013,SE_GPI_PART,Belgium,25-54,1.1
+2015,SE_GPI_PART,Iceland,15-24,1.1
+2015,SE_GPI_PART,Iceland,15-64,1.2
+2015,SE_GPI_PART,Iceland,55-64,1.4
+2015,SE_GPI_PART,Iceland,25-54,1.3
+2016,SE_GPI_PART,Iceland,25-54,1.3
+2016,SE_GPI_PART,Iceland,55-64,1.3
+2016,SE_GPI_PART,Iceland,15-64,1.2
+2013,SE_GPI_PART,Belgium,15-24,1.1
+2014,SE_GPI_PART,Belgium,15-24,1.1
+2014,SE_GPI_PART,Belgium,25-54,1.1
+2014,SE_GPI_PART,Belgium,55-64,1.1
+2014,SE_GPI_PART,Belgium,15-64,1.1
+2015,SE_GPI_PART,Belgium,15-64,1.1
+2015,SE_GPI_PART,Belgium,55-64,1.0
+2016,SE_GPI_PART,Iceland,15-24,1.1
+2017,SE_GPI_PART,Iceland,15-24,1.1
+2017,SE_GPI_PART,Iceland,15-64,1.2
+2017,SE_GPI_PART,Iceland,55-64,1.2
+2017,SE_GPI_PART,Iceland,25-54,1.3
+2018,SE_GPI_PART,Iceland,25-54,1.3
+2018,SE_GPI_PART,Iceland,55-64,1.2
+2018,SE_GPI_PART,Iceland,15-64,1.2
+2018,SE_GPI_PART,Iceland,15-24,1.1
+2019,SE_GPI_PART,Iceland,15-24,1.2
+2019,SE_GPI_PART,Iceland,15-64,1.2
+2019,SE_GPI_PART,Iceland,55-64,1.3
+2019,SE_GPI_PART,Iceland,25-54,1.3
+2020,SE_GPI_PART,Iceland,55-64,1.2
+2015,SE_GPI_PART,Belgium,25-54,1.1
+2015,SE_GPI_PART,Belgium,15-24,1.1
+2016,SE_GPI_PART,Belgium,15-24,1.1
+2016,SE_GPI_PART,Belgium,25-54,1.1
+2016,SE_GPI_PART,Belgium,55-64,1.1
+2016,SE_GPI_PART,Belgium,15-64,1.1
+2017,SE_GPI_PART,Belgium,15-64,1.1
+2020,SE_GPI_PART,Iceland,25-54,1.3
+2020,SE_GPI_PART,Iceland,15-64,1.2
+2020,SE_GPI_PART,Iceland,15-24,1.1
+2000,SE_GPI_PART,India,25-54,0.5
+2000,SE_GPI_PART,India,15-64,0.6
+2000,SE_GPI_PART,India,15-24,0.6
+2005,SE_GPI_PART,India,25-54,0.6
+2017,SE_GPI_PART,Belgium,55-64,1.1
+2017,SE_GPI_PART,Belgium,25-54,1.2
+2017,SE_GPI_PART,Belgium,15-24,1.1
+2018,SE_GPI_PART,Belgium,15-24,1.1
+2018,SE_GPI_PART,Belgium,25-54,1.1
+2018,SE_GPI_PART,Belgium,55-64,1.1
+2018,SE_GPI_PART,Belgium,15-64,1.1
+2005,SE_GPI_PART,India,15-24,0.7
+2005,SE_GPI_PART,India,15-64,0.7
+2010,SE_GPI_PART,India,25-54,0.7
+2010,SE_GPI_PART,India,15-64,0.7
+2010,SE_GPI_PART,India,15-24,0.7
+2012,SE_GPI_PART,India,15-24,0.8
+2012,SE_GPI_PART,India,15-64,0.7
+2012,SE_GPI_PART,India,25-54,0.6
+2018,SE_GPI_PART,India,25-54,0.6
+2018,SE_GPI_PART,India,15-64,0.8
+2018,SE_GPI_PART,India,15-24,0.8
+2019,SE_GPI_PART,India,15-24,0.8
+2019,SE_GPI_PART,India,15-64,0.8
+2019,SE_GPI_PART,India,25-54,0.5
+2019,SE_GPI_PART,Belgium,15-64,1.1
+2019,SE_GPI_PART,Belgium,55-64,1.0
+2019,SE_GPI_PART,Belgium,25-54,1.2
+2019,SE_GPI_PART,Belgium,15-24,1.0
+2020,SE_GPI_PART,Belgium,15-24,1.1
+2020,SE_GPI_PART,Belgium,25-54,1.0
+2020,SE_GPI_PART,Belgium,55-64,1.1
+2020,SE_GPI_PART,India,25-54,0.6
+2020,SE_GPI_PART,India,15-64,0.8
+2020,SE_GPI_PART,India,15-24,0.9
+2004,SE_GPI_PART,Ireland,15-24,1.1
+2004,SE_GPI_PART,Ireland,15-64,1.1
+2004,SE_GPI_PART,Ireland,25-54,1.3
+2004,SE_GPI_PART,Ireland,55-64,1.3
+2020,SE_GPI_PART,Belgium,15-64,1.0
+2001,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2001,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2001,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.0
+2006,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2006,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.0
+2006,SE_GPI_PART,Bosnia and Herzegovina,25-54,0.9
+2005,SE_GPI_PART,Ireland,55-64,1.4
+2005,SE_GPI_PART,Ireland,25-54,1.3
+2005,SE_GPI_PART,Ireland,15-64,1.1
+2005,SE_GPI_PART,Ireland,15-24,1.0
+2006,SE_GPI_PART,Ireland,15-24,1.1
+2006,SE_GPI_PART,Ireland,15-64,1.2
+2006,SE_GPI_PART,Ireland,25-54,1.4
+2007,SE_GPI_PART,Bosnia and Herzegovina,25-54,0.9
+2007,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2007,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2008,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.0
+2008,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2008,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2009,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.0
+2006,SE_GPI_PART,Ireland,55-64,1.4
+2007,SE_GPI_PART,Ireland,55-64,1.3
+2007,SE_GPI_PART,Ireland,25-54,1.3
+2007,SE_GPI_PART,Ireland,15-64,1.2
+2007,SE_GPI_PART,Ireland,15-24,1.1
+2008,SE_GPI_PART,Ireland,15-24,1.1
+2008,SE_GPI_PART,Ireland,15-64,1.2
+2008,SE_GPI_PART,Ireland,25-54,1.3
+2008,SE_GPI_PART,Ireland,55-64,1.4
+2009,SE_GPI_PART,Ireland,55-64,1.3
+2009,SE_GPI_PART,Ireland,25-54,1.2
+2009,SE_GPI_PART,Ireland,15-64,1.1
+2009,SE_GPI_PART,Ireland,15-24,1.1
+2010,SE_GPI_PART,Ireland,15-24,1.0
+2010,SE_GPI_PART,Ireland,15-64,1.1
+2010,SE_GPI_PART,Ireland,25-54,1.1
+2010,SE_GPI_PART,Ireland,55-64,1.4
+2011,SE_GPI_PART,Ireland,55-64,1.3
+2011,SE_GPI_PART,Ireland,25-54,1.1
+2011,SE_GPI_PART,Ireland,15-64,1.1
+2011,SE_GPI_PART,Ireland,15-24,1.1
+2012,SE_GPI_PART,Ireland,15-24,1.1
+2012,SE_GPI_PART,Ireland,15-64,1.0
+2012,SE_GPI_PART,Ireland,25-54,1.1
+2012,SE_GPI_PART,Ireland,55-64,1.2
+2013,SE_GPI_PART,Ireland,25-54,1.1
+2013,SE_GPI_PART,Ireland,55-64,1.3
+2013,SE_GPI_PART,Ireland,15-64,1.0
+2009,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2009,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2010,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2010,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2010,SE_GPI_PART,Bosnia and Herzegovina,25-54,0.9
+2011,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.0
+2011,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2013,SE_GPI_PART,Ireland,15-24,1.1
+2014,SE_GPI_PART,Ireland,15-24,1.0
+2014,SE_GPI_PART,Ireland,15-64,1.0
+2014,SE_GPI_PART,Ireland,25-54,1.1
+2014,SE_GPI_PART,Ireland,55-64,1.4
+2015,SE_GPI_PART,Ireland,25-54,1.1
+2015,SE_GPI_PART,Ireland,55-64,1.3
+2011,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2012,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2012,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2012,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2012,SE_GPI_PART,Bosnia and Herzegovina,55-64,0.9
+2013,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.0
+2013,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2015,SE_GPI_PART,Ireland,15-64,1.1
+2015,SE_GPI_PART,Ireland,15-24,1.1
+2016,SE_GPI_PART,Ireland,15-24,1.0
+2016,SE_GPI_PART,Ireland,15-64,1.0
+2016,SE_GPI_PART,Ireland,25-54,1.1
+2016,SE_GPI_PART,Ireland,55-64,1.2
+2017,SE_GPI_PART,Ireland,25-54,1.2
+2017,SE_GPI_PART,Ireland,55-64,1.4
+2017,SE_GPI_PART,Ireland,15-64,1.1
+2017,SE_GPI_PART,Ireland,15-24,1.0
+2018,SE_GPI_PART,Ireland,15-24,1.0
+2018,SE_GPI_PART,Ireland,15-64,1.1
+2018,SE_GPI_PART,Ireland,25-54,1.3
+2018,SE_GPI_PART,Ireland,55-64,1.4
+2019,SE_GPI_PART,Ireland,25-54,1.2
+2019,SE_GPI_PART,Ireland,55-64,1.4
+2019,SE_GPI_PART,Ireland,15-64,1.1
+2019,SE_GPI_PART,Ireland,15-24,1.0
+2020,SE_GPI_PART,Ireland,15-24,1.0
+2020,SE_GPI_PART,Ireland,15-64,1.1
+2020,SE_GPI_PART,Ireland,55-64,1.3
+2020,SE_GPI_PART,Ireland,25-54,1.3
+2012,SE_GPI_PART,Israel,15-64,0.9
+2012,SE_GPI_PART,Israel,15-24,1.1
+2012,SE_GPI_PART,Israel,25-54,0.7
+2012,SE_GPI_PART,Israel,55-64,0.6
+2013,SE_GPI_PART,Israel,15-64,1.0
+2013,SE_GPI_PART,Israel,55-64,0.7
+2013,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2013,SE_GPI_PART,Bosnia and Herzegovina,55-64,0.9
+2014,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2014,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.0
+2014,SE_GPI_PART,Bosnia and Herzegovina,25-54,0.9
+2015,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.2
+2015,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2013,SE_GPI_PART,Israel,25-54,0.8
+2013,SE_GPI_PART,Israel,15-24,1.1
+2014,SE_GPI_PART,Israel,15-64,0.9
+2014,SE_GPI_PART,Israel,15-24,1.1
+2014,SE_GPI_PART,Israel,25-54,0.7
+2014,SE_GPI_PART,Israel,55-64,0.5
+2015,SE_GPI_PART,Israel,15-64,0.9
+2015,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2016,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2016,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2016,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.2
+2017,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.2
+2017,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2017,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2015,SE_GPI_PART,Israel,55-64,0.6
+2015,SE_GPI_PART,Israel,25-54,0.7
+2015,SE_GPI_PART,Israel,15-24,1.1
+2016,SE_GPI_PART,Israel,15-64,1.0
+2016,SE_GPI_PART,Israel,15-24,1.1
+2016,SE_GPI_PART,Israel,25-54,0.7
+2016,SE_GPI_PART,Israel,55-64,0.7
+2017,SE_GPI_PART,Israel,15-64,0.9
+2017,SE_GPI_PART,Israel,55-64,0.6
+2017,SE_GPI_PART,Israel,25-54,0.7
+2017,SE_GPI_PART,Israel,15-24,1.1
+2004,SE_GPI_PART,Italy,15-24,1.1
+2004,SE_GPI_PART,Italy,15-64,1.1
+2004,SE_GPI_PART,Italy,25-54,1.1
+2018,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2018,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.2
+2018,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.2
+2019,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2019,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.0
+2019,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2020,SE_GPI_PART,Bosnia and Herzegovina,55-64,0.8
+2004,SE_GPI_PART,Italy,55-64,1.0
+2005,SE_GPI_PART,Italy,25-54,1.2
+2005,SE_GPI_PART,Italy,55-64,1.0
+2005,SE_GPI_PART,Italy,15-64,1.1
+2005,SE_GPI_PART,Italy,15-24,1.1
+2006,SE_GPI_PART,Italy,15-24,1.1
+2006,SE_GPI_PART,Italy,15-64,1.1
+2020,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.1
+2020,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2020,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2021,SE_GPI_PART,Bosnia and Herzegovina,25-54,1.1
+2021,SE_GPI_PART,Bosnia and Herzegovina,15-64,1.1
+2021,SE_GPI_PART,Bosnia and Herzegovina,15-24,1.2
+2004,SE_GPI_PART,Bulgaria,15-24,1.1
+2006,SE_GPI_PART,Italy,55-64,0.9
+2006,SE_GPI_PART,Italy,25-54,1.1
+2007,SE_GPI_PART,Italy,25-54,1.1
+2007,SE_GPI_PART,Italy,55-64,0.9
+2007,SE_GPI_PART,Italy,15-64,1.1
+2007,SE_GPI_PART,Italy,15-24,1.1
+2008,SE_GPI_PART,Italy,15-24,1.1
+2008,SE_GPI_PART,Italy,15-64,1.1
+2008,SE_GPI_PART,Italy,55-64,1.0
+2008,SE_GPI_PART,Italy,25-54,1.1
+2009,SE_GPI_PART,Italy,25-54,1.1
+2009,SE_GPI_PART,Italy,55-64,1.1
+2009,SE_GPI_PART,Italy,15-64,1.1
+2009,SE_GPI_PART,Italy,15-24,1.1
+2010,SE_GPI_PART,Italy,15-24,1.1
+2010,SE_GPI_PART,Italy,15-64,1.1
+2010,SE_GPI_PART,Italy,55-64,1.1
+2010,SE_GPI_PART,Italy,25-54,1.1
+2011,SE_GPI_PART,Italy,25-54,1.1
+2011,SE_GPI_PART,Italy,55-64,1.2
+2011,SE_GPI_PART,Italy,15-64,1.1
+2011,SE_GPI_PART,Italy,15-24,1.1
+2012,SE_GPI_PART,Italy,15-24,1.1
+2012,SE_GPI_PART,Italy,15-64,1.1
+2012,SE_GPI_PART,Italy,55-64,1.2
+2012,SE_GPI_PART,Italy,25-54,1.1
+2013,SE_GPI_PART,Italy,25-54,1.1
+2013,SE_GPI_PART,Italy,55-64,1.2
+2013,SE_GPI_PART,Italy,15-64,1.1
+2013,SE_GPI_PART,Italy,15-24,1.1
+2014,SE_GPI_PART,Italy,15-24,1.1
+2014,SE_GPI_PART,Italy,15-64,1.1
+2014,SE_GPI_PART,Italy,55-64,1.1
+2014,SE_GPI_PART,Italy,25-54,1.1
+2015,SE_GPI_PART,Italy,25-54,1.1
+2015,SE_GPI_PART,Italy,55-64,1.1
+2015,SE_GPI_PART,Italy,15-64,1.1
+2015,SE_GPI_PART,Italy,15-24,1.1
+2016,SE_GPI_PART,Italy,15-24,1.1
+2016,SE_GPI_PART,Italy,15-64,1.1
+2016,SE_GPI_PART,Italy,55-64,1.0
+2016,SE_GPI_PART,Italy,25-54,1.1
+2004,SE_GPI_PART,Bulgaria,15-64,1.0
+2004,SE_GPI_PART,Bulgaria,25-54,1.3
+2005,SE_GPI_PART,Bulgaria,25-54,0.9
+2005,SE_GPI_PART,Bulgaria,15-64,1.0
+2005,SE_GPI_PART,Bulgaria,15-24,1.0
+2006,SE_GPI_PART,Bulgaria,15-24,1.0
+2006,SE_GPI_PART,Bulgaria,15-64,1.0
+2017,SE_GPI_PART,Italy,25-54,1.1
+2017,SE_GPI_PART,Italy,55-64,1.1
+2017,SE_GPI_PART,Italy,15-64,1.1
+2017,SE_GPI_PART,Italy,15-24,1.1
+2018,SE_GPI_PART,Italy,15-24,1.1
+2018,SE_GPI_PART,Italy,15-64,1.1
+2018,SE_GPI_PART,Italy,55-64,1.1
+2018,SE_GPI_PART,Italy,25-54,1.1
+2019,SE_GPI_PART,Italy,25-54,1.1
+2019,SE_GPI_PART,Italy,55-64,1.1
+2019,SE_GPI_PART,Italy,15-64,1.1
+2019,SE_GPI_PART,Italy,15-24,1.1
+2020,SE_GPI_PART,Italy,15-24,1.1
+2020,SE_GPI_PART,Italy,15-64,1.1
+2006,SE_GPI_PART,Bulgaria,25-54,1.0
+2006,SE_GPI_PART,Bulgaria,55-64,1.3
+2007,SE_GPI_PART,Bulgaria,55-64,1.3
+2007,SE_GPI_PART,Bulgaria,25-54,1.0
+2007,SE_GPI_PART,Bulgaria,15-64,1.0
+2007,SE_GPI_PART,Bulgaria,15-24,1.1
+2008,SE_GPI_PART,Bulgaria,15-24,1.1
+2020,SE_GPI_PART,Italy,25-54,1.1
+2020,SE_GPI_PART,Italy,55-64,1.1
+2021,SE_GPI_PART,Italy,55-64,1.3
+2021,SE_GPI_PART,Italy,25-54,1.2
+2021,SE_GPI_PART,Italy,15-64,1.1
+2021,SE_GPI_PART,Italy,15-24,1.1
+2000,SE_GPI_PART,Republic of Korea,15-24,0.9
+2000,SE_GPI_PART,Republic of Korea,15-64,0.9
+2000,SE_GPI_PART,Republic of Korea,55-64,1.1
+2000,SE_GPI_PART,Republic of Korea,25-54,0.4
+2001,SE_GPI_PART,Republic of Korea,15-24,0.9
+2001,SE_GPI_PART,Republic of Korea,25-54,0.4
+2001,SE_GPI_PART,Republic of Korea,55-64,1.3
+2001,SE_GPI_PART,Republic of Korea,15-64,0.9
+2002,SE_GPI_PART,Republic of Korea,15-24,0.9
+2002,SE_GPI_PART,Republic of Korea,15-64,0.9
+2002,SE_GPI_PART,Republic of Korea,25-54,0.3
+2002,SE_GPI_PART,Republic of Korea,55-64,1.6
+2003,SE_GPI_PART,Republic of Korea,15-24,1.1
+2003,SE_GPI_PART,Republic of Korea,25-54,0.5
+2003,SE_GPI_PART,Republic of Korea,55-64,0.1
+2008,SE_GPI_PART,Bulgaria,15-64,1.0
+2008,SE_GPI_PART,Bulgaria,25-54,1.0
+2009,SE_GPI_PART,Bulgaria,25-54,1.1
+2009,SE_GPI_PART,Bulgaria,15-64,1.0
+2009,SE_GPI_PART,Bulgaria,15-24,1.0
+2010,SE_GPI_PART,Bulgaria,15-24,1.1
+2010,SE_GPI_PART,Bulgaria,15-64,1.1
+2003,SE_GPI_PART,Republic of Korea,15-64,0.8
+2004,SE_GPI_PART,Republic of Korea,15-24,1.1
+2004,SE_GPI_PART,Republic of Korea,15-64,0.8
+2004,SE_GPI_PART,Republic of Korea,55-64,0.2
+2004,SE_GPI_PART,Republic of Korea,25-54,0.5
+2005,SE_GPI_PART,Republic of Korea,15-24,0.9
+2005,SE_GPI_PART,Republic of Korea,25-54,0.4
+2005,SE_GPI_PART,Republic of Korea,55-64,1.4
+2005,SE_GPI_PART,Republic of Korea,15-64,0.9
+2006,SE_GPI_PART,Republic of Korea,15-24,0.9
+2006,SE_GPI_PART,Republic of Korea,15-64,0.9
+2006,SE_GPI_PART,Republic of Korea,25-54,0.4
+2006,SE_GPI_PART,Republic of Korea,55-64,1.4
+2007,SE_GPI_PART,Republic of Korea,25-54,0.4
+2007,SE_GPI_PART,Republic of Korea,15-64,0.9
+2007,SE_GPI_PART,Republic of Korea,15-24,0.9
+2008,SE_GPI_PART,Republic of Korea,15-24,0.9
+2008,SE_GPI_PART,Republic of Korea,15-64,0.9
+2008,SE_GPI_PART,Republic of Korea,25-54,0.5
+2008,SE_GPI_PART,Republic of Korea,55-64,1.2
+2009,SE_GPI_PART,Republic of Korea,55-64,1.5
+2009,SE_GPI_PART,Republic of Korea,25-54,0.5
+2009,SE_GPI_PART,Republic of Korea,15-24,0.9
+2009,SE_GPI_PART,Republic of Korea,15-64,0.9
+2010,SE_GPI_PART,Republic of Korea,15-24,0.9
+2010,SE_GPI_PART,Republic of Korea,15-64,0.9
+2010,SE_GPI_PART,Republic of Korea,25-54,0.5
+2010,SE_GPI_PART,Republic of Korea,55-64,1.6
+2010,SE_GPI_PART,Bulgaria,25-54,1.1
+2011,SE_GPI_PART,Bulgaria,25-54,1.1
+2011,SE_GPI_PART,Bulgaria,15-64,1.1
+2011,SE_GPI_PART,Bulgaria,15-24,1.1
+2012,SE_GPI_PART,Bulgaria,15-24,1.1
+2012,SE_GPI_PART,Bulgaria,15-64,1.1
+2012,SE_GPI_PART,Bulgaria,25-54,1.1
+2011,SE_GPI_PART,Republic of Korea,25-54,0.5
+2011,SE_GPI_PART,Republic of Korea,55-64,1.5
+2011,SE_GPI_PART,Republic of Korea,15-64,0.9
+2011,SE_GPI_PART,Republic of Korea,15-24,0.9
+2012,SE_GPI_PART,Republic of Korea,15-24,0.9
+2012,SE_GPI_PART,Republic of Korea,15-64,0.9
+2012,SE_GPI_PART,Republic of Korea,25-54,0.5
+2013,SE_GPI_PART,Bulgaria,25-54,1.2
+2013,SE_GPI_PART,Bulgaria,15-64,1.1
+2013,SE_GPI_PART,Bulgaria,15-24,1.1
+2014,SE_GPI_PART,Bulgaria,15-24,1.1
+2014,SE_GPI_PART,Bulgaria,15-64,1.1
+2014,SE_GPI_PART,Bulgaria,25-54,1.3
+2015,SE_GPI_PART,Bulgaria,25-54,1.1
+2012,SE_GPI_PART,Republic of Korea,55-64,1.2
+2013,SE_GPI_PART,Republic of Korea,25-54,0.5
+2013,SE_GPI_PART,Republic of Korea,55-64,1.0
+2013,SE_GPI_PART,Republic of Korea,15-64,0.9
+2013,SE_GPI_PART,Republic of Korea,15-24,0.9
+2014,SE_GPI_PART,Republic of Korea,15-24,1.0
+2014,SE_GPI_PART,Republic of Korea,15-64,1.0
+2014,SE_GPI_PART,Republic of Korea,55-64,1.3
+2014,SE_GPI_PART,Republic of Korea,25-54,0.5
+2015,SE_GPI_PART,Republic of Korea,55-64,1.2
+2015,SE_GPI_PART,Republic of Korea,25-54,0.6
+2015,SE_GPI_PART,Republic of Korea,15-64,0.9
+2015,SE_GPI_PART,Republic of Korea,15-24,0.9
+2016,SE_GPI_PART,Republic of Korea,15-24,0.9
+2016,SE_GPI_PART,Republic of Korea,15-64,0.9
+2016,SE_GPI_PART,Republic of Korea,25-54,0.5
+2016,SE_GPI_PART,Republic of Korea,55-64,1.2
+2017,SE_GPI_PART,Republic of Korea,55-64,1.6
+2017,SE_GPI_PART,Republic of Korea,25-54,0.6
+2017,SE_GPI_PART,Republic of Korea,15-64,0.9
+2017,SE_GPI_PART,Republic of Korea,15-24,0.9
+2018,SE_GPI_PART,Republic of Korea,15-24,0.9
+2018,SE_GPI_PART,Republic of Korea,15-64,0.9
+2018,SE_GPI_PART,Republic of Korea,25-54,0.5
+2018,SE_GPI_PART,Republic of Korea,55-64,1.6
+2019,SE_GPI_PART,Republic of Korea,55-64,1.2
+2019,SE_GPI_PART,Republic of Korea,25-54,0.6
+2019,SE_GPI_PART,Republic of Korea,15-64,1.0
+2015,SE_GPI_PART,Bulgaria,15-64,1.1
+2015,SE_GPI_PART,Bulgaria,15-24,1.1
+2016,SE_GPI_PART,Bulgaria,15-24,1.1
+2016,SE_GPI_PART,Bulgaria,15-64,1.1
+2016,SE_GPI_PART,Bulgaria,25-54,1.3
+2017,SE_GPI_PART,Bulgaria,25-54,1.1
+2017,SE_GPI_PART,Bulgaria,15-64,1.0
+2019,SE_GPI_PART,Republic of Korea,15-24,0.9
+2020,SE_GPI_PART,Republic of Korea,15-24,0.9
+2020,SE_GPI_PART,Republic of Korea,15-64,1.0
+2020,SE_GPI_PART,Republic of Korea,25-54,0.6
+2020,SE_GPI_PART,Republic of Korea,55-64,0.8
+2021,SE_GPI_PART,Republic of Korea,55-64,1.3
+2021,SE_GPI_PART,Republic of Korea,25-54,0.6
+2017,SE_GPI_PART,Bulgaria,15-24,1.1
+2018,SE_GPI_PART,Bulgaria,15-24,1.1
+2018,SE_GPI_PART,Bulgaria,15-64,1.1
+2018,SE_GPI_PART,Bulgaria,25-54,1.2
+2018,SE_GPI_PART,Bulgaria,55-64,0.6
+2019,SE_GPI_PART,Bulgaria,25-54,1.0
+2019,SE_GPI_PART,Bulgaria,15-64,1.1
+2021,SE_GPI_PART,Republic of Korea,15-64,1.0
+2021,SE_GPI_PART,Republic of Korea,15-24,0.9
+2018,SE_GPI_PART,Kyrgyzstan,15-24,1.2
+2018,SE_GPI_PART,Kyrgyzstan,15-64,1.1
+2018,SE_GPI_PART,Kyrgyzstan,25-54,1.1
+2019,SE_GPI_PART,Kyrgyzstan,25-54,1.1
+2019,SE_GPI_PART,Kyrgyzstan,15-64,1.1
+2019,SE_GPI_PART,Bulgaria,15-24,1.1
+2020,SE_GPI_PART,Bulgaria,15-24,1.1
+2020,SE_GPI_PART,Bulgaria,15-64,1.1
+2020,SE_GPI_PART,Bulgaria,25-54,1.4
+2016,SE_GPI_PART,Belarus,15-64,1.0
+2016,SE_GPI_PART,Belarus,55-64,1.0
+2016,SE_GPI_PART,Belarus,15-24,1.0
+2019,SE_GPI_PART,Kyrgyzstan,15-24,1.1
+2020,SE_GPI_PART,Kyrgyzstan,15-24,1.1
+2020,SE_GPI_PART,Kyrgyzstan,15-64,1.1
+2020,SE_GPI_PART,Kyrgyzstan,25-54,1.2
+2004,SE_GPI_PART,Latvia,15-24,1.0
+2004,SE_GPI_PART,Latvia,15-64,1.2
+2004,SE_GPI_PART,Latvia,25-54,1.5
+2016,SE_GPI_PART,Belarus,25-54,1.0
+2017,SE_GPI_PART,Belarus,15-24,1.0
+2017,SE_GPI_PART,Belarus,55-64,1.0
+2017,SE_GPI_PART,Belarus,15-64,1.0
+2017,SE_GPI_PART,Belarus,25-54,1.0
+2018,SE_GPI_PART,Belarus,15-64,1.0
+2018,SE_GPI_PART,Belarus,55-64,1.0
+2005,SE_GPI_PART,Latvia,25-54,1.5
+2005,SE_GPI_PART,Latvia,55-64,1.8
+2005,SE_GPI_PART,Latvia,15-64,1.2
+2005,SE_GPI_PART,Latvia,15-24,1.1
+2006,SE_GPI_PART,Latvia,15-24,1.1
+2006,SE_GPI_PART,Latvia,15-64,1.2
+2006,SE_GPI_PART,Latvia,25-54,1.6
+2006,SE_GPI_PART,Latvia,55-64,1.3
+2007,SE_GPI_PART,Latvia,25-54,1.5
+2007,SE_GPI_PART,Latvia,55-64,1.7
+2007,SE_GPI_PART,Latvia,15-64,1.2
+2007,SE_GPI_PART,Latvia,15-24,1.1
+2008,SE_GPI_PART,Latvia,15-24,1.1
+2008,SE_GPI_PART,Latvia,15-64,1.2
+2018,SE_GPI_PART,Belarus,15-24,1.0
+2018,SE_GPI_PART,Belarus,25-54,1.0
+2019,SE_GPI_PART,Belarus,15-24,1.0
+2019,SE_GPI_PART,Belarus,55-64,0.6
+2019,SE_GPI_PART,Belarus,15-64,0.9
+2019,SE_GPI_PART,Belarus,25-54,1.0
+2020,SE_GPI_PART,Belarus,15-64,0.9
+2008,SE_GPI_PART,Latvia,55-64,1.4
+2008,SE_GPI_PART,Latvia,25-54,1.5
+2009,SE_GPI_PART,Latvia,25-54,1.5
+2009,SE_GPI_PART,Latvia,55-64,1.5
+2009,SE_GPI_PART,Latvia,15-64,1.2
+2009,SE_GPI_PART,Latvia,15-24,1.2
+2010,SE_GPI_PART,Latvia,15-24,1.1
+2010,SE_GPI_PART,Latvia,15-64,1.1
+2010,SE_GPI_PART,Latvia,25-54,1.5
+2010,SE_GPI_PART,Latvia,55-64,1.4
+2011,SE_GPI_PART,Latvia,25-54,1.4
+2011,SE_GPI_PART,Latvia,55-64,1.5
+2011,SE_GPI_PART,Latvia,15-64,1.1
+2011,SE_GPI_PART,Latvia,15-24,1.1
+2012,SE_GPI_PART,Latvia,15-24,1.1
+2012,SE_GPI_PART,Latvia,15-64,1.1
+2012,SE_GPI_PART,Latvia,55-64,1.5
+2012,SE_GPI_PART,Latvia,25-54,1.2
+2013,SE_GPI_PART,Latvia,25-54,1.4
+2013,SE_GPI_PART,Latvia,55-64,1.3
+2013,SE_GPI_PART,Latvia,15-64,1.1
+2013,SE_GPI_PART,Latvia,15-24,1.1
+2014,SE_GPI_PART,Latvia,15-24,1.1
+2014,SE_GPI_PART,Latvia,15-64,1.1
+2014,SE_GPI_PART,Latvia,25-54,1.3
+2014,SE_GPI_PART,Latvia,55-64,1.1
+2015,SE_GPI_PART,Latvia,25-54,1.4
+2015,SE_GPI_PART,Latvia,55-64,1.6
+2020,SE_GPI_PART,Belarus,55-64,0.6
+2020,SE_GPI_PART,Belarus,15-24,1.0
+2020,SE_GPI_PART,Belarus,25-54,1.0
+2000,SE_GPI_PART,Canada,15-24,1.0
+2000,SE_GPI_PART,Canada,25-54,1.5
+2000,SE_GPI_PART,Canada,15-64,0.9
+2000,SE_GPI_PART,Canada,55-64,1.3
+2015,SE_GPI_PART,Latvia,15-64,1.2
+2015,SE_GPI_PART,Latvia,15-24,1.1
+2016,SE_GPI_PART,Latvia,15-24,1.1
+2016,SE_GPI_PART,Latvia,15-64,1.1
+2016,SE_GPI_PART,Latvia,25-54,1.3
+2016,SE_GPI_PART,Latvia,55-64,1.3
+2017,SE_GPI_PART,Latvia,55-64,0.9
+2001,SE_GPI_PART,Canada,55-64,1.8
+2001,SE_GPI_PART,Canada,15-64,0.9
+2001,SE_GPI_PART,Canada,25-54,1.5
+2001,SE_GPI_PART,Canada,15-24,1.0
+2002,SE_GPI_PART,Canada,15-64,0.9
+2002,SE_GPI_PART,Canada,55-64,1.3
+2002,SE_GPI_PART,Canada,15-24,1.0
+2002,SE_GPI_PART,Canada,25-54,1.3
+2017,SE_GPI_PART,Latvia,25-54,1.3
+2017,SE_GPI_PART,Latvia,15-64,1.1
+2017,SE_GPI_PART,Latvia,15-24,1.1
+2018,SE_GPI_PART,Latvia,15-24,1.1
+2018,SE_GPI_PART,Latvia,15-64,1.2
+2018,SE_GPI_PART,Latvia,25-54,1.5
+2018,SE_GPI_PART,Latvia,55-64,1.5
+2019,SE_GPI_PART,Latvia,55-64,1.0
+2019,SE_GPI_PART,Latvia,25-54,1.5
+2019,SE_GPI_PART,Latvia,15-64,1.2
+2019,SE_GPI_PART,Latvia,15-24,1.1
+2020,SE_GPI_PART,Latvia,15-24,1.2
+2020,SE_GPI_PART,Latvia,15-64,1.2
+2020,SE_GPI_PART,Latvia,25-54,1.5
+2020,SE_GPI_PART,Latvia,55-64,1.5
+2004,SE_GPI_PART,Lithuania,15-24,1.1
+2004,SE_GPI_PART,Lithuania,55-64,1.5
+2004,SE_GPI_PART,Lithuania,25-54,1.4
+2004,SE_GPI_PART,Lithuania,15-64,1.1
+2005,SE_GPI_PART,Lithuania,15-64,1.1
+2005,SE_GPI_PART,Lithuania,25-54,1.5
+2005,SE_GPI_PART,Lithuania,55-64,1.1
+2005,SE_GPI_PART,Lithuania,15-24,1.1
+2006,SE_GPI_PART,Lithuania,15-24,1.1
+2006,SE_GPI_PART,Lithuania,55-64,1.1
+2006,SE_GPI_PART,Lithuania,25-54,1.6
+2006,SE_GPI_PART,Lithuania,15-64,1.1
+2007,SE_GPI_PART,Lithuania,15-64,1.1
+2007,SE_GPI_PART,Lithuania,25-54,1.5
+2007,SE_GPI_PART,Lithuania,55-64,1.7
+2007,SE_GPI_PART,Lithuania,15-24,1.1
+2008,SE_GPI_PART,Lithuania,15-24,1.1
+2008,SE_GPI_PART,Lithuania,55-64,1.4
+2008,SE_GPI_PART,Lithuania,25-54,1.4
+2008,SE_GPI_PART,Lithuania,15-64,1.1
+2009,SE_GPI_PART,Lithuania,15-64,1.1
+2009,SE_GPI_PART,Lithuania,25-54,1.4
+2009,SE_GPI_PART,Lithuania,55-64,1.4
+2009,SE_GPI_PART,Lithuania,15-24,1.1
+2010,SE_GPI_PART,Lithuania,15-24,1.1
+2010,SE_GPI_PART,Lithuania,55-64,1.2
+2010,SE_GPI_PART,Lithuania,25-54,1.4
+2010,SE_GPI_PART,Lithuania,15-64,1.0
+2011,SE_GPI_PART,Lithuania,15-64,1.1
+2011,SE_GPI_PART,Lithuania,25-54,1.4
+2011,SE_GPI_PART,Lithuania,55-64,1.5
+2011,SE_GPI_PART,Lithuania,15-24,1.1
+2012,SE_GPI_PART,Lithuania,15-24,1.1
+2012,SE_GPI_PART,Lithuania,55-64,1.7
+2003,SE_GPI_PART,Canada,55-64,1.0
+2003,SE_GPI_PART,Canada,15-64,0.9
+2003,SE_GPI_PART,Canada,25-54,1.4
+2003,SE_GPI_PART,Canada,15-24,1.0
+2004,SE_GPI_PART,Canada,55-64,0.8
+2004,SE_GPI_PART,Canada,15-24,1.0
+2004,SE_GPI_PART,Canada,25-54,1.3
+2004,SE_GPI_PART,Canada,15-64,0.9
+2012,SE_GPI_PART,Lithuania,25-54,1.2
+2012,SE_GPI_PART,Lithuania,15-64,1.1
+2013,SE_GPI_PART,Lithuania,15-64,1.1
+2013,SE_GPI_PART,Lithuania,25-54,1.2
+2013,SE_GPI_PART,Lithuania,55-64,1.7
+2013,SE_GPI_PART,Lithuania,15-24,1.1
+2014,SE_GPI_PART,Lithuania,15-24,1.1
+2014,SE_GPI_PART,Lithuania,55-64,1.6
+2014,SE_GPI_PART,Lithuania,25-54,1.1
+2014,SE_GPI_PART,Lithuania,15-64,1.0
+2015,SE_GPI_PART,Lithuania,15-64,1.1
+2015,SE_GPI_PART,Lithuania,25-54,1.2
+2015,SE_GPI_PART,Lithuania,55-64,1.5
+2015,SE_GPI_PART,Lithuania,15-24,1.1
+2016,SE_GPI_PART,Lithuania,15-24,1.1
+2016,SE_GPI_PART,Lithuania,55-64,1.5
+2016,SE_GPI_PART,Lithuania,25-54,1.2
+2016,SE_GPI_PART,Lithuania,15-64,1.1
+2017,SE_GPI_PART,Lithuania,15-64,1.1
+2017,SE_GPI_PART,Lithuania,25-54,1.4
+2017,SE_GPI_PART,Lithuania,55-64,1.5
+2017,SE_GPI_PART,Lithuania,15-24,1.1
+2018,SE_GPI_PART,Lithuania,15-24,1.1
+2018,SE_GPI_PART,Lithuania,55-64,1.6
+2018,SE_GPI_PART,Lithuania,25-54,1.4
+2018,SE_GPI_PART,Lithuania,15-64,1.2
+2019,SE_GPI_PART,Lithuania,15-64,1.1
+2019,SE_GPI_PART,Lithuania,25-54,1.3
+2019,SE_GPI_PART,Lithuania,55-64,1.6
+2019,SE_GPI_PART,Lithuania,15-24,1.1
+2020,SE_GPI_PART,Lithuania,15-24,1.1
+2020,SE_GPI_PART,Lithuania,55-64,1.6
+2020,SE_GPI_PART,Lithuania,25-54,1.3
+2020,SE_GPI_PART,Lithuania,15-64,1.2
+2004,SE_GPI_PART,Luxembourg,55-64,1.0
+2004,SE_GPI_PART,Luxembourg,15-24,1.0
+2004,SE_GPI_PART,Luxembourg,15-64,1.0
+2004,SE_GPI_PART,Luxembourg,25-54,1.1
+2005,SE_GPI_PART,Luxembourg,25-54,1.0
+2005,SE_GPI_PART,Luxembourg,15-64,1.0
+2005,SE_GPI_PART,Luxembourg,15-24,1.0
+2005,SE_GPI_PART,Luxembourg,55-64,1.1
+2006,SE_GPI_PART,Luxembourg,55-64,1.4
+2006,SE_GPI_PART,Luxembourg,15-24,1.0
+2006,SE_GPI_PART,Luxembourg,15-64,1.1
+2006,SE_GPI_PART,Luxembourg,25-54,1.1
+2007,SE_GPI_PART,Luxembourg,25-54,1.1
+2007,SE_GPI_PART,Luxembourg,15-64,1.0
+2007,SE_GPI_PART,Luxembourg,15-24,1.0
+2007,SE_GPI_PART,Luxembourg,55-64,1.2
+2008,SE_GPI_PART,Luxembourg,55-64,1.3
+2008,SE_GPI_PART,Luxembourg,15-24,1.0
+2008,SE_GPI_PART,Luxembourg,15-64,1.1
+2008,SE_GPI_PART,Luxembourg,25-54,1.2
+2009,SE_GPI_PART,Luxembourg,25-54,1.0
+2009,SE_GPI_PART,Luxembourg,15-64,1.0
+2009,SE_GPI_PART,Luxembourg,15-24,1.0
+2009,SE_GPI_PART,Luxembourg,55-64,1.1
+2010,SE_GPI_PART,Luxembourg,55-64,1.1
+2010,SE_GPI_PART,Luxembourg,15-24,1.0
+2010,SE_GPI_PART,Luxembourg,15-64,1.1
+2010,SE_GPI_PART,Luxembourg,25-54,1.1
+2011,SE_GPI_PART,Luxembourg,25-54,0.9
+2011,SE_GPI_PART,Luxembourg,15-64,1.0
+2011,SE_GPI_PART,Luxembourg,15-24,1.0
+2011,SE_GPI_PART,Luxembourg,55-64,0.9
+2012,SE_GPI_PART,Luxembourg,55-64,1.1
+2012,SE_GPI_PART,Luxembourg,15-24,1.1
+2012,SE_GPI_PART,Luxembourg,15-64,1.0
+2012,SE_GPI_PART,Luxembourg,25-54,1.0
+2013,SE_GPI_PART,Luxembourg,25-54,1.1
+2013,SE_GPI_PART,Luxembourg,15-64,1.1
+2013,SE_GPI_PART,Luxembourg,15-24,1.1
+2013,SE_GPI_PART,Luxembourg,55-64,0.8
+2014,SE_GPI_PART,Luxembourg,55-64,1.0
+2014,SE_GPI_PART,Luxembourg,15-24,1.1
+2014,SE_GPI_PART,Luxembourg,15-64,1.1
+2014,SE_GPI_PART,Luxembourg,25-54,1.1
+2015,SE_GPI_PART,Luxembourg,25-54,1.0
+2015,SE_GPI_PART,Luxembourg,15-64,1.0
+2015,SE_GPI_PART,Luxembourg,15-24,1.0
+2015,SE_GPI_PART,Luxembourg,55-64,0.6
+2016,SE_GPI_PART,Luxembourg,55-64,0.7
+2016,SE_GPI_PART,Luxembourg,15-24,1.0
+2005,SE_GPI_PART,Canada,55-64,1.4
+2005,SE_GPI_PART,Canada,15-64,0.9
+2005,SE_GPI_PART,Canada,25-54,1.2
+2005,SE_GPI_PART,Canada,15-24,0.9
+2006,SE_GPI_PART,Canada,15-24,1.0
+2006,SE_GPI_PART,Canada,25-54,1.4
+2006,SE_GPI_PART,Canada,15-64,0.9
+2006,SE_GPI_PART,Canada,55-64,1.4
+2007,SE_GPI_PART,Canada,55-64,1.3
+2007,SE_GPI_PART,Canada,15-64,0.9
+2007,SE_GPI_PART,Canada,25-54,1.2
+2007,SE_GPI_PART,Canada,15-24,1.0
+2008,SE_GPI_PART,Canada,15-24,1.0
+2008,SE_GPI_PART,Canada,25-54,1.3
+2008,SE_GPI_PART,Canada,15-64,1.0
+2008,SE_GPI_PART,Canada,55-64,1.3
+2016,SE_GPI_PART,Luxembourg,15-64,1.0
+2016,SE_GPI_PART,Luxembourg,25-54,1.0
+2017,SE_GPI_PART,Luxembourg,25-54,1.1
+2017,SE_GPI_PART,Luxembourg,15-64,1.0
+2017,SE_GPI_PART,Luxembourg,15-24,1.0
+2017,SE_GPI_PART,Luxembourg,55-64,1.0
+2018,SE_GPI_PART,Luxembourg,55-64,0.7
+2018,SE_GPI_PART,Luxembourg,15-24,1.0
+2018,SE_GPI_PART,Luxembourg,15-64,1.0
+2018,SE_GPI_PART,Luxembourg,25-54,1.0
+2019,SE_GPI_PART,Luxembourg,25-54,1.0
+2019,SE_GPI_PART,Luxembourg,15-64,1.0
+2019,SE_GPI_PART,Luxembourg,15-24,1.1
+2019,SE_GPI_PART,Luxembourg,55-64,0.9
+2009,SE_GPI_PART,Canada,15-64,0.9
+2009,SE_GPI_PART,Canada,25-54,1.3
+2009,SE_GPI_PART,Canada,15-24,1.0
+2009,SE_GPI_PART,Canada,55-64,1.5
+2010,SE_GPI_PART,Canada,15-24,0.9
+2010,SE_GPI_PART,Canada,25-54,1.2
+2010,SE_GPI_PART,Canada,15-64,0.9
+2010,SE_GPI_PART,Canada,55-64,1.7
+2020,SE_GPI_PART,Luxembourg,55-64,0.9
+2020,SE_GPI_PART,Luxembourg,15-24,1.0
+2020,SE_GPI_PART,Luxembourg,15-64,1.1
+2020,SE_GPI_PART,Luxembourg,25-54,1.2
+2009,SE_GPI_PART,Malta,55-64,1.0
+2009,SE_GPI_PART,Malta,25-54,1.1
+2009,SE_GPI_PART,Malta,15-64,1.0
+2009,SE_GPI_PART,Malta,15-24,1.0
+2010,SE_GPI_PART,Malta,15-24,1.1
+2010,SE_GPI_PART,Malta,15-64,1.0
+2010,SE_GPI_PART,Malta,25-54,1.1
+2010,SE_GPI_PART,Malta,55-64,1.2
+2011,SE_GPI_PART,Malta,55-64,1.4
+2011,SE_GPI_PART,Malta,25-54,1.1
+2011,SE_GPI_PART,Canada,25-54,1.3
+2011,SE_GPI_PART,Canada,15-24,1.0
+2011,SE_GPI_PART,Canada,55-64,1.6
+2011,SE_GPI_PART,Canada,15-64,0.9
+2012,SE_GPI_PART,Canada,15-24,1.0
+2012,SE_GPI_PART,Canada,25-54,1.4
+2012,SE_GPI_PART,Canada,15-64,0.9
+2012,SE_GPI_PART,Canada,55-64,0.8
+2011,SE_GPI_PART,Malta,15-64,1.1
+2011,SE_GPI_PART,Malta,15-24,1.1
+2012,SE_GPI_PART,Malta,15-24,1.1
+2012,SE_GPI_PART,Malta,15-64,1.1
+2012,SE_GPI_PART,Malta,25-54,1.1
+2012,SE_GPI_PART,Malta,55-64,1.3
+2013,SE_GPI_PART,Malta,55-64,1.1
+2013,SE_GPI_PART,Canada,15-24,1.0
+2013,SE_GPI_PART,Canada,55-64,1.1
+2013,SE_GPI_PART,Canada,15-64,0.9
+2013,SE_GPI_PART,Canada,25-54,1.3
+2014,SE_GPI_PART,Canada,15-24,1.0
+2014,SE_GPI_PART,Canada,25-54,1.2
+2014,SE_GPI_PART,Canada,15-64,0.9
+2014,SE_GPI_PART,Canada,55-64,1.1
+2013,SE_GPI_PART,Malta,25-54,1.1
+2013,SE_GPI_PART,Malta,15-64,1.1
+2013,SE_GPI_PART,Malta,15-24,1.1
+2014,SE_GPI_PART,Malta,15-24,1.0
+2014,SE_GPI_PART,Malta,15-64,1.0
+2014,SE_GPI_PART,Malta,25-54,1.1
+2014,SE_GPI_PART,Malta,55-64,1.3
+2015,SE_GPI_PART,Canada,55-64,1.2
+2015,SE_GPI_PART,Canada,15-64,0.9
+2015,SE_GPI_PART,Canada,25-54,1.3
+2015,SE_GPI_PART,Canada,15-24,0.9
+2016,SE_GPI_PART,Canada,15-24,1.0
+2016,SE_GPI_PART,Canada,25-54,1.3
+2016,SE_GPI_PART,Canada,15-64,0.9
+2016,SE_GPI_PART,Canada,55-64,1.0
+2015,SE_GPI_PART,Malta,55-64,1.2
+2015,SE_GPI_PART,Malta,25-54,1.1
+2015,SE_GPI_PART,Malta,15-64,1.1
+2015,SE_GPI_PART,Malta,15-24,1.0
+2016,SE_GPI_PART,Malta,15-24,1.1
+2016,SE_GPI_PART,Malta,15-64,1.1
+2016,SE_GPI_PART,Malta,25-54,1.2
+2016,SE_GPI_PART,Malta,55-64,1.3
+2017,SE_GPI_PART,Malta,55-64,1.1
+2017,SE_GPI_PART,Malta,25-54,1.2
+2017,SE_GPI_PART,Malta,15-64,1.1
+2017,SE_GPI_PART,Malta,15-24,1.1
+2018,SE_GPI_PART,Malta,15-24,1.0
+2018,SE_GPI_PART,Malta,15-64,1.1
+2017,SE_GPI_PART,Canada,55-64,1.3
+2017,SE_GPI_PART,Canada,15-64,1.1
+2017,SE_GPI_PART,Canada,25-54,1.3
+2017,SE_GPI_PART,Canada,15-24,1.1
+2018,SE_GPI_PART,Canada,25-54,1.3
+2018,SE_GPI_PART,Canada,15-64,1.1
+2018,SE_GPI_PART,Canada,55-64,1.4
+2018,SE_GPI_PART,Canada,15-24,1.1
+2018,SE_GPI_PART,Malta,25-54,1.3
+2018,SE_GPI_PART,Malta,55-64,1.3
+2019,SE_GPI_PART,Malta,55-64,1.4
+2019,SE_GPI_PART,Malta,25-54,1.2
+2019,SE_GPI_PART,Malta,15-64,1.1
+2019,SE_GPI_PART,Malta,15-24,1.1
+2020,SE_GPI_PART,Malta,15-24,1.1
+2019,SE_GPI_PART,Canada,55-64,1.2
+2019,SE_GPI_PART,Canada,15-64,1.1
+2019,SE_GPI_PART,Canada,25-54,1.3
+2019,SE_GPI_PART,Canada,15-24,1.1
+2020,SE_GPI_PART,Canada,15-64,1.2
+2020,SE_GPI_PART,Canada,55-64,1.4
+2020,SE_GPI_PART,Canada,15-24,1.1
+2020,SE_GPI_PART,Canada,25-54,1.3
+2021,SE_GPI_PART,Canada,55-64,1.1
+2021,SE_GPI_PART,Canada,15-64,1.2
+2021,SE_GPI_PART,Canada,25-54,1.4
+2021,SE_GPI_PART,Canada,15-24,1.1
+2000,SE_GPI_PART,Chile,55-64,1.8
+2000,SE_GPI_PART,Chile,25-54,0.8
+2000,SE_GPI_PART,Chile,15-24,1.0
+2020,SE_GPI_PART,Malta,15-64,1.2
+2020,SE_GPI_PART,Malta,25-54,1.3
+2020,SE_GPI_PART,Malta,55-64,1.2
+2005,SE_GPI_PART,Mexico,15-24,1.0
+2005,SE_GPI_PART,Mexico,25-54,1.1
+2005,SE_GPI_PART,Mexico,55-64,1.3
+2005,SE_GPI_PART,Mexico,15-64,0.9
+2006,SE_GPI_PART,Mexico,15-64,0.9
+2006,SE_GPI_PART,Mexico,55-64,1.3
+2006,SE_GPI_PART,Mexico,25-54,1.1
+2006,SE_GPI_PART,Mexico,15-24,1.0
+2007,SE_GPI_PART,Mexico,15-24,1.0
+2007,SE_GPI_PART,Mexico,25-54,1.1
+2007,SE_GPI_PART,Mexico,55-64,1.5
+2000,SE_GPI_PART,Chile,15-64,0.9
+2003,SE_GPI_PART,Chile,15-64,0.9
+2003,SE_GPI_PART,Chile,15-24,1.0
+2003,SE_GPI_PART,Chile,25-54,0.9
+2003,SE_GPI_PART,Chile,55-64,1.6
+2006,SE_GPI_PART,Chile,55-64,1.0
+2006,SE_GPI_PART,Chile,25-54,0.8
+2007,SE_GPI_PART,Mexico,15-64,0.9
+2008,SE_GPI_PART,Mexico,25-54,1.0
+2008,SE_GPI_PART,Mexico,15-24,1.0
+2008,SE_GPI_PART,Mexico,15-64,0.9
+2008,SE_GPI_PART,Mexico,55-64,1.5
+2009,SE_GPI_PART,Mexico,15-24,1.0
+2009,SE_GPI_PART,Mexico,25-54,1.0
+2009,SE_GPI_PART,Mexico,55-64,1.5
+2009,SE_GPI_PART,Mexico,15-64,0.9
+2010,SE_GPI_PART,Mexico,15-24,1.0
+2010,SE_GPI_PART,Mexico,15-64,0.9
+2010,SE_GPI_PART,Mexico,25-54,1.0
+2010,SE_GPI_PART,Mexico,55-64,1.4
+2011,SE_GPI_PART,Mexico,15-24,1.0
+2011,SE_GPI_PART,Mexico,55-64,1.5
+2006,SE_GPI_PART,Chile,15-24,1.0
+2006,SE_GPI_PART,Chile,15-64,0.9
+2009,SE_GPI_PART,Chile,15-24,1.0
+2009,SE_GPI_PART,Chile,15-64,0.9
+2009,SE_GPI_PART,Chile,25-54,0.9
+2009,SE_GPI_PART,Chile,55-64,1.0
+2010,SE_GPI_PART,Chile,25-54,1.0
+2011,SE_GPI_PART,Mexico,25-54,1.0
+2011,SE_GPI_PART,Mexico,15-64,0.9
+2012,SE_GPI_PART,Mexico,15-64,0.9
+2012,SE_GPI_PART,Mexico,55-64,1.2
+2012,SE_GPI_PART,Mexico,25-54,1.0
+2012,SE_GPI_PART,Mexico,15-24,1.0
+2013,SE_GPI_PART,Mexico,15-24,1.0
+2013,SE_GPI_PART,Mexico,55-64,1.1
+2010,SE_GPI_PART,Chile,15-24,1.1
+2010,SE_GPI_PART,Chile,15-64,1.0
+2011,SE_GPI_PART,Chile,15-64,0.9
+2011,SE_GPI_PART,Chile,15-24,1.0
+2011,SE_GPI_PART,Chile,25-54,1.1
+2012,SE_GPI_PART,Chile,25-54,1.1
+2012,SE_GPI_PART,Chile,15-24,1.0
+2013,SE_GPI_PART,Mexico,25-54,0.9
+2013,SE_GPI_PART,Mexico,15-64,0.9
+2014,SE_GPI_PART,Mexico,15-64,0.9
+2014,SE_GPI_PART,Mexico,25-54,0.9
+2014,SE_GPI_PART,Mexico,55-64,1.4
+2014,SE_GPI_PART,Mexico,15-24,1.0
+2015,SE_GPI_PART,Mexico,55-64,1.2
+2012,SE_GPI_PART,Chile,15-64,0.9
+2013,SE_GPI_PART,Chile,15-64,1.0
+2013,SE_GPI_PART,Chile,15-24,1.0
+2013,SE_GPI_PART,Chile,25-54,1.0
+2014,SE_GPI_PART,Chile,25-54,1.1
+2014,SE_GPI_PART,Chile,15-24,1.0
+2014,SE_GPI_PART,Chile,15-64,0.9
+2015,SE_GPI_PART,Mexico,25-54,1.0
+2015,SE_GPI_PART,Mexico,15-64,0.9
+2015,SE_GPI_PART,Mexico,15-24,1.0
+2016,SE_GPI_PART,Mexico,15-64,0.9
+2016,SE_GPI_PART,Mexico,25-54,1.0
+2016,SE_GPI_PART,Mexico,55-64,1.3
+2016,SE_GPI_PART,Mexico,15-24,1.0
+2017,SE_GPI_PART,Mexico,25-54,0.9
+2017,SE_GPI_PART,Mexico,15-64,0.9
+2017,SE_GPI_PART,Mexico,15-24,1.0
+2017,SE_GPI_PART,Mexico,55-64,1.4
+2018,SE_GPI_PART,Mexico,15-64,0.9
+2018,SE_GPI_PART,Mexico,25-54,0.9
+2018,SE_GPI_PART,Mexico,55-64,1.4
+2018,SE_GPI_PART,Mexico,15-24,1.0
+2015,SE_GPI_PART,Chile,15-64,0.9
+2015,SE_GPI_PART,Chile,15-24,1.1
+2015,SE_GPI_PART,Chile,25-54,1.1
+2016,SE_GPI_PART,Chile,25-54,1.2
+2016,SE_GPI_PART,Chile,15-24,1.0
+2016,SE_GPI_PART,Chile,15-64,0.9
+2016,SE_GPI_PART,Chile,55-64,1.5
+2019,SE_GPI_PART,Mexico,15-64,0.9
+2019,SE_GPI_PART,Mexico,15-24,1.0
+2019,SE_GPI_PART,Mexico,55-64,1.4
+2019,SE_GPI_PART,Mexico,25-54,1.0
+2020,SE_GPI_PART,Mexico,15-64,0.9
+2020,SE_GPI_PART,Mexico,25-54,1.1
+2020,SE_GPI_PART,Mexico,55-64,1.2
+2007,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2007,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2008,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2008,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2008,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2008,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2009,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2009,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2009,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2009,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2010,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.2
+2010,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2010,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2010,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2017,SE_GPI_PART,Chile,15-64,0.9
+2017,SE_GPI_PART,Chile,15-24,1.0
+2017,SE_GPI_PART,Chile,25-54,1.2
+2018,SE_GPI_PART,Chile,25-54,1.2
+2018,SE_GPI_PART,Chile,15-24,1.0
+2018,SE_GPI_PART,Chile,15-64,0.9
+2019,SE_GPI_PART,Chile,15-64,0.9
+2020,SE_GPI_PART,Mexico,15-24,1.0
+2021,SE_GPI_PART,Mexico,15-24,1.0
+2021,SE_GPI_PART,Mexico,55-64,1.0
+2021,SE_GPI_PART,Mexico,25-54,1.0
+2021,SE_GPI_PART,Mexico,15-64,0.9
+2011,SE_GPI_PART,Montenegro,15-24,1.1
+2011,SE_GPI_PART,Montenegro,25-54,0.8
+2011,SE_GPI_PART,Montenegro,15-64,1.0
+2012,SE_GPI_PART,Montenegro,15-64,1.0
+2012,SE_GPI_PART,Montenegro,25-54,0.8
+2012,SE_GPI_PART,Montenegro,15-24,1.0
+2013,SE_GPI_PART,Montenegro,15-24,1.1
+2013,SE_GPI_PART,Montenegro,25-54,1.1
+2013,SE_GPI_PART,Montenegro,15-64,1.0
+2019,SE_GPI_PART,Chile,15-24,1.0
+2019,SE_GPI_PART,Chile,25-54,1.0
+2020,SE_GPI_PART,Chile,25-54,0.9
+2020,SE_GPI_PART,Chile,15-24,1.1
+2020,SE_GPI_PART,Chile,15-64,1.0
+2021,SE_GPI_PART,Chile,15-64,1.0
+2021,SE_GPI_PART,Chile,15-24,1.1
+2014,SE_GPI_PART,Montenegro,15-64,1.0
+2014,SE_GPI_PART,Montenegro,25-54,0.9
+2014,SE_GPI_PART,Montenegro,15-24,1.1
+2015,SE_GPI_PART,Montenegro,15-24,1.1
+2015,SE_GPI_PART,Montenegro,25-54,0.8
+2015,SE_GPI_PART,Montenegro,15-64,1.0
+2016,SE_GPI_PART,Montenegro,15-64,1.0
+2016,SE_GPI_PART,Montenegro,25-54,0.8
+2016,SE_GPI_PART,Montenegro,15-24,1.1
+2017,SE_GPI_PART,Montenegro,15-24,1.1
+2017,SE_GPI_PART,Montenegro,25-54,0.8
+2017,SE_GPI_PART,Montenegro,15-64,1.0
+2018,SE_GPI_PART,Montenegro,15-64,1.1
+2018,SE_GPI_PART,Montenegro,25-54,1.0
+2018,SE_GPI_PART,Montenegro,15-24,1.2
+2019,SE_GPI_PART,Montenegro,15-24,1.2
+2019,SE_GPI_PART,Montenegro,25-54,1.4
+2019,SE_GPI_PART,Montenegro,15-64,1.2
+2020,SE_GPI_PART,Montenegro,15-64,1.1
+2020,SE_GPI_PART,Montenegro,15-24,1.2
+2020,SE_GPI_PART,Montenegro,25-54,1.1
+2021,SE_GPI_PART,Chile,25-54,1.1
+2021,SE_GPI_PART,Chile,55-64,0.6
+2002,SE_GPI_PART,Colombia,15-64,0.9
+2002,SE_GPI_PART,Colombia,15-24,1.0
+2002,SE_GPI_PART,Colombia,25-54,0.9
+2002,SE_GPI_PART,Colombia,55-64,1.0
+2003,SE_GPI_PART,Colombia,55-64,1.4
+2003,SE_GPI_PART,Colombia,25-54,0.9
+2003,SE_GPI_PART,Colombia,15-64,0.9
+2003,SE_GPI_PART,Colombia,15-24,0.9
+2004,SE_GPI_PART,Colombia,15-64,0.9
+2004,SE_GPI_PART,Colombia,15-24,0.9
+2004,SE_GPI_PART,Colombia,25-54,0.9
+2004,SE_GPI_PART,Colombia,55-64,1.4
+2005,SE_GPI_PART,Colombia,55-64,1.0
+2005,SE_GPI_PART,Colombia,25-54,1.0
+2005,SE_GPI_PART,Colombia,15-24,0.9
+2005,SE_GPI_PART,Colombia,15-64,0.9
+2010,SE_GPI_PART,Colombia,15-64,1.0
+2010,SE_GPI_PART,Colombia,15-24,1.0
+2010,SE_GPI_PART,Colombia,25-54,1.1
+2010,SE_GPI_PART,Colombia,55-64,1.0
+2011,SE_GPI_PART,Colombia,55-64,0.9
+2011,SE_GPI_PART,Colombia,25-54,1.1
+2011,SE_GPI_PART,Colombia,15-24,1.0
+2011,SE_GPI_PART,Colombia,15-64,1.0
+2012,SE_GPI_PART,Colombia,15-64,1.0
+2012,SE_GPI_PART,Colombia,15-24,1.0
+2012,SE_GPI_PART,Colombia,25-54,1.1
+2012,SE_GPI_PART,Colombia,55-64,1.0
+2013,SE_GPI_PART,Colombia,55-64,1.1
+2013,SE_GPI_PART,Colombia,25-54,1.2
+2013,SE_GPI_PART,Colombia,15-24,1.0
+2013,SE_GPI_PART,Colombia,15-64,1.0
+2014,SE_GPI_PART,Colombia,15-64,1.0
+2014,SE_GPI_PART,Colombia,15-24,1.0
+2014,SE_GPI_PART,Colombia,25-54,1.2
+2014,SE_GPI_PART,Colombia,55-64,1.0
+2015,SE_GPI_PART,Colombia,55-64,0.9
+2015,SE_GPI_PART,Colombia,25-54,1.1
+2015,SE_GPI_PART,Colombia,15-24,1.0
+2015,SE_GPI_PART,Colombia,15-64,1.0
+2016,SE_GPI_PART,Colombia,15-64,1.0
+2016,SE_GPI_PART,Colombia,15-24,1.0
+2016,SE_GPI_PART,Colombia,25-54,1.1
+2016,SE_GPI_PART,Colombia,55-64,1.1
+2017,SE_GPI_PART,Colombia,55-64,0.9
+2017,SE_GPI_PART,Colombia,25-54,1.1
+2017,SE_GPI_PART,Colombia,15-24,1.0
+2017,SE_GPI_PART,Colombia,15-64,1.0
+2018,SE_GPI_PART,Colombia,15-64,1.0
+2018,SE_GPI_PART,Colombia,15-24,1.0
+2018,SE_GPI_PART,Colombia,25-54,1.1
+2018,SE_GPI_PART,Colombia,55-64,1.0
+2019,SE_GPI_PART,Colombia,55-64,1.0
+2019,SE_GPI_PART,Colombia,25-54,1.1
+2019,SE_GPI_PART,Colombia,15-24,1.0
+2019,SE_GPI_PART,Colombia,15-64,1.0
+2001,SE_GPI_PART,Costa Rica,15-24,1.1
+2001,SE_GPI_PART,Costa Rica,25-54,1.1
+2001,SE_GPI_PART,Costa Rica,15-64,1.0
+2002,SE_GPI_PART,Costa Rica,15-64,1.0
+2002,SE_GPI_PART,Costa Rica,25-54,1.0
+2002,SE_GPI_PART,Costa Rica,15-24,1.1
+2003,SE_GPI_PART,Costa Rica,15-24,1.1
+2003,SE_GPI_PART,Costa Rica,25-54,1.0
+2003,SE_GPI_PART,Costa Rica,15-64,1.0
+2004,SE_GPI_PART,Costa Rica,15-64,1.0
+2004,SE_GPI_PART,Costa Rica,15-24,1.1
+2004,SE_GPI_PART,Costa Rica,25-54,1.0
+2005,SE_GPI_PART,Costa Rica,25-54,1.0
+2005,SE_GPI_PART,Costa Rica,15-24,1.1
+2005,SE_GPI_PART,Costa Rica,15-64,1.0
+2006,SE_GPI_PART,Costa Rica,15-64,1.1
+2006,SE_GPI_PART,Costa Rica,15-24,1.1
+2006,SE_GPI_PART,Costa Rica,25-54,1.1
+2007,SE_GPI_PART,Costa Rica,25-54,1.2
+2007,SE_GPI_PART,Costa Rica,15-24,1.1
+2007,SE_GPI_PART,Costa Rica,15-64,1.1
+2007,SE_GPI_PART,Costa Rica,55-64,1.4
+2008,SE_GPI_PART,Costa Rica,55-64,1.6
+2008,SE_GPI_PART,Costa Rica,15-64,1.0
+2008,SE_GPI_PART,Costa Rica,15-24,1.1
+2008,SE_GPI_PART,Costa Rica,25-54,1.1
+2009,SE_GPI_PART,Costa Rica,25-54,1.1
+2009,SE_GPI_PART,Costa Rica,15-24,1.1
+2009,SE_GPI_PART,Costa Rica,15-64,1.0
+2009,SE_GPI_PART,Costa Rica,55-64,0.6
+2010,SE_GPI_PART,Costa Rica,55-64,1.4
+2010,SE_GPI_PART,Costa Rica,15-64,1.1
+2010,SE_GPI_PART,Costa Rica,15-24,1.1
+2010,SE_GPI_PART,Costa Rica,25-54,1.1
+2011,SE_GPI_PART,Costa Rica,25-54,1.2
+2011,SE_GPI_PART,Costa Rica,15-24,1.1
+2011,SE_GPI_PART,Costa Rica,15-64,1.1
+2011,SE_GPI_PART,Costa Rica,55-64,1.6
+2012,SE_GPI_PART,Costa Rica,55-64,1.8
+2012,SE_GPI_PART,Costa Rica,15-64,1.1
+2012,SE_GPI_PART,Costa Rica,15-24,1.1
+2012,SE_GPI_PART,Costa Rica,25-54,1.2
+2013,SE_GPI_PART,Costa Rica,25-54,1.1
+2013,SE_GPI_PART,Costa Rica,15-24,1.1
+2013,SE_GPI_PART,Costa Rica,15-64,1.0
+2013,SE_GPI_PART,Costa Rica,55-64,1.8
+2014,SE_GPI_PART,Costa Rica,55-64,1.5
+2014,SE_GPI_PART,Costa Rica,15-64,1.1
+2014,SE_GPI_PART,Costa Rica,15-24,1.1
+2014,SE_GPI_PART,Costa Rica,25-54,1.1
+2015,SE_GPI_PART,Costa Rica,25-54,1.2
+2015,SE_GPI_PART,Costa Rica,15-24,1.0
+2015,SE_GPI_PART,Costa Rica,15-64,1.0
+2015,SE_GPI_PART,Costa Rica,55-64,1.2
+2016,SE_GPI_PART,Costa Rica,55-64,1.5
+2016,SE_GPI_PART,Costa Rica,15-64,1.1
+2016,SE_GPI_PART,Costa Rica,15-24,1.1
+2016,SE_GPI_PART,Costa Rica,25-54,1.2
+2017,SE_GPI_PART,Costa Rica,25-54,1.1
+2017,SE_GPI_PART,Costa Rica,15-24,1.1
+2017,SE_GPI_PART,Costa Rica,15-64,1.1
+2017,SE_GPI_PART,Costa Rica,55-64,1.1
+2018,SE_GPI_PART,Costa Rica,55-64,1.5
+2018,SE_GPI_PART,Costa Rica,15-64,1.1
+2018,SE_GPI_PART,Costa Rica,15-24,1.1
+2018,SE_GPI_PART,Costa Rica,25-54,1.2
+2019,SE_GPI_PART,Costa Rica,25-54,1.3
+2019,SE_GPI_PART,Costa Rica,15-24,1.1
+2019,SE_GPI_PART,Costa Rica,15-64,1.1
+2019,SE_GPI_PART,Costa Rica,55-64,1.5
+2020,SE_GPI_PART,Costa Rica,55-64,1.4
+2020,SE_GPI_PART,Costa Rica,15-64,1.1
+2020,SE_GPI_PART,Costa Rica,15-24,1.1
+2020,SE_GPI_PART,Costa Rica,25-54,1.4
+2021,SE_GPI_PART,Costa Rica,25-54,1.3
+2021,SE_GPI_PART,Costa Rica,15-24,1.1
+2021,SE_GPI_PART,Costa Rica,15-64,1.0
+2021,SE_GPI_PART,Costa Rica,55-64,1.4
+2005,SE_GPI_PART,Croatia,25-54,1.1
+2005,SE_GPI_PART,Croatia,15-64,1.1
+2005,SE_GPI_PART,Croatia,15-24,1.2
+2006,SE_GPI_PART,Croatia,15-24,1.1
+2006,SE_GPI_PART,Croatia,15-64,1.0
+2006,SE_GPI_PART,Croatia,55-64,1.2
+2006,SE_GPI_PART,Croatia,25-54,0.9
+2007,SE_GPI_PART,Croatia,25-54,1.3
+2007,SE_GPI_PART,Croatia,55-64,1.5
+2007,SE_GPI_PART,Croatia,15-64,1.1
+2007,SE_GPI_PART,Croatia,15-24,1.1
+2008,SE_GPI_PART,Croatia,15-24,1.2
+2008,SE_GPI_PART,Croatia,15-64,1.1
+2008,SE_GPI_PART,Croatia,55-64,1.2
+2008,SE_GPI_PART,Croatia,25-54,1.2
+2009,SE_GPI_PART,Croatia,25-54,0.9
+2009,SE_GPI_PART,Croatia,15-64,1.1
+2009,SE_GPI_PART,Croatia,15-24,1.2
+2010,SE_GPI_PART,Croatia,15-24,1.2
+2010,SE_GPI_PART,Croatia,15-64,1.1
+2010,SE_GPI_PART,Croatia,25-54,1.0
+2011,SE_GPI_PART,Croatia,25-54,1.2
+2011,SE_GPI_PART,Croatia,15-64,1.1
+2011,SE_GPI_PART,Croatia,15-24,1.2
+2012,SE_GPI_PART,Croatia,15-24,1.1
+2012,SE_GPI_PART,Croatia,15-64,1.1
+2012,SE_GPI_PART,Croatia,55-64,0.6
+2012,SE_GPI_PART,Croatia,25-54,1.3
+2013,SE_GPI_PART,Croatia,25-54,1.1
+2013,SE_GPI_PART,Croatia,55-64,0.7
+2013,SE_GPI_PART,Croatia,15-64,1.1
+2013,SE_GPI_PART,Croatia,15-24,1.1
+2014,SE_GPI_PART,Croatia,15-24,1.2
+2014,SE_GPI_PART,Croatia,15-64,1.1
+2014,SE_GPI_PART,Croatia,25-54,1.1
+2015,SE_GPI_PART,Croatia,25-54,1.3
+2015,SE_GPI_PART,Croatia,15-64,1.2
+2015,SE_GPI_PART,Croatia,15-24,1.2
+2016,SE_GPI_PART,Croatia,15-24,1.2
+2016,SE_GPI_PART,Croatia,55-64,1.2
+2016,SE_GPI_PART,Croatia,25-54,1.0
+2016,SE_GPI_PART,Croatia,15-64,1.1
+2017,SE_GPI_PART,Croatia,15-64,1.1
+2017,SE_GPI_PART,Croatia,25-54,1.2
+2017,SE_GPI_PART,Croatia,15-24,1.1
+2018,SE_GPI_PART,Croatia,15-24,1.1
+2018,SE_GPI_PART,Croatia,55-64,1.1
+2018,SE_GPI_PART,Croatia,25-54,1.3
+2018,SE_GPI_PART,Croatia,15-64,1.1
+2019,SE_GPI_PART,Croatia,15-64,1.1
+2019,SE_GPI_PART,Croatia,25-54,1.2
+2019,SE_GPI_PART,Croatia,55-64,0.9
+2019,SE_GPI_PART,Croatia,15-24,1.2
+2020,SE_GPI_PART,Croatia,15-24,1.2
+2020,SE_GPI_PART,Croatia,55-64,1.4
+2020,SE_GPI_PART,Croatia,25-54,1.3
+2020,SE_GPI_PART,Croatia,15-64,1.2
+2000,SE_GPI_PART,Cyprus,15-24,1.0
+2000,SE_GPI_PART,Cyprus,25-54,1.1
+2000,SE_GPI_PART,Cyprus,15-64,1.1
+2001,SE_GPI_PART,Cyprus,15-64,1.0
+2001,SE_GPI_PART,Cyprus,25-54,1.0
+2001,SE_GPI_PART,Cyprus,15-24,1.0
+2002,SE_GPI_PART,Cyprus,25-54,1.0
+2002,SE_GPI_PART,Cyprus,15-64,1.0
+2002,SE_GPI_PART,Cyprus,15-24,1.0
+2003,SE_GPI_PART,Cyprus,15-64,1.1
+2003,SE_GPI_PART,Cyprus,25-54,1.2
+2003,SE_GPI_PART,Cyprus,15-24,1.0
+2003,SE_GPI_PART,Cyprus,55-64,1.4
+2004,SE_GPI_PART,Cyprus,25-54,1.1
+2004,SE_GPI_PART,Cyprus,15-64,1.1
+2004,SE_GPI_PART,Cyprus,55-64,0.7
+2004,SE_GPI_PART,Cyprus,15-24,1.0
+2005,SE_GPI_PART,Cyprus,15-64,1.1
+2005,SE_GPI_PART,Cyprus,25-54,1.2
+2005,SE_GPI_PART,Cyprus,15-24,1.1
+2005,SE_GPI_PART,Cyprus,55-64,0.9
+2006,SE_GPI_PART,Cyprus,55-64,1.3
+2006,SE_GPI_PART,Cyprus,15-24,1.1
+2006,SE_GPI_PART,Cyprus,25-54,1.1
+2006,SE_GPI_PART,Cyprus,15-64,1.1
+2007,SE_GPI_PART,Cyprus,15-64,1.1
+2007,SE_GPI_PART,Cyprus,25-54,1.0
+2007,SE_GPI_PART,Cyprus,15-24,1.1
+2007,SE_GPI_PART,Cyprus,55-64,1.4
+2008,SE_GPI_PART,Cyprus,55-64,1.4
+2008,SE_GPI_PART,Cyprus,15-24,1.0
+2008,SE_GPI_PART,Cyprus,25-54,1.0
+2008,SE_GPI_PART,Cyprus,15-64,1.1
+2009,SE_GPI_PART,Cyprus,15-64,1.0
+2009,SE_GPI_PART,Cyprus,25-54,1.0
+2009,SE_GPI_PART,Cyprus,15-24,1.1
+2009,SE_GPI_PART,Cyprus,55-64,1.1
+2010,SE_GPI_PART,Cyprus,55-64,1.4
+2010,SE_GPI_PART,Cyprus,15-24,1.0
+2010,SE_GPI_PART,Cyprus,25-54,1.0
+2010,SE_GPI_PART,Cyprus,15-64,1.0
+2011,SE_GPI_PART,Cyprus,15-64,1.1
+2011,SE_GPI_PART,Cyprus,25-54,1.0
+2011,SE_GPI_PART,Cyprus,15-24,1.1
+2011,SE_GPI_PART,Cyprus,55-64,1.4
+2012,SE_GPI_PART,Cyprus,55-64,1.6
+2012,SE_GPI_PART,Cyprus,15-24,1.2
+2012,SE_GPI_PART,Cyprus,25-54,1.0
+2012,SE_GPI_PART,Cyprus,15-64,1.1
+2013,SE_GPI_PART,Cyprus,15-64,1.1
+2013,SE_GPI_PART,Cyprus,25-54,1.0
+2013,SE_GPI_PART,Cyprus,15-24,1.1
+2013,SE_GPI_PART,Cyprus,55-64,1.4
+2014,SE_GPI_PART,Cyprus,55-64,1.5
+2014,SE_GPI_PART,Cyprus,15-24,1.1
+2014,SE_GPI_PART,Cyprus,25-54,1.1
+2014,SE_GPI_PART,Cyprus,15-64,1.1
+2015,SE_GPI_PART,Cyprus,15-64,1.1
+2015,SE_GPI_PART,Cyprus,25-54,1.1
+2015,SE_GPI_PART,Cyprus,15-24,1.0
+2015,SE_GPI_PART,Cyprus,55-64,1.5
+2016,SE_GPI_PART,Cyprus,55-64,1.5
+2016,SE_GPI_PART,Cyprus,15-24,1.0
+2016,SE_GPI_PART,Cyprus,25-54,1.0
+2016,SE_GPI_PART,Cyprus,15-64,1.0
+2017,SE_GPI_PART,Cyprus,15-64,1.0
+2017,SE_GPI_PART,Cyprus,25-54,1.0
+2017,SE_GPI_PART,Cyprus,15-24,0.9
+2017,SE_GPI_PART,Cyprus,55-64,1.7
+2018,SE_GPI_PART,Cyprus,55-64,1.5
+2018,SE_GPI_PART,Cyprus,15-24,1.0
+2018,SE_GPI_PART,Cyprus,25-54,0.9
+2018,SE_GPI_PART,Cyprus,15-64,1.0
+2019,SE_GPI_PART,Cyprus,15-64,1.1
+2019,SE_GPI_PART,Cyprus,25-54,1.1
+2019,SE_GPI_PART,Cyprus,15-24,1.0
+2019,SE_GPI_PART,Cyprus,55-64,1.3
+2020,SE_GPI_PART,Cyprus,55-64,1.1
+2020,SE_GPI_PART,Cyprus,15-24,1.1
+2020,SE_GPI_PART,Cyprus,25-54,0.9
+2020,SE_GPI_PART,Cyprus,15-64,1.1
+2003,SE_GPI_PART,Czechia,15-24,1.0
+2003,SE_GPI_PART,Czechia,25-54,0.7
+2003,SE_GPI_PART,Czechia,15-64,1.0
+2003,SE_GPI_PART,Czechia,55-64,1.0
+2004,SE_GPI_PART,Czechia,55-64,0.8
+2004,SE_GPI_PART,Czechia,15-64,1.0
+2004,SE_GPI_PART,Czechia,25-54,1.1
+2004,SE_GPI_PART,Czechia,15-24,1.0
+2005,SE_GPI_PART,Czechia,15-24,1.1
+2005,SE_GPI_PART,Czechia,25-54,1.2
+2005,SE_GPI_PART,Czechia,15-64,1.1
+2005,SE_GPI_PART,Czechia,55-64,0.7
+2006,SE_GPI_PART,Czechia,55-64,0.8
+2006,SE_GPI_PART,Czechia,15-64,1.0
+2006,SE_GPI_PART,Czechia,25-54,1.1
+2006,SE_GPI_PART,Czechia,15-24,1.1
+2007,SE_GPI_PART,Czechia,15-24,1.1
+2007,SE_GPI_PART,Czechia,25-54,1.1
+2007,SE_GPI_PART,Czechia,15-64,1.0
+2007,SE_GPI_PART,Czechia,55-64,0.7
+2008,SE_GPI_PART,Czechia,55-64,0.8
+2008,SE_GPI_PART,Czechia,25-54,1.1
+2008,SE_GPI_PART,Czechia,15-24,1.1
+2008,SE_GPI_PART,Czechia,15-64,1.0
+2009,SE_GPI_PART,Czechia,15-24,1.1
+2009,SE_GPI_PART,Czechia,25-54,1.1
+2009,SE_GPI_PART,Czechia,15-64,1.1
+2009,SE_GPI_PART,Czechia,55-64,0.9
+2010,SE_GPI_PART,Czechia,55-64,0.9
+2010,SE_GPI_PART,Czechia,15-64,1.1
+2010,SE_GPI_PART,Czechia,25-54,1.1
+2010,SE_GPI_PART,Czechia,15-24,1.1
+2011,SE_GPI_PART,Czechia,15-24,1.1
+2011,SE_GPI_PART,Czechia,25-54,1.1
+2011,SE_GPI_PART,Czechia,15-64,1.1
+2011,SE_GPI_PART,Czechia,55-64,0.8
+2012,SE_GPI_PART,Czechia,55-64,1.0
+2012,SE_GPI_PART,Czechia,15-64,1.1
+2012,SE_GPI_PART,Czechia,25-54,1.0
+2012,SE_GPI_PART,Czechia,15-24,1.1
+2013,SE_GPI_PART,Czechia,15-24,1.1
+2013,SE_GPI_PART,Czechia,15-64,1.0
+2013,SE_GPI_PART,Czechia,25-54,1.0
+2013,SE_GPI_PART,Czechia,55-64,0.9
+2014,SE_GPI_PART,Czechia,55-64,1.0
+2014,SE_GPI_PART,Czechia,15-64,1.1
+2014,SE_GPI_PART,Czechia,25-54,1.0
+2014,SE_GPI_PART,Czechia,15-24,1.1
+2015,SE_GPI_PART,Czechia,15-24,1.1
+2015,SE_GPI_PART,Czechia,25-54,1.0
+2015,SE_GPI_PART,Czechia,15-64,1.0
+2015,SE_GPI_PART,Czechia,55-64,0.9
+2016,SE_GPI_PART,Czechia,55-64,1.1
+2016,SE_GPI_PART,Czechia,15-64,1.1
+2016,SE_GPI_PART,Czechia,25-54,1.1
+2016,SE_GPI_PART,Czechia,15-24,1.1
+2017,SE_GPI_PART,Czechia,15-24,1.1
+2017,SE_GPI_PART,Czechia,25-54,1.0
+2017,SE_GPI_PART,Czechia,15-64,1.0
+2017,SE_GPI_PART,Czechia,55-64,1.1
+2018,SE_GPI_PART,Czechia,55-64,1.0
+2018,SE_GPI_PART,Czechia,15-64,1.0
+2018,SE_GPI_PART,Czechia,25-54,1.0
+2018,SE_GPI_PART,Czechia,15-24,1.1
+2019,SE_GPI_PART,Czechia,15-24,1.1
+2019,SE_GPI_PART,Czechia,25-54,1.0
+2019,SE_GPI_PART,Czechia,55-64,1.2
+2019,SE_GPI_PART,Czechia,15-64,1.0
+2020,SE_GPI_PART,Czechia,55-64,1.2
+2020,SE_GPI_PART,Czechia,25-54,0.9
+2020,SE_GPI_PART,Czechia,15-64,1.0
+2020,SE_GPI_PART,Czechia,15-24,1.1
+2004,SE_GPI_PART,Denmark,15-64,1.2
+2004,SE_GPI_PART,Denmark,25-54,1.2
+2004,SE_GPI_PART,Denmark,15-24,1.0
+2004,SE_GPI_PART,Denmark,55-64,1.4
+2005,SE_GPI_PART,Denmark,55-64,1.4
+2005,SE_GPI_PART,Denmark,15-24,1.0
+2005,SE_GPI_PART,Denmark,25-54,1.2
+2005,SE_GPI_PART,Denmark,15-64,1.2
+2006,SE_GPI_PART,Denmark,15-64,1.2
+2006,SE_GPI_PART,Denmark,25-54,1.2
+2006,SE_GPI_PART,Denmark,15-24,1.1
+2006,SE_GPI_PART,Denmark,55-64,1.4
+2007,SE_GPI_PART,Denmark,55-64,1.4
+2007,SE_GPI_PART,Denmark,15-24,1.1
+2007,SE_GPI_PART,Denmark,25-54,1.3
+2007,SE_GPI_PART,Denmark,15-64,1.2
+2008,SE_GPI_PART,Denmark,15-64,1.2
+2008,SE_GPI_PART,Denmark,25-54,1.3
+2008,SE_GPI_PART,Denmark,15-24,1.1
+2008,SE_GPI_PART,Denmark,55-64,1.5
+2009,SE_GPI_PART,Denmark,55-64,1.5
+2009,SE_GPI_PART,Denmark,15-24,1.1
+2009,SE_GPI_PART,Denmark,25-54,1.3
+2009,SE_GPI_PART,Denmark,15-64,1.2
+2010,SE_GPI_PART,Denmark,15-64,1.2
+2010,SE_GPI_PART,Denmark,25-54,1.3
+2010,SE_GPI_PART,Denmark,15-24,1.1
+2010,SE_GPI_PART,Denmark,55-64,1.5
+2011,SE_GPI_PART,Denmark,55-64,1.5
+2011,SE_GPI_PART,Denmark,15-24,1.1
+2011,SE_GPI_PART,Denmark,25-54,1.3
+2011,SE_GPI_PART,Denmark,15-64,1.2
+2012,SE_GPI_PART,Denmark,15-64,1.2
+2012,SE_GPI_PART,Denmark,25-54,1.3
+2012,SE_GPI_PART,Denmark,15-24,1.1
+2012,SE_GPI_PART,Denmark,55-64,1.4
+2013,SE_GPI_PART,Denmark,55-64,1.5
+2013,SE_GPI_PART,Denmark,15-24,1.1
+2013,SE_GPI_PART,Denmark,25-54,1.3
+2013,SE_GPI_PART,Denmark,15-64,1.2
+2014,SE_GPI_PART,Denmark,15-64,1.2
+2014,SE_GPI_PART,Denmark,25-54,1.3
+2014,SE_GPI_PART,Denmark,15-24,1.1
+2014,SE_GPI_PART,Denmark,55-64,1.5
+2015,SE_GPI_PART,Denmark,55-64,1.5
+2015,SE_GPI_PART,Denmark,15-24,1.1
+2015,SE_GPI_PART,Denmark,25-54,1.3
+2015,SE_GPI_PART,Denmark,15-64,1.2
+2016,SE_GPI_PART,Denmark,15-64,1.2
+2016,SE_GPI_PART,Denmark,25-54,1.3
+2016,SE_GPI_PART,Denmark,15-24,1.0
+2016,SE_GPI_PART,Denmark,55-64,1.5
+2017,SE_GPI_PART,Denmark,55-64,1.5
+2017,SE_GPI_PART,Denmark,15-24,1.0
+2017,SE_GPI_PART,Denmark,25-54,1.3
+2017,SE_GPI_PART,Denmark,15-64,1.2
+2018,SE_GPI_PART,Denmark,15-64,1.2
+2018,SE_GPI_PART,Denmark,25-54,1.3
+2018,SE_GPI_PART,Denmark,15-24,1.0
+2018,SE_GPI_PART,Denmark,55-64,1.5
+2019,SE_GPI_PART,Denmark,55-64,1.4
+2019,SE_GPI_PART,Denmark,15-24,1.1
+2019,SE_GPI_PART,Denmark,25-54,1.3
+2019,SE_GPI_PART,Denmark,15-64,1.2
+2020,SE_GPI_PART,Denmark,15-64,1.2
+2020,SE_GPI_PART,Denmark,25-54,1.3
+2020,SE_GPI_PART,Denmark,15-24,1.0
+2020,SE_GPI_PART,Denmark,55-64,1.4
+2003,SE_GPI_PART,Estonia,25-54,1.3
+2003,SE_GPI_PART,Estonia,15-64,1.1
+2003,SE_GPI_PART,Estonia,15-24,1.2
+2004,SE_GPI_PART,Estonia,15-24,1.1
+2004,SE_GPI_PART,Estonia,15-64,1.1
+2004,SE_GPI_PART,Estonia,25-54,1.2
+2005,SE_GPI_PART,Estonia,25-54,1.4
+2005,SE_GPI_PART,Estonia,15-64,1.0
+2005,SE_GPI_PART,Estonia,15-24,1.0
+2005,SE_GPI_PART,Estonia,55-64,1.0
+2006,SE_GPI_PART,Estonia,55-64,1.8
+2006,SE_GPI_PART,Estonia,15-24,1.1
+2006,SE_GPI_PART,Estonia,15-64,1.2
+2006,SE_GPI_PART,Estonia,25-54,1.5
+2007,SE_GPI_PART,Estonia,25-54,1.5
+2007,SE_GPI_PART,Estonia,15-64,1.2
+2007,SE_GPI_PART,Estonia,15-24,1.2
+2007,SE_GPI_PART,Estonia,55-64,1.7
+2008,SE_GPI_PART,Estonia,55-64,1.3
+2008,SE_GPI_PART,Estonia,15-24,1.2
+2008,SE_GPI_PART,Estonia,15-64,1.2
+2008,SE_GPI_PART,Estonia,25-54,1.5
+2009,SE_GPI_PART,Estonia,25-54,1.4
+2009,SE_GPI_PART,Estonia,15-64,1.2
+2009,SE_GPI_PART,Estonia,15-24,1.1
+2009,SE_GPI_PART,Estonia,55-64,1.7
+2010,SE_GPI_PART,Estonia,55-64,1.6
+2010,SE_GPI_PART,Estonia,15-24,1.1
+2010,SE_GPI_PART,Estonia,15-64,1.2
+2010,SE_GPI_PART,Estonia,25-54,1.3
+2011,SE_GPI_PART,Estonia,25-54,1.4
+2011,SE_GPI_PART,Estonia,15-64,1.2
+2011,SE_GPI_PART,Estonia,15-24,1.1
+2011,SE_GPI_PART,Estonia,55-64,1.4
+2012,SE_GPI_PART,Estonia,55-64,1.5
+2012,SE_GPI_PART,Estonia,15-24,1.1
+2012,SE_GPI_PART,Estonia,15-64,1.2
+2012,SE_GPI_PART,Estonia,25-54,1.3
+2013,SE_GPI_PART,Estonia,25-54,1.4
+2013,SE_GPI_PART,Estonia,15-64,1.2
+2013,SE_GPI_PART,Estonia,15-24,1.1
+2013,SE_GPI_PART,Estonia,55-64,1.6
+2014,SE_GPI_PART,Estonia,55-64,1.3
+2014,SE_GPI_PART,Estonia,15-24,1.1
+2014,SE_GPI_PART,Estonia,15-64,1.2
+2014,SE_GPI_PART,Estonia,25-54,1.4
+2015,SE_GPI_PART,Estonia,25-54,1.3
+2015,SE_GPI_PART,Estonia,15-64,1.2
+2015,SE_GPI_PART,Estonia,15-24,1.1
+2015,SE_GPI_PART,Estonia,55-64,1.5
+2016,SE_GPI_PART,Estonia,55-64,1.6
+2016,SE_GPI_PART,Estonia,15-24,1.1
+2016,SE_GPI_PART,Estonia,15-64,1.2
+2016,SE_GPI_PART,Estonia,25-54,1.3
+2017,SE_GPI_PART,Estonia,25-54,1.3
+2017,SE_GPI_PART,Estonia,15-64,1.3
+2017,SE_GPI_PART,Estonia,15-24,1.1
+2017,SE_GPI_PART,Estonia,55-64,1.7
+2018,SE_GPI_PART,Estonia,55-64,1.6
+2018,SE_GPI_PART,Estonia,15-24,1.2
+2018,SE_GPI_PART,Estonia,15-64,1.2
+2018,SE_GPI_PART,Estonia,25-54,1.3
+2019,SE_GPI_PART,Estonia,25-54,1.3
+2019,SE_GPI_PART,Estonia,15-64,1.2
+2019,SE_GPI_PART,Estonia,15-24,1.1
+2019,SE_GPI_PART,Estonia,55-64,1.5
+2020,SE_GPI_PART,Estonia,55-64,1.6
+2020,SE_GPI_PART,Estonia,15-24,1.0
+2020,SE_GPI_PART,Estonia,15-64,1.2
+2020,SE_GPI_PART,Estonia,25-54,1.4
+2004,SE_GPI_PART,Finland,25-54,1.2
+2004,SE_GPI_PART,Finland,15-64,1.2
+2004,SE_GPI_PART,Finland,15-24,1.1
+2004,SE_GPI_PART,Finland,55-64,1.2
+2005,SE_GPI_PART,Finland,55-64,1.3
+2005,SE_GPI_PART,Finland,15-24,1.1
+2005,SE_GPI_PART,Finland,15-64,1.2
+2005,SE_GPI_PART,Finland,25-54,1.2
+2006,SE_GPI_PART,Finland,25-54,1.2
+2006,SE_GPI_PART,Finland,15-64,1.2
+2006,SE_GPI_PART,Finland,15-24,1.0
+2006,SE_GPI_PART,Finland,55-64,1.3
+2007,SE_GPI_PART,Finland,55-64,1.2
+2007,SE_GPI_PART,Finland,15-24,1.0
+2007,SE_GPI_PART,Finland,15-64,1.2
+2007,SE_GPI_PART,Finland,25-54,1.3
+2008,SE_GPI_PART,Finland,25-54,1.3
+2008,SE_GPI_PART,Finland,15-64,1.2
+2008,SE_GPI_PART,Finland,15-24,1.1
+2008,SE_GPI_PART,Finland,55-64,1.5
+2009,SE_GPI_PART,Finland,55-64,1.4
+2009,SE_GPI_PART,Finland,15-24,1.1
+2009,SE_GPI_PART,Finland,15-64,1.2
+2009,SE_GPI_PART,Finland,25-54,1.2
+2010,SE_GPI_PART,Finland,25-54,1.3
+2010,SE_GPI_PART,Finland,15-64,1.2
+2010,SE_GPI_PART,Finland,15-24,1.1
+2010,SE_GPI_PART,Finland,55-64,1.4
+2011,SE_GPI_PART,Finland,55-64,1.4
+2011,SE_GPI_PART,Finland,15-24,1.1
+2011,SE_GPI_PART,Finland,15-64,1.2
+2011,SE_GPI_PART,Finland,25-54,1.3
+2012,SE_GPI_PART,Finland,25-54,1.2
+2012,SE_GPI_PART,Finland,15-64,1.2
+2012,SE_GPI_PART,Finland,15-24,1.1
+2012,SE_GPI_PART,Finland,55-64,1.4
+2013,SE_GPI_PART,Finland,55-64,1.4
+2013,SE_GPI_PART,Finland,15-24,1.1
+2013,SE_GPI_PART,Finland,15-64,1.2
+2013,SE_GPI_PART,Finland,25-54,1.2
+2014,SE_GPI_PART,Finland,25-54,1.3
+2014,SE_GPI_PART,Finland,15-64,1.2
+2014,SE_GPI_PART,Finland,15-24,1.1
+2014,SE_GPI_PART,Finland,55-64,1.4
+2015,SE_GPI_PART,Finland,55-64,1.4
+2015,SE_GPI_PART,Finland,15-24,1.0
+2015,SE_GPI_PART,Finland,15-64,1.2
+2015,SE_GPI_PART,Finland,25-54,1.2
+2016,SE_GPI_PART,Finland,25-54,1.2
+2016,SE_GPI_PART,Finland,15-64,1.2
+2016,SE_GPI_PART,Finland,15-24,1.1
+2016,SE_GPI_PART,Finland,55-64,1.4
+2017,SE_GPI_PART,Finland,55-64,1.4
+2017,SE_GPI_PART,Finland,15-24,1.1
+2017,SE_GPI_PART,Finland,15-64,1.2
+2017,SE_GPI_PART,Finland,25-54,1.2
+2018,SE_GPI_PART,Finland,25-54,1.2
+2018,SE_GPI_PART,Finland,15-64,1.2
+2018,SE_GPI_PART,Finland,15-24,1.0
+2018,SE_GPI_PART,Finland,55-64,1.5
+2019,SE_GPI_PART,Finland,55-64,1.4
+2019,SE_GPI_PART,Finland,15-24,1.1
+2019,SE_GPI_PART,Finland,15-64,1.2
+2019,SE_GPI_PART,Finland,25-54,1.2
+2020,SE_GPI_PART,Finland,25-54,1.2
+2020,SE_GPI_PART,Finland,15-64,1.2
+2020,SE_GPI_PART,Finland,15-24,1.1
+2020,SE_GPI_PART,Finland,55-64,1.4
+2003,SE_GPI_PART,France,15-24,1.1
+2003,SE_GPI_PART,France,25-54,1.1
+2003,SE_GPI_PART,France,15-64,1.1
+2004,SE_GPI_PART,France,15-64,1.1
+2004,SE_GPI_PART,France,25-54,1.1
+2004,SE_GPI_PART,France,15-24,1.1
+2004,SE_GPI_PART,France,55-64,1.4
+2005,SE_GPI_PART,France,15-24,1.1
+2005,SE_GPI_PART,France,25-54,1.1
+2005,SE_GPI_PART,France,15-64,1.1
+2005,SE_GPI_PART,France,55-64,1.3
+2006,SE_GPI_PART,France,15-64,1.1
+2006,SE_GPI_PART,France,15-24,1.1
+2006,SE_GPI_PART,France,25-54,1.1
+2006,SE_GPI_PART,France,55-64,1.3
+2007,SE_GPI_PART,France,55-64,1.3
+2007,SE_GPI_PART,France,25-54,1.2
+2007,SE_GPI_PART,France,15-24,1.0
+2007,SE_GPI_PART,France,15-64,1.1
+2008,SE_GPI_PART,France,15-64,1.1
+2008,SE_GPI_PART,France,15-24,1.1
+2008,SE_GPI_PART,France,25-54,1.1
+2008,SE_GPI_PART,France,55-64,1.1
+2009,SE_GPI_PART,France,55-64,1.3
+2009,SE_GPI_PART,France,25-54,1.1
+2009,SE_GPI_PART,France,15-24,1.1
+2009,SE_GPI_PART,France,15-64,1.1
+2010,SE_GPI_PART,France,15-64,1.1
+2010,SE_GPI_PART,France,15-24,1.1
+2010,SE_GPI_PART,France,25-54,1.2
+2010,SE_GPI_PART,France,55-64,1.3
+2011,SE_GPI_PART,France,55-64,1.2
+2011,SE_GPI_PART,France,25-54,1.1
+2011,SE_GPI_PART,France,15-24,1.1
+2011,SE_GPI_PART,France,15-64,1.1
+2012,SE_GPI_PART,France,15-64,1.0
+2012,SE_GPI_PART,France,15-24,1.1
+2012,SE_GPI_PART,France,25-54,1.1
+2012,SE_GPI_PART,France,55-64,1.1
+2013,SE_GPI_PART,France,55-64,1.4
+2013,SE_GPI_PART,France,25-54,1.2
+2013,SE_GPI_PART,France,15-24,1.0
+2013,SE_GPI_PART,France,15-64,1.1
+2014,SE_GPI_PART,France,15-64,1.1
+2014,SE_GPI_PART,France,15-24,1.1
+2014,SE_GPI_PART,France,25-54,1.2
+2014,SE_GPI_PART,France,55-64,1.4
+2015,SE_GPI_PART,France,55-64,1.5
+2015,SE_GPI_PART,France,25-54,1.2
+2015,SE_GPI_PART,France,15-24,1.1
+2015,SE_GPI_PART,France,15-64,1.2
+2016,SE_GPI_PART,France,15-64,1.1
+2016,SE_GPI_PART,France,15-24,1.0
+2016,SE_GPI_PART,France,25-54,1.1
+2016,SE_GPI_PART,France,55-64,1.5
+2017,SE_GPI_PART,France,55-64,1.5
+2017,SE_GPI_PART,France,25-54,1.2
+2017,SE_GPI_PART,France,15-24,1.1
+2017,SE_GPI_PART,France,15-64,1.2
+2018,SE_GPI_PART,France,15-64,1.2
+2018,SE_GPI_PART,France,15-24,1.1
+2018,SE_GPI_PART,France,25-54,1.2
+2018,SE_GPI_PART,France,55-64,1.4
+2019,SE_GPI_PART,France,55-64,1.5
+2019,SE_GPI_PART,France,25-54,1.2
+2019,SE_GPI_PART,France,15-24,1.0
+2011,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2011,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2011,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2011,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2012,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2012,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2012,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2012,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2013,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.0
+2013,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2013,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2013,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2014,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.0
+2014,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2014,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2014,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2015,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2015,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2015,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.0
+2015,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2016,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2016,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.0
+2016,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2016,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2017,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2017,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2017,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2017,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.1
+2018,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2018,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.1
+2018,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2018,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2019,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.1
+2019,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2019,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2019,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.1
+2020,SE_GPI_PART,Netherlands (Kingdom of the),55-64,1.0
+2020,SE_GPI_PART,Netherlands (Kingdom of the),15-64,1.1
+2020,SE_GPI_PART,Netherlands (Kingdom of the),25-54,1.1
+2020,SE_GPI_PART,Netherlands (Kingdom of the),15-24,1.0
+2004,SE_GPI_PART,Norway,55-64,1.0
+2004,SE_GPI_PART,Norway,25-54,1.1
+2004,SE_GPI_PART,Norway,15-24,1.1
+2004,SE_GPI_PART,Norway,15-64,1.1
+2005,SE_GPI_PART,Norway,15-64,1.1
+2005,SE_GPI_PART,Norway,15-24,1.1
+2005,SE_GPI_PART,Norway,25-54,1.2
+2005,SE_GPI_PART,Norway,55-64,1.0
+2006,SE_GPI_PART,Norway,55-64,0.9
+2006,SE_GPI_PART,Norway,25-54,1.2
+2006,SE_GPI_PART,Norway,15-24,1.1
+2006,SE_GPI_PART,Norway,15-64,1.1
+2007,SE_GPI_PART,Norway,15-64,1.1
+2007,SE_GPI_PART,Norway,15-24,1.1
+2007,SE_GPI_PART,Norway,25-54,1.1
+2007,SE_GPI_PART,Norway,55-64,1.1
+2008,SE_GPI_PART,Norway,55-64,1.0
+2008,SE_GPI_PART,Norway,25-54,1.1
+2008,SE_GPI_PART,Norway,15-24,1.1
+2008,SE_GPI_PART,Norway,15-64,1.1
+2009,SE_GPI_PART,Norway,15-64,1.1
+2009,SE_GPI_PART,Norway,15-24,1.1
+2009,SE_GPI_PART,Norway,25-54,1.1
+2009,SE_GPI_PART,Norway,55-64,1.1
+2010,SE_GPI_PART,Norway,55-64,1.2
+2010,SE_GPI_PART,Norway,25-54,1.2
+2010,SE_GPI_PART,Norway,15-24,1.1
+2010,SE_GPI_PART,Norway,15-64,1.1
+2011,SE_GPI_PART,Norway,15-64,1.1
+2011,SE_GPI_PART,Norway,15-24,1.1
+2011,SE_GPI_PART,Norway,25-54,1.1
+2011,SE_GPI_PART,Norway,55-64,1.1
+2012,SE_GPI_PART,Norway,55-64,1.2
+2012,SE_GPI_PART,Norway,25-54,1.1
+2012,SE_GPI_PART,Norway,15-24,1.1
+2012,SE_GPI_PART,Norway,15-64,1.1
+2013,SE_GPI_PART,Norway,15-64,1.1
+2013,SE_GPI_PART,Norway,15-24,1.0
+2013,SE_GPI_PART,Norway,25-54,1.2
+2013,SE_GPI_PART,Norway,55-64,1.1
+2014,SE_GPI_PART,Norway,55-64,1.2
+2014,SE_GPI_PART,Norway,25-54,1.2
+2014,SE_GPI_PART,Norway,15-24,1.1
+2014,SE_GPI_PART,Norway,15-64,1.1
+2015,SE_GPI_PART,Norway,15-64,1.1
+2015,SE_GPI_PART,Norway,15-24,1.1
+2015,SE_GPI_PART,Norway,25-54,1.2
+2015,SE_GPI_PART,Norway,55-64,1.1
+2016,SE_GPI_PART,Norway,55-64,1.2
+2016,SE_GPI_PART,Norway,25-54,1.2
+2016,SE_GPI_PART,Norway,15-24,1.0
+2016,SE_GPI_PART,Norway,15-64,1.1
+2017,SE_GPI_PART,Norway,15-64,1.1
+2017,SE_GPI_PART,Norway,15-24,1.1
+2017,SE_GPI_PART,Norway,25-54,1.2
+2017,SE_GPI_PART,Norway,55-64,1.0
+2018,SE_GPI_PART,Norway,55-64,1.2
+2018,SE_GPI_PART,Norway,25-54,1.2
+2018,SE_GPI_PART,Norway,15-24,1.1
+2018,SE_GPI_PART,Norway,15-64,1.2
+2019,SE_GPI_PART,Norway,15-64,1.1
+2019,SE_GPI_PART,Norway,15-24,1.1
+2019,SE_GPI_PART,Norway,25-54,1.2
+2019,SE_GPI_PART,Norway,55-64,1.0
+2020,SE_GPI_PART,Norway,55-64,1.3
+2021,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-24,1.1
+2021,SE_GPI_PART,United Kingdom of Great Britain and Northern Ireland,15-64,1.2
+2020,SE_GPI_PART,Norway,25-54,1.1
+2020,SE_GPI_PART,Norway,15-24,1.1
+2020,SE_GPI_PART,Norway,15-64,1.1
+2004,SE_GPI_PART,Poland,55-64,1.1
+2004,SE_GPI_PART,Poland,25-54,1.3
+2004,SE_GPI_PART,Poland,15-24,1.1
+2004,SE_GPI_PART,Poland,15-64,1.1
+2005,SE_GPI_PART,Poland,15-64,1.1
+2005,SE_GPI_PART,Poland,15-24,1.1
+2005,SE_GPI_PART,Poland,55-64,0.6
+2005,SE_GPI_PART,Poland,25-54,1.3
+2006,SE_GPI_PART,Poland,25-54,1.2
+2006,SE_GPI_PART,Poland,55-64,0.8
+2006,SE_GPI_PART,Poland,15-24,1.1
+2006,SE_GPI_PART,Poland,15-64,1.0
+2007,SE_GPI_PART,Poland,15-64,1.0
+2007,SE_GPI_PART,Poland,15-24,1.0
+2007,SE_GPI_PART,Poland,55-64,1.0
+2007,SE_GPI_PART,Poland,25-54,1.2
+2008,SE_GPI_PART,Poland,25-54,1.2
+2008,SE_GPI_PART,Poland,55-64,1.1
+2008,SE_GPI_PART,Poland,15-24,1.0
+2008,SE_GPI_PART,Poland,15-64,1.0
+2009,SE_GPI_PART,Poland,15-64,1.1
+2009,SE_GPI_PART,Poland,15-24,1.1
+2009,SE_GPI_PART,Poland,55-64,0.7
+2009,SE_GPI_PART,Poland,25-54,1.2
+2010,SE_GPI_PART,Poland,25-54,1.2
+2010,SE_GPI_PART,Poland,55-64,1.0
+2010,SE_GPI_PART,Poland,15-24,1.1
+2010,SE_GPI_PART,Poland,15-64,1.1
+2011,SE_GPI_PART,Poland,15-64,1.1
+2011,SE_GPI_PART,Poland,15-24,1.1
+2011,SE_GPI_PART,Poland,55-64,1.0
+2011,SE_GPI_PART,Poland,25-54,1.2
+2012,SE_GPI_PART,Poland,25-54,1.3
+2012,SE_GPI_PART,Poland,55-64,1.0
+2012,SE_GPI_PART,Poland,15-24,1.1
+2012,SE_GPI_PART,Poland,15-64,1.1
+2013,SE_GPI_PART,Poland,15-64,1.1
+2013,SE_GPI_PART,Poland,15-24,1.1
+2013,SE_GPI_PART,Poland,25-54,1.2
+2013,SE_GPI_PART,Poland,55-64,1.4
+2014,SE_GPI_PART,Poland,25-54,1.2
+2014,SE_GPI_PART,Poland,55-64,1.3
+2014,SE_GPI_PART,Poland,15-24,1.1
+2014,SE_GPI_PART,Poland,15-64,1.1
+2015,SE_GPI_PART,Poland,15-64,1.1
+2015,SE_GPI_PART,Poland,15-24,1.1
+2015,SE_GPI_PART,Poland,55-64,1.4
+2015,SE_GPI_PART,Poland,25-54,1.2
+2016,SE_GPI_PART,Poland,25-54,1.2
+2016,SE_GPI_PART,Poland,55-64,1.3
+2016,SE_GPI_PART,Poland,15-24,1.1
+2016,SE_GPI_PART,Poland,15-64,1.1
+2017,SE_GPI_PART,Poland,15-64,1.1
+2017,SE_GPI_PART,Poland,15-24,1.1
+2017,SE_GPI_PART,Poland,55-64,1.3
+2017,SE_GPI_PART,Poland,25-54,1.2
+2018,SE_GPI_PART,Poland,25-54,1.2
+2018,SE_GPI_PART,Poland,55-64,1.4
+2018,SE_GPI_PART,Poland,15-24,1.1
+2018,SE_GPI_PART,Poland,15-64,1.1
+2019,SE_GPI_PART,Poland,15-64,1.1
+2019,SE_GPI_PART,Poland,15-24,1.1
+2019,SE_GPI_PART,Poland,55-64,1.3
+2019,SE_GPI_PART,Poland,25-54,1.2
+2020,SE_GPI_PART,Poland,25-54,1.3
+2020,SE_GPI_PART,Poland,55-64,1.4
+2020,SE_GPI_PART,Poland,15-24,1.1
+2020,SE_GPI_PART,Poland,15-64,1.1
+2000,SE_GPI_PART,Portugal,15-24,1.1
+2000,SE_GPI_PART,Portugal,15-64,1.1
+2000,SE_GPI_PART,Portugal,25-54,1.1
+2000,SE_GPI_PART,Portugal,55-64,1.9
+2001,SE_GPI_PART,Portugal,25-54,1.2
+2001,SE_GPI_PART,Portugal,15-64,1.1
+2001,SE_GPI_PART,Portugal,15-24,1.2
+2002,SE_GPI_PART,Portugal,15-64,1.3
+2002,SE_GPI_PART,Portugal,25-54,1.4
+2003,SE_GPI_PART,Portugal,25-54,1.2
+2003,SE_GPI_PART,Portugal,55-64,0.4
+2003,SE_GPI_PART,Portugal,15-64,1.2
+2004,SE_GPI_PART,Portugal,15-64,1.1
+2004,SE_GPI_PART,Portugal,15-24,1.2
+2004,SE_GPI_PART,Portugal,55-64,1.5
+2004,SE_GPI_PART,Portugal,25-54,1.2
+2005,SE_GPI_PART,Portugal,25-54,1.1
+2005,SE_GPI_PART,Portugal,55-64,1.0
+2005,SE_GPI_PART,Portugal,15-24,1.1
+2005,SE_GPI_PART,Portugal,15-64,1.1
+2006,SE_GPI_PART,Portugal,15-64,1.1
+2006,SE_GPI_PART,Portugal,15-24,1.1
+2006,SE_GPI_PART,Portugal,55-64,1.3
+2006,SE_GPI_PART,Portugal,25-54,1.1
+2007,SE_GPI_PART,Portugal,25-54,1.1
+2007,SE_GPI_PART,Portugal,55-64,1.1
+2007,SE_GPI_PART,Portugal,15-24,1.1
+2007,SE_GPI_PART,Portugal,15-64,1.0
+2008,SE_GPI_PART,Portugal,15-64,1.1
+2008,SE_GPI_PART,Portugal,15-24,1.1
+2008,SE_GPI_PART,Portugal,55-64,1.0
+2008,SE_GPI_PART,Portugal,25-54,1.1
+2009,SE_GPI_PART,Portugal,25-54,1.1
+2009,SE_GPI_PART,Portugal,55-64,1.4
+2009,SE_GPI_PART,Portugal,15-24,1.0
+2009,SE_GPI_PART,Portugal,15-64,1.0
+2010,SE_GPI_PART,Portugal,15-64,1.0
+2010,SE_GPI_PART,Portugal,15-24,1.0
+2010,SE_GPI_PART,Portugal,55-64,1.1
+2010,SE_GPI_PART,Portugal,25-54,1.0
+2011,SE_GPI_PART,Portugal,25-54,1.1
+2011,SE_GPI_PART,Portugal,55-64,1.1
+2011,SE_GPI_PART,Portugal,15-24,1.1
+2011,SE_GPI_PART,Portugal,15-64,1.0
+2012,SE_GPI_PART,Portugal,15-64,1.0
+2012,SE_GPI_PART,Portugal,15-24,1.1
+2012,SE_GPI_PART,Portugal,55-64,1.2
+2012,SE_GPI_PART,Portugal,25-54,1.1
+2013,SE_GPI_PART,Portugal,25-54,1.1
+2013,SE_GPI_PART,Portugal,55-64,1.2
+2013,SE_GPI_PART,Portugal,15-24,1.1
+2013,SE_GPI_PART,Portugal,15-64,1.0
+2014,SE_GPI_PART,Portugal,15-64,1.0
+2014,SE_GPI_PART,Portugal,15-24,1.0
+2014,SE_GPI_PART,Portugal,55-64,1.2
+2014,SE_GPI_PART,Portugal,25-54,1.1
+2015,SE_GPI_PART,Portugal,25-54,1.0
+2015,SE_GPI_PART,Portugal,55-64,1.1
+2015,SE_GPI_PART,Portugal,15-24,1.0
+2015,SE_GPI_PART,Portugal,15-64,1.0
+2016,SE_GPI_PART,Portugal,15-64,1.0
+2016,SE_GPI_PART,Portugal,15-24,1.1
+2016,SE_GPI_PART,Portugal,55-64,1.1
+2016,SE_GPI_PART,Portugal,25-54,1.0
+2017,SE_GPI_PART,Portugal,25-54,1.0
+2017,SE_GPI_PART,Portugal,55-64,1.1
+2017,SE_GPI_PART,Portugal,15-24,1.1
+2017,SE_GPI_PART,Portugal,15-64,1.0
+2018,SE_GPI_PART,Portugal,15-64,1.0
+2018,SE_GPI_PART,Portugal,15-24,1.1
+2018,SE_GPI_PART,Portugal,55-64,1.2
+2018,SE_GPI_PART,Portugal,25-54,1.1
+2019,SE_GPI_PART,Portugal,25-54,1.0
+2019,SE_GPI_PART,Portugal,55-64,1.2
+2019,SE_GPI_PART,Portugal,15-24,1.1
+2019,SE_GPI_PART,Portugal,15-64,1.0
+2020,SE_GPI_PART,Portugal,15-64,1.0
+2020,SE_GPI_PART,Portugal,15-24,1.1
+2020,SE_GPI_PART,Portugal,55-64,1.1
+2020,SE_GPI_PART,Portugal,25-54,1.1
+2021,SE_GPI_PART,Portugal,25-54,1.2
+2021,SE_GPI_PART,Portugal,55-64,1.0
+2021,SE_GPI_PART,Portugal,15-24,1.1
+2021,SE_GPI_PART,Portugal,15-64,1.1
+2000,SE_GPI_PART,Romania,15-64,1.1
+2000,SE_GPI_PART,Romania,15-24,1.1
+2000,SE_GPI_PART,Romania,25-54,0.9
+2001,SE_GPI_PART,Romania,25-54,0.9
+2001,SE_GPI_PART,Romania,15-24,1.1
+2001,SE_GPI_PART,Romania,15-64,1.0
+2002,SE_GPI_PART,Romania,15-64,1.0
+2002,SE_GPI_PART,Romania,15-24,1.1
+2002,SE_GPI_PART,Romania,25-54,1.0
+2003,SE_GPI_PART,Romania,25-54,1.1
+2003,SE_GPI_PART,Romania,15-24,1.1
+2003,SE_GPI_PART,Romania,15-64,1.1
+2004,SE_GPI_PART,Romania,15-64,1.1
+2004,SE_GPI_PART,Romania,15-24,1.1
+2004,SE_GPI_PART,Romania,25-54,1.0
+2005,SE_GPI_PART,Romania,25-54,1.1
+2005,SE_GPI_PART,Romania,15-24,1.1
+2005,SE_GPI_PART,Romania,55-64,0.5
+2005,SE_GPI_PART,Romania,15-64,1.1
+2006,SE_GPI_PART,Romania,15-64,1.1
+2006,SE_GPI_PART,Romania,55-64,0.2
+2006,SE_GPI_PART,Romania,15-24,1.1
+2006,SE_GPI_PART,Romania,25-54,1.1
+2007,SE_GPI_PART,Romania,25-54,1.2
+2007,SE_GPI_PART,Romania,15-24,1.1
+2007,SE_GPI_PART,Romania,55-64,0.2
+2007,SE_GPI_PART,Romania,15-64,1.1
+2008,SE_GPI_PART,Romania,15-64,1.1
+2008,SE_GPI_PART,Romania,55-64,1.0
+2008,SE_GPI_PART,Romania,15-24,1.1
+2008,SE_GPI_PART,Romania,25-54,1.2
+2009,SE_GPI_PART,Romania,25-54,1.2
+2009,SE_GPI_PART,Romania,15-24,1.1
+2009,SE_GPI_PART,Romania,55-64,1.0
+2009,SE_GPI_PART,Romania,15-64,1.1
+2010,SE_GPI_PART,Romania,15-64,1.0
+2010,SE_GPI_PART,Romania,55-64,0.8
+2010,SE_GPI_PART,Romania,15-24,1.1
+2010,SE_GPI_PART,Romania,25-54,1.1
+2011,SE_GPI_PART,Romania,25-54,1.0
+2011,SE_GPI_PART,Romania,15-24,1.1
+2011,SE_GPI_PART,Romania,55-64,0.6
+2011,SE_GPI_PART,Romania,15-64,1.0
+2012,SE_GPI_PART,Romania,15-64,1.0
+2012,SE_GPI_PART,Romania,55-64,0.6
+2012,SE_GPI_PART,Romania,15-24,1.1
+2012,SE_GPI_PART,Romania,25-54,1.0
+2013,SE_GPI_PART,Romania,25-54,0.9
+2013,SE_GPI_PART,Romania,55-64,0.5
+2013,SE_GPI_PART,Romania,15-24,1.1
+2013,SE_GPI_PART,Romania,15-64,1.0
+2014,SE_GPI_PART,Romania,15-64,1.0
+2014,SE_GPI_PART,Romania,15-24,1.1
+2014,SE_GPI_PART,Romania,55-64,0.5
+2014,SE_GPI_PART,Romania,25-54,0.9
+2015,SE_GPI_PART,Romania,25-54,1.0
+2015,SE_GPI_PART,Romania,55-64,1.0
+2015,SE_GPI_PART,Romania,15-24,1.1
+2015,SE_GPI_PART,Romania,15-64,1.0
+2016,SE_GPI_PART,Romania,15-64,1.0
+2016,SE_GPI_PART,Romania,15-24,1.1
+2016,SE_GPI_PART,Romania,55-64,0.8
+2016,SE_GPI_PART,Romania,25-54,1.1
+2017,SE_GPI_PART,Romania,25-54,0.9
+2017,SE_GPI_PART,Romania,55-64,0.9
+2017,SE_GPI_PART,Romania,15-24,1.0
+2017,SE_GPI_PART,Romania,15-64,1.0
+2018,SE_GPI_PART,Romania,15-64,1.0
+2018,SE_GPI_PART,Romania,15-24,1.0
+2018,SE_GPI_PART,Romania,55-64,0.9
+2018,SE_GPI_PART,Romania,25-54,1.0
+2019,SE_GPI_PART,Romania,25-54,0.9
+2019,SE_GPI_PART,Romania,55-64,0.5
+2019,SE_GPI_PART,Romania,15-24,1.1
+2019,SE_GPI_PART,Romania,15-64,1.0
+2020,SE_GPI_PART,Romania,15-64,1.0
+2020,SE_GPI_PART,Romania,15-24,1.1
+2020,SE_GPI_PART,Romania,55-64,1.0
+2020,SE_GPI_PART,Romania,25-54,1.0
+2008,SE_GPI_PART,Serbia,25-54,1.2
+2008,SE_GPI_PART,Serbia,15-24,1.1
+2008,SE_GPI_PART,Serbia,15-64,1.1
+2009,SE_GPI_PART,Serbia,15-64,1.0
+2009,SE_GPI_PART,Serbia,15-24,1.1
+2009,SE_GPI_PART,Serbia,25-54,1.2
+2010,SE_GPI_PART,Serbia,25-54,1.0
+2010,SE_GPI_PART,Serbia,15-24,1.1
+2010,SE_GPI_PART,Serbia,15-64,1.0
+2011,SE_GPI_PART,Serbia,15-64,1.1
+2011,SE_GPI_PART,Serbia,15-24,1.2
+2011,SE_GPI_PART,Serbia,25-54,1.1
+2012,SE_GPI_PART,Serbia,25-54,1.0
+2012,SE_GPI_PART,Serbia,15-24,1.1
+2012,SE_GPI_PART,Serbia,15-64,1.0
+2013,SE_GPI_PART,Serbia,15-24,1.1
+2013,SE_GPI_PART,Serbia,25-54,1.2
+2013,SE_GPI_PART,Serbia,15-64,1.0
+2014,SE_GPI_PART,Serbia,25-54,1.2
+2014,SE_GPI_PART,Serbia,15-24,1.1
+2014,SE_GPI_PART,Serbia,15-64,1.1
+2015,SE_GPI_PART,Serbia,15-64,1.1
+2015,SE_GPI_PART,Serbia,15-24,1.1
+2015,SE_GPI_PART,Serbia,25-54,1.1
+2016,SE_GPI_PART,Serbia,25-54,1.1
+2016,SE_GPI_PART,Serbia,15-24,1.1
+2016,SE_GPI_PART,Serbia,15-64,1.1
+2017,SE_GPI_PART,Serbia,15-64,1.1
+2017,SE_GPI_PART,Serbia,15-24,1.1
+2017,SE_GPI_PART,Serbia,25-54,1.1
+2018,SE_GPI_PART,Serbia,25-54,1.1
+2018,SE_GPI_PART,Serbia,15-24,1.1
+2018,SE_GPI_PART,Serbia,15-64,1.1
+2019,SE_GPI_PART,Serbia,15-64,1.1
+2019,SE_GPI_PART,Serbia,15-24,1.1
+2019,SE_GPI_PART,Serbia,25-54,1.1
+2020,SE_GPI_PART,Serbia,25-54,1.2
+2020,SE_GPI_PART,Serbia,15-24,1.2
+2020,SE_GPI_PART,Serbia,15-64,1.1
+2021,SE_GPI_PART,Serbia,15-64,1.2
+2021,SE_GPI_PART,Serbia,15-24,1.2
+2021,SE_GPI_PART,Serbia,25-54,1.3
+2021,SE_GPI_PART,Serbia,55-64,1.0
+2003,SE_GPI_PART,Slovakia,15-24,0.9
+2003,SE_GPI_PART,Slovakia,55-64,1.3
+2003,SE_GPI_PART,Slovakia,25-54,0.9
+2003,SE_GPI_PART,Slovakia,15-64,0.9
+2004,SE_GPI_PART,Slovakia,25-54,1.3
+2004,SE_GPI_PART,Slovakia,55-64,0.9
+2004,SE_GPI_PART,Slovakia,15-24,1.1
+2004,SE_GPI_PART,Slovakia,15-64,1.1
+2005,SE_GPI_PART,Slovakia,15-24,1.1
+2005,SE_GPI_PART,Slovakia,55-64,0.9
+2005,SE_GPI_PART,Slovakia,25-54,1.2
+2005,SE_GPI_PART,Slovakia,15-64,1.0
+2006,SE_GPI_PART,Slovakia,15-64,1.0
+2006,SE_GPI_PART,Slovakia,25-54,1.2
+2006,SE_GPI_PART,Slovakia,15-24,1.1
+2006,SE_GPI_PART,Slovakia,55-64,0.8
+2007,SE_GPI_PART,Slovakia,55-64,0.9
+2007,SE_GPI_PART,Slovakia,15-24,1.1
+2007,SE_GPI_PART,Slovakia,25-54,1.2
+2007,SE_GPI_PART,Slovakia,15-64,1.1
+2008,SE_GPI_PART,Slovakia,15-64,1.1
+2008,SE_GPI_PART,Slovakia,25-54,1.4
+2008,SE_GPI_PART,Slovakia,15-24,1.1
+2008,SE_GPI_PART,Slovakia,55-64,1.1
+2009,SE_GPI_PART,Slovakia,15-24,1.1
+2009,SE_GPI_PART,Slovakia,25-54,1.3
+2009,SE_GPI_PART,Slovakia,55-64,1.3
+2009,SE_GPI_PART,Slovakia,15-64,1.1
+2010,SE_GPI_PART,Slovakia,15-64,1.1
+2010,SE_GPI_PART,Slovakia,55-64,0.9
+2010,SE_GPI_PART,Slovakia,25-54,1.4
+2010,SE_GPI_PART,Slovakia,15-24,1.1
+2011,SE_GPI_PART,Slovakia,15-24,1.1
+2011,SE_GPI_PART,Slovakia,25-54,1.3
+2011,SE_GPI_PART,Slovakia,55-64,1.0
+2011,SE_GPI_PART,Slovakia,15-64,1.1
+2012,SE_GPI_PART,Slovakia,15-64,1.1
+2012,SE_GPI_PART,Slovakia,55-64,1.3
+2012,SE_GPI_PART,Slovakia,15-24,1.1
+2012,SE_GPI_PART,Slovakia,25-54,1.3
+2013,SE_GPI_PART,Slovakia,25-54,1.1
+2013,SE_GPI_PART,Slovakia,15-24,1.1
+2013,SE_GPI_PART,Slovakia,55-64,1.0
+2013,SE_GPI_PART,Slovakia,15-64,1.1
+2014,SE_GPI_PART,Slovakia,15-64,1.1
+2014,SE_GPI_PART,Slovakia,55-64,0.9
+2014,SE_GPI_PART,Slovakia,15-24,1.2
+2014,SE_GPI_PART,Slovakia,25-54,1.1
+2015,SE_GPI_PART,Slovakia,15-24,1.2
+2015,SE_GPI_PART,Slovakia,25-54,1.2
+2015,SE_GPI_PART,Slovakia,55-64,1.0
+2015,SE_GPI_PART,Slovakia,15-64,1.1
+2016,SE_GPI_PART,Slovakia,15-64,1.1
+2016,SE_GPI_PART,Slovakia,55-64,0.9
+2016,SE_GPI_PART,Slovakia,25-54,1.2
+2016,SE_GPI_PART,Slovakia,15-24,1.2
+2017,SE_GPI_PART,Slovakia,15-24,1.1
+2017,SE_GPI_PART,Slovakia,25-54,0.9
+2017,SE_GPI_PART,Slovakia,55-64,0.9
+2017,SE_GPI_PART,Slovakia,15-64,1.1
+2018,SE_GPI_PART,Slovakia,15-64,1.1
+2018,SE_GPI_PART,Slovakia,55-64,0.7
+2018,SE_GPI_PART,Slovakia,25-54,0.9
+2018,SE_GPI_PART,Slovakia,15-24,1.1
+2019,SE_GPI_PART,Slovakia,15-24,1.2
+2019,SE_GPI_PART,Slovakia,25-54,1.0
+2019,SE_GPI_PART,Slovakia,55-64,1.1
+2019,SE_GPI_PART,Slovakia,15-64,1.1
+2020,SE_GPI_PART,Slovakia,15-64,1.1
+2020,SE_GPI_PART,Slovakia,55-64,0.8
+2020,SE_GPI_PART,Slovakia,25-54,1.2
+2020,SE_GPI_PART,Slovakia,15-24,1.2
+2007,SE_GPI_PART,Viet Nam,15-64,0.9
+2007,SE_GPI_PART,Viet Nam,25-54,0.7
+2007,SE_GPI_PART,Viet Nam,15-24,1.0
+2009,SE_GPI_PART,Viet Nam,15-24,1.0
+2009,SE_GPI_PART,Viet Nam,25-54,0.9
+2009,SE_GPI_PART,Viet Nam,15-64,0.9
+2010,SE_GPI_PART,Viet Nam,15-64,1.0
+2010,SE_GPI_PART,Viet Nam,25-54,0.7
+2010,SE_GPI_PART,Viet Nam,15-24,1.0
+2011,SE_GPI_PART,Viet Nam,15-24,1.1
+2011,SE_GPI_PART,Viet Nam,25-54,0.7
+2011,SE_GPI_PART,Viet Nam,15-64,1.0
+2012,SE_GPI_PART,Viet Nam,15-64,1.0
+2012,SE_GPI_PART,Viet Nam,25-54,0.7
+2012,SE_GPI_PART,Viet Nam,15-24,1.1
+2012,SE_GPI_PART,Viet Nam,55-64,0.4
+2013,SE_GPI_PART,Viet Nam,55-64,0.6
+2013,SE_GPI_PART,Viet Nam,25-54,0.7
+2013,SE_GPI_PART,Viet Nam,15-24,1.1
+2013,SE_GPI_PART,Viet Nam,15-64,1.0
+2014,SE_GPI_PART,Viet Nam,15-64,1.0
+2014,SE_GPI_PART,Viet Nam,15-24,1.1
+2014,SE_GPI_PART,Viet Nam,25-54,0.8
+2014,SE_GPI_PART,Viet Nam,55-64,1.2
+2015,SE_GPI_PART,Viet Nam,25-54,0.7
+2015,SE_GPI_PART,Viet Nam,55-64,0.8
+2015,SE_GPI_PART,Viet Nam,15-24,1.1
+2015,SE_GPI_PART,Viet Nam,15-64,1.0
+2016,SE_GPI_PART,Viet Nam,15-64,1.0
+2016,SE_GPI_PART,Viet Nam,15-24,1.1
+2016,SE_GPI_PART,Viet Nam,55-64,0.7
+2016,SE_GPI_PART,Viet Nam,25-54,0.8
+2017,SE_GPI_PART,Viet Nam,15-64,1.0
+2017,SE_GPI_PART,Viet Nam,25-54,0.7
+2017,SE_GPI_PART,Viet Nam,55-64,0.8
+2017,SE_GPI_PART,Viet Nam,15-24,1.1
+2018,SE_GPI_PART,Viet Nam,55-64,1.1
+2018,SE_GPI_PART,Viet Nam,25-54,0.8
+2018,SE_GPI_PART,Viet Nam,15-64,1.0
+2018,SE_GPI_PART,Viet Nam,15-24,1.1
+2019,SE_GPI_PART,Viet Nam,15-64,1.0
+2019,SE_GPI_PART,Viet Nam,25-54,0.9
+2019,SE_GPI_PART,Viet Nam,55-64,0.6
+2019,SE_GPI_PART,Viet Nam,15-24,1.1
+2020,SE_GPI_PART,Viet Nam,15-24,1.1
+2020,SE_GPI_PART,Viet Nam,55-64,0.7
+2020,SE_GPI_PART,Viet Nam,25-54,0.9
+2020,SE_GPI_PART,Viet Nam,15-64,1.0
+2021,SE_GPI_PART,Viet Nam,15-64,1.0
+2021,SE_GPI_PART,Viet Nam,25-54,0.9
+2021,SE_GPI_PART,Viet Nam,55-64,1.0
+2021,SE_GPI_PART,Viet Nam,15-24,1.1
+2003,SE_GPI_PART,Slovenia,15-24,1.1
+2003,SE_GPI_PART,Slovenia,15-64,1.1
+2003,SE_GPI_PART,Slovenia,25-54,1.2
+2003,SE_GPI_PART,Slovenia,55-64,1.2
+2004,SE_GPI_PART,Slovenia,55-64,1.2
+2004,SE_GPI_PART,Slovenia,25-54,1.2
+2004,SE_GPI_PART,Slovenia,15-64,1.1
+2004,SE_GPI_PART,Slovenia,15-24,1.1
+2005,SE_GPI_PART,Slovenia,15-24,1.1
+2005,SE_GPI_PART,Slovenia,15-64,1.1
+2005,SE_GPI_PART,Slovenia,25-54,1.2
+2005,SE_GPI_PART,Slovenia,55-64,1.3
+2006,SE_GPI_PART,Slovenia,55-64,1.3
+2006,SE_GPI_PART,Slovenia,25-54,1.2
+2006,SE_GPI_PART,Slovenia,15-64,1.1
+2006,SE_GPI_PART,Slovenia,15-24,1.1
+2007,SE_GPI_PART,Slovenia,15-24,1.2
+2007,SE_GPI_PART,Slovenia,15-64,1.1
+2007,SE_GPI_PART,Slovenia,25-54,1.2
+2007,SE_GPI_PART,Slovenia,55-64,1.3
+2008,SE_GPI_PART,Slovenia,55-64,1.4
+2008,SE_GPI_PART,Slovenia,25-54,1.2
+2008,SE_GPI_PART,Slovenia,15-64,1.1
+2008,SE_GPI_PART,Slovenia,15-24,1.2
+2009,SE_GPI_PART,Slovenia,15-24,1.1
+2009,SE_GPI_PART,Slovenia,15-64,1.2
+2009,SE_GPI_PART,Slovenia,55-64,1.3
+2009,SE_GPI_PART,Slovenia,25-54,1.2
+2010,SE_GPI_PART,Slovenia,25-54,1.2
+2010,SE_GPI_PART,Slovenia,55-64,1.3
+2010,SE_GPI_PART,Slovenia,15-64,1.2
+2010,SE_GPI_PART,Slovenia,15-24,1.1
+2011,SE_GPI_PART,Slovenia,15-24,1.1
+2011,SE_GPI_PART,Slovenia,15-64,1.2
+2011,SE_GPI_PART,Slovenia,55-64,1.4
+2011,SE_GPI_PART,Slovenia,25-54,1.2
+2012,SE_GPI_PART,Slovenia,25-54,1.3
+2012,SE_GPI_PART,Slovenia,55-64,1.5
+2012,SE_GPI_PART,Slovenia,15-64,1.2
+2012,SE_GPI_PART,Slovenia,15-24,1.1
+2013,SE_GPI_PART,Slovenia,15-24,1.1
+2013,SE_GPI_PART,Slovenia,15-64,1.2
+2013,SE_GPI_PART,Slovenia,55-64,1.5
+2013,SE_GPI_PART,Slovenia,25-54,1.3
+2014,SE_GPI_PART,Slovenia,15-24,1.1
+2014,SE_GPI_PART,Slovenia,55-64,1.4
+2014,SE_GPI_PART,Slovenia,25-54,1.2
+2014,SE_GPI_PART,Slovenia,15-64,1.2
+2015,SE_GPI_PART,Slovenia,15-64,1.2
+2015,SE_GPI_PART,Slovenia,55-64,1.3
+2015,SE_GPI_PART,Slovenia,25-54,1.2
+2015,SE_GPI_PART,Slovenia,15-24,1.1
+2016,SE_GPI_PART,Slovenia,15-24,1.1
+2016,SE_GPI_PART,Slovenia,55-64,1.4
+2016,SE_GPI_PART,Slovenia,25-54,1.2
+2016,SE_GPI_PART,Slovenia,15-64,1.2
+2017,SE_GPI_PART,Slovenia,15-64,1.2
+2017,SE_GPI_PART,Slovenia,25-54,1.3
+2017,SE_GPI_PART,Slovenia,55-64,1.5
+2017,SE_GPI_PART,Slovenia,15-24,1.2
+2018,SE_GPI_PART,Slovenia,15-24,1.1
+2018,SE_GPI_PART,Slovenia,55-64,1.5
+2018,SE_GPI_PART,Slovenia,25-54,1.3
+2018,SE_GPI_PART,Slovenia,15-64,1.2
+2019,SE_GPI_PART,Slovenia,15-64,1.2
+2019,SE_GPI_PART,Slovenia,55-64,1.3
+2019,SE_GPI_PART,Slovenia,15-24,1.1
+2019,SE_GPI_PART,Slovenia,25-54,1.2
+2020,SE_GPI_PART,Slovenia,55-64,1.2
+2020,SE_GPI_PART,Slovenia,25-54,1.2
+2020,SE_GPI_PART,Slovenia,15-24,1.1
+2020,SE_GPI_PART,Slovenia,15-64,1.1
+2000,SE_GPI_PART,Spain,55-64,1.6
+2000,SE_GPI_PART,Spain,25-54,1.1
+2000,SE_GPI_PART,Spain,15-24,1.2
+2000,SE_GPI_PART,Spain,15-64,1.1
+2001,SE_GPI_PART,Spain,15-64,1.2
+2001,SE_GPI_PART,Spain,15-24,1.2
+2001,SE_GPI_PART,Spain,25-54,1.2
+2001,SE_GPI_PART,Spain,55-64,1.6
+2002,SE_GPI_PART,Spain,15-64,1.1
+2002,SE_GPI_PART,Spain,55-64,1.6
+2002,SE_GPI_PART,Spain,25-54,1.2
+2002,SE_GPI_PART,Spain,15-24,1.2
+2003,SE_GPI_PART,Spain,15-64,1.1
+2003,SE_GPI_PART,Spain,15-24,1.2
+2003,SE_GPI_PART,Spain,25-54,1.2
+2003,SE_GPI_PART,Spain,55-64,1.5
+2004,SE_GPI_PART,Spain,55-64,1.6
+2004,SE_GPI_PART,Spain,25-54,1.2
+2004,SE_GPI_PART,Spain,15-24,1.1
+2004,SE_GPI_PART,Spain,15-64,1.1
+2005,SE_GPI_PART,Spain,15-64,1.1
+2005,SE_GPI_PART,Spain,15-24,1.1
+2005,SE_GPI_PART,Spain,25-54,1.2
+2005,SE_GPI_PART,Spain,55-64,1.4
+2006,SE_GPI_PART,Spain,55-64,1.5
+2006,SE_GPI_PART,Spain,25-54,1.2
+2006,SE_GPI_PART,Spain,15-24,1.1
+2006,SE_GPI_PART,Spain,15-64,1.2
+2007,SE_GPI_PART,Spain,15-64,1.1
+2007,SE_GPI_PART,Spain,15-24,1.1
+2007,SE_GPI_PART,Spain,25-54,1.1
+2007,SE_GPI_PART,Spain,55-64,1.4
+2008,SE_GPI_PART,Spain,55-64,1.3
+2008,SE_GPI_PART,Spain,25-54,1.2
+2008,SE_GPI_PART,Spain,15-24,1.1
+2008,SE_GPI_PART,Spain,15-64,1.1
+2009,SE_GPI_PART,Spain,15-64,1.1
+2009,SE_GPI_PART,Spain,15-24,1.1
+2009,SE_GPI_PART,Spain,55-64,1.3
+2009,SE_GPI_PART,Spain,25-54,1.2
+2010,SE_GPI_PART,Spain,55-64,1.4
+2010,SE_GPI_PART,Spain,25-54,1.2
+2010,SE_GPI_PART,Spain,15-24,1.1
+2010,SE_GPI_PART,Spain,15-64,1.1
+2011,SE_GPI_PART,Spain,15-64,1.1
+2011,SE_GPI_PART,Spain,15-24,1.1
+2011,SE_GPI_PART,Spain,25-54,1.1
+2011,SE_GPI_PART,Spain,55-64,1.4
+2012,SE_GPI_PART,Spain,55-64,1.3
+2012,SE_GPI_PART,Spain,25-54,1.1
+2012,SE_GPI_PART,Spain,15-24,1.0
+2012,SE_GPI_PART,Spain,15-64,1.1
+2013,SE_GPI_PART,Spain,15-64,1.1
+2013,SE_GPI_PART,Spain,15-24,1.1
+2013,SE_GPI_PART,Spain,25-54,1.2
+2013,SE_GPI_PART,Spain,55-64,1.3
+2014,SE_GPI_PART,Spain,55-64,1.2
+2014,SE_GPI_PART,Spain,25-54,1.1
+2014,SE_GPI_PART,Spain,15-24,1.1
+2014,SE_GPI_PART,Spain,15-64,1.1
+2015,SE_GPI_PART,Spain,15-64,1.1
+2015,SE_GPI_PART,Spain,15-24,1.1
+2015,SE_GPI_PART,Spain,25-54,1.1
+2015,SE_GPI_PART,Spain,55-64,1.2
+2016,SE_GPI_PART,Spain,55-64,1.2
+2016,SE_GPI_PART,Spain,25-54,1.2
+2016,SE_GPI_PART,Spain,15-24,1.1
+2016,SE_GPI_PART,Spain,15-64,1.1
+2017,SE_GPI_PART,Spain,15-64,1.1
+2017,SE_GPI_PART,Spain,15-24,1.0
+2017,SE_GPI_PART,Spain,55-64,1.1
+2017,SE_GPI_PART,Spain,25-54,1.1
+2018,SE_GPI_PART,Spain,25-54,1.1
+2018,SE_GPI_PART,Spain,55-64,1.2
+2018,SE_GPI_PART,Spain,15-24,1.1
+2018,SE_GPI_PART,Spain,15-64,1.1
+2019,SE_GPI_PART,Spain,15-64,1.1
+2019,SE_GPI_PART,Spain,15-24,1.1
+2019,SE_GPI_PART,Spain,55-64,1.1
+2019,SE_GPI_PART,Spain,25-54,1.2
+2020,SE_GPI_PART,Spain,25-54,1.2
+2020,SE_GPI_PART,Spain,55-64,1.1
+2020,SE_GPI_PART,Spain,15-24,1.1
+2020,SE_GPI_PART,Spain,15-64,1.1
+2021,SE_GPI_PART,Spain,15-64,1.1
+2021,SE_GPI_PART,Spain,15-24,1.1
+2021,SE_GPI_PART,Spain,55-64,1.2
+2021,SE_GPI_PART,Spain,25-54,1.2
+2004,SE_GPI_PART,Sweden,15-24,1.1
+2004,SE_GPI_PART,Sweden,25-54,1.2
+2004,SE_GPI_PART,Sweden,15-64,1.2
+2004,SE_GPI_PART,Sweden,55-64,1.2
+2005,SE_GPI_PART,Sweden,55-64,1.5
+2005,SE_GPI_PART,Sweden,15-64,1.3
+2005,SE_GPI_PART,Sweden,25-54,1.4
+2005,SE_GPI_PART,Sweden,15-24,1.1
+2006,SE_GPI_PART,Sweden,15-24,1.1
+2006,SE_GPI_PART,Sweden,25-54,1.4
+2006,SE_GPI_PART,Sweden,15-64,1.3
+2006,SE_GPI_PART,Sweden,55-64,1.5
+2007,SE_GPI_PART,Sweden,55-64,1.5
+2007,SE_GPI_PART,Sweden,25-54,1.4
+2007,SE_GPI_PART,Sweden,15-64,1.3
+2007,SE_GPI_PART,Sweden,15-24,1.1
+2008,SE_GPI_PART,Sweden,15-24,1.1
+2008,SE_GPI_PART,Sweden,15-64,1.3
+2008,SE_GPI_PART,Sweden,25-54,1.4
+2008,SE_GPI_PART,Sweden,55-64,1.5
+2009,SE_GPI_PART,Sweden,55-64,1.5
+2009,SE_GPI_PART,Sweden,25-54,1.4
+2009,SE_GPI_PART,Sweden,15-64,1.3
+2009,SE_GPI_PART,Sweden,15-24,1.1
+2010,SE_GPI_PART,Sweden,15-24,1.1
+2010,SE_GPI_PART,Sweden,15-64,1.3
+2010,SE_GPI_PART,Sweden,25-54,1.4
+2010,SE_GPI_PART,Sweden,55-64,1.5
+2011,SE_GPI_PART,Sweden,55-64,1.5
+2011,SE_GPI_PART,Sweden,25-54,1.4
+2011,SE_GPI_PART,Sweden,15-64,1.3
+2011,SE_GPI_PART,Sweden,15-24,1.1
+2012,SE_GPI_PART,Sweden,15-24,1.1
+2012,SE_GPI_PART,Sweden,15-64,1.3
+2012,SE_GPI_PART,Sweden,25-54,1.4
+2012,SE_GPI_PART,Sweden,55-64,1.5
+2013,SE_GPI_PART,Sweden,25-54,1.4
+2013,SE_GPI_PART,Sweden,55-64,1.5
+2013,SE_GPI_PART,Sweden,15-64,1.3
+2013,SE_GPI_PART,Sweden,15-24,1.1
+2014,SE_GPI_PART,Sweden,15-24,1.1
+2014,SE_GPI_PART,Sweden,15-64,1.3
+2014,SE_GPI_PART,Sweden,25-54,1.4
+2014,SE_GPI_PART,Sweden,55-64,1.5
+2015,SE_GPI_PART,Sweden,55-64,1.5
+2015,SE_GPI_PART,Sweden,25-54,1.4
+2015,SE_GPI_PART,Sweden,15-64,1.3
+2015,SE_GPI_PART,Sweden,15-24,1.1
+2016,SE_GPI_PART,Sweden,15-24,1.1
+2016,SE_GPI_PART,Sweden,15-64,1.3
+2016,SE_GPI_PART,Sweden,25-54,1.4
+2016,SE_GPI_PART,Sweden,55-64,1.5
+2017,SE_GPI_PART,Sweden,55-64,1.5
+2017,SE_GPI_PART,Sweden,25-54,1.4
+2017,SE_GPI_PART,Sweden,15-64,1.3
+2017,SE_GPI_PART,Sweden,15-24,1.1
+2018,SE_GPI_PART,Sweden,15-24,1.1
+2018,SE_GPI_PART,Sweden,15-64,1.3
+2018,SE_GPI_PART,Sweden,25-54,1.4
+2018,SE_GPI_PART,Sweden,55-64,1.5
+2019,SE_GPI_PART,Sweden,55-64,1.4
+2019,SE_GPI_PART,Sweden,25-54,1.4
+2019,SE_GPI_PART,Sweden,15-64,1.3
+2019,SE_GPI_PART,Sweden,15-24,1.1
+2020,SE_GPI_PART,Sweden,15-24,1.1
+2020,SE_GPI_PART,Sweden,15-64,1.3
+2020,SE_GPI_PART,Sweden,25-54,1.4
+2020,SE_GPI_PART,Sweden,55-64,1.5
+2000,SE_GPI_PART,Switzerland,25-54,0.7
+2000,SE_GPI_PART,Switzerland,15-64,0.9
+2000,SE_GPI_PART,Switzerland,15-24,1.0
+2001,SE_GPI_PART,Switzerland,15-24,1.0
+2001,SE_GPI_PART,Switzerland,15-64,1.0
+2001,SE_GPI_PART,Switzerland,25-54,1.0
+2001,SE_GPI_PART,Switzerland,55-64,1.3
+2002,SE_GPI_PART,Switzerland,55-64,0.8
+2002,SE_GPI_PART,Switzerland,25-54,0.9
+2002,SE_GPI_PART,Switzerland,15-64,1.0
+2002,SE_GPI_PART,Switzerland,15-24,1.1
+2003,SE_GPI_PART,Switzerland,15-24,1.1
+2003,SE_GPI_PART,Switzerland,15-64,1.0
+2003,SE_GPI_PART,Switzerland,25-54,0.9
+2003,SE_GPI_PART,Switzerland,55-64,1.1
+2004,SE_GPI_PART,Switzerland,55-64,0.9
+2004,SE_GPI_PART,Switzerland,25-54,0.9
+2004,SE_GPI_PART,Switzerland,15-64,1.0
+2004,SE_GPI_PART,Switzerland,15-24,1.0
+2005,SE_GPI_PART,Switzerland,15-24,1.0
+2005,SE_GPI_PART,Switzerland,15-64,1.0
+2005,SE_GPI_PART,Switzerland,25-54,1.0
+2005,SE_GPI_PART,Switzerland,55-64,1.0
+2006,SE_GPI_PART,Switzerland,25-54,1.1
+2006,SE_GPI_PART,Switzerland,55-64,1.2
+2006,SE_GPI_PART,Switzerland,15-64,1.1
+2006,SE_GPI_PART,Switzerland,15-24,1.1
+2007,SE_GPI_PART,Switzerland,15-24,1.1
+2007,SE_GPI_PART,Switzerland,25-54,1.1
+2007,SE_GPI_PART,Switzerland,15-64,1.0
+2007,SE_GPI_PART,Switzerland,55-64,1.1
+2008,SE_GPI_PART,Switzerland,55-64,1.1
+2008,SE_GPI_PART,Switzerland,25-54,1.0
+2008,SE_GPI_PART,Switzerland,15-64,1.0
+2008,SE_GPI_PART,Switzerland,15-24,1.1
+2009,SE_GPI_PART,Switzerland,15-24,1.0
+2009,SE_GPI_PART,Switzerland,15-64,1.1
+2009,SE_GPI_PART,Switzerland,25-54,1.1
+2009,SE_GPI_PART,Switzerland,55-64,1.2
+2010,SE_GPI_PART,Switzerland,55-64,0.9
+2010,SE_GPI_PART,Switzerland,25-54,0.9
+2010,SE_GPI_PART,Switzerland,15-64,1.0
+2010,SE_GPI_PART,Switzerland,15-24,1.0
+2011,SE_GPI_PART,Switzerland,15-24,1.1
+2011,SE_GPI_PART,Switzerland,15-64,1.0
+2011,SE_GPI_PART,Switzerland,25-54,0.9
+2011,SE_GPI_PART,Switzerland,55-64,0.9
+2012,SE_GPI_PART,Switzerland,55-64,0.9
+2012,SE_GPI_PART,Switzerland,25-54,0.9
+2012,SE_GPI_PART,Switzerland,15-64,1.0
+2012,SE_GPI_PART,Switzerland,15-24,1.0
+2013,SE_GPI_PART,Switzerland,15-24,1.1
+2013,SE_GPI_PART,Switzerland,15-64,1.0
+2013,SE_GPI_PART,Switzerland,25-54,1.0
+2013,SE_GPI_PART,Switzerland,55-64,1.0
+2014,SE_GPI_PART,Switzerland,55-64,1.0
+2014,SE_GPI_PART,Switzerland,25-54,1.0
+2014,SE_GPI_PART,Switzerland,15-64,1.0
+2014,SE_GPI_PART,Switzerland,15-24,1.0
+2015,SE_GPI_PART,Switzerland,15-24,1.0
+2015,SE_GPI_PART,Switzerland,15-64,1.0
+2015,SE_GPI_PART,Switzerland,25-54,1.0
+2015,SE_GPI_PART,Switzerland,55-64,1.0
+2016,SE_GPI_PART,Switzerland,55-64,1.0
+2016,SE_GPI_PART,Switzerland,25-54,1.0
+2016,SE_GPI_PART,Switzerland,15-64,1.0
+2016,SE_GPI_PART,Switzerland,15-24,1.0
+2017,SE_GPI_PART,Switzerland,15-24,1.0
+2017,SE_GPI_PART,Switzerland,15-64,1.0
+2017,SE_GPI_PART,Switzerland,25-54,1.0
+2017,SE_GPI_PART,Switzerland,55-64,1.0
+2018,SE_GPI_PART,Switzerland,55-64,1.0
+2018,SE_GPI_PART,Switzerland,25-54,0.9
+2018,SE_GPI_PART,Switzerland,15-64,1.0
+2018,SE_GPI_PART,Switzerland,15-24,1.0
+2019,SE_GPI_PART,Switzerland,15-24,1.1
+2019,SE_GPI_PART,Switzerland,25-54,0.9
+2019,SE_GPI_PART,Switzerland,15-64,1.0
+2019,SE_GPI_PART,Switzerland,55-64,1.0
+2020,SE_GPI_PART,Switzerland,15-64,1.0
+2020,SE_GPI_PART,Switzerland,55-64,1.0
+2020,SE_GPI_PART,Switzerland,25-54,0.9
+2020,SE_GPI_PART,Switzerland,15-24,1.0
+2021,SE_GPI_PART,Switzerland,15-24,1.2
+2021,SE_GPI_PART,Switzerland,55-64,1.4
+2021,SE_GPI_PART,Switzerland,25-54,0.9
+2021,SE_GPI_PART,Switzerland,15-64,1.1
+2003,SE_GPI_PART,Tajikistan,25-54,0.6
+2003,SE_GPI_PART,Tajikistan,15-64,0.7
+2003,SE_GPI_PART,Tajikistan,15-24,0.7
+2007,SE_GPI_PART,Tajikistan,25-54,1.0
+2007,SE_GPI_PART,Tajikistan,15-24,0.6
+2007,SE_GPI_PART,Tajikistan,15-64,0.6
+2009,SE_GPI_PART,Tajikistan,25-54,0.7
+2009,SE_GPI_PART,Tajikistan,15-64,0.6
+2009,SE_GPI_PART,Tajikistan,15-24,0.6
+2000,SE_GPI_PART,Türkiye,15-24,0.6
+2000,SE_GPI_PART,Türkiye,15-64,0.7
+2000,SE_GPI_PART,Türkiye,25-54,0.7
+2000,SE_GPI_PART,Türkiye,55-64,1.4
+2001,SE_GPI_PART,Türkiye,55-64,1.6
+2001,SE_GPI_PART,Türkiye,25-54,0.6
+2001,SE_GPI_PART,Türkiye,15-64,0.6
+2001,SE_GPI_PART,Türkiye,15-24,0.6
+2002,SE_GPI_PART,Türkiye,15-24,0.6
+2002,SE_GPI_PART,Türkiye,15-64,0.7
+2002,SE_GPI_PART,Türkiye,25-54,0.6
+2002,SE_GPI_PART,Türkiye,55-64,1.3
+2003,SE_GPI_PART,Türkiye,55-64,0.4
+2003,SE_GPI_PART,Türkiye,25-54,0.4
+2003,SE_GPI_PART,Türkiye,15-64,0.7
+2003,SE_GPI_PART,Türkiye,15-24,0.7
+2004,SE_GPI_PART,Türkiye,15-24,0.7
+2004,SE_GPI_PART,Türkiye,15-64,0.7
+2004,SE_GPI_PART,Türkiye,25-54,0.5
+2005,SE_GPI_PART,Türkiye,25-54,0.5
+2005,SE_GPI_PART,Türkiye,15-64,0.7
+2005,SE_GPI_PART,Türkiye,15-24,0.7
+2006,SE_GPI_PART,Türkiye,15-24,0.7
+2006,SE_GPI_PART,Türkiye,15-64,0.7
+2006,SE_GPI_PART,Türkiye,25-54,0.6
+2007,SE_GPI_PART,Türkiye,25-54,0.6
+2007,SE_GPI_PART,Türkiye,15-64,0.7
+2007,SE_GPI_PART,Türkiye,15-24,0.7
+2008,SE_GPI_PART,Türkiye,15-24,0.8
+2008,SE_GPI_PART,Türkiye,15-64,0.8
+2008,SE_GPI_PART,Türkiye,25-54,0.7
+2009,SE_GPI_PART,Türkiye,25-54,0.8
+2009,SE_GPI_PART,Türkiye,15-64,0.8
+2009,SE_GPI_PART,Türkiye,15-24,0.8
+2010,SE_GPI_PART,Türkiye,15-24,0.8
+2010,SE_GPI_PART,Türkiye,15-64,0.8
+2010,SE_GPI_PART,Türkiye,25-54,0.8
+2011,SE_GPI_PART,Türkiye,25-54,0.8
+2011,SE_GPI_PART,Türkiye,55-64,0.6
+2011,SE_GPI_PART,Türkiye,15-64,0.9
+2011,SE_GPI_PART,Türkiye,15-24,0.9
+2012,SE_GPI_PART,Türkiye,15-24,0.9
+2012,SE_GPI_PART,Türkiye,15-64,0.9
+2012,SE_GPI_PART,Türkiye,55-64,0.6
+2012,SE_GPI_PART,Türkiye,25-54,0.9
+2013,SE_GPI_PART,Türkiye,25-54,0.9
+2013,SE_GPI_PART,Türkiye,55-64,0.9
+2013,SE_GPI_PART,Türkiye,15-64,0.9
+2013,SE_GPI_PART,Türkiye,15-24,0.9
+2014,SE_GPI_PART,Türkiye,15-24,0.9
+2014,SE_GPI_PART,Türkiye,15-64,0.9
+2014,SE_GPI_PART,Türkiye,55-64,1.7
+2014,SE_GPI_PART,Türkiye,25-54,0.9
+2015,SE_GPI_PART,Türkiye,25-54,1.0
+2015,SE_GPI_PART,Türkiye,55-64,1.5
+2015,SE_GPI_PART,Türkiye,15-64,0.9
+2015,SE_GPI_PART,Türkiye,15-24,0.9
+2016,SE_GPI_PART,Türkiye,15-24,0.9
+2016,SE_GPI_PART,Türkiye,15-64,0.9
+2016,SE_GPI_PART,Türkiye,55-64,1.4
+2016,SE_GPI_PART,Türkiye,25-54,0.9
+2017,SE_GPI_PART,Türkiye,25-54,0.9
+2017,SE_GPI_PART,Türkiye,55-64,1.6
+2017,SE_GPI_PART,Türkiye,15-64,0.9
+2017,SE_GPI_PART,Türkiye,15-24,0.9
+2018,SE_GPI_PART,Türkiye,15-24,0.9
+2018,SE_GPI_PART,Türkiye,15-64,0.9
+2018,SE_GPI_PART,Türkiye,55-64,1.6
+2018,SE_GPI_PART,Türkiye,25-54,1.0
+2019,SE_GPI_PART,Türkiye,25-54,1.0
+2019,SE_GPI_PART,Türkiye,55-64,1.5
+2019,SE_GPI_PART,Türkiye,15-64,1.0
+2019,SE_GPI_PART,Türkiye,15-24,1.0
+2020,SE_GPI_PART,Türkiye,15-24,1.0
+2020,SE_GPI_PART,Türkiye,15-64,0.9
+2020,SE_GPI_PART,Türkiye,55-64,1.4
+2020,SE_GPI_PART,Türkiye,25-54,0.9
+2006,SE_GPI_PART,North Macedonia,25-54,0.9
+2006,SE_GPI_PART,North Macedonia,15-64,1.0
+2006,SE_GPI_PART,North Macedonia,15-24,1.0
+2007,SE_GPI_PART,North Macedonia,15-24,1.1
+2007,SE_GPI_PART,North Macedonia,15-64,1.0
+2007,SE_GPI_PART,North Macedonia,25-54,0.9
+2008,SE_GPI_PART,North Macedonia,25-54,1.0
+2008,SE_GPI_PART,North Macedonia,15-64,1.0
+2008,SE_GPI_PART,North Macedonia,15-24,1.0
+2009,SE_GPI_PART,North Macedonia,15-24,1.1
+2009,SE_GPI_PART,North Macedonia,15-64,1.0
+2009,SE_GPI_PART,North Macedonia,25-54,1.0
+2010,SE_GPI_PART,North Macedonia,25-54,0.9
+2010,SE_GPI_PART,North Macedonia,15-64,1.1
+2010,SE_GPI_PART,North Macedonia,15-24,1.1
+2011,SE_GPI_PART,North Macedonia,15-24,1.1
+2011,SE_GPI_PART,North Macedonia,15-64,1.0
+2011,SE_GPI_PART,North Macedonia,25-54,0.9
+2012,SE_GPI_PART,North Macedonia,25-54,0.9
+2012,SE_GPI_PART,North Macedonia,15-64,1.1
+2012,SE_GPI_PART,North Macedonia,15-24,1.1
+2013,SE_GPI_PART,North Macedonia,15-24,1.1
+2013,SE_GPI_PART,North Macedonia,15-64,1.0
+2013,SE_GPI_PART,North Macedonia,25-54,0.9
+2014,SE_GPI_PART,North Macedonia,25-54,1.0
+2014,SE_GPI_PART,North Macedonia,15-64,1.0
+2014,SE_GPI_PART,North Macedonia,15-24,1.1
+2015,SE_GPI_PART,North Macedonia,15-24,1.1
+2015,SE_GPI_PART,North Macedonia,15-64,1.0
+2015,SE_GPI_PART,North Macedonia,25-54,0.8
+2016,SE_GPI_PART,North Macedonia,25-54,1.1
+2016,SE_GPI_PART,North Macedonia,15-64,1.1
+2016,SE_GPI_PART,North Macedonia,15-24,1.1
+2017,SE_GPI_PART,North Macedonia,15-24,1.1
+2017,SE_GPI_PART,North Macedonia,15-64,1.1
+2017,SE_GPI_PART,North Macedonia,25-54,0.9
+2018,SE_GPI_PART,North Macedonia,25-54,0.9
+2018,SE_GPI_PART,North Macedonia,15-64,1.1
+2018,SE_GPI_PART,North Macedonia,15-24,1.1
+2019,SE_GPI_PART,North Macedonia,15-24,1.1
+2019,SE_GPI_PART,North Macedonia,15-64,1.1
+2019,SE_GPI_PART,North Macedonia,25-54,0.9
+2020,SE_GPI_PART,North Macedonia,25-54,0.9
+2020,SE_GPI_PART,North Macedonia,15-64,1.1
+2020,SE_GPI_PART,North Macedonia,15-24,1.1
+2021,SE_GPI_PART,North Macedonia,15-24,1.2
+2021,SE_GPI_PART,North Macedonia,15-64,1.1
+2021,SE_GPI_PART,North Macedonia,25-54,1.1
+2021,SE_GPI_PART,North Macedonia,25-54,1.1

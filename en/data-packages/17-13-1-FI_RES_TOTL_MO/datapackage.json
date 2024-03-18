@@ -1,0 +1,111 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FI_RES_TOTL_MO",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Belarus",
+                "Azerbaijan",
+                "Canada",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Chile",
+                "China",
+                "Belgium",
+                "Latvia",
+                "Colombia",
+                "Lithuania",
+                "Luxembourg",
+                "Costa Rica",
+                "Croatia",
+                "Malta",
+                "Sweden",
+                "Mexico",
+                "Cyprus",
+                "Moldova",
+                "Switzerland",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Tajikistan",
+                "New Zealand",
+                "Czechia",
+                "Norway",
+                "Türkiye",
+                "Poland",
+                "Denmark",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Estonia",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Finland",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-FI_RES_TOTL_MO",
+  "title": "meta.name-17-13-1-FI_RES_TOTL_MO"
+}

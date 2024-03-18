@@ -12,8 +12,124 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_PTD_MTN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Chile",
+                "Azerbaijan",
+                "Hungary",
+                "China",
+                "New Zealand",
+                "Iceland",
+                "Norway",
+                "Colombia",
+                "India",
+                "Poland",
+                "Costa Rica",
+                "Ireland",
+                "Israel",
+                "Croatia",
+                "Australia",
+                "Italy",
+                "Cyprus",
+                "Austria",
+                "Japan",
+                "Czechia",
+                "Armenia",
+                "Kazakhstan",
+                "Portugal",
+                "Republic of Korea",
+                "Romania",
+                "Kyrgyzstan",
+                "Finland",
+                "Serbia",
+                "Liechtenstein",
+                "France",
+                "Georgia",
+                "Slovakia",
+                "Belgium",
+                "Germany",
+                "Greece",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Mexico",
+                "Bosnia and Herzegovina",
+                "Moldova",
+                "Montenegro",
+                "Bulgaria",
+                "Canada",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

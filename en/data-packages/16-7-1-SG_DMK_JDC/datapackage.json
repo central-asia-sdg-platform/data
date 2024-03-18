@@ -1,0 +1,140 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DMK_JDC",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Germany",
+                "Greece",
+                "Israel",
+                "Japan",
+                "Kazakhstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Norway",
+                "Poland",
+                "Slovakia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<45Y",
+                "ALLAGE",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total or no breakdown",
+                "Persons with disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Population Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "POP_C",
+                "POP_A",
+                "POP_B",
+                ""
+              ]
+            },
+            "title": "Population Group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "JUDGES",
+                "REGISTRARS",
+                ""
+              ]
+            },
+            "title": "Type of occupation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1-SG_DMK_JDC",
+  "title": "meta.name-16-7-1-SG_DMK_JDC"
+}

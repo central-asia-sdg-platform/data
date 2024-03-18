@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_CO2MVA",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Norway",
+                "Albania",
+                "Canada",
+                "Poland",
+                "Chile",
+                "Portugal",
+                "China",
+                "Romania",
+                "Azerbaijan",
+                "Colombia",
+                "Serbia",
+                "Slovakia",
+                "Australia",
+                "Viet Nam",
+                "Austria",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Armenia",
+                "Czechia",
+                "Slovenia",
+                "Belgium",
+                "Spain",
+                "Sweden",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Switzerland",
+                "Таджикистан",
+                "Israel",
+                "United Arab Emirates",
+                "Italy",
+                "Japan",
+                "Türkiye",
+                "Туркменистан",
+                "Казахстан",
+                "Ukraine",
+                "Republic of Korea",
+                "North Macedonia",
+                "Кыргызстан",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_C",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-4-1-EN_ATM_CO2MVA",
+  "title": "meta.name-9-4-1-EN_ATM_CO2MVA"
+}

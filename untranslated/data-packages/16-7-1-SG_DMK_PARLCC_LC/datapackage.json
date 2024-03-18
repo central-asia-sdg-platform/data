@@ -1,0 +1,152 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DMK_PARLCC_LC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Spain",
+                "India",
+                "Ireland",
+                "Albania",
+                "Sweden",
+                "Azerbaijan",
+                "Bosnia and Herzegovina",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Bulgaria",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Belarus",
+                "Canada",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Finland",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "France",
+                "Norway",
+                "Georgia",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Serbia",
+                "Iceland",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "46+",
+                "<=45Y",
+                "_U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Parliamentary committees",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GEN_EQU",
+                "FINANCE",
+                "HUM_RIGH",
+                "DEFENCE",
+                "FOR_AFF",
+                "FAFF_DEF",
+                "HR_GEQU",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "MALE",
+                "FEMALE",
+                "_U",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1-SG_DMK_PARLCC_LC",
+  "title": "meta.name-16-7-1-SG_DMK_PARLCC_LC"
+}

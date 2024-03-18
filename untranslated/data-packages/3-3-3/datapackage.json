@@ -12,7 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_MALR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "Azerbaijan",
+                "India",
+                "Armenia",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Mexico",
+                "Viet Nam",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

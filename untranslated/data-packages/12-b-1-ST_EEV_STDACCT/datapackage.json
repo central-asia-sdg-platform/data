@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ST_EEV_STDACCT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Georgia",
+                "Germany",
+                "Sweden",
+                "Albania",
+                "Greece",
+                "Switzerland",
+                "Azerbaijan",
+                "Australia",
+                "United Arab Emirates",
+                "Türkiye",
+                "Hungary",
+                "Ukraine",
+                "Iceland",
+                "North Macedonia",
+                "India",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Ireland",
+                "Israel",
+                "Austria",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Armenia",
+                "Republic of Korea",
+                "Belgium",
+                "Kyrgyzstan",
+                "Latvia",
+                "Bosnia and Herzegovina",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Bulgaria",
+                "Belarus",
+                "Malta",
+                "Canada",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Chile",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "China",
+                "Serbia",
+                "Slovakia",
+                "Colombia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-b-1-ST_EEV_STDACCT",
+  "title": "meta.name-12-b-1-ST_EEV_STDACCT"
+}

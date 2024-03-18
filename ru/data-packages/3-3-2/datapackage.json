@@ -12,8 +12,131 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_TBS_INCD",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Canada",
+                "Chile",
+                "Albania",
+                "Republic of Moldova",
+                "China",
+                "Azerbaijan",
+                "Colombia",
+                "Australia",
+                "Costa Rica",
+                "Austria",
+                "Montenegro",
+                "Croatia",
+                "Armenia",
+                "Cyprus",
+                "Netherlands (Kingdom of the)",
+                "Czechia",
+                "Belgium",
+                "Denmark",
+                "Estonia",
+                "Bosnia and Herzegovina",
+                "New Zealand",
+                "Finland",
+                "Norway",
+                "Bulgaria",
+                "France",
+                "Georgia",
+                "Poland",
+                "Portugal",
+                "Germany",
+                "Romania",
+                "Greece",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Hungary",
+                "Iceland",
+                "Slovenia",
+                "Spain",
+                "India",
+                "Ireland",
+                "Sweden",
+                "Israel",
+                "Switzerland",
+                "Italy",
+                "Таджикистан",
+                "Japan",
+                "United Arab Emirates",
+                "Казахстан",
+                "Türkiye",
+                "Republic of Korea",
+                "Туркменистан",
+                "Кыргызстан",
+                "Latvia",
+                "Ukraine",
+                "Lithuania",
+                "North Macedonia",
+                "Luxembourg",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Malta",
+                "Mexico",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

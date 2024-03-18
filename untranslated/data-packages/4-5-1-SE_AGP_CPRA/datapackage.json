@@ -1,0 +1,146 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_AGP_CPRA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Belarus",
+                "Albania",
+                "Costa Rica",
+                "Austria",
+                "Armenia",
+                "Azerbaijan",
+                "Estonia",
+                "Croatia",
+                "Finland",
+                "Belgium",
+                "Cyprus",
+                "France",
+                "Czechia",
+                "Bosnia and Herzegovina",
+                "Denmark",
+                "Georgia",
+                "Greece",
+                "Bulgaria",
+                "Germany",
+                "Ireland",
+                "Hungary",
+                "Israel",
+                "Latvia",
+                "Italy",
+                "Iceland",
+                "Lithuania",
+                "Luxembourg",
+                "India",
+                "Malta",
+                "Japan",
+                "Mexico",
+                "Kazakhstan",
+                "Republic of Moldova",
+                "Norway",
+                "Republic of Korea",
+                "Canada",
+                "Kyrgyzstan",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Montenegro",
+                "Serbia",
+                "Netherlands (Kingdom of the)",
+                "Tajikistan",
+                "Slovakia",
+                "Ukraine",
+                "Viet Nam",
+                "Türkiye",
+                "Turkmenistan",
+                "North Macedonia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Chile",
+                "Switzerland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "China",
+                "Colombia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UPPSEC",
+                "PRIMAR",
+                "LOWSEC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                "RURAL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "Q5",
+                "Q4",
+                "Q2",
+                "Q3",
+                "Q1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_AGP_CPRA",
+  "title": "meta.name-4-5-1-SE_AGP_CPRA"
+}

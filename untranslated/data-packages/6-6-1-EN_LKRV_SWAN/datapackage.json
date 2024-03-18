@@ -1,0 +1,106 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LKRV_SWAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "New Zealand",
+                "Chile",
+                "Albania",
+                "Norway",
+                "China",
+                "Azerbaijan",
+                "Poland",
+                "Portugal",
+                "Australia",
+                "Romania",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Serbia",
+                "Colombia",
+                "Slovakia",
+                "Viet Nam",
+                "Costa Rica",
+                "Slovenia",
+                "Croatia",
+                "Cyprus",
+                "Spain",
+                "Czechia",
+                "Switzerland",
+                "Denmark",
+                "Tajikistan",
+                "Türkiye",
+                "Turkmenistan",
+                "Estonia",
+                "Ukraine",
+                "North Macedonia",
+                "Finland",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "France",
+                "Uzbekistan",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_LKRV_SWAN",
+  "title": "meta.name-6-6-1-EN_LKRV_SWAN"
+}

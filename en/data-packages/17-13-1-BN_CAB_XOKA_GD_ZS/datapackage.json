@@ -1,0 +1,111 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BN_CAB_XOKA_GD_ZS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "China",
+                "Colombia",
+                "Malta",
+                "Albania",
+                "Costa Rica",
+                "Azerbaijan",
+                "Mexico",
+                "Australia",
+                "Türkiye",
+                "Croatia",
+                "Austria",
+                "Cyprus",
+                "Ukraine",
+                "Armenia",
+                "North Macedonia",
+                "Czechia",
+                "Denmark",
+                "Moldova",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Belgium",
+                "Estonia",
+                "Montenegro",
+                "Bosnia and Herzegovina",
+                "Uzbekistan",
+                "Finland",
+                "Netherlands (Kingdom of the)",
+                "Bulgaria",
+                "France",
+                "Belarus",
+                "Georgia",
+                "Canada",
+                "New Zealand",
+                "Chile",
+                "Germany",
+                "Norway",
+                "Greece",
+                "Poland",
+                "Hungary",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-BN_CAB_XOKA_GD_ZS",
+  "title": "meta.name-17-13-1-BN_CAB_XOKA_GD_ZS"
+}

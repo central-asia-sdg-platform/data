@@ -1,0 +1,2266 @@
+Year,SeriesCode,Country,Age,Location,Sex,Value
+2017,SD_MDP_MUHC,Albania,<16Y,All areas,Both sexes,55
+2017,SD_MDP_MUHC,Albania,ALLAGE,All areas,Both sexes,52
+2017,SD_MDP_MUHC,Albania,ALLAGE,All areas,Female,52
+2017,SD_MDP_MUHC,Albania,ALLAGE,All areas,Male,51
+2018,SD_MDP_MUHC,Albania,ALLAGE,All areas,Both sexes,49
+2018,SD_MDP_MUHC,Albania,ALLAGE,All areas,Male,48
+2018,SD_MDP_MUHC,Albania,<16Y,All areas,Both sexes,52
+2018,SD_MDP_MUHC,Albania,ALLAGE,All areas,Female,50
+2019,SD_MDP_MUHC,Albania,ALLAGE,All areas,Female,47
+2019,SD_MDP_MUHC,Albania,<16Y,All areas,Both sexes,49
+2019,SD_MDP_MUHC,Albania,ALLAGE,All areas,Both sexes,46
+2019,SD_MDP_MUHC,Albania,ALLAGE,All areas,Male,46
+2020,SD_MDP_MUHC,Albania,ALLAGE,All areas,Female,45
+2020,SD_MDP_MUHC,Albania,ALLAGE,All areas,Both sexes,43
+2020,SD_MDP_MUHC,Albania,<16Y,All areas,Both sexes,48
+2015,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,33
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,41
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,27
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,21
+2020,SD_MDP_MUHC,Albania,ALLAGE,All areas,Male,42
+2010,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,21
+2010,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2010,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,16
+2010,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,25
+2016,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,32
+2016,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,26
+2016,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,39
+2016,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,25
+2010,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,21
+2010,SD_MDP_MUHC,Austria,<18Y,All areas,Both sexes,22
+2011,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,20
+2011,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,18
+2011,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,21
+2015,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,29
+2015,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,28
+2016,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,31
+2016,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,30
+2016,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,31
+2016,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,28
+2017,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2017,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,31
+2017,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,27
+2017,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,26
+2016,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,24
+2016,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,20
+2017,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,24
+2017,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,18
+2017,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,36
+2017,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,30
+2017,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,22
+2018,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,19
+2018,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,23
+2017,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,25
+2017,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,31
+2018,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,25
+2018,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,26
+2018,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,29
+2018,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,36
+2018,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,25
+2018,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,31
+2018,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,24
+2019,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,28
+2018,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2018,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,31
+2018,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,24
+2019,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,24
+2019,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,26
+2011,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,16
+2011,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,23
+2011,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,19
+2012,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,21
+2012,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,20
+2019,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,21
+2019,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,31
+2019,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,17
+2019,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,21
+2020,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,30
+2020,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,16
+2021,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,17
+2021,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,31
+2022,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,27
+2022,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,14
+2016,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,33
+2016,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,30
+2016,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,29
+2017,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,32
+2017,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,30
+2019,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,30
+2019,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,25
+2019,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,25
+2019,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,29
+2020,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,31
+2017,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,29
+2017,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,29
+2017,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,29
+2017,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,28
+2018,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,26
+2020,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,26
+2020,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2020,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,26
+2021,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,29
+2021,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,27
+2010,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,39
+2010,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,31
+2010,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,24
+2010,SD_MDP_MUHC,Croatia,<18Y,All areas,Both sexes,29
+2010,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,32
+2018,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,27
+2018,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,28
+2018,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,27
+2018,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,31
+2018,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,28
+2019,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,25
+2019,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,27
+2019,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,28
+2019,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,26
+2019,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,26
+2012,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,22
+2012,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,20
+2012,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,15
+2012,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2013,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,14
+2013,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,24
+2013,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2013,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,19
+2013,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,20
+2013,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,22
+2019,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,25
+2020,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,28
+2020,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,25
+2020,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,27
+2020,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,24
+2021,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,24
+2021,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,30
+2021,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,26
+2021,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,25
+2010,SD_MDP_MUHC,Latvia,<18Y,All areas,Both sexes,44
+2010,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,30
+2011,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,32
+2011,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,33
+2011,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,33
+2011,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,31
+2021,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,28
+2021,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,33
+2010,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,18
+2010,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,19
+2010,SD_MDP_MUHC,Sweden,<18Y,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,27
+2011,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,38
+2012,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,35
+2012,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,38
+2012,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,32
+2012,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,33
+2012,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,33
+2012,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,27
+2013,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,25
+2013,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,36
+2014,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,24
+2014,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,23
+2014,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,21
+2014,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,14
+2014,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,18
+2010,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,38
+2010,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,41
+2010,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,38
+2010,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,36
+2010,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,39
+2013,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,30
+2013,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,29
+2013,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,30
+2013,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,30
+2014,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,35
+2014,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,21
+2015,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,18
+2015,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,14
+2015,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,18
+2015,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,19
+2016,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,20
+2016,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,19
+2016,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,15
+2014,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,30
+2014,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,28
+2014,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,29
+2014,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,24
+2014,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,29
+2015,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,29
+2015,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,24
+2015,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,35
+2015,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,28
+2015,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,27
+2015,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,30
+2016,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,27
+2016,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,29
+2016,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,28
+2016,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,25
+2016,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,24
+2016,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,34
+2017,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,33
+2017,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,26
+2017,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,27
+2016,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,21
+2016,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,13
+2017,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,26
+2017,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,22
+2017,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,26
+2018,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,21
+2018,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,26
+2017,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,21
+2017,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,19
+2017,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,24
+2017,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,18
+2018,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,14
+2018,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,20
+2018,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,16
+2018,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,22
+2018,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,18
+2018,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,19
+2011,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,40
+2011,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,36
+2011,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,44
+2011,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,44
+2011,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,40
+2010,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2010,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2010,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2011,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,19
+2011,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,40
+2012,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,36
+2012,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,33
+2012,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,36
+2012,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,37
+2012,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,39
+2012,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,40
+2013,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,35
+2013,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,36
+2013,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,34
+2018,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,23
+2018,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,25
+2018,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,31
+2018,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,24
+2019,SD_MDP_MUHC,Croatia,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,Croatia,ALLAGE,Rural,Both sexes,29
+2019,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,20
+2019,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,24
+2019,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,22
+2019,SD_MDP_MUHC,Austria,ALLAGE,Rural,Both sexes,11
+2019,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,18
+2019,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,15
+2019,SD_MDP_MUHC,Austria,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,17
+2020,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,17
+2020,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,23
+2020,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,18
+2020,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,18
+2013,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,30
+2013,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,37
+2013,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,41
+2014,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,39
+2014,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,31
+2014,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,27
+2014,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,34
+2014,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,33
+2014,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,35
+2015,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,33
+2020,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,22
+2020,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,24
+2020,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,23
+2020,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Croatia,<16Y,All areas,Both sexes,18
+2011,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2011,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2011,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,20
+2012,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,18
+2021,SD_MDP_MUHC,Austria,ALLAGE,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Austria,ALLAGE,All areas,Male,16
+2021,SD_MDP_MUHC,Austria,<16Y,All areas,Both sexes,24
+2021,SD_MDP_MUHC,Austria,ALLAGE,All areas,Female,18
+2010,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,41
+2021,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Female,23
+2021,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Male,19
+2021,SD_MDP_MUHC,Croatia,ALLAGE,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,27
+2010,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,25
+2010,SD_MDP_MUHC,Cyprus,<18Y,All areas,Both sexes,22
+2010,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,24
+2010,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,26
+2010,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,23
+2011,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,24
+2012,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2012,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,19
+2012,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,17
+2012,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2012,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2015,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,28
+2015,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,37
+2015,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,30
+2015,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,27
+2015,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,31
+2013,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,20
+2013,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2013,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2013,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2013,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,19
+2011,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,23
+2011,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,26
+2011,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,27
+2011,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,25
+2011,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,23
+2012,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,25
+2012,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,26
+2012,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,27
+2012,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,29
+2012,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,27
+2013,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2014,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,19
+2014,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2014,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2014,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,18
+2010,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,53
+2010,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,35
+2011,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,29
+2011,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,34
+2011,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,43
+2016,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,24
+2016,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,35
+2016,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,26
+2016,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,25
+2016,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,31
+2016,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,29
+2017,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,31
+2017,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,25
+2017,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,28
+2014,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,20
+2014,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2015,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,18
+2015,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,20
+2017,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,34
+2017,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,25
+2018,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,21
+2018,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,26
+2018,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,28
+2012,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,30
+2013,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,27
+2013,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,30
+2013,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,27
+2013,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,28
+2018,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,32
+2018,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,25
+2018,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,31
+2019,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,25
+2019,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,30
+2012,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,28
+2012,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,38
+2012,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,31
+2013,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,27
+2013,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,37
+2013,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,29
+2013,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,27
+2014,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,31
+2014,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,27
+2014,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,29
+2019,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,27
+2019,SD_MDP_MUHC,Latvia,ALLAGE,Urban,Both sexes,24
+2019,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,18
+2019,SD_MDP_MUHC,Latvia,ALLAGE,Rural,Both sexes,32
+2020,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,23
+2020,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,26
+2020,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,19
+2020,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,28
+2021,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Male,22
+2021,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Female,29
+2021,SD_MDP_MUHC,Latvia,<16Y,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Latvia,ALLAGE,All areas,Both sexes,26
+2010,SD_MDP_MUHC,Lithuania,<18Y,All areas,Both sexes,36
+2010,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,34
+2010,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,37
+2015,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2015,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,19
+2016,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,18
+2016,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2010,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,34
+2010,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,34
+2010,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,30
+2011,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,27
+2011,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,38
+2016,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2016,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2016,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,20
+2017,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2017,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,17
+2017,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,18
+2017,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,18
+2017,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,21
+2011,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,33
+2011,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,33
+2011,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,33
+2011,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,34
+2012,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,38
+2018,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,19
+2018,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,17
+2018,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,20
+2018,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,21
+2018,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2018,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2019,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,18
+2019,SD_MDP_MUHC,Sweden,ALLAGE,Rural,Both sexes,21
+2019,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Sweden,ALLAGE,Urban,Both sexes,18
+2019,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,20
+2020,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,19
+2020,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,18
+2020,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,17
+2012,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,31
+2012,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,31
+2012,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,27
+2012,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,33
+2012,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,33
+2013,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,38
+2013,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,35
+2013,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,25
+2013,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,28
+2013,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,33
+2020,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2021,SD_MDP_MUHC,Sweden,<16Y,All areas,Both sexes,19
+2021,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Female,18
+2021,SD_MDP_MUHC,Sweden,ALLAGE,All areas,Male,16
+2010,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,66
+2010,SD_MDP_MUHC,Türkiye,<18Y,All areas,Both sexes,71
+2010,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,66
+2010,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,65
+2011,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,63
+2013,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,31
+2014,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,32
+2014,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,29
+2014,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,26
+2014,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,23
+2011,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,69
+2011,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,65
+2011,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,64
+2012,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,61
+2012,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,67
+2012,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,61
+2012,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,62
+2013,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,51
+2013,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,50
+2013,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,52
+2013,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,58
+2014,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,43
+2014,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,42
+2014,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,40
+2014,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,49
+2013,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,31
+2014,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,32
+2014,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,35
+2014,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,30
+2015,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,33
+2015,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,48
+2015,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,42
+2015,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,41
+2015,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,40
+2016,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,51
+2016,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,46
+2016,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,45
+2016,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,44
+2017,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,41
+2017,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,48
+2017,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,40
+2017,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,43
+2018,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,40
+2018,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,39
+2018,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,48
+2015,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,27
+2015,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,29
+2016,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,26
+2016,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,28
+2016,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,30
+2018,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,41
+2019,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,39
+2019,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,41
+2019,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,48
+2019,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,40
+2020,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Both sexes,42
+2020,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Female,43
+2020,SD_MDP_MUHC,Türkiye,<16Y,All areas,Both sexes,49
+2020,SD_MDP_MUHC,Türkiye,ALLAGE,All areas,Male,40
+2010,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,47
+2017,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,26
+2017,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,22
+2017,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,32
+2018,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,24
+2018,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,29
+2018,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Female,25
+2010,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,48
+2010,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,47
+2010,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,47
+2011,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,50
+2011,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,51
+2011,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,50
+2011,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,51
+2018,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Male,22
+2018,SD_MDP_MUHC,Armenia,<18Y,All areas,Both sexes,26
+2018,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,20
+2020,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Male,19
+2020,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Female,20
+2020,SD_MDP_MUHC,Armenia,<18Y,All areas,Both sexes,20
+2011,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,53
+2012,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,50
+2012,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,50
+2012,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,53
+2012,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,50
+2013,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,48
+2013,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,48
+2020,SD_MDP_MUHC,Armenia,ALLAGE,Urban,Both sexes,16
+2020,SD_MDP_MUHC,Armenia,ALLAGE,Rural,Both sexes,23
+2020,SD_MDP_MUHC,Armenia,ALLAGE,All areas,Both sexes,19
+2010,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2010,SD_MDP_MUHC,Belgium,<18Y,All areas,Both sexes,23
+2013,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,48
+2013,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,50
+2014,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,44
+2014,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,43
+2014,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,43
+2014,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,46
+2015,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,41
+2010,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,19
+2010,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,20
+2010,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2011,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,18
+2015,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,46
+2015,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,42
+2015,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,42
+2016,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,41
+2016,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,46
+2016,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,40
+2016,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,41
+2011,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2011,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,20
+2011,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,23
+2011,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2011,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2012,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,18
+2012,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2012,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,23
+2012,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,22
+2012,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,21
+2014,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,27
+2014,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,29
+2015,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,23
+2015,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,30
+2015,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,28
+2015,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,35
+2015,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,29
+2015,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,32
+2016,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,32
+2016,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,38
+2016,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,32
+2016,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,21
+2016,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,30
+2016,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,29
+2017,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,30
+2017,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,37
+2017,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,31
+2017,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,28
+2017,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,20
+2017,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,31
+2012,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,22
+2013,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,22
+2013,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2013,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,21
+2013,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,20
+2013,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,20
+2013,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2014,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,21
+2018,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,20
+2018,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,35
+2018,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,28
+2018,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,27
+2018,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,26
+2018,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,31
+2019,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,24
+2019,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,26
+2019,SD_MDP_MUHC,Lithuania,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,28
+2014,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,22
+2014,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2014,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,21
+2015,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,20
+2015,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2015,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2015,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,22
+2015,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,19
+2016,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2019,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,27
+2019,SD_MDP_MUHC,Lithuania,ALLAGE,Rural,Both sexes,31
+2020,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,23
+2020,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,25
+2020,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,22
+2014,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,25
+2014,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,26
+2014,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,26
+2015,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,27
+2015,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,30
+2016,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,20
+2016,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,20
+2016,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2016,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,21
+2016,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2017,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,22
+2017,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,21
+2017,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,22
+2017,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,21
+2017,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,19
+2020,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,27
+2021,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Female,26
+2021,SD_MDP_MUHC,Lithuania,<16Y,All areas,Both sexes,21
+2021,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Both sexes,23
+2021,SD_MDP_MUHC,Lithuania,ALLAGE,All areas,Male,20
+2010,SD_MDP_MUHC,Luxembourg,<18Y,All areas,Both sexes,22
+2010,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,17
+2010,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,18
+2010,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,18
+2010,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,17
+2017,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,21
+2018,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,19
+2018,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,22
+2018,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,21
+2018,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,20
+2018,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,20
+2018,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,19
+2019,SD_MDP_MUHC,Belgium,ALLAGE,Rural,Both sexes,19
+2019,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,20
+2019,SD_MDP_MUHC,Belgium,ALLAGE,Urban,Both sexes,20
+2010,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,15
+2011,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,15
+2011,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,18
+2011,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,16
+2011,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,22
+2019,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,19
+2019,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,20
+2020,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,20
+2020,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,21
+2011,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,17
+2012,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,17
+2012,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,15
+2012,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,18
+2020,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,20
+2020,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,18
+2021,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Both sexes,19
+2021,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Female,19
+2021,SD_MDP_MUHC,Belgium,<16Y,All areas,Both sexes,20
+2012,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,21
+2012,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,19
+2012,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,24
+2013,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,19
+2013,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,16
+2021,SD_MDP_MUHC,Belgium,ALLAGE,All areas,Male,18
+2010,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,47
+2010,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,51
+2010,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,49
+2010,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,59
+2013,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,19
+2013,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,22
+2013,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,19
+2013,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,25
+2014,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,26
+2010,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,40
+2010,SD_MDP_MUHC,Bulgaria,<18Y,All areas,Both sexes,50
+2011,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,41
+2011,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,51
+2011,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,58
+2014,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,19
+2014,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,20
+2014,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,17
+2014,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,19
+2015,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,29
+2015,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,33
+2015,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,28
+2015,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,29
+2016,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,27
+2011,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,48
+2011,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,51
+2011,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,49
+2012,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,48
+2012,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,61
+2012,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,49
+2012,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,43
+2012,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,52
+2012,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,51
+2013,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,49
+2015,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,16
+2015,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,19
+2015,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,21
+2015,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,18
+2013,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,47
+2013,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,60
+2013,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,52
+2013,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,42
+2013,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,48
+2015,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,19
+2016,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,19
+2016,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,20
+2016,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,22
+2016,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,24
+2014,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,39
+2014,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,34
+2014,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,41
+2014,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,51
+2014,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,45
+2016,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,21
+2016,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,14
+2017,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,22
+2017,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,17
+2017,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,23
+2014,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,40
+2015,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,41
+2015,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,43
+2015,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,40
+2015,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,35
+2017,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,21
+2017,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,19
+2017,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,20
+2018,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,17
+2018,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,23
+2018,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,24
+2018,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,23
+2018,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,20
+2018,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,22
+2019,SD_MDP_MUHC,Luxembourg,ALLAGE,Rural,Both sexes,19
+2015,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,55
+2015,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,43
+2016,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,39
+2016,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,40
+2016,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,54
+2016,SD_MDP_MUHC,North Macedonia,ALLAGE,Rural,Both sexes,45
+2016,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,41
+2017,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,46
+2017,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,41
+2017,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,42
+2017,SD_MDP_MUHC,North Macedonia,ALLAGE,Rural,Both sexes,44
+2017,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,42
+2019,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,20
+2019,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,22
+2019,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,26
+2019,SD_MDP_MUHC,Luxembourg,ALLAGE,Urban,Both sexes,22
+2019,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,21
+2016,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,32
+2016,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,29
+2016,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,26
+2016,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,28
+2016,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,29
+2016,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,34
+2016,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,42
+2016,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,46
+2017,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,41
+2017,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,37
+2017,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,39
+2017,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,40
+2017,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,52
+2017,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,33
+2018,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,26
+2020,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,21
+2020,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,21
+2020,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,21
+2020,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,24
+2021,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Female,26
+2018,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,33
+2018,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,31
+2018,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,47
+2018,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,35
+2018,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,33
+2021,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Both sexes,23
+2021,SD_MDP_MUHC,Luxembourg,<16Y,All areas,Both sexes,21
+2021,SD_MDP_MUHC,Luxembourg,ALLAGE,All areas,Male,20
+2010,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,20
+2010,SD_MDP_MUHC,Malta,<18Y,All areas,Both sexes,27
+2019,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,34
+2019,SD_MDP_MUHC,Bulgaria,ALLAGE,Rural,Both sexes,49
+2019,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,33
+2019,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,31
+2019,SD_MDP_MUHC,Bulgaria,ALLAGE,Urban,Both sexes,26
+2017,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,24
+2017,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,30
+2017,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,26
+2017,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,25
+2017,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,25
+2019,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,34
+2020,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,32
+2020,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,30
+2020,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,33
+2020,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,34
+2010,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,21
+2010,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,22
+2011,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,21
+2011,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,23
+2017,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,24
+2018,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,26
+2018,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,23
+2018,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,24
+2018,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,25
+2021,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,29
+2021,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,32
+2021,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,34
+2021,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,33
+2022,SD_MDP_MUHC,Bulgaria,<16Y,All areas,Both sexes,34
+2011,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,27
+2011,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,22
+2011,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,22
+2012,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,22
+2012,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,24
+2012,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,23
+2012,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,31
+2012,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,23
+2013,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,25
+2013,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,25
+2018,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,23
+2018,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,25
+2019,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Cyprus,ALLAGE,Rural,Both sexes,25
+2019,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,21
+2019,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,23
+2019,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,22
+2019,SD_MDP_MUHC,Cyprus,ALLAGE,Urban,Both sexes,22
+2020,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,23
+2020,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,20
+2022,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Female,35
+2022,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Both sexes,32
+2022,SD_MDP_MUHC,Bulgaria,ALLAGE,All areas,Male,29
+2011,SD_MDP_MUHC,Chile,<18Y,All areas,Both sexes,26
+2011,SD_MDP_MUHC,Chile,ALLAGE,Rural,Both sexes,43
+2013,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,33
+2013,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,24
+2013,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,26
+2014,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,24
+2014,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,23
+2020,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,22
+2020,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,21
+2021,SD_MDP_MUHC,Cyprus,<16Y,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Male,16
+2021,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Both sexes,17
+2011,SD_MDP_MUHC,Chile,ALLAGE,All areas,Both sexes,24
+2011,SD_MDP_MUHC,Chile,ALLAGE,All areas,Male,25
+2011,SD_MDP_MUHC,Chile,ALLAGE,Urban,Both sexes,22
+2011,SD_MDP_MUHC,Chile,ALLAGE,All areas,Female,24
+2013,SD_MDP_MUHC,Chile,ALLAGE,Rural,Both sexes,35
+2013,SD_MDP_MUHC,Chile,ALLAGE,All areas,Both sexes,20
+2013,SD_MDP_MUHC,Chile,ALLAGE,Urban,Both sexes,18
+2014,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,32
+2014,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,25
+2014,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,24
+2015,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,22
+2015,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,23
+2015,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,28
+2015,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,24
+2016,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,20
+2016,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,23
+2013,SD_MDP_MUHC,Chile,ALLAGE,All areas,Female,20
+2013,SD_MDP_MUHC,Chile,<18Y,All areas,Both sexes,23
+2013,SD_MDP_MUHC,Chile,ALLAGE,All areas,Male,21
+2015,SD_MDP_MUHC,Chile,ALLAGE,All areas,Female,20
+2015,SD_MDP_MUHC,Chile,ALLAGE,Urban,Both sexes,19
+2015,SD_MDP_MUHC,Chile,ALLAGE,All areas,Both sexes,21
+2021,SD_MDP_MUHC,Cyprus,ALLAGE,All areas,Female,19
+2010,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,14
+2010,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,16
+2010,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,13
+2010,SD_MDP_MUHC,Czechia,<18Y,All areas,Both sexes,19
+2016,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,20
+2016,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,20
+2016,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,20
+2017,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,19
+2017,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,20
+2017,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,19
+2017,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,19
+2017,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,23
+2018,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,21
+2018,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,19
+2015,SD_MDP_MUHC,Chile,<18Y,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Chile,ALLAGE,All areas,Male,21
+2015,SD_MDP_MUHC,Chile,ALLAGE,Rural,Both sexes,33
+2017,SD_MDP_MUHC,Chile,ALLAGE,Rural,Both sexes,37
+2017,SD_MDP_MUHC,Chile,ALLAGE,All areas,Both sexes,21
+2017,SD_MDP_MUHC,Chile,ALLAGE,Urban,Both sexes,18
+2018,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,17
+2018,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,19
+2018,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,24
+2019,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,20
+2010,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,16
+2010,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,13
+2011,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,15
+2011,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,17
+2011,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,14
+2019,SD_MDP_MUHC,Malta,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,19
+2019,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,21
+2020,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,22
+2020,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,18
+2011,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,14
+2011,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,17
+2012,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,15
+2012,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,17
+2020,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,19
+2020,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,21
+2021,SD_MDP_MUHC,Malta,ALLAGE,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Malta,<16Y,All areas,Both sexes,23
+2021,SD_MDP_MUHC,Malta,ALLAGE,All areas,Female,22
+2017,SD_MDP_MUHC,Chile,ALLAGE,All areas,Female,20
+2017,SD_MDP_MUHC,Chile,<18Y,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Chile,ALLAGE,All areas,Male,21
+2010,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,23
+2010,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,51
+2010,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,30
+2017,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,42
+2018,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,39
+2018,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,41
+2018,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,41
+2018,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,45
+2018,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,41
+2012,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,14
+2012,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,15
+2012,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,15
+2012,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,18
+2013,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,16
+2013,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,16
+2013,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,14
+2013,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,15
+2013,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,13
+2013,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,15
+2014,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,16
+2014,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,13
+2014,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,15
+2014,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,15
+2014,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,19
+2014,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,15
+2015,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,18
+2015,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,15
+2015,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,14
+2015,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,16
+2021,SD_MDP_MUHC,Malta,ALLAGE,All areas,Male,19
+2010,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,40
+2010,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,46
+2010,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,65
+2010,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,54
+2010,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,46
+2010,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,46
+2018,SD_MDP_MUHC,North Macedonia,ALLAGE,Rural,Both sexes,47
+2019,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,40
+2019,SD_MDP_MUHC,North Macedonia,ALLAGE,Rural,Both sexes,48
+2019,SD_MDP_MUHC,North Macedonia,ALLAGE,Urban,Both sexes,38
+2020,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Male,40
+2011,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,29
+2011,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,22
+2011,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,52
+2012,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,47
+2012,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,20
+2012,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,27
+2013,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,18
+2012,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,62
+2012,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,45
+2012,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,54
+2013,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,45
+2013,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,24
+2014,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,15
+2014,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,22
+2014,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,43
+2015,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,20
+2015,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,39
+2012,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,41
+2012,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,46
+2012,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,46
+2015,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,12
+2015,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,13
+2016,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,14
+2016,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,15
+2016,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,13
+2015,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,14
+2016,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,12
+2016,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,37
+2017,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,12
+2018,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,39
+2018,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,19
+2014,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,61
+2014,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,46
+2014,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,54
+2014,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,46
+2014,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,46
+2014,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,42
+2016,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,61
+2016,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,43
+2016,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,44
+2018,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,13
+2019,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,35
+2019,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,18
+2019,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,12
+2019,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Male,18
+2019,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Female,17
+2020,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,11
+2016,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,12
+2016,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,18
+2017,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,14
+2017,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,11
+2016,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,43
+2016,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,51
+2016,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,38
+2020,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Male,18
+2020,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,37
+2020,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Female,18
+2020,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,13
+2021,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Male,16
+2021,SD_MDP_MUHC,Colombia,ALLAGE,Rural,Both sexes,31
+2021,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Both sexes,16
+2017,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,12
+2017,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,12
+2017,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,14
+2017,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,13
+2018,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,13
+2018,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,43
+2018,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,42
+2018,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,37
+2018,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,41
+2018,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,50
+2018,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,58
+2020,SD_MDP_MUHC,Mexico,ALLAGE,Rural,Both sexes,57
+2020,SD_MDP_MUHC,Mexico,<18Y,All areas,Both sexes,53
+2020,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Both sexes,44
+2018,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,10
+2018,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,12
+2018,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,14
+2018,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,13
+2018,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,12
+2019,SD_MDP_MUHC,Czechia,ALLAGE,Rural,Both sexes,12
+2019,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,15
+2019,SD_MDP_MUHC,Czechia,ALLAGE,Urban,Both sexes,13
+2019,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,10
+2019,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,13
+2019,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,13
+2020,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,13
+2020,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,10
+2020,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,12
+2020,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,14
+2021,SD_MDP_MUHC,Colombia,ALLAGE,Urban,Both sexes,12
+2021,SD_MDP_MUHC,Colombia,ALLAGE,All areas,Female,16
+2010,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,31
+2010,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,52
+2010,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,38
+2010,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,30
+2010,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,32
+2010,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,23
+2011,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,30
+2011,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,29
+2011,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,21
+2011,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,48
+2011,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,28
+2011,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,36
+2012,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,19
+2012,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,29
+2012,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,23
+2012,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,26
+2012,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,45
+2013,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,25
+2013,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,24
+2013,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,26
+2013,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,44
+2013,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,32
+2013,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,18
+2014,SD_MDP_MUHC,Costa Rica,<18Y,All areas,Both sexes,32
+2014,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Male,27
+2014,SD_MDP_MUHC,Costa Rica,ALLAGE,Rural,Both sexes,43
+2014,SD_MDP_MUHC,Costa Rica,ALLAGE,Urban,Both sexes,19
+2014,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,26
+2020,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Female,44
+2020,SD_MDP_MUHC,Mexico,ALLAGE,Urban,Both sexes,40
+2020,SD_MDP_MUHC,Mexico,ALLAGE,All areas,Male,43
+2013,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,38
+2013,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,37
+2013,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,37
+2013,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,43
+2014,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,38
+2014,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,38
+2014,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,37
+2014,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,44
+2015,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,36
+2015,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,42
+2021,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Male,9
+2021,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Female,12
+2021,SD_MDP_MUHC,Czechia,ALLAGE,All areas,Both sexes,11
+2021,SD_MDP_MUHC,Czechia,<16Y,All areas,Both sexes,13
+2010,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,18
+2015,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,36
+2015,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,36
+2016,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,35
+2016,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,34
+2016,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,35
+2010,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2010,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,18
+2010,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,19
+2010,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,19
+2010,SD_MDP_MUHC,Denmark,<18Y,All areas,Both sexes,15
+2016,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,39
+2017,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,33
+2017,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,34
+2017,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,40
+2017,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,35
+2011,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2011,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,17
+2011,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,19
+2011,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,18
+2011,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,31
+2018,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,31
+2018,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,32
+2018,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,39
+2019,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,38
+2011,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,17
+2012,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,19
+2012,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,17
+2012,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,14
+2012,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,15
+2019,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,31
+2019,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,31
+2019,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,31
+2020,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Female,31
+2020,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Male,31
+2012,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,18
+2012,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2013,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,19
+2013,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2013,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,18
+2020,SD_MDP_MUHC,Montenegro,<16Y,All areas,Both sexes,38
+2020,SD_MDP_MUHC,Montenegro,ALLAGE,All areas,Both sexes,31
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),<18Y,All areas,Both sexes,17
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,15
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,8
+2013,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,15
+2013,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,21
+2013,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,15
+2014,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,18
+2014,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,14
+2014,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2014,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,18
+2014,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,15
+2015,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,19
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,14
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,16
+2010,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,15
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,15
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,18
+2015,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,18
+2015,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,16
+2015,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,18
+2015,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,18
+2015,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,15
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,16
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,16
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2011,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,7
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,16
+2016,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,14
+2016,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,16
+2016,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,17
+2016,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,17
+2016,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,13
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,17
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,16
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,12
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,14
+2012,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,15
+2016,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,19
+2017,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,18
+2017,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,19
+2017,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,13
+2017,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,17
+2017,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,17
+2017,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,17
+2018,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,17
+2018,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,17
+2018,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,15
+2018,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,18
+2019,SD_MDP_MUHC,Denmark,ALLAGE,Urban,Both sexes,17
+2019,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,16
+2019,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,17
+2019,SD_MDP_MUHC,Denmark,ALLAGE,Rural,Both sexes,14
+2019,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,14
+2020,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,16
+2020,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,16
+2020,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,16
+2020,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,13
+2021,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Female,18
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,15
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,16
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,17
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2013,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,13
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,17
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,16
+2014,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,12
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,16
+2021,SD_MDP_MUHC,Denmark,ALLAGE,All areas,Male,16
+2021,SD_MDP_MUHC,Denmark,<16Y,All areas,Both sexes,14
+2010,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,22
+2010,SD_MDP_MUHC,Estonia,<18Y,All areas,Both sexes,24
+2010,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,19
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,16
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2015,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,12
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,17
+2016,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,16
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,13
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,13
+2010,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2010,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,25
+2010,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,22
+2011,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,23
+2011,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,21
+2018,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,15
+2011,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,23
+2011,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,25
+2011,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,25
+2011,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,23
+2012,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,24
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Urban,Both sexes,17
+2019,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,Rural,Both sexes,11
+2020,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2020,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2020,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,17
+2012,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,22
+2012,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,23
+2012,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2012,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,22
+2012,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,26
+2013,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,24
+2013,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,24
+2013,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,22
+2013,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,22
+2013,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,26
+2020,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,16
+2021,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,15
+2021,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,17
+2021,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2013,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,23
+2014,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,27
+2014,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,27
+2014,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,25
+2014,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,24
+2014,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,26
+2014,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,26
+2015,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,26
+2015,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,24
+2015,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,22
+2015,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2015,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,26
+2015,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,23
+2016,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,24
+2016,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,27
+2022,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Both sexes,17
+2022,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Female,17
+2022,SD_MDP_MUHC,Netherlands (Kingdom of the),<16Y,All areas,Both sexes,14
+2022,SD_MDP_MUHC,Netherlands (Kingdom of the),ALLAGE,All areas,Male,16
+2010,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,16
+2016,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,21
+2016,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,26
+2016,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2016,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,23
+2017,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,26
+2017,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,19
+2017,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,27
+2017,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,21
+2017,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,21
+2018,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,22
+2018,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,27
+2018,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,24
+2018,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,30
+2018,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2010,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,14
+2010,SD_MDP_MUHC,Norway,<18Y,All areas,Both sexes,15
+2010,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,16
+2010,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,15
+2010,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,18
+2019,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,20
+2019,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,24
+2019,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,26
+2019,SD_MDP_MUHC,Estonia,ALLAGE,Rural,Both sexes,29
+2019,SD_MDP_MUHC,Estonia,ALLAGE,Urban,Both sexes,22
+2019,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2020,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,22
+2020,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,25
+2020,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,18
+2020,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,23
+2021,SD_MDP_MUHC,Estonia,<16Y,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Both sexes,22
+2021,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Female,25
+2021,SD_MDP_MUHC,Estonia,ALLAGE,All areas,Male,20
+2010,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2010,SD_MDP_MUHC,Finland,<18Y,All areas,Both sexes,14
+2010,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,18
+2010,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,16
+2010,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,16
+2010,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,18
+2011,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,17
+2011,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,16
+2011,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,19
+2011,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,19
+2011,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,18
+2011,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,17
+2012,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,17
+2012,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,15
+2012,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,17
+2012,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,18
+2012,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2012,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,15
+2013,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,13
+2013,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,16
+2011,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,16
+2011,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,14
+2011,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,15
+2011,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,12
+2011,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,15
+2013,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,16
+2013,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,17
+2013,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,16
+2013,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,15
+2014,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,17
+2011,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,15
+2012,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,13
+2012,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,12
+2012,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,14
+2012,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,14
+2014,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,17
+2014,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,18
+2014,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,16
+2014,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,18
+2014,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2012,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,15
+2012,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,14
+2013,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,13
+2013,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,14
+2013,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,15
+2015,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,17
+2015,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,17
+2015,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,17
+2015,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,15
+2015,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2013,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,13
+2013,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,15
+2013,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,14
+2014,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,12
+2014,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,16
+2015,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,17
+2016,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,16
+2016,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,17
+2016,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,17
+2016,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,17
+2016,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2016,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,15
+2017,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,16
+2017,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,16
+2017,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,15
+2014,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,12
+2014,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,15
+2014,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,14
+2014,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,13
+2015,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2017,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,16
+2017,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,16
+2017,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,17
+2015,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,15
+2015,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,15
+2015,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,13
+2015,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,13
+2015,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,15
+2018,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,17
+2018,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,16
+2018,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,16
+2018,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,17
+2019,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,16
+2016,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,15
+2016,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,14
+2016,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2016,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,16
+2016,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,13
+2019,SD_MDP_MUHC,Finland,ALLAGE,Rural,Both sexes,16
+2019,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,16
+2019,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,15
+2019,SD_MDP_MUHC,Finland,ALLAGE,Urban,Both sexes,15
+2019,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,14
+2020,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,16
+2020,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,16
+2020,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,15
+2020,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,16
+2021,SD_MDP_MUHC,Finland,ALLAGE,All areas,Male,14
+2016,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,14
+2017,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,15
+2017,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,16
+2017,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,14
+2017,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2017,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,16
+2017,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,17
+2018,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2021,SD_MDP_MUHC,Finland,ALLAGE,All areas,Female,14
+2021,SD_MDP_MUHC,Finland,<16Y,All areas,Both sexes,13
+2021,SD_MDP_MUHC,Finland,ALLAGE,All areas,Both sexes,14
+2010,SD_MDP_MUHC,France,ALLAGE,All areas,Male,18
+2010,SD_MDP_MUHC,France,ALLAGE,All areas,Female,20
+2010,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,19
+2010,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,19
+2010,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,19
+2010,SD_MDP_MUHC,France,<18Y,All areas,Both sexes,23
+2011,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,19
+2011,SD_MDP_MUHC,France,ALLAGE,All areas,Female,20
+2011,SD_MDP_MUHC,France,ALLAGE,All areas,Male,19
+2011,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,19
+2011,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,23
+2011,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,19
+2018,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,15
+2018,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,15
+2019,SD_MDP_MUHC,Norway,ALLAGE,Urban,Both sexes,16
+2019,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,15
+2012,SD_MDP_MUHC,France,ALLAGE,All areas,Male,18
+2012,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,20
+2012,SD_MDP_MUHC,France,ALLAGE,All areas,Female,20
+2012,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,17
+2012,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2019,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,16
+2019,SD_MDP_MUHC,Norway,ALLAGE,Rural,Both sexes,17
+2019,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,16
+2020,SD_MDP_MUHC,Norway,<16Y,All areas,Both sexes,16
+2012,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,23
+2013,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2013,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,18
+2013,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,19
+2013,SD_MDP_MUHC,France,ALLAGE,All areas,Female,19
+2020,SD_MDP_MUHC,Norway,ALLAGE,All areas,Male,15
+2020,SD_MDP_MUHC,Norway,ALLAGE,All areas,Female,17
+2020,SD_MDP_MUHC,Norway,ALLAGE,All areas,Both sexes,16
+2010,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,27
+2010,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,34
+2013,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,16
+2013,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,20
+2014,SD_MDP_MUHC,France,ALLAGE,All areas,Female,20
+2014,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,20
+2014,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,23
+2010,SD_MDP_MUHC,Poland,<18Y,All areas,Both sexes,31
+2010,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,28
+2010,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,29
+2011,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,27
+2014,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,19
+2014,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,16
+2014,SD_MDP_MUHC,France,ALLAGE,All areas,Male,18
+2015,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,19
+2015,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,16
+2011,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,27
+2011,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,29
+2011,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,28
+2011,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,23
+2011,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,33
+2015,SD_MDP_MUHC,France,ALLAGE,All areas,Female,18
+2015,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,18
+2015,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,21
+2015,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2016,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,20
+2016,SD_MDP_MUHC,France,ALLAGE,All areas,Female,19
+2016,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,22
+2016,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,16
+2016,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,19
+2017,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,17
+2017,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2017,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,22
+2017,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,14
+2017,SD_MDP_MUHC,France,ALLAGE,All areas,Female,18
+2018,SD_MDP_MUHC,France,ALLAGE,All areas,Female,18
+2018,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2018,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,23
+2018,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,14
+2018,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,20
+2018,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,22
+2019,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,18
+2019,SD_MDP_MUHC,France,ALLAGE,All areas,Female,19
+2019,SD_MDP_MUHC,France,ALLAGE,All areas,Male,17
+2019,SD_MDP_MUHC,France,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,France,ALLAGE,Rural,Both sexes,14
+2020,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,18
+2020,SD_MDP_MUHC,France,ALLAGE,All areas,Female,19
+2020,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,21
+2020,SD_MDP_MUHC,France,ALLAGE,All areas,Male,18
+2021,SD_MDP_MUHC,France,ALLAGE,All areas,Both sexes,19
+2021,SD_MDP_MUHC,France,ALLAGE,All areas,Male,18
+2021,SD_MDP_MUHC,France,ALLAGE,All areas,Female,20
+2021,SD_MDP_MUHC,France,<16Y,All areas,Both sexes,22
+2010,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,19
+2010,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,23
+2010,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2010,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,22
+2012,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,33
+2012,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,29
+2012,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,27
+2012,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,26
+2012,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,27
+2013,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,26
+2013,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,26
+2013,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,33
+2013,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,29
+2013,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,26
+2013,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,25
+2014,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,27
+2014,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,25
+2014,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,25
+2014,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,31
+2014,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,20
+2015,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,26
+2015,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,23
+2015,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,24
+2015,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,18
+2015,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,23
+2015,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,30
+2016,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,18
+2016,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,22
+2016,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,28
+2016,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,22
+2016,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,22
+2016,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,20
+2017,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,24
+2017,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,16
+2017,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,17
+2017,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,19
+2017,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,20
+2018,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,25
+2018,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,19
+2018,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,18
+2010,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,19
+2010,SD_MDP_MUHC,Germany,<18Y,All areas,Both sexes,22
+2011,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2011,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,20
+2011,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,19
+2011,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,22
+2011,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,20
+2011,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,18
+2012,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,19
+2012,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,18
+2012,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,20
+2012,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2013,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,19
+2013,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,20
+2013,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,19
+2013,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,22
+2013,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2013,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,19
+2014,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,22
+2014,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,21
+2014,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,19
+2014,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,21
+2014,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,20
+2015,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,19
+2015,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2015,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,17
+2015,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,21
+2015,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,21
+2016,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,21
+2016,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,21
+2016,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,18
+2016,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,17
+2016,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,20
+2016,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,19
+2017,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,20
+2017,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,18
+2017,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,17
+2017,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,18
+2017,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,19
+2017,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,20
+2018,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,19
+2018,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,18
+2018,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,17
+2018,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,20
+2018,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,18
+2018,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,15
+2019,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,16
+2019,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,19
+2019,SD_MDP_MUHC,Germany,ALLAGE,Rural,Both sexes,16
+2019,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,17
+2019,SD_MDP_MUHC,Germany,ALLAGE,Urban,Both sexes,18
+2020,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,25
+2020,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,25
+2020,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,24
+2020,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,23
+2021,SD_MDP_MUHC,Germany,ALLAGE,All areas,Male,20
+2021,SD_MDP_MUHC,Germany,ALLAGE,All areas,Female,22
+2021,SD_MDP_MUHC,Germany,<16Y,All areas,Both sexes,24
+2021,SD_MDP_MUHC,Germany,ALLAGE,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,29
+2010,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,26
+2010,SD_MDP_MUHC,Greece,<18Y,All areas,Both sexes,29
+2010,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,28
+2010,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,24
+2010,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,33
+2011,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,31
+2011,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,30
+2011,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,32
+2011,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,30
+2011,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,30
+2011,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,33
+2012,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,35
+2012,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,33
+2012,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,36
+2012,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,35
+2012,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,35
+2012,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,34
+2013,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,38
+2013,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,38
+2013,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,36
+2013,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,35
+2013,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,34
+2013,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,37
+2014,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,36
+2014,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,34
+2014,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,37
+2014,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,40
+2014,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,36
+2014,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,35
+2015,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,36
+2018,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,15
+2018,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,15
+2019,SD_MDP_MUHC,Poland,ALLAGE,Urban,Both sexes,14
+2019,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,18
+2019,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,19
+2019,SD_MDP_MUHC,Poland,ALLAGE,Rural,Both sexes,24
+2019,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,18
+2020,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,18
+2020,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,17
+2020,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,15
+2020,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,17
+2021,SD_MDP_MUHC,Poland,<16Y,All areas,Both sexes,16
+2021,SD_MDP_MUHC,Poland,ALLAGE,All areas,Both sexes,17
+2021,SD_MDP_MUHC,Poland,ALLAGE,All areas,Male,16
+2021,SD_MDP_MUHC,Poland,ALLAGE,All areas,Female,18
+2010,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,42
+2010,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,41
+2010,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,42
+2010,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,49
+2015,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,34
+2015,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,39
+2015,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,35
+2015,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,37
+2015,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,37
+2016,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,37
+2016,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,39
+2016,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,36
+2016,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,36
+2016,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,34
+2016,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,34
+2017,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,36
+2017,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,33
+2017,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,34
+2017,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,39
+2017,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,35
+2017,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,36
+2018,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,32
+2018,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,31
+2018,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,33
+2010,SD_MDP_MUHC,Romania,<18Y,All areas,Both sexes,48
+2010,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,29
+2011,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,42
+2011,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,29
+2011,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,49
+2011,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,41
+2011,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,48
+2011,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,40
+2012,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,44
+2012,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,33
+2012,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,53
+2012,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,43
+2012,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,43
+2012,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,57
+2013,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,42
+2013,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,43
+2013,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,41
+2013,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,51
+2013,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,53
+2013,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,33
+2018,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,32
+2018,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,30
+2018,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,35
+2019,SD_MDP_MUHC,Greece,ALLAGE,Rural,Both sexes,34
+2019,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,29
+2019,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,30
+2019,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,30
+2019,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,31
+2019,SD_MDP_MUHC,Greece,ALLAGE,Urban,Both sexes,28
+2020,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,28
+2020,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,30
+2020,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,31
+2020,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,29
+2021,SD_MDP_MUHC,Greece,ALLAGE,All areas,Both sexes,28
+2021,SD_MDP_MUHC,Greece,ALLAGE,All areas,Male,27
+2021,SD_MDP_MUHC,Greece,ALLAGE,All areas,Female,29
+2021,SD_MDP_MUHC,Greece,<16Y,All areas,Both sexes,32
+2010,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,29
+2010,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,30
+2010,SD_MDP_MUHC,Hungary,<18Y,All areas,Both sexes,40
+2014,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,40
+2014,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,41
+2014,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,40
+2014,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,29
+2014,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,50
+2014,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,52
+2015,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,27
+2015,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,37
+2015,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,38
+2015,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,46
+2015,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,51
+2015,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,37
+2016,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,40
+2016,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,38
+2016,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,28
+2016,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,39
+2016,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,52
+2016,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,49
+2017,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,49
+2017,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,41
+2017,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,37
+2017,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,36
+2017,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,25
+2017,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,35
+2018,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,34
+2018,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,22
+2018,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,31
+2018,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,38
+2018,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,33
+2018,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,46
+2019,SD_MDP_MUHC,Romania,ALLAGE,Urban,Both sexes,21
+2019,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,30
+2019,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,32
+2019,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,31
+2019,SD_MDP_MUHC,Romania,ALLAGE,Rural,Both sexes,44
+2019,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,35
+2020,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,36
+2020,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,29
+2020,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,32
+2020,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,30
+2021,SD_MDP_MUHC,Romania,ALLAGE,All areas,Male,33
+2021,SD_MDP_MUHC,Romania,<16Y,All areas,Both sexes,41
+2021,SD_MDP_MUHC,Romania,ALLAGE,All areas,Both sexes,34
+2021,SD_MDP_MUHC,Romania,ALLAGE,All areas,Female,36
+2013,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,42
+2013,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,42
+2013,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,42
+2013,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,42
+2014,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,43
+2014,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,42
+2010,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,35
+2010,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,25
+2010,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,30
+2011,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,40
+2011,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,27
+2014,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,43
+2014,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,42
+2015,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,42
+2015,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,41
+2015,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,42
+2011,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,31
+2011,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,32
+2011,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,32
+2011,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,36
+2012,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,34
+2015,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,41
+2016,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,39
+2016,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,38
+2016,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,39
+2016,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,38
+2012,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,30
+2012,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,39
+2012,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,42
+2012,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,33
+2012,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,34
+2017,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,37
+2017,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,36
+2017,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,37
+2017,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,39
+2018,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,34
+2013,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,34
+2013,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,35
+2013,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,35
+2013,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,41
+2013,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,44
+2018,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,34
+2018,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,35
+2018,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,34
+2019,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,35
+2019,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,31
+2013,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,32
+2014,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,32
+2014,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,38
+2014,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,31
+2014,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,28
+2019,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,32
+2019,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,32
+2020,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,29
+2020,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,29
+2020,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,31
+2020,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,30
+2021,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Both sexes,28
+2021,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Male,27
+2021,SD_MDP_MUHC,Serbia,<16Y,All areas,Both sexes,26
+2021,SD_MDP_MUHC,Serbia,ALLAGE,All areas,Female,30
+2010,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,21
+2010,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,22
+2010,SD_MDP_MUHC,Slovakia,<18Y,All areas,Both sexes,25
+2010,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,18
+2010,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,25
+2014,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,32
+2014,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,42
+2015,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,33
+2015,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,36
+2015,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,28
+2010,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,20
+2011,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,24
+2011,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,18
+2011,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,22
+2011,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,20
+2015,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,28
+2015,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,24
+2015,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,28
+2016,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,27
+2016,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,34
+2011,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,26
+2011,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,21
+2012,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,17
+2012,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,25
+2016,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,31
+2016,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,22
+2016,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,26
+2016,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,26
+2017,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,25
+2012,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,20
+2012,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,21
+2012,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,26
+2013,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,25
+2013,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,19
+2013,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,22
+2013,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,20
+2013,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,18
+2013,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,20
+2014,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,23
+2017,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,26
+2017,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,23
+2017,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,31
+2017,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,32
+2017,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,26
+2014,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,18
+2014,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,17
+2014,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,18
+2014,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,21
+2014,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,19
+2015,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,19
+2015,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,18
+2015,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,18
+2015,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,21
+2015,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,17
+2015,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,26
+2016,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,18
+2016,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,18
+2016,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,22
+2016,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,16
+2016,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,25
+2017,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,15
+2017,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,16
+2017,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,22
+2017,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,16
+2017,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,18
+2017,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,16
+2018,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,19
+2018,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,24
+2018,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,17
+2018,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,14
+2018,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,16
+2019,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,16
+2019,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,16
+2019,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,17
+2019,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,21
+2019,SD_MDP_MUHC,Slovakia,ALLAGE,Rural,Both sexes,18
+2019,SD_MDP_MUHC,Slovakia,ALLAGE,Urban,Both sexes,15
+2020,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,15
+2020,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,15
+2020,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,15
+2020,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,19
+2021,SD_MDP_MUHC,Slovakia,<16Y,All areas,Both sexes,20
+2018,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,17
+2018,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,26
+2018,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,19
+2018,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,20
+2018,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Female,16
+2021,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Male,15
+2021,SD_MDP_MUHC,Slovakia,ALLAGE,All areas,Both sexes,16
+2010,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,17
+2010,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,17
+2010,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,20
+2010,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,20
+2010,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,18
+2010,SD_MDP_MUHC,Slovenia,<18Y,All areas,Both sexes,15
+2011,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,20
+2011,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,17
+2011,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,19
+2011,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,21
+2011,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,18
+2011,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,17
+2018,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,22
+2019,SD_MDP_MUHC,Hungary,ALLAGE,Urban,Both sexes,17
+2019,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,20
+2019,SD_MDP_MUHC,Hungary,ALLAGE,Rural,Both sexes,23
+2012,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,18
+2012,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,16
+2012,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,20
+2012,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,21
+2012,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,19
+2019,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,19
+2019,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,18
+2020,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,18
+2020,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,18
+2020,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,18
+2012,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,20
+2013,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,21
+2013,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,22
+2013,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,20
+2013,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,19
+2020,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,18
+2021,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Female,20
+2021,SD_MDP_MUHC,Hungary,<16Y,All areas,Both sexes,23
+2021,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Male,19
+2021,SD_MDP_MUHC,Hungary,ALLAGE,All areas,Both sexes,19
+2010,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,14
+2010,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,15
+2010,SD_MDP_MUHC,Iceland,<18Y,All areas,Both sexes,17
+2010,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,14
+2010,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,13
+2013,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,17
+2013,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,19
+2014,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,20
+2014,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,22
+2014,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,20
+2010,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,14
+2011,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,13
+2011,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,17
+2011,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,14
+2011,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,14
+2011,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,13
+2011,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,14
+2012,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,12
+2012,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,13
+2012,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,13
+2014,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,22
+2014,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,18
+2014,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,19
+2015,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,19
+2015,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,16
+2012,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,13
+2012,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,17
+2012,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,13
+2013,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,13
+2013,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,13
+2015,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,21
+2015,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,18
+2015,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,19
+2015,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,19
+2016,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,17
+2013,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,13
+2013,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,13
+2013,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,13
+2013,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,17
+2014,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,11
+2016,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,18
+2016,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,14
+2016,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,19
+2016,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,18
+2016,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,20
+2014,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,12
+2014,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,12
+2014,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,9
+2014,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,11
+2014,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,14
+2017,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,17
+2017,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,16
+2017,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,18
+2017,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,17
+2017,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,18
+2017,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,15
+2018,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,15
+2018,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,16
+2018,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,16
+2018,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,17
+2018,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,13
+2018,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,17
+2019,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,13
+2019,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,12
+2019,SD_MDP_MUHC,Slovenia,ALLAGE,Rural,Both sexes,14
+2019,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,14
+2019,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,16
+2019,SD_MDP_MUHC,Slovenia,ALLAGE,Urban,Both sexes,15
+2020,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,14
+2020,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,15
+2015,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,13
+2015,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,12
+2015,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,9
+2015,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,15
+2015,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,13
+2020,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,16
+2020,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,12
+2021,SD_MDP_MUHC,Slovenia,<16Y,All areas,Both sexes,11
+2021,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Male,13
+2021,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Female,14
+2015,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,13
+2016,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,15
+2016,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,13
+2016,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,11
+2016,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,12
+2021,SD_MDP_MUHC,Slovenia,ALLAGE,All areas,Both sexes,13
+2010,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,26
+2010,SD_MDP_MUHC,Spain,<18Y,All areas,Both sexes,33
+2010,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,26
+2010,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2016,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,12
+2016,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,12
+2017,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,11
+2017,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,13
+2017,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,13
+2017,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,12
+2017,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,15
+2017,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,14
+2018,SD_MDP_MUHC,Iceland,ALLAGE,Urban,Both sexes,11
+2018,SD_MDP_MUHC,Iceland,ALLAGE,Rural,Both sexes,12
+2010,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,24
+2010,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,31
+2011,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,27
+2011,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,26
+2011,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,31
+2018,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Both sexes,11
+2018,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Female,11
+2018,SD_MDP_MUHC,Iceland,<16Y,All areas,Both sexes,13
+2018,SD_MDP_MUHC,Iceland,ALLAGE,All areas,Male,11
+2010,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,26
+2011,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,25
+2011,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2011,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,32
+2012,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2012,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,27
+2010,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,29
+2010,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,28
+2010,SD_MDP_MUHC,Ireland,<18Y,All areas,Both sexes,34
+2010,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,27
+2010,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,27
+2012,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,31
+2012,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,27
+2012,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,31
+2012,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,26
+2013,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,32
+2011,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,30
+2011,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,29
+2011,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,29
+2011,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,34
+2011,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,30
+2013,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,27
+2013,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,25
+2013,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,35
+2013,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,27
+2013,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,28
+2011,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,29
+2012,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,31
+2012,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,32
+2012,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,30
+2012,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,30
+2014,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,35
+2014,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,29
+2014,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,29
+2014,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,27
+2014,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,35
+2012,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,30
+2012,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,30
+2013,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,32
+2013,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,31
+2013,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,29
+2014,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,29
+2015,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,33
+2015,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,34
+2015,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,28
+2015,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,27
+2015,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,29
+2015,SD_MDP_MUHC,Spain,ALLAGE,All areas,Both sexes,29
+2016,SD_MDP_MUHC,Spain,<16Y,All areas,Both sexes,32
+2016,SD_MDP_MUHC,Spain,ALLAGE,All areas,Female,28
+2016,SD_MDP_MUHC,Spain,ALLAGE,Urban,Both sexes,26
+2013,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,29
+2013,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,34
+2013,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,30
+2014,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,27
+2014,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,27
+2014,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,28
+2014,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,30
+2014,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,28
+2014,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,29
+2015,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,25
+2015,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,28
+2015,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,26
+2015,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,27
+2015,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,26
+2015,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,26
+2016,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,24
+2016,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,26
+2016,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,24
+2016,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,23
+2016,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,23
+2016,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,27
+2017,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,22
+2017,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,24
+2017,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,23
+2017,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,22
+2017,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,24
+2017,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,23
+2018,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,23
+2018,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,21
+2018,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,20
+2018,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,20
+2018,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,22
+2018,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Ireland,ALLAGE,Urban,Both sexes,20
+2019,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,23
+2019,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,22
+2019,SD_MDP_MUHC,Ireland,ALLAGE,Rural,Both sexes,21
+2019,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,20
+2019,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,21
+2020,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,20
+2020,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,21
+2020,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,24
+2020,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,22
+2021,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Female,19
+2021,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Male,21
+2021,SD_MDP_MUHC,Ireland,ALLAGE,All areas,Both sexes,20
+2021,SD_MDP_MUHC,Ireland,<16Y,All areas,Both sexes,22
+2010,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,27
+2010,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,25
+2010,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,25
+2010,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,23
+2010,SD_MDP_MUHC,Italy,<18Y,All areas,Both sexes,30
+2010,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,27
+2011,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,28
+2011,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,28
+2011,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,31
+2011,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,26
+2011,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,30
+2011,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,31
+2012,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,35
+2012,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,32
+2012,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,30
+2012,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,29
+2012,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,34
+2012,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,28
+2013,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,29
+2013,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,35
+2013,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,27
+2013,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,27
+2013,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,32
+2013,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,30
+2014,SD_MDP_MUHC,Italy,ALLAGE,All areas,Both sexes,28
+2014,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,30
+2014,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,27
+2014,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,32
+2014,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,34
+2014,SD_MDP_MUHC,Italy,ALLAGE,All areas,Male,27
+2015,SD_MDP_MUHC,Italy,<16Y,All areas,Both sexes,33
+2015,SD_MDP_MUHC,Italy,ALLAGE,Urban,Both sexes,29
+2015,SD_MDP_MUHC,Italy,ALLAGE,All areas,Female,30
+2015,SD_MDP_MUHC,Italy,ALLAGE,Rural,Both sexes,27
+2016,SD_MDP_MUHC,Spain,ALLAGE,Rural,Both sexes,34
+2016,SD_MDP_MUHC,Spain,ALLAGE,All areas,Male,28
+2020,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Both sexes,40
+2020,SD_MDP_MUHC,North Macedonia,<16Y,All areas,Both sexes,46
+2020,SD_MDP_MUHC,North Macedonia,ALLAGE,All areas,Female,40
+2014,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Female,25
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,26
+2015,SD_MDP_MUHC,Costa Rica,ALLAGE,All areas,Both sexes,26

@@ -12,8 +12,132 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_RSK_LST",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Albania",
+                "Georgia",
+                "Malta",
+                "Chile",
+                "Azerbaijan",
+                "Germany",
+                "Australia",
+                "China",
+                "Greece",
+                "Austria",
+                "Armenia",
+                "Colombia",
+                "Belgium",
+                "Mexico",
+                "Costa Rica",
+                "Republic of Moldova",
+                "Hungary",
+                "Croatia",
+                "Bosnia and Herzegovina",
+                "Cyprus",
+                "Iceland",
+                "Romania",
+                "Czechia",
+                "Montenegro",
+                "Serbia",
+                "India",
+                "Slovakia",
+                "Ireland",
+                "Viet Nam",
+                "Denmark",
+                "Netherlands (Kingdom of the)",
+                "Slovenia",
+                "Israel",
+                "Italy",
+                "Spain",
+                "Estonia",
+                "New Zealand",
+                "Japan",
+                "Sweden",
+                "Norway",
+                "Finland",
+                "Казахстан",
+                "Switzerland",
+                "Republic of Korea",
+                "France",
+                "Кыргызстан",
+                "Таджикистан",
+                "Latvia",
+                "North Macedonia",
+                "United Arab Emirates",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Liechtenstein",
+                "Poland",
+                "Lithuania",
+                "Luxembourg",
+                "Узбекистан",
+                "Türkiye",
+                "Portugal",
+                "Туркменистан",
+                "Ukraine",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

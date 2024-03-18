@@ -1,12 +1,7 @@
 Disaggregation,Number of indicators,Number of values
-Age,3,7
-Country Name,1,63
-GeoAreaName,19,71
-Location,3,3
-Metric,6,6
-Poverty Line,4,2
-Quantile,1,2
-SeriesDescription,1,12
-Sex,4,3
+Age,1,4
+GeoAreaName,3,66
+Location,1,3
+Sex,1,3
 SI_POV,1,3
 SP_DYN,1,3

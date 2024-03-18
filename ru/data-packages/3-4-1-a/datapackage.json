@@ -29,12 +29,12 @@
             "title": "Пол"
           },
           {
-            "name": "Country Name",
+            "name": "GeoAreaName",
             "type": "string",
             "constraints": {
               "enum": [
                 "Казахстан",
-                "Kyrgyz Republic",
+                "Кыргызстан",
                 "Таджикистан",
                 "Туркменистан",
                 "Узбекистан",
@@ -99,7 +99,7 @@
                 ""
               ]
             },
-            "title": "Country Name"
+            "title": "Страна "
           },
           {
             "name": "Value",

@@ -1,0 +1,90 @@
+Year,SeriesCode,Country,Sex,Value
+2009,VC_PRR_SEXV,Australia,Both sexes,31.2
+2010,VC_PRR_SEXV,Australia,Both sexes,36.6
+2011,VC_PRR_SEXV,Australia,Both sexes,31.0
+2012,VC_PRR_SEXV,Australia,Both sexes,30.5
+2013,VC_PRR_SEXV,Australia,Both sexes,34.2
+2014,VC_PRR_SEXV,Australia,Both sexes,38.2
+2015,VC_PRR_SEXV,Australia,Both sexes,24.7
+2016,VC_PRR_SEXV,Australia,Both sexes,30.4
+2017,VC_PRR_SEXV,Australia,Both sexes,39.0
+2018,VC_PRR_SEXV,Australia,Both sexes,20.0
+2006,VC_PRR_SEXV,Belgium,Both sexes,3.27
+2009,VC_PRR_SEXV,Belgium,Both sexes,7.23
+2004,VC_PRR_SEXV,Canada,Both sexes,8.0
+2014,VC_PRR_SEXV,Canada,Both sexes,5.0
+2014,VC_PRR_SEXV,Canada,Female,4.65
+2019,VC_PRR_SEXV,Canada,Female,6.0
+2019,VC_PRR_SEXV,Canada,Both sexes,5.8
+2008,VC_PRR_SEXV,Croatia,Both sexes,0.0
+2010,VC_PRR_SEXV,France,Both sexes,11.59
+2011,VC_PRR_SEXV,France,Both sexes,12.81
+2012,VC_PRR_SEXV,France,Both sexes,10.76
+2013,VC_PRR_SEXV,France,Both sexes,7.61
+2014,VC_PRR_SEXV,France,Both sexes,9.98
+2015,VC_PRR_SEXV,France,Both sexes,8.84
+2016,VC_PRR_SEXV,France,Both sexes,17.56
+2017,VC_PRR_SEXV,France,Both sexes,18.35
+2018,VC_PRR_SEXV,France,Both sexes,25.15
+2019,VC_PRR_SEXV,France,Both sexes,17.41
+2010,VC_PRR_SEXV,Georgia,Female,18.9
+2010,VC_PRR_SEXV,Georgia,Both sexes,60.0
+2020,VC_PRR_SEXV,Germany,Male,12.6
+2020,VC_PRR_SEXV,Germany,Both sexes,2.2
+2020,VC_PRR_SEXV,Germany,Female,1.8
+2013,VC_PRR_SEXV,Iceland,Both sexes,4.2
+2014,VC_PRR_SEXV,Iceland,Both sexes,6.6
+2015,VC_PRR_SEXV,Iceland,Both sexes,3.3
+2016,VC_PRR_SEXV,Iceland,Both sexes,10.3
+2017,VC_PRR_SEXV,Iceland,Both sexes,7.2
+2018,VC_PRR_SEXV,Iceland,Both sexes,7.2
+2019,VC_PRR_SEXV,Iceland,Both sexes,5.6
+2019,VC_PRR_SEXV,Iceland,Male,0.0
+2019,VC_PRR_SEXV,Iceland,Female,6.3
+2020,VC_PRR_SEXV,Iceland,Both sexes,7.0
+2020,VC_PRR_SEXV,Iceland,Male,0.0
+2020,VC_PRR_SEXV,Iceland,Female,15.9
+2012,VC_PRR_SEXV,Republic of Korea,Both sexes,8.4
+2014,VC_PRR_SEXV,Republic of Korea,Both sexes,5.4
+2016,VC_PRR_SEXV,Republic of Korea,Both sexes,13.7
+2016,VC_PRR_SEXV,Republic of Korea,Female,13.7
+2018,VC_PRR_SEXV,Republic of Korea,Both sexes,31.23
+2020,VC_PRR_SEXV,Republic of Korea,Both sexes,0.0
+2015,VC_PRR_SEXV,Kyrgyzstan,Both sexes,31.8
+2013,VC_PRR_SEXV,Luxembourg,Both sexes,29.0
+2015,VC_PRR_SEXV,Mexico,Both sexes,7.42
+2016,VC_PRR_SEXV,Mexico,Female,7.31
+2016,VC_PRR_SEXV,Mexico,Both sexes,6.82
+2017,VC_PRR_SEXV,Mexico,Both sexes,4.01
+2017,VC_PRR_SEXV,Mexico,Female,3.88
+2018,VC_PRR_SEXV,Mexico,Both sexes,5.95
+2018,VC_PRR_SEXV,Mexico,Female,4.91
+2019,VC_PRR_SEXV,Mexico,Female,4.15
+2019,VC_PRR_SEXV,Mexico,Both sexes,4.6
+2020,VC_PRR_SEXV,Mexico,Female,6.77
+2020,VC_PRR_SEXV,Mexico,Both sexes,6.64
+2021,VC_PRR_SEXV,Mexico,Female,4.74
+2021,VC_PRR_SEXV,Mexico,Both sexes,4.96
+2006,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,12.6
+2007,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,11.3
+2008,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,4.4
+2009,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,11.2
+2010,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,7.3
+2011,VC_PRR_SEXV,Netherlands (Kingdom of the),Both sexes,9.1
+2009,VC_PRR_SEXV,New Zealand,Both sexes,6.8
+2018,VC_PRR_SEXV,New Zealand,Both sexes,5.7
+2019,VC_PRR_SEXV,New Zealand,Both sexes,5.3
+2006,VC_PRR_SEXV,Sweden,Both sexes,11.0
+2007,VC_PRR_SEXV,Sweden,Both sexes,17.0
+2008,VC_PRR_SEXV,Sweden,Both sexes,14.0
+2009,VC_PRR_SEXV,Sweden,Both sexes,19.0
+2010,VC_PRR_SEXV,Sweden,Both sexes,23.0
+2011,VC_PRR_SEXV,Sweden,Both sexes,19.0
+2012,VC_PRR_SEXV,Sweden,Both sexes,10.0
+2013,VC_PRR_SEXV,Sweden,Both sexes,12.0
+2014,VC_PRR_SEXV,Sweden,Both sexes,8.0
+2015,VC_PRR_SEXV,Sweden,Both sexes,9.0
+2016,VC_PRR_SEXV,Sweden,Both sexes,11.0
+2017,VC_PRR_SEXV,Sweden,Both sexes,11.0
+2015,VC_PRR_SEXV,Switzerland,Both sexes,3.4
+2015,VC_PRR_SEXV,Switzerland,Both sexes,3.4

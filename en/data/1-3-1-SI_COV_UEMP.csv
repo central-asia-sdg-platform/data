@@ -1,0 +1,647 @@
+Year,SeriesCode,Country,Sex,Value
+2020,SI_COV_UEMP,Georgia,Male,0.0
+2020,SI_COV_UEMP,Georgia,Female,0.0
+2000,SI_COV_UEMP,Germany,Both sexes,81.2
+2004,SI_COV_UEMP,Germany,Both sexes,92.1
+2007,SI_COV_UEMP,Germany,Both sexes,80.6
+2009,SI_COV_UEMP,Germany,Both sexes,86.4
+2010,SI_COV_UEMP,Germany,Both sexes,87.6
+2011,SI_COV_UEMP,Germany,Both sexes,86.3
+2016,SI_COV_UEMP,Germany,Both sexes,100.0
+2020,SI_COV_UEMP,Germany,Female,100.0
+2020,SI_COV_UEMP,Germany,Male,100.0
+2020,SI_COV_UEMP,Germany,Both sexes,100.0
+2000,SI_COV_UEMP,Greece,Both sexes,52.9
+2002,SI_COV_UEMP,Greece,Both sexes,44.3
+2007,SI_COV_UEMP,Greece,Both sexes,53.9
+2009,SI_COV_UEMP,Greece,Both sexes,57.7
+2010,SI_COV_UEMP,Greece,Both sexes,30.8
+2011,SI_COV_UEMP,Greece,Both sexes,28.6
+2014,SI_COV_UEMP,Greece,Both sexes,21.0
+2020,SI_COV_UEMP,Greece,Both sexes,26.4
+2003,SI_COV_UEMP,Hungary,Both sexes,45.1
+2005,SI_COV_UEMP,Hungary,Both sexes,42.6
+2007,SI_COV_UEMP,Hungary,Both sexes,42.6
+2009,SI_COV_UEMP,Hungary,Both sexes,48.0
+2010,SI_COV_UEMP,Hungary,Both sexes,39.5
+2011,SI_COV_UEMP,Hungary,Both sexes,35.7
+2013,SI_COV_UEMP,Hungary,Both sexes,10.9
+2013,SI_COV_UEMP,Hungary,Male,11.2
+2013,SI_COV_UEMP,Hungary,Female,10.5
+2014,SI_COV_UEMP,Hungary,Male,12.5
+2014,SI_COV_UEMP,Hungary,Both sexes,12.4
+2014,SI_COV_UEMP,Hungary,Female,12.2
+2020,SI_COV_UEMP,Hungary,Female,25.9
+2020,SI_COV_UEMP,Hungary,Both sexes,26.3
+2020,SI_COV_UEMP,Hungary,Male,26.7
+2000,SI_COV_UEMP,Iceland,Both sexes,50.4
+2005,SI_COV_UEMP,Iceland,Both sexes,72.6
+2007,SI_COV_UEMP,Iceland,Both sexes,39.1
+2009,SI_COV_UEMP,Iceland,Both sexes,17.7
+2010,SI_COV_UEMP,Iceland,Both sexes,21.6
+2011,SI_COV_UEMP,Iceland,Both sexes,28.6
+2011,SI_COV_UEMP,Iceland,Female,43.0
+2011,SI_COV_UEMP,Iceland,Male,18.3
+2020,SI_COV_UEMP,Iceland,Both sexes,100.0
+2020,SI_COV_UEMP,Iceland,Female,100.0
+2020,SI_COV_UEMP,Iceland,Male,100.0
+2020,SI_COV_UEMP,India,Female,0.0
+2020,SI_COV_UEMP,India,Both sexes,0.0
+2020,SI_COV_UEMP,India,Male,0.0
+2000,SI_COV_UEMP,Ireland,Both sexes,74.7
+2005,SI_COV_UEMP,Ireland,Both sexes,81.5
+2007,SI_COV_UEMP,Ireland,Both sexes,85.9
+2009,SI_COV_UEMP,Ireland,Both sexes,91.3
+2010,SI_COV_UEMP,Ireland,Both sexes,87.2
+2011,SI_COV_UEMP,Ireland,Both sexes,85.4
+2013,SI_COV_UEMP,Ireland,Male,100.0
+2013,SI_COV_UEMP,Ireland,Female,94.1
+2014,SI_COV_UEMP,Ireland,Both sexes,100.0
+2020,SI_COV_UEMP,Ireland,Male,100.0
+2020,SI_COV_UEMP,Ireland,Both sexes,100.0
+2020,SI_COV_UEMP,Ireland,Female,100.0
+2000,SI_COV_UEMP,Israel,Both sexes,43.3
+2005,SI_COV_UEMP,Israel,Both sexes,29.1
+2007,SI_COV_UEMP,Israel,Both sexes,29.7
+2009,SI_COV_UEMP,Israel,Both sexes,38.2
+2010,SI_COV_UEMP,Israel,Both sexes,36.3
+2011,SI_COV_UEMP,Israel,Both sexes,40.0
+2013,SI_COV_UEMP,Israel,Both sexes,33.9
+2014,SI_COV_UEMP,Israel,Both sexes,37.0
+2020,SI_COV_UEMP,Israel,Both sexes,42.0
+2000,SI_COV_UEMP,Italy,Both sexes,22.6
+2005,SI_COV_UEMP,Italy,Both sexes,35.4
+2007,SI_COV_UEMP,Italy,Both sexes,42.5
+2009,SI_COV_UEMP,Italy,Both sexes,61.3
+2010,SI_COV_UEMP,Italy,Both sexes,56.2
+2011,SI_COV_UEMP,Italy,Both sexes,55.8
+2014,SI_COV_UEMP,Italy,Both sexes,37.8
+2020,SI_COV_UEMP,Italy,Both sexes,48.2
+2001,SI_COV_UEMP,Japan,Both sexes,32.5
+2005,SI_COV_UEMP,Japan,Both sexes,21.4
+2007,SI_COV_UEMP,Japan,Both sexes,22.1
+2009,SI_COV_UEMP,Japan,Both sexes,25.4
+2010,SI_COV_UEMP,Japan,Both sexes,19.6
+2011,SI_COV_UEMP,Japan,Both sexes,21.5
+2014,SI_COV_UEMP,Japan,Both sexes,20.0
+2020,SI_COV_UEMP,Japan,Both sexes,69.3
+2000,SI_COV_UEMP,Kazakhstan,Both sexes,0.5
+2005,SI_COV_UEMP,Kazakhstan,Both sexes,0.7
+2007,SI_COV_UEMP,Kazakhstan,Both sexes,0.9
+2009,SI_COV_UEMP,Kazakhstan,Both sexes,1.0
+2010,SI_COV_UEMP,Kazakhstan,Both sexes,0.5
+2011,SI_COV_UEMP,Kazakhstan,Both sexes,0.4
+2016,SI_COV_UEMP,Kazakhstan,Male,6.8
+2016,SI_COV_UEMP,Kazakhstan,Female,4.5
+2016,SI_COV_UEMP,Kazakhstan,Both sexes,5.8
+2020,SI_COV_UEMP,Kazakhstan,Male,8.1
+2020,SI_COV_UEMP,Kazakhstan,Female,5.2
+2020,SI_COV_UEMP,Kazakhstan,Both sexes,8.9
+2004,SI_COV_UEMP,Republic of Korea,Both sexes,25.1
+2005,SI_COV_UEMP,Republic of Korea,Both sexes,27.5
+2007,SI_COV_UEMP,Republic of Korea,Both sexes,34.9
+2009,SI_COV_UEMP,Republic of Korea,Both sexes,39.2
+2010,SI_COV_UEMP,Republic of Korea,Both sexes,36.0
+2011,SI_COV_UEMP,Republic of Korea,Both sexes,35.8
+2014,SI_COV_UEMP,Republic of Korea,Both sexes,40.0
+2019,SI_COV_UEMP,Republic of Korea,Both sexes,37.1
+2020,SI_COV_UEMP,Republic of Korea,Both sexes,45.4
+2000,SI_COV_UEMP,Kyrgyzstan,Both sexes,8.2
+2005,SI_COV_UEMP,Kyrgyzstan,Both sexes,10.4
+2007,SI_COV_UEMP,Kyrgyzstan,Both sexes,3.3
+2009,SI_COV_UEMP,Kyrgyzstan,Both sexes,1.4
+2010,SI_COV_UEMP,Kyrgyzstan,Both sexes,1.2
+2011,SI_COV_UEMP,Kyrgyzstan,Both sexes,1.2
+2016,SI_COV_UEMP,Kyrgyzstan,Both sexes,1.7
+2020,SI_COV_UEMP,Kyrgyzstan,Both sexes,2.7
+2001,SI_COV_UEMP,Latvia,Both sexes,26.2
+2005,SI_COV_UEMP,Latvia,Both sexes,37.1
+2007,SI_COV_UEMP,Latvia,Both sexes,47.0
+2009,SI_COV_UEMP,Latvia,Both sexes,33.4
+2000,SI_COV_UEMP,Albania,Both sexes,10.2
+2005,SI_COV_UEMP,Albania,Both sexes,6.7
+2007,SI_COV_UEMP,Albania,Both sexes,7.8
+2009,SI_COV_UEMP,Albania,Both sexes,6.3
+2010,SI_COV_UEMP,Albania,Both sexes,6.4
+2011,SI_COV_UEMP,Albania,Both sexes,6.0
+2012,SI_COV_UEMP,Albania,Both sexes,6.9
+2020,SI_COV_UEMP,Albania,Both sexes,6.9
+2021,SI_COV_UEMP,Albania,Both sexes,2.6
+2000,SI_COV_UEMP,Azerbaijan,Both sexes,6.3
+2005,SI_COV_UEMP,Azerbaijan,Both sexes,3.7
+2007,SI_COV_UEMP,Azerbaijan,Both sexes,5.0
+2009,SI_COV_UEMP,Azerbaijan,Both sexes,6.6
+2011,SI_COV_UEMP,Azerbaijan,Both sexes,2.6
+2016,SI_COV_UEMP,Azerbaijan,Male,2.6
+2016,SI_COV_UEMP,Azerbaijan,Both sexes,1.6
+2016,SI_COV_UEMP,Azerbaijan,Female,0.8
+2020,SI_COV_UEMP,Azerbaijan,Both sexes,19.1
+2000,SI_COV_UEMP,Australia,Both sexes,73.4
+2005,SI_COV_UEMP,Australia,Both sexes,70.4
+2007,SI_COV_UEMP,Australia,Both sexes,62.4
+2009,SI_COV_UEMP,Australia,Both sexes,58.2
+2010,SI_COV_UEMP,Australia,Both sexes,51.3
+2011,SI_COV_UEMP,Australia,Both sexes,51.4
+2014,SI_COV_UEMP,Australia,Both sexes,52.7
+2014,SI_COV_UEMP,Australia,Female,44.4
+2014,SI_COV_UEMP,Australia,Male,60.0
+2020,SI_COV_UEMP,Australia,Both sexes,52.7
+2000,SI_COV_UEMP,Austria,Both sexes,94.1
+2005,SI_COV_UEMP,Austria,Both sexes,89.4
+2007,SI_COV_UEMP,Austria,Both sexes,89.8
+2009,SI_COV_UEMP,Austria,Both sexes,91.3
+2010,SI_COV_UEMP,Austria,Both sexes,91.4
+2011,SI_COV_UEMP,Austria,Both sexes,90.5
+2013,SI_COV_UEMP,Austria,Both sexes,100.0
+2014,SI_COV_UEMP,Austria,Both sexes,100.0
+2016,SI_COV_UEMP,Austria,Both sexes,100.0
+2020,SI_COV_UEMP,Austria,Female,100.0
+2020,SI_COV_UEMP,Austria,Both sexes,100.0
+2020,SI_COV_UEMP,Austria,Male,100.0
+2000,SI_COV_UEMP,Armenia,Both sexes,12.0
+2005,SI_COV_UEMP,Armenia,Both sexes,5.7
+2007,SI_COV_UEMP,Armenia,Both sexes,20.1
+2009,SI_COV_UEMP,Armenia,Both sexes,30.5
+2010,SI_COV_UEMP,Armenia,Both sexes,24.1
+2011,SI_COV_UEMP,Armenia,Both sexes,20.8
+2020,SI_COV_UEMP,Armenia,Both sexes,0.0
+2020,SI_COV_UEMP,Armenia,Male,0.0
+2020,SI_COV_UEMP,Armenia,Female,0.0
+2010,SI_COV_UEMP,Latvia,Both sexes,27.9
+2011,SI_COV_UEMP,Latvia,Both sexes,20.8
+2013,SI_COV_UEMP,Latvia,Both sexes,27.0
+2013,SI_COV_UEMP,Latvia,Female,33.8
+2013,SI_COV_UEMP,Latvia,Male,21.0
+2014,SI_COV_UEMP,Latvia,Male,25.7
+2014,SI_COV_UEMP,Latvia,Female,42.5
+2014,SI_COV_UEMP,Latvia,Both sexes,33.3
+2019,SI_COV_UEMP,Latvia,Both sexes,41.0
+2020,SI_COV_UEMP,Latvia,Both sexes,40.0
+2020,SI_COV_UEMP,Latvia,Male,31.8
+2020,SI_COV_UEMP,Latvia,Female,50.6
+2000,SI_COV_UEMP,Liechtenstein,Both sexes,63.0
+2005,SI_COV_UEMP,Liechtenstein,Both sexes,71.8
+2007,SI_COV_UEMP,Liechtenstein,Both sexes,66.9
+2009,SI_COV_UEMP,Liechtenstein,Both sexes,66.8
+2010,SI_COV_UEMP,Liechtenstein,Both sexes,78.9
+2011,SI_COV_UEMP,Liechtenstein,Female,68.8
+2011,SI_COV_UEMP,Liechtenstein,Male,65.5
+2011,SI_COV_UEMP,Liechtenstein,Both sexes,67.2
+2020,SI_COV_UEMP,Liechtenstein,Both sexes,67.2
+2005,SI_COV_UEMP,Lithuania,Both sexes,11.6
+2007,SI_COV_UEMP,Lithuania,Both sexes,26.1
+2009,SI_COV_UEMP,Lithuania,Both sexes,31.4
+2010,SI_COV_UEMP,Lithuania,Both sexes,20.1
+2011,SI_COV_UEMP,Lithuania,Both sexes,15.6
+2013,SI_COV_UEMP,Lithuania,Female,31.3
+2013,SI_COV_UEMP,Lithuania,Both sexes,24.6
+2013,SI_COV_UEMP,Lithuania,Male,19.2
+2014,SI_COV_UEMP,Lithuania,Male,20.0
+2014,SI_COV_UEMP,Lithuania,Female,33.6
+2014,SI_COV_UEMP,Lithuania,Both sexes,25.9
+2020,SI_COV_UEMP,Lithuania,Both sexes,37.7
+2020,SI_COV_UEMP,Lithuania,Male,30.4
+2020,SI_COV_UEMP,Lithuania,Female,47.5
+2000,SI_COV_UEMP,Luxembourg,Both sexes,42.3
+2005,SI_COV_UEMP,Luxembourg,Both sexes,55.1
+2007,SI_COV_UEMP,Luxembourg,Both sexes,52.5
+2009,SI_COV_UEMP,Luxembourg,Both sexes,53.4
+2010,SI_COV_UEMP,Luxembourg,Both sexes,50.5
+2000,SI_COV_UEMP,Belgium,Both sexes,81.3
+2005,SI_COV_UEMP,Belgium,Both sexes,84.0
+2007,SI_COV_UEMP,Belgium,Both sexes,86.1
+2009,SI_COV_UEMP,Belgium,Both sexes,83.6
+2010,SI_COV_UEMP,Belgium,Both sexes,82.8
+2011,SI_COV_UEMP,Belgium,Both sexes,83.1
+2013,SI_COV_UEMP,Belgium,Female,90.8
+2013,SI_COV_UEMP,Belgium,Male,58.3
+2013,SI_COV_UEMP,Belgium,Both sexes,100.0
+2014,SI_COV_UEMP,Belgium,Male,58.0
+2014,SI_COV_UEMP,Belgium,Female,86.2
+2014,SI_COV_UEMP,Belgium,Both sexes,100.0
+2020,SI_COV_UEMP,Belgium,Both sexes,100.0
+2020,SI_COV_UEMP,Belgium,Female,100.0
+2020,SI_COV_UEMP,Belgium,Male,100.0
+2001,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,1.2
+2005,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,1.6
+2007,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,1.6
+2009,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,2.4
+2010,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,2.6
+2011,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,2.0
+2020,SI_COV_UEMP,Bosnia and Herzegovina,Both sexes,5.3
+2003,SI_COV_UEMP,Bulgaria,Both sexes,21.1
+2005,SI_COV_UEMP,Bulgaria,Both sexes,23.4
+2007,SI_COV_UEMP,Bulgaria,Both sexes,27.1
+2009,SI_COV_UEMP,Bulgaria,Both sexes,45.6
+2010,SI_COV_UEMP,Bulgaria,Both sexes,30.8
+2011,SI_COV_UEMP,Bulgaria,Both sexes,28.4
+2013,SI_COV_UEMP,Bulgaria,Female,25.0
+2013,SI_COV_UEMP,Bulgaria,Both sexes,26.7
+2013,SI_COV_UEMP,Bulgaria,Male,12.4
+2014,SI_COV_UEMP,Bulgaria,Both sexes,26.2
+2014,SI_COV_UEMP,Bulgaria,Male,11.8
+2014,SI_COV_UEMP,Bulgaria,Female,25.1
+2016,SI_COV_UEMP,Bulgaria,Female,37.2
+2016,SI_COV_UEMP,Bulgaria,Both sexes,29.6
+2016,SI_COV_UEMP,Bulgaria,Male,29.2
+2020,SI_COV_UEMP,Bulgaria,Female,46.8
+2020,SI_COV_UEMP,Bulgaria,Both sexes,35.4
+2020,SI_COV_UEMP,Bulgaria,Male,26.9
+2000,SI_COV_UEMP,Belarus,Both sexes,39.0
+2005,SI_COV_UEMP,Belarus,Both sexes,55.7
+2007,SI_COV_UEMP,Belarus,Both sexes,54.0
+2009,SI_COV_UEMP,Belarus,Both sexes,49.4
+2010,SI_COV_UEMP,Belarus,Both sexes,44.0
+2011,SI_COV_UEMP,Belarus,Both sexes,46.1
+2016,SI_COV_UEMP,Belarus,Female,57.4
+2016,SI_COV_UEMP,Belarus,Male,29.1
+2016,SI_COV_UEMP,Belarus,Both sexes,44.6
+2020,SI_COV_UEMP,Belarus,Both sexes,44.6
+2011,SI_COV_UEMP,Luxembourg,Both sexes,50.9
+2013,SI_COV_UEMP,Luxembourg,Both sexes,51.2
+2013,SI_COV_UEMP,Luxembourg,Male,29.5
+2013,SI_COV_UEMP,Luxembourg,Female,41.7
+2014,SI_COV_UEMP,Luxembourg,Both sexes,49.5
+2014,SI_COV_UEMP,Luxembourg,Female,38.5
+2014,SI_COV_UEMP,Luxembourg,Male,27.9
+2020,SI_COV_UEMP,Luxembourg,Both sexes,49.8
+2003,SI_COV_UEMP,Malta,Both sexes,89.2
+2005,SI_COV_UEMP,Malta,Both sexes,98.7
+2000,SI_COV_UEMP,Canada,Both sexes,46.1
+2005,SI_COV_UEMP,Canada,Both sexes,44.2
+2007,SI_COV_UEMP,Canada,Both sexes,44.5
+2009,SI_COV_UEMP,Canada,Both sexes,48.4
+2010,SI_COV_UEMP,Canada,Both sexes,46.1
+2011,SI_COV_UEMP,Canada,Both sexes,41.8
+2013,SI_COV_UEMP,Canada,Male,23.4
+2013,SI_COV_UEMP,Canada,Female,26.6
+2013,SI_COV_UEMP,Canada,Both sexes,38.2
+2014,SI_COV_UEMP,Canada,Female,25.8
+2014,SI_COV_UEMP,Canada,Both sexes,37.8
+2014,SI_COV_UEMP,Canada,Male,23.3
+2020,SI_COV_UEMP,Canada,Both sexes,37.8
+2004,SI_COV_UEMP,Chile,Both sexes,5.7
+2005,SI_COV_UEMP,Chile,Both sexes,9.7
+2007,SI_COV_UEMP,Chile,Both sexes,19.6
+2009,SI_COV_UEMP,Chile,Both sexes,20.7
+2010,SI_COV_UEMP,Chile,Both sexes,21.1
+2011,SI_COV_UEMP,Chile,Both sexes,23.7
+2013,SI_COV_UEMP,Chile,Male,22.0
+2007,SI_COV_UEMP,Malta,Both sexes,96.3
+2009,SI_COV_UEMP,Malta,Both sexes,94.2
+2010,SI_COV_UEMP,Malta,Both sexes,84.4
+2011,SI_COV_UEMP,Malta,Both sexes,86.9
+2013,SI_COV_UEMP,Malta,Both sexes,61.4
+2013,SI_COV_UEMP,Malta,Male,74.7
+2013,SI_COV_UEMP,Malta,Female,38.5
+2014,SI_COV_UEMP,Malta,Both sexes,62.2
+2014,SI_COV_UEMP,Malta,Male,73.3
+2014,SI_COV_UEMP,Malta,Female,41.3
+2013,SI_COV_UEMP,Chile,Both sexes,33.5
+2013,SI_COV_UEMP,Chile,Female,21.7
+2014,SI_COV_UEMP,Chile,Both sexes,34.9
+2014,SI_COV_UEMP,Chile,Male,22.9
+2014,SI_COV_UEMP,Chile,Female,21.5
+2016,SI_COV_UEMP,Chile,Female,51.9
+2016,SI_COV_UEMP,Chile,Both sexes,45.6
+2016,SI_COV_UEMP,Chile,Male,37.9
+2020,SI_COV_UEMP,Chile,Female,20.1
+2020,SI_COV_UEMP,Chile,Both sexes,27.0
+2015,SI_COV_UEMP,Malta,Both sexes,62.2
+2020,SI_COV_UEMP,Malta,Both sexes,49.7
+2017,SI_COV_UEMP,Mexico,Both sexes,14.9
+2017,SI_COV_UEMP,Mexico,Male,11.5
+2017,SI_COV_UEMP,Mexico,Female,19.9
+2020,SI_COV_UEMP,Mexico,Both sexes,6.0
+2000,SI_COV_UEMP,Moldova,Both sexes,22.8
+2005,SI_COV_UEMP,Moldova,Both sexes,6.5
+2007,SI_COV_UEMP,Moldova,Both sexes,10.6
+2009,SI_COV_UEMP,Moldova,Both sexes,14.0
+2010,SI_COV_UEMP,Moldova,Both sexes,11.1
+2011,SI_COV_UEMP,Moldova,Both sexes,8.5
+2014,SI_COV_UEMP,Moldova,Both sexes,10.5
+2020,SI_COV_UEMP,Moldova,Both sexes,10.5
+2009,SI_COV_UEMP,Montenegro,Both sexes,43.9
+2010,SI_COV_UEMP,Montenegro,Both sexes,41.6
+2011,SI_COV_UEMP,Montenegro,Both sexes,40.9
+2014,SI_COV_UEMP,Montenegro,Both sexes,35.6
+2020,SI_COV_UEMP,Montenegro,Both sexes,29.3
+2020,SI_COV_UEMP,Montenegro,Female,38.3
+2020,SI_COV_UEMP,Montenegro,Male,22.0
+2002,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,66.7
+2005,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,69.3
+2007,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,65.1
+2009,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,60.1
+2010,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,65.1
+2011,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,64.8
+2013,SI_COV_UEMP,Netherlands (Kingdom of the),Male,36.5
+2013,SI_COV_UEMP,Netherlands (Kingdom of the),Female,58.7
+2013,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,67.9
+2014,SI_COV_UEMP,Netherlands (Kingdom of the),Female,61.9
+2014,SI_COV_UEMP,Netherlands (Kingdom of the),Male,35.1
+2014,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,67.2
+2015,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,73.0
+2020,SI_COV_UEMP,Netherlands (Kingdom of the),Male,100.0
+2020,SI_COV_UEMP,Netherlands (Kingdom of the),Female,73.6
+2020,SI_COV_UEMP,Netherlands (Kingdom of the),Both sexes,74.8
+2007,SI_COV_UEMP,New Zealand,Both sexes,28.0
+2009,SI_COV_UEMP,New Zealand,Both sexes,35.8
+2010,SI_COV_UEMP,New Zealand,Both sexes,41.8
+2011,SI_COV_UEMP,New Zealand,Both sexes,37.5
+2014,SI_COV_UEMP,New Zealand,Both sexes,44.9
+2020,SI_COV_UEMP,New Zealand,Both sexes,44.9
+2006,SI_COV_UEMP,Norway,Both sexes,58.1
+2007,SI_COV_UEMP,Norway,Both sexes,50.9
+2009,SI_COV_UEMP,Norway,Both sexes,74.6
+2010,SI_COV_UEMP,Norway,Both sexes,73.4
+2011,SI_COV_UEMP,Norway,Both sexes,69.5
+2014,SI_COV_UEMP,Norway,Both sexes,61.8
+2020,SI_COV_UEMP,Norway,Both sexes,58.2
+2000,SI_COV_UEMP,Poland,Both sexes,20.3
+2005,SI_COV_UEMP,Poland,Both sexes,13.5
+2007,SI_COV_UEMP,Poland,Both sexes,14.3
+2009,SI_COV_UEMP,Poland,Both sexes,20.1
+2010,SI_COV_UEMP,Poland,Both sexes,16.7
+2011,SI_COV_UEMP,Poland,Both sexes,16.5
+2013,SI_COV_UEMP,Poland,Both sexes,16.6
+2013,SI_COV_UEMP,Poland,Male,17.2
+2013,SI_COV_UEMP,Poland,Female,15.9
+2014,SI_COV_UEMP,Poland,Female,16.2
+2014,SI_COV_UEMP,Poland,Male,14.8
+2014,SI_COV_UEMP,Poland,Both sexes,15.5
+2020,SI_COV_UEMP,Poland,Both sexes,16.5
+2020,SI_COV_UEMP,Poland,Female,19.9
+2020,SI_COV_UEMP,Poland,Male,13.7
+2003,SI_COV_UEMP,Portugal,Both sexes,64.6
+2005,SI_COV_UEMP,Portugal,Both sexes,67.3
+2007,SI_COV_UEMP,Portugal,Both sexes,60.8
+2009,SI_COV_UEMP,Portugal,Both sexes,61.9
+2010,SI_COV_UEMP,Portugal,Both sexes,57.2
+2011,SI_COV_UEMP,Portugal,Both sexes,41.9
+2013,SI_COV_UEMP,Portugal,Both sexes,46.4
+2013,SI_COV_UEMP,Portugal,Female,44.7
+2013,SI_COV_UEMP,Portugal,Male,48.0
+2014,SI_COV_UEMP,Portugal,Female,44.5
+2014,SI_COV_UEMP,Portugal,Male,48.8
+2014,SI_COV_UEMP,Portugal,Both sexes,46.6
+2020,SI_COV_UEMP,Portugal,Both sexes,40.2
+2001,SI_COV_UEMP,Romania,Both sexes,45.2
+2005,SI_COV_UEMP,Romania,Both sexes,38.0
+2007,SI_COV_UEMP,Romania,Both sexes,33.2
+2009,SI_COV_UEMP,Romania,Both sexes,52.3
+2010,SI_COV_UEMP,Romania,Both sexes,55.4
+2011,SI_COV_UEMP,Romania,Both sexes,26.8
+2013,SI_COV_UEMP,Romania,Both sexes,26.3
+2013,SI_COV_UEMP,Romania,Male,19.0
+2013,SI_COV_UEMP,Romania,Female,37.8
+2014,SI_COV_UEMP,Romania,Both sexes,22.7
+2014,SI_COV_UEMP,Romania,Male,16.9
+2014,SI_COV_UEMP,Romania,Female,31.7
+2020,SI_COV_UEMP,Romania,Both sexes,15.8
+2020,SI_COV_UEMP,Romania,Female,21.1
+2020,SI_COV_UEMP,Romania,Male,12.8
+2000,SI_COV_UEMP,Serbia,Both sexes,11.1
+2005,SI_COV_UEMP,Serbia,Both sexes,10.4
+2007,SI_COV_UEMP,Serbia,Both sexes,7.7
+2009,SI_COV_UEMP,Serbia,Both sexes,11.6
+2010,SI_COV_UEMP,Serbia,Both sexes,10.2
+2011,SI_COV_UEMP,Serbia,Both sexes,8.5
+2012,SI_COV_UEMP,Serbia,Both sexes,8.8
+2012,SI_COV_UEMP,Serbia,Male,9.9
+2012,SI_COV_UEMP,Serbia,Female,7.8
+2020,SI_COV_UEMP,Serbia,Male,6.5
+2020,SI_COV_UEMP,Serbia,Both sexes,6.6
+2020,SI_COV_UEMP,Serbia,Female,6.6
+2021,SI_COV_UEMP,Serbia,Male,8.9
+2021,SI_COV_UEMP,Serbia,Both sexes,9.5
+2021,SI_COV_UEMP,Serbia,Female,10.2
+2000,SI_COV_UEMP,Slovakia,Both sexes,23.1
+2005,SI_COV_UEMP,Slovakia,Both sexes,9.1
+2007,SI_COV_UEMP,Slovakia,Both sexes,7.6
+2009,SI_COV_UEMP,Slovakia,Both sexes,15.8
+2010,SI_COV_UEMP,Slovakia,Both sexes,11.1
+2011,SI_COV_UEMP,Slovakia,Both sexes,11.5
+2013,SI_COV_UEMP,Slovakia,Female,11.4
+2013,SI_COV_UEMP,Slovakia,Male,9.8
+2013,SI_COV_UEMP,Slovakia,Both sexes,10.5
+2014,SI_COV_UEMP,Slovakia,Both sexes,9.9
+2014,SI_COV_UEMP,Slovakia,Female,10.7
+2014,SI_COV_UEMP,Slovakia,Male,9.2
+2020,SI_COV_UEMP,Slovakia,Both sexes,13.0
+2009,SI_COV_UEMP,Viet Nam,Both sexes,0.7
+2010,SI_COV_UEMP,Viet Nam,Both sexes,10.8
+2011,SI_COV_UEMP,Viet Nam,Both sexes,9.5
+2016,SI_COV_UEMP,Viet Nam,Male,35.3
+2016,SI_COV_UEMP,Viet Nam,Female,56.7
+2016,SI_COV_UEMP,Viet Nam,Both sexes,45.0
+2020,SI_COV_UEMP,Viet Nam,Both sexes,66.6
+2000,SI_COV_UEMP,Slovenia,Both sexes,21.7
+2005,SI_COV_UEMP,Slovenia,Both sexes,19.2
+2007,SI_COV_UEMP,Slovenia,Both sexes,20.0
+2009,SI_COV_UEMP,Slovenia,Both sexes,36.1
+2010,SI_COV_UEMP,Slovenia,Both sexes,34.4
+2011,SI_COV_UEMP,Slovenia,Both sexes,32.8
+2013,SI_COV_UEMP,Slovenia,Both sexes,29.4
+2014,SI_COV_UEMP,Slovenia,Both sexes,25.9
+2016,SI_COV_UEMP,Slovenia,Female,22.2
+2016,SI_COV_UEMP,Slovenia,Male,30.4
+2020,SI_COV_UEMP,Slovenia,Female,24.0
+2020,SI_COV_UEMP,Slovenia,Male,35.3
+2020,SI_COV_UEMP,Slovenia,Both sexes,29.7
+2000,SI_COV_UEMP,Spain,Both sexes,41.4
+2005,SI_COV_UEMP,Spain,Both sexes,65.1
+2007,SI_COV_UEMP,Spain,Both sexes,73.9
+2009,SI_COV_UEMP,Spain,Both sexes,62.3
+2010,SI_COV_UEMP,Spain,Both sexes,63.0
+2011,SI_COV_UEMP,Spain,Both sexes,53.2
+2013,SI_COV_UEMP,Spain,Male,42.2
+2013,SI_COV_UEMP,Spain,Female,37.6
+2013,SI_COV_UEMP,Spain,Both sexes,40.0
+2014,SI_COV_UEMP,Spain,Male,38.9
+2014,SI_COV_UEMP,Spain,Both sexes,37.1
+2014,SI_COV_UEMP,Spain,Female,35.1
+2020,SI_COV_UEMP,Spain,Female,44.1
+2020,SI_COV_UEMP,Spain,Both sexes,44.2
+2020,SI_COV_UEMP,Spain,Male,44.3
+2005,SI_COV_UEMP,Sweden,Both sexes,86.2
+2007,SI_COV_UEMP,Sweden,Both sexes,64.8
+2009,SI_COV_UEMP,Sweden,Both sexes,39.2
+2010,SI_COV_UEMP,Sweden,Both sexes,33.9
+2011,SI_COV_UEMP,Sweden,Both sexes,28.4
+2014,SI_COV_UEMP,Sweden,Both sexes,25.9
+2020,SI_COV_UEMP,Sweden,Male,54.8
+2020,SI_COV_UEMP,Sweden,Both sexes,60.2
+2020,SI_COV_UEMP,Sweden,Female,66.9
+2000,SI_COV_UEMP,Switzerland,Both sexes,79.2
+2005,SI_COV_UEMP,Switzerland,Both sexes,82.4
+2007,SI_COV_UEMP,Switzerland,Both sexes,71.4
+2009,SI_COV_UEMP,Switzerland,Both sexes,72.2
+2010,SI_COV_UEMP,Switzerland,Both sexes,74.8
+2011,SI_COV_UEMP,Switzerland,Both sexes,64.7
+2013,SI_COV_UEMP,Switzerland,Male,60.9
+2013,SI_COV_UEMP,Switzerland,Female,57.0
+2013,SI_COV_UEMP,Switzerland,Both sexes,59.0
+2014,SI_COV_UEMP,Switzerland,Both sexes,57.7
+2014,SI_COV_UEMP,Switzerland,Female,55.3
+2014,SI_COV_UEMP,Switzerland,Male,59.9
+2020,SI_COV_UEMP,Switzerland,Both sexes,62.0
+2020,SI_COV_UEMP,Switzerland,Male,66.8
+2020,SI_COV_UEMP,Switzerland,Female,56.7
+2005,SI_COV_UEMP,Tajikistan,Both sexes,5.1
+2007,SI_COV_UEMP,Tajikistan,Both sexes,5.0
+2009,SI_COV_UEMP,Tajikistan,Both sexes,3.8
+2010,SI_COV_UEMP,Tajikistan,Both sexes,5.3
+2011,SI_COV_UEMP,Tajikistan,Both sexes,8.5
+2016,SI_COV_UEMP,Tajikistan,Male,16.2
+2016,SI_COV_UEMP,Tajikistan,Female,18.2
+2016,SI_COV_UEMP,Tajikistan,Both sexes,17.3
+2020,SI_COV_UEMP,Tajikistan,Both sexes,20.8
+2020,SI_COV_UEMP,United Arab Emirates,Both sexes,0.3
+2004,SI_COV_UEMP,Türkiye,Both sexes,8.7
+2005,SI_COV_UEMP,Türkiye,Both sexes,5.4
+2007,SI_COV_UEMP,Türkiye,Both sexes,4.3
+2009,SI_COV_UEMP,Türkiye,Both sexes,7.9
+2010,SI_COV_UEMP,Türkiye,Both sexes,6.3
+2011,SI_COV_UEMP,Türkiye,Both sexes,6.5
+2013,SI_COV_UEMP,Türkiye,Both sexes,1.4
+2013,SI_COV_UEMP,Türkiye,Male,1.6
+2013,SI_COV_UEMP,Türkiye,Female,1.0
+2014,SI_COV_UEMP,Türkiye,Female,1.1
+2020,SI_COV_UEMP,Chile,Male,32.8
+2021,SI_COV_UEMP,Chile,Both sexes,24.3
+2000,SI_COV_UEMP,China,Both sexes,9.9
+2005,SI_COV_UEMP,China,Both sexes,20.0
+2007,SI_COV_UEMP,China,Both sexes,17.1
+2009,SI_COV_UEMP,China,Both sexes,14.0
+2010,SI_COV_UEMP,China,Both sexes,9.2
+2011,SI_COV_UEMP,China,Both sexes,9.1
+2016,SI_COV_UEMP,China,Both sexes,18.8
+2017,SI_COV_UEMP,China,Both sexes,23.1
+2020,SI_COV_UEMP,China,Both sexes,24.1
+2016,SI_COV_UEMP,Colombia,Both sexes,4.6
+2021,SI_COV_UEMP,Colombia,Both sexes,2.5
+2019,SI_COV_UEMP,Costa Rica,Both sexes,71.5
+2022,SI_COV_UEMP,Costa Rica,Male,0.0
+2022,SI_COV_UEMP,Costa Rica,Female,0.0
+2022,SI_COV_UEMP,Costa Rica,Both sexes,0.0
+2000,SI_COV_UEMP,Croatia,Both sexes,17.7
+2005,SI_COV_UEMP,Croatia,Both sexes,23.6
+2014,SI_COV_UEMP,Türkiye,Male,1.6
+2014,SI_COV_UEMP,Türkiye,Both sexes,1.4
+2020,SI_COV_UEMP,Türkiye,Both sexes,18.3
+2022,SI_COV_UEMP,Turkmenistan,Both sexes,0.0
+2000,SI_COV_UEMP,Ukraine,Both sexes,23.6
+2005,SI_COV_UEMP,Ukraine,Both sexes,40.3
+2007,SI_COV_UEMP,Ukraine,Both sexes,34.4
+2009,SI_COV_UEMP,Ukraine,Both sexes,26.2
+2010,SI_COV_UEMP,Ukraine,Both sexes,18.7
+2011,SI_COV_UEMP,Ukraine,Both sexes,21.3
+2015,SI_COV_UEMP,Ukraine,Both sexes,21.9
+2018,SI_COV_UEMP,Ukraine,Both sexes,17.0
+2018,SI_COV_UEMP,Ukraine,Female,19.0
+2018,SI_COV_UEMP,Ukraine,Male,15.0
+2020,SI_COV_UEMP,Ukraine,Both sexes,84.1
+2003,SI_COV_UEMP,North Macedonia,Both sexes,9.9
+2004,SI_COV_UEMP,North Macedonia,Both sexes,10.7
+2007,SI_COV_UEMP,North Macedonia,Both sexes,7.8
+2009,SI_COV_UEMP,North Macedonia,Both sexes,8.2
+2016,SI_COV_UEMP,North Macedonia,Both sexes,11.5
+2007,SI_COV_UEMP,Croatia,Both sexes,22.5
+2009,SI_COV_UEMP,Croatia,Both sexes,26.2
+2010,SI_COV_UEMP,Croatia,Both sexes,25.9
+2011,SI_COV_UEMP,Croatia,Both sexes,24.4
+2013,SI_COV_UEMP,Croatia,Male,21.0
+2013,SI_COV_UEMP,Croatia,Female,19.2
+2013,SI_COV_UEMP,Croatia,Both sexes,20.0
+2020,SI_COV_UEMP,Croatia,Male,23.5
+2020,SI_COV_UEMP,Croatia,Both sexes,22.4
+2020,SI_COV_UEMP,Croatia,Female,21.6
+2020,SI_COV_UEMP,North Macedonia,Both sexes,17.5
+2000,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,68.2
+2005,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,61.0
+2007,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,53.8
+2009,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,65.0
+2010,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,61.6
+2011,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,60.8
+2014,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,60.0
+2020,SI_COV_UEMP,United Kingdom of Great Britain and Northern Ireland,Both sexes,56.4
+2005,SI_COV_UEMP,Cyprus,Both sexes,68.1
+2007,SI_COV_UEMP,Cyprus,Both sexes,81.5
+2009,SI_COV_UEMP,Cyprus,Both sexes,79.1
+2010,SI_COV_UEMP,Cyprus,Both sexes,78.7
+2013,SI_COV_UEMP,Cyprus,Male,29.1
+2013,SI_COV_UEMP,Cyprus,Both sexes,31.4
+2013,SI_COV_UEMP,Cyprus,Female,34.4
+2014,SI_COV_UEMP,Cyprus,Male,20.7
+2014,SI_COV_UEMP,Cyprus,Both sexes,23.7
+2014,SI_COV_UEMP,Cyprus,Female,27.4
+2020,SI_COV_UEMP,Cyprus,Male,14.9
+2020,SI_COV_UEMP,Cyprus,Female,21.0
+2020,SI_COV_UEMP,Cyprus,Both sexes,17.8
+2005,SI_COV_UEMP,Czechia,Both sexes,27.6
+2007,SI_COV_UEMP,Czechia,Both sexes,31.5
+2009,SI_COV_UEMP,Czechia,Both sexes,40.4
+2010,SI_COV_UEMP,Czechia,Both sexes,30.8
+2011,SI_COV_UEMP,Czechia,Both sexes,25.8
+2013,SI_COV_UEMP,Czechia,Both sexes,32.0
+2013,SI_COV_UEMP,Czechia,Female,31.1
+2013,SI_COV_UEMP,Czechia,Male,33.0
+2014,SI_COV_UEMP,Czechia,Female,33.1
+2014,SI_COV_UEMP,Czechia,Both sexes,35.8
+2014,SI_COV_UEMP,Czechia,Male,39.0
+2020,SI_COV_UEMP,Czechia,Female,45.5
+2020,SI_COV_UEMP,Czechia,Both sexes,45.7
+2020,SI_COV_UEMP,Czechia,Male,46.0
+2000,SI_COV_UEMP,Denmark,Both sexes,99.9
+2005,SI_COV_UEMP,Denmark,Both sexes,98.9
+2007,SI_COV_UEMP,Denmark,Both sexes,77.8
+2009,SI_COV_UEMP,Denmark,Both sexes,78.6
+2010,SI_COV_UEMP,Denmark,Both sexes,70.9
+2011,SI_COV_UEMP,Denmark,Both sexes,68.3
+2013,SI_COV_UEMP,Denmark,Male,24.1
+2013,SI_COV_UEMP,Denmark,Both sexes,50.2
+2013,SI_COV_UEMP,Denmark,Female,51.7
+2014,SI_COV_UEMP,Denmark,Male,22.1
+2014,SI_COV_UEMP,Denmark,Female,50.2
+2014,SI_COV_UEMP,Denmark,Both sexes,47.7
+2020,SI_COV_UEMP,Denmark,Female,100.0
+2020,SI_COV_UEMP,Denmark,Both sexes,93.7
+2020,SI_COV_UEMP,Denmark,Male,84.5
+2000,SI_COV_UEMP,Estonia,Both sexes,17.3
+2005,SI_COV_UEMP,Estonia,Both sexes,28.9
+2007,SI_COV_UEMP,Estonia,Both sexes,25.9
+2009,SI_COV_UEMP,Estonia,Both sexes,45.1
+2010,SI_COV_UEMP,Estonia,Both sexes,35.2
+2011,SI_COV_UEMP,Estonia,Both sexes,25.7
+2014,SI_COV_UEMP,Estonia,Both sexes,41.5
+2020,SI_COV_UEMP,Estonia,Both sexes,47.5
+2002,SI_COV_UEMP,Finland,Both sexes,63.7
+2005,SI_COV_UEMP,Finland,Both sexes,63.6
+2007,SI_COV_UEMP,Finland,Both sexes,58.8
+2009,SI_COV_UEMP,Finland,Both sexes,47.9
+2010,SI_COV_UEMP,Finland,Both sexes,52.1
+2011,SI_COV_UEMP,Finland,Both sexes,57.8
+2013,SI_COV_UEMP,Finland,Both sexes,86.6
+2013,SI_COV_UEMP,Finland,Male,46.5
+2013,SI_COV_UEMP,Finland,Female,72.0
+2014,SI_COV_UEMP,Finland,Male,50.4
+2014,SI_COV_UEMP,Finland,Female,80.8
+2014,SI_COV_UEMP,Finland,Both sexes,95.3
+2020,SI_COV_UEMP,Finland,Male,100.0
+2020,SI_COV_UEMP,Finland,Female,100.0
+2020,SI_COV_UEMP,Finland,Both sexes,100.0
+2000,SI_COV_UEMP,France,Both sexes,57.4
+2005,SI_COV_UEMP,France,Both sexes,67.0
+2007,SI_COV_UEMP,France,Both sexes,67.4
+2009,SI_COV_UEMP,France,Both sexes,66.0
+2010,SI_COV_UEMP,France,Both sexes,62.3
+2011,SI_COV_UEMP,France,Both sexes,59.8
+2014,SI_COV_UEMP,France,Both sexes,94.7
+2020,SI_COV_UEMP,France,Both sexes,100.0
+2020,SI_COV_UEMP,France,Male,100.0
+2020,SI_COV_UEMP,France,Female,100.0
+2000,SI_COV_UEMP,Georgia,Both sexes,2.4
+2005,SI_COV_UEMP,Georgia,Both sexes,4.0
+2020,SI_COV_UEMP,Georgia,Both sexes,0.0
+2017,SI_COV_UEMP,Uzbekistan,Both sexes,0.8
+2017,SI_COV_UEMP,Uzbekistan,Both sexes,0.8

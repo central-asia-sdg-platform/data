@@ -12,8 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_INFRAL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Chile",
+                "China",
+                "Colombia",
+                "Albania",
+                "Serbia",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Viet Nam",
+                "Costa Rica",
+                "Slovenia",
+                "Таджикистан",
+                "Croatia",
+                "Türkiye",
+                "Georgia",
+                "Туркменистан",
+                "Ukraine",
+                "North Macedonia",
+                "Узбекистан",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

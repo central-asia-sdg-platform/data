@@ -1,1 +1,143 @@
-Year,Value
+Year,SeriesCode,Country,Sex,Value
+2010,IU_COR_BRIB,Albania,Both sexes,19.3
+2010,IU_COR_BRIB,Albania,Male,17.0
+2010,IU_COR_BRIB,Albania,Female,21.3
+2016,IU_COR_BRIB,Albania,Both sexes,22.78
+2016,IU_COR_BRIB,Azerbaijan,Both sexes,27.59
+2016,IU_COR_BRIB,Australia,Both sexes,4.0
+2021,IU_COR_BRIB,Austria,Both sexes,9.0
+2015,IU_COR_BRIB,Armenia,Both sexes,17.42
+2016,IU_COR_BRIB,Belgium,Both sexes,2.18
+2021,IU_COR_BRIB,Belgium,Both sexes,10.0
+2010,IU_COR_BRIB,Bosnia and Herzegovina,Both sexes,20.7
+2010,IU_COR_BRIB,Bosnia and Herzegovina,Male,23.2
+2010,IU_COR_BRIB,Bosnia and Herzegovina,Female,18.2
+2015,IU_COR_BRIB,Bosnia and Herzegovina,Both sexes,24.2
+2015,IU_COR_BRIB,Bulgaria,Both sexes,12.34
+2021,IU_COR_BRIB,Bulgaria,Both sexes,19.0
+2016,IU_COR_BRIB,Belarus,Both sexes,14.52
+2016,IU_COR_BRIB,Chile,Both sexes,22.0
+2019,IU_COR_BRIB,Chile,Both sexes,13.0
+2016,IU_COR_BRIB,Colombia,Both sexes,30.0
+2016,IU_COR_BRIB,Costa Rica,Both sexes,24.0
+2019,IU_COR_BRIB,Costa Rica,Both sexes,7.0
+2010,IU_COR_BRIB,Croatia,Both sexes,11.2
+2010,IU_COR_BRIB,Croatia,Male,12.9
+2010,IU_COR_BRIB,Croatia,Female,9.6
+2015,IU_COR_BRIB,Croatia,Both sexes,6.14
+2021,IU_COR_BRIB,Croatia,Both sexes,14.0
+2015,IU_COR_BRIB,Cyprus,Both sexes,1.45
+2021,IU_COR_BRIB,Cyprus,Both sexes,4.0
+2016,IU_COR_BRIB,Czechia,Both sexes,6.53
+2021,IU_COR_BRIB,Czechia,Both sexes,11.0
+2021,IU_COR_BRIB,Denmark,Both sexes,1.0
+2004,IU_COR_BRIB,Estonia,Both sexes,3.3
+2009,IU_COR_BRIB,Estonia,Both sexes,0.5
+2015,IU_COR_BRIB,Estonia,Both sexes,3.63
+2021,IU_COR_BRIB,Estonia,Both sexes,1.0
+2021,IU_COR_BRIB,Estonia,Male,1.5
+2021,IU_COR_BRIB,Estonia,Female,0.5
+2021,IU_COR_BRIB,Finland,Both sexes,1.0
+2015,IU_COR_BRIB,France,Both sexes,1.45
+2018,IU_COR_BRIB,France,Both sexes,0.1
+2021,IU_COR_BRIB,France,Both sexes,5.0
+2016,IU_COR_BRIB,Georgia,Both sexes,5.08
+2016,IU_COR_BRIB,Germany,Both sexes,2.18
+2021,IU_COR_BRIB,Germany,Both sexes,3.0
+2015,IU_COR_BRIB,Greece,Both sexes,7.26
+2021,IU_COR_BRIB,Greece,Both sexes,9.0
+2016,IU_COR_BRIB,Hungary,Both sexes,15.97
+2021,IU_COR_BRIB,Hungary,Both sexes,17.0
+2016,IU_COR_BRIB,India,Both sexes,69.0
+2020,IU_COR_BRIB,India,Both sexes,39.0
+2021,IU_COR_BRIB,Ireland,Both sexes,5.0
+2016,IU_COR_BRIB,Italy,Both sexes,1.2
+2021,IU_COR_BRIB,Italy,Both sexes,3.0
+2016,IU_COR_BRIB,Japan,Both sexes,0.2
+2020,IU_COR_BRIB,Japan,Both sexes,2.0
+2016,IU_COR_BRIB,Kazakhstan,Both sexes,21.05
+2015,IU_COR_BRIB,Kyrgyzstan,Both sexes,14.2
+2016,IU_COR_BRIB,Kyrgyzstan,Both sexes,27.59
+2015,IU_COR_BRIB,Latvia,Both sexes,10.89
+2021,IU_COR_BRIB,Latvia,Both sexes,9.0
+2005,IU_COR_BRIB,Lithuania,Both sexes,27.0
+2007,IU_COR_BRIB,Lithuania,Both sexes,28.1
+2008,IU_COR_BRIB,Lithuania,Both sexes,24.0
+2011,IU_COR_BRIB,Lithuania,Male,18.5
+2011,IU_COR_BRIB,Lithuania,Both sexes,22.0
+2011,IU_COR_BRIB,Lithuania,Female,25.5
+2014,IU_COR_BRIB,Lithuania,Male,23.6
+2014,IU_COR_BRIB,Lithuania,Female,24.6
+2014,IU_COR_BRIB,Lithuania,Both sexes,24.1
+2016,IU_COR_BRIB,Lithuania,Both sexes,15.5
+2016,IU_COR_BRIB,Lithuania,Male,14.4
+2016,IU_COR_BRIB,Lithuania,Female,16.6
+2018,IU_COR_BRIB,Lithuania,Female,11.6
+2018,IU_COR_BRIB,Lithuania,Both sexes,11.6
+2018,IU_COR_BRIB,Lithuania,Male,11.5
+2019,IU_COR_BRIB,Lithuania,Male,8.3
+2019,IU_COR_BRIB,Lithuania,Female,10.6
+2019,IU_COR_BRIB,Lithuania,Both sexes,9.5
+2020,IU_COR_BRIB,Lithuania,Male,7.8
+2020,IU_COR_BRIB,Lithuania,Female,9.4
+2020,IU_COR_BRIB,Lithuania,Both sexes,8.6
+2021,IU_COR_BRIB,Lithuania,Male,9.1
+2021,IU_COR_BRIB,Lithuania,Both sexes,10.1
+2021,IU_COR_BRIB,Lithuania,Female,11.1
+2013,IU_COR_BRIB,Luxembourg,Female,0.3
+2013,IU_COR_BRIB,Luxembourg,Both sexes,0.6
+2013,IU_COR_BRIB,Luxembourg,Male,1.0
+2021,IU_COR_BRIB,Luxembourg,Both sexes,2.0
+2021,IU_COR_BRIB,Malta,Both sexes,4.0
+2013,IU_COR_BRIB,Mexico,Both sexes,12.1
+2015,IU_COR_BRIB,Mexico,Both sexes,12.6
+2015,IU_COR_BRIB,Mexico,Male,20.5
+2015,IU_COR_BRIB,Mexico,Female,9.3
+2017,IU_COR_BRIB,Mexico,Female,8.5
+2017,IU_COR_BRIB,Mexico,Both sexes,14.6
+2017,IU_COR_BRIB,Mexico,Male,21.7
+2019,IU_COR_BRIB,Mexico,Female,10.8
+2019,IU_COR_BRIB,Mexico,Male,21.24
+2019,IU_COR_BRIB,Mexico,Both sexes,15.73
+2021,IU_COR_BRIB,Mexico,Female,10.31
+2021,IU_COR_BRIB,Mexico,Male,19.35
+2021,IU_COR_BRIB,Mexico,Both sexes,14.7
+2016,IU_COR_BRIB,Moldova,Both sexes,30.49
+2010,IU_COR_BRIB,Montenegro,Female,9.0
+2010,IU_COR_BRIB,Montenegro,Male,10.4
+2010,IU_COR_BRIB,Montenegro,Both sexes,9.7
+2015,IU_COR_BRIB,Montenegro,Both sexes,12.08
+2016,IU_COR_BRIB,Netherlands (Kingdom of the),Both sexes,1.45
+2021,IU_COR_BRIB,Netherlands (Kingdom of the),Both sexes,2.0
+2010,IU_COR_BRIB,Poland,Male,7.5
+2010,IU_COR_BRIB,Poland,Female,5.9
+2010,IU_COR_BRIB,Poland,Both sexes,6.8
+2016,IU_COR_BRIB,Poland,Both sexes,5.08
+2021,IU_COR_BRIB,Poland,Both sexes,10.0
+2015,IU_COR_BRIB,Portugal,Both sexes,1.45
+2021,IU_COR_BRIB,Portugal,Both sexes,3.0
+2016,IU_COR_BRIB,Romania,Both sexes,21.05
+2021,IU_COR_BRIB,Romania,Both sexes,20.0
+2010,IU_COR_BRIB,Serbia,Female,8.5
+2010,IU_COR_BRIB,Serbia,Male,10.0
+2010,IU_COR_BRIB,Serbia,Both sexes,9.3
+2015,IU_COR_BRIB,Serbia,Both sexes,15.91
+2015,IU_COR_BRIB,Slovakia,Both sexes,8.71
+2021,IU_COR_BRIB,Slovakia,Both sexes,11.0
+2016,IU_COR_BRIB,Viet Nam,Both sexes,65.0
+2019,IU_COR_BRIB,Viet Nam,Both sexes,15.0
+2015,IU_COR_BRIB,Slovenia,Both sexes,2.18
+2021,IU_COR_BRIB,Slovenia,Both sexes,4.0
+2015,IU_COR_BRIB,Spain,Both sexes,2.18
+2021,IU_COR_BRIB,Spain,Both sexes,2.0
+2015,IU_COR_BRIB,Sweden,Both sexes,0.73
+2021,IU_COR_BRIB,Sweden,Both sexes,1.0
+2016,IU_COR_BRIB,Tajikistan,Both sexes,36.3
+2016,IU_COR_BRIB,Türkiye,Both sexes,13.07
+2016,IU_COR_BRIB,Ukraine,Both sexes,27.59
+2010,IU_COR_BRIB,North Macedonia,Female,5.3
+2010,IU_COR_BRIB,North Macedonia,Male,7.0
+2010,IU_COR_BRIB,North Macedonia,Both sexes,6.2
+2015,IU_COR_BRIB,North Macedonia,Both sexes,6.42
+2016,IU_COR_BRIB,Uzbekistan,Both sexes,13.07
+2016,IU_COR_BRIB,Uzbekistan,Both sexes,13.07

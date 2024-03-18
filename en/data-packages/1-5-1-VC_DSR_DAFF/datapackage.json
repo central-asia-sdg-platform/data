@@ -1,0 +1,98 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_DSR_DAFF",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Albania",
+                "Hungary",
+                "India",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Bulgaria",
+                "Belarus",
+                "Chile",
+                "Ireland",
+                "China",
+                "Italy",
+                "Japan",
+                "Colombia",
+                "Costa Rica",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Kyrgyzstan",
+                "Lithuania",
+                "Mexico",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Viet Nam",
+                "Slovenia",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-5-1-VC_DSR_DAFF",
+  "title": "meta.name-1-5-1-VC_DSR_DAFF"
+}

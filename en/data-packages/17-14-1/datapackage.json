@@ -7,13 +7,57 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_CPA_SDEVP",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Bosnia and Herzegovina",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Czechia",
+                "Estonia",
+                "Finland",
+                "France",
+                "Hungary",
+                "Italy",
+                "Kazakhstan",
+                "Latvia",
+                "Lithuania",
+                "Malta",
+                "Poland",
+                "Portugal",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Spain",
+                "Türkiye",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Value",

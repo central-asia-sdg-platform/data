@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DT_DOD_DECT_GN_ZS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Казахстан",
+                "Azerbaijan",
+                "Кыргызстан",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Mexico",
+                "Belarus",
+                "Republic of Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Таджикистан",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "China",
+                "North Macedonia",
+                "Узбекистан",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-DT_DOD_DECT_GN_ZS",
+  "title": "meta.name-17-13-1-DT_DOD_DECT_GN_ZS"
+}

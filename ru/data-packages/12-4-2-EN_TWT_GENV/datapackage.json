@@ -1,0 +1,125 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_TWT_GENV",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Finland",
+                "Albania",
+                "Republic of Moldova",
+                "Montenegro",
+                "Azerbaijan",
+                "France",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Poland",
+                "Hungary",
+                "Portugal",
+                "Romania",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Serbia",
+                "Israel",
+                "Italy",
+                "Slovakia",
+                "Slovenia",
+                "Japan",
+                "Spain",
+                "Australia",
+                "Austria",
+                "Sweden",
+                "United Arab Emirates",
+                "Türkiye",
+                "Казахстан",
+                "Ukraine",
+                "Republic of Korea",
+                "Armenia",
+                "North Macedonia",
+                "Кыргызстан",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Latvia",
+                "Узбекистан",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_A",
+                "ISIC4_F",
+                "ISIC4_D",
+                "ISIC4_T",
+                "ISIC4_C",
+                "TOTAL",
+                "ISIC4_B",
+                "ISIC4_S",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2-EN_TWT_GENV",
+  "title": "meta.name-12-4-2-EN_TWT_GENV"
+}

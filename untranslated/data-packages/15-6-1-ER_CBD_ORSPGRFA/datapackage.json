@@ -1,0 +1,110 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_CBD_ORSPGRFA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Australia",
+                "Austria",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Armenia",
+                "Belgium",
+                "Malta",
+                "Mexico",
+                "Bosnia and Herzegovina",
+                "Republic of Moldova",
+                "Montenegro",
+                "Bulgaria",
+                "Belarus",
+                "Netherlands (Kingdom of the)",
+                "Canada",
+                "Chile",
+                "China",
+                "New Zealand",
+                "Colombia",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Romania",
+                "Czechia",
+                "Denmark",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Estonia",
+                "Finland",
+                "Slovenia",
+                "France",
+                "Spain",
+                "Georgia",
+                "Sweden",
+                "Switzerland",
+                "Germany",
+                "Greece",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Hungary",
+                "Türkiye",
+                "Iceland",
+                "India",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Ireland",
+                "Israel",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Italy",
+                "Uzbekistan",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-6-1-ER_CBD_ORSPGRFA",
+  "title": "meta.name-15-6-1-ER_CBD_ORSPGRFA"
+}

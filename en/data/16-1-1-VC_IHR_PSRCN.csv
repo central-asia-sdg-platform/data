@@ -1,0 +1,3358 @@
+Year,SeriesCode,Country,Sex,Value
+2014,VC_IHR_PSRCN,Australia,Female,94
+2015,VC_IHR_PSRCN,Australia,Both sexes,236
+2015,VC_IHR_PSRCN,Australia,Male,151
+2015,VC_IHR_PSRCN,Australia,Female,85
+2016,VC_IHR_PSRCN,Australia,Male,147
+2016,VC_IHR_PSRCN,Australia,Female,80
+2016,VC_IHR_PSRCN,Australia,Both sexes,227
+2017,VC_IHR_PSRCN,Australia,Male,144
+2017,VC_IHR_PSRCN,Australia,Female,63
+2017,VC_IHR_PSRCN,Australia,Both sexes,208
+2018,VC_IHR_PSRCN,Australia,Female,84
+2018,VC_IHR_PSRCN,Australia,Both sexes,221
+2018,VC_IHR_PSRCN,Australia,Male,135
+2019,VC_IHR_PSRCN,Australia,Male,156
+2019,VC_IHR_PSRCN,Australia,Both sexes,225
+2019,VC_IHR_PSRCN,Australia,Female,68
+2020,VC_IHR_PSRCN,Australia,Female,74
+2020,VC_IHR_PSRCN,Australia,Both sexes,221
+2020,VC_IHR_PSRCN,Australia,Male,150
+2021,VC_IHR_PSRCN,Australia,Both sexes,193
+2021,VC_IHR_PSRCN,Australia,Female,49
+2021,VC_IHR_PSRCN,Australia,Male,141
+2000,VC_IHR_PSRCN,Austria,Both sexes,82
+2000,VC_IHR_PSRCN,Austria,Male,28
+2000,VC_IHR_PSRCN,Austria,Female,54
+2001,VC_IHR_PSRCN,Austria,Both sexes,70
+2001,VC_IHR_PSRCN,Austria,Male,28
+2001,VC_IHR_PSRCN,Austria,Female,42
+2002,VC_IHR_PSRCN,Austria,Male,27
+2002,VC_IHR_PSRCN,Austria,Both sexes,65
+2011,VC_IHR_PSRCN,Finland,Male,73
+2011,VC_IHR_PSRCN,Finland,Both sexes,110
+2011,VC_IHR_PSRCN,Finland,Female,37
+2012,VC_IHR_PSRCN,Finland,Male,48
+2012,VC_IHR_PSRCN,Finland,Female,41
+2012,VC_IHR_PSRCN,Finland,Both sexes,89
+2013,VC_IHR_PSRCN,Finland,Both sexes,89
+2013,VC_IHR_PSRCN,Finland,Male,66
+2013,VC_IHR_PSRCN,Finland,Female,23
+2014,VC_IHR_PSRCN,Finland,Both sexes,88
+2002,VC_IHR_PSRCN,Austria,Female,38
+2003,VC_IHR_PSRCN,Austria,Female,23
+2003,VC_IHR_PSRCN,Austria,Male,27
+2003,VC_IHR_PSRCN,Austria,Both sexes,50
+2004,VC_IHR_PSRCN,Austria,Both sexes,59
+2004,VC_IHR_PSRCN,Austria,Female,32
+2004,VC_IHR_PSRCN,Austria,Male,27
+2005,VC_IHR_PSRCN,Austria,Male,30
+2005,VC_IHR_PSRCN,Austria,Female,24
+2005,VC_IHR_PSRCN,Austria,Both sexes,54
+2006,VC_IHR_PSRCN,Austria,Female,29
+2006,VC_IHR_PSRCN,Austria,Both sexes,61
+2014,VC_IHR_PSRCN,Finland,Female,27
+2014,VC_IHR_PSRCN,Finland,Male,61
+2015,VC_IHR_PSRCN,Finland,Male,66
+2015,VC_IHR_PSRCN,Finland,Both sexes,82
+2015,VC_IHR_PSRCN,Finland,Female,16
+2016,VC_IHR_PSRCN,Finland,Both sexes,74
+2016,VC_IHR_PSRCN,Finland,Male,52
+2016,VC_IHR_PSRCN,Finland,Female,22
+2017,VC_IHR_PSRCN,Finland,Male,37
+2017,VC_IHR_PSRCN,Finland,Female,30
+2006,VC_IHR_PSRCN,Austria,Male,32
+2007,VC_IHR_PSRCN,Austria,Female,24
+2007,VC_IHR_PSRCN,Austria,Male,21
+2007,VC_IHR_PSRCN,Austria,Both sexes,45
+2008,VC_IHR_PSRCN,Austria,Both sexes,58
+2008,VC_IHR_PSRCN,Austria,Male,29
+2008,VC_IHR_PSRCN,Austria,Female,29
+2009,VC_IHR_PSRCN,Austria,Female,28
+2009,VC_IHR_PSRCN,Austria,Male,23
+2009,VC_IHR_PSRCN,Austria,Both sexes,51
+2010,VC_IHR_PSRCN,Austria,Male,28
+2000,VC_IHR_PSRCN,Mexico,Female,1285
+2000,VC_IHR_PSRCN,Mexico,Male,9452
+2000,VC_IHR_PSRCN,Mexico,Both sexes,10737
+2001,VC_IHR_PSRCN,Mexico,Both sexes,10285
+2001,VC_IHR_PSRCN,Mexico,Male,9001
+2001,VC_IHR_PSRCN,Mexico,Female,1284
+2002,VC_IHR_PSRCN,Mexico,Female,1281
+2002,VC_IHR_PSRCN,Mexico,Male,8807
+2002,VC_IHR_PSRCN,Mexico,Both sexes,10088
+2003,VC_IHR_PSRCN,Mexico,Both sexes,10087
+2003,VC_IHR_PSRCN,Mexico,Male,8769
+2003,VC_IHR_PSRCN,Mexico,Female,1318
+2004,VC_IHR_PSRCN,Mexico,Male,8122
+2004,VC_IHR_PSRCN,Mexico,Both sexes,9329
+2004,VC_IHR_PSRCN,Mexico,Female,1207
+2005,VC_IHR_PSRCN,Mexico,Female,1299
+2005,VC_IHR_PSRCN,Mexico,Both sexes,9921
+2005,VC_IHR_PSRCN,Mexico,Male,8622
+2006,VC_IHR_PSRCN,Mexico,Female,1299
+2006,VC_IHR_PSRCN,Mexico,Both sexes,10452
+2006,VC_IHR_PSRCN,Mexico,Male,9153
+2007,VC_IHR_PSRCN,Mexico,Both sexes,8867
+2000,VC_IHR_PSRCN,Albania,Female,13
+2000,VC_IHR_PSRCN,Albania,Both sexes,131
+2000,VC_IHR_PSRCN,Albania,Male,118
+2001,VC_IHR_PSRCN,Albania,Male,181
+2001,VC_IHR_PSRCN,Albania,Both sexes,220
+2001,VC_IHR_PSRCN,Albania,Female,39
+2002,VC_IHR_PSRCN,Albania,Female,39
+2002,VC_IHR_PSRCN,Albania,Male,177
+2002,VC_IHR_PSRCN,Albania,Both sexes,216
+2003,VC_IHR_PSRCN,Albania,Both sexes,166
+2003,VC_IHR_PSRCN,Albania,Male,145
+2003,VC_IHR_PSRCN,Albania,Female,21
+2004,VC_IHR_PSRCN,Albania,Both sexes,131
+2010,VC_IHR_PSRCN,Austria,Female,33
+2010,VC_IHR_PSRCN,Austria,Both sexes,61
+2011,VC_IHR_PSRCN,Austria,Female,35
+2011,VC_IHR_PSRCN,Austria,Male,42
+2011,VC_IHR_PSRCN,Austria,Both sexes,77
+2012,VC_IHR_PSRCN,Austria,Female,38
+2012,VC_IHR_PSRCN,Austria,Male,43
+2012,VC_IHR_PSRCN,Austria,Both sexes,81
+2013,VC_IHR_PSRCN,Austria,Both sexes,61
+2013,VC_IHR_PSRCN,Austria,Female,29
+2007,VC_IHR_PSRCN,Mexico,Female,1084
+2007,VC_IHR_PSRCN,Mexico,Male,7783
+2008,VC_IHR_PSRCN,Mexico,Male,12580
+2008,VC_IHR_PSRCN,Mexico,Both sexes,14006
+2008,VC_IHR_PSRCN,Mexico,Female,1426
+2009,VC_IHR_PSRCN,Mexico,Female,1929
+2009,VC_IHR_PSRCN,Mexico,Both sexes,19803
+2009,VC_IHR_PSRCN,Mexico,Male,17874
+2010,VC_IHR_PSRCN,Mexico,Female,2418
+2010,VC_IHR_PSRCN,Mexico,Male,23285
+2010,VC_IHR_PSRCN,Mexico,Both sexes,25757
+2011,VC_IHR_PSRCN,Mexico,Both sexes,27213
+2004,VC_IHR_PSRCN,Albania,Female,19
+2004,VC_IHR_PSRCN,Albania,Male,112
+2005,VC_IHR_PSRCN,Albania,Male,133
+2005,VC_IHR_PSRCN,Albania,Both sexes,154
+2005,VC_IHR_PSRCN,Albania,Female,21
+2006,VC_IHR_PSRCN,Albania,Both sexes,95
+2006,VC_IHR_PSRCN,Albania,Male,72
+2006,VC_IHR_PSRCN,Albania,Female,23
+2007,VC_IHR_PSRCN,Albania,Both sexes,105
+2007,VC_IHR_PSRCN,Albania,Female,24
+2013,VC_IHR_PSRCN,Austria,Male,32
+2014,VC_IHR_PSRCN,Austria,Both sexes,42
+2014,VC_IHR_PSRCN,Austria,Female,22
+2014,VC_IHR_PSRCN,Austria,Male,20
+2015,VC_IHR_PSRCN,Austria,Male,27
+2015,VC_IHR_PSRCN,Austria,Both sexes,44
+2015,VC_IHR_PSRCN,Austria,Female,17
+2016,VC_IHR_PSRCN,Austria,Male,23
+2016,VC_IHR_PSRCN,Austria,Both sexes,54
+2016,VC_IHR_PSRCN,Austria,Female,31
+2017,VC_IHR_PSRCN,Finland,Both sexes,67
+2018,VC_IHR_PSRCN,Finland,Male,62
+2018,VC_IHR_PSRCN,Finland,Both sexes,86
+2018,VC_IHR_PSRCN,Finland,Female,24
+2019,VC_IHR_PSRCN,Finland,Female,28
+2019,VC_IHR_PSRCN,Finland,Male,53
+2019,VC_IHR_PSRCN,Finland,Both sexes,81
+2020,VC_IHR_PSRCN,Finland,Both sexes,91
+2000,VC_IHR_PSRCN,France,Both sexes,1051
+2001,VC_IHR_PSRCN,France,Both sexes,1047
+2002,VC_IHR_PSRCN,France,Both sexes,1119
+2003,VC_IHR_PSRCN,France,Both sexes,987
+2004,VC_IHR_PSRCN,France,Both sexes,990
+2005,VC_IHR_PSRCN,France,Both sexes,976
+2006,VC_IHR_PSRCN,France,Both sexes,879
+2007,VC_IHR_PSRCN,France,Both sexes,993
+2008,VC_IHR_PSRCN,France,Both sexes,1021
+2009,VC_IHR_PSRCN,France,Both sexes,819
+2010,VC_IHR_PSRCN,France,Both sexes,796
+2011,VC_IHR_PSRCN,France,Both sexes,856
+2012,VC_IHR_PSRCN,France,Both sexes,784
+2013,VC_IHR_PSRCN,France,Both sexes,777
+2014,VC_IHR_PSRCN,France,Both sexes,792
+2015,VC_IHR_PSRCN,France,Male,630
+2015,VC_IHR_PSRCN,France,Female,382
+2015,VC_IHR_PSRCN,France,Both sexes,1012
+2016,VC_IHR_PSRCN,France,Female,282
+2016,VC_IHR_PSRCN,France,Male,497
+2016,VC_IHR_PSRCN,France,Both sexes,779
+2017,VC_IHR_PSRCN,France,Female,257
+2017,VC_IHR_PSRCN,France,Male,453
+2017,VC_IHR_PSRCN,France,Both sexes,710
+2018,VC_IHR_PSRCN,France,Male,473
+2018,VC_IHR_PSRCN,France,Both sexes,696
+2018,VC_IHR_PSRCN,France,Female,223
+2019,VC_IHR_PSRCN,France,Both sexes,753
+2019,VC_IHR_PSRCN,France,Male,492
+2019,VC_IHR_PSRCN,France,Female,261
+2020,VC_IHR_PSRCN,France,Both sexes,692
+2020,VC_IHR_PSRCN,France,Male,498
+2020,VC_IHR_PSRCN,France,Female,194
+2021,VC_IHR_PSRCN,France,Female,228
+2021,VC_IHR_PSRCN,France,Male,506
+2021,VC_IHR_PSRCN,France,Both sexes,734
+2000,VC_IHR_PSRCN,Georgia,Both sexes,239
+2001,VC_IHR_PSRCN,Georgia,Both sexes,263
+2002,VC_IHR_PSRCN,Georgia,Both sexes,292
+2004,VC_IHR_PSRCN,Georgia,Female,34
+2004,VC_IHR_PSRCN,Georgia,Male,264
+2004,VC_IHR_PSRCN,Georgia,Both sexes,298
+2005,VC_IHR_PSRCN,Georgia,Both sexes,403
+2005,VC_IHR_PSRCN,Georgia,Female,72
+2005,VC_IHR_PSRCN,Georgia,Male,331
+2006,VC_IHR_PSRCN,Georgia,Female,45
+2006,VC_IHR_PSRCN,Georgia,Both sexes,323
+2006,VC_IHR_PSRCN,Georgia,Male,278
+2007,VC_IHR_PSRCN,Georgia,Both sexes,330
+2007,VC_IHR_PSRCN,Georgia,Male,285
+2007,VC_IHR_PSRCN,Georgia,Female,45
+2008,VC_IHR_PSRCN,Georgia,Male,220
+2008,VC_IHR_PSRCN,Georgia,Both sexes,263
+2008,VC_IHR_PSRCN,Georgia,Female,43
+2007,VC_IHR_PSRCN,Albania,Male,81
+2008,VC_IHR_PSRCN,Albania,Male,74
+2008,VC_IHR_PSRCN,Albania,Both sexes,93
+2008,VC_IHR_PSRCN,Albania,Female,19
+2009,VC_IHR_PSRCN,Albania,Male,78
+2009,VC_IHR_PSRCN,Albania,Female,7
+2009,VC_IHR_PSRCN,Albania,Both sexes,85
+2010,VC_IHR_PSRCN,Albania,Male,108
+2010,VC_IHR_PSRCN,Albania,Both sexes,119
+2010,VC_IHR_PSRCN,Albania,Female,11
+2011,VC_IHR_PSRCN,Mexico,Male,24257
+2011,VC_IHR_PSRCN,Mexico,Female,2693
+2012,VC_IHR_PSRCN,Mexico,Female,2764
+2012,VC_IHR_PSRCN,Mexico,Male,22986
+2012,VC_IHR_PSRCN,Mexico,Both sexes,25967
+2013,VC_IHR_PSRCN,Mexico,Male,20280
+2013,VC_IHR_PSRCN,Mexico,Both sexes,23063
+2013,VC_IHR_PSRCN,Mexico,Female,2648
+2014,VC_IHR_PSRCN,Mexico,Female,2408
+2014,VC_IHR_PSRCN,Mexico,Both sexes,20010
+2014,VC_IHR_PSRCN,Mexico,Male,17503
+2015,VC_IHR_PSRCN,Mexico,Both sexes,20762
+2015,VC_IHR_PSRCN,Mexico,Female,2383
+2017,VC_IHR_PSRCN,Austria,Female,37
+2017,VC_IHR_PSRCN,Austria,Male,33
+2017,VC_IHR_PSRCN,Austria,Both sexes,70
+2018,VC_IHR_PSRCN,Austria,Both sexes,86
+2018,VC_IHR_PSRCN,Austria,Female,44
+2018,VC_IHR_PSRCN,Austria,Male,42
+2019,VC_IHR_PSRCN,Austria,Female,40
+2019,VC_IHR_PSRCN,Austria,Male,37
+2019,VC_IHR_PSRCN,Austria,Both sexes,77
+2020,VC_IHR_PSRCN,Austria,Male,28
+2009,VC_IHR_PSRCN,Georgia,Female,33
+2009,VC_IHR_PSRCN,Georgia,Both sexes,210
+2009,VC_IHR_PSRCN,Georgia,Male,177
+2010,VC_IHR_PSRCN,Georgia,Male,159
+2010,VC_IHR_PSRCN,Georgia,Both sexes,187
+2010,VC_IHR_PSRCN,Georgia,Female,28
+2014,VC_IHR_PSRCN,Georgia,Female,33
+2014,VC_IHR_PSRCN,Georgia,Male,75
+2016,VC_IHR_PSRCN,Georgia,Both sexes,39
+2016,VC_IHR_PSRCN,Georgia,Male,5
+2020,VC_IHR_PSRCN,Austria,Both sexes,65
+2020,VC_IHR_PSRCN,Austria,Female,37
+2021,VC_IHR_PSRCN,Austria,Both sexes,65
+2021,VC_IHR_PSRCN,Austria,Male,25
+2021,VC_IHR_PSRCN,Austria,Female,40
+2000,VC_IHR_PSRCN,Armenia,Male,65
+2000,VC_IHR_PSRCN,Armenia,Female,26
+2000,VC_IHR_PSRCN,Armenia,Both sexes,91
+2001,VC_IHR_PSRCN,Armenia,Male,70
+2001,VC_IHR_PSRCN,Armenia,Both sexes,88
+2001,VC_IHR_PSRCN,Armenia,Female,18
+2011,VC_IHR_PSRCN,Albania,Female,18
+2011,VC_IHR_PSRCN,Albania,Male,124
+2011,VC_IHR_PSRCN,Albania,Both sexes,142
+2012,VC_IHR_PSRCN,Albania,Male,131
+2012,VC_IHR_PSRCN,Albania,Both sexes,157
+2012,VC_IHR_PSRCN,Albania,Female,26
+2013,VC_IHR_PSRCN,Albania,Female,20
+2013,VC_IHR_PSRCN,Albania,Male,104
+2013,VC_IHR_PSRCN,Albania,Both sexes,124
+2014,VC_IHR_PSRCN,Albania,Male,122
+2016,VC_IHR_PSRCN,Georgia,Female,34
+2017,VC_IHR_PSRCN,Georgia,Both sexes,91
+2017,VC_IHR_PSRCN,Georgia,Male,69
+2017,VC_IHR_PSRCN,Georgia,Female,21
+2018,VC_IHR_PSRCN,Georgia,Both sexes,89
+2018,VC_IHR_PSRCN,Georgia,Male,70
+2018,VC_IHR_PSRCN,Georgia,Female,22
+2019,VC_IHR_PSRCN,Georgia,Both sexes,77
+2019,VC_IHR_PSRCN,Georgia,Female,19
+2020,VC_IHR_PSRCN,Georgia,Female,24
+2000,VC_IHR_PSRCN,Germany,Female,545
+2000,VC_IHR_PSRCN,Germany,Male,819
+2000,VC_IHR_PSRCN,Germany,Both sexes,1364
+2001,VC_IHR_PSRCN,Germany,Both sexes,1181
+2001,VC_IHR_PSRCN,Germany,Male,689
+2001,VC_IHR_PSRCN,Germany,Female,492
+2002,VC_IHR_PSRCN,Germany,Both sexes,1172
+2002,VC_IHR_PSRCN,Germany,Male,698
+2002,VC_IHR_PSRCN,Germany,Female,474
+2003,VC_IHR_PSRCN,Germany,Male,610
+2003,VC_IHR_PSRCN,Germany,Female,487
+2003,VC_IHR_PSRCN,Germany,Both sexes,1097
+2002,VC_IHR_PSRCN,Armenia,Male,49
+2002,VC_IHR_PSRCN,Armenia,Female,20
+2002,VC_IHR_PSRCN,Armenia,Both sexes,69
+2003,VC_IHR_PSRCN,Armenia,Female,11
+2003,VC_IHR_PSRCN,Armenia,Male,65
+2004,VC_IHR_PSRCN,Armenia,Male,61
+2004,VC_IHR_PSRCN,Armenia,Both sexes,83
+2004,VC_IHR_PSRCN,Armenia,Female,22
+2005,VC_IHR_PSRCN,Armenia,Female,11
+2005,VC_IHR_PSRCN,Armenia,Both sexes,58
+2005,VC_IHR_PSRCN,Armenia,Male,47
+2006,VC_IHR_PSRCN,Armenia,Female,26
+2006,VC_IHR_PSRCN,Armenia,Male,53
+2006,VC_IHR_PSRCN,Armenia,Both sexes,79
+2007,VC_IHR_PSRCN,Armenia,Female,13
+2007,VC_IHR_PSRCN,Armenia,Both sexes,77
+2007,VC_IHR_PSRCN,Armenia,Male,64
+2008,VC_IHR_PSRCN,Armenia,Male,71
+2008,VC_IHR_PSRCN,Armenia,Both sexes,97
+2008,VC_IHR_PSRCN,Armenia,Female,26
+2009,VC_IHR_PSRCN,Armenia,Female,25
+2009,VC_IHR_PSRCN,Armenia,Both sexes,97
+2009,VC_IHR_PSRCN,Armenia,Male,72
+2010,VC_IHR_PSRCN,Armenia,Female,10
+2010,VC_IHR_PSRCN,Armenia,Male,46
+2010,VC_IHR_PSRCN,Armenia,Both sexes,56
+2011,VC_IHR_PSRCN,Armenia,Female,19
+2011,VC_IHR_PSRCN,Armenia,Male,52
+2011,VC_IHR_PSRCN,Armenia,Both sexes,71
+2012,VC_IHR_PSRCN,Armenia,Both sexes,65
+2012,VC_IHR_PSRCN,Armenia,Male,46
+2012,VC_IHR_PSRCN,Armenia,Female,19
+2013,VC_IHR_PSRCN,Armenia,Female,19
+2013,VC_IHR_PSRCN,Armenia,Male,44
+2013,VC_IHR_PSRCN,Armenia,Both sexes,63
+2014,VC_IHR_PSRCN,Armenia,Female,20
+2014,VC_IHR_PSRCN,Armenia,Both sexes,72
+2014,VC_IHR_PSRCN,Armenia,Male,52
+2015,VC_IHR_PSRCN,Armenia,Male,54
+2015,VC_IHR_PSRCN,Armenia,Female,21
+2015,VC_IHR_PSRCN,Armenia,Both sexes,75
+2004,VC_IHR_PSRCN,Germany,Male,654
+2004,VC_IHR_PSRCN,Germany,Female,458
+2004,VC_IHR_PSRCN,Germany,Both sexes,1112
+2005,VC_IHR_PSRCN,Germany,Male,596
+2005,VC_IHR_PSRCN,Germany,Female,448
+2005,VC_IHR_PSRCN,Germany,Both sexes,1044
+2006,VC_IHR_PSRCN,Germany,Male,546
+2006,VC_IHR_PSRCN,Germany,Both sexes,988
+2006,VC_IHR_PSRCN,Germany,Female,442
+2007,VC_IHR_PSRCN,Germany,Female,390
+2007,VC_IHR_PSRCN,Germany,Both sexes,888
+2007,VC_IHR_PSRCN,Germany,Male,498
+2008,VC_IHR_PSRCN,Germany,Both sexes,831
+2008,VC_IHR_PSRCN,Germany,Male,464
+2008,VC_IHR_PSRCN,Germany,Female,367
+2009,VC_IHR_PSRCN,Germany,Female,386
+2009,VC_IHR_PSRCN,Germany,Male,417
+2009,VC_IHR_PSRCN,Germany,Both sexes,803
+2010,VC_IHR_PSRCN,Germany,Male,400
+2010,VC_IHR_PSRCN,Germany,Female,393
+2010,VC_IHR_PSRCN,Germany,Both sexes,793
+2011,VC_IHR_PSRCN,Germany,Female,338
+2011,VC_IHR_PSRCN,Germany,Both sexes,738
+2011,VC_IHR_PSRCN,Germany,Male,400
+2012,VC_IHR_PSRCN,Germany,Female,296
+2012,VC_IHR_PSRCN,Germany,Both sexes,659
+2012,VC_IHR_PSRCN,Germany,Male,363
+2013,VC_IHR_PSRCN,Germany,Both sexes,682
+2013,VC_IHR_PSRCN,Germany,Female,328
+2013,VC_IHR_PSRCN,Germany,Male,354
+2014,VC_IHR_PSRCN,Germany,Male,377
+2014,VC_IHR_PSRCN,Germany,Female,339
+2014,VC_IHR_PSRCN,Germany,Both sexes,716
+2015,VC_IHR_PSRCN,Germany,Female,327
+2015,VC_IHR_PSRCN,Germany,Male,355
+2015,VC_IHR_PSRCN,Germany,Both sexes,682
+2016,VC_IHR_PSRCN,Germany,Both sexes,963
+2016,VC_IHR_PSRCN,Germany,Male,494
+2016,VC_IHR_PSRCN,Germany,Female,469
+2017,VC_IHR_PSRCN,Germany,Both sexes,813
+2017,VC_IHR_PSRCN,Germany,Male,433
+2017,VC_IHR_PSRCN,Germany,Female,380
+2018,VC_IHR_PSRCN,Germany,Both sexes,788
+2018,VC_IHR_PSRCN,Germany,Male,421
+2018,VC_IHR_PSRCN,Germany,Female,367
+2019,VC_IHR_PSRCN,Germany,Female,276
+2019,VC_IHR_PSRCN,Germany,Male,347
+2019,VC_IHR_PSRCN,Germany,Both sexes,623
+2020,VC_IHR_PSRCN,Germany,Male,425
+2020,VC_IHR_PSRCN,Germany,Both sexes,782
+2020,VC_IHR_PSRCN,Germany,Female,357
+2021,VC_IHR_PSRCN,Germany,Female,337
+2021,VC_IHR_PSRCN,Germany,Male,358
+2021,VC_IHR_PSRCN,Germany,Both sexes,695
+2001,VC_IHR_PSRCN,Greece,Female,36
+2001,VC_IHR_PSRCN,Greece,Male,96
+2001,VC_IHR_PSRCN,Greece,Both sexes,132
+2002,VC_IHR_PSRCN,Greece,Both sexes,94
+2002,VC_IHR_PSRCN,Greece,Female,24
+2002,VC_IHR_PSRCN,Greece,Male,70
+2003,VC_IHR_PSRCN,Greece,Male,89
+2016,VC_IHR_PSRCN,Armenia,Both sexes,87
+2016,VC_IHR_PSRCN,Armenia,Male,69
+2016,VC_IHR_PSRCN,Armenia,Female,14
+2017,VC_IHR_PSRCN,Armenia,Female,11
+2017,VC_IHR_PSRCN,Armenia,Both sexes,70
+2017,VC_IHR_PSRCN,Armenia,Male,59
+2018,VC_IHR_PSRCN,Armenia,Both sexes,50
+2018,VC_IHR_PSRCN,Armenia,Male,39
+2018,VC_IHR_PSRCN,Armenia,Female,11
+2019,VC_IHR_PSRCN,Armenia,Both sexes,73
+2003,VC_IHR_PSRCN,Greece,Female,33
+2004,VC_IHR_PSRCN,Greece,Both sexes,111
+2004,VC_IHR_PSRCN,Greece,Female,30
+2004,VC_IHR_PSRCN,Greece,Male,81
+2005,VC_IHR_PSRCN,Greece,Male,88
+2005,VC_IHR_PSRCN,Greece,Both sexes,132
+2005,VC_IHR_PSRCN,Greece,Female,44
+2006,VC_IHR_PSRCN,Greece,Female,22
+2006,VC_IHR_PSRCN,Greece,Male,88
+2006,VC_IHR_PSRCN,Greece,Both sexes,110
+2007,VC_IHR_PSRCN,Greece,Male,95
+2014,VC_IHR_PSRCN,Albania,Female,12
+2014,VC_IHR_PSRCN,Albania,Both sexes,134
+2015,VC_IHR_PSRCN,Albania,Male,48
+2015,VC_IHR_PSRCN,Albania,Female,16
+2015,VC_IHR_PSRCN,Albania,Both sexes,64
+2016,VC_IHR_PSRCN,Albania,Both sexes,79
+2016,VC_IHR_PSRCN,Albania,Female,17
+2016,VC_IHR_PSRCN,Albania,Male,62
+2017,VC_IHR_PSRCN,Albania,Male,45
+2017,VC_IHR_PSRCN,Albania,Female,13
+2017,VC_IHR_PSRCN,Albania,Both sexes,58
+2018,VC_IHR_PSRCN,Albania,Male,51
+2007,VC_IHR_PSRCN,Greece,Both sexes,130
+2007,VC_IHR_PSRCN,Greece,Female,35
+2008,VC_IHR_PSRCN,Greece,Female,33
+2008,VC_IHR_PSRCN,Greece,Both sexes,144
+2008,VC_IHR_PSRCN,Greece,Male,111
+2009,VC_IHR_PSRCN,Greece,Female,25
+2009,VC_IHR_PSRCN,Greece,Male,127
+2009,VC_IHR_PSRCN,Greece,Both sexes,152
+2010,VC_IHR_PSRCN,Greece,Male,142
+2010,VC_IHR_PSRCN,Greece,Female,34
+2010,VC_IHR_PSRCN,Greece,Both sexes,176
+2011,VC_IHR_PSRCN,Greece,Male,152
+2011,VC_IHR_PSRCN,Greece,Female,32
+2011,VC_IHR_PSRCN,Greece,Both sexes,184
+2012,VC_IHR_PSRCN,Greece,Both sexes,166
+2012,VC_IHR_PSRCN,Greece,Male,127
+2012,VC_IHR_PSRCN,Greece,Female,39
+2013,VC_IHR_PSRCN,Greece,Male,103
+2013,VC_IHR_PSRCN,Greece,Both sexes,153
+2013,VC_IHR_PSRCN,Greece,Female,50
+2019,VC_IHR_PSRCN,Armenia,Female,10
+2019,VC_IHR_PSRCN,Armenia,Male,63
+2020,VC_IHR_PSRCN,Armenia,Female,16
+2020,VC_IHR_PSRCN,Armenia,Male,36
+2020,VC_IHR_PSRCN,Armenia,Both sexes,52
+2021,VC_IHR_PSRCN,Armenia,Female,14
+2021,VC_IHR_PSRCN,Armenia,Male,47
+2021,VC_IHR_PSRCN,Armenia,Both sexes,61
+2000,VC_IHR_PSRCN,Belgium,Male,129
+2000,VC_IHR_PSRCN,Belgium,Female,83
+2000,VC_IHR_PSRCN,Belgium,Both sexes,212
+2014,VC_IHR_PSRCN,Greece,Male,80
+2014,VC_IHR_PSRCN,Greece,Both sexes,107
+2014,VC_IHR_PSRCN,Greece,Female,27
+2015,VC_IHR_PSRCN,Greece,Female,30
+2015,VC_IHR_PSRCN,Greece,Male,63
+2015,VC_IHR_PSRCN,Greece,Both sexes,93
+2016,VC_IHR_PSRCN,Greece,Both sexes,84
+2016,VC_IHR_PSRCN,Greece,Female,26
+2016,VC_IHR_PSRCN,Greece,Male,58
+2017,VC_IHR_PSRCN,Greece,Male,63
+2017,VC_IHR_PSRCN,Greece,Both sexes,86
+2017,VC_IHR_PSRCN,Greece,Female,23
+2018,VC_IHR_PSRCN,Greece,Both sexes,99
+2018,VC_IHR_PSRCN,Greece,Female,29
+2018,VC_IHR_PSRCN,Greece,Male,70
+2019,VC_IHR_PSRCN,Greece,Both sexes,78
+2019,VC_IHR_PSRCN,Greece,Female,19
+2019,VC_IHR_PSRCN,Greece,Male,59
+2020,VC_IHR_PSRCN,Greece,Female,19
+2020,VC_IHR_PSRCN,Greece,Male,59
+2020,VC_IHR_PSRCN,Greece,Both sexes,78
+2021,VC_IHR_PSRCN,Greece,Both sexes,89
+2021,VC_IHR_PSRCN,Greece,Female,33
+2021,VC_IHR_PSRCN,Greece,Male,56
+2000,VC_IHR_PSRCN,Hungary,Female,87
+2000,VC_IHR_PSRCN,Hungary,Male,118
+2000,VC_IHR_PSRCN,Hungary,Both sexes,205
+2001,VC_IHR_PSRCN,Hungary,Male,169
+2001,VC_IHR_PSRCN,Hungary,Both sexes,254
+2001,VC_IHR_PSRCN,Hungary,Female,85
+2002,VC_IHR_PSRCN,Hungary,Female,87
+2002,VC_IHR_PSRCN,Hungary,Male,116
+2002,VC_IHR_PSRCN,Hungary,Both sexes,203
+2003,VC_IHR_PSRCN,Hungary,Male,137
+2003,VC_IHR_PSRCN,Hungary,Female,91
+2003,VC_IHR_PSRCN,Hungary,Both sexes,228
+2004,VC_IHR_PSRCN,Hungary,Both sexes,209
+2004,VC_IHR_PSRCN,Hungary,Male,121
+2004,VC_IHR_PSRCN,Hungary,Female,88
+2005,VC_IHR_PSRCN,Hungary,Female,76
+2005,VC_IHR_PSRCN,Hungary,Male,88
+2005,VC_IHR_PSRCN,Hungary,Both sexes,164
+2006,VC_IHR_PSRCN,Hungary,Male,100
+2006,VC_IHR_PSRCN,Hungary,Both sexes,174
+2006,VC_IHR_PSRCN,Hungary,Female,74
+2007,VC_IHR_PSRCN,Hungary,Both sexes,154
+2007,VC_IHR_PSRCN,Hungary,Male,91
+2007,VC_IHR_PSRCN,Hungary,Female,63
+2008,VC_IHR_PSRCN,Hungary,Male,111
+2008,VC_IHR_PSRCN,Hungary,Both sexes,181
+2008,VC_IHR_PSRCN,Hungary,Female,70
+2018,VC_IHR_PSRCN,Albania,Female,15
+2018,VC_IHR_PSRCN,Albania,Both sexes,66
+2019,VC_IHR_PSRCN,Albania,Male,52
+2019,VC_IHR_PSRCN,Albania,Both sexes,65
+2019,VC_IHR_PSRCN,Albania,Female,13
+2020,VC_IHR_PSRCN,Albania,Female,9
+2020,VC_IHR_PSRCN,Albania,Male,52
+2020,VC_IHR_PSRCN,Albania,Both sexes,61
+2021,VC_IHR_PSRCN,Albania,Both sexes,66
+2021,VC_IHR_PSRCN,Albania,Male,54
+2009,VC_IHR_PSRCN,Hungary,Female,63
+2009,VC_IHR_PSRCN,Hungary,Both sexes,139
+2009,VC_IHR_PSRCN,Hungary,Male,76
+2010,VC_IHR_PSRCN,Hungary,Male,77
+2010,VC_IHR_PSRCN,Hungary,Both sexes,138
+2010,VC_IHR_PSRCN,Hungary,Female,61
+2011,VC_IHR_PSRCN,Hungary,Both sexes,145
+2011,VC_IHR_PSRCN,Hungary,Male,103
+2011,VC_IHR_PSRCN,Hungary,Female,42
+2012,VC_IHR_PSRCN,Hungary,Male,66
+2015,VC_IHR_PSRCN,Mexico,Male,18293
+2016,VC_IHR_PSRCN,Mexico,Male,21673
+2016,VC_IHR_PSRCN,Mexico,Female,2813
+2016,VC_IHR_PSRCN,Mexico,Both sexes,24559
+2017,VC_IHR_PSRCN,Mexico,Male,28522
+2017,VC_IHR_PSRCN,Mexico,Female,3430
+2017,VC_IHR_PSRCN,Mexico,Both sexes,32079
+2018,VC_IHR_PSRCN,Mexico,Male,32765
+2018,VC_IHR_PSRCN,Mexico,Female,3752
+2018,VC_IHR_PSRCN,Mexico,Both sexes,36685
+2012,VC_IHR_PSRCN,Hungary,Both sexes,124
+2012,VC_IHR_PSRCN,Hungary,Female,58
+2013,VC_IHR_PSRCN,Hungary,Female,71
+2013,VC_IHR_PSRCN,Hungary,Both sexes,154
+2013,VC_IHR_PSRCN,Hungary,Male,83
+2014,VC_IHR_PSRCN,Hungary,Male,79
+2014,VC_IHR_PSRCN,Hungary,Both sexes,146
+2014,VC_IHR_PSRCN,Hungary,Female,67
+2015,VC_IHR_PSRCN,Hungary,Both sexes,221
+2015,VC_IHR_PSRCN,Hungary,Male,119
+2015,VC_IHR_PSRCN,Hungary,Female,102
+2016,VC_IHR_PSRCN,Hungary,Male,120
+2016,VC_IHR_PSRCN,Hungary,Both sexes,202
+2016,VC_IHR_PSRCN,Hungary,Female,82
+2017,VC_IHR_PSRCN,Hungary,Both sexes,160
+2017,VC_IHR_PSRCN,Hungary,Female,44
+2017,VC_IHR_PSRCN,Hungary,Male,116
+2018,VC_IHR_PSRCN,Hungary,Both sexes,86
+2018,VC_IHR_PSRCN,Hungary,Female,43
+2018,VC_IHR_PSRCN,Hungary,Male,43
+2019,VC_IHR_PSRCN,Hungary,Male,33
+2019,VC_IHR_PSRCN,Hungary,Both sexes,64
+2019,VC_IHR_PSRCN,Hungary,Female,31
+2020,VC_IHR_PSRCN,Hungary,Female,39
+2020,VC_IHR_PSRCN,Hungary,Both sexes,80
+2020,VC_IHR_PSRCN,Hungary,Male,41
+2021,VC_IHR_PSRCN,Hungary,Both sexes,75
+2021,VC_IHR_PSRCN,Hungary,Male,49
+2021,VC_IHR_PSRCN,Hungary,Female,26
+2000,VC_IHR_PSRCN,Iceland,Both sexes,5
+2001,VC_IHR_PSRCN,Iceland,Both sexes,1
+2002,VC_IHR_PSRCN,Iceland,Both sexes,4
+2005,VC_IHR_PSRCN,Iceland,Both sexes,3
+2005,VC_IHR_PSRCN,Iceland,Male,3
+2005,VC_IHR_PSRCN,Iceland,Female,0
+2006,VC_IHR_PSRCN,Iceland,Both sexes,0
+2007,VC_IHR_PSRCN,Iceland,Both sexes,2
+2007,VC_IHR_PSRCN,Iceland,Female,0
+2007,VC_IHR_PSRCN,Iceland,Male,2
+2008,VC_IHR_PSRCN,Iceland,Both sexes,0
+2009,VC_IHR_PSRCN,Iceland,Both sexes,1
+2009,VC_IHR_PSRCN,Iceland,Female,0
+2009,VC_IHR_PSRCN,Iceland,Male,1
+2010,VC_IHR_PSRCN,Iceland,Female,0
+2010,VC_IHR_PSRCN,Iceland,Both sexes,2
+2010,VC_IHR_PSRCN,Iceland,Male,2
+2011,VC_IHR_PSRCN,Iceland,Both sexes,3
+2011,VC_IHR_PSRCN,Iceland,Male,2
+2011,VC_IHR_PSRCN,Iceland,Female,1
+2012,VC_IHR_PSRCN,Iceland,Female,1
+2012,VC_IHR_PSRCN,Iceland,Male,0
+2021,VC_IHR_PSRCN,Albania,Female,12
+2000,VC_IHR_PSRCN,Azerbaijan,Both sexes,226
+2001,VC_IHR_PSRCN,Azerbaijan,Both sexes,218
+2002,VC_IHR_PSRCN,Azerbaijan,Both sexes,212
+2007,VC_IHR_PSRCN,Azerbaijan,Both sexes,189
+2008,VC_IHR_PSRCN,Azerbaijan,Both sexes,192
+2010,VC_IHR_PSRCN,Azerbaijan,Male,144
+2010,VC_IHR_PSRCN,Azerbaijan,Female,62
+2010,VC_IHR_PSRCN,Azerbaijan,Both sexes,206
+2011,VC_IHR_PSRCN,Azerbaijan,Both sexes,211
+2011,VC_IHR_PSRCN,Azerbaijan,Male,136
+2011,VC_IHR_PSRCN,Azerbaijan,Female,75
+2012,VC_IHR_PSRCN,Azerbaijan,Female,58
+2012,VC_IHR_PSRCN,Azerbaijan,Both sexes,202
+2012,VC_IHR_PSRCN,Azerbaijan,Male,144
+2013,VC_IHR_PSRCN,Azerbaijan,Male,151
+2013,VC_IHR_PSRCN,Azerbaijan,Both sexes,221
+2013,VC_IHR_PSRCN,Azerbaijan,Female,70
+2014,VC_IHR_PSRCN,Azerbaijan,Female,87
+2014,VC_IHR_PSRCN,Azerbaijan,Both sexes,236
+2014,VC_IHR_PSRCN,Azerbaijan,Male,149
+2015,VC_IHR_PSRCN,Azerbaijan,Male,139
+2015,VC_IHR_PSRCN,Azerbaijan,Both sexes,211
+2015,VC_IHR_PSRCN,Azerbaijan,Female,72
+2012,VC_IHR_PSRCN,Iceland,Both sexes,1
+2013,VC_IHR_PSRCN,Iceland,Male,1
+2013,VC_IHR_PSRCN,Iceland,Female,0
+2013,VC_IHR_PSRCN,Iceland,Both sexes,1
+2014,VC_IHR_PSRCN,Iceland,Male,0
+2014,VC_IHR_PSRCN,Iceland,Both sexes,1
+2014,VC_IHR_PSRCN,Iceland,Female,1
+2015,VC_IHR_PSRCN,Iceland,Male,3
+2015,VC_IHR_PSRCN,Iceland,Both sexes,3
+2015,VC_IHR_PSRCN,Iceland,Female,0
+2016,VC_IHR_PSRCN,Azerbaijan,Female,71
+2016,VC_IHR_PSRCN,Azerbaijan,Both sexes,169
+2016,VC_IHR_PSRCN,Azerbaijan,Male,98
+2017,VC_IHR_PSRCN,Azerbaijan,Male,106
+2017,VC_IHR_PSRCN,Azerbaijan,Both sexes,182
+2017,VC_IHR_PSRCN,Azerbaijan,Female,76
+2018,VC_IHR_PSRCN,Azerbaijan,Female,65
+2018,VC_IHR_PSRCN,Azerbaijan,Both sexes,197
+2018,VC_IHR_PSRCN,Azerbaijan,Male,132
+2019,VC_IHR_PSRCN,Azerbaijan,Male,108
+2019,VC_IHR_PSRCN,Azerbaijan,Female,60
+2019,VC_IHR_PSRCN,Azerbaijan,Both sexes,168
+2020,VC_IHR_PSRCN,Azerbaijan,Female,79
+2001,VC_IHR_PSRCN,Belgium,Female,103
+2001,VC_IHR_PSRCN,Belgium,Both sexes,282
+2001,VC_IHR_PSRCN,Belgium,Male,179
+2002,VC_IHR_PSRCN,Belgium,Male,187
+2002,VC_IHR_PSRCN,Belgium,Female,132
+2002,VC_IHR_PSRCN,Belgium,Both sexes,319
+2003,VC_IHR_PSRCN,Belgium,Female,94
+2003,VC_IHR_PSRCN,Belgium,Male,136
+2004,VC_IHR_PSRCN,Belgium,Male,142
+2004,VC_IHR_PSRCN,Belgium,Female,126
+2005,VC_IHR_PSRCN,Belgium,Male,129
+2005,VC_IHR_PSRCN,Belgium,Female,92
+2006,VC_IHR_PSRCN,Belgium,Male,133
+2006,VC_IHR_PSRCN,Belgium,Female,88
+2007,VC_IHR_PSRCN,Belgium,Female,87
+2007,VC_IHR_PSRCN,Belgium,Male,124
+2008,VC_IHR_PSRCN,Belgium,Male,132
+2008,VC_IHR_PSRCN,Belgium,Female,71
+2009,VC_IHR_PSRCN,Belgium,Female,76
+2009,VC_IHR_PSRCN,Belgium,Male,113
+2010,VC_IHR_PSRCN,Belgium,Male,120
+2010,VC_IHR_PSRCN,Belgium,Female,69
+2011,VC_IHR_PSRCN,Belgium,Female,92
+2011,VC_IHR_PSRCN,Belgium,Male,122
+2012,VC_IHR_PSRCN,Belgium,Male,128
+2012,VC_IHR_PSRCN,Belgium,Female,77
+2013,VC_IHR_PSRCN,Belgium,Female,99
+2013,VC_IHR_PSRCN,Belgium,Male,106
+2014,VC_IHR_PSRCN,Belgium,Female,81
+2014,VC_IHR_PSRCN,Belgium,Male,129
+2015,VC_IHR_PSRCN,Belgium,Male,126
+2015,VC_IHR_PSRCN,Belgium,Female,105
+2016,VC_IHR_PSRCN,Belgium,Female,67
+2016,VC_IHR_PSRCN,Belgium,Male,107
+2017,VC_IHR_PSRCN,Belgium,Female,92
+2017,VC_IHR_PSRCN,Belgium,Male,106
+2018,VC_IHR_PSRCN,Belgium,Female,73
+2016,VC_IHR_PSRCN,Iceland,Female,1
+2016,VC_IHR_PSRCN,Iceland,Both sexes,1
+2016,VC_IHR_PSRCN,Iceland,Male,0
+2017,VC_IHR_PSRCN,Iceland,Both sexes,3
+2017,VC_IHR_PSRCN,Iceland,Female,2
+2017,VC_IHR_PSRCN,Iceland,Male,1
+2018,VC_IHR_PSRCN,Iceland,Both sexes,3
+2018,VC_IHR_PSRCN,Iceland,Male,2
+2018,VC_IHR_PSRCN,Iceland,Female,1
+2019,VC_IHR_PSRCN,Iceland,Female,0
+2019,VC_IHR_PSRCN,Mexico,Both sexes,36661
+2019,VC_IHR_PSRCN,Mexico,Female,3893
+2019,VC_IHR_PSRCN,Mexico,Male,32530
+2020,VC_IHR_PSRCN,Mexico,Male,32336
+2020,VC_IHR_PSRCN,Mexico,Both sexes,36773
+2020,VC_IHR_PSRCN,Mexico,Female,3957
+2021,VC_IHR_PSRCN,Mexico,Female,4002
+2021,VC_IHR_PSRCN,Mexico,Both sexes,35700
+2021,VC_IHR_PSRCN,Mexico,Male,31263
+2000,VC_IHR_PSRCN,Moldova,Male,313
+2000,VC_IHR_PSRCN,Moldova,Both sexes,433
+2000,VC_IHR_PSRCN,Moldova,Female,120
+2001,VC_IHR_PSRCN,Moldova,Both sexes,411
+2001,VC_IHR_PSRCN,Moldova,Male,291
+2001,VC_IHR_PSRCN,Moldova,Female,120
+2002,VC_IHR_PSRCN,Moldova,Male,274
+2002,VC_IHR_PSRCN,Moldova,Female,127
+2002,VC_IHR_PSRCN,Moldova,Both sexes,401
+2003,VC_IHR_PSRCN,Moldova,Both sexes,319
+2003,VC_IHR_PSRCN,Moldova,Female,107
+2003,VC_IHR_PSRCN,Moldova,Male,212
+2019,VC_IHR_PSRCN,Iceland,Male,1
+2019,VC_IHR_PSRCN,Iceland,Both sexes,1
+2020,VC_IHR_PSRCN,Iceland,Female,4
+2020,VC_IHR_PSRCN,Iceland,Male,1
+2020,VC_IHR_PSRCN,Iceland,Both sexes,5
+2021,VC_IHR_PSRCN,Iceland,Male,1
+2021,VC_IHR_PSRCN,Iceland,Female,1
+2021,VC_IHR_PSRCN,Iceland,Both sexes,2
+2000,VC_IHR_PSRCN,India,Female,15196
+2000,VC_IHR_PSRCN,India,Male,32971
+2004,VC_IHR_PSRCN,Moldova,Female,92
+2004,VC_IHR_PSRCN,Moldova,Male,185
+2004,VC_IHR_PSRCN,Moldova,Both sexes,277
+2005,VC_IHR_PSRCN,Moldova,Female,100
+2005,VC_IHR_PSRCN,Moldova,Both sexes,296
+2005,VC_IHR_PSRCN,Moldova,Male,196
+2006,VC_IHR_PSRCN,Moldova,Male,186
+2006,VC_IHR_PSRCN,Moldova,Both sexes,262
+2006,VC_IHR_PSRCN,Moldova,Female,76
+2007,VC_IHR_PSRCN,Moldova,Female,68
+2018,VC_IHR_PSRCN,Belgium,Male,117
+2019,VC_IHR_PSRCN,Belgium,Female,55
+2019,VC_IHR_PSRCN,Belgium,Male,91
+2021,VC_IHR_PSRCN,Belgium,Both sexes,125
+2021,VC_IHR_PSRCN,Belgium,Female,11
+2021,VC_IHR_PSRCN,Belgium,Male,114
+2000,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,20
+2000,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,99
+2000,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,79
+2001,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,53
+2001,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,82
+2001,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,29
+2007,VC_IHR_PSRCN,Moldova,Both sexes,217
+2007,VC_IHR_PSRCN,Moldova,Male,149
+2008,VC_IHR_PSRCN,Moldova,Male,145
+2008,VC_IHR_PSRCN,Moldova,Female,91
+2008,VC_IHR_PSRCN,Moldova,Both sexes,236
+2009,VC_IHR_PSRCN,Moldova,Female,71
+2009,VC_IHR_PSRCN,Moldova,Both sexes,246
+2009,VC_IHR_PSRCN,Moldova,Male,175
+2010,VC_IHR_PSRCN,Moldova,Male,163
+2010,VC_IHR_PSRCN,Moldova,Both sexes,265
+2010,VC_IHR_PSRCN,Moldova,Female,102
+2011,VC_IHR_PSRCN,Moldova,Female,87
+2011,VC_IHR_PSRCN,Moldova,Both sexes,216
+2011,VC_IHR_PSRCN,Moldova,Male,129
+2012,VC_IHR_PSRCN,Moldova,Male,166
+2012,VC_IHR_PSRCN,Moldova,Female,63
+2012,VC_IHR_PSRCN,Moldova,Both sexes,229
+2013,VC_IHR_PSRCN,Moldova,Both sexes,229
+2013,VC_IHR_PSRCN,Moldova,Female,69
+2000,VC_IHR_PSRCN,India,Both sexes,48167
+2001,VC_IHR_PSRCN,India,Female,14972
+2001,VC_IHR_PSRCN,India,Both sexes,46420
+2001,VC_IHR_PSRCN,India,Male,31448
+2002,VC_IHR_PSRCN,India,Female,14519
+2002,VC_IHR_PSRCN,India,Male,31217
+2002,VC_IHR_PSRCN,India,Both sexes,45736
+2003,VC_IHR_PSRCN,India,Both sexes,44331
+2003,VC_IHR_PSRCN,India,Male,29858
+2003,VC_IHR_PSRCN,India,Female,14473
+2004,VC_IHR_PSRCN,India,Female,15864
+2004,VC_IHR_PSRCN,India,Male,30626
+2004,VC_IHR_PSRCN,India,Both sexes,46490
+2020,VC_IHR_PSRCN,Azerbaijan,Male,151
+2020,VC_IHR_PSRCN,Azerbaijan,Both sexes,230
+2021,VC_IHR_PSRCN,Azerbaijan,Female,69
+2021,VC_IHR_PSRCN,Azerbaijan,Male,128
+2021,VC_IHR_PSRCN,Azerbaijan,Both sexes,197
+2000,VC_IHR_PSRCN,Australia,Both sexes,362
+2000,VC_IHR_PSRCN,Australia,Male,226
+2000,VC_IHR_PSRCN,Australia,Female,136
+2001,VC_IHR_PSRCN,Australia,Female,116
+2001,VC_IHR_PSRCN,Australia,Male,231
+2001,VC_IHR_PSRCN,Australia,Both sexes,347
+2002,VC_IHR_PSRCN,Australia,Both sexes,366
+2002,VC_IHR_PSRCN,Australia,Male,245
+2002,VC_IHR_PSRCN,Australia,Female,121
+2003,VC_IHR_PSRCN,Australia,Female,96
+2003,VC_IHR_PSRCN,Australia,Male,206
+2003,VC_IHR_PSRCN,Australia,Both sexes,302
+2004,VC_IHR_PSRCN,Australia,Both sexes,263
+2004,VC_IHR_PSRCN,Australia,Male,170
+2004,VC_IHR_PSRCN,Australia,Female,93
+2005,VC_IHR_PSRCN,Australia,Both sexes,259
+2005,VC_IHR_PSRCN,Australia,Male,165
+2005,VC_IHR_PSRCN,Australia,Female,94
+2006,VC_IHR_PSRCN,Australia,Female,93
+2006,VC_IHR_PSRCN,Australia,Male,188
+2006,VC_IHR_PSRCN,Australia,Both sexes,281
+2007,VC_IHR_PSRCN,Australia,Both sexes,255
+2007,VC_IHR_PSRCN,Australia,Female,85
+2007,VC_IHR_PSRCN,Australia,Male,170
+2008,VC_IHR_PSRCN,Australia,Female,101
+2008,VC_IHR_PSRCN,Australia,Male,160
+2008,VC_IHR_PSRCN,Australia,Both sexes,261
+2009,VC_IHR_PSRCN,Australia,Female,76
+2009,VC_IHR_PSRCN,Australia,Both sexes,263
+2009,VC_IHR_PSRCN,Australia,Male,187
+2010,VC_IHR_PSRCN,Australia,Male,137
+2010,VC_IHR_PSRCN,Australia,Female,94
+2010,VC_IHR_PSRCN,Australia,Both sexes,231
+2011,VC_IHR_PSRCN,Australia,Both sexes,248
+2011,VC_IHR_PSRCN,Australia,Male,158
+2011,VC_IHR_PSRCN,Australia,Female,90
+2012,VC_IHR_PSRCN,Australia,Female,83
+2012,VC_IHR_PSRCN,Australia,Male,160
+2013,VC_IHR_PSRCN,Moldova,Male,160
+2014,VC_IHR_PSRCN,Moldova,Male,144
+2014,VC_IHR_PSRCN,Moldova,Female,17
+2014,VC_IHR_PSRCN,Moldova,Both sexes,161
+2015,VC_IHR_PSRCN,Moldova,Both sexes,189
+2015,VC_IHR_PSRCN,Moldova,Female,47
+2015,VC_IHR_PSRCN,Moldova,Male,142
+2016,VC_IHR_PSRCN,Moldova,Male,152
+2016,VC_IHR_PSRCN,Moldova,Female,48
+2002,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,65
+2002,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,90
+2002,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,25
+2004,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,68
+2007,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,66
+2008,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,66
+2009,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,71
+2009,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,15
+2009,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,56
+2010,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,10
+2010,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,56
+2010,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,46
+2011,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,35
+2011,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,51
+2011,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,16
+2012,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,39
+2012,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,24
+2012,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,63
+2013,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,32
+2013,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,46
+2013,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,14
+2014,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,11
+2014,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,50
+2014,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,39
+2015,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,39
+2015,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,57
+2015,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,18
+2016,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,45
+2012,VC_IHR_PSRCN,Australia,Both sexes,243
+2013,VC_IHR_PSRCN,Australia,Female,94
+2013,VC_IHR_PSRCN,Australia,Both sexes,245
+2013,VC_IHR_PSRCN,Australia,Male,151
+2014,VC_IHR_PSRCN,Australia,Male,149
+2014,VC_IHR_PSRCN,Australia,Both sexes,243
+2000,VC_IHR_PSRCN,Sweden,Male,59
+2000,VC_IHR_PSRCN,Sweden,Both sexes,96
+2000,VC_IHR_PSRCN,Sweden,Female,37
+2001,VC_IHR_PSRCN,Sweden,Female,29
+2001,VC_IHR_PSRCN,Sweden,Both sexes,87
+2016,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,15
+2016,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,30
+2017,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,42
+2017,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,32
+2017,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,10
+2018,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,8
+2018,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,31
+2018,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,39
+2019,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,10
+2005,VC_IHR_PSRCN,India,Both sexes,45095
+2005,VC_IHR_PSRCN,India,Male,29827
+2005,VC_IHR_PSRCN,India,Female,15268
+2006,VC_IHR_PSRCN,India,Male,29389
+2006,VC_IHR_PSRCN,India,Female,15572
+2006,VC_IHR_PSRCN,India,Both sexes,44961
+2007,VC_IHR_PSRCN,India,Male,28568
+2007,VC_IHR_PSRCN,India,Female,16794
+2007,VC_IHR_PSRCN,India,Both sexes,45362
+2008,VC_IHR_PSRCN,India,Male,29006
+2008,VC_IHR_PSRCN,India,Both sexes,45999
+2008,VC_IHR_PSRCN,India,Female,16993
+2009,VC_IHR_PSRCN,India,Male,27970
+2009,VC_IHR_PSRCN,India,Female,17854
+2016,VC_IHR_PSRCN,Moldova,Both sexes,200
+2017,VC_IHR_PSRCN,Moldova,Both sexes,141
+2017,VC_IHR_PSRCN,Moldova,Male,105
+2017,VC_IHR_PSRCN,Moldova,Female,36
+2018,VC_IHR_PSRCN,Moldova,Male,125
+2018,VC_IHR_PSRCN,Moldova,Female,41
+2018,VC_IHR_PSRCN,Moldova,Both sexes,166
+2019,VC_IHR_PSRCN,Moldova,Female,30
+2019,VC_IHR_PSRCN,Moldova,Male,91
+2009,VC_IHR_PSRCN,India,Both sexes,45824
+2010,VC_IHR_PSRCN,India,Both sexes,46460
+2010,VC_IHR_PSRCN,India,Female,17871
+2010,VC_IHR_PSRCN,India,Male,28589
+2011,VC_IHR_PSRCN,India,Male,28909
+2011,VC_IHR_PSRCN,India,Female,18731
+2011,VC_IHR_PSRCN,India,Both sexes,47640
+2012,VC_IHR_PSRCN,India,Both sexes,47478
+2012,VC_IHR_PSRCN,India,Male,29027
+2012,VC_IHR_PSRCN,India,Female,18451
+2013,VC_IHR_PSRCN,India,Female,17911
+2013,VC_IHR_PSRCN,India,Male,27967
+2013,VC_IHR_PSRCN,India,Both sexes,45878
+2019,VC_IHR_PSRCN,Moldova,Both sexes,121
+2020,VC_IHR_PSRCN,Moldova,Male,67
+2020,VC_IHR_PSRCN,Moldova,Both sexes,93
+2020,VC_IHR_PSRCN,Moldova,Female,26
+2002,VC_IHR_PSRCN,Montenegro,Both sexes,27
+2007,VC_IHR_PSRCN,Montenegro,Male,9
+2007,VC_IHR_PSRCN,Montenegro,Both sexes,12
+2007,VC_IHR_PSRCN,Montenegro,Female,3
+2008,VC_IHR_PSRCN,Montenegro,Both sexes,24
+2008,VC_IHR_PSRCN,Montenegro,Male,19
+2019,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,32
+2019,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,42
+2020,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,5
+2020,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,43
+2020,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,38
+2021,VC_IHR_PSRCN,Bosnia and Herzegovina,Female,7
+2021,VC_IHR_PSRCN,Bosnia and Herzegovina,Male,25
+2021,VC_IHR_PSRCN,Bosnia and Herzegovina,Both sexes,32
+2000,VC_IHR_PSRCN,Bulgaria,Both sexes,332
+2000,VC_IHR_PSRCN,Bulgaria,Male,235
+2001,VC_IHR_PSRCN,Sweden,Male,58
+2002,VC_IHR_PSRCN,Sweden,Male,65
+2002,VC_IHR_PSRCN,Sweden,Both sexes,101
+2002,VC_IHR_PSRCN,Sweden,Female,36
+2003,VC_IHR_PSRCN,Sweden,Female,27
+2003,VC_IHR_PSRCN,Sweden,Both sexes,85
+2003,VC_IHR_PSRCN,Sweden,Male,58
+2004,VC_IHR_PSRCN,Sweden,Male,66
+2004,VC_IHR_PSRCN,Sweden,Both sexes,107
+2004,VC_IHR_PSRCN,Sweden,Female,41
+2005,VC_IHR_PSRCN,Sweden,Female,31
+2005,VC_IHR_PSRCN,Sweden,Both sexes,83
+2005,VC_IHR_PSRCN,Sweden,Male,52
+2008,VC_IHR_PSRCN,Montenegro,Female,5
+2009,VC_IHR_PSRCN,Montenegro,Female,7
+2009,VC_IHR_PSRCN,Montenegro,Male,14
+2009,VC_IHR_PSRCN,Montenegro,Both sexes,21
+2010,VC_IHR_PSRCN,Montenegro,Both sexes,15
+2010,VC_IHR_PSRCN,Montenegro,Male,8
+2010,VC_IHR_PSRCN,Montenegro,Female,7
+2011,VC_IHR_PSRCN,Montenegro,Male,18
+2011,VC_IHR_PSRCN,Montenegro,Both sexes,21
+2011,VC_IHR_PSRCN,Montenegro,Female,3
+2006,VC_IHR_PSRCN,Sweden,Male,55
+2006,VC_IHR_PSRCN,Sweden,Both sexes,91
+2006,VC_IHR_PSRCN,Sweden,Female,36
+2007,VC_IHR_PSRCN,Sweden,Female,32
+2007,VC_IHR_PSRCN,Sweden,Both sexes,111
+2007,VC_IHR_PSRCN,Sweden,Male,79
+2008,VC_IHR_PSRCN,Sweden,Male,54
+2008,VC_IHR_PSRCN,Sweden,Both sexes,82
+2008,VC_IHR_PSRCN,Sweden,Female,28
+2009,VC_IHR_PSRCN,Sweden,Both sexes,93
+2009,VC_IHR_PSRCN,Sweden,Female,38
+2009,VC_IHR_PSRCN,Sweden,Male,55
+2010,VC_IHR_PSRCN,Sweden,Both sexes,91
+2010,VC_IHR_PSRCN,Sweden,Female,27
+2010,VC_IHR_PSRCN,Sweden,Male,64
+2011,VC_IHR_PSRCN,Sweden,Both sexes,81
+2011,VC_IHR_PSRCN,Sweden,Female,25
+2011,VC_IHR_PSRCN,Sweden,Male,56
+2012,VC_IHR_PSRCN,Sweden,Both sexes,68
+2012,VC_IHR_PSRCN,Sweden,Male,46
+2012,VC_IHR_PSRCN,Sweden,Female,21
+2013,VC_IHR_PSRCN,Sweden,Male,61
+2013,VC_IHR_PSRCN,Sweden,Both sexes,87
+2013,VC_IHR_PSRCN,Sweden,Female,26
+2014,VC_IHR_PSRCN,Sweden,Female,25
+2014,VC_IHR_PSRCN,Sweden,Both sexes,87
+2014,VC_IHR_PSRCN,Sweden,Male,62
+2015,VC_IHR_PSRCN,Sweden,Female,29
+2015,VC_IHR_PSRCN,Sweden,Male,83
+2015,VC_IHR_PSRCN,Sweden,Both sexes,112
+2016,VC_IHR_PSRCN,Sweden,Male,77
+2016,VC_IHR_PSRCN,Sweden,Female,29
+2016,VC_IHR_PSRCN,Sweden,Both sexes,106
+2012,VC_IHR_PSRCN,Montenegro,Both sexes,17
+2012,VC_IHR_PSRCN,Montenegro,Male,14
+2012,VC_IHR_PSRCN,Montenegro,Female,3
+2013,VC_IHR_PSRCN,Montenegro,Female,1
+2013,VC_IHR_PSRCN,Montenegro,Male,9
+2013,VC_IHR_PSRCN,Montenegro,Both sexes,10
+2014,VC_IHR_PSRCN,Montenegro,Both sexes,20
+2014,VC_IHR_PSRCN,Montenegro,Male,16
+2014,VC_IHR_PSRCN,Montenegro,Female,4
+2015,VC_IHR_PSRCN,Montenegro,Male,14
+2014,VC_IHR_PSRCN,India,Both sexes,47356
+2014,VC_IHR_PSRCN,India,Female,18284
+2014,VC_IHR_PSRCN,India,Male,29072
+2015,VC_IHR_PSRCN,India,Both sexes,44373
+2015,VC_IHR_PSRCN,India,Female,17089
+2015,VC_IHR_PSRCN,India,Male,27284
+2016,VC_IHR_PSRCN,India,Female,17861
+2016,VC_IHR_PSRCN,India,Male,24459
+2016,VC_IHR_PSRCN,India,Both sexes,42320
+2017,VC_IHR_PSRCN,India,Male,23689
+2017,VC_IHR_PSRCN,India,Both sexes,41017
+2017,VC_IHR_PSRCN,India,Female,17328
+2018,VC_IHR_PSRCN,India,Female,17233
+2017,VC_IHR_PSRCN,Sweden,Female,27
+2017,VC_IHR_PSRCN,Sweden,Male,86
+2017,VC_IHR_PSRCN,Sweden,Both sexes,113
+2018,VC_IHR_PSRCN,Sweden,Both sexes,108
+2018,VC_IHR_PSRCN,Sweden,Female,33
+2018,VC_IHR_PSRCN,Sweden,Male,75
+2019,VC_IHR_PSRCN,Sweden,Both sexes,111
+2019,VC_IHR_PSRCN,Sweden,Male,86
+2019,VC_IHR_PSRCN,Sweden,Female,25
+2020,VC_IHR_PSRCN,Sweden,Both sexes,124
+2020,VC_IHR_PSRCN,Sweden,Male,99
+2020,VC_IHR_PSRCN,Sweden,Female,25
+2021,VC_IHR_PSRCN,Sweden,Both sexes,113
+2021,VC_IHR_PSRCN,Sweden,Male,89
+2021,VC_IHR_PSRCN,Sweden,Female,24
+2000,VC_IHR_PSRCN,Switzerland,Male,30
+2000,VC_IHR_PSRCN,Switzerland,Female,39
+2000,VC_IHR_PSRCN,Switzerland,Both sexes,69
+2001,VC_IHR_PSRCN,Switzerland,Both sexes,86
+2001,VC_IHR_PSRCN,Switzerland,Female,37
+2001,VC_IHR_PSRCN,Switzerland,Male,49
+2015,VC_IHR_PSRCN,Montenegro,Female,3
+2015,VC_IHR_PSRCN,Montenegro,Both sexes,17
+2016,VC_IHR_PSRCN,Montenegro,Female,3
+2016,VC_IHR_PSRCN,Montenegro,Both sexes,28
+2016,VC_IHR_PSRCN,Montenegro,Male,25
+2017,VC_IHR_PSRCN,Montenegro,Female,4
+2017,VC_IHR_PSRCN,Montenegro,Male,11
+2017,VC_IHR_PSRCN,Montenegro,Both sexes,15
+2018,VC_IHR_PSRCN,Montenegro,Male,12
+2018,VC_IHR_PSRCN,Montenegro,Female,2
+2018,VC_IHR_PSRCN,Montenegro,Both sexes,14
+2019,VC_IHR_PSRCN,Montenegro,Male,18
+2019,VC_IHR_PSRCN,Montenegro,Female,5
+2019,VC_IHR_PSRCN,Montenegro,Both sexes,23
+2020,VC_IHR_PSRCN,Montenegro,Male,15
+2020,VC_IHR_PSRCN,Montenegro,Female,3
+2020,VC_IHR_PSRCN,Montenegro,Both sexes,18
+2021,VC_IHR_PSRCN,Montenegro,Both sexes,15
+2021,VC_IHR_PSRCN,Montenegro,Male,13
+2021,VC_IHR_PSRCN,Montenegro,Female,2
+2018,VC_IHR_PSRCN,India,Both sexes,40985
+2018,VC_IHR_PSRCN,India,Male,23752
+2019,VC_IHR_PSRCN,India,Male,23241
+2019,VC_IHR_PSRCN,India,Both sexes,40479
+2019,VC_IHR_PSRCN,India,Female,17238
+2020,VC_IHR_PSRCN,India,Male,24268
+2020,VC_IHR_PSRCN,India,Female,16383
+2020,VC_IHR_PSRCN,India,Both sexes,40651
+2021,VC_IHR_PSRCN,India,Both sexes,41330
+2021,VC_IHR_PSRCN,India,Female,17012
+2021,VC_IHR_PSRCN,India,Male,24318
+2000,VC_IHR_PSRCN,Ireland,Both sexes,37
+2000,VC_IHR_PSRCN,Ireland,Male,29
+2000,VC_IHR_PSRCN,Bulgaria,Female,97
+2001,VC_IHR_PSRCN,Bulgaria,Female,62
+2001,VC_IHR_PSRCN,Bulgaria,Both sexes,308
+2001,VC_IHR_PSRCN,Bulgaria,Male,246
+2002,VC_IHR_PSRCN,Bulgaria,Male,198
+2002,VC_IHR_PSRCN,Bulgaria,Both sexes,255
+2002,VC_IHR_PSRCN,Bulgaria,Female,57
+2003,VC_IHR_PSRCN,Bulgaria,Female,52
+2003,VC_IHR_PSRCN,Bulgaria,Male,195
+2003,VC_IHR_PSRCN,Bulgaria,Both sexes,247
+2004,VC_IHR_PSRCN,Bulgaria,Both sexes,244
+2004,VC_IHR_PSRCN,Bulgaria,Male,187
+2000,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,180
+2000,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,60
+2000,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,120
+2001,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,68
+2001,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,202
+2001,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,134
+2002,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,195
+2002,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,61
+2002,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,134
+2003,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,129
+2003,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,73
+2003,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,202
+2004,VC_IHR_PSRCN,Bulgaria,Female,57
+2005,VC_IHR_PSRCN,Bulgaria,Both sexes,199
+2005,VC_IHR_PSRCN,Bulgaria,Female,52
+2005,VC_IHR_PSRCN,Bulgaria,Male,147
+2006,VC_IHR_PSRCN,Bulgaria,Male,132
+2006,VC_IHR_PSRCN,Bulgaria,Female,54
+2006,VC_IHR_PSRCN,Bulgaria,Both sexes,186
+2007,VC_IHR_PSRCN,Bulgaria,Both sexes,177
+2007,VC_IHR_PSRCN,Bulgaria,Female,38
+2007,VC_IHR_PSRCN,Bulgaria,Male,139
+2008,VC_IHR_PSRCN,Bulgaria,Female,36
+2008,VC_IHR_PSRCN,Bulgaria,Both sexes,172
+2008,VC_IHR_PSRCN,Bulgaria,Male,136
+2009,VC_IHR_PSRCN,Bulgaria,Both sexes,150
+2009,VC_IHR_PSRCN,Bulgaria,Female,35
+2009,VC_IHR_PSRCN,Bulgaria,Male,115
+2010,VC_IHR_PSRCN,Bulgaria,Male,121
+2010,VC_IHR_PSRCN,Bulgaria,Female,27
+2010,VC_IHR_PSRCN,Bulgaria,Both sexes,148
+2011,VC_IHR_PSRCN,Bulgaria,Both sexes,128
+2011,VC_IHR_PSRCN,Bulgaria,Female,30
+2011,VC_IHR_PSRCN,Bulgaria,Male,98
+2012,VC_IHR_PSRCN,Bulgaria,Female,37
+2012,VC_IHR_PSRCN,Bulgaria,Both sexes,141
+2012,VC_IHR_PSRCN,Bulgaria,Male,104
+2013,VC_IHR_PSRCN,Bulgaria,Both sexes,109
+2013,VC_IHR_PSRCN,Bulgaria,Female,34
+2013,VC_IHR_PSRCN,Bulgaria,Male,75
+2014,VC_IHR_PSRCN,Bulgaria,Male,86
+2014,VC_IHR_PSRCN,Bulgaria,Female,26
+2004,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,191
+2004,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,138
+2004,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,53
+2005,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,57
+2005,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,117
+2005,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,174
+2006,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,128
+2006,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,49
+2006,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,79
+2007,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,96
+2007,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,143
+2007,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,47
+2008,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,47
+2008,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,150
+2008,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,103
+2009,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,104
+2009,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,154
+2009,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,50
+2010,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,54
+2010,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,90
+2010,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,144
+2011,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,50
+2011,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,143
+2011,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,93
+2012,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,145
+2012,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,50
+2012,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,95
+2013,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,56
+2013,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,69
+2013,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,125
+2014,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,123
+2014,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,93
+2014,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,30
+2015,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,62
+2015,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,42
+2015,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,104
+2016,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,94
+2016,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,62
+2016,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,32
+2002,VC_IHR_PSRCN,Switzerland,Male,37
+2002,VC_IHR_PSRCN,Switzerland,Female,49
+2002,VC_IHR_PSRCN,Switzerland,Both sexes,86
+2003,VC_IHR_PSRCN,Switzerland,Male,34
+2003,VC_IHR_PSRCN,Switzerland,Female,39
+2004,VC_IHR_PSRCN,Switzerland,Male,40
+2004,VC_IHR_PSRCN,Switzerland,Female,38
+2005,VC_IHR_PSRCN,Switzerland,Female,38
+2005,VC_IHR_PSRCN,Switzerland,Male,38
+2006,VC_IHR_PSRCN,Switzerland,Male,22
+2006,VC_IHR_PSRCN,Switzerland,Female,38
+2007,VC_IHR_PSRCN,Switzerland,Female,26
+2017,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,43
+2017,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,89
+2017,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,132
+2018,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,36
+2018,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,100
+2018,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,64
+2019,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,42
+2019,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,67
+2019,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,109
+2020,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,63
+2020,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,44
+2020,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,107
+2021,VC_IHR_PSRCN,Netherlands (Kingdom of the),Both sexes,114
+2021,VC_IHR_PSRCN,Netherlands (Kingdom of the),Male,77
+2021,VC_IHR_PSRCN,Netherlands (Kingdom of the),Female,37
+2000,VC_IHR_PSRCN,New Zealand,Female,21
+2000,VC_IHR_PSRCN,New Zealand,Both sexes,52
+2000,VC_IHR_PSRCN,New Zealand,Male,31
+2001,VC_IHR_PSRCN,New Zealand,Male,30
+2001,VC_IHR_PSRCN,New Zealand,Both sexes,51
+2001,VC_IHR_PSRCN,New Zealand,Female,21
+2002,VC_IHR_PSRCN,New Zealand,Female,27
+2002,VC_IHR_PSRCN,New Zealand,Both sexes,60
+2002,VC_IHR_PSRCN,New Zealand,Male,33
+2003,VC_IHR_PSRCN,New Zealand,Male,30
+2003,VC_IHR_PSRCN,New Zealand,Both sexes,44
+2003,VC_IHR_PSRCN,New Zealand,Female,14
+2004,VC_IHR_PSRCN,New Zealand,Both sexes,45
+2004,VC_IHR_PSRCN,New Zealand,Female,12
+2004,VC_IHR_PSRCN,New Zealand,Male,33
+2005,VC_IHR_PSRCN,New Zealand,Both sexes,61
+2005,VC_IHR_PSRCN,New Zealand,Male,34
+2000,VC_IHR_PSRCN,Ireland,Female,8
+2001,VC_IHR_PSRCN,Ireland,Female,8
+2001,VC_IHR_PSRCN,Ireland,Male,44
+2001,VC_IHR_PSRCN,Ireland,Both sexes,52
+2002,VC_IHR_PSRCN,Ireland,Male,41
+2002,VC_IHR_PSRCN,Ireland,Female,11
+2002,VC_IHR_PSRCN,Ireland,Both sexes,52
+2003,VC_IHR_PSRCN,Ireland,Female,8
+2003,VC_IHR_PSRCN,Ireland,Male,29
+2003,VC_IHR_PSRCN,Ireland,Both sexes,37
+2004,VC_IHR_PSRCN,Ireland,Both sexes,30
+2004,VC_IHR_PSRCN,Ireland,Male,25
+2004,VC_IHR_PSRCN,Ireland,Female,5
+2007,VC_IHR_PSRCN,Switzerland,Male,25
+2008,VC_IHR_PSRCN,Switzerland,Male,29
+2008,VC_IHR_PSRCN,Switzerland,Female,25
+2009,VC_IHR_PSRCN,Switzerland,Female,27
+2009,VC_IHR_PSRCN,Switzerland,Male,24
+2009,VC_IHR_PSRCN,Switzerland,Both sexes,51
+2010,VC_IHR_PSRCN,Switzerland,Female,26
+2010,VC_IHR_PSRCN,Switzerland,Both sexes,52
+2010,VC_IHR_PSRCN,Switzerland,Male,26
+2011,VC_IHR_PSRCN,Switzerland,Female,23
+2005,VC_IHR_PSRCN,Ireland,Female,8
+2005,VC_IHR_PSRCN,Ireland,Male,44
+2005,VC_IHR_PSRCN,Ireland,Both sexes,52
+2006,VC_IHR_PSRCN,Ireland,Both sexes,62
+2006,VC_IHR_PSRCN,Ireland,Male,46
+2006,VC_IHR_PSRCN,Ireland,Female,16
+2007,VC_IHR_PSRCN,Ireland,Male,67
+2007,VC_IHR_PSRCN,Ireland,Female,11
+2007,VC_IHR_PSRCN,Ireland,Both sexes,78
+2008,VC_IHR_PSRCN,Ireland,Male,41
+2008,VC_IHR_PSRCN,Ireland,Female,10
+2008,VC_IHR_PSRCN,Ireland,Both sexes,51
+2009,VC_IHR_PSRCN,Ireland,Female,10
+2009,VC_IHR_PSRCN,Ireland,Male,43
+2009,VC_IHR_PSRCN,Ireland,Both sexes,53
+2010,VC_IHR_PSRCN,Ireland,Both sexes,55
+2010,VC_IHR_PSRCN,Ireland,Male,48
+2010,VC_IHR_PSRCN,Ireland,Female,7
+2011,VC_IHR_PSRCN,Ireland,Female,2
+2011,VC_IHR_PSRCN,Ireland,Male,40
+2011,VC_IHR_PSRCN,Ireland,Both sexes,42
+2012,VC_IHR_PSRCN,Ireland,Both sexes,52
+2012,VC_IHR_PSRCN,Ireland,Male,39
+2012,VC_IHR_PSRCN,Ireland,Female,13
+2013,VC_IHR_PSRCN,Ireland,Both sexes,51
+2013,VC_IHR_PSRCN,Ireland,Female,8
+2013,VC_IHR_PSRCN,Ireland,Male,43
+2015,VC_IHR_PSRCN,Ireland,Both sexes,31
+2015,VC_IHR_PSRCN,Ireland,Male,23
+2015,VC_IHR_PSRCN,Ireland,Female,7
+2016,VC_IHR_PSRCN,Ireland,Female,2
+2016,VC_IHR_PSRCN,Ireland,Male,32
+2016,VC_IHR_PSRCN,Ireland,Both sexes,34
+2017,VC_IHR_PSRCN,Ireland,Both sexes,39
+2017,VC_IHR_PSRCN,Ireland,Male,24
+2017,VC_IHR_PSRCN,Ireland,Female,15
+2018,VC_IHR_PSRCN,Ireland,Both sexes,39
+2018,VC_IHR_PSRCN,Ireland,Female,10
+2018,VC_IHR_PSRCN,Ireland,Male,29
+2019,VC_IHR_PSRCN,Ireland,Male,24
+2019,VC_IHR_PSRCN,Ireland,Female,8
+2019,VC_IHR_PSRCN,Ireland,Both sexes,32
+2020,VC_IHR_PSRCN,Ireland,Both sexes,33
+2020,VC_IHR_PSRCN,Ireland,Female,6
+2020,VC_IHR_PSRCN,Ireland,Male,27
+2021,VC_IHR_PSRCN,Ireland,Male,15
+2021,VC_IHR_PSRCN,Ireland,Female,7
+2021,VC_IHR_PSRCN,Ireland,Both sexes,22
+2000,VC_IHR_PSRCN,Israel,Female,39
+2000,VC_IHR_PSRCN,Israel,Both sexes,154
+2000,VC_IHR_PSRCN,Israel,Male,115
+2001,VC_IHR_PSRCN,Israel,Male,155
+2001,VC_IHR_PSRCN,Israel,Both sexes,193
+2001,VC_IHR_PSRCN,Israel,Female,38
+2011,VC_IHR_PSRCN,Switzerland,Male,23
+2011,VC_IHR_PSRCN,Switzerland,Both sexes,46
+2012,VC_IHR_PSRCN,Switzerland,Both sexes,45
+2012,VC_IHR_PSRCN,Switzerland,Female,17
+2012,VC_IHR_PSRCN,Switzerland,Male,28
+2013,VC_IHR_PSRCN,Switzerland,Female,32
+2013,VC_IHR_PSRCN,Switzerland,Male,25
+2013,VC_IHR_PSRCN,Switzerland,Both sexes,57
+2014,VC_IHR_PSRCN,Switzerland,Female,24
+2014,VC_IHR_PSRCN,Switzerland,Both sexes,41
+2014,VC_IHR_PSRCN,Switzerland,Male,17
+2015,VC_IHR_PSRCN,Switzerland,Female,30
+2015,VC_IHR_PSRCN,Switzerland,Male,27
+2015,VC_IHR_PSRCN,Switzerland,Both sexes,57
+2016,VC_IHR_PSRCN,Switzerland,Both sexes,45
+2016,VC_IHR_PSRCN,Switzerland,Male,20
+2016,VC_IHR_PSRCN,Switzerland,Female,25
+2017,VC_IHR_PSRCN,Switzerland,Female,20
+2002,VC_IHR_PSRCN,Israel,Female,37
+2002,VC_IHR_PSRCN,Israel,Both sexes,208
+2002,VC_IHR_PSRCN,Israel,Male,171
+2003,VC_IHR_PSRCN,Israel,Male,135
+2003,VC_IHR_PSRCN,Israel,Both sexes,171
+2003,VC_IHR_PSRCN,Israel,Female,36
+2004,VC_IHR_PSRCN,Israel,Female,31
+2004,VC_IHR_PSRCN,Israel,Both sexes,159
+2004,VC_IHR_PSRCN,Israel,Male,128
+2005,VC_IHR_PSRCN,Israel,Male,121
+2005,VC_IHR_PSRCN,Israel,Female,48
+2005,VC_IHR_PSRCN,Israel,Both sexes,169
+2006,VC_IHR_PSRCN,Israel,Both sexes,153
+2006,VC_IHR_PSRCN,Israel,Female,37
+2006,VC_IHR_PSRCN,Israel,Male,116
+2007,VC_IHR_PSRCN,Israel,Male,108
+2007,VC_IHR_PSRCN,Israel,Female,27
+2007,VC_IHR_PSRCN,Israel,Both sexes,135
+2008,VC_IHR_PSRCN,Israel,Both sexes,120
+2008,VC_IHR_PSRCN,Israel,Male,91
+2008,VC_IHR_PSRCN,Israel,Female,29
+2009,VC_IHR_PSRCN,Israel,Male,117
+2009,VC_IHR_PSRCN,Israel,Female,27
+2009,VC_IHR_PSRCN,Israel,Both sexes,144
+2010,VC_IHR_PSRCN,Israel,Female,32
+2010,VC_IHR_PSRCN,Israel,Both sexes,150
+2010,VC_IHR_PSRCN,Israel,Male,118
+2011,VC_IHR_PSRCN,Israel,Both sexes,147
+2011,VC_IHR_PSRCN,Israel,Male,113
+2011,VC_IHR_PSRCN,Israel,Female,34
+2012,VC_IHR_PSRCN,Israel,Male,104
+2012,VC_IHR_PSRCN,Israel,Female,24
+2012,VC_IHR_PSRCN,Israel,Both sexes,128
+2013,VC_IHR_PSRCN,Israel,Both sexes,127
+2013,VC_IHR_PSRCN,Israel,Male,92
+2013,VC_IHR_PSRCN,Israel,Female,35
+2014,VC_IHR_PSRCN,Bulgaria,Both sexes,112
+2015,VC_IHR_PSRCN,Bulgaria,Both sexes,126
+2015,VC_IHR_PSRCN,Bulgaria,Female,29
+2015,VC_IHR_PSRCN,Bulgaria,Male,97
+2016,VC_IHR_PSRCN,Bulgaria,Male,57
+2016,VC_IHR_PSRCN,Bulgaria,Both sexes,79
+2016,VC_IHR_PSRCN,Bulgaria,Female,22
+2017,VC_IHR_PSRCN,Bulgaria,Both sexes,103
+2017,VC_IHR_PSRCN,Bulgaria,Male,68
+2017,VC_IHR_PSRCN,Bulgaria,Female,35
+2018,VC_IHR_PSRCN,Bulgaria,Female,38
+2018,VC_IHR_PSRCN,Bulgaria,Male,54
+2018,VC_IHR_PSRCN,Bulgaria,Both sexes,92
+2019,VC_IHR_PSRCN,Bulgaria,Female,23
+2019,VC_IHR_PSRCN,Bulgaria,Both sexes,83
+2019,VC_IHR_PSRCN,Bulgaria,Male,60
+2020,VC_IHR_PSRCN,Bulgaria,Male,43
+2020,VC_IHR_PSRCN,Bulgaria,Both sexes,69
+2020,VC_IHR_PSRCN,Bulgaria,Female,26
+2021,VC_IHR_PSRCN,Bulgaria,Female,28
+2014,VC_IHR_PSRCN,Israel,Female,23
+2014,VC_IHR_PSRCN,Israel,Both sexes,108
+2014,VC_IHR_PSRCN,Israel,Male,85
+2015,VC_IHR_PSRCN,Israel,Female,24
+2015,VC_IHR_PSRCN,Israel,Male,86
+2015,VC_IHR_PSRCN,Israel,Both sexes,110
+2016,VC_IHR_PSRCN,Israel,Both sexes,104
+2016,VC_IHR_PSRCN,Israel,Male,81
+2016,VC_IHR_PSRCN,Israel,Female,23
+2017,VC_IHR_PSRCN,Israel,Female,23
+2021,VC_IHR_PSRCN,Bulgaria,Male,60
+2021,VC_IHR_PSRCN,Bulgaria,Both sexes,88
+2000,VC_IHR_PSRCN,Belarus,Both sexes,1013
+2001,VC_IHR_PSRCN,Belarus,Both sexes,969
+2002,VC_IHR_PSRCN,Belarus,Both sexes,989
+2007,VC_IHR_PSRCN,Belarus,Both sexes,649
+2007,VC_IHR_PSRCN,Belarus,Male,427
+2007,VC_IHR_PSRCN,Belarus,Female,222
+2008,VC_IHR_PSRCN,Belarus,Female,183
+2008,VC_IHR_PSRCN,Belarus,Male,369
+2017,VC_IHR_PSRCN,Israel,Male,100
+2017,VC_IHR_PSRCN,Israel,Both sexes,123
+2018,VC_IHR_PSRCN,Israel,Male,90
+2018,VC_IHR_PSRCN,Israel,Female,26
+2018,VC_IHR_PSRCN,Israel,Both sexes,116
+2019,VC_IHR_PSRCN,Israel,Male,113
+2019,VC_IHR_PSRCN,Israel,Both sexes,132
+2019,VC_IHR_PSRCN,Israel,Female,19
+2020,VC_IHR_PSRCN,Israel,Both sexes,125
+2020,VC_IHR_PSRCN,Israel,Male,102
+2017,VC_IHR_PSRCN,Switzerland,Male,25
+2017,VC_IHR_PSRCN,Switzerland,Both sexes,45
+2018,VC_IHR_PSRCN,Switzerland,Female,28
+2018,VC_IHR_PSRCN,Switzerland,Both sexes,50
+2018,VC_IHR_PSRCN,Switzerland,Male,22
+2019,VC_IHR_PSRCN,Switzerland,Female,26
+2019,VC_IHR_PSRCN,Switzerland,Male,20
+2019,VC_IHR_PSRCN,Switzerland,Both sexes,46
+2020,VC_IHR_PSRCN,Switzerland,Female,27
+2020,VC_IHR_PSRCN,Switzerland,Both sexes,47
+2020,VC_IHR_PSRCN,Switzerland,Male,20
+2021,VC_IHR_PSRCN,Switzerland,Both sexes,42
+2021,VC_IHR_PSRCN,Switzerland,Male,17
+2021,VC_IHR_PSRCN,Switzerland,Female,25
+2000,VC_IHR_PSRCN,Tajikistan,Both sexes,283
+2001,VC_IHR_PSRCN,Tajikistan,Both sexes,233
+2002,VC_IHR_PSRCN,Tajikistan,Both sexes,180
+2003,VC_IHR_PSRCN,Tajikistan,Both sexes,164
+2004,VC_IHR_PSRCN,Tajikistan,Both sexes,142
+2005,VC_IHR_PSRCN,Tajikistan,Both sexes,157
+2020,VC_IHR_PSRCN,Israel,Female,23
+2021,VC_IHR_PSRCN,Israel,Female,27
+2021,VC_IHR_PSRCN,Israel,Male,146
+2021,VC_IHR_PSRCN,Israel,Both sexes,173
+2000,VC_IHR_PSRCN,Italy,Male,575
+2000,VC_IHR_PSRCN,Italy,Female,191
+2000,VC_IHR_PSRCN,Italy,Both sexes,766
+2001,VC_IHR_PSRCN,Italy,Both sexes,709
+2001,VC_IHR_PSRCN,Italy,Male,538
+2001,VC_IHR_PSRCN,Italy,Female,171
+2002,VC_IHR_PSRCN,Italy,Female,183
+2008,VC_IHR_PSRCN,Belarus,Both sexes,552
+2009,VC_IHR_PSRCN,Belarus,Female,198
+2009,VC_IHR_PSRCN,Belarus,Both sexes,487
+2009,VC_IHR_PSRCN,Belarus,Male,289
+2010,VC_IHR_PSRCN,Belarus,Both sexes,401
+2010,VC_IHR_PSRCN,Belarus,Female,136
+2010,VC_IHR_PSRCN,Belarus,Male,265
+2011,VC_IHR_PSRCN,Belarus,Male,256
+2011,VC_IHR_PSRCN,Belarus,Both sexes,373
+2011,VC_IHR_PSRCN,Belarus,Female,117
+2002,VC_IHR_PSRCN,Italy,Both sexes,644
+2002,VC_IHR_PSRCN,Italy,Male,461
+2003,VC_IHR_PSRCN,Italy,Female,198
+2003,VC_IHR_PSRCN,Italy,Male,521
+2005,VC_IHR_PSRCN,Italy,Both sexes,610
+2005,VC_IHR_PSRCN,Italy,Female,136
+2005,VC_IHR_PSRCN,Italy,Male,474
+2006,VC_IHR_PSRCN,Italy,Both sexes,625
+2006,VC_IHR_PSRCN,Italy,Male,447
+2006,VC_IHR_PSRCN,Italy,Female,178
+2012,VC_IHR_PSRCN,Belarus,Female,126
+2012,VC_IHR_PSRCN,Belarus,Both sexes,340
+2012,VC_IHR_PSRCN,Belarus,Male,214
+2013,VC_IHR_PSRCN,Belarus,Both sexes,333
+2013,VC_IHR_PSRCN,Belarus,Female,103
+2013,VC_IHR_PSRCN,Belarus,Male,230
+2014,VC_IHR_PSRCN,Belarus,Female,116
+2014,VC_IHR_PSRCN,Belarus,Both sexes,340
+2014,VC_IHR_PSRCN,Belarus,Male,224
+2015,VC_IHR_PSRCN,Belarus,Male,210
+2007,VC_IHR_PSRCN,Italy,Female,150
+2007,VC_IHR_PSRCN,Italy,Both sexes,631
+2007,VC_IHR_PSRCN,Italy,Male,481
+2008,VC_IHR_PSRCN,Italy,Both sexes,615
+2008,VC_IHR_PSRCN,Italy,Female,148
+2008,VC_IHR_PSRCN,Italy,Male,467
+2009,VC_IHR_PSRCN,Italy,Both sexes,590
+2009,VC_IHR_PSRCN,Italy,Male,417
+2009,VC_IHR_PSRCN,Italy,Female,173
+2010,VC_IHR_PSRCN,Italy,Both sexes,529
+2015,VC_IHR_PSRCN,Belarus,Both sexes,326
+2015,VC_IHR_PSRCN,Belarus,Female,116
+2016,VC_IHR_PSRCN,Belarus,Female,106
+2016,VC_IHR_PSRCN,Belarus,Male,201
+2016,VC_IHR_PSRCN,Belarus,Both sexes,307
+2017,VC_IHR_PSRCN,Belarus,Female,94
+2017,VC_IHR_PSRCN,Belarus,Male,146
+2017,VC_IHR_PSRCN,Belarus,Both sexes,240
+2018,VC_IHR_PSRCN,Belarus,Male,142
+2018,VC_IHR_PSRCN,Belarus,Female,84
+2006,VC_IHR_PSRCN,Tajikistan,Female,40
+2006,VC_IHR_PSRCN,Tajikistan,Male,154
+2006,VC_IHR_PSRCN,Tajikistan,Both sexes,194
+2007,VC_IHR_PSRCN,Tajikistan,Both sexes,132
+2007,VC_IHR_PSRCN,Tajikistan,Male,99
+2007,VC_IHR_PSRCN,Tajikistan,Female,33
+2008,VC_IHR_PSRCN,Tajikistan,Male,62
+2008,VC_IHR_PSRCN,Tajikistan,Female,38
+2008,VC_IHR_PSRCN,Tajikistan,Both sexes,100
+2009,VC_IHR_PSRCN,Tajikistan,Both sexes,97
+2010,VC_IHR_PSRCN,Italy,Male,375
+2010,VC_IHR_PSRCN,Italy,Female,154
+2011,VC_IHR_PSRCN,Italy,Female,166
+2011,VC_IHR_PSRCN,Italy,Both sexes,552
+2011,VC_IHR_PSRCN,Italy,Male,386
+2012,VC_IHR_PSRCN,Italy,Male,367
+2012,VC_IHR_PSRCN,Italy,Both sexes,530
+2012,VC_IHR_PSRCN,Italy,Female,163
+2013,VC_IHR_PSRCN,Italy,Female,179
+2013,VC_IHR_PSRCN,Italy,Male,323
+2005,VC_IHR_PSRCN,New Zealand,Female,27
+2006,VC_IHR_PSRCN,New Zealand,Female,17
+2006,VC_IHR_PSRCN,New Zealand,Both sexes,49
+2006,VC_IHR_PSRCN,New Zealand,Male,32
+2007,VC_IHR_PSRCN,New Zealand,Female,19
+2007,VC_IHR_PSRCN,New Zealand,Male,29
+2007,VC_IHR_PSRCN,New Zealand,Both sexes,48
+2008,VC_IHR_PSRCN,New Zealand,Both sexes,51
+2008,VC_IHR_PSRCN,New Zealand,Male,28
+2008,VC_IHR_PSRCN,New Zealand,Female,23
+2009,VC_IHR_PSRCN,New Zealand,Both sexes,67
+2009,VC_IHR_PSRCN,New Zealand,Male,42
+2009,VC_IHR_PSRCN,New Zealand,Female,25
+2010,VC_IHR_PSRCN,New Zealand,Both sexes,43
+2010,VC_IHR_PSRCN,New Zealand,Female,23
+2010,VC_IHR_PSRCN,New Zealand,Male,20
+2011,VC_IHR_PSRCN,New Zealand,Female,15
+2011,VC_IHR_PSRCN,New Zealand,Male,24
+2011,VC_IHR_PSRCN,New Zealand,Both sexes,39
+2012,VC_IHR_PSRCN,New Zealand,Both sexes,41
+2013,VC_IHR_PSRCN,Italy,Both sexes,502
+2014,VC_IHR_PSRCN,Italy,Both sexes,475
+2014,VC_IHR_PSRCN,Italy,Male,328
+2014,VC_IHR_PSRCN,Italy,Female,147
+2015,VC_IHR_PSRCN,Italy,Female,136
+2015,VC_IHR_PSRCN,Italy,Male,333
+2015,VC_IHR_PSRCN,Italy,Both sexes,469
+2016,VC_IHR_PSRCN,Italy,Both sexes,404
+2016,VC_IHR_PSRCN,Italy,Female,151
+2016,VC_IHR_PSRCN,Italy,Male,253
+2017,VC_IHR_PSRCN,Italy,Both sexes,376
+2017,VC_IHR_PSRCN,Italy,Female,132
+2017,VC_IHR_PSRCN,Italy,Male,244
+2018,VC_IHR_PSRCN,Italy,Male,218
+2018,VC_IHR_PSRCN,Italy,Both sexes,359
+2018,VC_IHR_PSRCN,Italy,Female,141
+2019,VC_IHR_PSRCN,Italy,Female,111
+2019,VC_IHR_PSRCN,Italy,Both sexes,317
+2019,VC_IHR_PSRCN,Italy,Male,206
+2009,VC_IHR_PSRCN,Tajikistan,Female,24
+2009,VC_IHR_PSRCN,Tajikistan,Male,73
+2010,VC_IHR_PSRCN,Tajikistan,Male,158
+2010,VC_IHR_PSRCN,Tajikistan,Female,23
+2010,VC_IHR_PSRCN,Tajikistan,Both sexes,181
+2011,VC_IHR_PSRCN,Tajikistan,Both sexes,126
+2011,VC_IHR_PSRCN,Tajikistan,Female,17
+2011,VC_IHR_PSRCN,Tajikistan,Male,109
+2020,VC_IHR_PSRCN,Tajikistan,Both sexes,87
+2020,VC_IHR_PSRCN,Tajikistan,Male,77
+2020,VC_IHR_PSRCN,Italy,Female,116
+2020,VC_IHR_PSRCN,Italy,Male,169
+2020,VC_IHR_PSRCN,Italy,Both sexes,285
+2021,VC_IHR_PSRCN,Italy,Both sexes,303
+2021,VC_IHR_PSRCN,Italy,Female,119
+2021,VC_IHR_PSRCN,Italy,Male,184
+2000,VC_IHR_PSRCN,Japan,Male,348
+2000,VC_IHR_PSRCN,Japan,Female,330
+2000,VC_IHR_PSRCN,Japan,Both sexes,678
+2001,VC_IHR_PSRCN,Japan,Both sexes,697
+2001,VC_IHR_PSRCN,Japan,Female,315
+2001,VC_IHR_PSRCN,Japan,Male,382
+2002,VC_IHR_PSRCN,Japan,Male,347
+2002,VC_IHR_PSRCN,Japan,Female,315
+2002,VC_IHR_PSRCN,Japan,Both sexes,662
+2003,VC_IHR_PSRCN,Japan,Both sexes,697
+2003,VC_IHR_PSRCN,Japan,Female,318
+2003,VC_IHR_PSRCN,Japan,Male,379
+2004,VC_IHR_PSRCN,Japan,Male,366
+2004,VC_IHR_PSRCN,Japan,Female,333
+2012,VC_IHR_PSRCN,New Zealand,Male,20
+2012,VC_IHR_PSRCN,New Zealand,Female,21
+2013,VC_IHR_PSRCN,New Zealand,Male,34
+2013,VC_IHR_PSRCN,New Zealand,Female,12
+2013,VC_IHR_PSRCN,New Zealand,Both sexes,46
+2014,VC_IHR_PSRCN,New Zealand,Both sexes,43
+2014,VC_IHR_PSRCN,New Zealand,Male,29
+2014,VC_IHR_PSRCN,New Zealand,Female,14
+2015,VC_IHR_PSRCN,New Zealand,Female,16
+2015,VC_IHR_PSRCN,New Zealand,Both sexes,48
+2004,VC_IHR_PSRCN,Japan,Both sexes,699
+2005,VC_IHR_PSRCN,Japan,Female,319
+2005,VC_IHR_PSRCN,Japan,Male,324
+2005,VC_IHR_PSRCN,Japan,Both sexes,643
+2006,VC_IHR_PSRCN,Japan,Male,295
+2006,VC_IHR_PSRCN,Japan,Female,324
+2006,VC_IHR_PSRCN,Japan,Both sexes,619
+2007,VC_IHR_PSRCN,Japan,Male,292
+2007,VC_IHR_PSRCN,Japan,Both sexes,574
+2007,VC_IHR_PSRCN,Japan,Female,282
+2020,VC_IHR_PSRCN,Tajikistan,Female,10
+2010,VC_IHR_PSRCN,United Arab Emirates,Both sexes,67
+2010,VC_IHR_PSRCN,United Arab Emirates,Male,49
+2010,VC_IHR_PSRCN,United Arab Emirates,Female,18
+2011,VC_IHR_PSRCN,United Arab Emirates,Both sexes,51
+2011,VC_IHR_PSRCN,United Arab Emirates,Female,15
+2011,VC_IHR_PSRCN,United Arab Emirates,Male,36
+2012,VC_IHR_PSRCN,United Arab Emirates,Male,52
+2012,VC_IHR_PSRCN,United Arab Emirates,Female,17
+2012,VC_IHR_PSRCN,United Arab Emirates,Both sexes,69
+2013,VC_IHR_PSRCN,United Arab Emirates,Both sexes,57
+2013,VC_IHR_PSRCN,United Arab Emirates,Female,18
+2013,VC_IHR_PSRCN,United Arab Emirates,Male,39
+2014,VC_IHR_PSRCN,United Arab Emirates,Both sexes,61
+2014,VC_IHR_PSRCN,United Arab Emirates,Female,16
+2014,VC_IHR_PSRCN,United Arab Emirates,Male,45
+2015,VC_IHR_PSRCN,United Arab Emirates,Both sexes,60
+2015,VC_IHR_PSRCN,United Arab Emirates,Male,50
+2018,VC_IHR_PSRCN,Belarus,Both sexes,226
+2019,VC_IHR_PSRCN,Belarus,Both sexes,225
+2019,VC_IHR_PSRCN,Belarus,Female,87
+2019,VC_IHR_PSRCN,Belarus,Male,138
+2000,VC_IHR_PSRCN,Canada,Male,397
+2000,VC_IHR_PSRCN,Canada,Both sexes,546
+2000,VC_IHR_PSRCN,Canada,Female,149
+2001,VC_IHR_PSRCN,Canada,Both sexes,554
+2001,VC_IHR_PSRCN,Canada,Male,392
+2001,VC_IHR_PSRCN,Canada,Female,162
+2015,VC_IHR_PSRCN,New Zealand,Male,32
+2016,VC_IHR_PSRCN,New Zealand,Male,28
+2016,VC_IHR_PSRCN,New Zealand,Both sexes,50
+2016,VC_IHR_PSRCN,New Zealand,Female,22
+2017,VC_IHR_PSRCN,New Zealand,Female,13
+2017,VC_IHR_PSRCN,New Zealand,Both sexes,35
+2017,VC_IHR_PSRCN,New Zealand,Male,22
+2018,VC_IHR_PSRCN,New Zealand,Male,50
+2018,VC_IHR_PSRCN,New Zealand,Female,25
+2018,VC_IHR_PSRCN,New Zealand,Both sexes,75
+2008,VC_IHR_PSRCN,Japan,Both sexes,654
+2008,VC_IHR_PSRCN,Japan,Male,315
+2008,VC_IHR_PSRCN,Japan,Female,339
+2009,VC_IHR_PSRCN,Japan,Female,253
+2009,VC_IHR_PSRCN,Japan,Both sexes,506
+2009,VC_IHR_PSRCN,Japan,Male,253
+2010,VC_IHR_PSRCN,Japan,Male,228
+2010,VC_IHR_PSRCN,Japan,Both sexes,465
+2010,VC_IHR_PSRCN,Japan,Female,237
+2011,VC_IHR_PSRCN,Japan,Female,234
+2011,VC_IHR_PSRCN,Japan,Male,208
+2011,VC_IHR_PSRCN,Japan,Both sexes,442
+2012,VC_IHR_PSRCN,Japan,Female,240
+2012,VC_IHR_PSRCN,Japan,Male,189
+2012,VC_IHR_PSRCN,Japan,Both sexes,429
+2013,VC_IHR_PSRCN,Japan,Male,179
+2013,VC_IHR_PSRCN,Japan,Female,191
+2013,VC_IHR_PSRCN,Japan,Both sexes,370
+2014,VC_IHR_PSRCN,Japan,Female,206
+2014,VC_IHR_PSRCN,Japan,Male,189
+2014,VC_IHR_PSRCN,Japan,Both sexes,395
+2015,VC_IHR_PSRCN,Japan,Both sexes,363
+2015,VC_IHR_PSRCN,Japan,Male,145
+2015,VC_IHR_PSRCN,Japan,Female,218
+2016,VC_IHR_PSRCN,Japan,Male,165
+2016,VC_IHR_PSRCN,Japan,Female,197
+2016,VC_IHR_PSRCN,Japan,Both sexes,362
+2017,VC_IHR_PSRCN,Japan,Both sexes,306
+2017,VC_IHR_PSRCN,Japan,Male,133
+2017,VC_IHR_PSRCN,Japan,Female,173
+2018,VC_IHR_PSRCN,Japan,Female,179
+2018,VC_IHR_PSRCN,Japan,Male,155
+2018,VC_IHR_PSRCN,Japan,Both sexes,334
+2019,VC_IHR_PSRCN,Japan,Male,138
+2019,VC_IHR_PSRCN,Japan,Both sexes,319
+2019,VC_IHR_PSRCN,Japan,Female,181
+2020,VC_IHR_PSRCN,Japan,Female,187
+2020,VC_IHR_PSRCN,Japan,Both sexes,318
+2020,VC_IHR_PSRCN,Japan,Male,131
+2021,VC_IHR_PSRCN,Japan,Male,151
+2021,VC_IHR_PSRCN,Japan,Female,134
+2021,VC_IHR_PSRCN,Japan,Both sexes,285
+2015,VC_IHR_PSRCN,United Arab Emirates,Female,10
+2019,VC_IHR_PSRCN,United Arab Emirates,Male,43
+2019,VC_IHR_PSRCN,United Arab Emirates,Both sexes,64
+2019,VC_IHR_PSRCN,United Arab Emirates,Female,21
+2020,VC_IHR_PSRCN,United Arab Emirates,Male,51
+2020,VC_IHR_PSRCN,United Arab Emirates,Female,14
+2020,VC_IHR_PSRCN,United Arab Emirates,Both sexes,65
+2021,VC_IHR_PSRCN,United Arab Emirates,Male,34
+2021,VC_IHR_PSRCN,United Arab Emirates,Both sexes,44
+2000,VC_IHR_PSRCN,Kazakhstan,Both sexes,2325
+2001,VC_IHR_PSRCN,Kazakhstan,Both sexes,2160
+2002,VC_IHR_PSRCN,Kazakhstan,Both sexes,1967
+2003,VC_IHR_PSRCN,Kazakhstan,Both sexes,1991
+2004,VC_IHR_PSRCN,Kazakhstan,Both sexes,2091
+2008,VC_IHR_PSRCN,Kazakhstan,Male,1444
+2008,VC_IHR_PSRCN,Kazakhstan,Both sexes,1807
+2008,VC_IHR_PSRCN,Kazakhstan,Female,363
+2009,VC_IHR_PSRCN,Kazakhstan,Female,416
+2009,VC_IHR_PSRCN,Kazakhstan,Male,1355
+2009,VC_IHR_PSRCN,Kazakhstan,Both sexes,1771
+2021,VC_IHR_PSRCN,United Arab Emirates,Female,10
+2003,VC_IHR_PSRCN,Türkiye,Both sexes,2837
+2003,VC_IHR_PSRCN,Türkiye,Female,588
+2003,VC_IHR_PSRCN,Türkiye,Male,2249
+2004,VC_IHR_PSRCN,Türkiye,Male,2309
+2004,VC_IHR_PSRCN,Türkiye,Female,605
+2004,VC_IHR_PSRCN,Türkiye,Both sexes,2914
+2005,VC_IHR_PSRCN,Türkiye,Female,608
+2005,VC_IHR_PSRCN,Türkiye,Both sexes,3305
+2005,VC_IHR_PSRCN,Türkiye,Male,2697
+2006,VC_IHR_PSRCN,Türkiye,Male,2617
+2010,VC_IHR_PSRCN,Kazakhstan,Both sexes,1387
+2010,VC_IHR_PSRCN,Kazakhstan,Male,1043
+2010,VC_IHR_PSRCN,Kazakhstan,Female,344
+2011,VC_IHR_PSRCN,Kazakhstan,Female,329
+2011,VC_IHR_PSRCN,Kazakhstan,Male,1091
+2011,VC_IHR_PSRCN,Kazakhstan,Both sexes,1420
+2012,VC_IHR_PSRCN,Kazakhstan,Male,990
+2012,VC_IHR_PSRCN,Kazakhstan,Both sexes,1266
+2012,VC_IHR_PSRCN,Kazakhstan,Female,276
+2019,VC_IHR_PSRCN,New Zealand,Female,33
+2019,VC_IHR_PSRCN,New Zealand,Both sexes,129
+2019,VC_IHR_PSRCN,New Zealand,Male,96
+2000,VC_IHR_PSRCN,Norway,Male,26
+2000,VC_IHR_PSRCN,Norway,Both sexes,48
+2000,VC_IHR_PSRCN,Norway,Female,22
+2001,VC_IHR_PSRCN,Norway,Both sexes,37
+2001,VC_IHR_PSRCN,Norway,Male,22
+2001,VC_IHR_PSRCN,Norway,Female,15
+2002,VC_IHR_PSRCN,Norway,Female,15
+2002,VC_IHR_PSRCN,Norway,Male,31
+2002,VC_IHR_PSRCN,Norway,Both sexes,46
+2013,VC_IHR_PSRCN,Kazakhstan,Male,840
+2013,VC_IHR_PSRCN,Kazakhstan,Female,280
+2013,VC_IHR_PSRCN,Kazakhstan,Both sexes,1120
+2014,VC_IHR_PSRCN,Kazakhstan,Both sexes,904
+2014,VC_IHR_PSRCN,Kazakhstan,Female,204
+2014,VC_IHR_PSRCN,Kazakhstan,Male,700
+2015,VC_IHR_PSRCN,Kazakhstan,Male,602
+2015,VC_IHR_PSRCN,Kazakhstan,Female,251
+2015,VC_IHR_PSRCN,Kazakhstan,Both sexes,853
+2006,VC_IHR_PSRCN,Türkiye,Both sexes,3168
+2006,VC_IHR_PSRCN,Türkiye,Female,551
+2007,VC_IHR_PSRCN,Türkiye,Both sexes,3599
+2007,VC_IHR_PSRCN,Türkiye,Female,615
+2007,VC_IHR_PSRCN,Türkiye,Male,2984
+2008,VC_IHR_PSRCN,Türkiye,Female,570
+2008,VC_IHR_PSRCN,Türkiye,Male,2687
+2008,VC_IHR_PSRCN,Türkiye,Both sexes,3257
+2010,VC_IHR_PSRCN,Türkiye,Both sexes,3064
+2010,VC_IHR_PSRCN,Türkiye,Male,2430
+2002,VC_IHR_PSRCN,Canada,Both sexes,582
+2002,VC_IHR_PSRCN,Canada,Female,207
+2002,VC_IHR_PSRCN,Canada,Male,375
+2003,VC_IHR_PSRCN,Canada,Male,393
+2003,VC_IHR_PSRCN,Canada,Female,156
+2003,VC_IHR_PSRCN,Canada,Both sexes,549
+2004,VC_IHR_PSRCN,Canada,Both sexes,625
+2004,VC_IHR_PSRCN,Canada,Male,425
+2004,VC_IHR_PSRCN,Canada,Female,200
+2005,VC_IHR_PSRCN,Canada,Female,180
+2017,VC_IHR_PSRCN,Kazakhstan,Male,694
+2017,VC_IHR_PSRCN,Kazakhstan,Both sexes,915
+2017,VC_IHR_PSRCN,Kazakhstan,Female,221
+2020,VC_IHR_PSRCN,Kazakhstan,Both sexes,606
+2020,VC_IHR_PSRCN,Kazakhstan,Male,456
+2020,VC_IHR_PSRCN,Kazakhstan,Female,150
+2000,VC_IHR_PSRCN,Republic of Korea,Both sexes,370
+2001,VC_IHR_PSRCN,Republic of Korea,Both sexes,407
+2002,VC_IHR_PSRCN,Republic of Korea,Both sexes,371
+2003,VC_IHR_PSRCN,Republic of Korea,Both sexes,387
+2010,VC_IHR_PSRCN,Türkiye,Female,634
+2011,VC_IHR_PSRCN,Türkiye,Male,2432
+2011,VC_IHR_PSRCN,Türkiye,Both sexes,3061
+2011,VC_IHR_PSRCN,Türkiye,Female,629
+2012,VC_IHR_PSRCN,Türkiye,Both sexes,3216
+2012,VC_IHR_PSRCN,Türkiye,Male,2610
+2012,VC_IHR_PSRCN,Türkiye,Female,606
+2015,VC_IHR_PSRCN,Türkiye,Female,412
+2015,VC_IHR_PSRCN,Türkiye,Male,1818
+2015,VC_IHR_PSRCN,Türkiye,Both sexes,2235
+2004,VC_IHR_PSRCN,Republic of Korea,Both sexes,420
+2005,VC_IHR_PSRCN,Republic of Korea,Both sexes,411
+2006,VC_IHR_PSRCN,Republic of Korea,Both sexes,416
+2007,VC_IHR_PSRCN,Republic of Korea,Both sexes,430
+2008,VC_IHR_PSRCN,Republic of Korea,Both sexes,430
+2009,VC_IHR_PSRCN,Republic of Korea,Both sexes,532
+2010,VC_IHR_PSRCN,Republic of Korea,Both sexes,485
+2011,VC_IHR_PSRCN,Republic of Korea,Both sexes,403
+2011,VC_IHR_PSRCN,Republic of Korea,Male,186
+2011,VC_IHR_PSRCN,Republic of Korea,Female,217
+2012,VC_IHR_PSRCN,Republic of Korea,Female,219
+2012,VC_IHR_PSRCN,Republic of Korea,Both sexes,435
+2012,VC_IHR_PSRCN,Republic of Korea,Male,216
+2013,VC_IHR_PSRCN,Republic of Korea,Both sexes,352
+2013,VC_IHR_PSRCN,Republic of Korea,Male,170
+2013,VC_IHR_PSRCN,Republic of Korea,Female,182
+2014,VC_IHR_PSRCN,Republic of Korea,Female,193
+2014,VC_IHR_PSRCN,Republic of Korea,Male,184
+2014,VC_IHR_PSRCN,Republic of Korea,Both sexes,377
+2015,VC_IHR_PSRCN,Republic of Korea,Male,177
+2015,VC_IHR_PSRCN,Republic of Korea,Female,198
+2015,VC_IHR_PSRCN,Republic of Korea,Both sexes,375
+2016,VC_IHR_PSRCN,Republic of Korea,Female,193
+2016,VC_IHR_PSRCN,Republic of Korea,Both sexes,356
+2016,VC_IHR_PSRCN,Republic of Korea,Male,162
+2017,VC_IHR_PSRCN,Republic of Korea,Both sexes,301
+2017,VC_IHR_PSRCN,Republic of Korea,Female,153
+2017,VC_IHR_PSRCN,Republic of Korea,Male,147
+2018,VC_IHR_PSRCN,Republic of Korea,Both sexes,309
+2018,VC_IHR_PSRCN,Republic of Korea,Male,152
+2018,VC_IHR_PSRCN,Republic of Korea,Female,154
+2019,VC_IHR_PSRCN,Republic of Korea,Both sexes,297
+2019,VC_IHR_PSRCN,Republic of Korea,Male,138
+2019,VC_IHR_PSRCN,Republic of Korea,Female,154
+2020,VC_IHR_PSRCN,Republic of Korea,Male,164
+2020,VC_IHR_PSRCN,Republic of Korea,Female,138
+2020,VC_IHR_PSRCN,Republic of Korea,Both sexes,308
+2021,VC_IHR_PSRCN,Republic of Korea,Both sexes,270
+2021,VC_IHR_PSRCN,Republic of Korea,Male,142
+2016,VC_IHR_PSRCN,Türkiye,Both sexes,2704
+2016,VC_IHR_PSRCN,Türkiye,Male,2257
+2016,VC_IHR_PSRCN,Türkiye,Female,441
+2017,VC_IHR_PSRCN,Türkiye,Male,2113
+2017,VC_IHR_PSRCN,Türkiye,Both sexes,2541
+2017,VC_IHR_PSRCN,Türkiye,Female,424
+2018,VC_IHR_PSRCN,Türkiye,Female,399
+2018,VC_IHR_PSRCN,Türkiye,Both sexes,2161
+2018,VC_IHR_PSRCN,Türkiye,Male,1760
+2019,VC_IHR_PSRCN,Türkiye,Both sexes,2020
+2019,VC_IHR_PSRCN,Türkiye,Male,1570
+2019,VC_IHR_PSRCN,Türkiye,Female,450
+2020,VC_IHR_PSRCN,Türkiye,Female,381
+2020,VC_IHR_PSRCN,Türkiye,Male,1727
+2020,VC_IHR_PSRCN,Türkiye,Both sexes,2108
+2021,VC_IHR_PSRCN,Türkiye,Male,1702
+2021,VC_IHR_PSRCN,Türkiye,Female,434
+2021,VC_IHR_PSRCN,Türkiye,Both sexes,2136
+2000,VC_IHR_PSRCN,Turkmenistan,Both sexes,267
+2001,VC_IHR_PSRCN,Turkmenistan,Both sexes,248
+2021,VC_IHR_PSRCN,Republic of Korea,Female,128
+2000,VC_IHR_PSRCN,Latvia,Both sexes,238
+2001,VC_IHR_PSRCN,Latvia,Both sexes,219
+2002,VC_IHR_PSRCN,Latvia,Both sexes,214
+2012,VC_IHR_PSRCN,Latvia,Male,33
+2012,VC_IHR_PSRCN,Latvia,Both sexes,70
+2012,VC_IHR_PSRCN,Latvia,Female,37
+2013,VC_IHR_PSRCN,Latvia,Both sexes,50
+2013,VC_IHR_PSRCN,Latvia,Female,24
+2013,VC_IHR_PSRCN,Latvia,Male,26
+2014,VC_IHR_PSRCN,Latvia,Both sexes,64
+2014,VC_IHR_PSRCN,Latvia,Male,27
+2014,VC_IHR_PSRCN,Latvia,Female,37
+2015,VC_IHR_PSRCN,Latvia,Female,29
+2015,VC_IHR_PSRCN,Latvia,Male,38
+2015,VC_IHR_PSRCN,Latvia,Both sexes,67
+2016,VC_IHR_PSRCN,Latvia,Female,34
+2016,VC_IHR_PSRCN,Latvia,Both sexes,69
+2016,VC_IHR_PSRCN,Latvia,Male,35
+2017,VC_IHR_PSRCN,Latvia,Female,42
+2017,VC_IHR_PSRCN,Latvia,Male,44
+2017,VC_IHR_PSRCN,Latvia,Both sexes,81
+2018,VC_IHR_PSRCN,Latvia,Both sexes,84
+2018,VC_IHR_PSRCN,Latvia,Male,41
+2018,VC_IHR_PSRCN,Latvia,Female,43
+2019,VC_IHR_PSRCN,Latvia,Female,42
+2019,VC_IHR_PSRCN,Latvia,Both sexes,65
+2019,VC_IHR_PSRCN,Latvia,Male,23
+2020,VC_IHR_PSRCN,Latvia,Female,42
+2020,VC_IHR_PSRCN,Latvia,Male,28
+2002,VC_IHR_PSRCN,Turkmenistan,Both sexes,241
+2003,VC_IHR_PSRCN,Turkmenistan,Both sexes,233
+2004,VC_IHR_PSRCN,Turkmenistan,Both sexes,209
+2005,VC_IHR_PSRCN,Turkmenistan,Both sexes,206
+2006,VC_IHR_PSRCN,Turkmenistan,Both sexes,203
+2010,VC_IHR_PSRCN,Turkmenistan,Male,75
+2010,VC_IHR_PSRCN,Turkmenistan,Female,30
+2010,VC_IHR_PSRCN,Turkmenistan,Both sexes,105
+2011,VC_IHR_PSRCN,Turkmenistan,Female,18
+2011,VC_IHR_PSRCN,Turkmenistan,Male,82
+2011,VC_IHR_PSRCN,Turkmenistan,Both sexes,100
+2012,VC_IHR_PSRCN,Turkmenistan,Both sexes,79
+2020,VC_IHR_PSRCN,Latvia,Both sexes,70
+2021,VC_IHR_PSRCN,Latvia,Both sexes,57
+2021,VC_IHR_PSRCN,Latvia,Male,21
+2021,VC_IHR_PSRCN,Latvia,Female,36
+2000,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2001,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2002,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2003,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2004,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2007,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2008,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2009,VC_IHR_PSRCN,Liechtenstein,Female,0
+2009,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2009,VC_IHR_PSRCN,Liechtenstein,Male,0
+2010,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2010,VC_IHR_PSRCN,Liechtenstein,Male,1
+2010,VC_IHR_PSRCN,Liechtenstein,Female,0
+2011,VC_IHR_PSRCN,Liechtenstein,Male,0
+2011,VC_IHR_PSRCN,Liechtenstein,Female,0
+2011,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2012,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2012,VC_IHR_PSRCN,Liechtenstein,Female,0
+2012,VC_IHR_PSRCN,Liechtenstein,Male,0
+2013,VC_IHR_PSRCN,Liechtenstein,Female,0
+2013,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2013,VC_IHR_PSRCN,Liechtenstein,Male,0
+2014,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2014,VC_IHR_PSRCN,Liechtenstein,Female,0
+2014,VC_IHR_PSRCN,Liechtenstein,Male,1
+2012,VC_IHR_PSRCN,Turkmenistan,Male,50
+2012,VC_IHR_PSRCN,Turkmenistan,Female,29
+2013,VC_IHR_PSRCN,Turkmenistan,Male,57
+2013,VC_IHR_PSRCN,Turkmenistan,Female,27
+2013,VC_IHR_PSRCN,Turkmenistan,Both sexes,84
+2014,VC_IHR_PSRCN,Turkmenistan,Both sexes,89
+2014,VC_IHR_PSRCN,Turkmenistan,Female,18
+2014,VC_IHR_PSRCN,Turkmenistan,Male,71
+2015,VC_IHR_PSRCN,Turkmenistan,Both sexes,63
+2015,VC_IHR_PSRCN,Turkmenistan,Female,13
+2015,VC_IHR_PSRCN,Turkmenistan,Male,50
+2000,VC_IHR_PSRCN,Ukraine,Female,1309
+2000,VC_IHR_PSRCN,Ukraine,Both sexes,4418
+2003,VC_IHR_PSRCN,Norway,Male,27
+2003,VC_IHR_PSRCN,Norway,Female,24
+2004,VC_IHR_PSRCN,Norway,Female,12
+2004,VC_IHR_PSRCN,Norway,Male,24
+2004,VC_IHR_PSRCN,Norway,Both sexes,36
+2005,VC_IHR_PSRCN,Norway,Both sexes,33
+2005,VC_IHR_PSRCN,Norway,Male,17
+2005,VC_IHR_PSRCN,Norway,Female,16
+2006,VC_IHR_PSRCN,Norway,Male,12
+2006,VC_IHR_PSRCN,Norway,Female,21
+2006,VC_IHR_PSRCN,Norway,Both sexes,33
+2007,VC_IHR_PSRCN,Norway,Both sexes,30
+2007,VC_IHR_PSRCN,Norway,Female,17
+2007,VC_IHR_PSRCN,Norway,Male,13
+2008,VC_IHR_PSRCN,Norway,Male,24
+2008,VC_IHR_PSRCN,Norway,Female,10
+2008,VC_IHR_PSRCN,Norway,Both sexes,34
+2009,VC_IHR_PSRCN,Norway,Both sexes,29
+2009,VC_IHR_PSRCN,Norway,Female,12
+2009,VC_IHR_PSRCN,Norway,Male,17
+2010,VC_IHR_PSRCN,Norway,Male,14
+2015,VC_IHR_PSRCN,Liechtenstein,Female,0
+2015,VC_IHR_PSRCN,Liechtenstein,Male,0
+2015,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2016,VC_IHR_PSRCN,Liechtenstein,Both sexes,0
+2016,VC_IHR_PSRCN,Liechtenstein,Male,0
+2016,VC_IHR_PSRCN,Liechtenstein,Female,0
+2017,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2017,VC_IHR_PSRCN,Liechtenstein,Female,1
+2017,VC_IHR_PSRCN,Liechtenstein,Male,0
+2018,VC_IHR_PSRCN,Liechtenstein,Female,1
+2018,VC_IHR_PSRCN,Liechtenstein,Male,0
+2000,VC_IHR_PSRCN,Ukraine,Male,3109
+2001,VC_IHR_PSRCN,Ukraine,Male,3368
+2001,VC_IHR_PSRCN,Ukraine,Both sexes,4854
+2001,VC_IHR_PSRCN,Ukraine,Female,1486
+2002,VC_IHR_PSRCN,Ukraine,Male,2981
+2002,VC_IHR_PSRCN,Ukraine,Female,1315
+2002,VC_IHR_PSRCN,Ukraine,Both sexes,4296
+2003,VC_IHR_PSRCN,Ukraine,Female,1266
+2003,VC_IHR_PSRCN,Ukraine,Male,2775
+2003,VC_IHR_PSRCN,Ukraine,Both sexes,4041
+2004,VC_IHR_PSRCN,Ukraine,Both sexes,3487
+2004,VC_IHR_PSRCN,Ukraine,Male,2377
+2004,VC_IHR_PSRCN,Ukraine,Female,1110
+2005,VC_IHR_PSRCN,Ukraine,Female,959
+2005,VC_IHR_PSRCN,Ukraine,Male,2071
+2005,VC_IHR_PSRCN,Ukraine,Both sexes,3030
+2006,VC_IHR_PSRCN,Ukraine,Both sexes,2958
+2006,VC_IHR_PSRCN,Ukraine,Male,2049
+2006,VC_IHR_PSRCN,Ukraine,Female,909
+2007,VC_IHR_PSRCN,Ukraine,Both sexes,2646
+2008,VC_IHR_PSRCN,Ukraine,Male,1727
+2008,VC_IHR_PSRCN,Ukraine,Female,739
+2008,VC_IHR_PSRCN,Ukraine,Both sexes,2466
+2010,VC_IHR_PSRCN,Norway,Female,15
+2010,VC_IHR_PSRCN,Norway,Both sexes,29
+2011,VC_IHR_PSRCN,Norway,Both sexes,111
+2011,VC_IHR_PSRCN,Norway,Male,59
+2011,VC_IHR_PSRCN,Norway,Female,52
+2012,VC_IHR_PSRCN,Norway,Female,9
+2012,VC_IHR_PSRCN,Norway,Both sexes,27
+2012,VC_IHR_PSRCN,Norway,Male,18
+2013,VC_IHR_PSRCN,Norway,Male,26
+2013,VC_IHR_PSRCN,Norway,Both sexes,46
+2013,VC_IHR_PSRCN,Norway,Female,20
+2014,VC_IHR_PSRCN,Norway,Female,13
+2014,VC_IHR_PSRCN,Norway,Male,16
+2014,VC_IHR_PSRCN,Norway,Both sexes,29
+2015,VC_IHR_PSRCN,Norway,Both sexes,24
+2015,VC_IHR_PSRCN,Norway,Female,14
+2015,VC_IHR_PSRCN,Norway,Male,10
+2016,VC_IHR_PSRCN,Norway,Female,11
+2016,VC_IHR_PSRCN,Norway,Both sexes,27
+2016,VC_IHR_PSRCN,Norway,Male,16
+2018,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2019,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2020,VC_IHR_PSRCN,Liechtenstein,Both sexes,1
+2020,VC_IHR_PSRCN,Liechtenstein,Male,0
+2020,VC_IHR_PSRCN,Liechtenstein,Female,1
+2021,VC_IHR_PSRCN,Liechtenstein,Both sexes,2
+2021,VC_IHR_PSRCN,Liechtenstein,Male,1
+2021,VC_IHR_PSRCN,Liechtenstein,Female,1
+2000,VC_IHR_PSRCN,Lithuania,Male,268
+2000,VC_IHR_PSRCN,Lithuania,Female,102
+2000,VC_IHR_PSRCN,Lithuania,Both sexes,370
+2001,VC_IHR_PSRCN,Lithuania,Both sexes,353
+2001,VC_IHR_PSRCN,Lithuania,Female,89
+2001,VC_IHR_PSRCN,Lithuania,Male,264
+2002,VC_IHR_PSRCN,Lithuania,Male,223
+2002,VC_IHR_PSRCN,Lithuania,Female,70
+2002,VC_IHR_PSRCN,Lithuania,Both sexes,293
+2003,VC_IHR_PSRCN,Lithuania,Female,104
+2003,VC_IHR_PSRCN,Lithuania,Male,240
+2004,VC_IHR_PSRCN,Lithuania,Female,130
+2004,VC_IHR_PSRCN,Lithuania,Male,213
+2005,VC_IHR_PSRCN,Canada,Male,484
+2005,VC_IHR_PSRCN,Canada,Both sexes,664
+2006,VC_IHR_PSRCN,Canada,Both sexes,608
+2006,VC_IHR_PSRCN,Canada,Female,162
+2006,VC_IHR_PSRCN,Canada,Male,446
+2007,VC_IHR_PSRCN,Canada,Male,431
+2007,VC_IHR_PSRCN,Canada,Female,166
+2007,VC_IHR_PSRCN,Canada,Both sexes,597
+2008,VC_IHR_PSRCN,Canada,Female,147
+2008,VC_IHR_PSRCN,Canada,Male,467
+2009,VC_IHR_PSRCN,Ukraine,Female,705
+2009,VC_IHR_PSRCN,Ukraine,Male,1535
+2009,VC_IHR_PSRCN,Ukraine,Both sexes,2240
+2010,VC_IHR_PSRCN,Ukraine,Both sexes,1988
+2010,VC_IHR_PSRCN,Ukraine,Male,1385
+2010,VC_IHR_PSRCN,Ukraine,Female,603
+2012,VC_IHR_PSRCN,Ukraine,Both sexes,2336
+2014,VC_IHR_PSRCN,Ukraine,Both sexes,2845
+2017,VC_IHR_PSRCN,Ukraine,Female,461
+2017,VC_IHR_PSRCN,Ukraine,Male,2290
+2017,VC_IHR_PSRCN,Ukraine,Both sexes,2751
+2000,VC_IHR_PSRCN,North Macedonia,Male,35
+2000,VC_IHR_PSRCN,North Macedonia,Female,12
+2000,VC_IHR_PSRCN,North Macedonia,Both sexes,47
+2001,VC_IHR_PSRCN,North Macedonia,Both sexes,55
+2002,VC_IHR_PSRCN,North Macedonia,Male,51
+2002,VC_IHR_PSRCN,North Macedonia,Female,9
+2002,VC_IHR_PSRCN,North Macedonia,Both sexes,60
+2003,VC_IHR_PSRCN,North Macedonia,Both sexes,70
+2003,VC_IHR_PSRCN,North Macedonia,Male,53
+2003,VC_IHR_PSRCN,North Macedonia,Female,17
+2004,VC_IHR_PSRCN,North Macedonia,Female,12
+2004,VC_IHR_PSRCN,North Macedonia,Male,37
+2004,VC_IHR_PSRCN,Lithuania,Both sexes,343
+2005,VC_IHR_PSRCN,Lithuania,Both sexes,372
+2005,VC_IHR_PSRCN,Lithuania,Male,272
+2005,VC_IHR_PSRCN,Lithuania,Female,100
+2006,VC_IHR_PSRCN,Lithuania,Female,75
+2006,VC_IHR_PSRCN,Lithuania,Male,213
+2006,VC_IHR_PSRCN,Lithuania,Both sexes,288
+2007,VC_IHR_PSRCN,Lithuania,Both sexes,277
+2007,VC_IHR_PSRCN,Lithuania,Male,205
+2007,VC_IHR_PSRCN,Lithuania,Female,72
+2004,VC_IHR_PSRCN,North Macedonia,Both sexes,49
+2005,VC_IHR_PSRCN,North Macedonia,Female,9
+2005,VC_IHR_PSRCN,North Macedonia,Male,35
+2006,VC_IHR_PSRCN,North Macedonia,Both sexes,46
+2006,VC_IHR_PSRCN,North Macedonia,Female,9
+2006,VC_IHR_PSRCN,North Macedonia,Male,37
+2007,VC_IHR_PSRCN,North Macedonia,Both sexes,42
+2007,VC_IHR_PSRCN,North Macedonia,Male,31
+2007,VC_IHR_PSRCN,North Macedonia,Female,11
+2008,VC_IHR_PSRCN,North Macedonia,Female,9
+2008,VC_IHR_PSRCN,North Macedonia,Male,26
+2008,VC_IHR_PSRCN,North Macedonia,Both sexes,35
+2009,VC_IHR_PSRCN,North Macedonia,Both sexes,35
+2009,VC_IHR_PSRCN,North Macedonia,Female,12
+2009,VC_IHR_PSRCN,North Macedonia,Male,23
+2010,VC_IHR_PSRCN,North Macedonia,Male,28
+2010,VC_IHR_PSRCN,North Macedonia,Female,15
+2010,VC_IHR_PSRCN,North Macedonia,Both sexes,43
+2011,VC_IHR_PSRCN,North Macedonia,Both sexes,30
+2008,VC_IHR_PSRCN,Lithuania,Female,81
+2008,VC_IHR_PSRCN,Lithuania,Both sexes,298
+2008,VC_IHR_PSRCN,Lithuania,Male,217
+2009,VC_IHR_PSRCN,Lithuania,Male,188
+2009,VC_IHR_PSRCN,Lithuania,Both sexes,252
+2009,VC_IHR_PSRCN,Lithuania,Female,64
+2010,VC_IHR_PSRCN,Lithuania,Female,75
+2010,VC_IHR_PSRCN,Lithuania,Male,144
+2010,VC_IHR_PSRCN,Lithuania,Both sexes,219
+2011,VC_IHR_PSRCN,Lithuania,Male,145
+2011,VC_IHR_PSRCN,Lithuania,Both sexes,211
+2011,VC_IHR_PSRCN,Lithuania,Female,66
+2012,VC_IHR_PSRCN,Lithuania,Female,53
+2012,VC_IHR_PSRCN,Lithuania,Both sexes,202
+2012,VC_IHR_PSRCN,Lithuania,Male,149
+2013,VC_IHR_PSRCN,Lithuania,Male,138
+2013,VC_IHR_PSRCN,Lithuania,Both sexes,198
+2013,VC_IHR_PSRCN,Lithuania,Female,60
+2014,VC_IHR_PSRCN,Lithuania,Female,53
+2014,VC_IHR_PSRCN,Lithuania,Male,106
+2017,VC_IHR_PSRCN,Norway,Male,15
+2017,VC_IHR_PSRCN,Norway,Female,13
+2017,VC_IHR_PSRCN,Norway,Both sexes,28
+2018,VC_IHR_PSRCN,Norway,Female,9
+2018,VC_IHR_PSRCN,Norway,Both sexes,25
+2018,VC_IHR_PSRCN,Norway,Male,16
+2019,VC_IHR_PSRCN,Norway,Female,16
+2019,VC_IHR_PSRCN,Norway,Both sexes,28
+2019,VC_IHR_PSRCN,Norway,Male,12
+2020,VC_IHR_PSRCN,Norway,Male,16
+2020,VC_IHR_PSRCN,Norway,Female,15
+2011,VC_IHR_PSRCN,North Macedonia,Male,26
+2011,VC_IHR_PSRCN,North Macedonia,Female,4
+2012,VC_IHR_PSRCN,North Macedonia,Female,11
+2012,VC_IHR_PSRCN,North Macedonia,Both sexes,29
+2012,VC_IHR_PSRCN,North Macedonia,Male,18
+2013,VC_IHR_PSRCN,North Macedonia,Male,15
+2013,VC_IHR_PSRCN,North Macedonia,Both sexes,22
+2013,VC_IHR_PSRCN,North Macedonia,Female,7
+2014,VC_IHR_PSRCN,North Macedonia,Male,25
+2014,VC_IHR_PSRCN,Lithuania,Both sexes,159
+2015,VC_IHR_PSRCN,Lithuania,Both sexes,172
+2015,VC_IHR_PSRCN,Lithuania,Male,123
+2015,VC_IHR_PSRCN,Lithuania,Female,49
+2016,VC_IHR_PSRCN,Lithuania,Female,46
+2016,VC_IHR_PSRCN,Lithuania,Male,107
+2016,VC_IHR_PSRCN,Lithuania,Both sexes,153
+2017,VC_IHR_PSRCN,Lithuania,Both sexes,100
+2017,VC_IHR_PSRCN,Lithuania,Female,26
+2017,VC_IHR_PSRCN,Lithuania,Male,74
+2018,VC_IHR_PSRCN,Lithuania,Female,17
+2018,VC_IHR_PSRCN,Lithuania,Male,75
+2018,VC_IHR_PSRCN,Lithuania,Both sexes,92
+2019,VC_IHR_PSRCN,Lithuania,Male,72
+2019,VC_IHR_PSRCN,Lithuania,Female,22
+2019,VC_IHR_PSRCN,Lithuania,Both sexes,94
+2020,VC_IHR_PSRCN,Lithuania,Both sexes,101
+2020,VC_IHR_PSRCN,Lithuania,Female,29
+2020,VC_IHR_PSRCN,Lithuania,Male,72
+2021,VC_IHR_PSRCN,Lithuania,Male,50
+2021,VC_IHR_PSRCN,Lithuania,Female,22
+2021,VC_IHR_PSRCN,Lithuania,Both sexes,72
+2000,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2001,VC_IHR_PSRCN,Luxembourg,Female,4
+2001,VC_IHR_PSRCN,Luxembourg,Male,5
+2001,VC_IHR_PSRCN,Luxembourg,Both sexes,9
+2002,VC_IHR_PSRCN,Luxembourg,Both sexes,6
+2003,VC_IHR_PSRCN,Luxembourg,Both sexes,3
+2004,VC_IHR_PSRCN,Luxembourg,Male,1
+2004,VC_IHR_PSRCN,Luxembourg,Female,1
+2004,VC_IHR_PSRCN,Luxembourg,Both sexes,2
+2005,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2006,VC_IHR_PSRCN,Luxembourg,Female,2
+2006,VC_IHR_PSRCN,Luxembourg,Male,5
+2006,VC_IHR_PSRCN,Luxembourg,Both sexes,7
+2007,VC_IHR_PSRCN,Luxembourg,Both sexes,7
+2007,VC_IHR_PSRCN,Luxembourg,Female,3
+2007,VC_IHR_PSRCN,Luxembourg,Male,4
+2008,VC_IHR_PSRCN,Luxembourg,Both sexes,8
+2009,VC_IHR_PSRCN,Luxembourg,Both sexes,5
+2009,VC_IHR_PSRCN,Luxembourg,Female,0
+2009,VC_IHR_PSRCN,Luxembourg,Male,5
+2010,VC_IHR_PSRCN,Luxembourg,Female,5
+2010,VC_IHR_PSRCN,Luxembourg,Male,5
+2010,VC_IHR_PSRCN,Luxembourg,Both sexes,10
+2011,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2011,VC_IHR_PSRCN,Luxembourg,Male,4
+2011,VC_IHR_PSRCN,Luxembourg,Female,0
+2012,VC_IHR_PSRCN,Luxembourg,Female,0
+2012,VC_IHR_PSRCN,Luxembourg,Both sexes,0
+2012,VC_IHR_PSRCN,Luxembourg,Male,0
+2013,VC_IHR_PSRCN,Luxembourg,Male,0
+2020,VC_IHR_PSRCN,Norway,Both sexes,31
+2021,VC_IHR_PSRCN,Norway,Female,16
+2021,VC_IHR_PSRCN,Norway,Both sexes,29
+2021,VC_IHR_PSRCN,Norway,Male,13
+2000,VC_IHR_PSRCN,Poland,Male,626
+2000,VC_IHR_PSRCN,Poland,Both sexes,855
+2000,VC_IHR_PSRCN,Poland,Female,229
+2001,VC_IHR_PSRCN,Poland,Female,219
+2001,VC_IHR_PSRCN,Poland,Male,557
+2001,VC_IHR_PSRCN,Poland,Both sexes,776
+2002,VC_IHR_PSRCN,Poland,Both sexes,716
+2014,VC_IHR_PSRCN,North Macedonia,Female,10
+2014,VC_IHR_PSRCN,North Macedonia,Both sexes,35
+2015,VC_IHR_PSRCN,North Macedonia,Male,23
+2015,VC_IHR_PSRCN,North Macedonia,Both sexes,25
+2015,VC_IHR_PSRCN,North Macedonia,Female,2
+2016,VC_IHR_PSRCN,North Macedonia,Female,6
+2016,VC_IHR_PSRCN,North Macedonia,Male,13
+2016,VC_IHR_PSRCN,North Macedonia,Both sexes,19
+2017,VC_IHR_PSRCN,North Macedonia,Both sexes,31
+2017,VC_IHR_PSRCN,North Macedonia,Male,27
+2017,VC_IHR_PSRCN,North Macedonia,Female,4
+2018,VC_IHR_PSRCN,North Macedonia,Female,9
+2018,VC_IHR_PSRCN,North Macedonia,Both sexes,25
+2018,VC_IHR_PSRCN,North Macedonia,Male,16
+2019,VC_IHR_PSRCN,North Macedonia,Both sexes,24
+2019,VC_IHR_PSRCN,North Macedonia,Male,20
+2019,VC_IHR_PSRCN,North Macedonia,Female,4
+2000,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,915
+2001,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,966
+2013,VC_IHR_PSRCN,Luxembourg,Both sexes,1
+2013,VC_IHR_PSRCN,Luxembourg,Female,0
+2014,VC_IHR_PSRCN,Luxembourg,Female,2
+2014,VC_IHR_PSRCN,Luxembourg,Male,2
+2014,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2015,VC_IHR_PSRCN,Luxembourg,Both sexes,5
+2016,VC_IHR_PSRCN,Luxembourg,Both sexes,5
+2017,VC_IHR_PSRCN,Luxembourg,Both sexes,2
+2018,VC_IHR_PSRCN,Luxembourg,Both sexes,3
+2019,VC_IHR_PSRCN,Luxembourg,Male,3
+2019,VC_IHR_PSRCN,Luxembourg,Female,1
+2019,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2020,VC_IHR_PSRCN,Luxembourg,Both sexes,3
+2020,VC_IHR_PSRCN,Luxembourg,Male,1
+2020,VC_IHR_PSRCN,Luxembourg,Female,0
+2021,VC_IHR_PSRCN,Luxembourg,Both sexes,4
+2000,VC_IHR_PSRCN,Malta,Both sexes,4
+2001,VC_IHR_PSRCN,Malta,Both sexes,6
+2002,VC_IHR_PSRCN,Malta,Both sexes,6
+2004,VC_IHR_PSRCN,Malta,Female,4
+2004,VC_IHR_PSRCN,Malta,Male,3
+2008,VC_IHR_PSRCN,Canada,Both sexes,614
+2009,VC_IHR_PSRCN,Canada,Male,448
+2009,VC_IHR_PSRCN,Canada,Female,162
+2009,VC_IHR_PSRCN,Canada,Both sexes,610
+2010,VC_IHR_PSRCN,Canada,Female,155
+2010,VC_IHR_PSRCN,Canada,Both sexes,557
+2010,VC_IHR_PSRCN,Canada,Male,402
+2011,VC_IHR_PSRCN,Canada,Male,429
+2011,VC_IHR_PSRCN,Canada,Female,180
+2011,VC_IHR_PSRCN,Canada,Both sexes,609
+2012,VC_IHR_PSRCN,Canada,Male,392
+2012,VC_IHR_PSRCN,Canada,Both sexes,549
+2012,VC_IHR_PSRCN,Canada,Female,157
+2013,VC_IHR_PSRCN,Canada,Both sexes,509
+2013,VC_IHR_PSRCN,Canada,Male,358
+2013,VC_IHR_PSRCN,Canada,Female,151
+2014,VC_IHR_PSRCN,Canada,Male,371
+2014,VC_IHR_PSRCN,Canada,Both sexes,525
+2014,VC_IHR_PSRCN,Canada,Female,154
+2015,VC_IHR_PSRCN,Canada,Female,179
+2015,VC_IHR_PSRCN,Canada,Both sexes,611
+2015,VC_IHR_PSRCN,Canada,Male,432
+2016,VC_IHR_PSRCN,Canada,Both sexes,616
+2016,VC_IHR_PSRCN,Canada,Male,461
+2016,VC_IHR_PSRCN,Canada,Female,155
+2017,VC_IHR_PSRCN,Canada,Female,173
+2017,VC_IHR_PSRCN,Canada,Male,492
+2017,VC_IHR_PSRCN,Canada,Both sexes,665
+2018,VC_IHR_PSRCN,Canada,Male,493
+2018,VC_IHR_PSRCN,Canada,Female,168
+2002,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,1107
+2003,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,926
+2004,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,950
+2005,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,533
+2005,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,834
+2005,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,301
+2006,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,860
+2006,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,535
+2006,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,325
+2007,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,535
+2007,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,873
+2004,VC_IHR_PSRCN,Malta,Both sexes,7
+2005,VC_IHR_PSRCN,Malta,Both sexes,4
+2005,VC_IHR_PSRCN,Malta,Female,2
+2005,VC_IHR_PSRCN,Malta,Male,2
+2006,VC_IHR_PSRCN,Malta,Female,0
+2006,VC_IHR_PSRCN,Malta,Both sexes,0
+2006,VC_IHR_PSRCN,Malta,Male,0
+2007,VC_IHR_PSRCN,Malta,Male,3
+2007,VC_IHR_PSRCN,Malta,Both sexes,4
+2007,VC_IHR_PSRCN,Malta,Female,1
+2008,VC_IHR_PSRCN,Malta,Both sexes,6
+2008,VC_IHR_PSRCN,Malta,Male,5
+2008,VC_IHR_PSRCN,Malta,Female,1
+2009,VC_IHR_PSRCN,Malta,Male,1
+2009,VC_IHR_PSRCN,Malta,Both sexes,4
+2009,VC_IHR_PSRCN,Malta,Female,3
+2010,VC_IHR_PSRCN,Malta,Female,1
+2010,VC_IHR_PSRCN,Malta,Male,3
+2010,VC_IHR_PSRCN,Malta,Both sexes,4
+2011,VC_IHR_PSRCN,Malta,Both sexes,3
+2011,VC_IHR_PSRCN,Malta,Female,3
+2011,VC_IHR_PSRCN,Malta,Male,0
+2012,VC_IHR_PSRCN,Malta,Male,9
+2012,VC_IHR_PSRCN,Malta,Female,3
+2012,VC_IHR_PSRCN,Malta,Both sexes,12
+2013,VC_IHR_PSRCN,Malta,Both sexes,7
+2013,VC_IHR_PSRCN,Malta,Female,0
+2013,VC_IHR_PSRCN,Malta,Male,7
+2014,VC_IHR_PSRCN,Malta,Female,1
+2014,VC_IHR_PSRCN,Malta,Both sexes,6
+2002,VC_IHR_PSRCN,Poland,Male,512
+2002,VC_IHR_PSRCN,Poland,Female,204
+2003,VC_IHR_PSRCN,Poland,Female,205
+2003,VC_IHR_PSRCN,Poland,Male,457
+2004,VC_IHR_PSRCN,Poland,Male,479
+2004,VC_IHR_PSRCN,Poland,Female,154
+2005,VC_IHR_PSRCN,Poland,Female,144
+2005,VC_IHR_PSRCN,Poland,Male,411
+2006,VC_IHR_PSRCN,Poland,Male,350
+2006,VC_IHR_PSRCN,Poland,Female,140
+2007,VC_IHR_PSRCN,Poland,Female,116
+2007,VC_IHR_PSRCN,Poland,Male,409
+2008,VC_IHR_PSRCN,Poland,Male,237
+2007,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,338
+2008,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,294
+2008,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,762
+2008,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,468
+2009,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,481
+2009,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,706
+2009,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,225
+2010,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,283
+2010,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,756
+2010,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,473
+2011,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,194
+2014,VC_IHR_PSRCN,Malta,Male,5
+2015,VC_IHR_PSRCN,Malta,Male,2
+2015,VC_IHR_PSRCN,Malta,Both sexes,4
+2015,VC_IHR_PSRCN,Malta,Female,2
+2016,VC_IHR_PSRCN,Malta,Female,2
+2016,VC_IHR_PSRCN,Malta,Both sexes,5
+2016,VC_IHR_PSRCN,Malta,Male,3
+2017,VC_IHR_PSRCN,Malta,Male,7
+2017,VC_IHR_PSRCN,Malta,Both sexes,8
+2017,VC_IHR_PSRCN,Malta,Female,1
+2018,VC_IHR_PSRCN,Malta,Male,4
+2011,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,447
+2011,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,641
+2012,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,237
+2012,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,390
+2012,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,627
+2013,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,603
+2013,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,378
+2013,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,225
+2014,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,207
+2014,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,382
+2014,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,589
+2018,VC_IHR_PSRCN,Malta,Both sexes,8
+2018,VC_IHR_PSRCN,Malta,Female,4
+2019,VC_IHR_PSRCN,Malta,Female,3
+2019,VC_IHR_PSRCN,Malta,Both sexes,5
+2019,VC_IHR_PSRCN,Malta,Male,2
+2020,VC_IHR_PSRCN,Malta,Both sexes,7
+2020,VC_IHR_PSRCN,Malta,Male,6
+2020,VC_IHR_PSRCN,Malta,Female,1
+2021,VC_IHR_PSRCN,Malta,Both sexes,2
+2021,VC_IHR_PSRCN,Malta,Male,2
+2018,VC_IHR_PSRCN,Canada,Both sexes,662
+2019,VC_IHR_PSRCN,Canada,Male,529
+2019,VC_IHR_PSRCN,Canada,Female,155
+2019,VC_IHR_PSRCN,Canada,Both sexes,689
+2020,VC_IHR_PSRCN,Canada,Female,178
+2020,VC_IHR_PSRCN,Canada,Both sexes,759
+2020,VC_IHR_PSRCN,Canada,Male,575
+2021,VC_IHR_PSRCN,Canada,Male,586
+2021,VC_IHR_PSRCN,Canada,Both sexes,788
+2021,VC_IHR_PSRCN,Canada,Female,197
+2003,VC_IHR_PSRCN,Chile,Both sexes,513
+2005,VC_IHR_PSRCN,Chile,Both sexes,576
+2005,VC_IHR_PSRCN,Chile,Female,83
+2005,VC_IHR_PSRCN,Chile,Male,493
+2006,VC_IHR_PSRCN,Chile,Male,499
+2006,VC_IHR_PSRCN,Chile,Both sexes,590
+2006,VC_IHR_PSRCN,Chile,Female,91
+2007,VC_IHR_PSRCN,Chile,Both sexes,616
+2007,VC_IHR_PSRCN,Chile,Female,111
+2007,VC_IHR_PSRCN,Chile,Male,505
+2015,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,652
+2015,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,455
+2015,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,197
+2016,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,203
+2016,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,586
+2016,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,789
+2017,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,809
+2017,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,559
+2017,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,250
+2018,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,755
+2018,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,493
+2008,VC_IHR_PSRCN,Chile,Male,485
+2008,VC_IHR_PSRCN,Chile,Both sexes,588
+2008,VC_IHR_PSRCN,Chile,Female,103
+2009,VC_IHR_PSRCN,Chile,Male,531
+2009,VC_IHR_PSRCN,Chile,Female,99
+2009,VC_IHR_PSRCN,Chile,Both sexes,630
+2010,VC_IHR_PSRCN,Chile,Female,96
+2010,VC_IHR_PSRCN,Chile,Both sexes,541
+2010,VC_IHR_PSRCN,Chile,Male,445
+2011,VC_IHR_PSRCN,Chile,Both sexes,636
+2011,VC_IHR_PSRCN,Chile,Male,521
+2018,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,261
+2019,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,768
+2019,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,564
+2019,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,203
+2020,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Male,478
+2020,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Both sexes,673
+2020,VC_IHR_PSRCN,United Kingdom of Great Britain and Northern Ireland,Female,194
+2000,VC_IHR_PSRCN,Uzbekistan,Both sexes,1068
+2001,VC_IHR_PSRCN,Uzbekistan,Both sexes,1081
+2002,VC_IHR_PSRCN,Uzbekistan,Both sexes,1058
+2003,VC_IHR_PSRCN,Uzbekistan,Both sexes,963
+2008,VC_IHR_PSRCN,Poland,Both sexes,326
+2008,VC_IHR_PSRCN,Poland,Female,89
+2009,VC_IHR_PSRCN,Poland,Female,112
+2009,VC_IHR_PSRCN,Poland,Both sexes,387
+2009,VC_IHR_PSRCN,Poland,Male,275
+2010,VC_IHR_PSRCN,Poland,Male,266
+2010,VC_IHR_PSRCN,Poland,Both sexes,384
+2010,VC_IHR_PSRCN,Poland,Female,118
+2011,VC_IHR_PSRCN,Poland,Female,132
+2011,VC_IHR_PSRCN,Poland,Male,290
+2011,VC_IHR_PSRCN,Poland,Both sexes,422
+2011,VC_IHR_PSRCN,Chile,Female,115
+2012,VC_IHR_PSRCN,Chile,Female,37
+2012,VC_IHR_PSRCN,Chile,Male,397
+2012,VC_IHR_PSRCN,Chile,Both sexes,434
+2013,VC_IHR_PSRCN,Chile,Male,448
+2013,VC_IHR_PSRCN,Chile,Female,108
+2013,VC_IHR_PSRCN,Chile,Both sexes,556
+2014,VC_IHR_PSRCN,Chile,Male,375
+2014,VC_IHR_PSRCN,Chile,Female,63
+2014,VC_IHR_PSRCN,Chile,Both sexes,438
+2015,VC_IHR_PSRCN,Chile,Both sexes,419
+2015,VC_IHR_PSRCN,Chile,Female,49
+2015,VC_IHR_PSRCN,Chile,Male,370
+2016,VC_IHR_PSRCN,Chile,Male,530
+2016,VC_IHR_PSRCN,Chile,Female,90
+2016,VC_IHR_PSRCN,Chile,Both sexes,620
+2017,VC_IHR_PSRCN,Chile,Both sexes,779
+2017,VC_IHR_PSRCN,Chile,Male,673
+2017,VC_IHR_PSRCN,Chile,Female,106
+2018,VC_IHR_PSRCN,Chile,Both sexes,825
+2018,VC_IHR_PSRCN,Chile,Male,731
+2018,VC_IHR_PSRCN,Chile,Female,94
+2019,VC_IHR_PSRCN,Chile,Female,95
+2019,VC_IHR_PSRCN,Chile,Male,656
+2019,VC_IHR_PSRCN,Chile,Both sexes,751
+2020,VC_IHR_PSRCN,Chile,Both sexes,926
+2020,VC_IHR_PSRCN,Chile,Male,815
+2020,VC_IHR_PSRCN,Chile,Female,111
+2021,VC_IHR_PSRCN,Chile,Male,642
+2021,VC_IHR_PSRCN,Chile,Both sexes,708
+2021,VC_IHR_PSRCN,Chile,Female,66
+2002,VC_IHR_PSRCN,China,Both sexes,26276
+2003,VC_IHR_PSRCN,China,Both sexes,24393
+2004,VC_IHR_PSRCN,China,Both sexes,24711
+2005,VC_IHR_PSRCN,China,Both sexes,20770
+2006,VC_IHR_PSRCN,China,Both sexes,17973
+2007,VC_IHR_PSRCN,China,Both sexes,16119
+2008,VC_IHR_PSRCN,China,Both sexes,14811
+2009,VC_IHR_PSRCN,China,Both sexes,14667
+2010,VC_IHR_PSRCN,China,Both sexes,13410
+2011,VC_IHR_PSRCN,China,Both sexes,12015
+2012,VC_IHR_PSRCN,China,Both sexes,11286
+2013,VC_IHR_PSRCN,China,Both sexes,10640
+2014,VC_IHR_PSRCN,China,Both sexes,10083
+2015,VC_IHR_PSRCN,China,Both sexes,9200
+2004,VC_IHR_PSRCN,Uzbekistan,Both sexes,962
+2005,VC_IHR_PSRCN,Uzbekistan,Both sexes,910
+2006,VC_IHR_PSRCN,Uzbekistan,Both sexes,861
+2007,VC_IHR_PSRCN,Uzbekistan,Both sexes,815
+2008,VC_IHR_PSRCN,Uzbekistan,Both sexes,831
+2015,VC_IHR_PSRCN,Uzbekistan,Both sexes,506
+2015,VC_IHR_PSRCN,Uzbekistan,Male,510
+2015,VC_IHR_PSRCN,Uzbekistan,Female,216
+2016,VC_IHR_PSRCN,Uzbekistan,Both sexes,757
+2016,VC_IHR_PSRCN,Uzbekistan,Female,258
+2016,VC_IHR_PSRCN,Uzbekistan,Male,499
+2017,VC_IHR_PSRCN,Uzbekistan,Male,386
+2017,VC_IHR_PSRCN,Uzbekistan,Female,205
+2017,VC_IHR_PSRCN,Uzbekistan,Both sexes,591
+2018,VC_IHR_PSRCN,Uzbekistan,Male,298
+2018,VC_IHR_PSRCN,Uzbekistan,Both sexes,474
+2018,VC_IHR_PSRCN,Uzbekistan,Female,176
+2019,VC_IHR_PSRCN,Uzbekistan,Female,138
+2019,VC_IHR_PSRCN,Uzbekistan,Both sexes,396
+2019,VC_IHR_PSRCN,Uzbekistan,Male,258
+2012,VC_IHR_PSRCN,Poland,Both sexes,409
+2012,VC_IHR_PSRCN,Poland,Male,298
+2012,VC_IHR_PSRCN,Poland,Female,111
+2013,VC_IHR_PSRCN,Poland,Female,86
+2013,VC_IHR_PSRCN,Poland,Male,219
+2013,VC_IHR_PSRCN,Poland,Both sexes,305
+2014,VC_IHR_PSRCN,Poland,Both sexes,287
+2014,VC_IHR_PSRCN,Poland,Male,195
+2014,VC_IHR_PSRCN,Poland,Female,92
+2015,VC_IHR_PSRCN,Poland,Both sexes,298
+2015,VC_IHR_PSRCN,Poland,Female,112
+2015,VC_IHR_PSRCN,Poland,Male,186
+2016,VC_IHR_PSRCN,Poland,Both sexes,260
+2016,VC_IHR_PSRCN,Poland,Female,71
+2016,VC_IHR_PSRCN,Poland,Male,189
+2017,VC_IHR_PSRCN,Poland,Both sexes,287
+2017,VC_IHR_PSRCN,Poland,Male,193
+2017,VC_IHR_PSRCN,Poland,Female,94
+2018,VC_IHR_PSRCN,Poland,Female,83
+2018,VC_IHR_PSRCN,Poland,Male,190
+2018,VC_IHR_PSRCN,Poland,Both sexes,273
+2019,VC_IHR_PSRCN,Poland,Male,173
+2019,VC_IHR_PSRCN,Poland,Female,80
+2019,VC_IHR_PSRCN,Poland,Both sexes,253
+2020,VC_IHR_PSRCN,Poland,Both sexes,266
+2020,VC_IHR_PSRCN,Poland,Female,89
+2020,VC_IHR_PSRCN,Poland,Male,177
+2021,VC_IHR_PSRCN,Poland,Female,79
+2021,VC_IHR_PSRCN,Poland,Both sexes,273
+2021,VC_IHR_PSRCN,Poland,Male,194
+2000,VC_IHR_PSRCN,Portugal,Male,80
+2000,VC_IHR_PSRCN,Portugal,Female,36
+2000,VC_IHR_PSRCN,Portugal,Both sexes,116
+2001,VC_IHR_PSRCN,Portugal,Male,80
+2001,VC_IHR_PSRCN,Portugal,Both sexes,105
+2001,VC_IHR_PSRCN,Portugal,Female,25
+2002,VC_IHR_PSRCN,Portugal,Both sexes,119
+2002,VC_IHR_PSRCN,Portugal,Male,82
+2002,VC_IHR_PSRCN,Portugal,Female,37
+2003,VC_IHR_PSRCN,Portugal,Female,33
+2003,VC_IHR_PSRCN,Portugal,Male,116
+2004,VC_IHR_PSRCN,Portugal,Male,105
+2004,VC_IHR_PSRCN,Portugal,Female,39
+2005,VC_IHR_PSRCN,Portugal,Female,33
+2005,VC_IHR_PSRCN,Portugal,Male,102
+2005,VC_IHR_PSRCN,Portugal,Both sexes,135
+2006,VC_IHR_PSRCN,Portugal,Male,113
+2006,VC_IHR_PSRCN,Portugal,Female,42
+2007,VC_IHR_PSRCN,Portugal,Female,52
+2007,VC_IHR_PSRCN,Portugal,Male,133
+2008,VC_IHR_PSRCN,Portugal,Male,88
+2008,VC_IHR_PSRCN,Portugal,Female,36
+2009,VC_IHR_PSRCN,Portugal,Female,38
+2009,VC_IHR_PSRCN,Portugal,Male,92
+2010,VC_IHR_PSRCN,Portugal,Male,82
+2010,VC_IHR_PSRCN,Portugal,Female,42
+2010,VC_IHR_PSRCN,Portugal,Both sexes,124
+2011,VC_IHR_PSRCN,Portugal,Male,75
+2011,VC_IHR_PSRCN,Portugal,Both sexes,114
+2011,VC_IHR_PSRCN,Portugal,Female,39
+2012,VC_IHR_PSRCN,Portugal,Male,81
+2012,VC_IHR_PSRCN,Portugal,Female,41
+2012,VC_IHR_PSRCN,Portugal,Both sexes,122
+2013,VC_IHR_PSRCN,Portugal,Both sexes,144
+2013,VC_IHR_PSRCN,Portugal,Male,92
+2013,VC_IHR_PSRCN,Portugal,Female,52
+2014,VC_IHR_PSRCN,Portugal,Female,48
+2014,VC_IHR_PSRCN,Portugal,Male,44
+2014,VC_IHR_PSRCN,Portugal,Both sexes,92
+2015,VC_IHR_PSRCN,Portugal,Male,68
+2015,VC_IHR_PSRCN,Portugal,Both sexes,100
+2015,VC_IHR_PSRCN,Portugal,Female,32
+2016,VC_IHR_PSRCN,Portugal,Both sexes,66
+2016,VC_IHR_PSRCN,Portugal,Male,48
+2016,VC_IHR_PSRCN,Portugal,Female,18
+2017,VC_IHR_PSRCN,Portugal,Male,52
+2017,VC_IHR_PSRCN,Portugal,Female,24
+2017,VC_IHR_PSRCN,Portugal,Both sexes,76
+2018,VC_IHR_PSRCN,Portugal,Male,54
+2018,VC_IHR_PSRCN,Portugal,Both sexes,81
+2018,VC_IHR_PSRCN,Portugal,Female,27
+2019,VC_IHR_PSRCN,Portugal,Male,40
+2019,VC_IHR_PSRCN,Portugal,Both sexes,73
+2019,VC_IHR_PSRCN,Portugal,Female,33
+2020,VC_IHR_PSRCN,Portugal,Female,34
+2020,VC_IHR_PSRCN,Portugal,Male,47
+2020,VC_IHR_PSRCN,Portugal,Both sexes,81
+2021,VC_IHR_PSRCN,Portugal,Both sexes,82
+2000,VC_IHR_PSRCN,Romania,Female,140
+2000,VC_IHR_PSRCN,Romania,Male,416
+2000,VC_IHR_PSRCN,Romania,Both sexes,556
+2001,VC_IHR_PSRCN,Romania,Both sexes,699
+2001,VC_IHR_PSRCN,Romania,Male,522
+2001,VC_IHR_PSRCN,Romania,Female,177
+2002,VC_IHR_PSRCN,Romania,Male,413
+2002,VC_IHR_PSRCN,Romania,Female,243
+2002,VC_IHR_PSRCN,Romania,Both sexes,656
+2003,VC_IHR_PSRCN,Romania,Both sexes,696
+2003,VC_IHR_PSRCN,Romania,Female,238
+2003,VC_IHR_PSRCN,Romania,Male,458
+2004,VC_IHR_PSRCN,Romania,Male,333
+2004,VC_IHR_PSRCN,Romania,Female,154
+2004,VC_IHR_PSRCN,Romania,Both sexes,487
+2005,VC_IHR_PSRCN,Romania,Both sexes,433
+2005,VC_IHR_PSRCN,Romania,Female,156
+2005,VC_IHR_PSRCN,Romania,Male,277
+2006,VC_IHR_PSRCN,Romania,Male,247
+2006,VC_IHR_PSRCN,Romania,Both sexes,357
+2006,VC_IHR_PSRCN,Romania,Female,110
+2007,VC_IHR_PSRCN,Romania,Both sexes,379
+2007,VC_IHR_PSRCN,Romania,Male,256
+2007,VC_IHR_PSRCN,Romania,Female,123
+2008,VC_IHR_PSRCN,Romania,Female,101
+2008,VC_IHR_PSRCN,Romania,Male,201
+2008,VC_IHR_PSRCN,Romania,Both sexes,302
+2009,VC_IHR_PSRCN,Romania,Both sexes,258
+2009,VC_IHR_PSRCN,Romania,Male,170
+2009,VC_IHR_PSRCN,Romania,Female,88
+2010,VC_IHR_PSRCN,Romania,Both sexes,266
+2010,VC_IHR_PSRCN,Romania,Female,90
+2010,VC_IHR_PSRCN,Romania,Male,176
+2011,VC_IHR_PSRCN,Romania,Both sexes,205
+2011,VC_IHR_PSRCN,Romania,Male,136
+2011,VC_IHR_PSRCN,Romania,Female,69
+2012,VC_IHR_PSRCN,Romania,Male,129
+2012,VC_IHR_PSRCN,Romania,Female,83
+2012,VC_IHR_PSRCN,Romania,Both sexes,212
+2013,VC_IHR_PSRCN,Romania,Both sexes,218
+2013,VC_IHR_PSRCN,Romania,Female,58
+2013,VC_IHR_PSRCN,Romania,Male,160
+2014,VC_IHR_PSRCN,Romania,Male,218
+2014,VC_IHR_PSRCN,Romania,Female,107
+2014,VC_IHR_PSRCN,Romania,Both sexes,325
+2015,VC_IHR_PSRCN,Romania,Both sexes,339
+2015,VC_IHR_PSRCN,Romania,Male,244
+2015,VC_IHR_PSRCN,Romania,Female,95
+2016,VC_IHR_PSRCN,Romania,Female,91
+2016,VC_IHR_PSRCN,Romania,Both sexes,306
+2016,VC_IHR_PSRCN,Romania,Male,215
+2017,VC_IHR_PSRCN,Romania,Both sexes,255
+2017,VC_IHR_PSRCN,Romania,Female,89
+2017,VC_IHR_PSRCN,Romania,Male,166
+2018,VC_IHR_PSRCN,Romania,Both sexes,250
+2018,VC_IHR_PSRCN,Romania,Female,82
+2018,VC_IHR_PSRCN,Romania,Male,168
+2019,VC_IHR_PSRCN,Romania,Female,71
+2019,VC_IHR_PSRCN,Romania,Both sexes,244
+2019,VC_IHR_PSRCN,Romania,Male,173
+2020,VC_IHR_PSRCN,Romania,Both sexes,281
+2020,VC_IHR_PSRCN,Romania,Male,185
+2020,VC_IHR_PSRCN,Romania,Female,96
+2021,VC_IHR_PSRCN,Romania,Both sexes,244
+2021,VC_IHR_PSRCN,Romania,Male,168
+2021,VC_IHR_PSRCN,Romania,Female,76
+2000,VC_IHR_PSRCN,Serbia,Both sexes,228
+2000,VC_IHR_PSRCN,Serbia,Female,60
+2000,VC_IHR_PSRCN,Serbia,Male,168
+2001,VC_IHR_PSRCN,Serbia,Male,167
+2001,VC_IHR_PSRCN,Serbia,Female,76
+2001,VC_IHR_PSRCN,Serbia,Both sexes,243
+2002,VC_IHR_PSRCN,Serbia,Both sexes,200
+2002,VC_IHR_PSRCN,Serbia,Female,56
+2002,VC_IHR_PSRCN,Serbia,Male,144
+2003,VC_IHR_PSRCN,Serbia,Male,109
+2003,VC_IHR_PSRCN,Serbia,Both sexes,176
+2003,VC_IHR_PSRCN,Serbia,Female,67
+2004,VC_IHR_PSRCN,Serbia,Both sexes,164
+2004,VC_IHR_PSRCN,Serbia,Male,113
+2004,VC_IHR_PSRCN,Serbia,Female,51
+2005,VC_IHR_PSRCN,Serbia,Female,45
+2005,VC_IHR_PSRCN,Serbia,Both sexes,147
+2005,VC_IHR_PSRCN,Serbia,Male,102
+2006,VC_IHR_PSRCN,Serbia,Male,105
+2006,VC_IHR_PSRCN,Serbia,Female,51
+2006,VC_IHR_PSRCN,Serbia,Both sexes,156
+2007,VC_IHR_PSRCN,Serbia,Male,116
+2007,VC_IHR_PSRCN,Serbia,Both sexes,171
+2007,VC_IHR_PSRCN,Serbia,Female,55
+2008,VC_IHR_PSRCN,Serbia,Male,102
+2008,VC_IHR_PSRCN,Serbia,Female,38
+2008,VC_IHR_PSRCN,Serbia,Both sexes,140
+2009,VC_IHR_PSRCN,Serbia,Both sexes,154
+2009,VC_IHR_PSRCN,Serbia,Female,38
+2009,VC_IHR_PSRCN,Serbia,Male,116
+2010,VC_IHR_PSRCN,Serbia,Female,43
+2010,VC_IHR_PSRCN,Serbia,Both sexes,132
+2010,VC_IHR_PSRCN,Serbia,Male,89
+2011,VC_IHR_PSRCN,Serbia,Male,89
+2011,VC_IHR_PSRCN,Serbia,Female,40
+2011,VC_IHR_PSRCN,Serbia,Both sexes,129
+2012,VC_IHR_PSRCN,Serbia,Male,71
+2012,VC_IHR_PSRCN,Serbia,Female,39
+2012,VC_IHR_PSRCN,Serbia,Both sexes,110
+2013,VC_IHR_PSRCN,Serbia,Male,92
+2013,VC_IHR_PSRCN,Serbia,Both sexes,139
+2013,VC_IHR_PSRCN,Serbia,Female,47
+2014,VC_IHR_PSRCN,Serbia,Male,81
+2014,VC_IHR_PSRCN,Serbia,Female,37
+2014,VC_IHR_PSRCN,Serbia,Both sexes,118
+2015,VC_IHR_PSRCN,Serbia,Male,70
+2015,VC_IHR_PSRCN,Serbia,Both sexes,100
+2015,VC_IHR_PSRCN,Serbia,Female,30
+2016,VC_IHR_PSRCN,Serbia,Female,38
+2016,VC_IHR_PSRCN,Serbia,Both sexes,116
+2016,VC_IHR_PSRCN,Serbia,Male,78
+2017,VC_IHR_PSRCN,Serbia,Female,25
+2017,VC_IHR_PSRCN,Serbia,Male,61
+2017,VC_IHR_PSRCN,Serbia,Both sexes,86
+2018,VC_IHR_PSRCN,Serbia,Both sexes,105
+2018,VC_IHR_PSRCN,Serbia,Male,77
+2018,VC_IHR_PSRCN,Serbia,Female,28
+2019,VC_IHR_PSRCN,Serbia,Female,28
+2019,VC_IHR_PSRCN,Serbia,Male,60
+2019,VC_IHR_PSRCN,Serbia,Both sexes,88
+2020,VC_IHR_PSRCN,Serbia,Both sexes,84
+2020,VC_IHR_PSRCN,Serbia,Female,22
+2020,VC_IHR_PSRCN,Serbia,Male,62
+2021,VC_IHR_PSRCN,Serbia,Female,27
+2021,VC_IHR_PSRCN,Serbia,Male,50
+2021,VC_IHR_PSRCN,Serbia,Both sexes,77
+2000,VC_IHR_PSRCN,Slovakia,Female,34
+2000,VC_IHR_PSRCN,Slovakia,Male,95
+2000,VC_IHR_PSRCN,Slovakia,Both sexes,129
+2001,VC_IHR_PSRCN,Slovakia,Both sexes,118
+2001,VC_IHR_PSRCN,Slovakia,Male,85
+2001,VC_IHR_PSRCN,Slovakia,Female,33
+2002,VC_IHR_PSRCN,Slovakia,Both sexes,121
+2002,VC_IHR_PSRCN,Slovakia,Female,49
+2002,VC_IHR_PSRCN,Slovakia,Male,72
+2003,VC_IHR_PSRCN,Slovakia,Both sexes,137
+2003,VC_IHR_PSRCN,Slovakia,Male,90
+2003,VC_IHR_PSRCN,Slovakia,Female,47
+2004,VC_IHR_PSRCN,Slovakia,Female,36
+2004,VC_IHR_PSRCN,Slovakia,Male,72
+2004,VC_IHR_PSRCN,Slovakia,Both sexes,108
+2005,VC_IHR_PSRCN,Slovakia,Male,61
+2005,VC_IHR_PSRCN,Slovakia,Both sexes,93
+2005,VC_IHR_PSRCN,Slovakia,Female,32
+2006,VC_IHR_PSRCN,Slovakia,Female,15
+2006,VC_IHR_PSRCN,Slovakia,Both sexes,82
+2006,VC_IHR_PSRCN,Slovakia,Male,67
+2007,VC_IHR_PSRCN,Slovakia,Male,54
+2007,VC_IHR_PSRCN,Slovakia,Female,28
+2007,VC_IHR_PSRCN,Slovakia,Both sexes,82
+2008,VC_IHR_PSRCN,Slovakia,Both sexes,86
+2008,VC_IHR_PSRCN,Slovakia,Female,24
+2008,VC_IHR_PSRCN,Slovakia,Male,62
+2009,VC_IHR_PSRCN,Slovakia,Male,46
+2009,VC_IHR_PSRCN,Slovakia,Female,32
+2009,VC_IHR_PSRCN,Slovakia,Both sexes,78
+2010,VC_IHR_PSRCN,Slovakia,Female,31
+2010,VC_IHR_PSRCN,Slovakia,Male,51
+2010,VC_IHR_PSRCN,Slovakia,Both sexes,89
+2011,VC_IHR_PSRCN,Slovakia,Male,57
+2011,VC_IHR_PSRCN,Slovakia,Female,31
+2011,VC_IHR_PSRCN,Slovakia,Both sexes,96
+2012,VC_IHR_PSRCN,Slovakia,Female,18
+2012,VC_IHR_PSRCN,Slovakia,Both sexes,75
+2012,VC_IHR_PSRCN,Slovakia,Male,45
+2013,VC_IHR_PSRCN,Slovakia,Male,48
+2013,VC_IHR_PSRCN,Slovakia,Both sexes,78
+2013,VC_IHR_PSRCN,Slovakia,Female,23
+2014,VC_IHR_PSRCN,Slovakia,Female,19
+2014,VC_IHR_PSRCN,Slovakia,Male,46
+2014,VC_IHR_PSRCN,Slovakia,Both sexes,72
+2015,VC_IHR_PSRCN,Slovakia,Female,14
+2015,VC_IHR_PSRCN,Slovakia,Both sexes,48
+2015,VC_IHR_PSRCN,Slovakia,Male,30
+2016,VC_IHR_PSRCN,Slovakia,Female,20
+2016,VC_IHR_PSRCN,Slovakia,Male,37
+2016,VC_IHR_PSRCN,Slovakia,Both sexes,60
+2017,VC_IHR_PSRCN,Slovakia,Both sexes,80
+2017,VC_IHR_PSRCN,Slovakia,Male,55
+2017,VC_IHR_PSRCN,Slovakia,Female,19
+2018,VC_IHR_PSRCN,Slovakia,Female,26
+2018,VC_IHR_PSRCN,Slovakia,Male,36
+2018,VC_IHR_PSRCN,Slovakia,Both sexes,67
+2019,VC_IHR_PSRCN,Slovakia,Female,15
+2019,VC_IHR_PSRCN,Slovakia,Male,54
+2019,VC_IHR_PSRCN,Slovakia,Both sexes,76
+2020,VC_IHR_PSRCN,Slovakia,Male,33
+2020,VC_IHR_PSRCN,Slovakia,Female,28
+2020,VC_IHR_PSRCN,Slovakia,Both sexes,63
+2021,VC_IHR_PSRCN,Slovakia,Male,31
+2021,VC_IHR_PSRCN,Slovakia,Both sexes,55
+2021,VC_IHR_PSRCN,Slovakia,Female,18
+2001,VC_IHR_PSRCN,Viet Nam,Both sexes,1004
+2002,VC_IHR_PSRCN,Viet Nam,Both sexes,1067
+2003,VC_IHR_PSRCN,Viet Nam,Both sexes,1059
+2004,VC_IHR_PSRCN,Viet Nam,Both sexes,1063
+2005,VC_IHR_PSRCN,Viet Nam,Both sexes,1053
+2006,VC_IHR_PSRCN,Viet Nam,Both sexes,1048
+2007,VC_IHR_PSRCN,Viet Nam,Both sexes,1168
+2008,VC_IHR_PSRCN,Viet Nam,Both sexes,1092
+2009,VC_IHR_PSRCN,Viet Nam,Both sexes,1233
+2010,VC_IHR_PSRCN,Viet Nam,Both sexes,1336
+2011,VC_IHR_PSRCN,Viet Nam,Both sexes,1358
+2000,VC_IHR_PSRCN,Slovenia,Both sexes,36
+2001,VC_IHR_PSRCN,Slovenia,Both sexes,28
+2002,VC_IHR_PSRCN,Slovenia,Both sexes,36
+2003,VC_IHR_PSRCN,Slovenia,Both sexes,21
+2004,VC_IHR_PSRCN,Slovenia,Both sexes,27
+2004,VC_IHR_PSRCN,Slovenia,Female,7
+2004,VC_IHR_PSRCN,Slovenia,Male,20
+2005,VC_IHR_PSRCN,Slovenia,Female,10
+2005,VC_IHR_PSRCN,Slovenia,Male,10
+2005,VC_IHR_PSRCN,Slovenia,Both sexes,20
+2006,VC_IHR_PSRCN,Slovenia,Both sexes,12
+2006,VC_IHR_PSRCN,Slovenia,Male,9
+2006,VC_IHR_PSRCN,Slovenia,Female,3
+2007,VC_IHR_PSRCN,Slovenia,Female,8
+2007,VC_IHR_PSRCN,Slovenia,Male,16
+2007,VC_IHR_PSRCN,Slovenia,Both sexes,24
+2008,VC_IHR_PSRCN,Slovenia,Both sexes,10
+2008,VC_IHR_PSRCN,Slovenia,Male,5
+2008,VC_IHR_PSRCN,Slovenia,Female,5
+2009,VC_IHR_PSRCN,Slovenia,Female,7
+2009,VC_IHR_PSRCN,Slovenia,Male,6
+2009,VC_IHR_PSRCN,Slovenia,Both sexes,13
+2010,VC_IHR_PSRCN,Slovenia,Both sexes,15
+2010,VC_IHR_PSRCN,Slovenia,Male,7
+2010,VC_IHR_PSRCN,Slovenia,Female,8
+2011,VC_IHR_PSRCN,Slovenia,Female,7
+2011,VC_IHR_PSRCN,Slovenia,Male,9
+2011,VC_IHR_PSRCN,Slovenia,Both sexes,16
+2012,VC_IHR_PSRCN,Slovenia,Both sexes,14
+2012,VC_IHR_PSRCN,Slovenia,Male,8
+2012,VC_IHR_PSRCN,Slovenia,Female,6
+2013,VC_IHR_PSRCN,Slovenia,Female,3
+2013,VC_IHR_PSRCN,Slovenia,Male,9
+2013,VC_IHR_PSRCN,Slovenia,Both sexes,12
+2014,VC_IHR_PSRCN,Slovenia,Both sexes,16
+2014,VC_IHR_PSRCN,Slovenia,Female,6
+2014,VC_IHR_PSRCN,Slovenia,Male,10
+2015,VC_IHR_PSRCN,Slovenia,Female,11
+2015,VC_IHR_PSRCN,Slovenia,Both sexes,20
+2015,VC_IHR_PSRCN,Slovenia,Male,9
+2016,VC_IHR_PSRCN,Slovenia,Male,8
+2016,VC_IHR_PSRCN,Slovenia,Both sexes,10
+2016,VC_IHR_PSRCN,Slovenia,Female,2
+2017,VC_IHR_PSRCN,Slovenia,Female,9
+2017,VC_IHR_PSRCN,Slovenia,Both sexes,19
+2017,VC_IHR_PSRCN,Slovenia,Male,10
+2016,VC_IHR_PSRCN,China,Both sexes,8634
+2017,VC_IHR_PSRCN,China,Both sexes,7990
+2018,VC_IHR_PSRCN,China,Both sexes,7525
+2019,VC_IHR_PSRCN,China,Both sexes,7379
+2020,VC_IHR_PSRCN,China,Both sexes,7157
+2000,VC_IHR_PSRCN,Colombia,Female,1924
+2000,VC_IHR_PSRCN,Colombia,Male,24615
+2000,VC_IHR_PSRCN,Colombia,Both sexes,26539
+2001,VC_IHR_PSRCN,Colombia,Female,2214
+2001,VC_IHR_PSRCN,Colombia,Male,25626
+2001,VC_IHR_PSRCN,Colombia,Both sexes,27840
+2002,VC_IHR_PSRCN,Colombia,Male,26145
+2018,VC_IHR_PSRCN,Slovenia,Both sexes,9
+2018,VC_IHR_PSRCN,Slovenia,Male,4
+2018,VC_IHR_PSRCN,Slovenia,Female,5
+2019,VC_IHR_PSRCN,Slovenia,Female,7
+2019,VC_IHR_PSRCN,Slovenia,Male,7
+2019,VC_IHR_PSRCN,Slovenia,Both sexes,14
+2020,VC_IHR_PSRCN,Slovenia,Both sexes,11
+2020,VC_IHR_PSRCN,Slovenia,Male,5
+2020,VC_IHR_PSRCN,Slovenia,Female,6
+2021,VC_IHR_PSRCN,Slovenia,Both sexes,9
+2021,VC_IHR_PSRCN,Slovenia,Male,3
+2021,VC_IHR_PSRCN,Slovenia,Female,6
+2000,VC_IHR_PSRCN,Spain,Both sexes,553
+2001,VC_IHR_PSRCN,Spain,Male,444
+2001,VC_IHR_PSRCN,Spain,Female,133
+2001,VC_IHR_PSRCN,Spain,Both sexes,577
+2002,VC_IHR_PSRCN,Spain,Female,134
+2002,VC_IHR_PSRCN,Spain,Both sexes,564
+2002,VC_IHR_PSRCN,Spain,Male,430
+2003,VC_IHR_PSRCN,Spain,Male,416
+2003,VC_IHR_PSRCN,Spain,Both sexes,587
+2003,VC_IHR_PSRCN,Spain,Female,171
+2004,VC_IHR_PSRCN,Spain,Female,188
+2004,VC_IHR_PSRCN,Spain,Both sexes,520
+2004,VC_IHR_PSRCN,Spain,Male,332
+2005,VC_IHR_PSRCN,Spain,Male,389
+2005,VC_IHR_PSRCN,Spain,Both sexes,518
+2005,VC_IHR_PSRCN,Spain,Female,129
+2006,VC_IHR_PSRCN,Spain,Both sexes,476
+2006,VC_IHR_PSRCN,Spain,Male,316
+2006,VC_IHR_PSRCN,Spain,Female,160
+2007,VC_IHR_PSRCN,Spain,Female,167
+2007,VC_IHR_PSRCN,Spain,Both sexes,482
+2007,VC_IHR_PSRCN,Spain,Male,315
+2008,VC_IHR_PSRCN,Spain,Male,280
+2008,VC_IHR_PSRCN,Spain,Both sexes,407
+2008,VC_IHR_PSRCN,Spain,Female,127
+2009,VC_IHR_PSRCN,Spain,Female,136
+2009,VC_IHR_PSRCN,Spain,Both sexes,412
+2009,VC_IHR_PSRCN,Spain,Male,276
+2010,VC_IHR_PSRCN,Spain,Both sexes,401
+2010,VC_IHR_PSRCN,Spain,Male,245
+2010,VC_IHR_PSRCN,Spain,Female,156
+2011,VC_IHR_PSRCN,Spain,Female,128
+2011,VC_IHR_PSRCN,Spain,Both sexes,385
+2011,VC_IHR_PSRCN,Spain,Male,257
+2012,VC_IHR_PSRCN,Spain,Both sexes,364
+2012,VC_IHR_PSRCN,Spain,Female,125
+2012,VC_IHR_PSRCN,Spain,Male,239
+2013,VC_IHR_PSRCN,Spain,Both sexes,302
+2013,VC_IHR_PSRCN,Spain,Male,181
+2013,VC_IHR_PSRCN,Spain,Female,121
+2014,VC_IHR_PSRCN,Spain,Male,195
+2014,VC_IHR_PSRCN,Spain,Both sexes,323
+2014,VC_IHR_PSRCN,Spain,Female,128
+2015,VC_IHR_PSRCN,Spain,Both sexes,302
+2015,VC_IHR_PSRCN,Spain,Male,181
+2015,VC_IHR_PSRCN,Spain,Female,121
+2016,VC_IHR_PSRCN,Spain,Female,113
+2016,VC_IHR_PSRCN,Spain,Male,181
+2016,VC_IHR_PSRCN,Spain,Both sexes,294
+2017,VC_IHR_PSRCN,Spain,Male,194
+2017,VC_IHR_PSRCN,Spain,Both sexes,307
+2017,VC_IHR_PSRCN,Spain,Female,113
+2018,VC_IHR_PSRCN,Spain,Male,172
+2018,VC_IHR_PSRCN,Spain,Both sexes,289
+2018,VC_IHR_PSRCN,Spain,Female,117
+2019,VC_IHR_PSRCN,Spain,Female,126
+2019,VC_IHR_PSRCN,Spain,Both sexes,331
+2019,VC_IHR_PSRCN,Spain,Male,205
+2020,VC_IHR_PSRCN,Spain,Both sexes,298
+2020,VC_IHR_PSRCN,Spain,Male,179
+2020,VC_IHR_PSRCN,Spain,Female,119
+2021,VC_IHR_PSRCN,Spain,Both sexes,290
+2021,VC_IHR_PSRCN,Spain,Male,193
+2002,VC_IHR_PSRCN,Colombia,Both sexes,28387
+2002,VC_IHR_PSRCN,Colombia,Female,2242
+2003,VC_IHR_PSRCN,Colombia,Female,2000
+2003,VC_IHR_PSRCN,Colombia,Male,21523
+2003,VC_IHR_PSRCN,Colombia,Both sexes,23523
+2004,VC_IHR_PSRCN,Colombia,Both sexes,20210
+2004,VC_IHR_PSRCN,Colombia,Male,18581
+2004,VC_IHR_PSRCN,Colombia,Female,1629
+2005,VC_IHR_PSRCN,Colombia,Male,16619
+2005,VC_IHR_PSRCN,Colombia,Female,1492
+2005,VC_IHR_PSRCN,Colombia,Both sexes,18111
+2006,VC_IHR_PSRCN,Colombia,Male,16156
+2006,VC_IHR_PSRCN,Colombia,Both sexes,17479
+2006,VC_IHR_PSRCN,Colombia,Female,1323
+2007,VC_IHR_PSRCN,Colombia,Female,1385
+2007,VC_IHR_PSRCN,Colombia,Both sexes,17198
+2007,VC_IHR_PSRCN,Colombia,Male,15813
+2008,VC_IHR_PSRCN,Colombia,Male,14878
+2008,VC_IHR_PSRCN,Colombia,Both sexes,16140
+2008,VC_IHR_PSRCN,Colombia,Female,1262
+2009,VC_IHR_PSRCN,Colombia,Male,14557
+2009,VC_IHR_PSRCN,Colombia,Female,1260
+2009,VC_IHR_PSRCN,Colombia,Both sexes,15817
+2010,VC_IHR_PSRCN,Colombia,Male,14233
+2010,VC_IHR_PSRCN,Colombia,Both sexes,15459
+2010,VC_IHR_PSRCN,Colombia,Female,1226
+2011,VC_IHR_PSRCN,Colombia,Female,1348
+2011,VC_IHR_PSRCN,Colombia,Both sexes,16127
+2011,VC_IHR_PSRCN,Colombia,Male,14777
+2012,VC_IHR_PSRCN,Colombia,Male,15046
+2012,VC_IHR_PSRCN,Colombia,Both sexes,16440
+2012,VC_IHR_PSRCN,Colombia,Female,1387
+2013,VC_IHR_PSRCN,Colombia,Female,1223
+2013,VC_IHR_PSRCN,Colombia,Male,14190
+2013,VC_IHR_PSRCN,Colombia,Both sexes,15422
+2014,VC_IHR_PSRCN,Colombia,Female,1173
+2014,VC_IHR_PSRCN,Colombia,Male,12170
+2014,VC_IHR_PSRCN,Colombia,Both sexes,13343
+2015,VC_IHR_PSRCN,Colombia,Both sexes,12783
+2015,VC_IHR_PSRCN,Colombia,Male,11715
+2015,VC_IHR_PSRCN,Colombia,Female,1068
+2016,VC_IHR_PSRCN,Colombia,Male,11365
+2016,VC_IHR_PSRCN,Colombia,Female,1037
+2016,VC_IHR_PSRCN,Colombia,Both sexes,12402
+2017,VC_IHR_PSRCN,Colombia,Both sexes,12298
+2017,VC_IHR_PSRCN,Colombia,Female,1089
+2017,VC_IHR_PSRCN,Colombia,Male,11209
+2018,VC_IHR_PSRCN,Colombia,Female,1094
+2018,VC_IHR_PSRCN,Colombia,Both sexes,12926
+2018,VC_IHR_PSRCN,Colombia,Male,11832
+2019,VC_IHR_PSRCN,Colombia,Both sexes,12925
+2019,VC_IHR_PSRCN,Colombia,Female,1099
+2019,VC_IHR_PSRCN,Colombia,Male,11826
+2020,VC_IHR_PSRCN,Colombia,Male,11372
+2020,VC_IHR_PSRCN,Colombia,Both sexes,12347
+2020,VC_IHR_PSRCN,Colombia,Female,975
+2021,VC_IHR_PSRCN,Colombia,Both sexes,14159
+2021,VC_IHR_PSRCN,Colombia,Male,13089
+2021,VC_IHR_PSRCN,Colombia,Female,1069
+2000,VC_IHR_PSRCN,Costa Rica,Both sexes,249
+2000,VC_IHR_PSRCN,Costa Rica,Male,209
+2000,VC_IHR_PSRCN,Costa Rica,Female,40
+2001,VC_IHR_PSRCN,Costa Rica,Female,28
+2001,VC_IHR_PSRCN,Costa Rica,Both sexes,257
+2001,VC_IHR_PSRCN,Costa Rica,Male,229
+2002,VC_IHR_PSRCN,Costa Rica,Both sexes,258
+2002,VC_IHR_PSRCN,Costa Rica,Male,224
+2002,VC_IHR_PSRCN,Costa Rica,Female,34
+2003,VC_IHR_PSRCN,Costa Rica,Female,38
+2003,VC_IHR_PSRCN,Costa Rica,Male,262
+2003,VC_IHR_PSRCN,Costa Rica,Both sexes,300
+2004,VC_IHR_PSRCN,Costa Rica,Both sexes,280
+2004,VC_IHR_PSRCN,Costa Rica,Female,39
+2004,VC_IHR_PSRCN,Costa Rica,Male,241
+2005,VC_IHR_PSRCN,Costa Rica,Male,274
+2005,VC_IHR_PSRCN,Costa Rica,Female,61
+2005,VC_IHR_PSRCN,Costa Rica,Both sexes,335
+2006,VC_IHR_PSRCN,Costa Rica,Female,45
+2006,VC_IHR_PSRCN,Costa Rica,Male,306
+2006,VC_IHR_PSRCN,Costa Rica,Both sexes,351
+2007,VC_IHR_PSRCN,Costa Rica,Male,332
+2007,VC_IHR_PSRCN,Costa Rica,Both sexes,369
+2007,VC_IHR_PSRCN,Costa Rica,Female,37
+2008,VC_IHR_PSRCN,Costa Rica,Female,60
+2008,VC_IHR_PSRCN,Costa Rica,Male,452
+2008,VC_IHR_PSRCN,Costa Rica,Both sexes,512
+2009,VC_IHR_PSRCN,Costa Rica,Both sexes,525
+2009,VC_IHR_PSRCN,Costa Rica,Female,59
+2009,VC_IHR_PSRCN,Costa Rica,Male,466
+2010,VC_IHR_PSRCN,Costa Rica,Male,466
+2010,VC_IHR_PSRCN,Costa Rica,Female,61
+2010,VC_IHR_PSRCN,Costa Rica,Both sexes,527
+2011,VC_IHR_PSRCN,Costa Rica,Both sexes,474
+2011,VC_IHR_PSRCN,Costa Rica,Female,64
+2011,VC_IHR_PSRCN,Costa Rica,Male,410
+2012,VC_IHR_PSRCN,Costa Rica,Female,50
+2012,VC_IHR_PSRCN,Costa Rica,Male,357
+2012,VC_IHR_PSRCN,Costa Rica,Both sexes,407
+2013,VC_IHR_PSRCN,Costa Rica,Both sexes,411
+2013,VC_IHR_PSRCN,Costa Rica,Male,375
+2013,VC_IHR_PSRCN,Costa Rica,Female,36
+2014,VC_IHR_PSRCN,Costa Rica,Female,51
+2014,VC_IHR_PSRCN,Costa Rica,Male,426
+2014,VC_IHR_PSRCN,Costa Rica,Both sexes,477
+2015,VC_IHR_PSRCN,Costa Rica,Both sexes,557
+2015,VC_IHR_PSRCN,Costa Rica,Male,515
+2015,VC_IHR_PSRCN,Costa Rica,Female,42
+2016,VC_IHR_PSRCN,Costa Rica,Female,66
+2016,VC_IHR_PSRCN,Costa Rica,Male,512
+2016,VC_IHR_PSRCN,Costa Rica,Both sexes,578
+2017,VC_IHR_PSRCN,Costa Rica,Male,545
+2017,VC_IHR_PSRCN,Costa Rica,Female,58
+2017,VC_IHR_PSRCN,Costa Rica,Both sexes,603
+2018,VC_IHR_PSRCN,Costa Rica,Female,65
+2018,VC_IHR_PSRCN,Costa Rica,Male,519
+2018,VC_IHR_PSRCN,Costa Rica,Both sexes,585
+2019,VC_IHR_PSRCN,Costa Rica,Female,48
+2019,VC_IHR_PSRCN,Costa Rica,Both sexes,563
+2019,VC_IHR_PSRCN,Costa Rica,Male,515
+2020,VC_IHR_PSRCN,Costa Rica,Male,508
+2020,VC_IHR_PSRCN,Costa Rica,Female,62
+2020,VC_IHR_PSRCN,Costa Rica,Both sexes,570
+2021,VC_IHR_PSRCN,Costa Rica,Both sexes,588
+2021,VC_IHR_PSRCN,Costa Rica,Female,56
+2021,VC_IHR_PSRCN,Costa Rica,Male,532
+2000,VC_IHR_PSRCN,Croatia,Both sexes,101
+2000,VC_IHR_PSRCN,Croatia,Male,69
+2000,VC_IHR_PSRCN,Croatia,Female,32
+2001,VC_IHR_PSRCN,Croatia,Female,28
+2001,VC_IHR_PSRCN,Croatia,Male,53
+2001,VC_IHR_PSRCN,Croatia,Both sexes,81
+2002,VC_IHR_PSRCN,Croatia,Both sexes,73
+2002,VC_IHR_PSRCN,Croatia,Male,41
+2002,VC_IHR_PSRCN,Croatia,Female,32
+2003,VC_IHR_PSRCN,Croatia,Female,22
+2003,VC_IHR_PSRCN,Croatia,Both sexes,69
+2003,VC_IHR_PSRCN,Croatia,Male,47
+2004,VC_IHR_PSRCN,Croatia,Male,46
+2004,VC_IHR_PSRCN,Croatia,Both sexes,83
+2004,VC_IHR_PSRCN,Croatia,Female,37
+2005,VC_IHR_PSRCN,Croatia,Male,41
+2005,VC_IHR_PSRCN,Croatia,Female,27
+2005,VC_IHR_PSRCN,Croatia,Both sexes,68
+2006,VC_IHR_PSRCN,Croatia,Both sexes,74
+2006,VC_IHR_PSRCN,Croatia,Male,42
+2006,VC_IHR_PSRCN,Croatia,Female,32
+2007,VC_IHR_PSRCN,Croatia,Female,24
+2007,VC_IHR_PSRCN,Croatia,Male,38
+2007,VC_IHR_PSRCN,Croatia,Both sexes,62
+2008,VC_IHR_PSRCN,Croatia,Male,47
+2008,VC_IHR_PSRCN,Croatia,Female,24
+2008,VC_IHR_PSRCN,Croatia,Both sexes,71
+2009,VC_IHR_PSRCN,Croatia,Male,25
+2009,VC_IHR_PSRCN,Croatia,Female,24
+2009,VC_IHR_PSRCN,Croatia,Both sexes,49
+2010,VC_IHR_PSRCN,Croatia,Both sexes,62
+2010,VC_IHR_PSRCN,Croatia,Female,32
+2010,VC_IHR_PSRCN,Croatia,Male,30
+2011,VC_IHR_PSRCN,Croatia,Male,28
+2011,VC_IHR_PSRCN,Croatia,Female,21
+2011,VC_IHR_PSRCN,Croatia,Both sexes,49
+2012,VC_IHR_PSRCN,Croatia,Female,18
+2012,VC_IHR_PSRCN,Croatia,Male,33
+2012,VC_IHR_PSRCN,Croatia,Both sexes,51
+2013,VC_IHR_PSRCN,Croatia,Male,25
+2013,VC_IHR_PSRCN,Croatia,Female,21
+2013,VC_IHR_PSRCN,Croatia,Both sexes,46
+2014,VC_IHR_PSRCN,Croatia,Female,17
+2014,VC_IHR_PSRCN,Croatia,Male,19
+2014,VC_IHR_PSRCN,Croatia,Both sexes,36
+2015,VC_IHR_PSRCN,Croatia,Both sexes,37
+2015,VC_IHR_PSRCN,Croatia,Male,22
+2015,VC_IHR_PSRCN,Croatia,Female,15
+2016,VC_IHR_PSRCN,Croatia,Male,24
+2016,VC_IHR_PSRCN,Croatia,Both sexes,44
+2016,VC_IHR_PSRCN,Croatia,Female,20
+2017,VC_IHR_PSRCN,Croatia,Male,28
+2017,VC_IHR_PSRCN,Croatia,Female,18
+2017,VC_IHR_PSRCN,Croatia,Both sexes,46
+2018,VC_IHR_PSRCN,Croatia,Both sexes,24
+2018,VC_IHR_PSRCN,Croatia,Male,16
+2018,VC_IHR_PSRCN,Croatia,Female,8
+2019,VC_IHR_PSRCN,Croatia,Female,14
+2019,VC_IHR_PSRCN,Croatia,Both sexes,33
+2019,VC_IHR_PSRCN,Croatia,Male,19
+2020,VC_IHR_PSRCN,Croatia,Both sexes,40
+2020,VC_IHR_PSRCN,Croatia,Female,19
+2020,VC_IHR_PSRCN,Croatia,Male,21
+2021,VC_IHR_PSRCN,Croatia,Female,14
+2021,VC_IHR_PSRCN,Croatia,Male,19
+2021,VC_IHR_PSRCN,Croatia,Both sexes,33
+2000,VC_IHR_PSRCN,Cyprus,Both sexes,8
+2001,VC_IHR_PSRCN,Cyprus,Both sexes,7
+2002,VC_IHR_PSRCN,Cyprus,Both sexes,2
+2004,VC_IHR_PSRCN,Cyprus,Both sexes,16
+2004,VC_IHR_PSRCN,Cyprus,Male,12
+2004,VC_IHR_PSRCN,Cyprus,Female,4
+2005,VC_IHR_PSRCN,Cyprus,Male,18
+2005,VC_IHR_PSRCN,Cyprus,Both sexes,20
+2005,VC_IHR_PSRCN,Cyprus,Female,2
+2006,VC_IHR_PSRCN,Cyprus,Male,11
+2006,VC_IHR_PSRCN,Cyprus,Both sexes,15
+2006,VC_IHR_PSRCN,Cyprus,Female,4
+2007,VC_IHR_PSRCN,Cyprus,Both sexes,13
+2007,VC_IHR_PSRCN,Cyprus,Male,10
+2007,VC_IHR_PSRCN,Cyprus,Female,3
+2008,VC_IHR_PSRCN,Cyprus,Female,2
+2008,VC_IHR_PSRCN,Cyprus,Male,7
+2008,VC_IHR_PSRCN,Cyprus,Both sexes,9
+2009,VC_IHR_PSRCN,Cyprus,Male,12
+2009,VC_IHR_PSRCN,Cyprus,Female,7
+2009,VC_IHR_PSRCN,Cyprus,Both sexes,19
+2010,VC_IHR_PSRCN,Cyprus,Female,1
+2010,VC_IHR_PSRCN,Cyprus,Both sexes,8
+2010,VC_IHR_PSRCN,Cyprus,Male,7
+2011,VC_IHR_PSRCN,Cyprus,Male,3
+2011,VC_IHR_PSRCN,Cyprus,Both sexes,9
+2011,VC_IHR_PSRCN,Cyprus,Female,6
+2012,VC_IHR_PSRCN,Cyprus,Female,5
+2012,VC_IHR_PSRCN,Cyprus,Male,17
+2012,VC_IHR_PSRCN,Cyprus,Both sexes,22
+2013,VC_IHR_PSRCN,Cyprus,Female,3
+2013,VC_IHR_PSRCN,Cyprus,Both sexes,12
+2013,VC_IHR_PSRCN,Cyprus,Male,9
+2014,VC_IHR_PSRCN,Cyprus,Both sexes,11
+2014,VC_IHR_PSRCN,Cyprus,Female,5
+2014,VC_IHR_PSRCN,Cyprus,Male,6
+2015,VC_IHR_PSRCN,Cyprus,Male,12
+2015,VC_IHR_PSRCN,Cyprus,Female,3
+2015,VC_IHR_PSRCN,Cyprus,Both sexes,15
+2016,VC_IHR_PSRCN,Cyprus,Both sexes,13
+2016,VC_IHR_PSRCN,Cyprus,Male,8
+2016,VC_IHR_PSRCN,Cyprus,Female,5
+2017,VC_IHR_PSRCN,Cyprus,Both sexes,7
+2017,VC_IHR_PSRCN,Cyprus,Male,7
+2017,VC_IHR_PSRCN,Cyprus,Female,0
+2018,VC_IHR_PSRCN,Cyprus,Male,9
+2018,VC_IHR_PSRCN,Cyprus,Both sexes,15
+2018,VC_IHR_PSRCN,Cyprus,Female,6
+2019,VC_IHR_PSRCN,Cyprus,Both sexes,15
+2019,VC_IHR_PSRCN,Cyprus,Female,10
+2019,VC_IHR_PSRCN,Cyprus,Male,5
+2020,VC_IHR_PSRCN,Cyprus,Female,5
+2020,VC_IHR_PSRCN,Cyprus,Male,10
+2020,VC_IHR_PSRCN,Cyprus,Both sexes,15
+2021,VC_IHR_PSRCN,Cyprus,Female,7
+2021,VC_IHR_PSRCN,Cyprus,Both sexes,16
+2021,VC_IHR_PSRCN,Cyprus,Male,9
+2000,VC_IHR_PSRCN,Czechia,Male,142
+2000,VC_IHR_PSRCN,Czechia,Female,49
+2000,VC_IHR_PSRCN,Czechia,Both sexes,191
+2001,VC_IHR_PSRCN,Czechia,Female,47
+2001,VC_IHR_PSRCN,Czechia,Male,88
+2001,VC_IHR_PSRCN,Czechia,Both sexes,135
+2002,VC_IHR_PSRCN,Czechia,Both sexes,139
+2002,VC_IHR_PSRCN,Czechia,Female,58
+2002,VC_IHR_PSRCN,Czechia,Male,81
+2003,VC_IHR_PSRCN,Czechia,Both sexes,163
+2003,VC_IHR_PSRCN,Czechia,Female,58
+2003,VC_IHR_PSRCN,Czechia,Male,105
+2004,VC_IHR_PSRCN,Czechia,Both sexes,134
+2004,VC_IHR_PSRCN,Czechia,Male,84
+2004,VC_IHR_PSRCN,Czechia,Female,50
+2005,VC_IHR_PSRCN,Czechia,Female,45
+2005,VC_IHR_PSRCN,Czechia,Male,63
+2005,VC_IHR_PSRCN,Czechia,Both sexes,108
+2006,VC_IHR_PSRCN,Czechia,Both sexes,130
+2006,VC_IHR_PSRCN,Czechia,Male,76
+2006,VC_IHR_PSRCN,Czechia,Female,54
+2007,VC_IHR_PSRCN,Czechia,Female,55
+2007,VC_IHR_PSRCN,Czechia,Both sexes,126
+2007,VC_IHR_PSRCN,Czechia,Male,71
+2008,VC_IHR_PSRCN,Czechia,Male,70
+2008,VC_IHR_PSRCN,Czechia,Both sexes,114
+2008,VC_IHR_PSRCN,Czechia,Female,44
+2009,VC_IHR_PSRCN,Czechia,Female,38
+2009,VC_IHR_PSRCN,Czechia,Male,56
+2009,VC_IHR_PSRCN,Czechia,Both sexes,94
+2010,VC_IHR_PSRCN,Czechia,Both sexes,103
+2010,VC_IHR_PSRCN,Czechia,Male,50
+2010,VC_IHR_PSRCN,Czechia,Female,53
+2011,VC_IHR_PSRCN,Czechia,Female,44
+2011,VC_IHR_PSRCN,Czechia,Male,42
+2011,VC_IHR_PSRCN,Czechia,Both sexes,86
+2012,VC_IHR_PSRCN,Czechia,Both sexes,105
+2012,VC_IHR_PSRCN,Czechia,Male,57
+2012,VC_IHR_PSRCN,Czechia,Female,48
+2013,VC_IHR_PSRCN,Czechia,Female,51
+2013,VC_IHR_PSRCN,Czechia,Male,39
+2013,VC_IHR_PSRCN,Czechia,Both sexes,90
+2014,VC_IHR_PSRCN,Czechia,Both sexes,81
+2014,VC_IHR_PSRCN,Czechia,Female,45
+2014,VC_IHR_PSRCN,Czechia,Male,36
+2015,VC_IHR_PSRCN,Czechia,Male,39
+2015,VC_IHR_PSRCN,Czechia,Female,49
+2015,VC_IHR_PSRCN,Czechia,Both sexes,88
+2016,VC_IHR_PSRCN,Czechia,Both sexes,65
+2016,VC_IHR_PSRCN,Czechia,Female,36
+2016,VC_IHR_PSRCN,Czechia,Male,29
+2017,VC_IHR_PSRCN,Czechia,Male,36
+2017,VC_IHR_PSRCN,Czechia,Female,30
+2017,VC_IHR_PSRCN,Czechia,Both sexes,66
+2019,VC_IHR_PSRCN,Czechia,Both sexes,97
+2019,VC_IHR_PSRCN,Czechia,Male,58
+2019,VC_IHR_PSRCN,Czechia,Female,39
+2020,VC_IHR_PSRCN,Czechia,Male,38
+2020,VC_IHR_PSRCN,Czechia,Female,39
+2020,VC_IHR_PSRCN,Czechia,Both sexes,77
+2021,VC_IHR_PSRCN,Czechia,Male,20
+2021,VC_IHR_PSRCN,Czechia,Female,27
+2021,VC_IHR_PSRCN,Czechia,Both sexes,47
+2000,VC_IHR_PSRCN,Denmark,Male,26
+2000,VC_IHR_PSRCN,Denmark,Both sexes,58
+2000,VC_IHR_PSRCN,Denmark,Female,32
+2001,VC_IHR_PSRCN,Denmark,Female,19
+2001,VC_IHR_PSRCN,Denmark,Male,33
+2001,VC_IHR_PSRCN,Denmark,Both sexes,52
+2002,VC_IHR_PSRCN,Denmark,Male,33
+2002,VC_IHR_PSRCN,Denmark,Both sexes,48
+2002,VC_IHR_PSRCN,Denmark,Female,15
+2003,VC_IHR_PSRCN,Denmark,Male,37
+2003,VC_IHR_PSRCN,Denmark,Female,28
+2004,VC_IHR_PSRCN,Denmark,Male,26
+2004,VC_IHR_PSRCN,Denmark,Female,17
+2005,VC_IHR_PSRCN,Denmark,Female,18
+2005,VC_IHR_PSRCN,Denmark,Male,35
+2006,VC_IHR_PSRCN,Denmark,Male,18
+2006,VC_IHR_PSRCN,Denmark,Female,11
+2007,VC_IHR_PSRCN,Denmark,Female,17
+2007,VC_IHR_PSRCN,Denmark,Male,22
+2008,VC_IHR_PSRCN,Denmark,Male,37
+2008,VC_IHR_PSRCN,Denmark,Female,17
+2009,VC_IHR_PSRCN,Denmark,Male,33
+2009,VC_IHR_PSRCN,Denmark,Female,14
+2010,VC_IHR_PSRCN,Denmark,Both sexes,42
+2010,VC_IHR_PSRCN,Denmark,Male,20
+2010,VC_IHR_PSRCN,Denmark,Female,22
+2011,VC_IHR_PSRCN,Denmark,Male,31
+2011,VC_IHR_PSRCN,Denmark,Female,15
+2011,VC_IHR_PSRCN,Denmark,Both sexes,46
+2012,VC_IHR_PSRCN,Denmark,Female,16
+2012,VC_IHR_PSRCN,Denmark,Both sexes,47
+2012,VC_IHR_PSRCN,Denmark,Male,31
+2013,VC_IHR_PSRCN,Denmark,Male,35
+2013,VC_IHR_PSRCN,Denmark,Both sexes,48
+2013,VC_IHR_PSRCN,Denmark,Female,13
+2014,VC_IHR_PSRCN,Denmark,Both sexes,74
+2014,VC_IHR_PSRCN,Denmark,Male,43
+2014,VC_IHR_PSRCN,Denmark,Female,31
+2015,VC_IHR_PSRCN,Denmark,Male,39
+2015,VC_IHR_PSRCN,Denmark,Both sexes,62
+2015,VC_IHR_PSRCN,Denmark,Female,23
+2016,VC_IHR_PSRCN,Denmark,Female,23
+2016,VC_IHR_PSRCN,Denmark,Male,33
+2016,VC_IHR_PSRCN,Denmark,Both sexes,56
+2017,VC_IHR_PSRCN,Denmark,Both sexes,71
+2017,VC_IHR_PSRCN,Denmark,Male,51
+2017,VC_IHR_PSRCN,Denmark,Female,20
+2018,VC_IHR_PSRCN,Denmark,Male,38
+2018,VC_IHR_PSRCN,Denmark,Both sexes,58
+2018,VC_IHR_PSRCN,Denmark,Female,20
+2019,VC_IHR_PSRCN,Denmark,Female,27
+2019,VC_IHR_PSRCN,Denmark,Both sexes,66
+2019,VC_IHR_PSRCN,Denmark,Male,39
+2020,VC_IHR_PSRCN,Denmark,Female,17
+2020,VC_IHR_PSRCN,Denmark,Male,38
+2020,VC_IHR_PSRCN,Denmark,Both sexes,55
+2021,VC_IHR_PSRCN,Denmark,Both sexes,47
+2021,VC_IHR_PSRCN,Denmark,Female,15
+2021,VC_IHR_PSRCN,Denmark,Male,32
+2000,VC_IHR_PSRCN,Estonia,Male,117
+2000,VC_IHR_PSRCN,Estonia,Female,26
+2000,VC_IHR_PSRCN,Estonia,Both sexes,143
+2001,VC_IHR_PSRCN,Estonia,Female,30
+2001,VC_IHR_PSRCN,Estonia,Both sexes,137
+2001,VC_IHR_PSRCN,Estonia,Male,107
+2002,VC_IHR_PSRCN,Estonia,Male,110
+2002,VC_IHR_PSRCN,Estonia,Female,32
+2002,VC_IHR_PSRCN,Estonia,Both sexes,142
+2003,VC_IHR_PSRCN,Estonia,Female,40
+2003,VC_IHR_PSRCN,Estonia,Male,107
+2004,VC_IHR_PSRCN,Estonia,Male,75
+2004,VC_IHR_PSRCN,Estonia,Female,16
+2005,VC_IHR_PSRCN,Estonia,Female,28
+2005,VC_IHR_PSRCN,Estonia,Male,85
+2006,VC_IHR_PSRCN,Estonia,Male,66
+2006,VC_IHR_PSRCN,Estonia,Female,25
+2007,VC_IHR_PSRCN,Estonia,Female,19
+2007,VC_IHR_PSRCN,Estonia,Male,77
+2007,VC_IHR_PSRCN,Estonia,Both sexes,96
+2008,VC_IHR_PSRCN,Estonia,Both sexes,86
+2008,VC_IHR_PSRCN,Estonia,Male,67
+2008,VC_IHR_PSRCN,Estonia,Female,19
+2009,VC_IHR_PSRCN,Estonia,Both sexes,70
+2009,VC_IHR_PSRCN,Estonia,Male,48
+2009,VC_IHR_PSRCN,Estonia,Female,22
+2010,VC_IHR_PSRCN,Estonia,Male,54
+2010,VC_IHR_PSRCN,Estonia,Female,16
+2010,VC_IHR_PSRCN,Estonia,Both sexes,70
+2011,VC_IHR_PSRCN,Estonia,Both sexes,65
+2011,VC_IHR_PSRCN,Estonia,Male,51
+2011,VC_IHR_PSRCN,Estonia,Female,14
+2012,VC_IHR_PSRCN,Estonia,Female,17
+2012,VC_IHR_PSRCN,Estonia,Male,46
+2012,VC_IHR_PSRCN,Estonia,Both sexes,63
+2013,VC_IHR_PSRCN,Estonia,Female,18
+2013,VC_IHR_PSRCN,Estonia,Both sexes,52
+2013,VC_IHR_PSRCN,Estonia,Male,34
+2014,VC_IHR_PSRCN,Estonia,Female,9
+2014,VC_IHR_PSRCN,Estonia,Male,32
+2014,VC_IHR_PSRCN,Estonia,Both sexes,41
+2015,VC_IHR_PSRCN,Estonia,Male,34
+2015,VC_IHR_PSRCN,Estonia,Both sexes,45
+2015,VC_IHR_PSRCN,Estonia,Female,11
+2016,VC_IHR_PSRCN,Estonia,Both sexes,33
+2016,VC_IHR_PSRCN,Estonia,Female,9
+2016,VC_IHR_PSRCN,Estonia,Male,24
+2017,VC_IHR_PSRCN,Estonia,Male,21
+2017,VC_IHR_PSRCN,Estonia,Female,8
+2017,VC_IHR_PSRCN,Estonia,Both sexes,29
+2018,VC_IHR_PSRCN,Estonia,Both sexes,28
+2018,VC_IHR_PSRCN,Estonia,Female,5
+2018,VC_IHR_PSRCN,Estonia,Male,23
+2019,VC_IHR_PSRCN,Estonia,Female,6
+2019,VC_IHR_PSRCN,Estonia,Male,20
+2019,VC_IHR_PSRCN,Estonia,Both sexes,26
+2020,VC_IHR_PSRCN,Estonia,Female,10
+2020,VC_IHR_PSRCN,Estonia,Both sexes,42
+2020,VC_IHR_PSRCN,Estonia,Male,32
+2021,VC_IHR_PSRCN,Estonia,Both sexes,26
+2021,VC_IHR_PSRCN,Estonia,Female,4
+2021,VC_IHR_PSRCN,Estonia,Male,22
+2000,VC_IHR_PSRCN,Finland,Female,46
+2000,VC_IHR_PSRCN,Finland,Male,102
+2000,VC_IHR_PSRCN,Finland,Both sexes,148
+2001,VC_IHR_PSRCN,Finland,Male,108
+2001,VC_IHR_PSRCN,Finland,Both sexes,156
+2001,VC_IHR_PSRCN,Finland,Female,48
+2002,VC_IHR_PSRCN,Finland,Female,44
+2002,VC_IHR_PSRCN,Finland,Both sexes,132
+2002,VC_IHR_PSRCN,Finland,Male,88
+2003,VC_IHR_PSRCN,Finland,Both sexes,103
+2003,VC_IHR_PSRCN,Finland,Male,73
+2003,VC_IHR_PSRCN,Finland,Female,30
+2004,VC_IHR_PSRCN,Finland,Female,33
+2004,VC_IHR_PSRCN,Finland,Both sexes,148
+2004,VC_IHR_PSRCN,Finland,Male,115
+2005,VC_IHR_PSRCN,Finland,Both sexes,119
+2005,VC_IHR_PSRCN,Finland,Female,35
+2005,VC_IHR_PSRCN,Finland,Male,84
+2006,VC_IHR_PSRCN,Finland,Both sexes,119
+2006,VC_IHR_PSRCN,Finland,Female,37
+2006,VC_IHR_PSRCN,Finland,Male,82
+2007,VC_IHR_PSRCN,Finland,Male,81
+2007,VC_IHR_PSRCN,Finland,Female,48
+2007,VC_IHR_PSRCN,Finland,Both sexes,129
+2008,VC_IHR_PSRCN,Finland,Both sexes,133
+2008,VC_IHR_PSRCN,Finland,Female,44
+2008,VC_IHR_PSRCN,Finland,Male,89
+2009,VC_IHR_PSRCN,Finland,Male,86
+2009,VC_IHR_PSRCN,Finland,Both sexes,120
+2009,VC_IHR_PSRCN,Finland,Female,34
+2010,VC_IHR_PSRCN,Finland,Both sexes,118
+2010,VC_IHR_PSRCN,Finland,Male,91
+2010,VC_IHR_PSRCN,Finland,Female,27
+2021,VC_IHR_PSRCN,Spain,Female,97
+2020,VC_IHR_PSRCN,Uzbekistan,Both sexes,449
+2020,VC_IHR_PSRCN,Uzbekistan,Female,161
+2020,VC_IHR_PSRCN,Uzbekistan,Male,288
+2021,VC_IHR_PSRCN,Uzbekistan,Male,300
+2021,VC_IHR_PSRCN,Uzbekistan,Female,179
+2021,VC_IHR_PSRCN,Uzbekistan,Both sexes,479
+2021,VC_IHR_PSRCN,Malta,Female,0
+2021,VC_IHR_PSRCN,Malta,Female,0

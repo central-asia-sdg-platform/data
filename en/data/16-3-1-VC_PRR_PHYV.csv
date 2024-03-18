@@ -1,0 +1,206 @@
+Year,SeriesCode,Country,Sex,Value
+2010,VC_PRR_PHYV,Australia,Female,54.2
+2010,VC_PRR_PHYV,Australia,Both sexes,50.5
+2010,VC_PRR_PHYV,Australia,Male,47.7
+2011,VC_PRR_PHYV,Australia,Female,55.1
+2011,VC_PRR_PHYV,Australia,Both sexes,50.7
+2011,VC_PRR_PHYV,Australia,Male,47.6
+2012,VC_PRR_PHYV,Australia,Male,44.3
+2012,VC_PRR_PHYV,Australia,Female,55.6
+2012,VC_PRR_PHYV,Australia,Both sexes,49.0
+2013,VC_PRR_PHYV,Australia,Both sexes,49.7
+2013,VC_PRR_PHYV,Australia,Female,51.5
+2013,VC_PRR_PHYV,Australia,Male,48.5
+2014,VC_PRR_PHYV,Australia,Male,52.7
+2014,VC_PRR_PHYV,Australia,Both sexes,51.5
+2014,VC_PRR_PHYV,Australia,Female,51.7
+2015,VC_PRR_PHYV,Australia,Male,56.3
+2015,VC_PRR_PHYV,Australia,Female,53.3
+2015,VC_PRR_PHYV,Australia,Both sexes,54.7
+2016,VC_PRR_PHYV,Australia,Female,55.6
+2016,VC_PRR_PHYV,Australia,Male,53.9
+2016,VC_PRR_PHYV,Australia,Both sexes,54.9
+2017,VC_PRR_PHYV,Australia,Both sexes,53.8
+2017,VC_PRR_PHYV,Australia,Male,51.5
+2017,VC_PRR_PHYV,Australia,Female,55.8
+2018,VC_PRR_PHYV,Australia,Both sexes,51.8
+2018,VC_PRR_PHYV,Australia,Male,52.4
+2018,VC_PRR_PHYV,Australia,Female,52.2
+2019,VC_PRR_PHYV,Australia,Male,51.4
+2019,VC_PRR_PHYV,Australia,Female,54.0
+2019,VC_PRR_PHYV,Australia,Both sexes,52.5
+2020,VC_PRR_PHYV,Australia,Male,50.0
+2020,VC_PRR_PHYV,Australia,Both sexes,51.7
+2020,VC_PRR_PHYV,Australia,Female,53.2
+2021,VC_PRR_PHYV,Australia,Male,61.9
+2021,VC_PRR_PHYV,Australia,Both sexes,59.5
+2021,VC_PRR_PHYV,Australia,Female,58.8
+2018,VC_PRR_PHYV,Belarus,Male,28.0
+2018,VC_PRR_PHYV,Belarus,Female,25.0
+2014,VC_PRR_PHYV,Canada,Both sexes,38.0
+2014,VC_PRR_PHYV,Canada,Male,38.57
+2014,VC_PRR_PHYV,Canada,Female,37.46
+2019,VC_PRR_PHYV,Canada,Both sexes,36.1
+2019,VC_PRR_PHYV,Canada,Male,41.1
+2019,VC_PRR_PHYV,Canada,Female,31.0
+2015,VC_PRR_PHYV,Chile,Female,60.8
+2015,VC_PRR_PHYV,Chile,Male,44.3
+2015,VC_PRR_PHYV,Chile,Both sexes,50.9
+2016,VC_PRR_PHYV,Chile,Both sexes,50.2
+2016,VC_PRR_PHYV,Chile,Female,69.4
+2016,VC_PRR_PHYV,Chile,Male,39.7
+2017,VC_PRR_PHYV,Chile,Male,43.9
+2017,VC_PRR_PHYV,Chile,Female,53.4
+2017,VC_PRR_PHYV,Chile,Both sexes,47.4
+2018,VC_PRR_PHYV,Chile,Male,35.5
+2018,VC_PRR_PHYV,Chile,Female,57.4
+2018,VC_PRR_PHYV,Chile,Both sexes,45.1
+2019,VC_PRR_PHYV,Chile,Both sexes,41.2
+2019,VC_PRR_PHYV,Chile,Male,38.2
+2019,VC_PRR_PHYV,Chile,Female,44.0
+2020,VC_PRR_PHYV,Chile,Both sexes,63.1
+2020,VC_PRR_PHYV,Chile,Male,53.5
+2020,VC_PRR_PHYV,Chile,Female,79.9
+2021,VC_PRR_PHYV,Chile,Female,66.1
+2021,VC_PRR_PHYV,Chile,Male,44.9
+2021,VC_PRR_PHYV,Chile,Both sexes,53.9
+2012,VC_PRR_PHYV,Colombia,Both sexes,18.0
+2013,VC_PRR_PHYV,Colombia,Both sexes,22.1
+2014,VC_PRR_PHYV,Colombia,Both sexes,20.1
+2015,VC_PRR_PHYV,Colombia,Both sexes,19.7
+2016,VC_PRR_PHYV,Colombia,Both sexes,22.1
+2017,VC_PRR_PHYV,Colombia,Both sexes,25.5
+2018,VC_PRR_PHYV,Colombia,Both sexes,0.0
+2019,VC_PRR_PHYV,Colombia,Both sexes,25.56
+2020,VC_PRR_PHYV,Colombia,Both sexes,27.3
+2010,VC_PRR_PHYV,Czechia,Both sexes,33.0
+2013,VC_PRR_PHYV,Czechia,Both sexes,22.0
+2010,VC_PRR_PHYV,France,Both sexes,31.92
+2011,VC_PRR_PHYV,France,Both sexes,24.13
+2012,VC_PRR_PHYV,France,Female,37.82
+2012,VC_PRR_PHYV,France,Male,25.38
+2012,VC_PRR_PHYV,France,Both sexes,31.74
+2013,VC_PRR_PHYV,France,Male,25.75
+2013,VC_PRR_PHYV,France,Female,30.23
+2013,VC_PRR_PHYV,France,Both sexes,27.89
+2014,VC_PRR_PHYV,France,Female,26.22
+2014,VC_PRR_PHYV,France,Male,22.9
+2014,VC_PRR_PHYV,France,Both sexes,24.53
+2015,VC_PRR_PHYV,France,Male,28.12
+2015,VC_PRR_PHYV,France,Female,26.68
+2015,VC_PRR_PHYV,France,Both sexes,27.38
+2016,VC_PRR_PHYV,France,Both sexes,32.76
+2016,VC_PRR_PHYV,France,Male,30.62
+2016,VC_PRR_PHYV,France,Female,34.6
+2017,VC_PRR_PHYV,France,Female,37.55
+2017,VC_PRR_PHYV,France,Both sexes,31.33
+2017,VC_PRR_PHYV,France,Male,24.29
+2018,VC_PRR_PHYV,France,Both sexes,25.03
+2018,VC_PRR_PHYV,France,Male,20.61
+2018,VC_PRR_PHYV,France,Female,29.3
+2019,VC_PRR_PHYV,France,Female,17.36
+2019,VC_PRR_PHYV,France,Both sexes,17.49
+2019,VC_PRR_PHYV,France,Male,17.62
+2012,VC_PRR_PHYV,Germany,Both sexes,32.9
+2012,VC_PRR_PHYV,Germany,Female,34.1
+2012,VC_PRR_PHYV,Germany,Male,32.3
+2017,VC_PRR_PHYV,Germany,Male,34.6
+2017,VC_PRR_PHYV,Germany,Both sexes,36.6
+2017,VC_PRR_PHYV,Germany,Female,40.0
+2020,VC_PRR_PHYV,Germany,Both sexes,33.5
+2020,VC_PRR_PHYV,Germany,Male,40.3
+2020,VC_PRR_PHYV,Germany,Female,21.3
+2013,VC_PRR_PHYV,Iceland,Both sexes,34.9
+2014,VC_PRR_PHYV,Iceland,Both sexes,34.7
+2015,VC_PRR_PHYV,Iceland,Both sexes,34.2
+2016,VC_PRR_PHYV,Iceland,Both sexes,38.7
+2017,VC_PRR_PHYV,Iceland,Both sexes,35.1
+2018,VC_PRR_PHYV,Iceland,Both sexes,36.4
+2019,VC_PRR_PHYV,Iceland,Male,41.7
+2019,VC_PRR_PHYV,Iceland,Both sexes,43.4
+2019,VC_PRR_PHYV,Iceland,Female,44.1
+2020,VC_PRR_PHYV,Iceland,Both sexes,29.8
+2020,VC_PRR_PHYV,Iceland,Female,34.8
+2020,VC_PRR_PHYV,Iceland,Male,25.9
+2021,VC_PRR_PHYV,Iceland,Both sexes,51.1
+2021,VC_PRR_PHYV,Iceland,Female,55.0
+2021,VC_PRR_PHYV,Iceland,Male,47.0
+2019,VC_PRR_PHYV,Ireland,Both sexes,29.0
+2014,VC_PRR_PHYV,Israel,Male,64.91
+2014,VC_PRR_PHYV,Israel,Both sexes,61.73
+2014,VC_PRR_PHYV,Israel,Female,56.85
+2015,VC_PRR_PHYV,Israel,Male,40.76
+2015,VC_PRR_PHYV,Israel,Both sexes,33.72
+2016,VC_PRR_PHYV,Israel,Both sexes,50.9
+2016,VC_PRR_PHYV,Israel,Male,49.2
+2016,VC_PRR_PHYV,Israel,Female,52.88
+2017,VC_PRR_PHYV,Israel,Both sexes,58.6
+2017,VC_PRR_PHYV,Israel,Female,61.53
+2017,VC_PRR_PHYV,Israel,Male,57.08
+2018,VC_PRR_PHYV,Israel,Female,50.88
+2018,VC_PRR_PHYV,Israel,Male,45.66
+2018,VC_PRR_PHYV,Israel,Both sexes,47.36
+2019,VC_PRR_PHYV,Israel,Both sexes,73.64
+2019,VC_PRR_PHYV,Israel,Male,66.41
+2019,VC_PRR_PHYV,Israel,Female,84.78
+2020,VC_PRR_PHYV,Israel,Male,62.08
+2020,VC_PRR_PHYV,Israel,Both sexes,53.6
+2021,VC_PRR_PHYV,Israel,Female,61.69
+2021,VC_PRR_PHYV,Israel,Both sexes,55.0
+2021,VC_PRR_PHYV,Israel,Male,50.6
+2016,VC_PRR_PHYV,Italy,Both sexes,19.85
+2014,VC_PRR_PHYV,Republic of Korea,Male,16.4
+2014,VC_PRR_PHYV,Republic of Korea,Both sexes,10.9
+2014,VC_PRR_PHYV,Republic of Korea,Female,4.9
+2016,VC_PRR_PHYV,Republic of Korea,Female,28.0
+2016,VC_PRR_PHYV,Republic of Korea,Male,32.7
+2016,VC_PRR_PHYV,Republic of Korea,Both sexes,31.2
+2018,VC_PRR_PHYV,Republic of Korea,Both sexes,34.76
+2020,VC_PRR_PHYV,Republic of Korea,Both sexes,32.92
+2015,VC_PRR_PHYV,Kyrgyzstan,Both sexes,19.4
+2015,VC_PRR_PHYV,Mexico,Both sexes,23.98
+2015,VC_PRR_PHYV,Mexico,Female,36.55
+2015,VC_PRR_PHYV,Mexico,Male,16.19
+2016,VC_PRR_PHYV,Mexico,Both sexes,25.18
+2016,VC_PRR_PHYV,Mexico,Female,33.6
+2016,VC_PRR_PHYV,Mexico,Male,20.15
+2017,VC_PRR_PHYV,Mexico,Both sexes,24.67
+2017,VC_PRR_PHYV,Mexico,Female,35.76
+2017,VC_PRR_PHYV,Mexico,Male,17.36
+2018,VC_PRR_PHYV,Mexico,Female,35.97
+2018,VC_PRR_PHYV,Mexico,Male,16.46
+2018,VC_PRR_PHYV,Mexico,Both sexes,24.58
+2019,VC_PRR_PHYV,Mexico,Male,21.53
+2019,VC_PRR_PHYV,Mexico,Female,34.3
+2019,VC_PRR_PHYV,Mexico,Both sexes,26.98
+2020,VC_PRR_PHYV,Mexico,Female,36.29
+2020,VC_PRR_PHYV,Mexico,Male,18.23
+2020,VC_PRR_PHYV,Mexico,Both sexes,26.21
+2021,VC_PRR_PHYV,Mexico,Both sexes,26.74
+2021,VC_PRR_PHYV,Mexico,Male,16.58
+2021,VC_PRR_PHYV,Mexico,Female,39.07
+2018,VC_PRR_PHYV,New Zealand,Male,23.4
+2018,VC_PRR_PHYV,New Zealand,Both sexes,21.45
+2018,VC_PRR_PHYV,New Zealand,Female,20.0
+2019,VC_PRR_PHYV,New Zealand,Male,17.5
+2019,VC_PRR_PHYV,New Zealand,Both sexes,23.81
+2019,VC_PRR_PHYV,New Zealand,Female,27.5
+2020,VC_PRR_PHYV,New Zealand,Male,29.3
+2020,VC_PRR_PHYV,New Zealand,Both sexes,24.69
+2020,VC_PRR_PHYV,New Zealand,Female,21.9
+2021,VC_PRR_PHYV,New Zealand,Female,17.7
+2021,VC_PRR_PHYV,New Zealand,Both sexes,19.6
+2021,VC_PRR_PHYV,New Zealand,Male,23.4
+2013,VC_PRR_PHYV,Poland,Both sexes,55.7
+2020,VC_PRR_PHYV,Poland,Male,41.7
+2020,VC_PRR_PHYV,Poland,Female,47.6
+2020,VC_PRR_PHYV,Poland,Both sexes,43.9
+2010,VC_PRR_PHYV,Sweden,Both sexes,37.0
+2011,VC_PRR_PHYV,Sweden,Both sexes,35.0
+2012,VC_PRR_PHYV,Sweden,Both sexes,38.0
+2013,VC_PRR_PHYV,Sweden,Both sexes,36.0
+2014,VC_PRR_PHYV,Sweden,Both sexes,30.0
+2015,VC_PRR_PHYV,Sweden,Both sexes,27.0
+2016,VC_PRR_PHYV,Sweden,Both sexes,31.0
+2017,VC_PRR_PHYV,Sweden,Both sexes,31.0
+2017,VC_PRR_PHYV,Sweden,Both sexes,31.0

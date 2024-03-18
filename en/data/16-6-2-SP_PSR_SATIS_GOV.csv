@@ -1,0 +1,133 @@
+Year,SeriesCode,Country,Age,Disability status,Location,Population Group,Quantile,Service Attribute,Sex,Value
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,ACCESS,Both sexes,99
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,95
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Female,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Female,98
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Female,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Female,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,ACCESS,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,AFFORD,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,QUALITY,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Male,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Male,91
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Male,95
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Male,96
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Male,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Male,95
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Female,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Female,89
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,EQUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,ATTITUDE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,AFFORD,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,QUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,EQUALITY,Both sexes,99
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,ATTITUDE,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,AVERAGE,Both sexes,96
+2022,SP_PSR_SATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,AVERAGE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,ACCESS,Both sexes,93
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,EQUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Female,96
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Female,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,ACCESS,Both sexes,91
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,QUALITY,Both sexes,95
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,93
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,ATTITUDE,Both sexes,92
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,91
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,95
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Male,90
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Male,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Male,98
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Male,93
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Male,95
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Female,90
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,QUALITY,Both sexes,96
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,EQUALITY,Both sexes,98
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Female,93
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Female,94
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,ACCESS,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,ATTITUDE,Both sexes,93
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,AVERAGE,Both sexes,95
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,ACCESS,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,QUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,EQUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,ATTITUDE,Both sexes,92
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,AVERAGE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,QUALITY,Both sexes,97
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,AVERAGE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,EQUALITY,Both sexes,98
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,ATTITUDE,Both sexes,94
+2022,SP_PSR_SATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,AVERAGE,Both sexes,95
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Female,46
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,EQUALITY,Both sexes,57
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,QUALITY,Both sexes,77
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,ATTITUDE,Both sexes,39
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Female,60
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Male,73
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Male,86
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,73
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,85
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Male,64
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Female,73
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Female,84
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Male,51
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,EQUALITY,Both sexes,62
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,49
+2022,SP_PSR_SATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,ACCESS,Both sexes,73
+2022,SP_PSR_SATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,85
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,86
+2022,SP_PSR_SATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Female,86
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Female,89
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Female,88
+2022,SP_PSR_SATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,77
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,ACCESS,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,91
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Male,87
+2022,SP_PSR_SATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,86
+2022,SP_PSR_SATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,91
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,AFFORD,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,86
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Female,77
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Female,85
+2022,SP_PSR_SATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,90
+2022,SP_PSR_SATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,86
+2022,SP_PSR_SATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,88
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,AFFORD,Male,89
+2022,SP_PSR_SATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,73
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,QUALITY,Male,89
+2022,SP_PSR_SATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,ACCESS,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,ATTITUDE,Both sexes,77
+2022,SP_PSR_SATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,87
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Male,78
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,AVERAGE,Both sexes,86
+2022,SP_PSR_SATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,77
+2022,SP_PSR_SATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,88
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,QUALITY,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,QUALITY,Both sexes,92
+2022,SP_PSR_SATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,78
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,77
+2022,SP_PSR_SATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,85
+2022,SP_PSR_SATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,78
+2022,SP_PSR_SATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,89
+2022,SP_PSR_SATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,AFFORD,Both sexes,85
+2022,SP_PSR_SATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,ACCESS,Male,90
+2022,SP_PSR_SATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,AVERAGE,Both sexes,84
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,78
+2022,SP_PSR_SATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,ATTITUDE,Both sexes,78

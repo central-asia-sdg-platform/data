@@ -12,8 +12,81 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SP_DYN_MRBF18",
+                "SP_DYN_MRBF15",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Denmark",
+                "Finland",
+                "Georgia",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                "Lithuania",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Norway",
+                "Serbia",
+                "Viet Nam",
+                "Таджикистан",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                "Albania",
+                "Azerbaijan",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "20-24",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

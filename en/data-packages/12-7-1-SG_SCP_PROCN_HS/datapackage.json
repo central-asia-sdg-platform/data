@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_SCP_PROCN_HS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belgium",
+                "Poland",
+                "Spain",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Government_Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VLAAMSE_OVERHEID",
+                "WALLOON_REGION",
+                "LESSER_POLAND_VOIVODESHIP",
+                "PODKARPACKIE_VOIVODESHIP",
+                "GREATER_POLAND_VOIVODESHIP",
+                "SILESIAN_VOIVODESHIP",
+                "SWIETOKRZYSKIE_VOIVODESHIP",
+                "POMERANIAN_VOIVODESHIP",
+                "WEST_POMERANIAN_VOIVODESHIP",
+                "MASOVIAN_VOIVODESHIP",
+                "LOWER_SILESIAN_VOIVODESHIP",
+                "LODZ_VOIVODESHIP",
+                "COMUNIDAD_AUTONOMA_DEL_PAIS_VASCO",
+                ""
+              ]
+            },
+            "title": "Government_Name"
+          },
+          {
+            "name": "Level/Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MHIGIMP",
+                "MLOWIMP",
+                "LOWIMP",
+                ""
+              ]
+            },
+            "title": "Level/Status"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-7-1-SG_SCP_PROCN_HS",
+  "title": "meta.name-12-7-1-SG_SCP_PROCN_HS"
+}

@@ -1,0 +1,109 @@
+Year,SeriesCode,Country,Sex,Value
+2019,SI_COV_MATNL,Albania,Female,47.9
+2016,SI_COV_MATNL,Azerbaijan,Female,14.0
+2020,SI_COV_MATNL,Azerbaijan,Female,16.0
+2020,SI_COV_MATNL,Australia,Female,100.0
+2016,SI_COV_MATNL,Austria,Female,100.0
+2020,SI_COV_MATNL,Austria,Female,100.0
+2016,SI_COV_MATNL,Armenia,Female,61.0
+2020,SI_COV_MATNL,Armenia,Female,61.6
+2016,SI_COV_MATNL,Belgium,Female,100.0
+2020,SI_COV_MATNL,Belgium,Female,100.0
+2020,SI_COV_MATNL,Bosnia and Herzegovina,Female,100.0
+2016,SI_COV_MATNL,Bulgaria,Female,100.0
+2020,SI_COV_MATNL,Bulgaria,Female,100.0
+2020,SI_COV_MATNL,Belarus,Female,100.0
+2016,SI_COV_MATNL,Canada,Female,100.0
+2020,SI_COV_MATNL,Canada,Female,100.0
+2016,SI_COV_MATNL,Chile,Female,44.0
+2020,SI_COV_MATNL,Chile,Female,46.6
+2017,SI_COV_MATNL,China,Female,64.9
+2020,SI_COV_MATNL,China,Female,69.0
+2020,SI_COV_MATNL,Costa Rica,Female,23.4
+2021,SI_COV_MATNL,Costa Rica,Female,27.1
+2016,SI_COV_MATNL,Croatia,Female,100.0
+2020,SI_COV_MATNL,Croatia,Female,100.0
+2016,SI_COV_MATNL,Cyprus,Female,100.0
+2020,SI_COV_MATNL,Cyprus,Female,100.0
+2016,SI_COV_MATNL,Czechia,Female,100.0
+2020,SI_COV_MATNL,Czechia,Female,100.0
+2016,SI_COV_MATNL,Denmark,Female,100.0
+2020,SI_COV_MATNL,Denmark,Female,100.0
+2016,SI_COV_MATNL,Estonia,Female,100.0
+2020,SI_COV_MATNL,Estonia,Female,100.0
+2016,SI_COV_MATNL,Finland,Female,100.0
+2020,SI_COV_MATNL,Finland,Female,100.0
+2016,SI_COV_MATNL,France,Female,100.0
+2020,SI_COV_MATNL,France,Female,100.0
+2016,SI_COV_MATNL,Georgia,Female,24.0
+2020,SI_COV_MATNL,Georgia,Female,26.0
+2016,SI_COV_MATNL,Germany,Female,100.0
+2020,SI_COV_MATNL,Germany,Female,100.0
+2016,SI_COV_MATNL,Greece,Female,100.0
+2020,SI_COV_MATNL,Greece,Female,100.0
+2016,SI_COV_MATNL,Hungary,Female,100.0
+2020,SI_COV_MATNL,Hungary,Female,100.0
+2016,SI_COV_MATNL,Iceland,Female,100.0
+2020,SI_COV_MATNL,Iceland,Female,100.0
+2016,SI_COV_MATNL,India,Female,41.5
+2020,SI_COV_MATNL,India,Female,41.6
+2016,SI_COV_MATNL,Ireland,Female,100.0
+2020,SI_COV_MATNL,Ireland,Female,100.0
+2020,SI_COV_MATNL,Israel,Female,100.0
+2016,SI_COV_MATNL,Italy,Female,100.0
+2020,SI_COV_MATNL,Italy,Female,100.0
+2016,SI_COV_MATNL,Kazakhstan,Female,44.6
+2020,SI_COV_MATNL,Kazakhstan,Female,44.2
+2016,SI_COV_MATNL,Kyrgyzstan,Female,23.8
+2020,SI_COV_MATNL,Kyrgyzstan,Female,23.8
+2016,SI_COV_MATNL,Latvia,Female,100.0
+2020,SI_COV_MATNL,Latvia,Female,100.0
+2016,SI_COV_MATNL,Liechtenstein,Female,100.0
+2020,SI_COV_MATNL,Liechtenstein,Female,100.0
+2016,SI_COV_MATNL,Lithuania,Female,100.0
+2020,SI_COV_MATNL,Lithuania,Female,100.0
+2016,SI_COV_MATNL,Luxembourg,Female,100.0
+2020,SI_COV_MATNL,Luxembourg,Female,100.0
+2016,SI_COV_MATNL,Malta,Female,100.0
+2020,SI_COV_MATNL,Malta,Female,100.0
+2017,SI_COV_MATNL,Mexico,Female,9.6
+2019,SI_COV_MATNL,Mexico,Female,10.5
+2021,SI_COV_MATNL,Mexico,Female,11.5
+2020,SI_COV_MATNL,Moldova,Female,100.0
+2020,SI_COV_MATNL,Montenegro,Female,100.0
+2016,SI_COV_MATNL,Netherlands (Kingdom of the),Female,100.0
+2020,SI_COV_MATNL,Netherlands (Kingdom of the),Female,100.0
+2016,SI_COV_MATNL,New Zealand,Female,100.0
+2020,SI_COV_MATNL,New Zealand,Female,100.0
+2016,SI_COV_MATNL,Norway,Female,100.0
+2020,SI_COV_MATNL,Norway,Female,100.0
+2016,SI_COV_MATNL,Poland,Female,100.0
+2020,SI_COV_MATNL,Poland,Female,100.0
+2016,SI_COV_MATNL,Portugal,Female,100.0
+2020,SI_COV_MATNL,Portugal,Female,100.0
+2016,SI_COV_MATNL,Romania,Female,100.0
+2020,SI_COV_MATNL,Romania,Female,100.0
+2021,SI_COV_MATNL,Serbia,Female,100.0
+2016,SI_COV_MATNL,Slovakia,Female,100.0
+2020,SI_COV_MATNL,Slovakia,Female,100.0
+2016,SI_COV_MATNL,Viet Nam,Female,44.5
+2020,SI_COV_MATNL,Viet Nam,Female,44.0
+2016,SI_COV_MATNL,Slovenia,Female,96.0
+2020,SI_COV_MATNL,Slovenia,Female,96.0
+2016,SI_COV_MATNL,Spain,Female,100.0
+2020,SI_COV_MATNL,Spain,Female,100.0
+2016,SI_COV_MATNL,Sweden,Female,100.0
+2020,SI_COV_MATNL,Sweden,Female,100.0
+2016,SI_COV_MATNL,Switzerland,Female,100.0
+2020,SI_COV_MATNL,Switzerland,Female,100.0
+2016,SI_COV_MATNL,Tajikistan,Female,59.5
+2020,SI_COV_MATNL,Tajikistan,Female,66.5
+2021,SI_COV_MATNL,Turkmenistan,Female,38.6
+2016,SI_COV_MATNL,Ukraine,Female,100.0
+2018,SI_COV_MATNL,Ukraine,Female,100.0
+2020,SI_COV_MATNL,Ukraine,Female,100.0
+2020,SI_COV_MATNL,North Macedonia,Female,100.0
+2016,SI_COV_MATNL,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2020,SI_COV_MATNL,United Kingdom of Great Britain and Northern Ireland,Female,100.0
+2017,SI_COV_MATNL,Uzbekistan,Female,16.0
+2017,SI_COV_MATNL,Uzbekistan,Female,16.0

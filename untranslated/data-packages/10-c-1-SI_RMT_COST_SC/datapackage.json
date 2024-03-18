@@ -1,0 +1,157 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_RMT_COST_SC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Australia",
+                "Norway",
+                "Portugal",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Arab Emirates",
+                "Türkiye",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Austria",
+                "Belgium",
+                "Canada",
+                "Chile",
+                "Costa Rica",
+                "Czechia",
+                "France",
+                "Germany",
+                "India",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Counterpart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SO",
+                "DO",
+                "GH",
+                "ID",
+                "MA",
+                "TR",
+                "NG",
+                "VU",
+                "WS",
+                "VN",
+                "PH",
+                "TO",
+                "CN",
+                "IN",
+                "FJ",
+                "ZW",
+                "LK",
+                "TH",
+                "LB",
+                "MY",
+                "PK",
+                "PL",
+                "CV",
+                "BR",
+                "MZ",
+                "BG",
+                "RO",
+                "PE",
+                "HN",
+                "BO",
+                "CO",
+                "EC",
+                "XK",
+                "AL",
+                "HU",
+                "RS",
+                "JO",
+                "NP",
+                "SD",
+                "BD",
+                "SS",
+                "YE",
+                "EG",
+                "ER",
+                "ET",
+                "LT",
+                "SL",
+                "ZA",
+                "UG",
+                "TZ",
+                "KE",
+                "JM",
+                "GM",
+                "ZM",
+                "AF",
+                "RW",
+                "HR",
+                "BA",
+                "DZ",
+                "CD",
+                "HT",
+                "GY",
+                "NI",
+                "UA",
+                "SN",
+                "TN",
+                "CI",
+                "KM",
+                "TG",
+                "MG",
+                "ML",
+                "CM",
+                "MK",
+                "KG",
+                "TJ",
+                "MD",
+                "SR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-c-1-SI_RMT_COST_SC",
+  "title": "meta.name-10-c-1-SI_RMT_COST_SC"
+}

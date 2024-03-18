@@ -1,1 +1,932 @@
-Year,Value
+Year,SeriesCode,Country,Age,Sex,Value
+2000,SH_STA_TRAF,Latvia,,Both sexes,29.2
+2000,SH_STA_TRAF,Latvia,,Female,13.1
+2000,SH_STA_TRAF,Latvia,,Male,48.0
+2005,SH_STA_TRAF,Latvia,,Both sexes,21.4
+2005,SH_STA_TRAF,Latvia,,Female,10.9
+2005,SH_STA_TRAF,Latvia,,Male,33.7
+2010,SH_STA_TRAF,Latvia,,Male,18.2
+2010,SH_STA_TRAF,Latvia,,Female,6.5
+2010,SH_STA_TRAF,Latvia,,Both sexes,11.8
+2015,SH_STA_TRAF,Latvia,,Both sexes,11.2
+2015,SH_STA_TRAF,Latvia,,Female,4.7
+2015,SH_STA_TRAF,Latvia,,Male,18.8
+2019,SH_STA_TRAF,Latvia,,Both sexes,8.1
+2019,SH_STA_TRAF,Latvia,,Female,3.6
+2019,SH_STA_TRAF,Latvia,,Male,13.2
+2000,SH_STA_TRAF,Lithuania,,Both sexes,22.8
+2000,SH_STA_TRAF,Lithuania,,Female,9.3
+2000,SH_STA_TRAF,Lithuania,,Male,38.1
+2005,SH_STA_TRAF,Lithuania,,Female,12.2
+2005,SH_STA_TRAF,Lithuania,,Male,41.0
+2005,SH_STA_TRAF,Lithuania,,Both sexes,25.6
+2010,SH_STA_TRAF,Lithuania,,Male,19.7
+2010,SH_STA_TRAF,Lithuania,,Female,5.6
+2010,SH_STA_TRAF,Lithuania,,Both sexes,12.1
+2015,SH_STA_TRAF,Lithuania,,Both sexes,10.5
+2015,SH_STA_TRAF,Lithuania,,Female,5.6
+2015,SH_STA_TRAF,Lithuania,,Male,16.2
+2019,SH_STA_TRAF,Lithuania,,Both sexes,8.1
+2019,SH_STA_TRAF,Lithuania,,Female,4.1
+2019,SH_STA_TRAF,Lithuania,,Male,12.9
+2000,SH_STA_TRAF,Luxembourg,,Female,7.8
+2000,SH_STA_TRAF,Luxembourg,,Male,28.3
+2000,SH_STA_TRAF,Luxembourg,,Both sexes,17.9
+2005,SH_STA_TRAF,Luxembourg,,Both sexes,10.5
+2005,SH_STA_TRAF,Luxembourg,,Female,7.4
+2005,SH_STA_TRAF,Luxembourg,,Male,13.7
+2010,SH_STA_TRAF,Luxembourg,,Both sexes,6.5
+2010,SH_STA_TRAF,Luxembourg,,Male,8.9
+2010,SH_STA_TRAF,Luxembourg,,Female,4.1
+2015,SH_STA_TRAF,Luxembourg,,Both sexes,6.5
+2015,SH_STA_TRAF,Luxembourg,,Female,3.2
+2015,SH_STA_TRAF,Luxembourg,,Male,9.8
+2019,SH_STA_TRAF,Luxembourg,,Female,2.3
+2019,SH_STA_TRAF,Luxembourg,,Male,5.8
+2019,SH_STA_TRAF,Luxembourg,,Both sexes,4.1
+2000,SH_STA_TRAF,Albania,,Male,22.4
+2000,SH_STA_TRAF,Albania,,Both sexes,14.3
+2000,SH_STA_TRAF,Albania,,Female,6.1
+2005,SH_STA_TRAF,Albania,,Both sexes,14.9
+2005,SH_STA_TRAF,Albania,,Female,6.6
+2005,SH_STA_TRAF,Albania,,Male,23.2
+2010,SH_STA_TRAF,Albania,,Both sexes,14.1
+2010,SH_STA_TRAF,Albania,,Female,7.1
+2010,SH_STA_TRAF,Albania,,Male,20.9
+2000,SH_STA_TRAF,Malta,,Both sexes,4.6
+2000,SH_STA_TRAF,Malta,,Female,2.1
+2000,SH_STA_TRAF,Malta,,Male,7.1
+2005,SH_STA_TRAF,Malta,,Both sexes,4.2
+2005,SH_STA_TRAF,Malta,,Female,1.3
+2005,SH_STA_TRAF,Malta,,Male,7.1
+2010,SH_STA_TRAF,Malta,,Male,5.9
+2010,SH_STA_TRAF,Malta,,Both sexes,3.9
+2010,SH_STA_TRAF,Malta,,Female,2.0
+2015,SH_STA_TRAF,Albania,,Both sexes,13.8
+2015,SH_STA_TRAF,Albania,,Female,6.5
+2015,SH_STA_TRAF,Albania,,Male,20.8
+2019,SH_STA_TRAF,Albania,,Female,5.5
+2019,SH_STA_TRAF,Albania,,Male,17.6
+2019,SH_STA_TRAF,Albania,,Both sexes,11.7
+2000,SH_STA_TRAF,Azerbaijan,,Both sexes,8.2
+2000,SH_STA_TRAF,Azerbaijan,,Female,3.4
+2000,SH_STA_TRAF,Azerbaijan,,Male,13.1
+2005,SH_STA_TRAF,Azerbaijan,,Both sexes,13.9
+2005,SH_STA_TRAF,Azerbaijan,,Female,5.8
+2005,SH_STA_TRAF,Azerbaijan,,Male,22.2
+2010,SH_STA_TRAF,Azerbaijan,,Both sexes,11.4
+2010,SH_STA_TRAF,Azerbaijan,,Female,4.7
+2010,SH_STA_TRAF,Azerbaijan,,Male,18.2
+2015,SH_STA_TRAF,Azerbaijan,,Female,4.1
+2015,SH_STA_TRAF,Azerbaijan,,Male,16.6
+2015,SH_STA_TRAF,Azerbaijan,,Both sexes,10.3
+2019,SH_STA_TRAF,Azerbaijan,,Both sexes,6.7
+2019,SH_STA_TRAF,Azerbaijan,,Female,2.6
+2019,SH_STA_TRAF,Azerbaijan,,Male,10.8
+2000,SH_STA_TRAF,Australia,,Female,5.7
+2000,SH_STA_TRAF,Australia,,Male,14.0
+2000,SH_STA_TRAF,Australia,,Both sexes,9.9
+2005,SH_STA_TRAF,Australia,,Both sexes,8.3
+2005,SH_STA_TRAF,Australia,,Female,4.4
+2005,SH_STA_TRAF,Australia,,Male,12.2
+2010,SH_STA_TRAF,Australia,,Female,3.5
+2010,SH_STA_TRAF,Australia,,Male,9.6
+2010,SH_STA_TRAF,Australia,,Both sexes,6.5
+2015,SH_STA_TRAF,Australia,,Both sexes,5.2
+2015,SH_STA_TRAF,Australia,,Female,2.9
+2015,SH_STA_TRAF,Australia,,Male,7.5
+2019,SH_STA_TRAF,Australia,,Both sexes,4.9
+2019,SH_STA_TRAF,Australia,,Female,2.6
+2019,SH_STA_TRAF,Australia,,Male,7.3
+2000,SH_STA_TRAF,Austria,,Female,6.1
+2000,SH_STA_TRAF,Austria,,Male,19.3
+2000,SH_STA_TRAF,Austria,,Both sexes,12.5
+2005,SH_STA_TRAF,Austria,,Both sexes,9.6
+2005,SH_STA_TRAF,Austria,,Female,4.8
+2005,SH_STA_TRAF,Austria,,Male,14.7
+2010,SH_STA_TRAF,Austria,,Both sexes,6.8
+2010,SH_STA_TRAF,Austria,,Female,3.5
+2010,SH_STA_TRAF,Austria,,Male,10.2
+2015,SH_STA_TRAF,Malta,,Both sexes,2.8
+2015,SH_STA_TRAF,Malta,,Female,1.8
+2015,SH_STA_TRAF,Malta,,Male,3.7
+2019,SH_STA_TRAF,Malta,,Both sexes,4.1
+2019,SH_STA_TRAF,Malta,,Female,2.9
+2019,SH_STA_TRAF,Malta,,Male,5.3
+2000,SH_STA_TRAF,Mexico,,Both sexes,14.2
+2000,SH_STA_TRAF,Mexico,,Female,5.9
+2000,SH_STA_TRAF,Mexico,,Male,22.7
+2005,SH_STA_TRAF,Mexico,,Both sexes,15.6
+2005,SH_STA_TRAF,Mexico,,Female,6.6
+2005,SH_STA_TRAF,Mexico,,Male,25.1
+2010,SH_STA_TRAF,Mexico,,Female,6.1
+2010,SH_STA_TRAF,Mexico,,Male,23.3
+2010,SH_STA_TRAF,Mexico,,Both sexes,14.5
+2015,SH_STA_TRAF,Mexico,,Female,5.6
+2015,SH_STA_TRAF,Mexico,,Male,22.0
+2015,SH_STA_TRAF,Mexico,,Both sexes,13.6
+2015,SH_STA_TRAF,Austria,,Both sexes,5.7
+2015,SH_STA_TRAF,Austria,,Female,3.0
+2015,SH_STA_TRAF,Austria,,Male,8.5
+2019,SH_STA_TRAF,Austria,,Female,2.5
+2019,SH_STA_TRAF,Austria,,Both sexes,4.9
+2019,SH_STA_TRAF,Austria,,Male,7.3
+2000,SH_STA_TRAF,Armenia,,Both sexes,19.6
+2000,SH_STA_TRAF,Armenia,,Female,8.6
+2000,SH_STA_TRAF,Armenia,,Male,32.2
+2019,SH_STA_TRAF,Mexico,,Both sexes,12.8
+2019,SH_STA_TRAF,Mexico,,Female,5.3
+2019,SH_STA_TRAF,Mexico,,Male,20.6
+2000,SH_STA_TRAF,Moldova,,Both sexes,13.6
+2000,SH_STA_TRAF,Moldova,,Female,6.0
+2000,SH_STA_TRAF,Moldova,,Male,21.9
+2005,SH_STA_TRAF,Moldova,,Both sexes,15.5
+2005,SH_STA_TRAF,Moldova,,Female,7.3
+2005,SH_STA_TRAF,Moldova,,Male,24.4
+2005,SH_STA_TRAF,Armenia,,Both sexes,18.3
+2005,SH_STA_TRAF,Armenia,,Female,9.2
+2005,SH_STA_TRAF,Armenia,,Male,28.6
+2010,SH_STA_TRAF,Armenia,,Both sexes,18.0
+2010,SH_STA_TRAF,Armenia,,Female,9.5
+2010,SH_STA_TRAF,Armenia,,Male,27.7
+2015,SH_STA_TRAF,Armenia,,Female,7.4
+2015,SH_STA_TRAF,Armenia,,Male,27.3
+2015,SH_STA_TRAF,Armenia,,Both sexes,16.7
+2010,SH_STA_TRAF,Moldova,,Female,5.3
+2010,SH_STA_TRAF,Moldova,,Both sexes,13.2
+2010,SH_STA_TRAF,Moldova,,Male,21.6
+2015,SH_STA_TRAF,Moldova,,Both sexes,10.4
+2015,SH_STA_TRAF,Moldova,,Female,3.7
+2015,SH_STA_TRAF,Moldova,,Male,17.5
+2019,SH_STA_TRAF,Moldova,,Both sexes,7.3
+2019,SH_STA_TRAF,Moldova,,Female,3.2
+2019,SH_STA_TRAF,Moldova,,Male,11.6
+2000,SH_STA_TRAF,Montenegro,,Female,7.6
+2000,SH_STA_TRAF,Montenegro,,Male,20.9
+2000,SH_STA_TRAF,Montenegro,,Both sexes,14.2
+2005,SH_STA_TRAF,Montenegro,,Both sexes,15.9
+2005,SH_STA_TRAF,Montenegro,,Female,8.0
+2005,SH_STA_TRAF,Montenegro,,Male,24.0
+2010,SH_STA_TRAF,Montenegro,,Female,8.0
+2010,SH_STA_TRAF,Montenegro,,Male,23.6
+2010,SH_STA_TRAF,Montenegro,,Both sexes,15.7
+2019,SH_STA_TRAF,Armenia,,Both sexes,20.0
+2019,SH_STA_TRAF,Armenia,,Male,30.4
+2019,SH_STA_TRAF,Armenia,,Female,10.7
+2000,SH_STA_TRAF,Belgium,,Both sexes,16.7
+2000,SH_STA_TRAF,Belgium,,Female,8.8
+2000,SH_STA_TRAF,Belgium,,Male,24.8
+2005,SH_STA_TRAF,Belgium,,Female,5.6
+2005,SH_STA_TRAF,Belgium,,Male,16.5
+2005,SH_STA_TRAF,Belgium,,Both sexes,10.9
+2010,SH_STA_TRAF,Belgium,,Both sexes,8.1
+2010,SH_STA_TRAF,Belgium,,Female,3.9
+2010,SH_STA_TRAF,Belgium,,Male,12.5
+2015,SH_STA_TRAF,Belgium,,Both sexes,6.7
+2015,SH_STA_TRAF,Belgium,,Female,3.5
+2015,SH_STA_TRAF,Belgium,,Male,10.0
+2019,SH_STA_TRAF,Belgium,,Both sexes,5.8
+2019,SH_STA_TRAF,Belgium,,Male,8.6
+2019,SH_STA_TRAF,Belgium,,Female,3.0
+2015,SH_STA_TRAF,Montenegro,,Both sexes,8.5
+2015,SH_STA_TRAF,Montenegro,,Female,4.5
+2015,SH_STA_TRAF,Montenegro,,Male,12.5
+2019,SH_STA_TRAF,Montenegro,,Female,3.9
+2019,SH_STA_TRAF,Montenegro,,Male,11.4
+2019,SH_STA_TRAF,Montenegro,,Both sexes,7.6
+2000,SH_STA_TRAF,Netherlands (Kingdom of the),,Both sexes,7.5
+2000,SH_STA_TRAF,Netherlands (Kingdom of the),,Female,3.9
+2000,SH_STA_TRAF,Netherlands (Kingdom of the),,Male,11.2
+2000,SH_STA_TRAF,Bosnia and Herzegovina,,Both sexes,19.0
+2000,SH_STA_TRAF,Bosnia and Herzegovina,,Female,10.2
+2000,SH_STA_TRAF,Bosnia and Herzegovina,,Male,28.2
+2005,SH_STA_TRAF,Bosnia and Herzegovina,,Both sexes,17.8
+2005,SH_STA_TRAF,Bosnia and Herzegovina,,Female,8.0
+2005,SH_STA_TRAF,Bosnia and Herzegovina,,Male,27.9
+2010,SH_STA_TRAF,Bosnia and Herzegovina,,Both sexes,16.9
+2010,SH_STA_TRAF,Bosnia and Herzegovina,,Female,7.4
+2010,SH_STA_TRAF,Bosnia and Herzegovina,,Male,26.7
+2005,SH_STA_TRAF,Netherlands (Kingdom of the),,Both sexes,5.1
+2005,SH_STA_TRAF,Netherlands (Kingdom of the),,Male,7.6
+2005,SH_STA_TRAF,Netherlands (Kingdom of the),,Female,2.7
+2010,SH_STA_TRAF,Netherlands (Kingdom of the),,Both sexes,4.0
+2010,SH_STA_TRAF,Netherlands (Kingdom of the),,Male,5.8
+2010,SH_STA_TRAF,Netherlands (Kingdom of the),,Female,2.1
+2015,SH_STA_TRAF,Netherlands (Kingdom of the),,Both sexes,3.8
+2015,SH_STA_TRAF,Netherlands (Kingdom of the),,Female,1.8
+2015,SH_STA_TRAF,Netherlands (Kingdom of the),,Male,5.7
+2015,SH_STA_TRAF,Bosnia and Herzegovina,,Both sexes,15.8
+2015,SH_STA_TRAF,Bosnia and Herzegovina,,Female,6.6
+2015,SH_STA_TRAF,Bosnia and Herzegovina,,Male,25.4
+2019,SH_STA_TRAF,Bosnia and Herzegovina,,Both sexes,13.5
+2019,SH_STA_TRAF,Bosnia and Herzegovina,,Male,21.4
+2019,SH_STA_TRAF,Bosnia and Herzegovina,,Female,5.9
+2000,SH_STA_TRAF,Bulgaria,,Both sexes,13.0
+2000,SH_STA_TRAF,Bulgaria,,Female,6.5
+2000,SH_STA_TRAF,Bulgaria,,Male,19.9
+2005,SH_STA_TRAF,Bulgaria,,Both sexes,12.8
+2005,SH_STA_TRAF,Bulgaria,,Female,6.3
+2005,SH_STA_TRAF,Bulgaria,,Male,19.8
+2010,SH_STA_TRAF,Bulgaria,,Both sexes,10.8
+2010,SH_STA_TRAF,Bulgaria,,Female,4.7
+2010,SH_STA_TRAF,Bulgaria,,Male,17.1
+2015,SH_STA_TRAF,Bulgaria,,Both sexes,10.1
+2015,SH_STA_TRAF,Bulgaria,,Female,4.4
+2015,SH_STA_TRAF,Bulgaria,,Male,16.2
+2019,SH_STA_TRAF,Netherlands (Kingdom of the),,Both sexes,4.0
+2019,SH_STA_TRAF,Netherlands (Kingdom of the),,Female,2.2
+2019,SH_STA_TRAF,Netherlands (Kingdom of the),,Male,5.7
+2000,SH_STA_TRAF,New Zealand,,Both sexes,12.3
+2000,SH_STA_TRAF,New Zealand,,Female,8.0
+2000,SH_STA_TRAF,New Zealand,,Male,16.9
+2005,SH_STA_TRAF,New Zealand,,Female,5.8
+2005,SH_STA_TRAF,New Zealand,,Male,14.9
+2005,SH_STA_TRAF,New Zealand,,Both sexes,10.3
+2019,SH_STA_TRAF,Bulgaria,,Both sexes,9.2
+2019,SH_STA_TRAF,Bulgaria,,Female,4.3
+2019,SH_STA_TRAF,Bulgaria,,Male,14.5
+2000,SH_STA_TRAF,Belarus,,Both sexes,17.8
+2000,SH_STA_TRAF,Belarus,,Female,8.5
+2000,SH_STA_TRAF,Belarus,,Male,28.3
+2005,SH_STA_TRAF,Belarus,,Both sexes,22.1
+2005,SH_STA_TRAF,Belarus,,Female,10.1
+2005,SH_STA_TRAF,Belarus,,Male,35.7
+2010,SH_STA_TRAF,New Zealand,,Both sexes,9.3
+2010,SH_STA_TRAF,New Zealand,,Female,5.2
+2010,SH_STA_TRAF,New Zealand,,Male,13.6
+2015,SH_STA_TRAF,New Zealand,,Both sexes,7.7
+2015,SH_STA_TRAF,New Zealand,,Female,4.5
+2015,SH_STA_TRAF,New Zealand,,Male,11.0
+2019,SH_STA_TRAF,New Zealand,,Both sexes,9.6
+2019,SH_STA_TRAF,New Zealand,,Female,6.1
+2019,SH_STA_TRAF,New Zealand,,Male,13.2
+2010,SH_STA_TRAF,Belarus,,Female,10.0
+2010,SH_STA_TRAF,Belarus,,Male,35.6
+2010,SH_STA_TRAF,Belarus,,Both sexes,21.9
+2015,SH_STA_TRAF,Belarus,,Both sexes,10.1
+2015,SH_STA_TRAF,Belarus,,Female,5.1
+2015,SH_STA_TRAF,Belarus,,Male,15.8
+2019,SH_STA_TRAF,Belarus,,Both sexes,7.6
+2019,SH_STA_TRAF,Belarus,,Male,11.9
+2019,SH_STA_TRAF,Belarus,,Female,4.0
+2000,SH_STA_TRAF,Canada,,Both sexes,9.8
+2000,SH_STA_TRAF,Canada,,Female,6.2
+2000,SH_STA_TRAF,Canada,,Male,13.4
+2005,SH_STA_TRAF,Canada,,Both sexes,9.5
+2005,SH_STA_TRAF,Canada,,Female,6.0
+2005,SH_STA_TRAF,Canada,,Male,13.0
+2010,SH_STA_TRAF,Canada,,Both sexes,7.3
+2010,SH_STA_TRAF,Canada,,Female,4.6
+2010,SH_STA_TRAF,Canada,,Male,10.1
+2000,SH_STA_TRAF,Norway,,Both sexes,8.0
+2000,SH_STA_TRAF,Norway,,Female,4.3
+2000,SH_STA_TRAF,Norway,,Male,11.9
+2005,SH_STA_TRAF,Norway,,Female,3.3
+2005,SH_STA_TRAF,Norway,,Both sexes,5.3
+2005,SH_STA_TRAF,Norway,,Male,7.3
+2010,SH_STA_TRAF,Norway,,Both sexes,4.4
+2010,SH_STA_TRAF,Norway,,Female,2.2
+2010,SH_STA_TRAF,Norway,,Male,6.6
+2015,SH_STA_TRAF,Canada,,Both sexes,5.8
+2015,SH_STA_TRAF,Canada,,Female,3.2
+2015,SH_STA_TRAF,Canada,,Male,8.3
+2019,SH_STA_TRAF,Canada,,Female,3.4
+2019,SH_STA_TRAF,Canada,,Male,7.3
+2019,SH_STA_TRAF,Canada,,Both sexes,5.3
+2000,SH_STA_TRAF,Chile,,Both sexes,17.9
+2000,SH_STA_TRAF,Chile,,Female,6.7
+2000,SH_STA_TRAF,Chile,,Male,29.5
+2005,SH_STA_TRAF,Chile,,Female,6.6
+2005,SH_STA_TRAF,Chile,,Male,29.2
+2005,SH_STA_TRAF,Chile,,Both sexes,17.7
+2010,SH_STA_TRAF,Chile,,Both sexes,12.5
+2010,SH_STA_TRAF,Chile,,Female,5.2
+2010,SH_STA_TRAF,Chile,,Male,20.1
+2015,SH_STA_TRAF,Chile,,Male,19.4
+2015,SH_STA_TRAF,Chile,,Both sexes,12.3
+2015,SH_STA_TRAF,Chile,,Female,5.4
+2015,SH_STA_TRAF,Norway,,Both sexes,2.6
+2015,SH_STA_TRAF,Norway,,Female,1.4
+2015,SH_STA_TRAF,Norway,,Male,3.7
+2019,SH_STA_TRAF,Norway,,Both sexes,2.1
+2019,SH_STA_TRAF,Norway,,Female,1.0
+2019,SH_STA_TRAF,Norway,,Male,3.3
+2000,SH_STA_TRAF,Poland,,Male,29.8
+2000,SH_STA_TRAF,Poland,,Female,8.0
+2000,SH_STA_TRAF,Poland,,Both sexes,18.6
+2019,SH_STA_TRAF,Chile,,Female,6.5
+2019,SH_STA_TRAF,Chile,,Male,23.6
+2019,SH_STA_TRAF,Chile,,Both sexes,14.9
+2000,SH_STA_TRAF,China,,Female,12.4
+2000,SH_STA_TRAF,China,,Male,29.9
+2000,SH_STA_TRAF,China,,Both sexes,21.4
+2005,SH_STA_TRAF,China,,Both sexes,20.8
+2005,SH_STA_TRAF,China,,Female,10.8
+2005,SH_STA_TRAF,China,,Male,30.3
+2005,SH_STA_TRAF,Poland,,Male,25.5
+2005,SH_STA_TRAF,Poland,,Female,7.0
+2005,SH_STA_TRAF,Poland,,Both sexes,16.0
+2010,SH_STA_TRAF,Poland,,Both sexes,12.0
+2010,SH_STA_TRAF,Poland,,Female,5.2
+2010,SH_STA_TRAF,Poland,,Male,19.3
+2015,SH_STA_TRAF,Poland,,Both sexes,9.3
+2015,SH_STA_TRAF,Poland,,Female,4.1
+2015,SH_STA_TRAF,Poland,,Male,14.9
+2010,SH_STA_TRAF,China,,Both sexes,20.3
+2010,SH_STA_TRAF,China,,Female,10.3
+2010,SH_STA_TRAF,China,,Male,29.7
+2015,SH_STA_TRAF,China,,Both sexes,18.3
+2015,SH_STA_TRAF,China,,Female,9.2
+2015,SH_STA_TRAF,China,,Male,26.8
+2019,SH_STA_TRAF,China,,Female,8.9
+2019,SH_STA_TRAF,China,,Male,25.3
+2019,SH_STA_TRAF,China,,Both sexes,17.4
+2000,SH_STA_TRAF,Colombia,,Both sexes,20.0
+2000,SH_STA_TRAF,Colombia,,Female,8.3
+2000,SH_STA_TRAF,Colombia,,Male,32.3
+2005,SH_STA_TRAF,Colombia,,Both sexes,16.9
+2005,SH_STA_TRAF,Colombia,,Female,7.1
+2005,SH_STA_TRAF,Colombia,,Male,27.2
+2010,SH_STA_TRAF,Colombia,,Both sexes,16.2
+2010,SH_STA_TRAF,Colombia,,Female,6.4
+2010,SH_STA_TRAF,Colombia,,Male,26.4
+2019,SH_STA_TRAF,Poland,,Both sexes,9.4
+2019,SH_STA_TRAF,Poland,,Female,4.5
+2019,SH_STA_TRAF,Poland,,Male,14.6
+2000,SH_STA_TRAF,Portugal,,Both sexes,19.4
+2000,SH_STA_TRAF,Portugal,,Male,31.9
+2000,SH_STA_TRAF,Portugal,,Female,7.7
+2005,SH_STA_TRAF,Portugal,,Male,28.3
+2005,SH_STA_TRAF,Portugal,,Female,7.8
+2005,SH_STA_TRAF,Portugal,,Both sexes,17.7
+2010,SH_STA_TRAF,Portugal,,Male,17.4
+2010,SH_STA_TRAF,Portugal,,Female,5.6
+2010,SH_STA_TRAF,Portugal,,Both sexes,11.2
+2015,SH_STA_TRAF,Portugal,,Both sexes,8.3
+2015,SH_STA_TRAF,Portugal,,Female,3.1
+2015,SH_STA_TRAF,Portugal,,Male,14.0
+2019,SH_STA_TRAF,Portugal,,Both sexes,8.2
+2019,SH_STA_TRAF,Portugal,,Female,3.8
+2019,SH_STA_TRAF,Portugal,,Male,13.1
+2015,SH_STA_TRAF,Colombia,,Male,29.7
+2015,SH_STA_TRAF,Colombia,,Both sexes,18.0
+2015,SH_STA_TRAF,Colombia,,Female,6.7
+2019,SH_STA_TRAF,Colombia,,Female,5.5
+2019,SH_STA_TRAF,Colombia,,Male,25.7
+2019,SH_STA_TRAF,Colombia,,Both sexes,15.4
+2000,SH_STA_TRAF,Costa Rica,,Female,6.7
+2000,SH_STA_TRAF,Costa Rica,,Male,28.8
+2000,SH_STA_TRAF,Costa Rica,,Both sexes,17.8
+2005,SH_STA_TRAF,Costa Rica,,Both sexes,14.5
+2005,SH_STA_TRAF,Costa Rica,,Female,4.5
+2005,SH_STA_TRAF,Costa Rica,,Male,24.3
+2010,SH_STA_TRAF,Costa Rica,,Both sexes,14.0
+2010,SH_STA_TRAF,Costa Rica,,Female,4.0
+2010,SH_STA_TRAF,Costa Rica,,Male,23.9
+2015,SH_STA_TRAF,Costa Rica,,Both sexes,16.5
+2015,SH_STA_TRAF,Costa Rica,,Female,4.5
+2015,SH_STA_TRAF,Costa Rica,,Male,28.4
+2019,SH_STA_TRAF,Costa Rica,,Female,4.3
+2019,SH_STA_TRAF,Costa Rica,,Male,25.3
+2019,SH_STA_TRAF,Costa Rica,,Both sexes,14.8
+2000,SH_STA_TRAF,Croatia,,Both sexes,15.2
+2000,SH_STA_TRAF,Croatia,,Female,5.9
+2000,SH_STA_TRAF,Croatia,,Male,25.3
+2005,SH_STA_TRAF,Croatia,,Both sexes,14.1
+2005,SH_STA_TRAF,Croatia,,Female,6.2
+2005,SH_STA_TRAF,Croatia,,Male,22.5
+2000,SH_STA_TRAF,Romania,,Both sexes,12.4
+2000,SH_STA_TRAF,Romania,,Female,6.7
+2000,SH_STA_TRAF,Romania,,Male,18.5
+2005,SH_STA_TRAF,Romania,,Both sexes,13.3
+2005,SH_STA_TRAF,Romania,,Female,6.9
+2005,SH_STA_TRAF,Romania,,Male,20.1
+2010,SH_STA_TRAF,Romania,,Both sexes,12.0
+2010,SH_STA_TRAF,Romania,,Male,18.7
+2010,SH_STA_TRAF,Romania,,Female,5.6
+2010,SH_STA_TRAF,Croatia,,Female,4.4
+2010,SH_STA_TRAF,Croatia,,Male,17.1
+2010,SH_STA_TRAF,Croatia,,Both sexes,10.5
+2015,SH_STA_TRAF,Croatia,,Both sexes,9.3
+2015,SH_STA_TRAF,Croatia,,Male,15.2
+2015,SH_STA_TRAF,Croatia,,Female,3.8
+2019,SH_STA_TRAF,Croatia,,Both sexes,7.9
+2019,SH_STA_TRAF,Croatia,,Female,3.3
+2019,SH_STA_TRAF,Croatia,,Male,13.0
+2015,SH_STA_TRAF,Romania,,Both sexes,10.0
+2015,SH_STA_TRAF,Romania,,Male,15.5
+2015,SH_STA_TRAF,Romania,,Female,4.8
+2019,SH_STA_TRAF,Romania,,Male,15.5
+2019,SH_STA_TRAF,Romania,,Female,5.4
+2019,SH_STA_TRAF,Romania,,Both sexes,10.3
+2000,SH_STA_TRAF,Serbia,,Both sexes,10.9
+2000,SH_STA_TRAF,Serbia,,Female,4.6
+2000,SH_STA_TRAF,Serbia,,Male,17.4
+2000,SH_STA_TRAF,Cyprus,,Female,4.5
+2000,SH_STA_TRAF,Cyprus,,Male,19.9
+2000,SH_STA_TRAF,Cyprus,,Both sexes,12.3
+2005,SH_STA_TRAF,Cyprus,,Both sexes,12.6
+2005,SH_STA_TRAF,Cyprus,,Female,5.3
+2005,SH_STA_TRAF,Cyprus,,Male,19.6
+2010,SH_STA_TRAF,Cyprus,,Both sexes,8.2
+2010,SH_STA_TRAF,Cyprus,,Female,3.5
+2010,SH_STA_TRAF,Cyprus,,Male,13.0
+2005,SH_STA_TRAF,Serbia,,Male,15.7
+2005,SH_STA_TRAF,Serbia,,Both sexes,10.0
+2005,SH_STA_TRAF,Serbia,,Female,4.5
+2010,SH_STA_TRAF,Serbia,,Both sexes,9.0
+2010,SH_STA_TRAF,Serbia,,Female,3.9
+2010,SH_STA_TRAF,Serbia,,Male,14.2
+2015,SH_STA_TRAF,Serbia,,Both sexes,6.7
+2015,SH_STA_TRAF,Serbia,,Female,3.1
+2015,SH_STA_TRAF,Serbia,,Male,10.5
+2015,SH_STA_TRAF,Cyprus,,Both sexes,6.7
+2015,SH_STA_TRAF,Cyprus,,Male,8.8
+2015,SH_STA_TRAF,Cyprus,,Female,4.7
+2019,SH_STA_TRAF,Cyprus,,Female,2.4
+2019,SH_STA_TRAF,Cyprus,,Male,9.1
+2019,SH_STA_TRAF,Cyprus,,Both sexes,5.8
+2000,SH_STA_TRAF,Czechia,,Both sexes,14.9
+2000,SH_STA_TRAF,Czechia,,Female,7.5
+2000,SH_STA_TRAF,Czechia,,Male,22.7
+2019,SH_STA_TRAF,Serbia,,Male,11.8
+2019,SH_STA_TRAF,Serbia,,Both sexes,7.5
+2019,SH_STA_TRAF,Serbia,,Female,3.3
+2000,SH_STA_TRAF,Slovakia,,Both sexes,15.1
+2000,SH_STA_TRAF,Slovakia,,Male,24.7
+2000,SH_STA_TRAF,Slovakia,,Female,6.1
+2005,SH_STA_TRAF,Slovakia,,Male,21.8
+2005,SH_STA_TRAF,Slovakia,,Female,6.1
+2005,SH_STA_TRAF,Slovakia,,Both sexes,13.7
+2005,SH_STA_TRAF,Czechia,,Both sexes,12.9
+2005,SH_STA_TRAF,Czechia,,Female,6.5
+2005,SH_STA_TRAF,Czechia,,Male,19.7
+2010,SH_STA_TRAF,Czechia,,Both sexes,7.8
+2010,SH_STA_TRAF,Czechia,,Female,3.6
+2010,SH_STA_TRAF,Czechia,,Male,12.3
+2015,SH_STA_TRAF,Czechia,,Male,11.4
+2015,SH_STA_TRAF,Czechia,,Female,3.1
+2015,SH_STA_TRAF,Czechia,,Both sexes,7.2
+2010,SH_STA_TRAF,Slovakia,,Female,4.6
+2010,SH_STA_TRAF,Slovakia,,Male,13.6
+2010,SH_STA_TRAF,Slovakia,,Both sexes,9.0
+2015,SH_STA_TRAF,Slovakia,,Both sexes,6.4
+2015,SH_STA_TRAF,Slovakia,,Male,9.5
+2015,SH_STA_TRAF,Slovakia,,Female,3.4
+2019,SH_STA_TRAF,Slovakia,,Male,8.9
+2019,SH_STA_TRAF,Slovakia,,Both sexes,6.1
+2019,SH_STA_TRAF,Slovakia,,Female,3.4
+2000,SH_STA_TRAF,Viet Nam,,Female,10.6
+2000,SH_STA_TRAF,Viet Nam,,Male,37.9
+2000,SH_STA_TRAF,Viet Nam,,Both sexes,24.1
+2005,SH_STA_TRAF,Viet Nam,,Female,10.1
+2005,SH_STA_TRAF,Viet Nam,,Male,39.5
+2005,SH_STA_TRAF,Viet Nam,,Both sexes,24.6
+2010,SH_STA_TRAF,Viet Nam,,Both sexes,25.6
+2010,SH_STA_TRAF,Viet Nam,,Male,40.9
+2010,SH_STA_TRAF,Viet Nam,,Female,10.5
+2019,SH_STA_TRAF,Czechia,,Both sexes,5.9
+2019,SH_STA_TRAF,Czechia,,Female,2.9
+2019,SH_STA_TRAF,Czechia,,Male,9.1
+2000,SH_STA_TRAF,Denmark,,Both sexes,9.6
+2000,SH_STA_TRAF,Denmark,,Female,6.1
+2000,SH_STA_TRAF,Denmark,,Male,13.2
+2005,SH_STA_TRAF,Denmark,,Both sexes,6.5
+2005,SH_STA_TRAF,Denmark,,Female,3.2
+2005,SH_STA_TRAF,Denmark,,Male,9.8
+2015,SH_STA_TRAF,Viet Nam,,Male,40.2
+2015,SH_STA_TRAF,Viet Nam,,Both sexes,25.4
+2015,SH_STA_TRAF,Viet Nam,,Female,10.7
+2019,SH_STA_TRAF,Viet Nam,,Both sexes,30.6
+2019,SH_STA_TRAF,Viet Nam,,Female,13.3
+2019,SH_STA_TRAF,Viet Nam,,Male,47.8
+2000,SH_STA_TRAF,Slovenia,,Both sexes,16.4
+2000,SH_STA_TRAF,Slovenia,,Female,8.2
+2000,SH_STA_TRAF,Slovenia,,Male,24.9
+2010,SH_STA_TRAF,Denmark,,Both sexes,5.0
+2010,SH_STA_TRAF,Denmark,,Female,3.3
+2010,SH_STA_TRAF,Denmark,,Male,6.7
+2015,SH_STA_TRAF,Denmark,,Male,5.2
+2015,SH_STA_TRAF,Denmark,,Female,1.7
+2015,SH_STA_TRAF,Denmark,,Both sexes,3.5
+2019,SH_STA_TRAF,Denmark,,Both sexes,3.7
+2019,SH_STA_TRAF,Denmark,,Female,2.1
+2019,SH_STA_TRAF,Denmark,,Male,5.3
+2005,SH_STA_TRAF,Slovenia,,Both sexes,13.5
+2005,SH_STA_TRAF,Slovenia,,Male,19.9
+2005,SH_STA_TRAF,Slovenia,,Female,7.3
+2010,SH_STA_TRAF,Slovenia,,Both sexes,7.2
+2010,SH_STA_TRAF,Slovenia,,Female,3.2
+2010,SH_STA_TRAF,Slovenia,,Male,11.3
+2015,SH_STA_TRAF,Slovenia,,Both sexes,6.0
+2015,SH_STA_TRAF,Slovenia,,Female,2.8
+2015,SH_STA_TRAF,Slovenia,,Male,9.3
+2000,SH_STA_TRAF,Estonia,,Both sexes,17.7
+2000,SH_STA_TRAF,Estonia,,Female,8.6
+2000,SH_STA_TRAF,Estonia,,Male,28.0
+2005,SH_STA_TRAF,Estonia,,Both sexes,14.7
+2005,SH_STA_TRAF,Estonia,,Female,6.7
+2005,SH_STA_TRAF,Estonia,,Male,23.9
+2010,SH_STA_TRAF,Estonia,,Both sexes,6.8
+2010,SH_STA_TRAF,Estonia,,Female,3.4
+2010,SH_STA_TRAF,Estonia,,Male,10.6
+2019,SH_STA_TRAF,Slovenia,,Male,8.5
+2019,SH_STA_TRAF,Slovenia,,Both sexes,5.1
+2019,SH_STA_TRAF,Slovenia,,Female,1.6
+2000,SH_STA_TRAF,Spain,,Male,24.0
+2000,SH_STA_TRAF,Spain,,Both sexes,15.4
+2000,SH_STA_TRAF,Spain,,Female,7.1
+2005,SH_STA_TRAF,Spain,,Female,4.5
+2005,SH_STA_TRAF,Spain,,Both sexes,10.6
+2005,SH_STA_TRAF,Spain,,Male,16.9
+2010,SH_STA_TRAF,Spain,,Male,8.6
+2010,SH_STA_TRAF,Spain,,Both sexes,5.4
+2010,SH_STA_TRAF,Spain,,Female,2.3
+2015,SH_STA_TRAF,Spain,,Both sexes,4.2
+2015,SH_STA_TRAF,Spain,,Female,2.0
+2015,SH_STA_TRAF,Spain,,Male,6.6
+2019,SH_STA_TRAF,Spain,,Both sexes,3.9
+2019,SH_STA_TRAF,Spain,,Female,1.8
+2019,SH_STA_TRAF,Spain,,Male,6.1
+2015,SH_STA_TRAF,Estonia,,Male,8.2
+2015,SH_STA_TRAF,Estonia,,Female,4.8
+2015,SH_STA_TRAF,Estonia,,Both sexes,6.4
+2019,SH_STA_TRAF,Estonia,,Both sexes,4.5
+2019,SH_STA_TRAF,Estonia,,Female,2.6
+2019,SH_STA_TRAF,Estonia,,Male,6.5
+2000,SH_STA_TRAF,Finland,,Both sexes,8.1
+2000,SH_STA_TRAF,Finland,,Female,5.2
+2000,SH_STA_TRAF,Finland,,Male,11.1
+2000,SH_STA_TRAF,Sweden,,Both sexes,6.7
+2000,SH_STA_TRAF,Sweden,,Female,3.4
+2000,SH_STA_TRAF,Sweden,,Male,10.1
+2005,SH_STA_TRAF,Sweden,,Male,7.8
+2005,SH_STA_TRAF,Sweden,,Both sexes,5.3
+2005,SH_STA_TRAF,Sweden,,Female,2.8
+2010,SH_STA_TRAF,Sweden,,Male,4.4
+2010,SH_STA_TRAF,Sweden,,Both sexes,3.0
+2010,SH_STA_TRAF,Sweden,,Female,1.7
+2005,SH_STA_TRAF,Finland,,Both sexes,7.4
+2005,SH_STA_TRAF,Finland,,Female,3.7
+2005,SH_STA_TRAF,Finland,,Male,11.3
+2010,SH_STA_TRAF,Finland,,Both sexes,5.2
+2010,SH_STA_TRAF,Finland,,Female,2.6
+2010,SH_STA_TRAF,Finland,,Male,7.9
+2015,SH_STA_TRAF,Finland,,Both sexes,5.1
+2015,SH_STA_TRAF,Finland,,Female,2.8
+2015,SH_STA_TRAF,Finland,,Male,7.4
+2015,SH_STA_TRAF,Sweden,,Male,4.8
+2015,SH_STA_TRAF,Sweden,,Both sexes,3.2
+2015,SH_STA_TRAF,Sweden,,Female,1.6
+2019,SH_STA_TRAF,Sweden,,Male,4.8
+2019,SH_STA_TRAF,Sweden,,Both sexes,3.1
+2019,SH_STA_TRAF,Sweden,,Female,1.5
+2000,SH_STA_TRAF,Switzerland,,Male,12.6
+2000,SH_STA_TRAF,Switzerland,,Female,4.7
+2000,SH_STA_TRAF,Switzerland,,Both sexes,8.5
+2019,SH_STA_TRAF,Finland,,Both sexes,3.9
+2019,SH_STA_TRAF,Finland,,Female,1.9
+2019,SH_STA_TRAF,Finland,,Male,5.9
+2000,SH_STA_TRAF,France,,Both sexes,13.4
+2000,SH_STA_TRAF,France,,Female,6.7
+2000,SH_STA_TRAF,France,,Male,20.4
+2005,SH_STA_TRAF,France,,Both sexes,9.0
+2005,SH_STA_TRAF,France,,Female,4.4
+2005,SH_STA_TRAF,France,,Male,13.8
+2005,SH_STA_TRAF,Switzerland,,Both sexes,5.7
+2005,SH_STA_TRAF,Switzerland,,Male,8.7
+2005,SH_STA_TRAF,Switzerland,,Female,2.8
+2010,SH_STA_TRAF,Switzerland,,Male,6.6
+2010,SH_STA_TRAF,Switzerland,,Both sexes,4.3
+2010,SH_STA_TRAF,Switzerland,,Female,2.1
+2015,SH_STA_TRAF,Switzerland,,Male,4.6
+2015,SH_STA_TRAF,Switzerland,,Both sexes,3.1
+2015,SH_STA_TRAF,Switzerland,,Female,1.7
+2010,SH_STA_TRAF,France,,Both sexes,6.5
+2010,SH_STA_TRAF,France,,Female,3.0
+2010,SH_STA_TRAF,France,,Male,10.4
+2015,SH_STA_TRAF,France,,Female,2.7
+2015,SH_STA_TRAF,France,,Male,8.6
+2015,SH_STA_TRAF,France,,Both sexes,5.5
+2019,SH_STA_TRAF,France,,Both sexes,5.1
+2019,SH_STA_TRAF,France,,Female,2.6
+2019,SH_STA_TRAF,France,,Male,7.8
+2000,SH_STA_TRAF,Georgia,,Both sexes,11.8
+2000,SH_STA_TRAF,Georgia,,Female,5.0
+2000,SH_STA_TRAF,Georgia,,Male,19.4
+2005,SH_STA_TRAF,Georgia,,Both sexes,14.2
+2005,SH_STA_TRAF,Georgia,,Female,6.2
+2005,SH_STA_TRAF,Georgia,,Male,23.1
+2010,SH_STA_TRAF,Georgia,,Both sexes,17.2
+2010,SH_STA_TRAF,Georgia,,Female,6.5
+2010,SH_STA_TRAF,Georgia,,Male,29.0
+2019,SH_STA_TRAF,Switzerland,,Male,3.3
+2019,SH_STA_TRAF,Switzerland,,Both sexes,2.2
+2019,SH_STA_TRAF,Switzerland,,Female,1.2
+2000,SH_STA_TRAF,Tajikistan,,Male,30.1
+2000,SH_STA_TRAF,Tajikistan,,Female,8.8
+2000,SH_STA_TRAF,Tajikistan,,Both sexes,19.5
+2005,SH_STA_TRAF,Tajikistan,,Both sexes,18.9
+2005,SH_STA_TRAF,Tajikistan,,Female,8.1
+2005,SH_STA_TRAF,Tajikistan,,Male,29.5
+2010,SH_STA_TRAF,Tajikistan,,Male,29.7
+2010,SH_STA_TRAF,Tajikistan,,Both sexes,18.7
+2010,SH_STA_TRAF,Tajikistan,,Female,7.6
+2015,SH_STA_TRAF,Tajikistan,,Male,29.2
+2015,SH_STA_TRAF,Tajikistan,,Female,7.3
+2015,SH_STA_TRAF,Tajikistan,,Both sexes,18.4
+2019,SH_STA_TRAF,Tajikistan,,Male,25.0
+2019,SH_STA_TRAF,Tajikistan,,Both sexes,15.7
+2019,SH_STA_TRAF,Tajikistan,,Female,6.2
+2015,SH_STA_TRAF,Georgia,,Both sexes,15.8
+2015,SH_STA_TRAF,Georgia,,Female,6.8
+2015,SH_STA_TRAF,Georgia,,Male,25.5
+2019,SH_STA_TRAF,Georgia,,Both sexes,12.4
+2019,SH_STA_TRAF,Georgia,,Female,5.2
+2019,SH_STA_TRAF,Georgia,,Male,20.4
+2000,SH_STA_TRAF,Germany,,Both sexes,9.6
+2000,SH_STA_TRAF,Germany,,Female,5.3
+2000,SH_STA_TRAF,Germany,,Male,14.2
+2005,SH_STA_TRAF,Germany,,Both sexes,6.9
+2005,SH_STA_TRAF,Germany,,Female,3.7
+2005,SH_STA_TRAF,Germany,,Male,10.2
+2010,SH_STA_TRAF,Germany,,Both sexes,4.8
+2010,SH_STA_TRAF,Germany,,Female,2.6
+2010,SH_STA_TRAF,Germany,,Male,7.1
+2015,SH_STA_TRAF,Germany,,Female,2.2
+2015,SH_STA_TRAF,Germany,,Both sexes,4.4
+2015,SH_STA_TRAF,Germany,,Male,6.6
+2019,SH_STA_TRAF,Germany,,Both sexes,3.8
+2019,SH_STA_TRAF,Germany,,Female,1.9
+2019,SH_STA_TRAF,Germany,,Male,5.7
+2000,SH_STA_TRAF,Greece,,Both sexes,19.9
+2000,SH_STA_TRAF,Greece,,Female,8.9
+2000,SH_STA_TRAF,Greece,,Male,31.0
+2005,SH_STA_TRAF,Greece,,Both sexes,16.6
+2005,SH_STA_TRAF,Greece,,Female,7.1
+2005,SH_STA_TRAF,Greece,,Male,26.2
+2010,SH_STA_TRAF,Greece,,Both sexes,13.1
+2010,SH_STA_TRAF,Greece,,Female,5.1
+2010,SH_STA_TRAF,Greece,,Male,21.4
+2015,SH_STA_TRAF,Greece,,Female,3.6
+2015,SH_STA_TRAF,Greece,,Male,15.2
+2015,SH_STA_TRAF,Greece,,Both sexes,9.3
+2019,SH_STA_TRAF,Greece,,Both sexes,8.3
+2019,SH_STA_TRAF,Greece,,Female,3.2
+2019,SH_STA_TRAF,Greece,,Male,13.6
+2000,SH_STA_TRAF,United Arab Emirates,,Female,8.5
+2000,SH_STA_TRAF,United Arab Emirates,,Male,19.6
+2000,SH_STA_TRAF,United Arab Emirates,,Both sexes,16.0
+2005,SH_STA_TRAF,United Arab Emirates,,Male,22.7
+2005,SH_STA_TRAF,United Arab Emirates,,Female,8.9
+2005,SH_STA_TRAF,United Arab Emirates,,Both sexes,18.7
+2010,SH_STA_TRAF,United Arab Emirates,,Both sexes,19.4
+2010,SH_STA_TRAF,United Arab Emirates,,Female,8.3
+2010,SH_STA_TRAF,United Arab Emirates,,Male,23.2
+2015,SH_STA_TRAF,United Arab Emirates,,Male,21.9
+2015,SH_STA_TRAF,United Arab Emirates,,Both sexes,18.1
+2015,SH_STA_TRAF,United Arab Emirates,,Female,9.1
+2019,SH_STA_TRAF,United Arab Emirates,,Both sexes,8.9
+2019,SH_STA_TRAF,United Arab Emirates,,Male,10.8
+2019,SH_STA_TRAF,United Arab Emirates,,Female,4.7
+2000,SH_STA_TRAF,Türkiye,,Male,13.0
+2000,SH_STA_TRAF,Türkiye,,Female,5.1
+2000,SH_STA_TRAF,Türkiye,,Both sexes,9.0
+2005,SH_STA_TRAF,Türkiye,,Male,9.8
+2005,SH_STA_TRAF,Türkiye,,Both sexes,6.8
+2005,SH_STA_TRAF,Türkiye,,Female,4.0
+2010,SH_STA_TRAF,Türkiye,,Both sexes,6.8
+2010,SH_STA_TRAF,Türkiye,,Female,3.7
+2010,SH_STA_TRAF,Türkiye,,Male,10.1
+2015,SH_STA_TRAF,Türkiye,,Male,14.9
+2015,SH_STA_TRAF,Türkiye,,Both sexes,9.9
+2015,SH_STA_TRAF,Türkiye,,Female,5.0
+2000,SH_STA_TRAF,Hungary,,Both sexes,12.7
+2000,SH_STA_TRAF,Hungary,,Female,6.2
+2000,SH_STA_TRAF,Hungary,,Male,19.7
+2005,SH_STA_TRAF,Hungary,,Both sexes,14.8
+2005,SH_STA_TRAF,Hungary,,Female,6.8
+2005,SH_STA_TRAF,Hungary,,Male,23.6
+2010,SH_STA_TRAF,Hungary,,Both sexes,9.2
+2010,SH_STA_TRAF,Hungary,,Female,4.4
+2010,SH_STA_TRAF,Hungary,,Male,14.5
+2019,SH_STA_TRAF,Türkiye,,Male,10.1
+2019,SH_STA_TRAF,Türkiye,,Female,3.3
+2019,SH_STA_TRAF,Türkiye,,Both sexes,6.7
+2000,SH_STA_TRAF,Turkmenistan,,Female,7.4
+2000,SH_STA_TRAF,Turkmenistan,,Both sexes,16.1
+2000,SH_STA_TRAF,Turkmenistan,,Male,25.1
+2005,SH_STA_TRAF,Turkmenistan,,Female,6.9
+2005,SH_STA_TRAF,Turkmenistan,,Both sexes,17.2
+2005,SH_STA_TRAF,Turkmenistan,,Male,27.7
+2015,SH_STA_TRAF,Hungary,,Both sexes,7.8
+2015,SH_STA_TRAF,Hungary,,Female,3.9
+2015,SH_STA_TRAF,Hungary,,Male,12.2
+2019,SH_STA_TRAF,Hungary,,Both sexes,7.7
+2019,SH_STA_TRAF,Hungary,,Female,4.2
+2019,SH_STA_TRAF,Hungary,,Male,11.7
+2000,SH_STA_TRAF,Iceland,,Both sexes,11.8
+2000,SH_STA_TRAF,Iceland,,Female,7.9
+2000,SH_STA_TRAF,Iceland,,Male,15.7
+2010,SH_STA_TRAF,Turkmenistan,,Female,6.5
+2010,SH_STA_TRAF,Turkmenistan,,Both sexes,16.9
+2010,SH_STA_TRAF,Turkmenistan,,Male,27.5
+2015,SH_STA_TRAF,Turkmenistan,,Both sexes,16.4
+2015,SH_STA_TRAF,Turkmenistan,,Female,7.0
+2015,SH_STA_TRAF,Turkmenistan,,Male,26.0
+2019,SH_STA_TRAF,Turkmenistan,,Both sexes,13.5
+2019,SH_STA_TRAF,Turkmenistan,,Female,6.0
+2019,SH_STA_TRAF,Turkmenistan,,Male,21.2
+2005,SH_STA_TRAF,Iceland,,Both sexes,6.8
+2005,SH_STA_TRAF,Iceland,,Female,5.0
+2005,SH_STA_TRAF,Iceland,,Male,8.5
+2010,SH_STA_TRAF,Iceland,,Both sexes,2.6
+2010,SH_STA_TRAF,Iceland,,Female,1.4
+2010,SH_STA_TRAF,Iceland,,Male,3.7
+2015,SH_STA_TRAF,Iceland,,Both sexes,4.8
+2015,SH_STA_TRAF,Iceland,,Female,4.0
+2015,SH_STA_TRAF,Iceland,,Male,5.7
+2019,SH_STA_TRAF,Iceland,,Both sexes,2.0
+2019,SH_STA_TRAF,Iceland,,Female,0.7
+2019,SH_STA_TRAF,Iceland,,Male,3.4
+2000,SH_STA_TRAF,India,,Both sexes,16.9
+2000,SH_STA_TRAF,India,,Female,8.3
+2000,SH_STA_TRAF,India,,Male,24.7
+2005,SH_STA_TRAF,India,,Both sexes,15.9
+2005,SH_STA_TRAF,India,,Female,6.9
+2005,SH_STA_TRAF,India,,Male,24.2
+2000,SH_STA_TRAF,Ukraine,,Male,22.3
+2000,SH_STA_TRAF,Ukraine,,Both sexes,13.6
+2000,SH_STA_TRAF,Ukraine,,Female,6.0
+2005,SH_STA_TRAF,Ukraine,,Male,41.8
+2005,SH_STA_TRAF,Ukraine,,Female,10.7
+2005,SH_STA_TRAF,Ukraine,,Both sexes,25.2
+2010,SH_STA_TRAF,Ukraine,,Both sexes,15.4
+2010,SH_STA_TRAF,Ukraine,,Male,25.4
+2010,SH_STA_TRAF,Ukraine,,Female,6.9
+2010,SH_STA_TRAF,India,,Female,6.8
+2010,SH_STA_TRAF,India,,Male,26.7
+2010,SH_STA_TRAF,India,,Both sexes,17.2
+2015,SH_STA_TRAF,India,,Both sexes,15.6
+2015,SH_STA_TRAF,India,,Female,7.0
+2015,SH_STA_TRAF,India,,Male,23.5
+2019,SH_STA_TRAF,India,,Both sexes,15.6
+2019,SH_STA_TRAF,India,,Female,7.0
+2019,SH_STA_TRAF,India,,Male,23.4
+2015,SH_STA_TRAF,Ukraine,,Both sexes,12.9
+2015,SH_STA_TRAF,Ukraine,,Female,5.8
+2015,SH_STA_TRAF,Ukraine,,Male,21.1
+2019,SH_STA_TRAF,Ukraine,,Female,4.6
+2019,SH_STA_TRAF,Ukraine,,Both sexes,10.2
+2019,SH_STA_TRAF,Ukraine,,Male,16.7
+2000,SH_STA_TRAF,North Macedonia,,Both sexes,8.2
+2000,SH_STA_TRAF,North Macedonia,,Female,3.3
+2000,SH_STA_TRAF,North Macedonia,,Male,13.1
+2005,SH_STA_TRAF,North Macedonia,,Both sexes,7.1
+2005,SH_STA_TRAF,North Macedonia,,Male,11.0
+2005,SH_STA_TRAF,North Macedonia,,Female,3.3
+2010,SH_STA_TRAF,North Macedonia,,Both sexes,8.1
+2010,SH_STA_TRAF,North Macedonia,,Female,3.7
+2010,SH_STA_TRAF,North Macedonia,,Male,12.4
+2015,SH_STA_TRAF,North Macedonia,,Both sexes,7.4
+2015,SH_STA_TRAF,North Macedonia,,Female,3.2
+2015,SH_STA_TRAF,North Macedonia,,Male,11.5
+2000,SH_STA_TRAF,Ireland,,Both sexes,11.4
+2000,SH_STA_TRAF,Ireland,,Female,5.9
+2000,SH_STA_TRAF,Ireland,,Male,16.9
+2005,SH_STA_TRAF,Ireland,,Both sexes,9.9
+2005,SH_STA_TRAF,Ireland,,Female,5.1
+2005,SH_STA_TRAF,Ireland,,Male,14.8
+2010,SH_STA_TRAF,Ireland,,Female,2.6
+2010,SH_STA_TRAF,Ireland,,Male,7.0
+2010,SH_STA_TRAF,Ireland,,Both sexes,4.8
+2015,SH_STA_TRAF,Ireland,,Female,1.9
+2015,SH_STA_TRAF,Ireland,,Male,5.3
+2015,SH_STA_TRAF,Ireland,,Both sexes,3.6
+2019,SH_STA_TRAF,Ireland,,Both sexes,3.1
+2019,SH_STA_TRAF,Ireland,,Female,1.8
+2019,SH_STA_TRAF,Ireland,,Male,4.5
+2000,SH_STA_TRAF,Israel,,Both sexes,8.0
+2000,SH_STA_TRAF,Israel,,Female,3.4
+2000,SH_STA_TRAF,Israel,,Male,12.7
+2019,SH_STA_TRAF,North Macedonia,,Both sexes,5.1
+2019,SH_STA_TRAF,North Macedonia,,Male,8.0
+2019,SH_STA_TRAF,North Macedonia,,Female,2.3
+2000,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Male,10.4
+2000,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Both sexes,6.9
+2000,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Female,3.6
+2005,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Both sexes,6.6
+2005,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Male,10.3
+2005,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Female,3.1
+2005,SH_STA_TRAF,Israel,,Both sexes,7.1
+2005,SH_STA_TRAF,Israel,,Female,3.3
+2005,SH_STA_TRAF,Israel,,Male,11.0
+2010,SH_STA_TRAF,Israel,,Both sexes,4.9
+2010,SH_STA_TRAF,Israel,,Female,2.3
+2010,SH_STA_TRAF,Israel,,Male,7.7
+2015,SH_STA_TRAF,Israel,,Both sexes,4.2
+2015,SH_STA_TRAF,Israel,,Female,1.8
+2015,SH_STA_TRAF,Israel,,Male,6.5
+2010,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Female,1.9
+2010,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Male,5.5
+2010,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Both sexes,3.7
+2015,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Female,1.4
+2015,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Male,4.5
+2015,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Both sexes,2.9
+2019,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Both sexes,3.2
+2019,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Female,1.6
+2019,SH_STA_TRAF,United Kingdom of Great Britain and Northern Ireland,,Male,4.8
+2019,SH_STA_TRAF,Israel,,Both sexes,3.9
+2019,SH_STA_TRAF,Israel,,Female,1.5
+2019,SH_STA_TRAF,Israel,,Male,6.4
+2000,SH_STA_TRAF,Italy,,Both sexes,13.9
+2000,SH_STA_TRAF,Italy,,Female,6.5
+2000,SH_STA_TRAF,Italy,,Male,21.9
+2005,SH_STA_TRAF,Italy,,Both sexes,10.3
+2005,SH_STA_TRAF,Italy,,Female,4.0
+2005,SH_STA_TRAF,Italy,,Male,17.0
+2010,SH_STA_TRAF,Italy,,Both sexes,7.3
+2010,SH_STA_TRAF,Italy,,Female,3.1
+2010,SH_STA_TRAF,Italy,,Male,11.8
+2015,SH_STA_TRAF,Italy,,Female,2.5
+2015,SH_STA_TRAF,Italy,,Male,9.5
+2015,SH_STA_TRAF,Italy,,Both sexes,5.9
+2019,SH_STA_TRAF,Italy,,Both sexes,5.3
+2019,SH_STA_TRAF,Italy,,Female,2.4
+2019,SH_STA_TRAF,Italy,,Male,8.4
+2000,SH_STA_TRAF,Uzbekistan,,Male,15.3
+2000,SH_STA_TRAF,Uzbekistan,,Both sexes,9.7
+2000,SH_STA_TRAF,Uzbekistan,,Female,4.2
+2005,SH_STA_TRAF,Uzbekistan,,Female,5.4
+2005,SH_STA_TRAF,Uzbekistan,,Both sexes,12.9
+2005,SH_STA_TRAF,Uzbekistan,,Male,20.4
+2010,SH_STA_TRAF,Uzbekistan,,Both sexes,11.3
+2010,SH_STA_TRAF,Uzbekistan,,Female,4.7
+2010,SH_STA_TRAF,Uzbekistan,,Male,17.9
+2000,SH_STA_TRAF,Japan,,Both sexes,12.5
+2000,SH_STA_TRAF,Japan,,Female,7.4
+2000,SH_STA_TRAF,Japan,,Male,17.7
+2005,SH_STA_TRAF,Japan,,Both sexes,9.4
+2005,SH_STA_TRAF,Japan,,Female,5.7
+2005,SH_STA_TRAF,Japan,,Male,13.2
+2010,SH_STA_TRAF,Japan,,Both sexes,5.3
+2010,SH_STA_TRAF,Japan,,Female,3.5
+2010,SH_STA_TRAF,Japan,,Male,7.2
+2015,SH_STA_TRAF,Japan,,Both sexes,4.2
+2015,SH_STA_TRAF,Japan,,Female,2.7
+2015,SH_STA_TRAF,Japan,,Male,5.8
+2019,SH_STA_TRAF,Japan,,Both sexes,3.6
+2019,SH_STA_TRAF,Japan,,Female,2.3
+2019,SH_STA_TRAF,Japan,,Male,5.0
+2000,SH_STA_TRAF,Kazakhstan,,Both sexes,14.2
+2000,SH_STA_TRAF,Kazakhstan,,Female,6.9
+2000,SH_STA_TRAF,Kazakhstan,,Male,22.1
+2005,SH_STA_TRAF,Kazakhstan,,Both sexes,31.1
+2005,SH_STA_TRAF,Kazakhstan,,Female,15.2
+2005,SH_STA_TRAF,Kazakhstan,,Male,48.2
+2010,SH_STA_TRAF,Kazakhstan,,Male,39.3
+2010,SH_STA_TRAF,Kazakhstan,,Female,13.4
+2010,SH_STA_TRAF,Kazakhstan,,Both sexes,25.9
+2015,SH_STA_TRAF,Kazakhstan,,Both sexes,18.4
+2015,SH_STA_TRAF,Kazakhstan,,Female,9.6
+2015,SH_STA_TRAF,Kazakhstan,,Male,27.8
+2019,SH_STA_TRAF,Kazakhstan,,Both sexes,12.7
+2019,SH_STA_TRAF,Kazakhstan,,Female,7.2
+2019,SH_STA_TRAF,Kazakhstan,,Male,18.5
+2000,SH_STA_TRAF,Republic of Korea,,Both sexes,25.6
+2000,SH_STA_TRAF,Republic of Korea,,Female,14.4
+2000,SH_STA_TRAF,Republic of Korea,,Male,36.7
+2005,SH_STA_TRAF,Republic of Korea,,Both sexes,16.1
+2005,SH_STA_TRAF,Republic of Korea,,Female,9.0
+2005,SH_STA_TRAF,Republic of Korea,,Male,23.1
+2010,SH_STA_TRAF,Republic of Korea,,Both sexes,13.7
+2010,SH_STA_TRAF,Republic of Korea,,Female,7.9
+2010,SH_STA_TRAF,Republic of Korea,,Male,19.5
+2015,SH_STA_TRAF,Republic of Korea,,Both sexes,10.6
+2015,SH_STA_TRAF,Republic of Korea,,Female,6.1
+2015,SH_STA_TRAF,Republic of Korea,,Male,15.1
+2019,SH_STA_TRAF,Republic of Korea,,Both sexes,8.6
+2019,SH_STA_TRAF,Republic of Korea,,Female,4.6
+2019,SH_STA_TRAF,Republic of Korea,,Male,12.5
+2000,SH_STA_TRAF,Kyrgyzstan,,Both sexes,12.4
+2000,SH_STA_TRAF,Kyrgyzstan,,Female,6.0
+2000,SH_STA_TRAF,Kyrgyzstan,,Male,19.0
+2005,SH_STA_TRAF,Kyrgyzstan,,Both sexes,17.6
+2005,SH_STA_TRAF,Kyrgyzstan,,Female,8.5
+2005,SH_STA_TRAF,Kyrgyzstan,,Male,26.9
+2010,SH_STA_TRAF,Kyrgyzstan,,Male,27.8
+2010,SH_STA_TRAF,Kyrgyzstan,,Female,8.5
+2010,SH_STA_TRAF,Kyrgyzstan,,Both sexes,18.0
+2015,SH_STA_TRAF,Kyrgyzstan,,Both sexes,17.5
+2015,SH_STA_TRAF,Kyrgyzstan,,Female,8.4
+2015,SH_STA_TRAF,Kyrgyzstan,,Male,26.8
+2019,SH_STA_TRAF,Kyrgyzstan,,Both sexes,12.7
+2019,SH_STA_TRAF,Kyrgyzstan,,Female,6.5
+2019,SH_STA_TRAF,Kyrgyzstan,,Male,18.9
+2015,SH_STA_TRAF,Uzbekistan,,Both sexes,11.9
+2015,SH_STA_TRAF,Uzbekistan,,Female,4.9
+2015,SH_STA_TRAF,Uzbekistan,,Male,19.0
+2019,SH_STA_TRAF,Uzbekistan,,Both sexes,11.7
+2019,SH_STA_TRAF,Uzbekistan,,Female,5.0
+2019,SH_STA_TRAF,Uzbekistan,,Male,18.4
+2019,SH_STA_TRAF,Uzbekistan,,Male,18.4

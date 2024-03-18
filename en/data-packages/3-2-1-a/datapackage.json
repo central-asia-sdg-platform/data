@@ -1,0 +1,137 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_DYN_IMRTN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Chile",
+                "Azerbaijan",
+                "Ireland",
+                "Israel",
+                "Norway",
+                "China",
+                "Poland",
+                "Italy",
+                "Colombia",
+                "Japan",
+                "Portugal",
+                "Costa Rica",
+                "Kazakhstan",
+                "Romania",
+                "Croatia",
+                "Republic of Korea",
+                "Cyprus",
+                "Serbia",
+                "Czechia",
+                "Slovakia",
+                "Kyrgyzstan",
+                "Denmark",
+                "Viet Nam",
+                "Latvia",
+                "Slovenia",
+                "Australia",
+                "Lithuania",
+                "Estonia",
+                "Spain",
+                "Luxembourg",
+                "Finland",
+                "France",
+                "Sweden",
+                "Malta",
+                "Austria",
+                "Georgia",
+                "Mexico",
+                "Germany",
+                "Switzerland",
+                "Greece",
+                "Moldova",
+                "Tajikistan",
+                "Hungary",
+                "Montenegro",
+                "United Arab Emirates",
+                "Iceland",
+                "Türkiye",
+                "Netherlands (Kingdom of the)",
+                "India",
+                "Turkmenistan",
+                "New Zealand",
+                "Ukraine",
+                "Armenia",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Uzbekistan",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<1Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-2-1-a",
+  "title": "meta.name-3-2-1-a"
+}

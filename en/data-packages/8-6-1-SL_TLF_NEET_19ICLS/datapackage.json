@@ -1,0 +1,121 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_NEET_19ICLS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Latvia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Bosnia and Herzegovina",
+                "Moldova",
+                "Bulgaria",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Canada",
+                "Chile",
+                "Costa Rica",
+                "Croatia",
+                "Sweden",
+                "Cyprus",
+                "Czechia",
+                "Switzerland",
+                "Denmark",
+                "United Arab Emirates",
+                "Estonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                "Both sexes",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-6-1-SL_TLF_NEET_19ICLS",
+  "title": "meta.name-8-6-1-SL_TLF_NEET_19ICLS"
+}

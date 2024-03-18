@@ -1,0 +1,1 @@
+{"data":{"Year":[2021,2021,2021,2020],"SeriesCode":["AG_LND_SDGRD","AG_LND_SDGRD","AG_LND_SDGRD","AG_LND_SDGRD"],"\u0421\u0442\u0440\u0430\u043d\u0430 ":["Belarus","Denmark","Hungary","Viet Nam"],"Value":[100,100,100,84]},"edges":{"From":["SeriesCode"],"To":["\u0421\u0442\u0440\u0430\u043d\u0430 "]}}

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2022,2022,2022,2022,2022],"SeriesCode":["SP_DISP_RESOL","SP_DISP_RESOL","SP_DISP_RESOL","SP_DISP_RESOL","SP_DISP_RESOL"],"Country":["Canada","Colombia","Colombia","Colombia","Colombia"],"Disability status":["Total or no breakdown","Total or no breakdown","Total or no breakdown","Total or no breakdown","Total or no breakdown"],"Sex":["Both sexes","Female","Both sexes","Male","Male"],"Value":[65.89,46.42,46.57,46.71,46.71]},"edges":{"From":["SeriesCode","Country","Disability status"],"To":["Country","Disability status","Sex"]}}

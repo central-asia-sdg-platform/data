@@ -1,0 +1,149 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_DOM_TSPD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ireland",
+                "Italy",
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Japan",
+                "Belgium",
+                "Kazakhstan",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Republic of Korea",
+                "Chile",
+                "China",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Colombia",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Costa Rica",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Denmark",
+                "Estonia",
+                "Serbia",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Finland",
+                "Türkiye",
+                "France",
+                "Georgia",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Germany",
+                "Greece",
+                "Hungary",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-64",
+                "55-64",
+                "25-44",
+                "15-24",
+                "3+",
+                "45-54",
+                "65+",
+                "15+",
+                "10+",
+                "12+",
+                "20-74",
+                "12-24",
+                "25-34",
+                "75-84",
+                "35-44",
+                "65-74",
+                "85+",
+                "45-64",
+                "16+",
+                "20-24",
+                "20-64",
+                "20+",
+                "10-14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1-SL_DOM_TSPD",
+  "title": "meta.name-5-4-1-SL_DOM_TSPD"
+}

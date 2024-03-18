@@ -1,0 +1,178 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_BNK_ACCSS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Australia",
+                "Estonia",
+                "Mexico",
+                "Albania",
+                "Finland",
+                "Austria",
+                "Moldova",
+                "France",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Georgia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Germany",
+                "Uzbekistan",
+                "Greece",
+                "Armenia",
+                "Hungary",
+                "Belgium",
+                "Montenegro",
+                "Bosnia and Herzegovina",
+                "Netherlands (Kingdom of the)",
+                "Bulgaria",
+                "Iceland",
+                "India",
+                "New Zealand",
+                "Belarus",
+                "Norway",
+                "Ireland",
+                "Canada",
+                "Poland",
+                "Israel",
+                "Portugal",
+                "Italy",
+                "Japan",
+                "Romania",
+                "Chile",
+                "Serbia",
+                "China",
+                "Kazakhstan",
+                "Colombia",
+                "Slovakia",
+                "Costa Rica",
+                "Viet Nam",
+                "Slovenia",
+                "Republic of Korea",
+                "Croatia",
+                "Spain",
+                "Sweden",
+                "Kyrgyzstan",
+                "Switzerland",
+                "Tajikistan",
+                "Cyprus",
+                "Latvia",
+                "Lithuania",
+                "Czechia",
+                "Luxembourg",
+                "Denmark",
+                "Malta",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "25+",
+                "15-24",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AGG_GE2",
+                "Total or no breakdown",
+                "AGG_0_1",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All areas",
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total or no breakdown",
+                "Bottom 40%",
+                "Richest 60%",
+                ""
+              ]
+            },
+            "title": "Quantile"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-10-2-FB_BNK_ACCSS",
+  "title": "meta.name-8-10-2-FB_BNK_ACCSS"
+}

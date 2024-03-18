@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_LKW_QLTRB",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Казахстан",
+                "Costa Rica",
+                "Кыргызстан",
+                "Croatia",
+                "Czechia",
+                "Latvia",
+                "Denmark",
+                "Lithuania",
+                "Estonia",
+                "Finland",
+                "Mexico",
+                "France",
+                "Germany",
+                "Republic of Moldova",
+                "Greece",
+                "Montenegro",
+                "Hungary",
+                "Iceland",
+                "New Zealand",
+                "India",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovakia",
+                "Viet Nam",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Таджикистан",
+                "Türkiye",
+                "Туркменистан",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Deviation Level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HIGH",
+                "LOW",
+                "MEDIUM",
+                "EXTREME",
+                ""
+              ]
+            },
+            "title": "Deviation Level"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_LKW_QLTRB",
+  "title": "meta.name-6-6-1-EN_LKW_QLTRB"
+}

@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FM_LBL_BMNY_ZG",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Mexico",
+                "China",
+                "Moldova",
+                "Colombia",
+                "Montenegro",
+                "New Zealand",
+                "Albania",
+                "Norway",
+                "Costa Rica",
+                "Azerbaijan",
+                "Poland",
+                "Croatia",
+                "Australia",
+                "Czechia",
+                "Denmark",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Georgia",
+                "Romania",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Serbia",
+                "Hungary",
+                "Viet Nam",
+                "Iceland",
+                "India",
+                "Israel",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Japan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Kazakhstan",
+                "Ukraine",
+                "Republic of Korea",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Kyrgyzstan",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-FM_LBL_BMNY_ZG",
+  "title": "meta.name-17-13-1-FM_LBL_BMNY_ZG"
+}

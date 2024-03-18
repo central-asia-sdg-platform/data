@@ -1,0 +1,93 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FM_LBL_BMNY_IR_ZS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Hungary",
+                "Belarus",
+                "Iceland",
+                "Serbia",
+                "India",
+                "Canada",
+                "Viet Nam",
+                "Israel",
+                "Japan",
+                "Sweden",
+                "Switzerland",
+                "Chile",
+                "China",
+                "Таджикистан",
+                "Colombia",
+                "Казахстан",
+                "Costa Rica",
+                "Croatia",
+                "Czechia",
+                "United Arab Emirates",
+                "Denmark",
+                "Türkiye",
+                "Ukraine",
+                "Republic of Korea",
+                "North Macedonia",
+                "Кыргызстан",
+                "Georgia",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "New Zealand",
+                "Узбекистан",
+                "Norway",
+                "Poland",
+                "Romania",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-FM_LBL_BMNY_IR_ZS",
+  "title": "meta.name-17-13-1-FM_LBL_BMNY_IR_ZS"
+}

@@ -12,8 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_SCHIPSL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Türkiye",
+                "Turkmenistan",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Albania",
+                "Croatia",
+                "Georgia",
+                "Azerbaijan",
+                "Ukraine",
+                "India",
+                "Armenia",
+                "Kazakhstan",
+                "North Macedonia",
+                "Uzbekistan",
+                "Kyrgyzstan",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Tajikistan",
+                ""
+              ]
+            },
+            "title": "Country"
           },
           {
             "name": "Value",

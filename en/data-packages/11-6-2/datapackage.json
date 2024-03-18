@@ -12,8 +12,107 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_ATM_PM25",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "China",
+                "Azerbaijan",
+                "Ireland",
+                "Albania",
+                "Colombia",
+                "Australia",
+                "Norway",
+                "Austria",
+                "Costa Rica",
+                "Poland",
+                "Croatia",
+                "Armenia",
+                "Portugal",
+                "Cyprus",
+                "Belgium",
+                "Israel",
+                "Romania",
+                "Bosnia and Herzegovina",
+                "Czechia",
+                "Serbia",
+                "Italy",
+                "Denmark",
+                "Bulgaria",
+                "Japan",
+                "Belarus",
+                "Estonia",
+                "Canada",
+                "Finland",
+                "Slovakia",
+                "United Arab Emirates",
+                "France",
+                "Viet Nam",
+                "Türkiye",
+                "Georgia",
+                "Turkmenistan",
+                "Slovenia",
+                "Ukraine",
+                "Germany",
+                "Spain",
+                "North Macedonia",
+                "Greece",
+                "Sweden",
+                "Switzerland",
+                "Hungary",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Iceland",
+                "Tajikistan",
+                "India",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Uzbekistan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Town and semi-dense area",
+                "Rural",
+                "City",
+                "All areas",
+                ""
+              ]
+            },
+            "title": "Location"
           },
           {
             "name": "Value",

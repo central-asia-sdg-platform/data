@@ -1,0 +1,402 @@
+Year,SeriesCode,Country,Sex,Value
+2009,VC_VOV_ROBB,Australia,Female,0.3
+2009,VC_VOV_ROBB,Australia,Both sexes,0.6
+2009,VC_VOV_ROBB,Australia,Male,0.8
+2010,VC_VOV_ROBB,Australia,Female,0.3
+2010,VC_VOV_ROBB,Australia,Male,0.5
+2010,VC_VOV_ROBB,Australia,Both sexes,0.4
+2011,VC_VOV_ROBB,Australia,Both sexes,0.4
+2011,VC_VOV_ROBB,Australia,Female,0.3
+2011,VC_VOV_ROBB,Australia,Male,0.5
+2012,VC_VOV_ROBB,Australia,Female,0.3
+2012,VC_VOV_ROBB,Australia,Male,0.4
+2012,VC_VOV_ROBB,Australia,Both sexes,0.4
+2013,VC_VOV_ROBB,Australia,Female,0.2
+2013,VC_VOV_ROBB,Australia,Male,0.6
+2013,VC_VOV_ROBB,Australia,Both sexes,0.4
+2014,VC_VOV_ROBB,Australia,Both sexes,0.4
+2014,VC_VOV_ROBB,Australia,Female,0.3
+2014,VC_VOV_ROBB,Australia,Male,0.4
+2015,VC_VOV_ROBB,Australia,Both sexes,0.3
+2015,VC_VOV_ROBB,Australia,Female,0.3
+2015,VC_VOV_ROBB,Australia,Male,0.3
+2016,VC_VOV_ROBB,Australia,Both sexes,0.4
+2016,VC_VOV_ROBB,Australia,Male,0.4
+2016,VC_VOV_ROBB,Australia,Female,0.3
+2017,VC_VOV_ROBB,Australia,Female,0.4
+2017,VC_VOV_ROBB,Australia,Male,0.4
+2017,VC_VOV_ROBB,Australia,Both sexes,0.4
+2018,VC_VOV_ROBB,Australia,Both sexes,0.3
+2018,VC_VOV_ROBB,Australia,Male,0.3
+2018,VC_VOV_ROBB,Australia,Female,0.2
+2019,VC_VOV_ROBB,Australia,Both sexes,0.4
+2019,VC_VOV_ROBB,Australia,Female,0.3
+2019,VC_VOV_ROBB,Australia,Male,0.4
+2020,VC_VOV_ROBB,Australia,Both sexes,0.3
+2020,VC_VOV_ROBB,Australia,Female,0.3
+2020,VC_VOV_ROBB,Australia,Male,0.5
+2021,VC_VOV_ROBB,Australia,Female,0.2
+2021,VC_VOV_ROBB,Australia,Both sexes,0.3
+2021,VC_VOV_ROBB,Australia,Male,0.3
+2006,VC_VOV_ROBB,Belgium,Both sexes,4.79
+2006,VC_VOV_ROBB,Belgium,Female,2.71
+2006,VC_VOV_ROBB,Belgium,Male,2.08
+2009,VC_VOV_ROBB,Belgium,Female,2.54
+2009,VC_VOV_ROBB,Belgium,Both sexes,4.48
+2009,VC_VOV_ROBB,Belgium,Male,1.94
+2018,VC_VOV_ROBB,Belgium,Both sexes,4.14
+2004,VC_VOV_ROBB,Canada,Both sexes,1.1
+2004,VC_VOV_ROBB,Canada,Female,0.8
+2009,VC_VOV_ROBB,Canada,Both sexes,1.3
+2009,VC_VOV_ROBB,Canada,Female,1.0
+2009,VC_VOV_ROBB,Canada,Male,1.6
+2014,VC_VOV_ROBB,Canada,Female,0.5
+2014,VC_VOV_ROBB,Canada,Male,0.8
+2014,VC_VOV_ROBB,Canada,Both sexes,0.6
+2019,VC_VOV_ROBB,Canada,Both sexes,0.6
+2019,VC_VOV_ROBB,Canada,Female,0.7
+2019,VC_VOV_ROBB,Canada,Male,0.5
+2006,VC_VOV_ROBB,Chile,Female,2.0
+2006,VC_VOV_ROBB,Chile,Both sexes,2.94
+2006,VC_VOV_ROBB,Chile,Male,0.94
+2007,VC_VOV_ROBB,Chile,Male,1.22
+2007,VC_VOV_ROBB,Chile,Both sexes,3.0
+2007,VC_VOV_ROBB,Chile,Female,1.82
+2008,VC_VOV_ROBB,Chile,Female,1.54
+2008,VC_VOV_ROBB,Chile,Both sexes,2.4
+2008,VC_VOV_ROBB,Chile,Male,0.9
+2009,VC_VOV_ROBB,Chile,Male,0.85
+2009,VC_VOV_ROBB,Chile,Both sexes,2.4
+2009,VC_VOV_ROBB,Chile,Female,1.52
+2010,VC_VOV_ROBB,Chile,Both sexes,2.2
+2010,VC_VOV_ROBB,Chile,Female,1.8
+2010,VC_VOV_ROBB,Chile,Male,2.7
+2011,VC_VOV_ROBB,Chile,Male,2.8
+2011,VC_VOV_ROBB,Chile,Female,1.8
+2011,VC_VOV_ROBB,Chile,Both sexes,2.3
+2012,VC_VOV_ROBB,Chile,Male,2.2
+2012,VC_VOV_ROBB,Chile,Both sexes,1.9
+2012,VC_VOV_ROBB,Chile,Female,1.7
+2013,VC_VOV_ROBB,Chile,Both sexes,3.2
+2013,VC_VOV_ROBB,Chile,Female,1.2
+2013,VC_VOV_ROBB,Chile,Male,2.3
+2014,VC_VOV_ROBB,Chile,Male,2.1
+2014,VC_VOV_ROBB,Chile,Female,1.5
+2014,VC_VOV_ROBB,Chile,Both sexes,4.0
+2015,VC_VOV_ROBB,Chile,Male,3.4
+2015,VC_VOV_ROBB,Chile,Both sexes,4.2
+2015,VC_VOV_ROBB,Chile,Female,5.0
+2016,VC_VOV_ROBB,Chile,Female,4.3
+2016,VC_VOV_ROBB,Chile,Both sexes,4.1
+2016,VC_VOV_ROBB,Chile,Male,3.9
+2017,VC_VOV_ROBB,Chile,Both sexes,4.4
+2017,VC_VOV_ROBB,Chile,Female,4.9
+2017,VC_VOV_ROBB,Chile,Male,3.9
+2018,VC_VOV_ROBB,Chile,Both sexes,4.1
+2018,VC_VOV_ROBB,Chile,Male,3.7
+2018,VC_VOV_ROBB,Chile,Female,4.5
+2019,VC_VOV_ROBB,Chile,Both sexes,3.3
+2019,VC_VOV_ROBB,Chile,Male,2.8
+2019,VC_VOV_ROBB,Chile,Female,3.9
+2020,VC_VOV_ROBB,Chile,Both sexes,3.6
+2020,VC_VOV_ROBB,Chile,Male,3.6
+2020,VC_VOV_ROBB,Chile,Female,3.6
+2021,VC_VOV_ROBB,Chile,Both sexes,3.0
+2021,VC_VOV_ROBB,Chile,Male,3.0
+2021,VC_VOV_ROBB,Chile,Female,3.1
+2012,VC_VOV_ROBB,Colombia,Male,13.6
+2012,VC_VOV_ROBB,Colombia,Both sexes,13.2
+2012,VC_VOV_ROBB,Colombia,Female,12.8
+2013,VC_VOV_ROBB,Colombia,Both sexes,11.4
+2013,VC_VOV_ROBB,Colombia,Female,11.2
+2013,VC_VOV_ROBB,Colombia,Male,11.6
+2014,VC_VOV_ROBB,Colombia,Both sexes,11.2
+2014,VC_VOV_ROBB,Colombia,Female,10.9
+2014,VC_VOV_ROBB,Colombia,Male,11.5
+2015,VC_VOV_ROBB,Colombia,Both sexes,10.5
+2015,VC_VOV_ROBB,Colombia,Male,10.1
+2015,VC_VOV_ROBB,Colombia,Female,10.9
+2016,VC_VOV_ROBB,Colombia,Both sexes,7.1
+2017,VC_VOV_ROBB,Colombia,Male,6.79
+2017,VC_VOV_ROBB,Colombia,Female,6.1
+2017,VC_VOV_ROBB,Colombia,Both sexes,6.42
+2019,VC_VOV_ROBB,Colombia,Both sexes,4.09
+2019,VC_VOV_ROBB,Colombia,Male,4.37
+2019,VC_VOV_ROBB,Colombia,Female,3.82
+2020,VC_VOV_ROBB,Colombia,Female,2.86
+2020,VC_VOV_ROBB,Colombia,Both sexes,3.14
+2020,VC_VOV_ROBB,Colombia,Male,3.43
+2008,VC_VOV_ROBB,Costa Rica,Both sexes,15.75
+2010,VC_VOV_ROBB,Costa Rica,Both sexes,13.03
+2014,VC_VOV_ROBB,Costa Rica,Both sexes,12.94
+2008,VC_VOV_ROBB,Croatia,Both sexes,0.4
+2010,VC_VOV_ROBB,Croatia,Both sexes,0.9
+2010,VC_VOV_ROBB,Czechia,Both sexes,3.1
+2013,VC_VOV_ROBB,Czechia,Both sexes,3.1
+2008,VC_VOV_ROBB,Denmark,Both sexes,0.8
+2008,VC_VOV_ROBB,Denmark,Male,0.9
+2008,VC_VOV_ROBB,Denmark,Female,0.8
+2009,VC_VOV_ROBB,Denmark,Female,1.1
+2009,VC_VOV_ROBB,Denmark,Both sexes,1.1
+2010,VC_VOV_ROBB,Denmark,Male,0.8
+2010,VC_VOV_ROBB,Denmark,Both sexes,1.1
+2010,VC_VOV_ROBB,Denmark,Female,1.4
+2011,VC_VOV_ROBB,Denmark,Both sexes,0.8
+2011,VC_VOV_ROBB,Denmark,Male,0.9
+2011,VC_VOV_ROBB,Denmark,Female,0.7
+2012,VC_VOV_ROBB,Denmark,Female,0.7
+2012,VC_VOV_ROBB,Denmark,Male,1.0
+2012,VC_VOV_ROBB,Denmark,Both sexes,0.9
+2013,VC_VOV_ROBB,Denmark,Female,0.8
+2013,VC_VOV_ROBB,Denmark,Male,0.8
+2013,VC_VOV_ROBB,Denmark,Both sexes,0.8
+2014,VC_VOV_ROBB,Denmark,Both sexes,0.8
+2014,VC_VOV_ROBB,Denmark,Female,0.8
+2014,VC_VOV_ROBB,Denmark,Male,0.8
+2004,VC_VOV_ROBB,Estonia,Both sexes,1.8
+2009,VC_VOV_ROBB,Estonia,Both sexes,2.1
+2014,VC_VOV_ROBB,Estonia,Both sexes,1.4
+2015,VC_VOV_ROBB,Estonia,Both sexes,1.4
+2016,VC_VOV_ROBB,Estonia,Both sexes,1.3
+2017,VC_VOV_ROBB,Estonia,Both sexes,0.9
+2018,VC_VOV_ROBB,Estonia,Both sexes,0.7
+2007,VC_VOV_ROBB,France,Both sexes,0.7
+2007,VC_VOV_ROBB,France,Female,0.4
+2007,VC_VOV_ROBB,France,Male,0.9
+2008,VC_VOV_ROBB,France,Both sexes,0.61
+2008,VC_VOV_ROBB,France,Female,0.32
+2008,VC_VOV_ROBB,France,Male,0.92
+2009,VC_VOV_ROBB,France,Male,0.62
+2009,VC_VOV_ROBB,France,Female,0.28
+2009,VC_VOV_ROBB,France,Both sexes,0.44
+2010,VC_VOV_ROBB,France,Both sexes,0.58
+2010,VC_VOV_ROBB,France,Female,0.49
+2010,VC_VOV_ROBB,France,Male,0.67
+2011,VC_VOV_ROBB,France,Male,0.62
+2011,VC_VOV_ROBB,France,Both sexes,0.59
+2011,VC_VOV_ROBB,France,Female,0.57
+2012,VC_VOV_ROBB,France,Female,0.42
+2012,VC_VOV_ROBB,France,Both sexes,0.54
+2012,VC_VOV_ROBB,France,Male,0.66
+2013,VC_VOV_ROBB,France,Female,0.56
+2013,VC_VOV_ROBB,France,Male,0.64
+2013,VC_VOV_ROBB,France,Both sexes,0.6
+2014,VC_VOV_ROBB,France,Female,0.79
+2014,VC_VOV_ROBB,France,Both sexes,0.72
+2014,VC_VOV_ROBB,France,Male,0.65
+2015,VC_VOV_ROBB,France,Male,0.28
+2015,VC_VOV_ROBB,France,Both sexes,0.38
+2015,VC_VOV_ROBB,France,Female,0.46
+2016,VC_VOV_ROBB,France,Both sexes,0.47
+2016,VC_VOV_ROBB,France,Male,0.51
+2016,VC_VOV_ROBB,France,Female,0.44
+2017,VC_VOV_ROBB,France,Male,0.5
+2017,VC_VOV_ROBB,France,Female,0.19
+2017,VC_VOV_ROBB,France,Both sexes,0.36
+2018,VC_VOV_ROBB,France,Male,0.5
+2018,VC_VOV_ROBB,France,Both sexes,0.4
+2018,VC_VOV_ROBB,France,Female,0.3
+2019,VC_VOV_ROBB,France,Both sexes,0.32
+2010,VC_VOV_ROBB,Georgia,Both sexes,0.19
+2010,VC_VOV_ROBB,Georgia,Female,0.15
+2012,VC_VOV_ROBB,Germany,Both sexes,0.7
+2012,VC_VOV_ROBB,Germany,Female,0.6
+2012,VC_VOV_ROBB,Germany,Male,0.9
+2017,VC_VOV_ROBB,Germany,Female,0.8
+2017,VC_VOV_ROBB,Germany,Both sexes,1.0
+2017,VC_VOV_ROBB,Germany,Male,1.3
+2020,VC_VOV_ROBB,Germany,Both sexes,0.6
+2020,VC_VOV_ROBB,Germany,Male,0.7
+2020,VC_VOV_ROBB,Germany,Female,0.5
+2019,VC_VOV_ROBB,Ireland,Both sexes,1.7
+2019,VC_VOV_ROBB,Ireland,Male,2.0
+2019,VC_VOV_ROBB,Ireland,Female,1.0
+2013,VC_VOV_ROBB,Israel,Both sexes,0.3
+2016,VC_VOV_ROBB,Israel,Both sexes,0.28
+2017,VC_VOV_ROBB,Israel,Both sexes,0.39
+2018,VC_VOV_ROBB,Israel,Both sexes,0.32
+2018,VC_VOV_ROBB,Israel,Male,0.51
+2019,VC_VOV_ROBB,Israel,Both sexes,0.0
+2020,VC_VOV_ROBB,Israel,Both sexes,0.0
+2021,VC_VOV_ROBB,Israel,Both sexes,0.37
+2008,VC_VOV_ROBB,Italy,Both sexes,0.3
+2008,VC_VOV_ROBB,Italy,Male,0.5
+2008,VC_VOV_ROBB,Italy,Female,0.2
+2016,VC_VOV_ROBB,Italy,Both sexes,0.5
+2016,VC_VOV_ROBB,Italy,Male,0.6
+2016,VC_VOV_ROBB,Italy,Female,0.3
+2008,VC_VOV_ROBB,Republic of Korea,Both sexes,0.01
+2009,VC_VOV_ROBB,Republic of Korea,Both sexes,0.02
+2010,VC_VOV_ROBB,Republic of Korea,Both sexes,0.02
+2011,VC_VOV_ROBB,Republic of Korea,Both sexes,0.02
+2012,VC_VOV_ROBB,Republic of Korea,Both sexes,0.04
+2012,VC_VOV_ROBB,Republic of Korea,Female,0.04
+2012,VC_VOV_ROBB,Republic of Korea,Male,0.04
+2013,VC_VOV_ROBB,Republic of Korea,Both sexes,0.01
+2014,VC_VOV_ROBB,Republic of Korea,Male,0.08
+2014,VC_VOV_ROBB,Republic of Korea,Both sexes,0.06
+2014,VC_VOV_ROBB,Republic of Korea,Female,0.0
+2016,VC_VOV_ROBB,Republic of Korea,Both sexes,0.1
+2016,VC_VOV_ROBB,Republic of Korea,Male,0.1
+2016,VC_VOV_ROBB,Republic of Korea,Female,0.1
+2018,VC_VOV_ROBB,Republic of Korea,Both sexes,0.12
+2020,VC_VOV_ROBB,Republic of Korea,Both sexes,0.04
+2015,VC_VOV_ROBB,Kyrgyzstan,Both sexes,1.08
+2013,VC_VOV_ROBB,Luxembourg,Both sexes,1.1
+2013,VC_VOV_ROBB,Luxembourg,Female,0.5
+2013,VC_VOV_ROBB,Luxembourg,Male,1.6
+2020,VC_VOV_ROBB,Luxembourg,Female,0.58
+2020,VC_VOV_ROBB,Luxembourg,Male,0.51
+2020,VC_VOV_ROBB,Luxembourg,Both sexes,0.6
+2009,VC_VOV_ROBB,Mexico,Female,4.45
+2010,VC_VOV_ROBB,Mexico,Female,4.36
+2010,VC_VOV_ROBB,Mexico,Both sexes,6.4
+2011,VC_VOV_ROBB,Mexico,Both sexes,7.0
+2011,VC_VOV_ROBB,Mexico,Male,7.2
+2011,VC_VOV_ROBB,Mexico,Female,5.5
+2012,VC_VOV_ROBB,Mexico,Female,6.11
+2012,VC_VOV_ROBB,Mexico,Male,7.9
+2012,VC_VOV_ROBB,Mexico,Both sexes,9.1
+2013,VC_VOV_ROBB,Mexico,Both sexes,8.55
+2013,VC_VOV_ROBB,Mexico,Female,7.98
+2013,VC_VOV_ROBB,Mexico,Male,10.39
+2014,VC_VOV_ROBB,Mexico,Female,8.54
+2014,VC_VOV_ROBB,Mexico,Male,11.55
+2014,VC_VOV_ROBB,Mexico,Both sexes,8.42
+2015,VC_VOV_ROBB,Mexico,Both sexes,8.16
+2015,VC_VOV_ROBB,Mexico,Female,6.93
+2015,VC_VOV_ROBB,Mexico,Male,9.57
+2016,VC_VOV_ROBB,Mexico,Female,6.93
+2016,VC_VOV_ROBB,Mexico,Male,9.39
+2016,VC_VOV_ROBB,Mexico,Both sexes,8.08
+2017,VC_VOV_ROBB,Mexico,Both sexes,8.96
+2017,VC_VOV_ROBB,Mexico,Male,10.28
+2017,VC_VOV_ROBB,Mexico,Female,7.8
+2018,VC_VOV_ROBB,Mexico,Male,9.57
+2018,VC_VOV_ROBB,Mexico,Female,7.64
+2018,VC_VOV_ROBB,Mexico,Both sexes,8.55
+2019,VC_VOV_ROBB,Mexico,Both sexes,7.27
+2019,VC_VOV_ROBB,Mexico,Female,6.4
+2019,VC_VOV_ROBB,Mexico,Male,8.28
+2020,VC_VOV_ROBB,Mexico,Male,6.81
+2020,VC_VOV_ROBB,Mexico,Female,5.11
+2020,VC_VOV_ROBB,Mexico,Both sexes,5.9
+2021,VC_VOV_ROBB,Mexico,Male,6.63
+2021,VC_VOV_ROBB,Mexico,Both sexes,5.66
+2021,VC_VOV_ROBB,Mexico,Female,4.82
+2006,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.3
+2006,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.3
+2006,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.2
+2007,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.2
+2007,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.2
+2007,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.2
+2008,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.2
+2008,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2008,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.2
+2009,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.2
+2009,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.2
+2009,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.2
+2010,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2011,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.2
+2012,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2012,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.1
+2012,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2013,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2013,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2013,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.1
+2014,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.1
+2014,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2014,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2015,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.1
+2015,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2015,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2016,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2017,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.1
+2017,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2017,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2019,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.3
+2019,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2019,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.2
+2021,VC_VOV_ROBB,Netherlands (Kingdom of the),Female,0.1
+2021,VC_VOV_ROBB,Netherlands (Kingdom of the),Male,0.2
+2021,VC_VOV_ROBB,Netherlands (Kingdom of the),Both sexes,0.1
+2009,VC_VOV_ROBB,New Zealand,Both sexes,1.3
+2014,VC_VOV_ROBB,New Zealand,Both sexes,0.5
+2007,VC_VOV_ROBB,Poland,Both sexes,3.1
+2007,VC_VOV_ROBB,Poland,Male,3.6
+2007,VC_VOV_ROBB,Poland,Female,2.7
+2008,VC_VOV_ROBB,Poland,Female,2.1
+2008,VC_VOV_ROBB,Poland,Both sexes,2.6
+2008,VC_VOV_ROBB,Poland,Male,3.1
+2009,VC_VOV_ROBB,Poland,Female,1.8
+2009,VC_VOV_ROBB,Poland,Both sexes,1.9
+2009,VC_VOV_ROBB,Poland,Male,2.1
+2011,VC_VOV_ROBB,Poland,Both sexes,2.0
+2012,VC_VOV_ROBB,Poland,Both sexes,4.0
+2013,VC_VOV_ROBB,Poland,Male,2.0
+2013,VC_VOV_ROBB,Poland,Female,1.1
+2013,VC_VOV_ROBB,Poland,Both sexes,1.5
+2014,VC_VOV_ROBB,Poland,Both sexes,3.0
+2015,VC_VOV_ROBB,Poland,Both sexes,2.0
+2016,VC_VOV_ROBB,Poland,Both sexes,2.0
+2017,VC_VOV_ROBB,Poland,Both sexes,2.0
+2018,VC_VOV_ROBB,Poland,Both sexes,3.0
+2019,VC_VOV_ROBB,Poland,Both sexes,1.0
+2020,VC_VOV_ROBB,Poland,Male,2.5
+2020,VC_VOV_ROBB,Poland,Both sexes,2.3
+2020,VC_VOV_ROBB,Poland,Female,2.1
+2021,VC_VOV_ROBB,Poland,Both sexes,1.0
+2020,VC_VOV_ROBB,Slovenia,Male,0.67
+2020,VC_VOV_ROBB,Slovenia,Female,0.46
+2020,VC_VOV_ROBB,Slovenia,Both sexes,0.57
+2007,VC_VOV_ROBB,Sweden,Both sexes,0.5
+2007,VC_VOV_ROBB,Sweden,Female,0.8
+2007,VC_VOV_ROBB,Sweden,Male,1.2
+2008,VC_VOV_ROBB,Sweden,Male,0.8
+2008,VC_VOV_ROBB,Sweden,Female,0.4
+2008,VC_VOV_ROBB,Sweden,Both sexes,0.6
+2009,VC_VOV_ROBB,Sweden,Female,0.5
+2009,VC_VOV_ROBB,Sweden,Male,1.1
+2009,VC_VOV_ROBB,Sweden,Both sexes,0.8
+2010,VC_VOV_ROBB,Sweden,Female,0.5
+2010,VC_VOV_ROBB,Sweden,Both sexes,0.8
+2010,VC_VOV_ROBB,Sweden,Male,1.1
+2011,VC_VOV_ROBB,Sweden,Female,0.5
+2011,VC_VOV_ROBB,Sweden,Male,1.2
+2011,VC_VOV_ROBB,Sweden,Both sexes,0.9
+2012,VC_VOV_ROBB,Sweden,Female,0.5
+2012,VC_VOV_ROBB,Sweden,Both sexes,0.6
+2012,VC_VOV_ROBB,Sweden,Male,0.9
+2013,VC_VOV_ROBB,Sweden,Female,0.5
+2013,VC_VOV_ROBB,Sweden,Both sexes,0.6
+2013,VC_VOV_ROBB,Sweden,Male,0.7
+2014,VC_VOV_ROBB,Sweden,Male,0.8
+2014,VC_VOV_ROBB,Sweden,Both sexes,0.6
+2014,VC_VOV_ROBB,Sweden,Female,0.3
+2015,VC_VOV_ROBB,Sweden,Female,0.4
+2015,VC_VOV_ROBB,Sweden,Male,1.1
+2015,VC_VOV_ROBB,Sweden,Both sexes,0.7
+2016,VC_VOV_ROBB,Sweden,Male,1.7
+2016,VC_VOV_ROBB,Sweden,Both sexes,1.1
+2016,VC_VOV_ROBB,Sweden,Female,0.6
+2017,VC_VOV_ROBB,Sweden,Female,0.8
+2017,VC_VOV_ROBB,Sweden,Both sexes,1.3
+2017,VC_VOV_ROBB,Sweden,Male,1.9
+2018,VC_VOV_ROBB,Sweden,Male,2.1
+2018,VC_VOV_ROBB,Sweden,Both sexes,1.4
+2018,VC_VOV_ROBB,Sweden,Female,0.8
+2019,VC_VOV_ROBB,Sweden,Both sexes,1.5
+2019,VC_VOV_ROBB,Sweden,Female,0.7
+2019,VC_VOV_ROBB,Sweden,Male,2.3
+2020,VC_VOV_ROBB,Sweden,Female,0.5
+2020,VC_VOV_ROBB,Sweden,Male,2.1
+2020,VC_VOV_ROBB,Sweden,Both sexes,1.3
+2021,VC_VOV_ROBB,Sweden,Male,1.9
+2021,VC_VOV_ROBB,Sweden,Female,0.6
+2021,VC_VOV_ROBB,Sweden,Both sexes,1.2
+2009,VC_VOV_ROBB,Switzerland,Both sexes,0.9
+2010,VC_VOV_ROBB,Switzerland,Both sexes,1.0
+2013,VC_VOV_ROBB,Switzerland,Both sexes,0.8
+2014,VC_VOV_ROBB,Switzerland,Both sexes,1.0
+2015,VC_VOV_ROBB,Switzerland,Both sexes,0.4
+2015,VC_VOV_ROBB,Switzerland,Both sexes,0.4

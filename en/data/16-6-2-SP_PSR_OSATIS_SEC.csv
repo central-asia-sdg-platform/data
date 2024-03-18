@@ -1,0 +1,11 @@
+Year,SeriesCode,Country,Age,Disability status,Location,Population Group,Quantile,Sex,Value
+2022,SP_PSR_OSATIS_SEC,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,89
+2022,SP_PSR_OSATIS_SEC,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,89
+2022,SP_PSR_OSATIS_SEC,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,Both sexes,91
+2022,SP_PSR_OSATIS_SEC,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,88
+2022,SP_PSR_OSATIS_SEC,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,89
+2022,SP_PSR_OSATIS_SEC,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,80
+2022,SP_PSR_OSATIS_SEC,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,81
+2022,SP_PSR_OSATIS_SEC,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,79
+2022,SP_PSR_OSATIS_SEC,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,Both sexes,68
+2022,SP_PSR_OSATIS_SEC,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,Both sexes,68

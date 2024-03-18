@@ -12,11 +12,143 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_IHR_CAPS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "IHR Capacity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IHR10",
+                "IHR09",
+                "IHR02",
+                "IHR03",
+                "IHR06",
+                "IHR05",
+                "IHR04",
+                "IHR11",
+                "IHR13",
+                "IHR12",
+                "IHR01",
+                "IHR07",
+                "IHR08",
+                "SPAR13",
+                "SPAR12",
+                "SPAR06",
+                "SPAR05",
+                "SPAR07",
+                "SPAR11",
+                "SPAR10",
+                "SPAR04",
+                "SPAR03",
+                "SPAR02",
+                "SPAR01",
+                "SPAR08",
+                "SPAR09",
+                "SPAR2-C01",
+                "SPAR2-C02",
+                "SPAR2-C08",
+                "SPAR2-C07",
+                "SPAR2-C13",
+                "SPAR2-C10",
+                "SPAR2-C09",
+                "SPAR2-C12",
+                "SPAR2-C14",
+                "SPAR2-C15",
+                "SPAR2-C11",
+                "SPAR2-C03",
+                "SPAR2-C04",
+                "SPAR2-C05",
+                "SPAR2-C06",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

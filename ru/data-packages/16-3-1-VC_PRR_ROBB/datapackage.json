@@ -1,0 +1,88 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_PRR_ROBB",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Belgium",
+                "Canada",
+                "Chile",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "France",
+                "Georgia",
+                "Germany",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Luxembourg",
+                "Mexico",
+                "Netherlands (Kingdom of the)",
+                "Poland",
+                "Sweden",
+                "Switzerland",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-3-1-VC_PRR_ROBB",
+  "title": "meta.name-16-3-1-VC_PRR_ROBB"
+}

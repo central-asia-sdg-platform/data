@@ -12,7 +12,110 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_USE_ii99",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Australia",
+                "Iceland",
+                "Spain",
+                "Albania",
+                "Sweden",
+                "Austria",
+                "India",
+                "Armenia",
+                "Switzerland",
+                "Belgium",
+                "Ireland",
+                "Tajikistan",
+                "Bosnia and Herzegovina",
+                "United Arab Emirates",
+                "Bulgaria",
+                "Türkiye",
+                "Israel",
+                "Belarus",
+                "Canada",
+                "Turkmenistan",
+                "Ukraine",
+                "Chile",
+                "China",
+                "Colombia",
+                "Italy",
+                "North Macedonia",
+                "Costa Rica",
+                "Croatia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Cyprus",
+                "Japan",
+                "Uzbekistan",
+                "Czechia",
+                "Kazakhstan",
+                "Denmark",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Estonia",
+                "Finland",
+                "Liechtenstein",
+                "Lithuania",
+                "France",
+                "Georgia",
+                "Luxembourg",
+                "Germany",
+                "Malta",
+                "Greece",
+                "Mexico",
+                "Hungary",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

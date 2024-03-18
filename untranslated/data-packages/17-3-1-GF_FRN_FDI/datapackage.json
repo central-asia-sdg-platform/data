@@ -1,0 +1,109 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "GF_FRN_FDI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Albania",
+                "Armenia",
+                "Ireland",
+                "Sweden",
+                "Israel",
+                "Switzerland",
+                "Azerbaijan",
+                "Tajikistan",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Belgium",
+                "United Arab Emirates",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Türkiye",
+                "Latvia",
+                "Lithuania",
+                "Turkmenistan",
+                "Ukraine",
+                "Bosnia and Herzegovina",
+                "North Macedonia",
+                "Bulgaria",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Belarus",
+                "Canada",
+                "Uzbekistan",
+                "Luxembourg",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-3-1-GF_FRN_FDI",
+  "title": "meta.name-17-3-1-GF_FRN_FDI"
+}

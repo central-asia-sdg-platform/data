@@ -1,0 +1,111 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_XPD_AGSGB",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Chile",
+                "China",
+                "Spain",
+                "Colombia",
+                "Sweden",
+                "Albania",
+                "Switzerland",
+                "Costa Rica",
+                "Таджикистан",
+                "Azerbaijan",
+                "Croatia",
+                "Australia",
+                "United Arab Emirates",
+                "Cyprus",
+                "Türkiye",
+                "Austria",
+                "Czechia",
+                "Denmark",
+                "Ukraine",
+                "Armenia",
+                "Belgium",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Estonia",
+                "Finland",
+                "Узбекистан",
+                "Bulgaria",
+                "France",
+                "Belarus",
+                "Canada",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-1-AG_XPD_AGSGB",
+  "title": "meta.name-2-a-1-AG_XPD_AGSGB"
+}

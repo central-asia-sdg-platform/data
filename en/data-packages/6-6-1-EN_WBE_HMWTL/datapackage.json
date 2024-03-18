@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_WBE_HMWTL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Armenia",
+                "Bulgaria",
+                "Belarus",
+                "China",
+                "Costa Rica",
+                "Czechia",
+                "Estonia",
+                "India",
+                "Republic of Korea",
+                "Lithuania",
+                "Mexico",
+                "Montenegro",
+                "Poland",
+                "Portugal",
+                "Viet Nam",
+                "Spain",
+                "Tajikistan",
+                "Türkiye",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-6-1-EN_WBE_HMWTL",
+  "title": "meta.name-6-6-1-EN_WBE_HMWTL"
+}

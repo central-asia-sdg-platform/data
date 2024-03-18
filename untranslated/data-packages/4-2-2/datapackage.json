@@ -12,7 +12,98 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_PRE_PARTN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Chile",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Serbia",
+                "Azerbaijan",
+                "Republic of Korea",
+                "Colombia",
+                "Kyrgyzstan",
+                "Slovakia",
+                "Costa Rica",
+                "Latvia",
+                "Croatia",
+                "Viet Nam",
+                "Slovenia",
+                "Cyprus",
+                "Liechtenstein",
+                "Spain",
+                "Sweden",
+                "Czechia",
+                "Australia",
+                "Lithuania",
+                "Denmark",
+                "Switzerland",
+                "Luxembourg",
+                "Malta",
+                "Tajikistan",
+                "Mexico",
+                "United Arab Emirates",
+                "Estonia",
+                "Austria",
+                "Finland",
+                "Türkiye",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "France",
+                "North Macedonia",
+                "New Zealand",
+                "Norway",
+                "Armenia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Georgia",
+                "Germany",
+                "Poland",
+                "Uzbekistan",
+                "Greece",
+                "Belgium",
+                "Portugal",
+                "Hungary",
+                "Romania",
+                "Iceland",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "India",
+                "Ireland",
+                "Israel",
+                "Belarus",
+                "Canada",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

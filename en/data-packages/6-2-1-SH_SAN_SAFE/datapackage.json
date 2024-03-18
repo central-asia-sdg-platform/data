@@ -1,0 +1,125 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SAN_SAFE",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Japan",
+                "Kazakhstan",
+                "Azerbaijan",
+                "China",
+                "Albania",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Serbia",
+                "Colombia",
+                "Costa Rica",
+                "Slovakia",
+                "Australia",
+                "Austria",
+                "Viet Nam",
+                "Croatia",
+                "Cyprus",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Latvia",
+                "Czechia",
+                "Liechtenstein",
+                "Denmark",
+                "Lithuania",
+                "Estonia",
+                "Switzerland",
+                "Tajikistan",
+                "Luxembourg",
+                "United Arab Emirates",
+                "Finland",
+                "Armenia",
+                "France",
+                "Türkiye",
+                "Georgia",
+                "Malta",
+                "Mexico",
+                "Ukraine",
+                "North Macedonia",
+                "Moldova",
+                "Montenegro",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Germany",
+                "Netherlands (Kingdom of the)",
+                "Uzbekistan",
+                "Belgium",
+                "Greece",
+                "New Zealand",
+                "Hungary",
+                "Norway",
+                "Bosnia and Herzegovina",
+                "Poland",
+                "India",
+                "Portugal",
+                "Ireland",
+                "Romania",
+                "Bulgaria",
+                "Belarus",
+                "Canada",
+                "Israel",
+                "Italy",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All areas",
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1-SH_SAN_SAFE",
+  "title": "meta.name-6-2-1-SH_SAN_SAFE"
+}

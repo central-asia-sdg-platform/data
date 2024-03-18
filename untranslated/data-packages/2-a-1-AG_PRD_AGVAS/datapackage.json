@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_AGVAS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Armenia",
+                "New Zealand",
+                "Norway",
+                "Belgium",
+                "Poland",
+                "Albania",
+                "Portugal",
+                "Bulgaria",
+                "Romania",
+                "Belarus",
+                "Serbia",
+                "Canada",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Chile",
+                "China",
+                "Spain",
+                "Colombia",
+                "Costa Rica",
+                "Sweden",
+                "Croatia",
+                "Switzerland",
+                "Tajikistan",
+                "Cyprus",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "Czechia",
+                "Denmark",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Estonia",
+                "Finland",
+                "Uzbekistan",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-1-AG_PRD_AGVAS",
+  "title": "meta.name-2-a-1-AG_PRD_AGVAS"
+}

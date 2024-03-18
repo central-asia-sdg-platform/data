@@ -12,8 +12,71 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EG_IFF_RANDN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Albania",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "China",
+                "Chile",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                "Mexico",
+                "Serbia",
+                "Republic of Moldova",
+                "Viet Nam",
+                "Montenegro",
+                "Таджикистан",
+                "Türkiye",
+                "Туркменистан",
+                "North Macedonia",
+                "Узбекистан",
+                "Ukraine",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Type of renewable technology",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MARINE",
+                "WIND",
+                "HYDROPOWER",
+                "MULTIPLE",
+                "BIOENERGY",
+                "ALL",
+                "GEOTHERMAL",
+                "SOLAR",
+                ""
+              ]
+            },
+            "title": "Type of renewable technology"
           },
           {
             "name": "Value",

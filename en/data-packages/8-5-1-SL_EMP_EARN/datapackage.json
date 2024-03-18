@@ -1,0 +1,159 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_EMP_EARN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "Albania",
+                "Chile",
+                "Bulgaria",
+                "Belarus",
+                "Czechia",
+                "Denmark",
+                "Finland",
+                "Colombia",
+                "Armenia",
+                "France",
+                "Estonia",
+                "Belgium",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Bosnia and Herzegovina",
+                "Ireland",
+                "Germany",
+                "Costa Rica",
+                "Israel",
+                "Greece",
+                "Italy",
+                "Croatia",
+                "Cyprus",
+                "Lithuania",
+                "Republic of Korea",
+                "Luxembourg",
+                "Malta",
+                "Latvia",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                "Male",
+                "_O",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Type of occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "isco88-5",
+                "isco88-7",
+                "isco88-3",
+                "isco88-4",
+                "isco88-2",
+                "isco88-1",
+                "Total or no breakdown",
+                "isco88-8",
+                "isco88-9",
+                "isco88-6",
+                "isco88-X",
+                "isco88-0",
+                "isco08-2",
+                "isco08-9",
+                "isco08-4",
+                "isco08-3",
+                "isco08-1",
+                "isco08-6",
+                "isco08-5",
+                "isco08-7",
+                "isco08-8",
+                "isco08-0",
+                "isco08-X",
+                ""
+              ]
+            },
+            "title": "Type of occupation"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-5-1-SL_EMP_EARN",
+  "title": "meta.name-8-5-1-SL_EMP_EARN"
+}

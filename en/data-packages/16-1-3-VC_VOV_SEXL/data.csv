@@ -1,0 +1,110 @@
+Year,SeriesCode,Country,Sex,Value
+2010,VC_VOV_SEXL,Australia,Female,0.4
+2010,VC_VOV_SEXL,Australia,Both sexes,0.3
+2010,VC_VOV_SEXL,Australia,Male,0.1
+2011,VC_VOV_SEXL,Australia,Female,0.6
+2011,VC_VOV_SEXL,Australia,Both sexes,0.3
+2011,VC_VOV_SEXL,Australia,Male,0.1
+2012,VC_VOV_SEXL,Australia,Both sexes,0.3
+2012,VC_VOV_SEXL,Australia,Female,0.5
+2012,VC_VOV_SEXL,Australia,Male,0.1
+2013,VC_VOV_SEXL,Australia,Female,0.3
+2013,VC_VOV_SEXL,Australia,Male,0.2
+2013,VC_VOV_SEXL,Australia,Both sexes,0.2
+2014,VC_VOV_SEXL,Australia,Male,0.1
+2014,VC_VOV_SEXL,Australia,Both sexes,0.3
+2014,VC_VOV_SEXL,Australia,Female,0.5
+2015,VC_VOV_SEXL,Australia,Female,0.6
+2015,VC_VOV_SEXL,Australia,Male,0.1
+2015,VC_VOV_SEXL,Australia,Both sexes,0.3
+2016,VC_VOV_SEXL,Australia,Male,0.2
+2016,VC_VOV_SEXL,Australia,Female,0.7
+2016,VC_VOV_SEXL,Australia,Both sexes,0.4
+2017,VC_VOV_SEXL,Australia,Male,0.1
+2017,VC_VOV_SEXL,Australia,Both sexes,0.4
+2017,VC_VOV_SEXL,Australia,Female,0.7
+2018,VC_VOV_SEXL,Australia,Female,0.5
+2018,VC_VOV_SEXL,Australia,Male,0.1
+2018,VC_VOV_SEXL,Australia,Both sexes,0.3
+2019,VC_VOV_SEXL,Australia,Female,0.7
+2019,VC_VOV_SEXL,Australia,Both sexes,0.4
+2019,VC_VOV_SEXL,Australia,Male,0.2
+2020,VC_VOV_SEXL,Australia,Male,0.1
+2020,VC_VOV_SEXL,Australia,Both sexes,0.3
+2020,VC_VOV_SEXL,Australia,Female,0.5
+2021,VC_VOV_SEXL,Australia,Male,0.1
+2021,VC_VOV_SEXL,Australia,Both sexes,0.5
+2021,VC_VOV_SEXL,Australia,Female,0.9
+2014,VC_VOV_SEXL,Canada,Both sexes,2.2
+2014,VC_VOV_SEXL,Canada,Male,0.5
+2014,VC_VOV_SEXL,Canada,Female,3.7
+2013,VC_VOV_SEXL,Finland,Female,2.3
+2013,VC_VOV_SEXL,Finland,Both sexes,1.3
+2013,VC_VOV_SEXL,Finland,Male,0.4
+2014,VC_VOV_SEXL,Finland,Female,1.6
+2014,VC_VOV_SEXL,Finland,Both sexes,1.0
+2014,VC_VOV_SEXL,Finland,Male,0.4
+2015,VC_VOV_SEXL,Finland,Male,0.3
+2015,VC_VOV_SEXL,Finland,Female,2.0
+2015,VC_VOV_SEXL,Finland,Both sexes,1.1
+2016,VC_VOV_SEXL,Finland,Female,2.2
+2016,VC_VOV_SEXL,Finland,Both sexes,1.5
+2016,VC_VOV_SEXL,Finland,Male,0.7
+2017,VC_VOV_SEXL,Finland,Female,2.2
+2017,VC_VOV_SEXL,Finland,Both sexes,1.3
+2017,VC_VOV_SEXL,Finland,Male,0.5
+2018,VC_VOV_SEXL,Finland,Both sexes,1.5
+2018,VC_VOV_SEXL,Finland,Male,0.6
+2018,VC_VOV_SEXL,Finland,Female,2.5
+2019,VC_VOV_SEXL,Finland,Both sexes,1.5
+2019,VC_VOV_SEXL,Finland,Female,2.8
+2019,VC_VOV_SEXL,Finland,Male,0.3
+2020,VC_VOV_SEXL,Finland,Both sexes,1.6
+2020,VC_VOV_SEXL,Finland,Male,0.5
+2020,VC_VOV_SEXL,Finland,Female,2.8
+2021,VC_VOV_SEXL,Finland,Both sexes,2.1
+2021,VC_VOV_SEXL,Finland,Male,1.0
+2021,VC_VOV_SEXL,Finland,Female,3.2
+2020,VC_VOV_SEXL,Germany,Both sexes,2.1
+2020,VC_VOV_SEXL,Germany,Female,3.6
+2020,VC_VOV_SEXL,Germany,Male,0.3
+2018,VC_VOV_SEXL,Israel,Female,0.53
+2018,VC_VOV_SEXL,Israel,Both sexes,0.34
+2021,VC_VOV_SEXL,Israel,Female,0.58
+2021,VC_VOV_SEXL,Israel,Both sexes,0.35
+2014,VC_VOV_SEXL,Republic of Korea,Male,0.0
+2014,VC_VOV_SEXL,Republic of Korea,Female,0.2
+2014,VC_VOV_SEXL,Republic of Korea,Both sexes,0.1
+2016,VC_VOV_SEXL,Republic of Korea,Both sexes,0.1
+2016,VC_VOV_SEXL,Republic of Korea,Male,0.0
+2016,VC_VOV_SEXL,Republic of Korea,Female,0.1
+2018,VC_VOV_SEXL,Republic of Korea,Both sexes,0.15
+2020,VC_VOV_SEXL,Republic of Korea,Both sexes,0.37
+2020,VC_VOV_SEXL,Luxembourg,Both sexes,2.3
+2020,VC_VOV_SEXL,Luxembourg,Female,3.8
+2020,VC_VOV_SEXL,Luxembourg,Male,0.87
+2015,VC_VOV_SEXL,Mexico,Male,0.16
+2015,VC_VOV_SEXL,Mexico,Both sexes,0.56
+2015,VC_VOV_SEXL,Mexico,Female,0.92
+2016,VC_VOV_SEXL,Mexico,Male,0.17
+2016,VC_VOV_SEXL,Mexico,Female,1.17
+2016,VC_VOV_SEXL,Mexico,Both sexes,0.7
+2017,VC_VOV_SEXL,Mexico,Female,1.59
+2017,VC_VOV_SEXL,Mexico,Both sexes,0.91
+2017,VC_VOV_SEXL,Mexico,Male,0.15
+2018,VC_VOV_SEXL,Mexico,Both sexes,0.9
+2018,VC_VOV_SEXL,Mexico,Male,0.19
+2018,VC_VOV_SEXL,Mexico,Female,1.53
+2019,VC_VOV_SEXL,Mexico,Female,2.36
+2019,VC_VOV_SEXL,Mexico,Male,0.32
+2019,VC_VOV_SEXL,Mexico,Both sexes,1.41
+2020,VC_VOV_SEXL,Mexico,Female,2.09
+2020,VC_VOV_SEXL,Mexico,Both sexes,1.19
+2020,VC_VOV_SEXL,Mexico,Male,0.16
+2021,VC_VOV_SEXL,Mexico,Both sexes,1.45
+2021,VC_VOV_SEXL,Mexico,Female,2.43
+2021,VC_VOV_SEXL,Mexico,Male,0.29
+2020,VC_VOV_SEXL,Slovenia,Both sexes,0.43
+2020,VC_VOV_SEXL,Slovenia,Male,0.21
+2020,VC_VOV_SEXL,Slovenia,Female,0.66
+2020,VC_VOV_SEXL,Slovenia,Female,0.66

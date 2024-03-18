@@ -12,8 +12,103 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_H2O_SAFE",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Albania",
+                "China",
+                "Republic of Korea",
+                "Colombia",
+                "Azerbaijan",
+                "Serbia",
+                "Costa Rica",
+                "Croatia",
+                "Australia",
+                "Slovakia",
+                "Cyprus",
+                "Austria",
+                "Viet Nam",
+                "Czechia",
+                "Armenia",
+                "Belgium",
+                "Slovenia",
+                "Denmark",
+                "Bosnia and Herzegovina",
+                "Spain",
+                "Estonia",
+                "Bulgaria",
+                "Finland",
+                "Belarus",
+                "France",
+                "Kyrgyzstan",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "Canada",
+                "Georgia",
+                "Turkmenistan",
+                "Germany",
+                "Ukraine",
+                "Greece",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Hungary",
+                "Uzbekistan",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Israel",
+                "Latvia",
+                "Italy",
+                "Liechtenstein",
+                "Lithuania",
+                "Japan",
+                "Kazakhstan",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "All areas",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Location"
           },
           {
             "name": "Value",

@@ -12,8 +12,142 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOV_GDSD",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Colombia",
+                "Bulgaria",
+                "Ireland",
+                "Mexico",
+                "Belarus",
+                "Israel",
+                "Costa Rica",
+                "Denmark",
+                "Estonia",
+                "Canada",
+                "Finland",
+                "France",
+                "Georgia",
+                "Viet Nam",
+                "Sweden",
+                "Germany",
+                "Republic of Moldova",
+                "North Macedonia",
+                "Republic of Korea",
+                "Узбекистан",
+                "Switzerland",
+                "Туркменистан",
+                "Кыргызстан",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Serbia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_T",
+                "PWD",
+                "PD",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Grounds of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALL",
+                "RES",
+                "SOCIOECON",
+                "MIG",
+                "DISHEA",
+                "POLVIEW",
+                "SEX",
+                "RELIGION",
+                "OTHER",
+                "SEXOGENID",
+                "AGE",
+                "FAM",
+                "DIS",
+                "MAR",
+                "GEO",
+                "ETHCOLLAN",
+                "ETHCOLLANNAL",
+                "SEXO",
+                "MARFAM",
+                "COLR",
+                "ETH",
+                "NATION",
+                "ETHI",
+                "ETHCUL",
+                "RACECOLR",
+                "LANDIA",
+                "ETHIO",
+                "PHYSCOND",
+                "HEALTH",
+                "ETHCOLLANMIG",
+                "GENID",
+                "ETHRACECOLLAN",
+                "SEXGENID",
+                "HEAILLINJ",
+                ""
+              ]
+            },
+            "title": "Grounds of discrimination"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "URBAN",
+                "RURAL",
+                "ALLAREA",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

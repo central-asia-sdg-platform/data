@@ -1,0 +1,56 @@
+Year,SeriesCode,Country,Age,Sex,Value
+2010,SL_TLF_CHLDEA,Albania,5-17,Male,3.4
+2010,SL_TLF_CHLDEA,Albania,5-17,Female,2.1
+2010,SL_TLF_CHLDEA,Albania,5-17,Both sexes,2.8
+2015,SL_TLF_CHLDEA,Armenia,5-17,Both sexes,3.9
+2015,SL_TLF_CHLDEA,Armenia,5-17,Female,2.7
+2015,SL_TLF_CHLDEA,Armenia,5-17,Male,4.9
+2019,SL_TLF_CHLDEA,Belarus,5-17,Male,4.6
+2019,SL_TLF_CHLDEA,Belarus,5-17,Female,3.4
+2019,SL_TLF_CHLDEA,Belarus,5-17,Both sexes,4.0
+2012,SL_TLF_CHLDEA,Chile,5-17,Male,3.3
+2012,SL_TLF_CHLDEA,Chile,5-17,Female,1.4
+2012,SL_TLF_CHLDEA,Chile,5-17,Both sexes,2.3
+2020,SL_TLF_CHLDEA,Colombia,5-17,Both sexes,4.696
+2020,SL_TLF_CHLDEA,Colombia,5-17,Male,5.524
+2020,SL_TLF_CHLDEA,Colombia,5-17,Female,3.79
+2018,SL_TLF_CHLDEA,Costa Rica,5-17,Both sexes,3.4
+2018,SL_TLF_CHLDEA,Costa Rica,5-17,Female,2.7
+2018,SL_TLF_CHLDEA,Costa Rica,5-17,Male,4.0
+2015,SL_TLF_CHLDEA,Georgia,5-17,Both sexes,1.5
+2015,SL_TLF_CHLDEA,Georgia,5-17,Male,2.1
+2015,SL_TLF_CHLDEA,Georgia,5-17,Female,0.9
+2012,SL_TLF_CHLDEA,India,5-17,Female,3.1
+2012,SL_TLF_CHLDEA,India,5-17,Both sexes,4.3
+2012,SL_TLF_CHLDEA,India,5-17,Male,5.3
+2018,SL_TLF_CHLDEA,Kyrgyzstan,5-17,Female,15.6
+2018,SL_TLF_CHLDEA,Kyrgyzstan,5-17,Male,24.2
+2018,SL_TLF_CHLDEA,Kyrgyzstan,5-17,Both sexes,20.1
+2019,SL_TLF_CHLDEA,Mexico,5-17,Both sexes,5.001
+2019,SL_TLF_CHLDEA,Mexico,5-17,Male,1.872
+2019,SL_TLF_CHLDEA,Mexico,5-17,Female,3.479
+2018,SL_TLF_CHLDEA,Montenegro,5-17,Male,8.4
+2018,SL_TLF_CHLDEA,Montenegro,5-17,Both sexes,7.7
+2018,SL_TLF_CHLDEA,Montenegro,5-17,Female,6.9
+2019,SL_TLF_CHLDEA,Serbia,5-17,Female,6.8
+2019,SL_TLF_CHLDEA,Serbia,5-17,Male,11.1
+2019,SL_TLF_CHLDEA,Serbia,5-17,Both sexes,9.1
+2021,SL_TLF_CHLDEA,Viet Nam,5-17,Female,6.247
+2021,SL_TLF_CHLDEA,Viet Nam,5-17,Male,5.171
+2021,SL_TLF_CHLDEA,Viet Nam,5-17,Both sexes,5.693
+2019,SL_TLF_CHLDEA,Türkiye,5-17,Both sexes,1.864
+2019,SL_TLF_CHLDEA,Türkiye,5-17,Female,0.822
+2019,SL_TLF_CHLDEA,Türkiye,5-17,Male,2.852
+2016,SL_TLF_CHLDEA,Turkmenistan,5-17,Both sexes,0.261
+2016,SL_TLF_CHLDEA,Turkmenistan,5-17,Female,0.119
+2016,SL_TLF_CHLDEA,Turkmenistan,5-17,Male,0.393
+2012,SL_TLF_CHLDEA,Ukraine,5-14,Female,2.108
+2012,SL_TLF_CHLDEA,Ukraine,5-14,Male,2.224
+2012,SL_TLF_CHLDEA,Ukraine,5-14,Both sexes,2.167
+2019,SL_TLF_CHLDEA,North Macedonia,5-17,Female,1.6
+2019,SL_TLF_CHLDEA,North Macedonia,5-17,Male,3.4
+2019,SL_TLF_CHLDEA,North Macedonia,5-17,Both sexes,2.4
+2022,SL_TLF_CHLDEA,Uzbekistan,5-17,Female,14.537
+2022,SL_TLF_CHLDEA,Uzbekistan,5-17,Male,21.084
+2022,SL_TLF_CHLDEA,Uzbekistan,5-17,Both sexes,17.84
+2022,SL_TLF_CHLDEA,Uzbekistan,5-17,Both sexes,17.84

@@ -1,0 +1,112 @@
+Year,SeriesCode,Country,Sex,Value
+2016,SI_COV_VULN,Azerbaijan,Both sexes,12.6
+2020,SI_COV_VULN,Azerbaijan,Both sexes,13.4
+2016,SI_COV_VULN,Australia,Both sexes,53.0
+2020,SI_COV_VULN,Australia,Female,100.0
+2020,SI_COV_VULN,Australia,Both sexes,100.0
+2020,SI_COV_VULN,Australia,Male,100.0
+2016,SI_COV_VULN,Austria,Both sexes,93.0
+2020,SI_COV_VULN,Austria,Both sexes,93.0
+2016,SI_COV_VULN,Armenia,Both sexes,16.2
+2020,SI_COV_VULN,Armenia,Both sexes,19.6
+2016,SI_COV_VULN,Belgium,Both sexes,100.0
+2020,SI_COV_VULN,Belgium,Female,100.0
+2020,SI_COV_VULN,Belgium,Male,100.0
+2020,SI_COV_VULN,Belgium,Both sexes,100.0
+2016,SI_COV_VULN,Bulgaria,Both sexes,28.8
+2020,SI_COV_VULN,Bulgaria,Both sexes,28.8
+2016,SI_COV_VULN,Canada,Both sexes,99.0
+2020,SI_COV_VULN,Canada,Both sexes,100.0
+2016,SI_COV_VULN,Chile,Both sexes,18.8
+2020,SI_COV_VULN,Chile,Both sexes,38.1
+2017,SI_COV_VULN,China,Both sexes,31.0
+2020,SI_COV_VULN,China,Both sexes,33.2
+2016,SI_COV_VULN,Colombia,Both sexes,14.1
+2020,SI_COV_VULN,Colombia,Both sexes,33.9
+2021,SI_COV_VULN,Colombia,Both sexes,28.9
+2016,SI_COV_VULN,Costa Rica,Both sexes,66.5
+2020,SI_COV_VULN,Costa Rica,Both sexes,30.1
+2016,SI_COV_VULN,Cyprus,Both sexes,24.1
+2020,SI_COV_VULN,Cyprus,Both sexes,24.1
+2016,SI_COV_VULN,Czechia,Female,32.0
+2020,SI_COV_VULN,Czechia,Both sexes,32.0
+2016,SI_COV_VULN,Denmark,Both sexes,63.7
+2020,SI_COV_VULN,Denmark,Both sexes,63.7
+2016,SI_COV_VULN,Estonia,Both sexes,91.7
+2020,SI_COV_VULN,Estonia,Both sexes,91.7
+2016,SI_COV_VULN,Finland,Both sexes,100.0
+2020,SI_COV_VULN,Finland,Female,100.0
+2020,SI_COV_VULN,Finland,Both sexes,100.0
+2020,SI_COV_VULN,Finland,Male,100.0
+2016,SI_COV_VULN,France,Both sexes,100.0
+2020,SI_COV_VULN,France,Male,100.0
+2020,SI_COV_VULN,France,Both sexes,100.0
+2020,SI_COV_VULN,France,Female,100.0
+2016,SI_COV_VULN,Georgia,Both sexes,12.0
+2020,SI_COV_VULN,Georgia,Both sexes,92.9
+2016,SI_COV_VULN,Germany,Male,96.0
+2020,SI_COV_VULN,Germany,Both sexes,96.0
+2016,SI_COV_VULN,Hungary,Both sexes,56.0
+2020,SI_COV_VULN,Hungary,Both sexes,56.0
+2016,SI_COV_VULN,India,Both sexes,10.4
+2020,SI_COV_VULN,India,Both sexes,16.4
+2016,SI_COV_VULN,Ireland,Both sexes,73.8
+2020,SI_COV_VULN,Ireland,Both sexes,73.8
+2020,SI_COV_VULN,Italy,Both sexes,42.6
+2020,SI_COV_VULN,Japan,Both sexes,100.0
+2020,SI_COV_VULN,Japan,Female,100.0
+2020,SI_COV_VULN,Japan,Male,100.0
+2016,SI_COV_VULN,Kazakhstan,Both sexes,100.0
+2020,SI_COV_VULN,Kazakhstan,Both sexes,74.2
+2018,SI_COV_VULN,Republic of Korea,Both sexes,26.3
+2020,SI_COV_VULN,Republic of Korea,Both sexes,48.9
+2020,SI_COV_VULN,Kyrgyzstan,Both sexes,14.1
+2016,SI_COV_VULN,Latvia,Both sexes,85.0
+2020,SI_COV_VULN,Latvia,Both sexes,85.0
+2016,SI_COV_VULN,Lithuania,Both sexes,51.3
+2020,SI_COV_VULN,Lithuania,Both sexes,51.3
+2017,SI_COV_VULN,Mexico,Both sexes,29.0
+2020,SI_COV_VULN,Mexico,Both sexes,48.0
+2021,SI_COV_VULN,Mexico,Both sexes,52.2
+2016,SI_COV_VULN,Netherlands (Kingdom of the),Both sexes,90.3
+2020,SI_COV_VULN,Netherlands (Kingdom of the),Both sexes,90.3
+2016,SI_COV_VULN,New Zealand,Both sexes,9.7
+2020,SI_COV_VULN,New Zealand,Female,100.0
+2020,SI_COV_VULN,New Zealand,Both sexes,100.0
+2020,SI_COV_VULN,New Zealand,Male,100.0
+2016,SI_COV_VULN,Norway,Both sexes,83.1
+2020,SI_COV_VULN,Norway,Both sexes,83.1
+2016,SI_COV_VULN,Poland,Both sexes,52.0
+2020,SI_COV_VULN,Poland,Both sexes,52.0
+2016,SI_COV_VULN,Portugal,Both sexes,59.3
+2020,SI_COV_VULN,Portugal,Both sexes,59.3
+2016,SI_COV_VULN,Romania,Both sexes,82.6
+2020,SI_COV_VULN,Romania,Both sexes,82.6
+2021,SI_COV_VULN,Serbia,Both sexes,10.7
+2016,SI_COV_VULN,Slovakia,Both sexes,70.0
+2020,SI_COV_VULN,Slovakia,Both sexes,70.0
+2016,SI_COV_VULN,Viet Nam,Both sexes,10.0
+2020,SI_COV_VULN,Viet Nam,Both sexes,24.6
+2016,SI_COV_VULN,Slovenia,Both sexes,100.0
+2020,SI_COV_VULN,Slovenia,Female,100.0
+2020,SI_COV_VULN,Slovenia,Male,100.0
+2020,SI_COV_VULN,Slovenia,Both sexes,100.0
+2016,SI_COV_VULN,Spain,Both sexes,45.0
+2020,SI_COV_VULN,Spain,Both sexes,45.0
+2016,SI_COV_VULN,Sweden,Both sexes,100.0
+2020,SI_COV_VULN,Sweden,Female,100.0
+2020,SI_COV_VULN,Sweden,Male,100.0
+2020,SI_COV_VULN,Sweden,Both sexes,100.0
+2016,SI_COV_VULN,Switzerland,Both sexes,70.2
+2020,SI_COV_VULN,Switzerland,Both sexes,70.2
+2020,SI_COV_VULN,Tajikistan,Both sexes,7.5
+2020,SI_COV_VULN,United Arab Emirates,Both sexes,1.2
+2021,SI_COV_VULN,Turkmenistan,Both sexes,10.9
+2021,SI_COV_VULN,Turkmenistan,Male,1.9
+2021,SI_COV_VULN,Turkmenistan,Female,13.2
+2018,SI_COV_VULN,Ukraine,Both sexes,39.0
+2016,SI_COV_VULN,United Kingdom of Great Britain and Northern Ireland,Both sexes,76.6
+2020,SI_COV_VULN,United Kingdom of Great Britain and Northern Ireland,Both sexes,76.6
+2017,SI_COV_VULN,Uzbekistan,Both sexes,16.0
+2020,SI_COV_VULN,Uzbekistan,Both sexes,15.6
+2020,SI_COV_VULN,Uzbekistan,Both sexes,15.6

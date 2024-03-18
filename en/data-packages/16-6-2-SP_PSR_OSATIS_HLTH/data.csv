@@ -1,0 +1,17 @@
+Year,SeriesCode,Country,Age,Disability status,Location,Population Group,Quantile,Sex,Value
+2022,SP_PSR_OSATIS_HLTH,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,87
+2022,SP_PSR_OSATIS_HLTH,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,89
+2022,SP_PSR_OSATIS_HLTH,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,89
+2022,SP_PSR_OSATIS_HLTH,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,89
+2022,SP_PSR_OSATIS_HLTH,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,Both sexes,95
+2022,SP_PSR_OSATIS_HLTH,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,Both sexes,54
+2022,SP_PSR_OSATIS_HLTH,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,Both sexes,60
+2022,SP_PSR_OSATIS_HLTH,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,Both sexes,52
+2022,SP_PSR_OSATIS_HLTH,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,55
+2022,SP_PSR_OSATIS_HLTH,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,Both sexes,52
+2022,SP_PSR_OSATIS_HLTH,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,53
+2022,SP_PSR_OSATIS_HLTH,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,56
+2022,SP_PSR_OSATIS_HLTH,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,Both sexes,52
+2022,SP_PSR_OSATIS_HLTH,Mexico,65+,Total or no breakdown,All areas,TOTAL,,Both sexes,63
+2022,SP_PSR_OSATIS_HLTH,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,55
+2022,SP_PSR_OSATIS_HLTH,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,55

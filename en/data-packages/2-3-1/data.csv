@@ -1,1 +1,677 @@
-Year,Value
+Year,SeriesCode,Country,Sex,Value
+2001,PD_AGR_SSFP,Canada,Both sexes,39.3
+2001,PD_AGR_SSFP,Canada,Female,29.9
+2001,PD_AGR_SSFP,Canada,Male,42.7
+2006,PD_AGR_SSFP,Canada,Both sexes,38.7
+2006,PD_AGR_SSFP,Canada,Female,31.3
+2006,PD_AGR_SSFP,Canada,Male,41.6
+2011,PD_AGR_SSFP,Canada,Both sexes,76.2
+2011,PD_AGR_SSFP,Canada,Female,60.9
+2011,PD_AGR_SSFP,Canada,Male,83.1
+2016,PD_AGR_SSFP,Canada,Male,90.8
+2016,PD_AGR_SSFP,Canada,Female,68.7
+2016,PD_AGR_SSFP,Canada,Both sexes,83.5
+2010,PD_AGR_SSFP,Croatia,Male,60.04
+2010,PD_AGR_SSFP,Croatia,Female,53.62
+2010,PD_AGR_SSFP,Croatia,Both sexes,58.54
+2010,PD_AGR_SSFP,Austria,Male,118.23
+2010,PD_AGR_SSFP,Austria,Both sexes,110.4
+2010,PD_AGR_SSFP,Austria,Female,100.51
+2013,PD_AGR_SSFP,Croatia,Both sexes,44.88
+2013,PD_AGR_SSFP,Croatia,Female,42.47
+2013,PD_AGR_SSFP,Croatia,Male,45.77
+2016,PD_AGR_SSFP,Croatia,Male,47.65
+2013,PD_AGR_SSFP,Austria,Female,94.78
+2013,PD_AGR_SSFP,Austria,Both sexes,109.26
+2013,PD_AGR_SSFP,Austria,Male,119.8
+2016,PD_AGR_SSFP,Croatia,Female,43.56
+2016,PD_AGR_SSFP,Croatia,Both sexes,46.49
+2010,PD_AGR_LSFP,Ireland,Both sexes,277.08
+2010,PD_AGR_LSFP,Ireland,Female,183.96
+2010,PD_AGR_LSFP,Ireland,Male,284.18
+2020,PD_AGR_SSFP,Croatia,Male,51.11
+2020,PD_AGR_SSFP,Croatia,Female,46.72
+2020,PD_AGR_SSFP,Croatia,Both sexes,49.94
+2016,PD_AGR_SSFP,Austria,Male,144.96
+2016,PD_AGR_SSFP,Austria,Female,95.94
+2016,PD_AGR_SSFP,Austria,Both sexes,123.64
+2010,PD_AGR_SSFP,Cyprus,Both sexes,64.03
+2010,PD_AGR_SSFP,Cyprus,Female,62.11
+2010,PD_AGR_SSFP,Cyprus,Male,64.43
+2013,PD_AGR_SSFP,Cyprus,Both sexes,55.63
+2013,PD_AGR_SSFP,Cyprus,Female,51.12
+2010,PD_AGR_LSFP,Austria,Both sexes,371.65
+2010,PD_AGR_LSFP,Austria,Male,379.96
+2010,PD_AGR_LSFP,Austria,Female,351.06
+2013,PD_AGR_SSFP,Cyprus,Male,56.58
+2016,PD_AGR_SSFP,Cyprus,Female,60.73
+2016,PD_AGR_SSFP,Cyprus,Both sexes,64.43
+2016,PD_AGR_SSFP,Cyprus,Male,65.39
+2020,PD_AGR_SSFP,Cyprus,Female,51.27
+2020,PD_AGR_SSFP,Cyprus,Both sexes,59.41
+2020,PD_AGR_SSFP,Cyprus,Male,61.55
+2020,PD_AGR_SSFP,Austria,Male,87.99
+2020,PD_AGR_SSFP,Austria,Both sexes,81.0
+2020,PD_AGR_SSFP,Austria,Female,71.18
+2013,PD_AGR_LSFP,Austria,Both sexes,345.76
+2013,PD_AGR_LSFP,Austria,Male,351.51
+2013,PD_AGR_LSFP,Austria,Female,330.31
+2010,PD_AGR_SSFP,Denmark,Both sexes,156.47
+2010,PD_AGR_SSFP,Denmark,Female,127.59
+2010,PD_AGR_SSFP,Denmark,Male,161.19
+2016,PD_AGR_LSFP,Austria,Both sexes,390.63
+2016,PD_AGR_LSFP,Austria,Male,402.26
+2016,PD_AGR_LSFP,Austria,Female,360.47
+2013,PD_AGR_SSFP,Denmark,Male,148.27
+2013,PD_AGR_SSFP,Denmark,Female,124.67
+2013,PD_AGR_SSFP,Denmark,Both sexes,145.33
+2016,PD_AGR_SSFP,Denmark,Both sexes,157.14
+2016,PD_AGR_SSFP,Denmark,Female,103.66
+2016,PD_AGR_SSFP,Denmark,Male,166.8
+2010,PD_AGR_SSFP,Belgium,Male,98.95
+2010,PD_AGR_SSFP,Belgium,Female,98.05
+2010,PD_AGR_SSFP,Belgium,Both sexes,98.75
+2013,PD_AGR_SSFP,Belgium,Both sexes,105.16
+2013,PD_AGR_SSFP,Belgium,Female,102.49
+2013,PD_AGR_SSFP,Belgium,Male,105.92
+2016,PD_AGR_SSFP,Belgium,Male,118.63
+2016,PD_AGR_SSFP,Belgium,Female,113.34
+2020,PD_AGR_LSFP,Austria,Both sexes,355.78
+2020,PD_AGR_LSFP,Austria,Male,378.86
+2020,PD_AGR_LSFP,Austria,Female,314.04
+2016,PD_AGR_SSFP,Belgium,Both sexes,117.61
+2020,PD_AGR_SSFP,Belgium,Male,113.76
+2020,PD_AGR_SSFP,Belgium,Female,115.89
+2020,PD_AGR_SSFP,Belgium,Both sexes,114.15
+2010,PD_AGR_LSFP,Belgium,Male,807.72
+2010,PD_AGR_LSFP,Belgium,Both sexes,801.83
+2010,PD_AGR_LSFP,Belgium,Female,749.7
+2013,PD_AGR_LSFP,Belgium,Both sexes,952.22
+2013,PD_AGR_LSFP,Belgium,Male,962.65
+2013,PD_AGR_LSFP,Belgium,Female,866.8
+2016,PD_AGR_LSFP,Belgium,Male,914.48
+2016,PD_AGR_LSFP,Belgium,Both sexes,906.08
+2020,PD_AGR_SSFP,Denmark,Female,24.62
+2020,PD_AGR_SSFP,Denmark,Both sexes,31.49
+2020,PD_AGR_SSFP,Denmark,Male,32.81
+2010,PD_AGR_SSFP,Bulgaria,Both sexes,26.03
+2010,PD_AGR_SSFP,Bulgaria,Female,24.64
+2010,PD_AGR_SSFP,Bulgaria,Male,26.43
+2013,PD_AGR_SSFP,Bulgaria,Male,29.2
+2013,PD_AGR_SSFP,Bulgaria,Female,26.43
+2013,PD_AGR_SSFP,Bulgaria,Both sexes,28.56
+2016,PD_AGR_SSFP,Bulgaria,Male,34.95
+2016,PD_AGR_SSFP,Bulgaria,Both sexes,34.28
+2016,PD_AGR_SSFP,Bulgaria,Female,32.36
+2016,PD_AGR_LSFP,Belgium,Female,841.85
+2020,PD_AGR_SSFP,Bulgaria,Female,46.43
+2020,PD_AGR_SSFP,Bulgaria,Both sexes,46.92
+2010,PD_AGR_SSFP,Estonia,Female,47.64
+2010,PD_AGR_SSFP,Estonia,Both sexes,54.9
+2010,PD_AGR_SSFP,Estonia,Male,60.17
+2020,PD_AGR_LSFP,Belgium,Male,1002.74
+2020,PD_AGR_LSFP,Belgium,Both sexes,1000.56
+2020,PD_AGR_LSFP,Belgium,Female,984.03
+2013,PD_AGR_SSFP,Estonia,Male,55.76
+2013,PD_AGR_SSFP,Estonia,Both sexes,52.52
+2013,PD_AGR_SSFP,Estonia,Female,47.39
+2016,PD_AGR_SSFP,Estonia,Both sexes,57.16
+2016,PD_AGR_SSFP,Estonia,Female,51.23
+2016,PD_AGR_SSFP,Estonia,Male,60.85
+2013,PD_AGR_LSFP,Ireland,Male,323.71
+2013,PD_AGR_LSFP,Ireland,Both sexes,317.2
+2013,PD_AGR_LSFP,Ireland,Female,213.6
+2020,PD_AGR_SSFP,Estonia,Male,64.78
+2020,PD_AGR_SSFP,Estonia,Both sexes,59.42
+2020,PD_AGR_SSFP,Estonia,Female,50.39
+2010,PD_AGR_LSFP,Bulgaria,Male,298.05
+2010,PD_AGR_LSFP,Bulgaria,Both sexes,288.74
+2010,PD_AGR_LSFP,Bulgaria,Female,244.54
+2013,PD_AGR_LSFP,Bulgaria,Both sexes,362.08
+2013,PD_AGR_LSFP,Bulgaria,Female,317.08
+2010,PD_AGR_SSFP,Finland,Both sexes,117.59
+2010,PD_AGR_SSFP,Finland,Female,93.72
+2010,PD_AGR_SSFP,Finland,Male,122.6
+2013,PD_AGR_LSFP,Bulgaria,Male,372.08
+2016,PD_AGR_LSFP,Bulgaria,Male,455.24
+2016,PD_AGR_LSFP,Bulgaria,Female,409.63
+2016,PD_AGR_LSFP,Bulgaria,Both sexes,445.97
+2013,PD_AGR_SSFP,Finland,Female,91.72
+2013,PD_AGR_SSFP,Finland,Both sexes,115.83
+2013,PD_AGR_SSFP,Finland,Male,119.79
+2016,PD_AGR_SSFP,Finland,Both sexes,111.92
+2016,PD_AGR_SSFP,Finland,Female,80.65
+2020,PD_AGR_LSFP,Bulgaria,Male,456.34
+2020,PD_AGR_LSFP,Bulgaria,Female,417.24
+2020,PD_AGR_LSFP,Bulgaria,Both sexes,447.38
+2016,PD_AGR_SSFP,Finland,Male,118.58
+2001,PD_AGR_LSFP,Canada,Male,698.73
+2001,PD_AGR_LSFP,Canada,Both sexes,667.95
+2001,PD_AGR_LSFP,Canada,Female,573.01
+2006,PD_AGR_LSFP,Canada,Male,919.99
+2006,PD_AGR_LSFP,Canada,Female,735.89
+2020,PD_AGR_SSFP,Finland,Both sexes,102.3
+2020,PD_AGR_SSFP,Finland,Female,73.92
+2020,PD_AGR_SSFP,Finland,Male,107.16
+2006,PD_AGR_LSFP,Canada,Both sexes,872.4
+2011,PD_AGR_LSFP,Canada,Male,1248.25
+2011,PD_AGR_LSFP,Canada,Female,952.83
+2011,PD_AGR_LSFP,Canada,Both sexes,1173.92
+2016,PD_AGR_LSFP,Ireland,Female,308.27
+2016,PD_AGR_LSFP,Ireland,Both sexes,405.9
+2016,PD_AGR_LSFP,Ireland,Male,412.01
+2016,PD_AGR_LSFP,Canada,Female,1439.14
+2016,PD_AGR_LSFP,Canada,Both sexes,1688.37
+2016,PD_AGR_LSFP,Canada,Male,1775.32
+2020,PD_AGR_LSFP,Ireland,Female,505.32
+2020,PD_AGR_LSFP,Ireland,Both sexes,446.3
+2020,PD_AGR_LSFP,Ireland,Male,441.22
+2010,PD_AGR_SSFP,France,Both sexes,87.54
+2010,PD_AGR_SSFP,France,Female,84.26
+2010,PD_AGR_SSFP,France,Male,89.19
+2013,PD_AGR_SSFP,France,Male,89.29
+2013,PD_AGR_SSFP,France,Female,80.35
+2013,PD_AGR_SSFP,France,Both sexes,86.3
+2016,PD_AGR_SSFP,France,Both sexes,75.39
+2016,PD_AGR_SSFP,France,Female,70.49
+2016,PD_AGR_SSFP,France,Male,77.82
+2010,PD_AGR_LSFP,Croatia,Female,194.4
+2010,PD_AGR_LSFP,Croatia,Both sexes,210.75
+2010,PD_AGR_LSFP,Croatia,Male,213.79
+2020,PD_AGR_SSFP,France,Both sexes,73.3
+2020,PD_AGR_SSFP,France,Female,60.74
+2020,PD_AGR_SSFP,France,Male,81.36
+2013,PD_AGR_LSFP,Croatia,Both sexes,266.01
+2013,PD_AGR_LSFP,Croatia,Male,274.46
+2013,PD_AGR_LSFP,Croatia,Female,222.61
+2016,PD_AGR_LSFP,Croatia,Female,239.95
+2016,PD_AGR_LSFP,Croatia,Both sexes,307.26
+2016,PD_AGR_LSFP,Croatia,Male,321.4
+2020,PD_AGR_LSFP,Croatia,Both sexes,302.61
+2020,PD_AGR_LSFP,Croatia,Female,280.01
+2020,PD_AGR_LSFP,Croatia,Male,307.37
+2020,PD_AGR_SSFP,Georgia,Female,13.73
+2020,PD_AGR_SSFP,Georgia,Both sexes,14.42
+2010,PD_AGR_LSFP,Cyprus,Both sexes,257.37
+2010,PD_AGR_LSFP,Cyprus,Female,225.85
+2010,PD_AGR_LSFP,Cyprus,Male,259.71
+2020,PD_AGR_SSFP,Georgia,Male,14.76
+2010,PD_AGR_LSFP,Italy,Female,476.49
+2010,PD_AGR_LSFP,Italy,Both sexes,543.59
+2010,PD_AGR_LSFP,Italy,Male,556.22
+2013,PD_AGR_LSFP,Italy,Male,486.28
+2013,PD_AGR_LSFP,Cyprus,Male,295.74
+2013,PD_AGR_LSFP,Cyprus,Both sexes,285.94
+2013,PD_AGR_LSFP,Cyprus,Female,164.24
+2016,PD_AGR_LSFP,Cyprus,Female,271.41
+2016,PD_AGR_LSFP,Cyprus,Both sexes,415.29
+2010,PD_AGR_SSFP,Germany,Male,116.15
+2016,PD_AGR_LSFP,Cyprus,Male,427.97
+2020,PD_AGR_LSFP,Cyprus,Both sexes,539.98
+2010,PD_AGR_SSFP,Germany,Female,94.75
+2010,PD_AGR_SSFP,Germany,Both sexes,113.16
+2013,PD_AGR_SSFP,Germany,Male,114.88
+2013,PD_AGR_SSFP,Germany,Both sexes,111.51
+2013,PD_AGR_SSFP,Germany,Female,91.47
+2013,PD_AGR_LSFP,Italy,Both sexes,468.36
+2013,PD_AGR_LSFP,Italy,Female,381.66
+2016,PD_AGR_LSFP,Italy,Female,410.48
+2016,PD_AGR_LSFP,Italy,Both sexes,508.67
+2016,PD_AGR_LSFP,Italy,Male,527.47
+2020,PD_AGR_LSFP,Cyprus,Male,560.19
+2020,PD_AGR_LSFP,Cyprus,Female,302.13
+2016,PD_AGR_SSFP,Germany,Female,102.85
+2016,PD_AGR_SSFP,Germany,Both sexes,120.1
+2016,PD_AGR_SSFP,Germany,Male,123.21
+2020,PD_AGR_SSFP,Germany,Male,98.54
+2020,PD_AGR_SSFP,Germany,Female,72.71
+2020,PD_AGR_SSFP,Germany,Both sexes,94.0
+2010,PD_AGR_LSFP,Czechia,Female,304.04
+2010,PD_AGR_SSFP,Greece,Male,55.37
+2010,PD_AGR_SSFP,Greece,Both sexes,55.84
+2010,PD_AGR_SSFP,Greece,Female,57.27
+2020,PD_AGR_LSFP,Italy,Both sexes,625.35
+2020,PD_AGR_LSFP,Italy,Female,540.03
+2013,PD_AGR_SSFP,Greece,Female,55.7
+2013,PD_AGR_SSFP,Greece,Both sexes,57.94
+2013,PD_AGR_SSFP,Greece,Male,58.68
+2016,PD_AGR_SSFP,Greece,Both sexes,61.3
+2016,PD_AGR_SSFP,Greece,Male,61.93
+2016,PD_AGR_SSFP,Greece,Female,59.55
+2010,PD_AGR_LSFP,Czechia,Both sexes,325.23
+2010,PD_AGR_LSFP,Czechia,Male,326.56
+2013,PD_AGR_LSFP,Czechia,Male,431.07
+2013,PD_AGR_LSFP,Czechia,Both sexes,428.83
+2013,PD_AGR_LSFP,Czechia,Female,392.75
+2020,PD_AGR_SSFP,Greece,Male,42.83
+2020,PD_AGR_SSFP,Greece,Both sexes,42.83
+2020,PD_AGR_SSFP,Greece,Female,42.82
+2016,PD_AGR_LSFP,Czechia,Female,712.09
+2016,PD_AGR_LSFP,Czechia,Both sexes,634.06
+2016,PD_AGR_LSFP,Czechia,Male,628.3
+2020,PD_AGR_LSFP,Czechia,Female,658.25
+2020,PD_AGR_LSFP,Czechia,Both sexes,612.94
+2020,PD_AGR_LSFP,Czechia,Male,604.79
+2020,PD_AGR_LSFP,Italy,Male,645.19
+2010,PD_AGR_SSFP,Hungary,Both sexes,46.81
+2010,PD_AGR_SSFP,Hungary,Female,44.66
+2010,PD_AGR_SSFP,Hungary,Male,47.45
+2013,PD_AGR_SSFP,Hungary,Male,33.69
+2013,PD_AGR_SSFP,Hungary,Female,32.11
+2013,PD_AGR_SSFP,Hungary,Both sexes,33.33
+2016,PD_AGR_SSFP,Hungary,Both sexes,40.55
+2016,PD_AGR_SSFP,Hungary,Female,38.91
+2016,PD_AGR_SSFP,Hungary,Male,41.08
+2010,PD_AGR_LSFP,Latvia,Both sexes,250.34
+2010,PD_AGR_LSFP,Latvia,Male,273.54
+2010,PD_AGR_LSFP,Latvia,Female,190.95
+2020,PD_AGR_SSFP,Hungary,Male,70.26
+2020,PD_AGR_SSFP,Hungary,Both sexes,71.94
+2020,PD_AGR_SSFP,Hungary,Female,76.56
+2005,PD_AGR_SSFP,India,Female,7.23
+2010,PD_AGR_LSFP,Denmark,Male,947.39
+2010,PD_AGR_LSFP,Denmark,Female,788.71
+2010,PD_AGR_LSFP,Denmark,Both sexes,939.78
+2005,PD_AGR_SSFP,India,Male,5.86
+2005,PD_AGR_SSFP,India,Both sexes,5.97
+2013,PD_AGR_LSFP,Denmark,Female,718.88
+2013,PD_AGR_LSFP,Denmark,Male,964.09
+2013,PD_AGR_LSFP,Denmark,Both sexes,953.04
+2012,PD_AGR_SSFP,India,Female,7.94
+2012,PD_AGR_SSFP,India,Male,7.21
+2012,PD_AGR_SSFP,India,Both sexes,7.3
+2016,PD_AGR_LSFP,Denmark,Male,1107.05
+2016,PD_AGR_LSFP,Denmark,Both sexes,1091.8
+2016,PD_AGR_LSFP,Denmark,Female,771.05
+2020,PD_AGR_LSFP,Denmark,Male,882.9
+2020,PD_AGR_LSFP,Denmark,Both sexes,869.91
+2020,PD_AGR_LSFP,Denmark,Female,660.03
+2010,PD_AGR_LSFP,Estonia,Both sexes,376.74
+2010,PD_AGR_LSFP,Estonia,Female,313.47
+2010,PD_AGR_LSFP,Estonia,Male,385.75
+2010,PD_AGR_SSFP,Ireland,Male,44.72
+2010,PD_AGR_SSFP,Ireland,Female,36.06
+2010,PD_AGR_SSFP,Ireland,Both sexes,43.57
+2013,PD_AGR_SSFP,Ireland,Both sexes,48.64
+2013,PD_AGR_SSFP,Ireland,Female,40.72
+2013,PD_AGR_SSFP,Ireland,Male,49.77
+2016,PD_AGR_SSFP,Ireland,Male,56.31
+2016,PD_AGR_SSFP,Ireland,Female,46.79
+2013,PD_AGR_LSFP,Latvia,Female,227.58
+2013,PD_AGR_LSFP,Latvia,Male,314.61
+2013,PD_AGR_LSFP,Latvia,Both sexes,292.07
+2016,PD_AGR_SSFP,Ireland,Both sexes,55.1
+2020,PD_AGR_SSFP,Ireland,Both sexes,53.55
+2020,PD_AGR_SSFP,Ireland,Male,55.41
+2020,PD_AGR_SSFP,Ireland,Female,42.06
+2016,PD_AGR_LSFP,Latvia,Male,353.26
+2016,PD_AGR_LSFP,Latvia,Both sexes,338.17
+2016,PD_AGR_LSFP,Latvia,Female,300.27
+2013,PD_AGR_LSFP,Estonia,Male,392.95
+2013,PD_AGR_LSFP,Estonia,Female,373.47
+2013,PD_AGR_LSFP,Estonia,Both sexes,390.64
+2010,PD_AGR_SSFP,Italy,Both sexes,111.67
+2010,PD_AGR_SSFP,Italy,Female,115.09
+2010,PD_AGR_SSFP,Italy,Male,110.22
+2013,PD_AGR_SSFP,Italy,Female,101.45
+2013,PD_AGR_SSFP,Italy,Both sexes,103.47
+2013,PD_AGR_SSFP,Italy,Male,104.39
+2016,PD_AGR_SSFP,Italy,Male,123.33
+2016,PD_AGR_SSFP,Italy,Both sexes,120.57
+2016,PD_AGR_SSFP,Italy,Female,115.22
+2020,PD_AGR_LSFP,Latvia,Both sexes,414.38
+2020,PD_AGR_LSFP,Latvia,Male,457.67
+2020,PD_AGR_LSFP,Latvia,Female,297.18
+2016,PD_AGR_LSFP,Estonia,Both sexes,510.54
+2016,PD_AGR_LSFP,Estonia,Female,439.25
+2016,PD_AGR_LSFP,Estonia,Male,521.25
+2020,PD_AGR_SSFP,Italy,Female,116.84
+2020,PD_AGR_SSFP,Italy,Male,115.28
+2020,PD_AGR_SSFP,Italy,Both sexes,115.79
+2010,PD_AGR_SSFP,Latvia,Both sexes,30.43
+2010,PD_AGR_SSFP,Latvia,Female,29.85
+2010,PD_AGR_SSFP,Latvia,Male,30.94
+2020,PD_AGR_LSFP,Estonia,Both sexes,538.86
+2020,PD_AGR_LSFP,Estonia,Female,503.69
+2020,PD_AGR_LSFP,Estonia,Male,545.7
+2013,PD_AGR_SSFP,Latvia,Male,32.09
+2013,PD_AGR_SSFP,Latvia,Female,28.59
+2013,PD_AGR_SSFP,Latvia,Both sexes,30.44
+2016,PD_AGR_SSFP,Latvia,Both sexes,33.96
+2016,PD_AGR_SSFP,Latvia,Female,32.15
+2016,PD_AGR_SSFP,Latvia,Male,35.55
+2020,PD_AGR_SSFP,Latvia,Male,36.79
+2020,PD_AGR_SSFP,Latvia,Both sexes,34.53
+2020,PD_AGR_SSFP,Latvia,Female,31.96
+2010,PD_AGR_SSFP,Lithuania,Male,53.09
+2010,PD_AGR_SSFP,Lithuania,Female,49.52
+2010,PD_AGR_SSFP,Lithuania,Both sexes,51.43
+2013,PD_AGR_SSFP,Lithuania,Male,48.66
+2013,PD_AGR_SSFP,Lithuania,Both sexes,46.59
+2013,PD_AGR_SSFP,Lithuania,Female,44.21
+2010,PD_AGR_LSFP,Finland,Female,292.87
+2010,PD_AGR_LSFP,Finland,Both sexes,322.48
+2010,PD_AGR_LSFP,Finland,Male,325.36
+2013,PD_AGR_LSFP,Finland,Male,363.54
+2016,PD_AGR_SSFP,Lithuania,Female,39.89
+2016,PD_AGR_SSFP,Lithuania,Both sexes,44.13
+2016,PD_AGR_SSFP,Lithuania,Male,47.99
+2013,PD_AGR_LSFP,Finland,Female,287.69
+2013,PD_AGR_LSFP,Finland,Both sexes,357.03
+2016,PD_AGR_LSFP,Finland,Both sexes,251.97
+2016,PD_AGR_LSFP,Finland,Female,259.32
+2016,PD_AGR_LSFP,Finland,Male,250.87
+2020,PD_AGR_SSFP,Lithuania,Male,52.83
+2020,PD_AGR_SSFP,Lithuania,Female,47.56
+2020,PD_AGR_SSFP,Lithuania,Both sexes,50.47
+2020,PD_AGR_LSFP,Finland,Female,353.99
+2010,PD_AGR_SSFP,Luxembourg,Male,79.14
+2010,PD_AGR_SSFP,Luxembourg,Both sexes,77.67
+2010,PD_AGR_SSFP,Luxembourg,Female,73.45
+2013,PD_AGR_SSFP,Luxembourg,Both sexes,96.07
+2013,PD_AGR_SSFP,Luxembourg,Male,100.06
+2013,PD_AGR_SSFP,Luxembourg,Female,84.98
+2016,PD_AGR_SSFP,Luxembourg,Male,114.42
+2016,PD_AGR_SSFP,Luxembourg,Both sexes,111.33
+2016,PD_AGR_SSFP,Luxembourg,Female,102.2
+2020,PD_AGR_LSFP,Finland,Male,373.15
+2020,PD_AGR_LSFP,Finland,Both sexes,371.38
+2020,PD_AGR_SSFP,Luxembourg,Female,45.36
+2020,PD_AGR_SSFP,Luxembourg,Male,55.32
+2020,PD_AGR_SSFP,Luxembourg,Both sexes,52.52
+2010,PD_AGR_LSFP,France,Male,427.88
+2010,PD_AGR_LSFP,France,Both sexes,421.4
+2010,PD_AGR_SSFP,Malta,Female,47.26
+2010,PD_AGR_SSFP,Malta,Both sexes,52.83
+2010,PD_AGR_SSFP,Malta,Male,53.32
+2013,PD_AGR_SSFP,Malta,Both sexes,56.48
+2013,PD_AGR_SSFP,Malta,Male,59.76
+2016,PD_AGR_SSFP,Malta,Male,46.48
+2016,PD_AGR_SSFP,Malta,Both sexes,46.25
+2020,PD_AGR_SSFP,Malta,Male,66.56
+2020,PD_AGR_SSFP,Malta,Both sexes,65.72
+2020,PD_AGR_SSFP,Malta,Female,55.15
+2010,PD_AGR_LSFP,France,Female,383.51
+2013,PD_AGR_LSFP,France,Female,421.74
+2013,PD_AGR_LSFP,France,Both sexes,493.6
+2013,PD_AGR_LSFP,France,Male,506.65
+2010,PD_AGR_SSFP,Netherlands (Kingdom of the),Male,75.19
+2010,PD_AGR_SSFP,Netherlands (Kingdom of the),Female,67.17
+2010,PD_AGR_LSFP,Lithuania,Female,203.27
+2010,PD_AGR_LSFP,Lithuania,Both sexes,232.48
+2010,PD_AGR_LSFP,Lithuania,Male,239.59
+2010,PD_AGR_SSFP,Netherlands (Kingdom of the),Both sexes,74.16
+2013,PD_AGR_SSFP,Netherlands (Kingdom of the),Female,63.74
+2013,PD_AGR_SSFP,Netherlands (Kingdom of the),Both sexes,71.2
+2013,PD_AGR_SSFP,Netherlands (Kingdom of the),Male,72.32
+2016,PD_AGR_LSFP,France,Male,588.67
+2016,PD_AGR_LSFP,France,Female,488.4
+2016,PD_AGR_LSFP,France,Both sexes,573.72
+2016,PD_AGR_SSFP,Netherlands (Kingdom of the),Male,62.41
+2016,PD_AGR_SSFP,Netherlands (Kingdom of the),Both sexes,62.24
+2016,PD_AGR_SSFP,Netherlands (Kingdom of the),Female,60.96
+2020,PD_AGR_SSFP,Netherlands (Kingdom of the),Male,53.59
+2020,PD_AGR_SSFP,Netherlands (Kingdom of the),Female,47.09
+2013,PD_AGR_LSFP,Lithuania,Both sexes,285.71
+2013,PD_AGR_LSFP,Lithuania,Female,250.01
+2013,PD_AGR_LSFP,Lithuania,Male,294.47
+2020,PD_AGR_LSFP,France,Female,514.84
+2020,PD_AGR_LSFP,France,Both sexes,633.57
+2020,PD_AGR_LSFP,France,Male,655.98
+2020,PD_AGR_SSFP,Netherlands (Kingdom of the),Both sexes,52.8
+2010,PD_AGR_SSFP,Poland,Both sexes,34.32
+2010,PD_AGR_SSFP,Poland,Female,30.13
+2010,PD_AGR_SSFP,Poland,Male,36.24
+2013,PD_AGR_SSFP,Poland,Male,34.7
+2013,PD_AGR_SSFP,Poland,Female,27.6
+2013,PD_AGR_SSFP,Poland,Both sexes,32.31
+2016,PD_AGR_SSFP,Poland,Male,46.16
+2016,PD_AGR_SSFP,Poland,Both sexes,43.99
+2016,PD_AGR_SSFP,Poland,Female,39.44
+2020,PD_AGR_SSFP,Poland,Both sexes,51.39
+2020,PD_AGR_SSFP,Poland,Female,47.5
+2020,PD_AGR_SSFP,Poland,Male,53.48
+2010,PD_AGR_SSFP,Portugal,Male,32.35
+2010,PD_AGR_SSFP,Portugal,Both sexes,30.24
+2010,PD_AGR_SSFP,Portugal,Female,25.84
+2016,PD_AGR_LSFP,Lithuania,Male,328.35
+2016,PD_AGR_LSFP,Lithuania,Female,292.01
+2016,PD_AGR_LSFP,Lithuania,Both sexes,321.11
+2013,PD_AGR_SSFP,Portugal,Female,24.44
+2013,PD_AGR_SSFP,Portugal,Both sexes,28.39
+2013,PD_AGR_SSFP,Portugal,Male,30.23
+2016,PD_AGR_SSFP,Portugal,Female,29.74
+2016,PD_AGR_SSFP,Portugal,Male,35.8
+2016,PD_AGR_SSFP,Portugal,Both sexes,33.85
+2020,PD_AGR_LSFP,Lithuania,Male,299.72
+2020,PD_AGR_LSFP,Lithuania,Female,251.93
+2020,PD_AGR_LSFP,Lithuania,Both sexes,290.37
+2020,PD_AGR_SSFP,Portugal,Male,45.49
+2020,PD_AGR_SSFP,Portugal,Female,40.93
+2020,PD_AGR_SSFP,Portugal,Both sexes,44.02
+2020,PD_AGR_LSFP,Georgia,Female,42.33
+2020,PD_AGR_LSFP,Georgia,Both sexes,44.73
+2020,PD_AGR_LSFP,Georgia,Male,45.19
+2010,PD_AGR_SSFP,Romania,Male,57.51
+2010,PD_AGR_SSFP,Romania,Female,51.6
+2010,PD_AGR_SSFP,Romania,Both sexes,55.74
+2013,PD_AGR_SSFP,Romania,Both sexes,45.11
+2013,PD_AGR_SSFP,Romania,Female,44.43
+2013,PD_AGR_SSFP,Romania,Male,45.38
+2016,PD_AGR_SSFP,Romania,Both sexes,44.25
+2016,PD_AGR_SSFP,Romania,Male,43.87
+2016,PD_AGR_SSFP,Romania,Female,45.18
+2010,PD_AGR_LSFP,Germany,Male,509.24
+2010,PD_AGR_LSFP,Germany,Both sexes,504.29
+2010,PD_AGR_LSFP,Germany,Female,435.79
+2020,PD_AGR_SSFP,Romania,Male,72.1
+2020,PD_AGR_SSFP,Romania,Both sexes,72.53
+2020,PD_AGR_SSFP,Romania,Female,73.58
+2013,PD_AGR_LSFP,Germany,Both sexes,582.99
+2013,PD_AGR_LSFP,Germany,Female,486.71
+2013,PD_AGR_LSFP,Germany,Male,590.34
+2010,PD_AGR_SSFP,Slovakia,Male,55.61
+2010,PD_AGR_SSFP,Slovakia,Both sexes,54.8
+2010,PD_AGR_SSFP,Slovakia,Female,51.11
+2013,PD_AGR_SSFP,Slovakia,Male,58.95
+2013,PD_AGR_SSFP,Slovakia,Female,52.76
+2013,PD_AGR_SSFP,Slovakia,Both sexes,57.91
+2016,PD_AGR_SSFP,Slovakia,Both sexes,71.85
+2016,PD_AGR_SSFP,Slovakia,Male,72.97
+2016,PD_AGR_SSFP,Slovakia,Female,67.33
+2016,PD_AGR_LSFP,Germany,Male,677.81
+2016,PD_AGR_LSFP,Germany,Female,545.34
+2016,PD_AGR_LSFP,Germany,Both sexes,667.15
+2010,PD_AGR_LSFP,Luxembourg,Both sexes,340.44
+2010,PD_AGR_LSFP,Luxembourg,Male,350.49
+2010,PD_AGR_LSFP,Luxembourg,Female,270.87
+2020,PD_AGR_SSFP,Slovakia,Both sexes,67.57
+2020,PD_AGR_LSFP,Germany,Male,669.1
+2020,PD_AGR_LSFP,Germany,Female,529.6
+2020,PD_AGR_LSFP,Germany,Both sexes,657.63
+2020,PD_AGR_SSFP,Slovakia,Male,69.22
+2020,PD_AGR_SSFP,Slovakia,Female,60.89
+2010,PD_AGR_SSFP,Slovenia,Both sexes,45.16
+2010,PD_AGR_SSFP,Slovenia,Male,46.91
+2010,PD_AGR_SSFP,Slovenia,Female,41.13
+2013,PD_AGR_SSFP,Slovenia,Female,39.5
+2013,PD_AGR_SSFP,Slovenia,Both sexes,40.91
+2013,PD_AGR_SSFP,Slovenia,Male,41.37
+2016,PD_AGR_SSFP,Slovenia,Female,47.42
+2016,PD_AGR_SSFP,Slovenia,Both sexes,48.95
+2016,PD_AGR_SSFP,Slovenia,Male,49.37
+2020,PD_AGR_SSFP,Slovenia,Male,42.71
+2020,PD_AGR_SSFP,Slovenia,Female,43.74
+2020,PD_AGR_SSFP,Slovenia,Both sexes,42.98
+2010,PD_AGR_LSFP,Greece,Male,137.3
+2010,PD_AGR_LSFP,Greece,Both sexes,135.1
+2010,PD_AGR_LSFP,Greece,Female,119.51
+2010,PD_AGR_SSFP,Spain,Both sexes,90.3
+2010,PD_AGR_SSFP,Spain,Male,97.77
+2010,PD_AGR_SSFP,Spain,Female,70.99
+2013,PD_AGR_LSFP,Greece,Female,144.01
+2013,PD_AGR_LSFP,Greece,Both sexes,164.28
+2013,PD_AGR_LSFP,Greece,Male,167.27
+2013,PD_AGR_SSFP,Spain,Both sexes,77.39
+2013,PD_AGR_SSFP,Spain,Female,63.11
+2013,PD_AGR_SSFP,Spain,Male,82.99
+2016,PD_AGR_SSFP,Spain,Both sexes,84.25
+2016,PD_AGR_SSFP,Spain,Female,69.94
+2016,PD_AGR_SSFP,Spain,Male,89.98
+2016,PD_AGR_LSFP,Greece,Male,161.75
+2016,PD_AGR_LSFP,Greece,Both sexes,158.88
+2016,PD_AGR_LSFP,Greece,Female,142.3
+2020,PD_AGR_SSFP,Spain,Male,89.39
+2020,PD_AGR_SSFP,Spain,Both sexes,85.4
+2020,PD_AGR_SSFP,Spain,Female,77.34
+2013,PD_AGR_LSFP,Luxembourg,Both sexes,397.8
+2013,PD_AGR_LSFP,Luxembourg,Female,286.09
+2013,PD_AGR_LSFP,Luxembourg,Male,416.49
+2016,PD_AGR_LSFP,Luxembourg,Male,514.54
+2016,PD_AGR_LSFP,Luxembourg,Both sexes,489.89
+2010,PD_AGR_SSFP,Sweden,Male,106.3
+2010,PD_AGR_SSFP,Sweden,Female,77.42
+2010,PD_AGR_SSFP,Sweden,Both sexes,100.13
+2020,PD_AGR_LSFP,Greece,Male,150.03
+2020,PD_AGR_LSFP,Greece,Both sexes,148.04
+2020,PD_AGR_LSFP,Greece,Female,138.83
+2013,PD_AGR_SSFP,Sweden,Male,93.87
+2013,PD_AGR_SSFP,Sweden,Both sexes,90.43
+2013,PD_AGR_SSFP,Sweden,Female,76.81
+2016,PD_AGR_SSFP,Sweden,Both sexes,99.8
+2016,PD_AGR_SSFP,Sweden,Male,108.09
+2016,PD_AGR_SSFP,Sweden,Female,73.21
+2016,PD_AGR_LSFP,Luxembourg,Female,347.88
+2010,PD_AGR_LSFP,Hungary,Female,392.41
+2010,PD_AGR_LSFP,Hungary,Male,377.79
+2010,PD_AGR_LSFP,Hungary,Both sexes,379.3
+2013,PD_AGR_LSFP,Hungary,Both sexes,343.02
+2020,PD_AGR_LSFP,Luxembourg,Male,426.97
+2020,PD_AGR_LSFP,Luxembourg,Both sexes,408.13
+2020,PD_AGR_LSFP,Luxembourg,Female,292.24
+2013,PD_AGR_LSFP,Hungary,Male,339.55
+2013,PD_AGR_LSFP,Hungary,Female,367.26
+2016,PD_AGR_LSFP,Hungary,Female,331.34
+2016,PD_AGR_LSFP,Hungary,Male,371.25
+2016,PD_AGR_LSFP,Hungary,Both sexes,364.57
+2020,PD_AGR_LSFP,Hungary,Female,442.76
+2010,PD_AGR_LSFP,Malta,Male,333.75
+2010,PD_AGR_LSFP,Malta,Both sexes,330.92
+2010,PD_AGR_LSFP,Malta,Female,277.91
+2013,PD_AGR_LSFP,Malta,Female,331.9
+2013,PD_AGR_LSFP,Malta,Male,264.06
+2020,PD_AGR_LSFP,Hungary,Male,427.5
+2020,PD_AGR_LSFP,Hungary,Both sexes,429.81
+2005,PD_AGR_LSFP,India,Male,20.9
+2005,PD_AGR_LSFP,India,Both sexes,20.44
+2005,PD_AGR_LSFP,India,Female,12.45
+2012,PD_AGR_LSFP,India,Male,10.91
+2012,PD_AGR_LSFP,India,Both sexes,10.91
+2012,PD_AGR_LSFP,India,Female,10.9
+2013,PD_AGR_LSFP,Malta,Both sexes,266.1
+2016,PD_AGR_LSFP,Malta,Male,248.19
+2016,PD_AGR_LSFP,Malta,Female,209.21
+2016,PD_AGR_LSFP,Malta,Both sexes,246.6
+2020,PD_AGR_LSFP,Malta,Male,370.89
+2020,PD_AGR_LSFP,Malta,Both sexes,359.26
+2020,PD_AGR_LSFP,Malta,Female,150.44
+2010,PD_AGR_LSFP,Netherlands (Kingdom of the),Both sexes,675.78
+2010,PD_AGR_LSFP,Netherlands (Kingdom of the),Female,527.89
+2010,PD_AGR_LSFP,Netherlands (Kingdom of the),Male,680.35
+2013,PD_AGR_LSFP,Netherlands (Kingdom of the),Male,771.86
+2013,PD_AGR_LSFP,Netherlands (Kingdom of the),Both sexes,767.05
+2013,PD_AGR_LSFP,Netherlands (Kingdom of the),Female,592.7
+2016,PD_AGR_LSFP,Netherlands (Kingdom of the),Female,643.0
+2016,PD_AGR_LSFP,Netherlands (Kingdom of the),Male,864.7
+2016,PD_AGR_LSFP,Netherlands (Kingdom of the),Both sexes,857.8
+2020,PD_AGR_LSFP,Netherlands (Kingdom of the),Female,641.33
+2020,PD_AGR_LSFP,Netherlands (Kingdom of the),Both sexes,866.4
+2020,PD_AGR_LSFP,Netherlands (Kingdom of the),Male,874.76
+2010,PD_AGR_LSFP,Poland,Female,196.95
+2010,PD_AGR_LSFP,Poland,Both sexes,205.34
+2010,PD_AGR_LSFP,Poland,Male,206.51
+2013,PD_AGR_LSFP,Poland,Male,228.32
+2013,PD_AGR_LSFP,Poland,Female,205.77
+2013,PD_AGR_LSFP,Poland,Both sexes,225.35
+2016,PD_AGR_LSFP,Poland,Both sexes,274.9
+2016,PD_AGR_LSFP,Poland,Female,261.53
+2016,PD_AGR_LSFP,Poland,Male,276.99
+2020,PD_AGR_LSFP,Poland,Both sexes,312.06
+2020,PD_AGR_LSFP,Poland,Female,292.26
+2020,PD_AGR_LSFP,Poland,Male,320.32
+2010,PD_AGR_LSFP,Portugal,Male,336.69
+2010,PD_AGR_LSFP,Portugal,Both sexes,327.92
+2010,PD_AGR_LSFP,Portugal,Female,274.47
+2013,PD_AGR_LSFP,Portugal,Female,262.17
+2013,PD_AGR_LSFP,Portugal,Both sexes,316.72
+2013,PD_AGR_LSFP,Portugal,Male,325.81
+2016,PD_AGR_LSFP,Portugal,Male,333.18
+2016,PD_AGR_LSFP,Portugal,Both sexes,325.67
+2016,PD_AGR_LSFP,Portugal,Female,285.19
+2020,PD_AGR_LSFP,Portugal,Both sexes,421.12
+2020,PD_AGR_LSFP,Portugal,Male,428.13
+2020,PD_AGR_LSFP,Portugal,Female,388.13
+2010,PD_AGR_LSFP,Romania,Female,147.23
+2010,PD_AGR_LSFP,Romania,Both sexes,152.22
+2010,PD_AGR_LSFP,Romania,Male,152.93
+2013,PD_AGR_LSFP,Romania,Both sexes,198.59
+2013,PD_AGR_LSFP,Romania,Male,200.26
+2013,PD_AGR_LSFP,Romania,Female,187.52
+2016,PD_AGR_LSFP,Romania,Both sexes,196.49
+2016,PD_AGR_LSFP,Romania,Male,201.6
+2016,PD_AGR_LSFP,Romania,Female,167.94
+2020,PD_AGR_LSFP,Romania,Both sexes,453.26
+2020,PD_AGR_LSFP,Romania,Male,452.27
+2020,PD_AGR_LSFP,Romania,Female,457.52
+2010,PD_AGR_LSFP,Slovakia,Both sexes,381.97
+2010,PD_AGR_LSFP,Slovakia,Male,378.74
+2010,PD_AGR_LSFP,Slovakia,Female,422.86
+2013,PD_AGR_LSFP,Slovakia,Both sexes,407.58
+2013,PD_AGR_LSFP,Slovakia,Female,446.26
+2013,PD_AGR_LSFP,Slovakia,Male,404.17
+2016,PD_AGR_LSFP,Slovakia,Male,460.74
+2016,PD_AGR_LSFP,Slovakia,Both sexes,461.01
+2016,PD_AGR_LSFP,Slovakia,Female,463.56
+2020,PD_AGR_LSFP,Slovakia,Both sexes,441.35
+2020,PD_AGR_LSFP,Slovakia,Male,437.05
+2020,PD_AGR_LSFP,Slovakia,Female,481.9
+2010,PD_AGR_LSFP,Slovenia,Male,168.18
+2010,PD_AGR_LSFP,Slovenia,Female,133.54
+2010,PD_AGR_LSFP,Slovenia,Both sexes,162.32
+2013,PD_AGR_LSFP,Slovenia,Both sexes,180.31
+2013,PD_AGR_LSFP,Slovenia,Male,185.13
+2013,PD_AGR_LSFP,Slovenia,Female,149.45
+2016,PD_AGR_LSFP,Slovenia,Male,213.96
+2016,PD_AGR_LSFP,Slovenia,Both sexes,209.89
+2016,PD_AGR_LSFP,Slovenia,Female,183.72
+2020,PD_AGR_LSFP,Slovenia,Male,249.68
+2020,PD_AGR_LSFP,Slovenia,Both sexes,243.7
+2020,PD_AGR_LSFP,Slovenia,Female,211.7
+2010,PD_AGR_LSFP,Spain,Both sexes,412.85
+2010,PD_AGR_LSFP,Spain,Male,421.25
+2010,PD_AGR_LSFP,Spain,Female,356.37
+2013,PD_AGR_LSFP,Spain,Female,428.21
+2013,PD_AGR_LSFP,Spain,Male,461.13
+2013,PD_AGR_LSFP,Spain,Both sexes,457.03
+2016,PD_AGR_LSFP,Spain,Both sexes,515.35
+2016,PD_AGR_LSFP,Spain,Male,518.22
+2016,PD_AGR_LSFP,Spain,Female,495.69
+2020,PD_AGR_LSFP,Spain,Male,565.38
+2020,PD_AGR_LSFP,Spain,Both sexes,549.19
+2020,PD_AGR_LSFP,Spain,Female,480.78
+2010,PD_AGR_LSFP,Sweden,Female,366.54
+2010,PD_AGR_LSFP,Sweden,Both sexes,456.36
+2010,PD_AGR_LSFP,Sweden,Male,463.71
+2013,PD_AGR_LSFP,Sweden,Male,548.38
+2013,PD_AGR_LSFP,Sweden,Female,388.11
+2013,PD_AGR_LSFP,Sweden,Both sexes,535.73
+2016,PD_AGR_LSFP,Sweden,Female,477.39
+2016,PD_AGR_LSFP,Sweden,Male,641.29
+2016,PD_AGR_LSFP,Sweden,Both sexes,628.56
+2020,PD_AGR_SSFP,Bulgaria,Male,47.12
+2020,PD_AGR_LSFP,Sweden,Male,770.78
+2020,PD_AGR_LSFP,Sweden,Both sexes,753.56
+2020,PD_AGR_LSFP,Sweden,Female,596.3
+2020,PD_AGR_SSFP,Sweden,Female,68.92
+2020,PD_AGR_SSFP,Sweden,Both sexes,101.42
+2020,PD_AGR_SSFP,Sweden,Male,114.02

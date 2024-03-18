@@ -1,0 +1,120 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_GEN_PARL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Finland",
+                "Albania",
+                "France",
+                "Azerbaijan",
+                "Romania",
+                "Serbia",
+                "Georgia",
+                "Germany",
+                "Australia",
+                "Slovakia",
+                "Greece",
+                "Hungary",
+                "Austria",
+                "Viet Nam",
+                "Armenia",
+                "Slovenia",
+                "Iceland",
+                "Spain",
+                "Belgium",
+                "Sweden",
+                "India",
+                "Bosnia and Herzegovina",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Ireland",
+                "Bulgaria",
+                "Israel",
+                "Belarus",
+                "Türkiye",
+                "Italy",
+                "Turkmenistan",
+                "Canada",
+                "Japan",
+                "Ukraine",
+                "North Macedonia",
+                "Chile",
+                "Kazakhstan",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "China",
+                "Uzbekistan",
+                "Colombia",
+                "Republic of Korea",
+                "Costa Rica",
+                "Croatia",
+                "Kyrgyzstan",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-5-1-SG_GEN_PARL",
+  "title": "meta.name-5-5-1-SG_GEN_PARL"
+}

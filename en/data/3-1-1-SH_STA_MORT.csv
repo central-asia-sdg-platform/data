@@ -1,0 +1,1304 @@
+Year,SeriesCode,Country,Age,Freq,Location,Sex,Value
+2000,SH_STA_MORT,Chile,,,,Female,32.55022
+2001,SH_STA_MORT,Chile,,,,Female,34.01686
+2002,SH_STA_MORT,Chile,,,,Female,31.56189
+2003,SH_STA_MORT,Chile,,,,Female,32.20279
+2004,SH_STA_MORT,Chile,,,,Female,28.76468
+2005,SH_STA_MORT,Chile,,,,Female,27.26825
+2006,SH_STA_MORT,Chile,,,,Female,29.10072
+2007,SH_STA_MORT,Chile,,,,Female,28.48279
+2008,SH_STA_MORT,Chile,,,,Female,25.63771
+2009,SH_STA_MORT,Chile,,,,Female,24.11786
+2010,SH_STA_MORT,Chile,,,,Female,23.36026
+2011,SH_STA_MORT,Chile,,,,Female,20.15415
+2012,SH_STA_MORT,Chile,,,,Female,18.9734
+2013,SH_STA_MORT,Chile,,,,Female,17.98455
+2014,SH_STA_MORT,Chile,,,,Female,16.09087
+2015,SH_STA_MORT,Chile,,,,Female,16.2128
+2016,SH_STA_MORT,Chile,,,,Female,15.01822
+2017,SH_STA_MORT,Chile,,,,Female,14.73754
+2018,SH_STA_MORT,Chile,,,,Female,15.13551
+2019,SH_STA_MORT,Chile,,,,Female,14.60006
+2000,SH_STA_MORT,Spain,,,,Female,5.03831
+2001,SH_STA_MORT,Spain,,,,Female,5.0097
+2002,SH_STA_MORT,Spain,,,,Female,4.86458
+2003,SH_STA_MORT,Spain,,,,Female,4.94473
+2004,SH_STA_MORT,Spain,,,,Female,4.55348
+2005,SH_STA_MORT,Spain,,,,Female,4.48906
+2006,SH_STA_MORT,Spain,,,,Female,4.3039
+2007,SH_STA_MORT,Spain,,,,Female,4.16182
+2008,SH_STA_MORT,Spain,,,,Female,4.00192
+2009,SH_STA_MORT,Spain,,,,Female,4.09975
+2020,SH_STA_MORT,Chile,,,,Female,15.03074
+2000,SH_STA_MORT,China,,,,Female,58.06377
+2001,SH_STA_MORT,China,,,,Female,55.31018
+2002,SH_STA_MORT,China,,,,Female,53.82001
+2003,SH_STA_MORT,China,,,,Female,43.34771
+2004,SH_STA_MORT,China,,,,Female,48.77667
+2005,SH_STA_MORT,China,,,,Female,45.59248
+2006,SH_STA_MORT,China,,,,Female,42.55417
+2007,SH_STA_MORT,China,,,,Female,39.31897
+2008,SH_STA_MORT,China,,,,Female,38.17672
+2010,SH_STA_MORT,Spain,,,,Female,3.91945
+2011,SH_STA_MORT,Spain,,,,Female,4.07119
+2012,SH_STA_MORT,Spain,,,,Female,4.05882
+2013,SH_STA_MORT,Spain,,,,Female,4.11754
+2014,SH_STA_MORT,Spain,,,,Female,4.00638
+2015,SH_STA_MORT,Spain,,,,Female,3.88086
+2016,SH_STA_MORT,Spain,,,,Female,3.83039
+2017,SH_STA_MORT,Spain,,,,Female,3.97118
+2018,SH_STA_MORT,Spain,,,,Female,4.05448
+2019,SH_STA_MORT,Spain,,,,Female,3.16769
+2009,SH_STA_MORT,China,,,,Female,34.05085
+2010,SH_STA_MORT,China,,,,Female,33.22315
+2011,SH_STA_MORT,China,,,,Female,32.18183
+2012,SH_STA_MORT,China,,,,Female,28.44408
+2013,SH_STA_MORT,China,,,,Female,28.29749
+2014,SH_STA_MORT,China,,,,Female,25.82247
+2015,SH_STA_MORT,China,,,,Female,25.98126
+2016,SH_STA_MORT,China,,,,Female,23.3129
+2017,SH_STA_MORT,China,,,,Female,21.87205
+2018,SH_STA_MORT,China,,,,Female,20.35598
+2020,SH_STA_MORT,Spain,,,,Female,3.44125
+2000,SH_STA_MORT,Sweden,,,,Female,6.14638
+2001,SH_STA_MORT,Sweden,,,,Female,5.8172
+2002,SH_STA_MORT,Sweden,,,,Female,5.67067
+2003,SH_STA_MORT,Sweden,,,,Female,5.59969
+2004,SH_STA_MORT,Sweden,,,,Female,5.27906
+2005,SH_STA_MORT,Sweden,,,,Female,5.08004
+2006,SH_STA_MORT,Sweden,,,,Female,5.1541
+2007,SH_STA_MORT,Sweden,,,,Female,5.07337
+2008,SH_STA_MORT,Sweden,,,,Female,5.00755
+2009,SH_STA_MORT,Sweden,,,,Female,4.96492
+2010,SH_STA_MORT,Sweden,,,,Female,4.53081
+2011,SH_STA_MORT,Sweden,,,,Female,4.88886
+2012,SH_STA_MORT,Sweden,,,,Female,4.92753
+2013,SH_STA_MORT,Sweden,,,,Female,4.92798
+2014,SH_STA_MORT,Sweden,,,,Female,4.77894
+2015,SH_STA_MORT,Sweden,,,,Female,4.44644
+2016,SH_STA_MORT,Sweden,,,,Female,4.42298
+2017,SH_STA_MORT,Sweden,,,,Female,4.51249
+2018,SH_STA_MORT,Sweden,,,,Female,4.53476
+2000,SH_STA_MORT,Albania,,,,Female,14.32641
+2001,SH_STA_MORT,Albania,,,,Female,12.52553
+2002,SH_STA_MORT,Albania,,,,Female,12.40726
+2003,SH_STA_MORT,Albania,,,,Female,12.11916
+2004,SH_STA_MORT,Albania,,,,Female,10.6316
+2005,SH_STA_MORT,Albania,,,,Female,10.8305
+2006,SH_STA_MORT,Albania,,,,Female,10.76677
+2007,SH_STA_MORT,Albania,,,,Female,10.19582
+2008,SH_STA_MORT,Albania,,,,Female,9.7394
+2009,SH_STA_MORT,Albania,,,,Female,9.09726
+2019,SH_STA_MORT,Sweden,,,,Female,4.52916
+2020,SH_STA_MORT,Sweden,,,,Female,4.50784
+2000,SH_STA_MORT,Switzerland,,,,Female,7.90424
+2001,SH_STA_MORT,Switzerland,,,,Female,8.55248
+2002,SH_STA_MORT,Switzerland,,,,Female,9.18879
+2003,SH_STA_MORT,Switzerland,,,,Female,8.86663
+2004,SH_STA_MORT,Switzerland,,,,Female,8.94237
+2005,SH_STA_MORT,Switzerland,,,,Female,9.38462
+2006,SH_STA_MORT,Switzerland,,,,Female,8.90644
+2007,SH_STA_MORT,Switzerland,,,,Female,8.37013
+2008,SH_STA_MORT,Switzerland,,,,Female,8.24429
+2009,SH_STA_MORT,Switzerland,,,,Female,7.82125
+2010,SH_STA_MORT,Switzerland,,,,Female,8.11913
+2011,SH_STA_MORT,Switzerland,,,,Female,8.11037
+2012,SH_STA_MORT,Switzerland,,,,Female,7.39305
+2013,SH_STA_MORT,Switzerland,,,,Female,7.23778
+2014,SH_STA_MORT,Switzerland,,,,Female,6.70101
+2015,SH_STA_MORT,Switzerland,,,,Female,6.46258
+2016,SH_STA_MORT,Switzerland,,,,Female,8.05641
+2017,SH_STA_MORT,Switzerland,,,,Female,6.14413
+2010,SH_STA_MORT,Albania,,,,Female,8.51668
+2011,SH_STA_MORT,Albania,,,,Female,8.04523
+2012,SH_STA_MORT,Albania,,,,Female,7.7967
+2013,SH_STA_MORT,Albania,,,,Female,7.21536
+2014,SH_STA_MORT,Albania,,,,Female,7.00986
+2015,SH_STA_MORT,Albania,,,,Female,6.87828
+2016,SH_STA_MORT,Albania,,,,Female,6.65608
+2017,SH_STA_MORT,Albania,,,,Female,6.6897
+2018,SH_STA_MORT,Albania,,,,Female,5.42929
+2019,SH_STA_MORT,Albania,,,,Female,5.30502
+2018,SH_STA_MORT,Switzerland,,,,Female,7.43487
+2019,SH_STA_MORT,Switzerland,,,,Female,7.10454
+2020,SH_STA_MORT,Switzerland,,,,Female,7.37875
+2000,SH_STA_MORT,Tajikistan,,,,Female,67.5115
+2001,SH_STA_MORT,Tajikistan,,,,Female,60.23926
+2002,SH_STA_MORT,Tajikistan,,,,Female,55.36335
+2003,SH_STA_MORT,Tajikistan,,,,Female,49.24886
+2004,SH_STA_MORT,Tajikistan,,,,Female,46.59799
+2005,SH_STA_MORT,Tajikistan,,,,Female,44.28473
+2006,SH_STA_MORT,Tajikistan,,,,Female,40.99126
+2020,SH_STA_MORT,Albania,,,,Female,8.27645
+2000,SH_STA_MORT,Azerbaijan,,,,Female,55.52084
+2001,SH_STA_MORT,Azerbaijan,,,,Female,55.15855
+2002,SH_STA_MORT,Azerbaijan,,,,Female,54.01204
+2003,SH_STA_MORT,Azerbaijan,,,,Female,50.9451
+2004,SH_STA_MORT,Azerbaijan,,,,Female,46.81153
+2005,SH_STA_MORT,Azerbaijan,,,,Female,43.89283
+2006,SH_STA_MORT,Azerbaijan,,,,Female,38.76129
+2007,SH_STA_MORT,Azerbaijan,,,,Female,34.40982
+2008,SH_STA_MORT,Azerbaijan,,,,Female,32.7928
+2007,SH_STA_MORT,Tajikistan,,,,Female,38.78791
+2008,SH_STA_MORT,Tajikistan,,,,Female,35.18509
+2009,SH_STA_MORT,Tajikistan,,,,Female,31.17497
+2010,SH_STA_MORT,Tajikistan,,,,Female,31.87986
+2011,SH_STA_MORT,Tajikistan,,,,Female,28.61099
+2012,SH_STA_MORT,Tajikistan,,,,Female,26.55378
+2013,SH_STA_MORT,Tajikistan,,,,Female,23.90908
+2014,SH_STA_MORT,Tajikistan,,,,Female,21.80649
+2015,SH_STA_MORT,Tajikistan,,,,Female,20.37561
+2016,SH_STA_MORT,Tajikistan,,,,Female,19.79615
+2009,SH_STA_MORT,Azerbaijan,,,,Female,33.32893
+2010,SH_STA_MORT,Azerbaijan,,,,Female,32.81004
+2011,SH_STA_MORT,Azerbaijan,,,,Female,30.73949
+2012,SH_STA_MORT,Azerbaijan,,,,Female,29.37341
+2013,SH_STA_MORT,Azerbaijan,,,,Female,28.39893
+2014,SH_STA_MORT,Azerbaijan,,,,Female,28.97291
+2015,SH_STA_MORT,Azerbaijan,,,,Female,29.37786
+2016,SH_STA_MORT,Azerbaijan,,,,Female,26.01814
+2017,SH_STA_MORT,Azerbaijan,,,,Female,26.89301
+2018,SH_STA_MORT,Azerbaijan,,,,Female,27.59978
+2019,SH_STA_MORT,Azerbaijan,,,,Female,26.86957
+2020,SH_STA_MORT,Azerbaijan,,,,Female,40.76367
+2000,SH_STA_MORT,Australia,,,,Female,6.69383
+2001,SH_STA_MORT,Australia,,,,Female,5.97206
+2002,SH_STA_MORT,Australia,,,,Female,5.56837
+2003,SH_STA_MORT,Australia,,,,Female,5.51475
+2004,SH_STA_MORT,Australia,,,,Female,5.11737
+2005,SH_STA_MORT,Australia,,,,Female,4.59569
+2006,SH_STA_MORT,Australia,,,,Female,4.56596
+2007,SH_STA_MORT,Australia,,,,Female,5.1069
+2019,SH_STA_MORT,China,,,,Female,20.3975
+2020,SH_STA_MORT,China,,,,Female,23.04763
+2000,SH_STA_MORT,Colombia,,,,Female,92.63503
+2001,SH_STA_MORT,Colombia,,,,Female,94.13931
+2002,SH_STA_MORT,Colombia,,,,Female,93.12215
+2003,SH_STA_MORT,Colombia,,,,Female,82.65058
+2004,SH_STA_MORT,Colombia,,,,Female,82.35472
+2005,SH_STA_MORT,Colombia,,,,Female,81.78541
+2006,SH_STA_MORT,Colombia,,,,Female,81.71697
+2007,SH_STA_MORT,Colombia,,,,Female,83.07628
+2017,SH_STA_MORT,Tajikistan,,,,Female,18.19538
+2018,SH_STA_MORT,Tajikistan,,,,Female,17.35197
+2019,SH_STA_MORT,Tajikistan,,,,Female,16.36735
+2020,SH_STA_MORT,Tajikistan,,,,Female,16.6317
+2000,SH_STA_MORT,United Arab Emirates,,,,Female,21.75752
+2001,SH_STA_MORT,United Arab Emirates,,,,Female,18.59805
+2002,SH_STA_MORT,United Arab Emirates,,,,Female,17.55161
+2003,SH_STA_MORT,United Arab Emirates,,,,Female,13.24963
+2004,SH_STA_MORT,United Arab Emirates,,,,Female,13.14346
+2005,SH_STA_MORT,United Arab Emirates,,,,Female,13.37994
+2008,SH_STA_MORT,Australia,,,,Female,4.88985
+2009,SH_STA_MORT,Australia,,,,Female,5.38075
+2010,SH_STA_MORT,Australia,,,,Female,5.45191
+2011,SH_STA_MORT,Australia,,,,Female,5.93745
+2012,SH_STA_MORT,Australia,,,,Female,5.85933
+2013,SH_STA_MORT,Australia,,,,Female,5.99352
+2014,SH_STA_MORT,Australia,,,,Female,5.3902
+2015,SH_STA_MORT,Australia,,,,Female,5.24403
+2016,SH_STA_MORT,Australia,,,,Female,5.17583
+2017,SH_STA_MORT,Australia,,,,Female,4.77144
+2006,SH_STA_MORT,United Arab Emirates,,,,Female,11.94569
+2007,SH_STA_MORT,United Arab Emirates,,,,Female,11.05051
+2008,SH_STA_MORT,United Arab Emirates,,,,Female,10.08841
+2009,SH_STA_MORT,United Arab Emirates,,,,Female,9.46104
+2010,SH_STA_MORT,United Arab Emirates,,,,Female,9.16035
+2011,SH_STA_MORT,United Arab Emirates,,,,Female,9.5112
+2012,SH_STA_MORT,United Arab Emirates,,,,Female,8.60421
+2013,SH_STA_MORT,United Arab Emirates,,,,Female,8.80045
+2014,SH_STA_MORT,United Arab Emirates,,,,Female,9.05485
+2015,SH_STA_MORT,United Arab Emirates,,,,Female,9.386
+2018,SH_STA_MORT,Australia,,,,Female,4.42425
+2019,SH_STA_MORT,Australia,,,,Female,5.08551
+2020,SH_STA_MORT,Australia,,,,Female,2.94151
+2000,SH_STA_MORT,Austria,,,,Female,6.36031
+2001,SH_STA_MORT,Austria,,,,Female,6.24352
+2002,SH_STA_MORT,Austria,,,,Female,6.05769
+2003,SH_STA_MORT,Austria,,,,Female,6.2012
+2004,SH_STA_MORT,Austria,,,,Female,5.48865
+2005,SH_STA_MORT,Austria,,,,Female,5.85059
+2006,SH_STA_MORT,Austria,,,,Female,5.54511
+2008,SH_STA_MORT,Colombia,,,,Female,72.89445
+2009,SH_STA_MORT,Colombia,,,,Female,71.33593
+2010,SH_STA_MORT,Colombia,,,,Female,70.56836
+2011,SH_STA_MORT,Colombia,,,,Female,70.60106
+2012,SH_STA_MORT,Colombia,,,,Female,70.59163
+2013,SH_STA_MORT,Colombia,,,,Female,70.30792
+2014,SH_STA_MORT,Colombia,,,,Female,69.87793
+2015,SH_STA_MORT,Colombia,,,,Female,70.00599
+2016,SH_STA_MORT,Colombia,,,,Female,70.08121
+2017,SH_STA_MORT,Colombia,,,,Female,71.44645
+2016,SH_STA_MORT,United Arab Emirates,,,,Female,8.33815
+2017,SH_STA_MORT,United Arab Emirates,,,,Female,8.59166
+2018,SH_STA_MORT,United Arab Emirates,,,,Female,9.04669
+2019,SH_STA_MORT,United Arab Emirates,,,,Female,9.43206
+2020,SH_STA_MORT,United Arab Emirates,,,,Female,9.3407
+2000,SH_STA_MORT,Türkiye,,,,Female,31.699
+2001,SH_STA_MORT,Türkiye,,,,Female,30.3656
+2002,SH_STA_MORT,Türkiye,,,,Female,28.6153
+2003,SH_STA_MORT,Türkiye,,,,Female,28.49872
+2004,SH_STA_MORT,Türkiye,,,,Female,26.84048
+2007,SH_STA_MORT,Austria,,,,Female,5.75491
+2008,SH_STA_MORT,Austria,,,,Female,5.52626
+2009,SH_STA_MORT,Austria,,,,Female,5.97988
+2010,SH_STA_MORT,Austria,,,,Female,5.95376
+2011,SH_STA_MORT,Austria,,,,Female,6.04204
+2012,SH_STA_MORT,Austria,,,,Female,5.74165
+2013,SH_STA_MORT,Austria,,,,Female,5.73881
+2014,SH_STA_MORT,Austria,,,,Female,5.91521
+2015,SH_STA_MORT,Austria,,,,Female,5.67145
+2016,SH_STA_MORT,Austria,,,,Female,5.33615
+2018,SH_STA_MORT,Colombia,,,,Female,63.14635
+2019,SH_STA_MORT,Colombia,,,,Female,65.44107
+2020,SH_STA_MORT,Colombia,,,,Female,74.7629
+2000,SH_STA_MORT,Costa Rica,,,,Female,38.50786
+2001,SH_STA_MORT,Costa Rica,,,,Female,37.11868
+2002,SH_STA_MORT,Costa Rica,,,,Female,36.4686
+2003,SH_STA_MORT,Costa Rica,,,,Female,36.9265
+2004,SH_STA_MORT,Costa Rica,,,,Female,31.82975
+2005,SH_STA_MORT,Costa Rica,,,,Female,30.53662
+2006,SH_STA_MORT,Costa Rica,,,,Female,29.45057
+2017,SH_STA_MORT,Austria,,,,Female,5.14461
+2018,SH_STA_MORT,Austria,,,,Female,5.82625
+2019,SH_STA_MORT,Austria,,,,Female,5.4957
+2020,SH_STA_MORT,Austria,,,,Female,5.22839
+2000,SH_STA_MORT,Armenia,,,,Female,50.16581
+2001,SH_STA_MORT,Armenia,,,,Female,49.56898
+2002,SH_STA_MORT,Armenia,,,,Female,48.04569
+2003,SH_STA_MORT,Armenia,,,,Female,42.61444
+2004,SH_STA_MORT,Armenia,,,,Female,41.58858
+2005,SH_STA_MORT,Armenia,,,,Female,37.78068
+2007,SH_STA_MORT,Costa Rica,,,,Female,28.28028
+2008,SH_STA_MORT,Costa Rica,,,,Female,27.12361
+2009,SH_STA_MORT,Costa Rica,,,,Female,26.32806
+2010,SH_STA_MORT,Costa Rica,,,,Female,26.57482
+2011,SH_STA_MORT,Costa Rica,,,,Female,24.25176
+2012,SH_STA_MORT,Costa Rica,,,,Female,24.15619
+2013,SH_STA_MORT,Costa Rica,,,,Female,23.30556
+2014,SH_STA_MORT,Costa Rica,,,,Female,24.23578
+2015,SH_STA_MORT,Costa Rica,,,,Female,19.693
+2016,SH_STA_MORT,Costa Rica,,,,Female,18.57412
+2005,SH_STA_MORT,Türkiye,,,,Female,25.40583
+2006,SH_STA_MORT,Türkiye,,,,Female,24.13056
+2007,SH_STA_MORT,Türkiye,,,,Female,23.39337
+2008,SH_STA_MORT,Türkiye,,,,Female,22.79347
+2009,SH_STA_MORT,Türkiye,,,,Female,22.24341
+2010,SH_STA_MORT,Türkiye,,,,Female,22.0813
+2011,SH_STA_MORT,Türkiye,,,,Female,22.63139
+2012,SH_STA_MORT,Türkiye,,,,Female,21.03112
+2013,SH_STA_MORT,Türkiye,,,,Female,19.99406
+2014,SH_STA_MORT,Türkiye,,,,Female,19.4629
+2006,SH_STA_MORT,Armenia,,,,Female,39.92467
+2007,SH_STA_MORT,Armenia,,,,Female,35.86708
+2008,SH_STA_MORT,Armenia,,,,Female,33.53167
+2009,SH_STA_MORT,Armenia,,,,Female,33.39944
+2010,SH_STA_MORT,Armenia,,,,Female,33.2177
+2011,SH_STA_MORT,Armenia,,,,Female,31.45806
+2012,SH_STA_MORT,Armenia,,,,Female,29.12987
+2013,SH_STA_MORT,Armenia,,,,Female,27.19941
+2014,SH_STA_MORT,Armenia,,,,Female,27.82422
+2015,SH_STA_MORT,Armenia,,,,Female,25.10203
+2015,SH_STA_MORT,Türkiye,,,,Female,19.38471
+2016,SH_STA_MORT,Türkiye,,,,Female,19.60762
+2017,SH_STA_MORT,Türkiye,,,,Female,16.8957
+2018,SH_STA_MORT,Türkiye,,,,Female,16.87219
+2019,SH_STA_MORT,Türkiye,,,,Female,17.00893
+2020,SH_STA_MORT,Türkiye,,,,Female,17.33207
+2000,SH_STA_MORT,Turkmenistan,,,,Female,26.09749
+2001,SH_STA_MORT,Turkmenistan,,,,Female,25.01384
+2002,SH_STA_MORT,Turkmenistan,,,,Female,21.68641
+2003,SH_STA_MORT,Turkmenistan,,,,Female,19.72582
+2004,SH_STA_MORT,Turkmenistan,,,,Female,17.80145
+2005,SH_STA_MORT,Turkmenistan,,,,Female,16.76499
+2006,SH_STA_MORT,Turkmenistan,,,,Female,14.62435
+2007,SH_STA_MORT,Turkmenistan,,,,Female,12.85905
+2008,SH_STA_MORT,Turkmenistan,,,,Female,11.10154
+2009,SH_STA_MORT,Turkmenistan,,,,Female,10.307
+2010,SH_STA_MORT,Turkmenistan,,,,Female,8.83077
+2011,SH_STA_MORT,Turkmenistan,,,,Female,7.62566
+2012,SH_STA_MORT,Turkmenistan,,,,Female,7.33217
+2013,SH_STA_MORT,Turkmenistan,,,,Female,6.65197
+2014,SH_STA_MORT,Turkmenistan,,,,Female,6.16567
+2015,SH_STA_MORT,Turkmenistan,,,,Female,5.76166
+2016,SH_STA_MORT,Turkmenistan,,,,Female,5.67885
+2017,SH_STA_MORT,Turkmenistan,,,,Female,4.9853
+2018,SH_STA_MORT,Turkmenistan,,,,Female,5.00082
+2019,SH_STA_MORT,Turkmenistan,,,,Female,4.9158
+2020,SH_STA_MORT,Turkmenistan,,,,Female,5.14808
+2000,SH_STA_MORT,Ukraine,,,,Female,35.83351
+2001,SH_STA_MORT,Ukraine,,,,Female,32.01638
+2002,SH_STA_MORT,Ukraine,,,,Female,27.78713
+2016,SH_STA_MORT,Armenia,,,,Female,23.8734
+2017,SH_STA_MORT,Armenia,,,,Female,25.00067
+2018,SH_STA_MORT,Armenia,,,,Female,25.1014
+2019,SH_STA_MORT,Armenia,,,,Female,24.938
+2020,SH_STA_MORT,Armenia,,,,Female,27.18972
+2000,SH_STA_MORT,Belgium,,,,Female,8.26524
+2001,SH_STA_MORT,Belgium,,,,Female,8.01277
+2002,SH_STA_MORT,Belgium,,,,Female,7.83245
+2003,SH_STA_MORT,Belgium,,,,Female,7.40416
+2004,SH_STA_MORT,Belgium,,,,Female,6.93755
+2003,SH_STA_MORT,Ukraine,,,,Female,24.97282
+2004,SH_STA_MORT,Ukraine,,,,Female,21.69585
+2005,SH_STA_MORT,Ukraine,,,,Female,20.54598
+2006,SH_STA_MORT,Ukraine,,,,Female,22.69625
+2007,SH_STA_MORT,Ukraine,,,,Female,20.98928
+2008,SH_STA_MORT,Ukraine,,,,Female,18.83712
+2009,SH_STA_MORT,Ukraine,,,,Female,17.04754
+2010,SH_STA_MORT,Ukraine,,,,Female,16.89622
+2011,SH_STA_MORT,Ukraine,,,,Female,15.02456
+2012,SH_STA_MORT,Ukraine,,,,Female,16.754
+2005,SH_STA_MORT,Belgium,,,,Female,6.75314
+2006,SH_STA_MORT,Belgium,,,,Female,6.41128
+2007,SH_STA_MORT,Belgium,,,,Female,6.69274
+2008,SH_STA_MORT,Belgium,,,,Female,6.18618
+2009,SH_STA_MORT,Belgium,,,,Female,6.11914
+2010,SH_STA_MORT,Belgium,,,,Female,5.92548
+2011,SH_STA_MORT,Belgium,,,,Female,5.79497
+2012,SH_STA_MORT,Belgium,,,,Female,5.25988
+2013,SH_STA_MORT,Belgium,,,,Female,5.54709
+2014,SH_STA_MORT,Belgium,,,,Female,5.25817
+2013,SH_STA_MORT,Ukraine,,,,Female,16.44898
+2014,SH_STA_MORT,Ukraine,,,,Female,12.14538
+2015,SH_STA_MORT,Ukraine,,,,Female,11.10548
+2016,SH_STA_MORT,Ukraine,,,,Female,10.3121
+2017,SH_STA_MORT,Ukraine,,,,Female,10.50844
+2018,SH_STA_MORT,Ukraine,,,,Female,11.27424
+2019,SH_STA_MORT,Ukraine,,,,Female,9.26132
+2020,SH_STA_MORT,Ukraine,,,,Female,16.54037
+2000,SH_STA_MORT,North Macedonia,,,,Female,12.31795
+2001,SH_STA_MORT,North Macedonia,,,,Female,11.55278
+2015,SH_STA_MORT,Belgium,,,,Female,5.20293
+2016,SH_STA_MORT,Belgium,,,,Female,4.93458
+2017,SH_STA_MORT,Belgium,,,,Female,4.91231
+2018,SH_STA_MORT,Belgium,,,,Female,4.90796
+2019,SH_STA_MORT,Belgium,,,,Female,4.60334
+2020,SH_STA_MORT,Belgium,,,,Female,4.75586
+2000,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,15.60343
+2001,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,14.28981
+2002,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,15.04486
+2003,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,12.24222
+2002,SH_STA_MORT,North Macedonia,,,,Female,10.58578
+2003,SH_STA_MORT,North Macedonia,,,,Female,10.47226
+2004,SH_STA_MORT,North Macedonia,,,,Female,9.0776
+2005,SH_STA_MORT,North Macedonia,,,,Female,8.87876
+2006,SH_STA_MORT,North Macedonia,,,,Female,8.08626
+2007,SH_STA_MORT,North Macedonia,,,,Female,7.78046
+2008,SH_STA_MORT,North Macedonia,,,,Female,6.9102
+2009,SH_STA_MORT,North Macedonia,,,,Female,7.16392
+2010,SH_STA_MORT,North Macedonia,,,,Female,6.32234
+2011,SH_STA_MORT,North Macedonia,,,,Female,5.37964
+2004,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,11.33485
+2005,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,11.46767
+2006,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,10.0616
+2007,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,9.15078
+2008,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,8.20636
+2009,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,7.5434
+2010,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,7.69039
+2011,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,7.81489
+2012,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,6.90286
+2013,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,7.55633
+2012,SH_STA_MORT,North Macedonia,,,,Female,4.82384
+2013,SH_STA_MORT,North Macedonia,,,,Female,4.1017
+2014,SH_STA_MORT,North Macedonia,,,,Female,4.58023
+2015,SH_STA_MORT,North Macedonia,,,,Female,4.51669
+2016,SH_STA_MORT,North Macedonia,,,,Female,3.43854
+2017,SH_STA_MORT,North Macedonia,,,,Female,3.29153
+2018,SH_STA_MORT,North Macedonia,,,,Female,2.87943
+2019,SH_STA_MORT,North Macedonia,,,,Female,3.086
+2020,SH_STA_MORT,North Macedonia,,,,Female,3.03597
+2000,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,10.97716
+2001,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,11.08622
+2002,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,11.47664
+2003,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,11.34094
+2004,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,11.06449
+2005,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,11.0457
+2006,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,10.95546
+2007,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,10.65385
+2008,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,10.52292
+2009,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,10.10375
+2014,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,8.30099
+2015,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,7.40172
+2016,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,6.42765
+2017,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,5.93275
+2018,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,5.54747
+2019,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,5.3941
+2020,SH_STA_MORT,Bosnia and Herzegovina,,,,Female,5.6684
+2000,SH_STA_MORT,Bulgaria,,,,Female,21.93408
+2001,SH_STA_MORT,Bulgaria,,,,Female,20.9894
+2002,SH_STA_MORT,Bulgaria,,,,Female,18.54923
+2010,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,9.53199
+2011,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,9.05449
+2012,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.30973
+2013,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.35958
+2014,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.45881
+2015,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.39114
+2016,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.51319
+2017,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,8.51876
+2018,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,9.20921
+2003,SH_STA_MORT,Bulgaria,,,,Female,16.70329
+2004,SH_STA_MORT,Bulgaria,,,,Female,15.12295
+2005,SH_STA_MORT,Bulgaria,,,,Female,13.71778
+2006,SH_STA_MORT,Bulgaria,,,,Female,11.82236
+2007,SH_STA_MORT,Bulgaria,,,,Female,10.38471
+2008,SH_STA_MORT,Bulgaria,,,,Female,9.1395
+2009,SH_STA_MORT,Bulgaria,,,,Female,9.93656
+2010,SH_STA_MORT,Bulgaria,,,,Female,10.29714
+2011,SH_STA_MORT,Bulgaria,,,,Female,8.24212
+2012,SH_STA_MORT,Bulgaria,,,,Female,7.54877
+2019,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,9.2236
+2020,SH_STA_MORT,United Kingdom of Great Britain and Northern Ireland,,,,Female,9.84248
+2000,SH_STA_MORT,Uzbekistan,,,,Female,42.647
+2001,SH_STA_MORT,Uzbekistan,,,,Female,40.28183
+2002,SH_STA_MORT,Uzbekistan,,,,Female,41.28752
+2003,SH_STA_MORT,Uzbekistan,,,,Female,42.90228
+2004,SH_STA_MORT,Uzbekistan,,,,Female,42.49742
+2005,SH_STA_MORT,Uzbekistan,,,,Female,45.11973
+2006,SH_STA_MORT,Uzbekistan,,,,Female,43.91255
+2007,SH_STA_MORT,Uzbekistan,,,,Female,40.96167
+2017,SH_STA_MORT,Costa Rica,,,,Female,18.71925
+2018,SH_STA_MORT,Costa Rica,,,,Female,17.98992
+2019,SH_STA_MORT,Costa Rica,,,,Female,18.69613
+2020,SH_STA_MORT,Costa Rica,,,,Female,22.00381
+2000,SH_STA_MORT,Croatia,,,,Female,10.90609
+2001,SH_STA_MORT,Croatia,,,,Female,10.53485
+2002,SH_STA_MORT,Croatia,,,,Female,10.83446
+2003,SH_STA_MORT,Croatia,,,,Female,10.85276
+2004,SH_STA_MORT,Croatia,,,,Female,9.72103
+2005,SH_STA_MORT,Croatia,,,,Female,9.22811
+2013,SH_STA_MORT,Bulgaria,,,,Female,7.40413
+2014,SH_STA_MORT,Bulgaria,,,,Female,7.45836
+2015,SH_STA_MORT,Bulgaria,,,,Female,7.5018
+2016,SH_STA_MORT,Bulgaria,,,,Female,7.15806
+2017,SH_STA_MORT,Bulgaria,,,,Female,7.0296
+2018,SH_STA_MORT,Bulgaria,,,,Female,7.16773
+2019,SH_STA_MORT,Bulgaria,,,,Female,6.72991
+2020,SH_STA_MORT,Bulgaria,,,,Female,7.08603
+2000,SH_STA_MORT,Belarus,,,,Female,24.31824
+2001,SH_STA_MORT,Belarus,,,,Female,22.95516
+2008,SH_STA_MORT,Uzbekistan,,,,Female,38.47462
+2009,SH_STA_MORT,Uzbekistan,,,,Female,37.88391
+2010,SH_STA_MORT,Uzbekistan,,,,Female,37.77097
+2011,SH_STA_MORT,Uzbekistan,,,,Female,37.13542
+2012,SH_STA_MORT,Uzbekistan,,,,Female,35.98205
+2013,SH_STA_MORT,Uzbekistan,,,,Female,33.78471
+2014,SH_STA_MORT,Uzbekistan,,,,Female,31.67814
+2015,SH_STA_MORT,Uzbekistan,,,,Female,30.68784
+2016,SH_STA_MORT,Uzbekistan,,,,Female,30.28351
+2017,SH_STA_MORT,Uzbekistan,,,,Female,29.70989
+2002,SH_STA_MORT,Belarus,,,,Female,16.61815
+2003,SH_STA_MORT,Belarus,,,,Female,13.53789
+2004,SH_STA_MORT,Belarus,,,,Female,10.79673
+2005,SH_STA_MORT,Belarus,,,,Female,10.76858
+2006,SH_STA_MORT,Belarus,,,,Female,8.06859
+2007,SH_STA_MORT,Belarus,,,,Female,5.75148
+2008,SH_STA_MORT,Belarus,,,,Female,4.31594
+2009,SH_STA_MORT,Belarus,,,,Female,3.23744
+2010,SH_STA_MORT,Belarus,,,,Female,2.71034
+2011,SH_STA_MORT,Belarus,,,,Female,2.55241
+2012,SH_STA_MORT,Belarus,,,,Female,1.95914
+2013,SH_STA_MORT,Belarus,,,,Female,1.67166
+2014,SH_STA_MORT,Belarus,,,,Female,1.45479
+2015,SH_STA_MORT,Belarus,,,,Female,1.31394
+2016,SH_STA_MORT,Belarus,,,,Female,1.23891
+2017,SH_STA_MORT,Belarus,,,,Female,1.31347
+2018,SH_STA_MORT,Belarus,,,,Female,1.11169
+2019,SH_STA_MORT,Belarus,,,,Female,1.08201
+2020,SH_STA_MORT,Belarus,,,,Female,1.10192
+2000,SH_STA_MORT,Canada,,,,Female,9.30375
+2006,SH_STA_MORT,Croatia,,,,Female,8.75829
+2007,SH_STA_MORT,Croatia,,,,Female,8.66689
+2008,SH_STA_MORT,Croatia,,,,Female,7.98099
+2009,SH_STA_MORT,Croatia,,,,Female,9.00552
+2010,SH_STA_MORT,Croatia,,,,Female,7.23662
+2011,SH_STA_MORT,Croatia,,,,Female,7.0512
+2012,SH_STA_MORT,Croatia,,,,Female,6.42449
+2013,SH_STA_MORT,Croatia,,,,Female,6.08767
+2014,SH_STA_MORT,Croatia,,,,Female,5.89039
+2015,SH_STA_MORT,Croatia,,,,Female,6.14627
+2001,SH_STA_MORT,Canada,,,,Female,9.82189
+2002,SH_STA_MORT,Canada,,,,Female,10.37895
+2003,SH_STA_MORT,Canada,,,,Female,10.59334
+2004,SH_STA_MORT,Canada,,,,Female,10.65891
+2005,SH_STA_MORT,Canada,,,,Female,11.33054
+2006,SH_STA_MORT,Canada,,,,Female,10.9705
+2007,SH_STA_MORT,Canada,,,,Female,10.55652
+2008,SH_STA_MORT,Canada,,,,Female,12.77333
+2009,SH_STA_MORT,Canada,,,,Female,12.61252
+2010,SH_STA_MORT,Canada,,,,Female,11.94033
+2011,SH_STA_MORT,Canada,,,,Female,11.86201
+2012,SH_STA_MORT,Canada,,,,Female,11.82737
+2013,SH_STA_MORT,Canada,,,,Female,11.47995
+2014,SH_STA_MORT,Canada,,,,Female,11.68249
+2015,SH_STA_MORT,Canada,,,,Female,11.66109
+2016,SH_STA_MORT,Canada,,,,Female,12.52376
+2017,SH_STA_MORT,Canada,,,,Female,12.57896
+2018,SH_STA_MORT,Canada,,,,Female,11.00097
+2019,SH_STA_MORT,Canada,,,,Female,11.15627
+2020,SH_STA_MORT,Canada,,,,Female,11.01287
+2016,SH_STA_MORT,Croatia,,,,Female,5.34301
+2017,SH_STA_MORT,Croatia,,,,Female,5.35671
+2018,SH_STA_MORT,Croatia,,,,Female,4.89074
+2019,SH_STA_MORT,Croatia,,,,Female,4.53287
+2020,SH_STA_MORT,Croatia,,,,Female,4.81682
+2000,SH_STA_MORT,Cyprus,,,,Female,33.16145
+2001,SH_STA_MORT,Cyprus,,,,Female,32.51078
+2002,SH_STA_MORT,Cyprus,,,,Female,34.16544
+2003,SH_STA_MORT,Cyprus,,,,Female,31.23918
+2004,SH_STA_MORT,Cyprus,,,,Female,32.02489
+2005,SH_STA_MORT,Cyprus,,,,Female,27.31871
+2006,SH_STA_MORT,Cyprus,,,,Female,30.62386
+2007,SH_STA_MORT,Cyprus,,,,Female,25.90659
+2008,SH_STA_MORT,Cyprus,,,,Female,26.91146
+2009,SH_STA_MORT,Cyprus,,,,Female,30.41244
+2010,SH_STA_MORT,Cyprus,,,,Female,26.78463
+2011,SH_STA_MORT,Cyprus,,,,Female,30.74882
+2012,SH_STA_MORT,Cyprus,,,,Female,31.88332
+2013,SH_STA_MORT,Cyprus,,,,Female,36.32315
+2014,SH_STA_MORT,Cyprus,,,,Female,39.07214
+2015,SH_STA_MORT,Cyprus,,,,Female,42.39329
+2016,SH_STA_MORT,Cyprus,,,,Female,42.29249
+2017,SH_STA_MORT,Cyprus,,,,Female,49.37267
+2018,SH_STA_MORT,Cyprus,,,,Female,58.51631
+2019,SH_STA_MORT,Cyprus,,,,Female,63.81406
+2020,SH_STA_MORT,Cyprus,,,,Female,68.40659
+2000,SH_STA_MORT,Czechia,,,,Female,8.02829
+2001,SH_STA_MORT,Czechia,,,,Female,7.6298
+2002,SH_STA_MORT,Czechia,,,,Female,6.82948
+2003,SH_STA_MORT,Czechia,,,,Female,6.49944
+2004,SH_STA_MORT,Czechia,,,,Female,5.7283
+2005,SH_STA_MORT,Czechia,,,,Female,5.27713
+2006,SH_STA_MORT,Czechia,,,,Female,4.70081
+2007,SH_STA_MORT,Czechia,,,,Female,4.83644
+2008,SH_STA_MORT,Czechia,,,,Female,4.61854
+2009,SH_STA_MORT,Czechia,,,,Female,4.55842
+2010,SH_STA_MORT,Czechia,,,,Female,4.26018
+2011,SH_STA_MORT,Czechia,,,,Female,3.7356
+2012,SH_STA_MORT,Czechia,,,,Female,3.58579
+2013,SH_STA_MORT,Czechia,,,,Female,3.34811
+2014,SH_STA_MORT,Czechia,,,,Female,3.07678
+2015,SH_STA_MORT,Czechia,,,,Female,3.50145
+2016,SH_STA_MORT,Czechia,,,,Female,3.49701
+2017,SH_STA_MORT,Czechia,,,,Female,3.14178
+2018,SH_STA_MORT,Czechia,,,,Female,3.18415
+2019,SH_STA_MORT,Czechia,,,,Female,3.33524
+2020,SH_STA_MORT,Czechia,,,,Female,3.37402
+2000,SH_STA_MORT,Denmark,,,,Female,8.03473
+2001,SH_STA_MORT,Denmark,,,,Female,8.20325
+2002,SH_STA_MORT,Denmark,,,,Female,8.2107
+2003,SH_STA_MORT,Denmark,,,,Female,7.65942
+2004,SH_STA_MORT,Denmark,,,,Female,7.4246
+2005,SH_STA_MORT,Denmark,,,,Female,6.90089
+2006,SH_STA_MORT,Denmark,,,,Female,6.62904
+2007,SH_STA_MORT,Denmark,,,,Female,7.0482
+2008,SH_STA_MORT,Denmark,,,,Female,6.81858
+2009,SH_STA_MORT,Denmark,,,,Female,6.81576
+2010,SH_STA_MORT,Denmark,,,,Female,6.52436
+2011,SH_STA_MORT,Denmark,,,,Female,6.65463
+2012,SH_STA_MORT,Denmark,,,,Female,6.31267
+2013,SH_STA_MORT,Denmark,,,,Female,5.12522
+2014,SH_STA_MORT,Denmark,,,,Female,5.10783
+2015,SH_STA_MORT,Denmark,,,,Female,5.6015
+2016,SH_STA_MORT,Denmark,,,,Female,5.47726
+2017,SH_STA_MORT,Denmark,,,,Female,4.99946
+2018,SH_STA_MORT,Denmark,,,,Female,5.01327
+2019,SH_STA_MORT,Denmark,,,,Female,4.51945
+2020,SH_STA_MORT,Denmark,,,,Female,4.65772
+2000,SH_STA_MORT,Estonia,,,,Female,24.84995
+2001,SH_STA_MORT,Estonia,,,,Female,22.34298
+2002,SH_STA_MORT,Estonia,,,,Female,20.45115
+2003,SH_STA_MORT,Estonia,,,,Female,18.53104
+2004,SH_STA_MORT,Estonia,,,,Female,15.06184
+2005,SH_STA_MORT,Estonia,,,,Female,13.02089
+2006,SH_STA_MORT,Estonia,,,,Female,10.90623
+2007,SH_STA_MORT,Estonia,,,,Female,11.13366
+2008,SH_STA_MORT,Estonia,,,,Female,9.98989
+2009,SH_STA_MORT,Estonia,,,,Female,9.0404
+2010,SH_STA_MORT,Estonia,,,,Female,8.11217
+2011,SH_STA_MORT,Estonia,,,,Female,7.61888
+2012,SH_STA_MORT,Estonia,,,,Female,7.55165
+2013,SH_STA_MORT,Estonia,,,,Female,7.11857
+2014,SH_STA_MORT,Estonia,,,,Female,6.53779
+2015,SH_STA_MORT,Estonia,,,,Female,6.12336
+2016,SH_STA_MORT,Estonia,,,,Female,5.81033
+2017,SH_STA_MORT,Estonia,,,,Female,5.60521
+2018,SH_STA_MORT,Estonia,,,,Female,5.36849
+2019,SH_STA_MORT,Estonia,,,,Female,5.06545
+2020,SH_STA_MORT,Estonia,,,,Female,5.17964
+2000,SH_STA_MORT,Finland,,,,Female,7.45926
+2001,SH_STA_MORT,Finland,,,,Female,7.29106
+2002,SH_STA_MORT,Finland,,,,Female,7.35491
+2003,SH_STA_MORT,Finland,,,,Female,7.00695
+2004,SH_STA_MORT,Finland,,,,Female,7.26304
+2005,SH_STA_MORT,Finland,,,,Female,7.73781
+2006,SH_STA_MORT,Finland,,,,Female,6.68799
+2007,SH_STA_MORT,Finland,,,,Female,7.04549
+2008,SH_STA_MORT,Finland,,,,Female,6.98646
+2009,SH_STA_MORT,Finland,,,,Female,7.34076
+2010,SH_STA_MORT,Finland,,,,Female,7.02427
+2011,SH_STA_MORT,Finland,,,,Female,6.7516
+2012,SH_STA_MORT,Finland,,,,Female,7.32011
+2013,SH_STA_MORT,Finland,,,,Female,7.4594
+2014,SH_STA_MORT,Finland,,,,Female,6.80008
+2015,SH_STA_MORT,Finland,,,,Female,7.26056
+2016,SH_STA_MORT,Finland,,,,Female,7.8139
+2017,SH_STA_MORT,Finland,,,,Female,7.2902
+2018,SH_STA_MORT,Finland,,,,Female,7.67408
+2019,SH_STA_MORT,Finland,,,,Female,8.53353
+2020,SH_STA_MORT,Finland,,,,Female,8.3389
+2000,SH_STA_MORT,France,,,,Female,9.36139
+2001,SH_STA_MORT,France,,,,Female,9.31056
+2002,SH_STA_MORT,France,,,,Female,9.34359
+2003,SH_STA_MORT,France,,,,Female,9.19778
+2004,SH_STA_MORT,France,,,,Female,8.87818
+2005,SH_STA_MORT,France,,,,Female,8.78957
+2006,SH_STA_MORT,France,,,,Female,9.84275
+2007,SH_STA_MORT,France,,,,Female,8.42688
+2008,SH_STA_MORT,France,,,,Female,9.75709
+2009,SH_STA_MORT,France,,,,Female,9.79064
+2010,SH_STA_MORT,France,,,,Female,9.25681
+2011,SH_STA_MORT,France,,,,Female,9.20471
+2012,SH_STA_MORT,France,,,,Female,8.97359
+2013,SH_STA_MORT,France,,,,Female,8.8149
+2014,SH_STA_MORT,France,,,,Female,8.67966
+2015,SH_STA_MORT,France,,,,Female,7.59504
+2016,SH_STA_MORT,France,,,,Female,7.63907
+2017,SH_STA_MORT,France,,,,Female,7.54654
+2018,SH_STA_MORT,France,,,,Female,7.8024
+2019,SH_STA_MORT,France,,,,Female,7.73159
+2020,SH_STA_MORT,France,,,,Female,7.90908
+2000,SH_STA_MORT,Georgia,,,,Female,52.79703
+2001,SH_STA_MORT,Georgia,,,,Female,45.31298
+2002,SH_STA_MORT,Georgia,,,,Female,43.78577
+2003,SH_STA_MORT,Georgia,,,,Female,42.85638
+2004,SH_STA_MORT,Georgia,,,,Female,50.12504
+2005,SH_STA_MORT,Georgia,,,,Female,45.43146
+2006,SH_STA_MORT,Georgia,,,,Female,44.15136
+2007,SH_STA_MORT,Georgia,,,,Female,44.49256
+2008,SH_STA_MORT,Georgia,,,,Female,42.4794
+2009,SH_STA_MORT,Georgia,,,,Female,43.21849
+2010,SH_STA_MORT,Georgia,,,,Female,40.97121
+2011,SH_STA_MORT,Georgia,,,,Female,39.08727
+2012,SH_STA_MORT,Georgia,,,,Female,35.87252
+2013,SH_STA_MORT,Georgia,,,,Female,33.04759
+2014,SH_STA_MORT,Georgia,,,,Female,29.11075
+2015,SH_STA_MORT,Georgia,,,,Female,29.70143
+2016,SH_STA_MORT,Georgia,,,,Female,24.99027
+2017,SH_STA_MORT,Georgia,,,,Female,25.56853
+2018,SH_STA_MORT,Georgia,,,,Female,26.21116
+2019,SH_STA_MORT,Georgia,,,,Female,26.46745
+2020,SH_STA_MORT,Georgia,,,,Female,27.60825
+2000,SH_STA_MORT,Germany,,,,Female,7.16422
+2001,SH_STA_MORT,Germany,,,,Female,7.1677
+2002,SH_STA_MORT,Germany,,,,Female,7.25042
+2003,SH_STA_MORT,Germany,,,,Female,7.16236
+2004,SH_STA_MORT,Germany,,,,Female,6.87104
+2005,SH_STA_MORT,Germany,,,,Female,6.92619
+2006,SH_STA_MORT,Germany,,,,Female,5.39537
+2007,SH_STA_MORT,Germany,,,,Female,6.49305
+2008,SH_STA_MORT,Germany,,,,Female,6.45239
+2009,SH_STA_MORT,Germany,,,,Female,6.52029
+2010,SH_STA_MORT,Germany,,,,Female,6.16227
+2011,SH_STA_MORT,Germany,,,,Female,5.97195
+2012,SH_STA_MORT,Germany,,,,Female,5.49094
+2013,SH_STA_MORT,Germany,,,,Female,5.35029
+2014,SH_STA_MORT,Germany,,,,Female,4.7249
+2015,SH_STA_MORT,Germany,,,,Female,4.59303
+2016,SH_STA_MORT,Germany,,,,Female,5.00844
+2017,SH_STA_MORT,Germany,,,,Female,4.73293
+2018,SH_STA_MORT,Germany,,,,Female,4.70637
+2019,SH_STA_MORT,Germany,,,,Female,4.44996
+2020,SH_STA_MORT,Germany,,,,Female,4.42844
+2000,SH_STA_MORT,Greece,,,,Female,3.84926
+2001,SH_STA_MORT,Greece,,,,Female,3.63298
+2002,SH_STA_MORT,Greece,,,,Female,3.55042
+2003,SH_STA_MORT,Greece,,,,Female,3.55448
+2004,SH_STA_MORT,Greece,,,,Female,3.37581
+2005,SH_STA_MORT,Greece,,,,Female,3.21056
+2006,SH_STA_MORT,Greece,,,,Female,3.18367
+2007,SH_STA_MORT,Greece,,,,Female,3.27814
+2008,SH_STA_MORT,Greece,,,,Female,3.14202
+2009,SH_STA_MORT,Greece,,,,Female,3.17335
+2010,SH_STA_MORT,Greece,,,,Female,3.43147
+2011,SH_STA_MORT,Greece,,,,Female,3.76579
+2012,SH_STA_MORT,Greece,,,,Female,4.31213
+2013,SH_STA_MORT,Greece,,,,Female,4.48699
+2014,SH_STA_MORT,Greece,,,,Female,4.80726
+2015,SH_STA_MORT,Greece,,,,Female,5.36315
+2016,SH_STA_MORT,Greece,,,,Female,5.34747
+2017,SH_STA_MORT,Greece,,,,Female,5.84934
+2018,SH_STA_MORT,Greece,,,,Female,5.69884
+2019,SH_STA_MORT,Greece,,,,Female,5.96184
+2020,SH_STA_MORT,Greece,,,,Female,7.65435
+2000,SH_STA_MORT,Hungary,,,,Female,14.58796
+2001,SH_STA_MORT,Hungary,,,,Female,13.60227
+2002,SH_STA_MORT,Hungary,,,,Female,13.68591
+2003,SH_STA_MORT,Hungary,,,,Female,13.63103
+2004,SH_STA_MORT,Hungary,,,,Female,13.02964
+2005,SH_STA_MORT,Hungary,,,,Female,13.31743
+2006,SH_STA_MORT,Hungary,,,,Female,12.76716
+2007,SH_STA_MORT,Hungary,,,,Female,14.14619
+2008,SH_STA_MORT,Hungary,,,,Female,13.66655
+2009,SH_STA_MORT,Hungary,,,,Female,14.42269
+2010,SH_STA_MORT,Hungary,,,,Female,15.00206
+2011,SH_STA_MORT,Hungary,,,,Female,15.87683
+2012,SH_STA_MORT,Hungary,,,,Female,15.12668
+2013,SH_STA_MORT,Hungary,,,,Female,15.1418
+2014,SH_STA_MORT,Hungary,,,,Female,14.65625
+2015,SH_STA_MORT,Hungary,,,,Female,14.78401
+2016,SH_STA_MORT,Hungary,,,,Female,13.92771
+2017,SH_STA_MORT,Hungary,,,,Female,14.44919
+2018,SH_STA_MORT,Hungary,,,,Female,14.58146
+2019,SH_STA_MORT,Hungary,,,,Female,14.10705
+2020,SH_STA_MORT,Hungary,,,,Female,15.04889
+2000,SH_STA_MORT,Iceland,,,,Female,5.26678
+2001,SH_STA_MORT,Iceland,,,,Female,3.9944
+2002,SH_STA_MORT,Iceland,,,,Female,3.98375
+2003,SH_STA_MORT,Iceland,,,,Female,4.62588
+2004,SH_STA_MORT,Iceland,,,,Female,4.27065
+2005,SH_STA_MORT,Iceland,,,,Female,4.04386
+2006,SH_STA_MORT,Iceland,,,,Female,4.03048
+2007,SH_STA_MORT,Iceland,,,,Female,3.96795
+2008,SH_STA_MORT,Iceland,,,,Female,3.29018
+2009,SH_STA_MORT,Iceland,,,,Female,3.09828
+2010,SH_STA_MORT,Iceland,,,,Female,2.92667
+2011,SH_STA_MORT,Iceland,,,,Female,2.92115
+2012,SH_STA_MORT,Iceland,,,,Female,2.81886
+2013,SH_STA_MORT,Iceland,,,,Female,3.68281
+2014,SH_STA_MORT,Iceland,,,,Female,3.16017
+2015,SH_STA_MORT,Iceland,,,,Female,3.41913
+2016,SH_STA_MORT,Iceland,,,,Female,2.99803
+2017,SH_STA_MORT,Iceland,,,,Female,2.80497
+2018,SH_STA_MORT,Iceland,,,,Female,2.80324
+2019,SH_STA_MORT,Iceland,,,,Female,3.12294
+2020,SH_STA_MORT,Iceland,,,,Female,2.65442
+2000,SH_STA_MORT,India,,,,Female,384.44766
+2001,SH_STA_MORT,India,,,,Female,371.27457
+2002,SH_STA_MORT,India,,,,Female,329.44485
+2003,SH_STA_MORT,India,,,,Female,315.37613
+2004,SH_STA_MORT,India,,,,Female,301.25328
+2005,SH_STA_MORT,India,,,,Female,285.73058
+2006,SH_STA_MORT,India,,,,Female,248.16779
+2007,SH_STA_MORT,India,,,,Female,233.98418
+2008,SH_STA_MORT,India,,,,Female,220.52027
+2009,SH_STA_MORT,India,,,,Female,207.09815
+2010,SH_STA_MORT,India,,,,Female,178.68157
+2011,SH_STA_MORT,India,,,,Female,169.90392
+2012,SH_STA_MORT,India,,,,Female,161.75648
+2013,SH_STA_MORT,India,,,,Female,154.24476
+2014,SH_STA_MORT,India,,,,Female,134.85806
+2015,SH_STA_MORT,India,,,,Female,127.67558
+2016,SH_STA_MORT,India,,,,Female,121.16907
+2017,SH_STA_MORT,India,,,,Female,118.66109
+2018,SH_STA_MORT,India,,,,Female,115.7112
+2019,SH_STA_MORT,India,,,,Female,116.38938
+2020,SH_STA_MORT,India,,,,Female,102.65391
+2000,SH_STA_MORT,Ireland,,,,Female,10.44951
+2001,SH_STA_MORT,Ireland,,,,Female,9.31862
+2002,SH_STA_MORT,Ireland,,,,Female,8.45366
+2003,SH_STA_MORT,Ireland,,,,Female,7.42227
+2004,SH_STA_MORT,Ireland,,,,Female,7.98283
+2005,SH_STA_MORT,Ireland,,,,Female,8.60985
+2006,SH_STA_MORT,Ireland,,,,Female,7.90994
+2007,SH_STA_MORT,Ireland,,,,Female,7.02795
+2008,SH_STA_MORT,Ireland,,,,Female,7.58736
+2009,SH_STA_MORT,Ireland,,,,Female,7.14212
+2010,SH_STA_MORT,Ireland,,,,Female,6.54873
+2011,SH_STA_MORT,Ireland,,,,Female,7.41757
+2012,SH_STA_MORT,Ireland,,,,Female,7.04002
+2013,SH_STA_MORT,Ireland,,,,Female,6.45713
+2014,SH_STA_MORT,Ireland,,,,Female,6.27288
+2015,SH_STA_MORT,Ireland,,,,Female,6.48503
+2016,SH_STA_MORT,Ireland,,,,Female,5.34325
+2017,SH_STA_MORT,Ireland,,,,Female,5.58339
+2018,SH_STA_MORT,Ireland,,,,Female,5.43022
+2019,SH_STA_MORT,Ireland,,,,Female,5.5232
+2020,SH_STA_MORT,Ireland,,,,Female,4.98396
+2000,SH_STA_MORT,Israel,,,,Female,8.57349
+2001,SH_STA_MORT,Israel,,,,Female,6.78355
+2002,SH_STA_MORT,Israel,,,,Female,5.8629
+2003,SH_STA_MORT,Israel,,,,Female,4.85183
+2004,SH_STA_MORT,Israel,,,,Female,4.23622
+2005,SH_STA_MORT,Israel,,,,Female,4.07998
+2006,SH_STA_MORT,Israel,,,,Female,3.82406
+2007,SH_STA_MORT,Israel,,,,Female,3.62304
+2008,SH_STA_MORT,Israel,,,,Female,3.35557
+2009,SH_STA_MORT,Israel,,,,Female,3.13507
+2010,SH_STA_MORT,Israel,,,,Female,2.96403
+2011,SH_STA_MORT,Israel,,,,Female,3.00031
+2012,SH_STA_MORT,Israel,,,,Female,2.97756
+2013,SH_STA_MORT,Israel,,,,Female,2.91053
+2014,SH_STA_MORT,Israel,,,,Female,2.81275
+2015,SH_STA_MORT,Israel,,,,Female,2.91526
+2016,SH_STA_MORT,Israel,,,,Female,2.86446
+2017,SH_STA_MORT,Israel,,,,Female,2.661
+2018,SH_STA_MORT,Israel,,,,Female,2.66681
+2019,SH_STA_MORT,Israel,,,,Female,2.62696
+2020,SH_STA_MORT,Israel,,,,Female,2.83786
+2000,SH_STA_MORT,Italy,,,,Female,10.07318
+2001,SH_STA_MORT,Italy,,,,Female,9.7848
+2002,SH_STA_MORT,Italy,,,,Female,9.38142
+2003,SH_STA_MORT,Italy,,,,Female,8.80219
+2004,SH_STA_MORT,Italy,,,,Female,7.89939
+2005,SH_STA_MORT,Italy,,,,Female,7.74645
+2006,SH_STA_MORT,Italy,,,,Female,7.23907
+2007,SH_STA_MORT,Italy,,,,Female,7.07436
+2008,SH_STA_MORT,Italy,,,,Female,6.7582
+2009,SH_STA_MORT,Italy,,,,Female,6.93247
+2010,SH_STA_MORT,Italy,,,,Female,6.72922
+2011,SH_STA_MORT,Italy,,,,Female,6.84178
+2012,SH_STA_MORT,Italy,,,,Female,6.78469
+2013,SH_STA_MORT,Italy,,,,Female,6.78029
+2014,SH_STA_MORT,Italy,,,,Female,6.46279
+2015,SH_STA_MORT,Italy,,,,Female,6.50161
+2016,SH_STA_MORT,Italy,,,,Female,6.31546
+2017,SH_STA_MORT,Italy,,,,Female,6.36589
+2018,SH_STA_MORT,Italy,,,,Female,4.88753
+2019,SH_STA_MORT,Italy,,,,Female,4.72368
+2020,SH_STA_MORT,Italy,,,,Female,4.59094
+2000,SH_STA_MORT,Japan,,,,Female,8.52669
+2001,SH_STA_MORT,Japan,,,,Female,8.17104
+2002,SH_STA_MORT,Japan,,,,Female,7.73464
+2003,SH_STA_MORT,Japan,,,,Female,7.57836
+2004,SH_STA_MORT,Japan,,,,Female,7.32104
+2005,SH_STA_MORT,Japan,,,,Female,7.18475
+2006,SH_STA_MORT,Japan,,,,Female,6.57077
+2007,SH_STA_MORT,Japan,,,,Female,6.16566
+2008,SH_STA_MORT,Japan,,,,Female,6.01124
+2009,SH_STA_MORT,Japan,,,,Female,5.88176
+2010,SH_STA_MORT,Japan,,,,Female,5.65695
+2011,SH_STA_MORT,Japan,,,,Female,5.48594
+2012,SH_STA_MORT,Japan,,,,Female,5.30214
+2013,SH_STA_MORT,Japan,,,,Female,5.13746
+2014,SH_STA_MORT,Japan,,,,Female,5.10166
+2015,SH_STA_MORT,Japan,,,,Female,4.84728
+2016,SH_STA_MORT,Japan,,,,Female,4.87024
+2017,SH_STA_MORT,Japan,,,,Female,5.05992
+2018,SH_STA_MORT,Japan,,,,Female,5.19423
+2019,SH_STA_MORT,Japan,,,,Female,4.24892
+2020,SH_STA_MORT,Japan,,,,Female,4.31491
+2000,SH_STA_MORT,Kazakhstan,,,,Female,56.33923
+2001,SH_STA_MORT,Kazakhstan,,,,Female,51.67359
+2002,SH_STA_MORT,Kazakhstan,,,,Female,49.17224
+2003,SH_STA_MORT,Kazakhstan,,,,Female,41.72062
+2004,SH_STA_MORT,Kazakhstan,,,,Female,35.98777
+2005,SH_STA_MORT,Kazakhstan,,,,Female,35.53063
+2006,SH_STA_MORT,Kazakhstan,,,,Female,30.56539
+2007,SH_STA_MORT,Kazakhstan,,,,Female,28.01561
+2008,SH_STA_MORT,Kazakhstan,,,,Female,25.93166
+2009,SH_STA_MORT,Kazakhstan,,,,Female,23.01158
+2010,SH_STA_MORT,Kazakhstan,,,,Female,19.63789
+2011,SH_STA_MORT,Kazakhstan,,,,Female,16.88869
+2012,SH_STA_MORT,Kazakhstan,,,,Female,14.41196
+2013,SH_STA_MORT,Kazakhstan,,,,Female,13.01082
+2014,SH_STA_MORT,Kazakhstan,,,,Female,12.98815
+2015,SH_STA_MORT,Kazakhstan,,,,Female,12.55368
+2016,SH_STA_MORT,Kazakhstan,,,,Female,13.40244
+2017,SH_STA_MORT,Kazakhstan,,,,Female,13.40551
+2018,SH_STA_MORT,Kazakhstan,,,,Female,13.80216
+2019,SH_STA_MORT,Kazakhstan,,,,Female,14.01699
+2020,SH_STA_MORT,Kazakhstan,,,,Female,13.38363
+2000,SH_STA_MORT,Republic of Korea,,,,Female,15.5411
+2001,SH_STA_MORT,Republic of Korea,,,,Female,15.48866
+2002,SH_STA_MORT,Republic of Korea,,,,Female,16.55357
+2003,SH_STA_MORT,Republic of Korea,,,,Female,13.26107
+2004,SH_STA_MORT,Republic of Korea,,,,Female,12.77184
+2005,SH_STA_MORT,Republic of Korea,,,,Female,12.40634
+2006,SH_STA_MORT,Republic of Korea,,,,Female,11.1831
+2007,SH_STA_MORT,Republic of Korea,,,,Female,10.09653
+2008,SH_STA_MORT,Republic of Korea,,,,Female,9.40624
+2009,SH_STA_MORT,Republic of Korea,,,,Female,8.89975
+2010,SH_STA_MORT,Republic of Korea,,,,Female,8.2382
+2011,SH_STA_MORT,Republic of Korea,,,,Female,9.60359
+2012,SH_STA_MORT,Republic of Korea,,,,Female,9.11878
+2013,SH_STA_MORT,Republic of Korea,,,,Female,6.94965
+2014,SH_STA_MORT,Republic of Korea,,,,Female,6.42773
+2015,SH_STA_MORT,Republic of Korea,,,,Female,6.20388
+2016,SH_STA_MORT,Republic of Korea,,,,Female,6.0841
+2017,SH_STA_MORT,Republic of Korea,,,,Female,6.18498
+2018,SH_STA_MORT,Republic of Korea,,,,Female,6.41181
+2019,SH_STA_MORT,Republic of Korea,,,,Female,6.36005
+2020,SH_STA_MORT,Republic of Korea,,,,Female,8.11562
+2000,SH_STA_MORT,Kyrgyzstan,,,,Female,86.86123
+2001,SH_STA_MORT,Kyrgyzstan,,,,Female,86.4951
+2002,SH_STA_MORT,Kyrgyzstan,,,,Female,84.72025
+2003,SH_STA_MORT,Kyrgyzstan,,,,Female,83.66336
+2004,SH_STA_MORT,Kyrgyzstan,,,,Female,84.50026
+2005,SH_STA_MORT,Kyrgyzstan,,,,Female,83.38379
+2006,SH_STA_MORT,Kyrgyzstan,,,,Female,77.9241
+2007,SH_STA_MORT,Kyrgyzstan,,,,Female,84.07946
+2008,SH_STA_MORT,Kyrgyzstan,,,,Female,78.28426
+2009,SH_STA_MORT,Kyrgyzstan,,,,Female,70.83901
+2010,SH_STA_MORT,Kyrgyzstan,,,,Female,71.67822
+2011,SH_STA_MORT,Kyrgyzstan,,,,Female,65.85657
+2012,SH_STA_MORT,Kyrgyzstan,,,,Female,62.21809
+2013,SH_STA_MORT,Kyrgyzstan,,,,Female,65.70327
+2014,SH_STA_MORT,Kyrgyzstan,,,,Female,59.71467
+2015,SH_STA_MORT,Kyrgyzstan,,,,Female,61.29533
+2016,SH_STA_MORT,Kyrgyzstan,,,,Female,53.22415
+2017,SH_STA_MORT,Kyrgyzstan,,,,Female,52.60601
+2018,SH_STA_MORT,Kyrgyzstan,,,,Female,53.67607
+2019,SH_STA_MORT,Kyrgyzstan,,,,Female,47.4402
+2020,SH_STA_MORT,Kyrgyzstan,,,,Female,50.38244
+2000,SH_STA_MORT,Latvia,,,,Female,31.95239
+2001,SH_STA_MORT,Latvia,,,,Female,32.08755
+2002,SH_STA_MORT,Latvia,,,,Female,28.11077
+2003,SH_STA_MORT,Latvia,,,,Female,34.16283
+2004,SH_STA_MORT,Latvia,,,,Female,31.14076
+2005,SH_STA_MORT,Latvia,,,,Female,28.01326
+2006,SH_STA_MORT,Latvia,,,,Female,26.02717
+2007,SH_STA_MORT,Latvia,,,,Female,24.50617
+2008,SH_STA_MORT,Latvia,,,,Female,22.40285
+2009,SH_STA_MORT,Latvia,,,,Female,23.48106
+2010,SH_STA_MORT,Latvia,,,,Female,25.41326
+2011,SH_STA_MORT,Latvia,,,,Female,24.45541
+2012,SH_STA_MORT,Latvia,,,,Female,23.06033
+2013,SH_STA_MORT,Latvia,,,,Female,21.03054
+2014,SH_STA_MORT,Latvia,,,,Female,22.3484
+2015,SH_STA_MORT,Latvia,,,,Female,22.23746
+2016,SH_STA_MORT,Latvia,,,,Female,21.44729
+2017,SH_STA_MORT,Latvia,,,,Female,21.79118
+2018,SH_STA_MORT,Latvia,,,,Female,23.36722
+2019,SH_STA_MORT,Latvia,,,,Female,21.80957
+2020,SH_STA_MORT,Latvia,,,,Female,18.32162
+2000,SH_STA_MORT,Lithuania,,,,Female,17.54245
+2001,SH_STA_MORT,Lithuania,,,,Female,18.14229
+2002,SH_STA_MORT,Lithuania,,,,Female,14.35496
+2003,SH_STA_MORT,Lithuania,,,,Female,12.99399
+2004,SH_STA_MORT,Lithuania,,,,Female,12.03094
+2005,SH_STA_MORT,Lithuania,,,,Female,11.37465
+2006,SH_STA_MORT,Lithuania,,,,Female,13.44831
+2007,SH_STA_MORT,Lithuania,,,,Female,12.35622
+2008,SH_STA_MORT,Lithuania,,,,Female,11.09314
+2009,SH_STA_MORT,Lithuania,,,,Female,9.92503
+2010,SH_STA_MORT,Lithuania,,,,Female,9.67792
+2011,SH_STA_MORT,Lithuania,,,,Female,8.55968
+2012,SH_STA_MORT,Lithuania,,,,Female,8.04017
+2013,SH_STA_MORT,Lithuania,,,,Female,7.92503
+2014,SH_STA_MORT,Lithuania,,,,Female,8.70464
+2015,SH_STA_MORT,Lithuania,,,,Female,8.42008
+2016,SH_STA_MORT,Lithuania,,,,Female,8.14155
+2017,SH_STA_MORT,Lithuania,,,,Female,8.03496
+2018,SH_STA_MORT,Lithuania,,,,Female,7.84595
+2019,SH_STA_MORT,Lithuania,,,,Female,7.35745
+2020,SH_STA_MORT,Lithuania,,,,Female,8.66048
+2000,SH_STA_MORT,Luxembourg,,,,Female,9.25856
+2001,SH_STA_MORT,Luxembourg,,,,Female,11.4685
+2002,SH_STA_MORT,Luxembourg,,,,Female,11.21259
+2003,SH_STA_MORT,Luxembourg,,,,Female,12.27647
+2004,SH_STA_MORT,Luxembourg,,,,Female,10.47353
+2005,SH_STA_MORT,Luxembourg,,,,Female,10.6829
+2006,SH_STA_MORT,Luxembourg,,,,Female,11.38945
+2007,SH_STA_MORT,Luxembourg,,,,Female,9.22603
+2008,SH_STA_MORT,Luxembourg,,,,Female,10.32282
+2009,SH_STA_MORT,Luxembourg,,,,Female,8.45208
+2010,SH_STA_MORT,Luxembourg,,,,Female,8.27141
+2011,SH_STA_MORT,Luxembourg,,,,Female,6.95618
+2012,SH_STA_MORT,Luxembourg,,,,Female,8.47788
+2013,SH_STA_MORT,Luxembourg,,,,Female,8.27981
+2014,SH_STA_MORT,Luxembourg,,,,Female,6.28768
+2015,SH_STA_MORT,Luxembourg,,,,Female,6.92088
+2016,SH_STA_MORT,Luxembourg,,,,Female,6.3304
+2017,SH_STA_MORT,Luxembourg,,,,Female,6.72579
+2018,SH_STA_MORT,Luxembourg,,,,Female,6.62667
+2019,SH_STA_MORT,Luxembourg,,,,Female,6.41366
+2020,SH_STA_MORT,Luxembourg,,,,Female,6.4855
+2000,SH_STA_MORT,Malta,,,,Female,10.48433
+2001,SH_STA_MORT,Malta,,,,Female,9.24934
+2002,SH_STA_MORT,Malta,,,,Female,9.62948
+2003,SH_STA_MORT,Malta,,,,Female,9.00517
+2004,SH_STA_MORT,Malta,,,,Female,8.40827
+2005,SH_STA_MORT,Malta,,,,Female,7.63634
+2006,SH_STA_MORT,Malta,,,,Female,7.22085
+2007,SH_STA_MORT,Malta,,,,Female,6.65397
+2008,SH_STA_MORT,Malta,,,,Female,6.57028
+2009,SH_STA_MORT,Malta,,,,Female,5.71027
+2010,SH_STA_MORT,Malta,,,,Female,5.32015
+2011,SH_STA_MORT,Malta,,,,Female,6.11645
+2012,SH_STA_MORT,Malta,,,,Female,5.00761
+2013,SH_STA_MORT,Malta,,,,Female,4.47759
+2014,SH_STA_MORT,Malta,,,,Female,4.40949
+2015,SH_STA_MORT,Malta,,,,Female,4.19629
+2016,SH_STA_MORT,Malta,,,,Female,3.29983
+2017,SH_STA_MORT,Malta,,,,Female,3.78224
+2018,SH_STA_MORT,Malta,,,,Female,4.05398
+2019,SH_STA_MORT,Malta,,,,Female,4.0504
+2020,SH_STA_MORT,Malta,,,,Female,2.89278
+2000,SH_STA_MORT,Mexico,,,,Female,56.53202
+2001,SH_STA_MORT,Mexico,,,,Female,56.73567
+2002,SH_STA_MORT,Mexico,,,,Female,56.87764
+2003,SH_STA_MORT,Mexico,,,,Female,52.07416
+2004,SH_STA_MORT,Mexico,,,,Female,52.6147
+2005,SH_STA_MORT,Mexico,,,,Female,53.3331
+2006,SH_STA_MORT,Mexico,,,,Female,54.39738
+2007,SH_STA_MORT,Mexico,,,,Female,55.84242
+2008,SH_STA_MORT,Mexico,,,,Female,56.82666
+2009,SH_STA_MORT,Mexico,,,,Female,51.42725
+2010,SH_STA_MORT,Mexico,,,,Female,51.22866
+2011,SH_STA_MORT,Mexico,,,,Female,50.28834
+2012,SH_STA_MORT,Mexico,,,,Female,49.23353
+2013,SH_STA_MORT,Mexico,,,,Female,48.88598
+2014,SH_STA_MORT,Mexico,,,,Female,49.56948
+2015,SH_STA_MORT,Mexico,,,,Female,52.02668
+2016,SH_STA_MORT,Mexico,,,,Female,49.07618
+2017,SH_STA_MORT,Mexico,,,,Female,52.33693
+2018,SH_STA_MORT,Mexico,,,,Female,55.52821
+2019,SH_STA_MORT,Mexico,,,,Female,57.9698
+2020,SH_STA_MORT,Mexico,,,,Female,59.12507
+2000,SH_STA_MORT,Moldova,,,,Female,48.90637
+2001,SH_STA_MORT,Moldova,,,,Female,43.63405
+2002,SH_STA_MORT,Moldova,,,,Female,40.18088
+2003,SH_STA_MORT,Moldova,,,,Female,34.17322
+2004,SH_STA_MORT,Moldova,,,,Female,28.23497
+2005,SH_STA_MORT,Moldova,,,,Female,30.09974
+2006,SH_STA_MORT,Moldova,,,,Female,26.57547
+2007,SH_STA_MORT,Moldova,,,,Female,23.42879
+2008,SH_STA_MORT,Moldova,,,,Female,20.71729
+2009,SH_STA_MORT,Moldova,,,,Female,18.54885
+2010,SH_STA_MORT,Moldova,,,,Female,18.12744
+2011,SH_STA_MORT,Moldova,,,,Female,18.06624
+2012,SH_STA_MORT,Moldova,,,,Female,17.51796
+2013,SH_STA_MORT,Moldova,,,,Female,17.22634
+2014,SH_STA_MORT,Moldova,,,,Female,17.85906
+2015,SH_STA_MORT,Moldova,,,,Female,16.70353
+2016,SH_STA_MORT,Moldova,,,,Female,15.00122
+2017,SH_STA_MORT,Moldova,,,,Female,14.69324
+2018,SH_STA_MORT,Moldova,,,,Female,14.48033
+2019,SH_STA_MORT,Moldova,,,,Female,12.09517
+2020,SH_STA_MORT,Moldova,,,,Female,12.26477
+2000,SH_STA_MORT,Montenegro,,,,Female,10.53046
+2001,SH_STA_MORT,Montenegro,,,,Female,9.46954
+2002,SH_STA_MORT,Montenegro,,,,Female,9.41364
+2003,SH_STA_MORT,Montenegro,,,,Female,9.39258
+2004,SH_STA_MORT,Montenegro,,,,Female,9.38755
+2005,SH_STA_MORT,Montenegro,,,,Female,9.61711
+2006,SH_STA_MORT,Montenegro,,,,Female,9.42944
+2007,SH_STA_MORT,Montenegro,,,,Female,8.07606
+2008,SH_STA_MORT,Montenegro,,,,Female,8.36149
+2009,SH_STA_MORT,Montenegro,,,,Female,8.39503
+2010,SH_STA_MORT,Montenegro,,,,Female,7.19156
+2011,SH_STA_MORT,Montenegro,,,,Female,6.96968
+2012,SH_STA_MORT,Montenegro,,,,Female,7.18833
+2013,SH_STA_MORT,Montenegro,,,,Female,6.47137
+2014,SH_STA_MORT,Montenegro,,,,Female,6.09441
+2015,SH_STA_MORT,Montenegro,,,,Female,6.11491
+2016,SH_STA_MORT,Montenegro,,,,Female,5.88192
+2017,SH_STA_MORT,Montenegro,,,,Female,5.45676
+2018,SH_STA_MORT,Montenegro,,,,Female,5.3854
+2019,SH_STA_MORT,Montenegro,,,,Female,5.81691
+2020,SH_STA_MORT,Montenegro,,,,Female,6.17443
+2000,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,12.96045
+2001,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,12.52177
+2002,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,12.52637
+2003,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,11.89511
+2004,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,11.0667
+2005,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,10.47869
+2006,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,9.21644
+2007,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,8.43573
+2008,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,7.73913
+2009,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,7.06541
+2010,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,6.26842
+2011,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,6.4952
+2012,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,6.08938
+2013,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,5.72644
+2014,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,5.39129
+2015,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,5.15528
+2016,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,5.16781
+2017,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,4.97639
+2018,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,3.99093
+2019,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,3.94088
+2020,SH_STA_MORT,Netherlands (Kingdom of the),,,,Female,4.31174
+2000,SH_STA_MORT,New Zealand,,,,Female,11.09168
+2001,SH_STA_MORT,New Zealand,,,,Female,11.01742
+2002,SH_STA_MORT,New Zealand,,,,Female,10.22788
+2003,SH_STA_MORT,New Zealand,,,,Female,10.36372
+2004,SH_STA_MORT,New Zealand,,,,Female,11.50959
+2005,SH_STA_MORT,New Zealand,,,,Female,10.00711
+2006,SH_STA_MORT,New Zealand,,,,Female,10.78807
+2007,SH_STA_MORT,New Zealand,,,,Female,10.25582
+2008,SH_STA_MORT,New Zealand,,,,Female,9.54819
+2009,SH_STA_MORT,New Zealand,,,,Female,10.1779
+2010,SH_STA_MORT,New Zealand,,,,Female,9.88776
+2011,SH_STA_MORT,New Zealand,,,,Female,10.40768
+2012,SH_STA_MORT,New Zealand,,,,Female,9.58178
+2013,SH_STA_MORT,New Zealand,,,,Female,7.8599
+2014,SH_STA_MORT,New Zealand,,,,Female,7.97722
+2015,SH_STA_MORT,New Zealand,,,,Female,8.65023
+2016,SH_STA_MORT,New Zealand,,,,Female,7.81435
+2017,SH_STA_MORT,New Zealand,,,,Female,7.3936
+2018,SH_STA_MORT,New Zealand,,,,Female,7.88525
+2019,SH_STA_MORT,New Zealand,,,,Female,7.21962
+2020,SH_STA_MORT,New Zealand,,,,Female,7.03044
+2000,SH_STA_MORT,Norway,,,,Female,5.73014
+2001,SH_STA_MORT,Norway,,,,Female,5.2088
+2002,SH_STA_MORT,Norway,,,,Female,5.14449
+2003,SH_STA_MORT,Norway,,,,Female,5.34536
+2004,SH_STA_MORT,Norway,,,,Female,5.53192
+2005,SH_STA_MORT,Norway,,,,Female,5.51651
+2006,SH_STA_MORT,Norway,,,,Female,5.15048
+2007,SH_STA_MORT,Norway,,,,Female,4.95254
+2008,SH_STA_MORT,Norway,,,,Female,4.50723
+2009,SH_STA_MORT,Norway,,,,Female,4.27285
+2010,SH_STA_MORT,Norway,,,,Female,4.02086
+2011,SH_STA_MORT,Norway,,,,Female,3.81889
+2012,SH_STA_MORT,Norway,,,,Female,3.19265
+2013,SH_STA_MORT,Norway,,,,Female,3.13226
+2014,SH_STA_MORT,Norway,,,,Female,2.58239
+2015,SH_STA_MORT,Norway,,,,Female,2.40531
+2016,SH_STA_MORT,Norway,,,,Female,2.23243
+2017,SH_STA_MORT,Norway,,,,Female,2.15293
+2018,SH_STA_MORT,Norway,,,,Female,1.9932
+2019,SH_STA_MORT,Norway,,,,Female,1.94227
+2020,SH_STA_MORT,Norway,,,,Female,1.66374
+2000,SH_STA_MORT,Poland,,,,Female,7.78266
+2001,SH_STA_MORT,Poland,,,,Female,6.95141
+2002,SH_STA_MORT,Poland,,,,Female,6.33524
+2003,SH_STA_MORT,Poland,,,,Female,5.7707
+2004,SH_STA_MORT,Poland,,,,Female,5.33928
+2005,SH_STA_MORT,Poland,,,,Female,4.81798
+2006,SH_STA_MORT,Poland,,,,Female,4.30405
+2007,SH_STA_MORT,Poland,,,,Female,3.81595
+2008,SH_STA_MORT,Poland,,,,Female,3.26435
+2009,SH_STA_MORT,Poland,,,,Female,2.95934
+2010,SH_STA_MORT,Poland,,,,Female,2.53814
+2011,SH_STA_MORT,Poland,,,,Female,2.54214
+2012,SH_STA_MORT,Poland,,,,Female,2.38044
+2013,SH_STA_MORT,Poland,,,,Female,2.28899
+2014,SH_STA_MORT,Poland,,,,Female,2.16563
+2015,SH_STA_MORT,Poland,,,,Female,2.10058
+2016,SH_STA_MORT,Poland,,,,Female,1.98213
+2017,SH_STA_MORT,Poland,,,,Female,1.88476
+2018,SH_STA_MORT,Poland,,,,Female,1.86507
+2019,SH_STA_MORT,Poland,,,,Female,1.88953
+2020,SH_STA_MORT,Poland,,,,Female,1.95947
+2000,SH_STA_MORT,Portugal,,,,Female,10.82362
+2001,SH_STA_MORT,Portugal,,,,Female,9.49163
+2002,SH_STA_MORT,Portugal,,,,Female,9.06961
+2003,SH_STA_MORT,Portugal,,,,Female,8.99618
+2004,SH_STA_MORT,Portugal,,,,Female,8.78923
+2005,SH_STA_MORT,Portugal,,,,Female,8.96024
+2006,SH_STA_MORT,Portugal,,,,Female,8.69011
+2007,SH_STA_MORT,Portugal,,,,Female,9.30018
+2008,SH_STA_MORT,Portugal,,,,Female,9.16597
+2009,SH_STA_MORT,Portugal,,,,Female,9.82824
+2010,SH_STA_MORT,Portugal,,,,Female,9.90078
+2011,SH_STA_MORT,Portugal,,,,Female,9.48787
+2012,SH_STA_MORT,Portugal,,,,Female,10.35081
+2013,SH_STA_MORT,Portugal,,,,Female,8.72879
+2014,SH_STA_MORT,Portugal,,,,Female,8.81218
+2015,SH_STA_MORT,Portugal,,,,Female,10.40371
+2016,SH_STA_MORT,Portugal,,,,Female,10.5471
+2017,SH_STA_MORT,Portugal,,,,Female,11.16626
+2018,SH_STA_MORT,Portugal,,,,Female,10.98013
+2019,SH_STA_MORT,Portugal,,,,Female,11.33437
+2020,SH_STA_MORT,Portugal,,,,Female,11.79945
+2000,SH_STA_MORT,Romania,,,,Female,50.21136
+2001,SH_STA_MORT,Romania,,,,Female,47.50526
+2002,SH_STA_MORT,Romania,,,,Female,47.09216
+2003,SH_STA_MORT,Romania,,,,Female,48.16796
+2004,SH_STA_MORT,Romania,,,,Female,45.6559
+2005,SH_STA_MORT,Romania,,,,Female,36.82855
+2006,SH_STA_MORT,Romania,,,,Female,30.8004
+2007,SH_STA_MORT,Romania,,,,Female,25.54304
+2008,SH_STA_MORT,Romania,,,,Female,23.45434
+2009,SH_STA_MORT,Romania,,,,Female,21.14933
+2010,SH_STA_MORT,Romania,,,,Female,22.20897
+2011,SH_STA_MORT,Romania,,,,Female,18.86594
+2012,SH_STA_MORT,Romania,,,,Female,17.88736
+2013,SH_STA_MORT,Romania,,,,Female,17.00038
+2014,SH_STA_MORT,Romania,,,,Female,15.441
+2015,SH_STA_MORT,Romania,,,,Female,14.7569
+2016,SH_STA_MORT,Romania,,,,Female,15.66287
+2017,SH_STA_MORT,Romania,,,,Female,12.75659
+2018,SH_STA_MORT,Romania,,,,Female,11.40143
+2019,SH_STA_MORT,Romania,,,,Female,10.35986
+2020,SH_STA_MORT,Romania,,,,Female,10.0708
+2000,SH_STA_MORT,Serbia,,,,Female,17.81678
+2001,SH_STA_MORT,Serbia,,,,Female,14.8507
+2002,SH_STA_MORT,Serbia,,,,Female,14.66891
+2003,SH_STA_MORT,Serbia,,,,Female,14.42046
+2004,SH_STA_MORT,Serbia,,,,Female,15.4618
+2005,SH_STA_MORT,Serbia,,,,Female,16.12241
+2006,SH_STA_MORT,Serbia,,,,Female,15.92018
+2007,SH_STA_MORT,Serbia,,,,Female,15.40794
+2008,SH_STA_MORT,Serbia,,,,Female,14.86783
+2009,SH_STA_MORT,Serbia,,,,Female,14.6713
+2010,SH_STA_MORT,Serbia,,,,Female,14.23741
+2011,SH_STA_MORT,Serbia,,,,Female,13.9629
+2012,SH_STA_MORT,Serbia,,,,Female,13.45022
+2013,SH_STA_MORT,Serbia,,,,Female,12.95013
+2014,SH_STA_MORT,Serbia,,,,Female,12.70803
+2015,SH_STA_MORT,Serbia,,,,Female,12.68457
+2016,SH_STA_MORT,Serbia,,,,Female,12.11222
+2017,SH_STA_MORT,Serbia,,,,Female,12.00503
+2018,SH_STA_MORT,Serbia,,,,Female,11.46952
+2019,SH_STA_MORT,Serbia,,,,Female,10.47125
+2020,SH_STA_MORT,Serbia,,,,Female,10.18134
+2000,SH_STA_MORT,Slovakia,,,,Female,8.55377
+2001,SH_STA_MORT,Slovakia,,,,Female,9.34733
+2002,SH_STA_MORT,Slovakia,,,,Female,8.61392
+2003,SH_STA_MORT,Slovakia,,,,Female,8.28518
+2004,SH_STA_MORT,Slovakia,,,,Female,7.63127
+2005,SH_STA_MORT,Slovakia,,,,Female,7.436
+2006,SH_STA_MORT,Slovakia,,,,Female,6.61311
+2007,SH_STA_MORT,Slovakia,,,,Female,7.2473
+2008,SH_STA_MORT,Slovakia,,,,Female,5.88334
+2009,SH_STA_MORT,Slovakia,,,,Female,5.47262
+2010,SH_STA_MORT,Slovakia,,,,Female,5.08949
+2011,SH_STA_MORT,Slovakia,,,,Female,5.05522
+2012,SH_STA_MORT,Slovakia,,,,Female,5.25491
+2013,SH_STA_MORT,Slovakia,,,,Female,5.4865
+2014,SH_STA_MORT,Slovakia,,,,Female,5.21655
+2015,SH_STA_MORT,Slovakia,,,,Female,4.88799
+2016,SH_STA_MORT,Slovakia,,,,Female,5.11487
+2017,SH_STA_MORT,Slovakia,,,,Female,4.79292
+2018,SH_STA_MORT,Slovakia,,,,Female,4.65018
+2019,SH_STA_MORT,Slovakia,,,,Female,4.8564
+2020,SH_STA_MORT,Slovakia,,,,Female,4.82467
+2000,SH_STA_MORT,Viet Nam,,,,Female,97.35673
+2001,SH_STA_MORT,Viet Nam,,,,Female,84.14784
+2002,SH_STA_MORT,Viet Nam,,,,Female,81.79411
+2003,SH_STA_MORT,Viet Nam,,,,Female,80.49448
+2004,SH_STA_MORT,Viet Nam,,,,Female,77.9492
+2005,SH_STA_MORT,Viet Nam,,,,Female,78.28167
+2006,SH_STA_MORT,Viet Nam,,,,Female,79.64638
+2007,SH_STA_MORT,Viet Nam,,,,Female,79.58053
+2008,SH_STA_MORT,Viet Nam,,,,Female,81.10009
+2009,SH_STA_MORT,Viet Nam,,,,Female,84.24475
+2010,SH_STA_MORT,Viet Nam,,,,Female,87.62043
+2011,SH_STA_MORT,Viet Nam,,,,Female,90.28688
+2012,SH_STA_MORT,Viet Nam,,,,Female,94.24543
+2013,SH_STA_MORT,Viet Nam,,,,Female,98.32295
+2014,SH_STA_MORT,Viet Nam,,,,Female,103.44921
+2015,SH_STA_MORT,Viet Nam,,,,Female,109.16439
+2016,SH_STA_MORT,Viet Nam,,,,Female,116.05257
+2017,SH_STA_MORT,Viet Nam,,,,Female,123.82824
+2018,SH_STA_MORT,Viet Nam,,,,Female,130.01153
+2019,SH_STA_MORT,Viet Nam,,,,Female,133.75627
+2020,SH_STA_MORT,Viet Nam,,,,Female,124.25708
+2000,SH_STA_MORT,Slovenia,,,,Female,11.92772
+2001,SH_STA_MORT,Slovenia,,,,Female,8.78397
+2002,SH_STA_MORT,Slovenia,,,,Female,8.48001
+2003,SH_STA_MORT,Slovenia,,,,Female,8.78605
+2004,SH_STA_MORT,Slovenia,,,,Female,9.56221
+2005,SH_STA_MORT,Slovenia,,,,Female,9.24344
+2006,SH_STA_MORT,Slovenia,,,,Female,7.69201
+2007,SH_STA_MORT,Slovenia,,,,Female,6.95828
+2008,SH_STA_MORT,Slovenia,,,,Female,5.93653
+2009,SH_STA_MORT,Slovenia,,,,Female,6.8378
+2010,SH_STA_MORT,Slovenia,,,,Female,6.03675
+2011,SH_STA_MORT,Slovenia,,,,Female,6.08541
+2012,SH_STA_MORT,Slovenia,,,,Female,5.83472
+2013,SH_STA_MORT,Slovenia,,,,Female,5.4229
+2014,SH_STA_MORT,Slovenia,,,,Female,5.01055
+2015,SH_STA_MORT,Slovenia,,,,Female,5.03828
+2016,SH_STA_MORT,Slovenia,,,,Female,4.6334
+2017,SH_STA_MORT,Slovenia,,,,Female,4.43436
+2018,SH_STA_MORT,Slovenia,,,,Female,4.36618
+2019,SH_STA_MORT,Slovenia,,,,Female,3.46777
+2020,SH_STA_MORT,Slovenia,,,,Female,4.53314
+2018,SH_STA_MORT,Uzbekistan,,,,Female,30.71034
+2019,SH_STA_MORT,Uzbekistan,,,,Female,29.839
+2020,SH_STA_MORT,Uzbekistan,,,,Female,30.17849
+2020,SH_STA_MORT,Uzbekistan,,,,Female,30.17849

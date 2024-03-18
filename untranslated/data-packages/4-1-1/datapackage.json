@@ -12,7 +12,120 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_TOT_PRFL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Denmark",
+                "Albania",
+                "Mexico",
+                "United Arab Emirates",
+                "Estonia",
+                "Finland",
+                "Türkiye",
+                "Azerbaijan",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Australia",
+                "Ukraine",
+                "Austria",
+                "North Macedonia",
+                "India",
+                "Republic of Moldova",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Montenegro",
+                "Armenia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Belarus",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Norway",
+                "Cyprus",
+                "Czechia",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LOWSEC",
+                "GRAD23",
+                "PRIMAR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SKILL_MATH",
+                "SKILL_READ",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

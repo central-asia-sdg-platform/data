@@ -1,1 +1,118 @@
-Year,Value
+Year,SeriesCode,Country,Age,Sex,Value
+2018,VC_VAW_MARR,Albania,15+,Female,5.1
+2018,VC_VAW_MARR,Albania,15-49,Female,6.2
+2018,VC_VAW_MARR,Azerbaijan,15-49,Female,5.2
+2018,VC_VAW_MARR,Azerbaijan,15+,Female,4.0
+2018,VC_VAW_MARR,Australia,15-49,Female,2.9
+2018,VC_VAW_MARR,Australia,15+,Female,2.0
+2018,VC_VAW_MARR,Austria,15+,Female,2.8
+2018,VC_VAW_MARR,Austria,15-49,Female,3.6
+2018,VC_VAW_MARR,Armenia,15-49,Female,4.6
+2018,VC_VAW_MARR,Armenia,15+,Female,4.5
+2018,VC_VAW_MARR,Belgium,15-49,Female,4.8
+2018,VC_VAW_MARR,Belgium,15+,Female,3.3
+2018,VC_VAW_MARR,Bosnia and Herzegovina,15-49,Female,3.4
+2018,VC_VAW_MARR,Bosnia and Herzegovina,15+,Female,2.7
+2018,VC_VAW_MARR,Bulgaria,15+,Female,4.1
+2018,VC_VAW_MARR,Bulgaria,15-49,Female,5.9
+2018,VC_VAW_MARR,Belarus,15-49,Female,6.3
+2018,VC_VAW_MARR,Belarus,15+,Female,5.2
+2018,VC_VAW_MARR,Canada,15-49,Female,2.6
+2018,VC_VAW_MARR,Canada,15+,Female,1.7
+2018,VC_VAW_MARR,Chile,15-49,Female,5.8
+2018,VC_VAW_MARR,Chile,15+,Female,4.8
+2018,VC_VAW_MARR,China,15+,Female,5.9
+2018,VC_VAW_MARR,China,15-49,Female,7.6
+2018,VC_VAW_MARR,Colombia,15-49,Female,11.9
+2018,VC_VAW_MARR,Colombia,15+,Female,10.0
+2018,VC_VAW_MARR,Costa Rica,15+,Female,5.8
+2018,VC_VAW_MARR,Costa Rica,15-49,Female,7.2
+2018,VC_VAW_MARR,Croatia,15+,Female,2.8
+2018,VC_VAW_MARR,Croatia,15-49,Female,4.0
+2018,VC_VAW_MARR,Cyprus,15-49,Female,3.1
+2018,VC_VAW_MARR,Cyprus,15+,Female,3.0
+2018,VC_VAW_MARR,Czechia,15-49,Female,4.1
+2018,VC_VAW_MARR,Czechia,15+,Female,2.9
+2018,VC_VAW_MARR,Denmark,15-49,Female,3.3
+2018,VC_VAW_MARR,Denmark,15+,Female,2.0
+2018,VC_VAW_MARR,Estonia,15+,Female,2.7
+2018,VC_VAW_MARR,Estonia,15-49,Female,4.2
+2018,VC_VAW_MARR,Finland,15+,Female,5.6
+2018,VC_VAW_MARR,Finland,15-49,Female,8.1
+2018,VC_VAW_MARR,France,15+,Female,3.5
+2018,VC_VAW_MARR,France,15-49,Female,5.0
+2018,VC_VAW_MARR,Georgia,15+,Female,2.2
+2018,VC_VAW_MARR,Georgia,15-49,Female,2.9
+2018,VC_VAW_MARR,Greece,15+,Female,3.7
+2018,VC_VAW_MARR,Greece,15-49,Female,5.1
+2018,VC_VAW_MARR,Hungary,15+,Female,4.2
+2018,VC_VAW_MARR,Hungary,15-49,Female,5.7
+2018,VC_VAW_MARR,Iceland,15+,Female,1.8
+2018,VC_VAW_MARR,Iceland,15-49,Female,2.8
+2018,VC_VAW_MARR,India,15+,Female,15.9
+2018,VC_VAW_MARR,India,15-49,Female,18.4
+2018,VC_VAW_MARR,Ireland,15+,Female,2.7
+2018,VC_VAW_MARR,Ireland,15-49,Female,3.3
+2018,VC_VAW_MARR,Israel,15-49,Female,5.6
+2018,VC_VAW_MARR,Israel,15+,Female,4.4
+2018,VC_VAW_MARR,Italy,15+,Female,2.2
+2018,VC_VAW_MARR,Italy,15-49,Female,3.5
+2018,VC_VAW_MARR,Japan,15+,Female,3.0
+2018,VC_VAW_MARR,Japan,15-49,Female,3.9
+2018,VC_VAW_MARR,Kazakhstan,15+,Female,4.9
+2018,VC_VAW_MARR,Kazakhstan,15-49,Female,6.0
+2018,VC_VAW_MARR,Republic of Korea,15+,Female,8.8
+2018,VC_VAW_MARR,Republic of Korea,15-49,Female,8.0
+2018,VC_VAW_MARR,Kyrgyzstan,15-49,Female,13.3
+2018,VC_VAW_MARR,Kyrgyzstan,15+,Female,11.6
+2018,VC_VAW_MARR,Latvia,15+,Female,4.4
+2018,VC_VAW_MARR,Latvia,15-49,Female,6.3
+2018,VC_VAW_MARR,Lithuania,15-49,Female,5.2
+2018,VC_VAW_MARR,Lithuania,15+,Female,4.1
+2018,VC_VAW_MARR,Luxembourg,15-49,Female,3.5
+2018,VC_VAW_MARR,Luxembourg,15+,Female,2.7
+2018,VC_VAW_MARR,Malta,15-49,Female,4.0
+2018,VC_VAW_MARR,Malta,15+,Female,3.1
+2018,VC_VAW_MARR,Mexico,15-49,Female,9.9
+2018,VC_VAW_MARR,Mexico,15+,Female,8.9
+2018,VC_VAW_MARR,Moldova,15+,Female,8.2
+2018,VC_VAW_MARR,Moldova,15-49,Female,9.1
+2018,VC_VAW_MARR,Montenegro,15-49,Female,4.4
+2018,VC_VAW_MARR,Montenegro,15+,Female,3.5
+2018,VC_VAW_MARR,Netherlands (Kingdom of the),15+,Female,3.5
+2018,VC_VAW_MARR,Netherlands (Kingdom of the),15-49,Female,5.1
+2018,VC_VAW_MARR,New Zealand,15+,Female,3.2
+2018,VC_VAW_MARR,New Zealand,15-49,Female,4.2
+2018,VC_VAW_MARR,Norway,15+,Female,3.4
+2018,VC_VAW_MARR,Norway,15-49,Female,4.4
+2018,VC_VAW_MARR,Poland,15-49,Female,3.1
+2018,VC_VAW_MARR,Poland,15+,Female,2.6
+2018,VC_VAW_MARR,Portugal,15-49,Female,4.4
+2018,VC_VAW_MARR,Portugal,15+,Female,3.6
+2018,VC_VAW_MARR,Romania,15+,Female,6.7
+2018,VC_VAW_MARR,Romania,15-49,Female,6.9
+2018,VC_VAW_MARR,Serbia,15+,Female,3.0
+2018,VC_VAW_MARR,Serbia,15-49,Female,3.9
+2018,VC_VAW_MARR,Slovakia,15-49,Female,5.9
+2018,VC_VAW_MARR,Slovakia,15+,Female,4.4
+2018,VC_VAW_MARR,Viet Nam,15+,Female,7.3
+2018,VC_VAW_MARR,Viet Nam,15-49,Female,9.5
+2018,VC_VAW_MARR,Slovenia,15-49,Female,3.4
+2018,VC_VAW_MARR,Slovenia,15+,Female,2.6
+2018,VC_VAW_MARR,Spain,15+,Female,2.6
+2018,VC_VAW_MARR,Spain,15-49,Female,2.9
+2018,VC_VAW_MARR,Sweden,15-49,Female,6.3
+2018,VC_VAW_MARR,Sweden,15+,Female,4.8
+2018,VC_VAW_MARR,Switzerland,15+,Female,1.2
+2018,VC_VAW_MARR,Switzerland,15-49,Female,1.7
+2018,VC_VAW_MARR,Tajikistan,15+,Female,12.0
+2018,VC_VAW_MARR,Tajikistan,15-49,Female,14.0
+2018,VC_VAW_MARR,Türkiye,15+,Female,9.5
+2018,VC_VAW_MARR,Türkiye,15-49,Female,12.1
+2018,VC_VAW_MARR,Ukraine,15+,Female,8.3
+2018,VC_VAW_MARR,Ukraine,15-49,Female,8.7
+2018,VC_VAW_MARR,North Macedonia,15-49,Female,4.2
+2018,VC_VAW_MARR,North Macedonia,15+,Female,3.3
+2018,VC_VAW_MARR,United Kingdom of Great Britain and Northern Ireland,15-49,Female,4.2
+2018,VC_VAW_MARR,United Kingdom of Great Britain and Northern Ireland,15+,Female,3.6
+2018,VC_VAW_MARR,United Kingdom of Great Britain and Northern Ireland,15+,Female,3.6

@@ -12,8 +12,114 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_STA_TRAF",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Albania",
+                "Malta",
+                "Azerbaijan",
+                "Australia",
+                "Austria",
+                "Mexico",
+                "Armenia",
+                "Republic of Moldova",
+                "Montenegro",
+                "Belgium",
+                "Netherlands (Kingdom of the)",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "New Zealand",
+                "Belarus",
+                "Canada",
+                "Norway",
+                "Chile",
+                "Poland",
+                "China",
+                "Colombia",
+                "Portugal",
+                "Costa Rica",
+                "Croatia",
+                "Romania",
+                "Serbia",
+                "Cyprus",
+                "Czechia",
+                "Slovakia",
+                "Viet Nam",
+                "Denmark",
+                "Slovenia",
+                "Estonia",
+                "Spain",
+                "Finland",
+                "Sweden",
+                "Switzerland",
+                "France",
+                "Georgia",
+                "Таджикистан",
+                "Germany",
+                "Greece",
+                "United Arab Emirates",
+                "Türkiye",
+                "Hungary",
+                "Туркменистан",
+                "Iceland",
+                "India",
+                "Ukraine",
+                "North Macedonia",
+                "Ireland",
+                "Israel",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Italy",
+                "Узбекистан",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                "Кыргызстан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "FEMALE",
+                "MALE",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

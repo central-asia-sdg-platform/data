@@ -1,1 +1,5 @@
 From,To
+SeriesCode,Страна 
+Страна ,Age
+Age,Sex
+Sex,Type of skill

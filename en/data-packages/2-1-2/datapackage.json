@@ -12,8 +12,129 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_PRD_FIESMS",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Albania",
+                "Malta",
+                "Chile",
+                "Mexico",
+                "Azerbaijan",
+                "Moldova",
+                "Australia",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Austria",
+                "Costa Rica",
+                "New Zealand",
+                "Croatia",
+                "Armenia",
+                "Norway",
+                "Poland",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Czechia",
+                "Portugal",
+                "Denmark",
+                "Estonia",
+                "Bulgaria",
+                "Romania",
+                "Finland",
+                "France",
+                "Georgia",
+                "Serbia",
+                "Germany",
+                "Greece",
+                "Slovakia",
+                "Hungary",
+                "Iceland",
+                "Viet Nam",
+                "Ireland",
+                "Slovenia",
+                "Spain",
+                "Israel",
+                "Sweden",
+                "Italy",
+                "Switzerland",
+                "United Arab Emirates",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                "ALLAGE",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Freq"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All areas",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Both sexes",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

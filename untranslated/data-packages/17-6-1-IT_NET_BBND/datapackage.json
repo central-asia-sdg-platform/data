@@ -1,0 +1,159 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IT_NET_BBND",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Canada",
+                "Albania",
+                "Hungary",
+                "Netherlands (Kingdom of the)",
+                "Chile",
+                "Azerbaijan",
+                "Iceland",
+                "China",
+                "Australia",
+                "Colombia",
+                "India",
+                "Austria",
+                "Ireland",
+                "Armenia",
+                "Israel",
+                "Costa Rica",
+                "Italy",
+                "Belgium",
+                "Croatia",
+                "Japan",
+                "Bosnia and Herzegovina",
+                "Kazakhstan",
+                "Cyprus",
+                "New Zealand",
+                "Republic of Korea",
+                "Bulgaria",
+                "Czechia",
+                "Norway",
+                "Kyrgyzstan",
+                "Poland",
+                "Denmark",
+                "Latvia",
+                "Portugal",
+                "Switzerland",
+                "Tajikistan",
+                "Estonia",
+                "United Arab Emirates",
+                "Liechtenstein",
+                "Finland",
+                "Lithuania",
+                "Türkiye",
+                "Luxembourg",
+                "France",
+                "Malta",
+                "Georgia",
+                "Turkmenistan",
+                "Ukraine",
+                "Germany",
+                "North Macedonia",
+                "Romania",
+                "Mexico",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Greece",
+                "Republic of Moldova",
+                "Uzbekistan",
+                "Montenegro",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Freq",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of speed",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10MBPS",
+                "2MT10MBPS",
+                "256KT2MBPS",
+                "ANYS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-6-1-IT_NET_BBND",
+  "title": "meta.name-17-6-1-IT_NET_BBND"
+}

@@ -1,0 +1,108 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NE_IMP_GNFS_KD_ZG",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Albania",
+                "Iceland",
+                "Slovakia",
+                "Viet Nam",
+                "India",
+                "Slovenia",
+                "Azerbaijan",
+                "Spain",
+                "Ireland",
+                "Australia",
+                "Austria",
+                "Sweden",
+                "Israel",
+                "Switzerland",
+                "Italy",
+                "Japan",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Belarus",
+                "Türkiye",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Turkmenistan",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Canada",
+                "Malta",
+                "Ukraine",
+                "Chile",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Uzbekistan",
+                "Mexico",
+                "Colombia",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "17-13-1-NE_IMP_GNFS_KD_ZG",
+  "title": "meta.name-17-13-1-NE_IMP_GNFS_KD_ZG"
+}

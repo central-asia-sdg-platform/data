@@ -12,7 +12,97 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_LBR_NTLCPL",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Austria",
+                "Armenia",
+                "Ireland",
+                "Albania",
+                "Sweden",
+                "Switzerland",
+                "Azerbaijan",
+                "Israel",
+                "Belgium",
+                "Italy",
+                "Bosnia and Herzegovina",
+                "Tajikistan",
+                "Japan",
+                "Kazakhstan",
+                "Bulgaria",
+                "Republic of Korea",
+                "United Arab Emirates",
+                "Türkiye",
+                "Belarus",
+                "Turkmenistan",
+                "Canada",
+                "Ukraine",
+                "Chile",
+                "Kyrgyzstan",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Latvia",
+                "China",
+                "Uzbekistan",
+                "Lithuania",
+                "Colombia",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Costa Rica",
+                "Poland",
+                "Portugal",
+                "Croatia",
+                "Romania",
+                "Cyprus",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Czechia",
+                "Denmark",
+                "Spain",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "India",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migratory status",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

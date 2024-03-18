@@ -1,0 +1,128 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SD_MDP_MUHC",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Costa Rica",
+                "Austria",
+                "Italy",
+                "Spain",
+                "Croatia",
+                "Latvia",
+                "Sweden",
+                "Armenia",
+                "Cyprus",
+                "Lithuania",
+                "Türkiye",
+                "North Macedonia",
+                "Belgium",
+                "Luxembourg",
+                "Bulgaria",
+                "Malta",
+                "Chile",
+                "Czechia",
+                "Colombia",
+                "Mexico",
+                "Montenegro",
+                "Denmark",
+                "Netherlands (Kingdom of the)",
+                "Estonia",
+                "Norway",
+                "Finland",
+                "France",
+                "Poland",
+                "Germany",
+                "Greece",
+                "Romania",
+                "Hungary",
+                "Serbia",
+                "Slovakia",
+                "Slovenia",
+                "Iceland",
+                "Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<16Y",
+                "ALLAGE",
+                "<18Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All areas",
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-2-SD_MDP_MUHC",
+  "title": "meta.name-1-2-2-SD_MDP_MUHC"
+}

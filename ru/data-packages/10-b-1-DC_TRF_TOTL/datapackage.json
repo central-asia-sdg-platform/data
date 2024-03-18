@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TRF_TOTL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
+                "Slovenia",
+                "Таджикистан",
+                "Belarus",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Türkiye",
+                "Туркменистан",
+                "Georgia",
+                "India",
+                "Ukraine",
+                "North Macedonia",
+                "Казахстан",
+                "Кыргызстан",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "10-b-1-DC_TRF_TOTL",
+  "title": "meta.name-10-b-1-DC_TRF_TOTL"
+}

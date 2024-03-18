@@ -1,0 +1,5 @@
+From,To
+SeriesCode,Country
+Country,Education level
+Education level,Quantile
+Quantile,Sex

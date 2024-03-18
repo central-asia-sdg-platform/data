@@ -12,7 +12,94 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_50MI",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Australia",
+                "Iceland",
+                "Ireland",
+                "Austria",
+                "Israel",
+                "Armenia",
+                "Italy",
+                "Japan",
+                "Belgium",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Latvia",
+                "Belarus",
+                "Lithuania",
+                "Luxembourg",
+                "Canada",
+                "Malta",
+                "Mexico",
+                "Chile",
+                "Republic of Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "B50",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

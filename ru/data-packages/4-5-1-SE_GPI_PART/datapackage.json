@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SE_GPI_PART",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Austria",
+                "France",
+                "Georgia",
+                "Netherlands (Kingdom of the)",
+                "Armenia",
+                "Belgium",
+                "Albania",
+                "Germany",
+                "Greece",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Hungary",
+                "Iceland",
+                "India",
+                "Ireland",
+                "Bosnia and Herzegovina",
+                "Israel",
+                "Italy",
+                "Bulgaria",
+                "Republic of Korea",
+                "Кыргызстан",
+                "Belarus",
+                "Latvia",
+                "Canada",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Chile",
+                "Mexico",
+                "Montenegro",
+                "Colombia",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Serbia",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Таджикистан",
+                "Türkiye",
+                "North Macedonia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24",
+                "55-64",
+                "15-64",
+                "25-54",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1-SE_GPI_PART",
+  "title": "meta.name-4-5-1-SE_GPI_PART"
+}

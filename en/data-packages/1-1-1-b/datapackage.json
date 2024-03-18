@@ -16,14 +16,46 @@
             "title": "Year"
           },
           {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SI_POV_EMP1",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
             "name": "GeoAreaName",
             "type": "string",
             "constraints": {
               "enum": [
+                "Albania",
+                "Azerbaijan",
+                "Armenia",
+                "Bosnia and Herzegovina",
+                "Belarus",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
                 "Kazakhstan",
+                "Republic of Korea",
                 "Kyrgyzstan",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Serbia",
+                "Viet Nam",
                 "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
                 "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
                 "Uzbekistan",
                 ""
               ]
@@ -36,8 +68,8 @@
             "constraints": {
               "enum": [
                 "15-24",
-                "15+",
                 "25+",
+                "15+",
                 ""
               ]
             },
@@ -48,9 +80,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "BOTHSEX",
-                "MALE",
-                "FEMALE",
+                "Both sexes",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -67,5 +99,5 @@
   ],
   "profile": "data-package",
   "name": "1-1-1-b",
-  "title": "global_indicators.1-1-1-b-title"
+  "title": "meta.name-1-1-1-b"
 }

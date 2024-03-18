@@ -12,8 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DC_TOF_WASHL",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belarus",
+                "Chile",
+                "China",
+                "Albania",
+                "Colombia",
+                "Serbia",
+                "Azerbaijan",
+                "Viet Nam",
+                "Costa Rica",
+                "Armenia",
+                "Slovenia",
+                "Таджикистан",
+                "Bosnia and Herzegovina",
+                "Türkiye",
+                "Croatia",
+                "Georgia",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                "Mexico",
+                "Republic of Moldova",
+                "Montenegro",
+                "Туркменистан",
+                "Ukraine",
+                "North Macedonia",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

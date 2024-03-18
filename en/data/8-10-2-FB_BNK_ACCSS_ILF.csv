@@ -1,0 +1,233 @@
+Year,SeriesCode,Country,Age,Sex,Value
+2011,FB_BNK_ACCSS_ILF,Albania,15+,Both sexes,36.05745
+2014,FB_BNK_ACCSS_ILF,Albania,15+,Both sexes,44.08454
+2017,FB_BNK_ACCSS_ILF,Albania,15+,Both sexes,53.14428
+2021,FB_BNK_ACCSS_ILF,Albania,15+,Both sexes,61.06778
+2011,FB_BNK_ACCSS_ILF,Azerbaijan,15+,Both sexes,16.84401
+2014,FB_BNK_ACCSS_ILF,Azerbaijan,15+,Both sexes,36.59474
+2017,FB_BNK_ACCSS_ILF,Azerbaijan,15+,Both sexes,31.87307
+2011,FB_BNK_ACCSS_ILF,Australia,15+,Both sexes,99.6954
+2014,FB_BNK_ACCSS_ILF,Australia,15+,Both sexes,98.577
+2017,FB_BNK_ACCSS_ILF,Australia,15+,Both sexes,100.0
+2021,FB_BNK_ACCSS_ILF,Australia,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Austria,15+,Both sexes,97.7551
+2014,FB_BNK_ACCSS_ILF,Austria,15+,Both sexes,98.09224
+2017,FB_BNK_ACCSS_ILF,Austria,15+,Both sexes,98.91395
+2021,FB_BNK_ACCSS_ILF,Austria,15+,Both sexes,99.91674
+2011,FB_BNK_ACCSS_ILF,Armenia,15+,Both sexes,23.91852
+2014,FB_BNK_ACCSS_ILF,Armenia,15+,Both sexes,27.90048
+2017,FB_BNK_ACCSS_ILF,Armenia,15+,Both sexes,61.28325
+2021,FB_BNK_ACCSS_ILF,Armenia,15+,Both sexes,66.4476
+2011,FB_BNK_ACCSS_ILF,Belgium,15+,Both sexes,97.26776
+2014,FB_BNK_ACCSS_ILF,Belgium,15+,Both sexes,98.55419
+2017,FB_BNK_ACCSS_ILF,Belgium,15+,Both sexes,99.89507
+2021,FB_BNK_ACCSS_ILF,Belgium,15+,Both sexes,99.48689
+2011,FB_BNK_ACCSS_ILF,Bosnia and Herzegovina,15+,Both sexes,71.23821
+2014,FB_BNK_ACCSS_ILF,Bosnia and Herzegovina,15+,Both sexes,69.08089
+2017,FB_BNK_ACCSS_ILF,Bosnia and Herzegovina,15+,Both sexes,77.60302
+2021,FB_BNK_ACCSS_ILF,Bosnia and Herzegovina,15+,Both sexes,91.01046
+2011,FB_BNK_ACCSS_ILF,Bulgaria,15+,Both sexes,65.80623
+2014,FB_BNK_ACCSS_ILF,Bulgaria,15+,Both sexes,77.9123
+2017,FB_BNK_ACCSS_ILF,Bulgaria,15+,Both sexes,88.16267
+2021,FB_BNK_ACCSS_ILF,Bulgaria,15+,Both sexes,84.99643
+2011,FB_BNK_ACCSS_ILF,Belarus,15+,Both sexes,69.4656
+2014,FB_BNK_ACCSS_ILF,Belarus,15+,Both sexes,81.13759
+2017,FB_BNK_ACCSS_ILF,Belarus,15+,Both sexes,93.68441
+2011,FB_BNK_ACCSS_ILF,Canada,15+,Both sexes,96.39551
+2014,FB_BNK_ACCSS_ILF,Canada,15+,Both sexes,98.80411
+2017,FB_BNK_ACCSS_ILF,Canada,15+,Both sexes,99.81051
+2021,FB_BNK_ACCSS_ILF,Canada,15+,Both sexes,99.82816
+2011,FB_BNK_ACCSS_ILF,Chile,15+,Both sexes,52.70844
+2014,FB_BNK_ACCSS_ILF,Chile,15+,Both sexes,74.99461
+2017,FB_BNK_ACCSS_ILF,Chile,15+,Both sexes,83.85254
+2021,FB_BNK_ACCSS_ILF,Chile,15+,Both sexes,91.91163
+2011,FB_BNK_ACCSS_ILF,China,15+,Both sexes,66.43867
+2014,FB_BNK_ACCSS_ILF,China,15+,Both sexes,82.36301
+2017,FB_BNK_ACCSS_ILF,China,15+,Both sexes,83.40979
+2011,FB_BNK_ACCSS_ILF,Colombia,15+,Both sexes,38.14365
+2014,FB_BNK_ACCSS_ILF,Colombia,15+,Both sexes,47.30281
+2017,FB_BNK_ACCSS_ILF,Colombia,15+,Both sexes,51.32905
+2021,FB_BNK_ACCSS_ILF,Colombia,15+,Both sexes,63.28213
+2011,FB_BNK_ACCSS_ILF,Costa Rica,15+,Both sexes,59.83112
+2014,FB_BNK_ACCSS_ILF,Costa Rica,15+,Both sexes,72.76355
+2017,FB_BNK_ACCSS_ILF,Costa Rica,15+,Both sexes,71.52956
+2021,FB_BNK_ACCSS_ILF,Costa Rica,15+,Both sexes,72.70576
+2011,FB_BNK_ACCSS_ILF,Croatia,15+,Both sexes,93.83819
+2014,FB_BNK_ACCSS_ILF,Croatia,15+,Both sexes,92.98119
+2017,FB_BNK_ACCSS_ILF,Croatia,15+,Both sexes,95.23848
+2021,FB_BNK_ACCSS_ILF,Croatia,15+,Both sexes,97.49065
+2011,FB_BNK_ACCSS_ILF,Cyprus,15+,Both sexes,93.45576
+2014,FB_BNK_ACCSS_ILF,Cyprus,15+,Both sexes,93.30023
+2017,FB_BNK_ACCSS_ILF,Cyprus,15+,Both sexes,90.52654
+2021,FB_BNK_ACCSS_ILF,Cyprus,15+,Both sexes,97.15184
+2011,FB_BNK_ACCSS_ILF,Czechia,15+,Both sexes,93.41581
+2014,FB_BNK_ACCSS_ILF,Czechia,15+,Both sexes,92.83135
+2017,FB_BNK_ACCSS_ILF,Czechia,15+,Both sexes,96.75378
+2021,FB_BNK_ACCSS_ILF,Czechia,15+,Both sexes,97.29616
+2011,FB_BNK_ACCSS_ILF,Denmark,15+,Both sexes,100.0
+2014,FB_BNK_ACCSS_ILF,Denmark,15+,Both sexes,100.0
+2017,FB_BNK_ACCSS_ILF,Denmark,15+,Both sexes,100.0
+2021,FB_BNK_ACCSS_ILF,Denmark,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Estonia,15+,Both sexes,97.50256
+2014,FB_BNK_ACCSS_ILF,Estonia,15+,Both sexes,99.2515
+2017,FB_BNK_ACCSS_ILF,Estonia,15+,Both sexes,98.37492
+2021,FB_BNK_ACCSS_ILF,Estonia,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Finland,15+,Both sexes,100.0
+2014,FB_BNK_ACCSS_ILF,Finland,15+,Both sexes,100.0
+2017,FB_BNK_ACCSS_ILF,Finland,15+,Both sexes,100.0
+2021,FB_BNK_ACCSS_ILF,Finland,15+,Both sexes,99.18639
+2011,FB_BNK_ACCSS_ILF,France,15+,Both sexes,99.36829
+2014,FB_BNK_ACCSS_ILF,France,15+,Both sexes,99.54636
+2017,FB_BNK_ACCSS_ILF,France,15+,Both sexes,97.60464
+2021,FB_BNK_ACCSS_ILF,France,15+,Both sexes,99.60381
+2011,FB_BNK_ACCSS_ILF,Georgia,15+,Both sexes,36.87158
+2014,FB_BNK_ACCSS_ILF,Georgia,15+,Both sexes,49.13528
+2017,FB_BNK_ACCSS_ILF,Georgia,15+,Both sexes,69.77904
+2021,FB_BNK_ACCSS_ILF,Georgia,15+,Both sexes,80.29822
+2014,FB_BNK_ACCSS_ILF,Germany,15+,Both sexes,99.19064
+2017,FB_BNK_ACCSS_ILF,Germany,15+,Both sexes,99.18499
+2021,FB_BNK_ACCSS_ILF,Germany,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Greece,15+,Both sexes,83.11792
+2014,FB_BNK_ACCSS_ILF,Greece,15+,Both sexes,91.3063
+2017,FB_BNK_ACCSS_ILF,Greece,15+,Both sexes,91.12808
+2021,FB_BNK_ACCSS_ILF,Greece,15+,Both sexes,96.92946
+2011,FB_BNK_ACCSS_ILF,Hungary,15+,Both sexes,89.45328
+2014,FB_BNK_ACCSS_ILF,Hungary,15+,Both sexes,85.67078
+2017,FB_BNK_ACCSS_ILF,Hungary,15+,Both sexes,88.8047
+2021,FB_BNK_ACCSS_ILF,Hungary,15+,Both sexes,94.40871
+2021,FB_BNK_ACCSS_ILF,Iceland,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,India,15+,Both sexes,43.55996
+2014,FB_BNK_ACCSS_ILF,India,15+,Both sexes,63.58897
+2017,FB_BNK_ACCSS_ILF,India,15+,Both sexes,83.88702
+2021,FB_BNK_ACCSS_ILF,India,15+,Both sexes,81.4127
+2011,FB_BNK_ACCSS_ILF,Ireland,15+,Both sexes,95.9586
+2014,FB_BNK_ACCSS_ILF,Ireland,15+,Both sexes,97.1056
+2017,FB_BNK_ACCSS_ILF,Ireland,15+,Both sexes,96.51671
+2021,FB_BNK_ACCSS_ILF,Ireland,15+,Both sexes,99.47335
+2011,FB_BNK_ACCSS_ILF,Israel,15+,Both sexes,94.32576
+2014,FB_BNK_ACCSS_ILF,Israel,15+,Both sexes,96.76117
+2017,FB_BNK_ACCSS_ILF,Israel,15+,Both sexes,98.61052
+2021,FB_BNK_ACCSS_ILF,Israel,15+,Both sexes,99.15762
+2011,FB_BNK_ACCSS_ILF,Italy,15+,Both sexes,77.91343
+2014,FB_BNK_ACCSS_ILF,Italy,15+,Both sexes,91.58215
+2017,FB_BNK_ACCSS_ILF,Italy,15+,Both sexes,96.16476
+2021,FB_BNK_ACCSS_ILF,Italy,15+,Both sexes,98.76288
+2011,FB_BNK_ACCSS_ILF,Japan,15+,Both sexes,98.64182
+2014,FB_BNK_ACCSS_ILF,Japan,15+,Both sexes,98.08351
+2017,FB_BNK_ACCSS_ILF,Japan,15+,Both sexes,99.0702
+2021,FB_BNK_ACCSS_ILF,Japan,15+,Both sexes,98.83601
+2011,FB_BNK_ACCSS_ILF,Kazakhstan,15+,Both sexes,44.48271
+2014,FB_BNK_ACCSS_ILF,Kazakhstan,15+,Both sexes,62.17725
+2017,FB_BNK_ACCSS_ILF,Kazakhstan,15+,Both sexes,67.90781
+2021,FB_BNK_ACCSS_ILF,Kazakhstan,15+,Both sexes,87.48636
+2011,FB_BNK_ACCSS_ILF,Republic of Korea,15+,Both sexes,96.99279
+2014,FB_BNK_ACCSS_ILF,Republic of Korea,15+,Both sexes,97.58501
+2017,FB_BNK_ACCSS_ILF,Republic of Korea,15+,Both sexes,98.16944
+2021,FB_BNK_ACCSS_ILF,Republic of Korea,15+,Both sexes,99.70379
+2011,FB_BNK_ACCSS_ILF,Kyrgyzstan,15+,Both sexes,5.51311
+2014,FB_BNK_ACCSS_ILF,Kyrgyzstan,15+,Both sexes,24.04078
+2017,FB_BNK_ACCSS_ILF,Kyrgyzstan,15+,Both sexes,46.26985
+2021,FB_BNK_ACCSS_ILF,Kyrgyzstan,15+,Both sexes,51.36827
+2011,FB_BNK_ACCSS_ILF,Latvia,15+,Both sexes,95.41305
+2014,FB_BNK_ACCSS_ILF,Latvia,15+,Both sexes,96.40703
+2017,FB_BNK_ACCSS_ILF,Latvia,15+,Both sexes,98.01203
+2021,FB_BNK_ACCSS_ILF,Latvia,15+,Both sexes,98.7382
+2011,FB_BNK_ACCSS_ILF,Lithuania,15+,Both sexes,85.38686
+2014,FB_BNK_ACCSS_ILF,Lithuania,15+,Both sexes,92.68375
+2017,FB_BNK_ACCSS_ILF,Lithuania,15+,Both sexes,96.35566
+2021,FB_BNK_ACCSS_ILF,Lithuania,15+,Both sexes,98.54964
+2011,FB_BNK_ACCSS_ILF,Luxembourg,15+,Both sexes,98.64304
+2014,FB_BNK_ACCSS_ILF,Luxembourg,15+,Both sexes,97.90253
+2017,FB_BNK_ACCSS_ILF,Luxembourg,15+,Both sexes,99.85725
+2011,FB_BNK_ACCSS_ILF,Malta,15+,Both sexes,97.56233
+2014,FB_BNK_ACCSS_ILF,Malta,15+,Both sexes,98.08589
+2017,FB_BNK_ACCSS_ILF,Malta,15+,Both sexes,98.25832
+2021,FB_BNK_ACCSS_ILF,Malta,15+,Both sexes,97.4518
+2011,FB_BNK_ACCSS_ILF,Mexico,15+,Both sexes,35.26947
+2014,FB_BNK_ACCSS_ILF,Mexico,15+,Both sexes,47.75779
+2017,FB_BNK_ACCSS_ILF,Mexico,15+,Both sexes,42.90069
+2011,FB_BNK_ACCSS_ILF,Moldova,15+,Both sexes,21.90017
+2014,FB_BNK_ACCSS_ILF,Moldova,15+,Both sexes,25.61539
+2021,FB_BNK_ACCSS_ILF,Moldova,15+,Both sexes,73.62337
+2011,FB_BNK_ACCSS_ILF,Montenegro,15+,Both sexes,61.15104
+2014,FB_BNK_ACCSS_ILF,Montenegro,15+,Both sexes,74.30794
+2017,FB_BNK_ACCSS_ILF,Montenegro,15+,Both sexes,78.48055
+2011,FB_BNK_ACCSS_ILF,Netherlands (Kingdom of the),15+,Both sexes,98.83201
+2014,FB_BNK_ACCSS_ILF,Netherlands (Kingdom of the),15+,Both sexes,99.39198
+2017,FB_BNK_ACCSS_ILF,Netherlands (Kingdom of the),15+,Both sexes,99.78546
+2021,FB_BNK_ACCSS_ILF,Netherlands (Kingdom of the),15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,New Zealand,15+,Both sexes,99.6604
+2014,FB_BNK_ACCSS_ILF,New Zealand,15+,Both sexes,99.66071
+2017,FB_BNK_ACCSS_ILF,New Zealand,15+,Both sexes,99.58248
+2021,FB_BNK_ACCSS_ILF,New Zealand,15+,Both sexes,99.30642
+2014,FB_BNK_ACCSS_ILF,Norway,15+,Both sexes,100.0
+2017,FB_BNK_ACCSS_ILF,Norway,15+,Both sexes,100.0
+2021,FB_BNK_ACCSS_ILF,Norway,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Poland,15+,Both sexes,86.19906
+2014,FB_BNK_ACCSS_ILF,Poland,15+,Both sexes,89.31991
+2017,FB_BNK_ACCSS_ILF,Poland,15+,Both sexes,97.1256
+2021,FB_BNK_ACCSS_ILF,Poland,15+,Both sexes,98.36511
+2011,FB_BNK_ACCSS_ILF,Portugal,15+,Both sexes,90.70387
+2014,FB_BNK_ACCSS_ILF,Portugal,15+,Both sexes,91.0657
+2017,FB_BNK_ACCSS_ILF,Portugal,15+,Both sexes,94.95862
+2021,FB_BNK_ACCSS_ILF,Portugal,15+,Both sexes,97.9502
+2011,FB_BNK_ACCSS_ILF,Romania,15+,Both sexes,53.25034
+2014,FB_BNK_ACCSS_ILF,Romania,15+,Both sexes,68.49097
+2017,FB_BNK_ACCSS_ILF,Romania,15+,Both sexes,65.3036
+2021,FB_BNK_ACCSS_ILF,Romania,15+,Both sexes,79.99197
+2011,FB_BNK_ACCSS_ILF,Serbia,15+,Both sexes,69.5844
+2014,FB_BNK_ACCSS_ILF,Serbia,15+,Both sexes,88.11666
+2017,FB_BNK_ACCSS_ILF,Serbia,15+,Both sexes,85.94401
+2021,FB_BNK_ACCSS_ILF,Serbia,15+,Both sexes,96.259
+2011,FB_BNK_ACCSS_ILF,Slovakia,15+,Both sexes,92.77009
+2014,FB_BNK_ACCSS_ILF,Slovakia,15+,Both sexes,92.7538
+2017,FB_BNK_ACCSS_ILF,Slovakia,15+,Both sexes,91.15578
+2021,FB_BNK_ACCSS_ILF,Slovakia,15+,Both sexes,97.10313
+2011,FB_BNK_ACCSS_ILF,Viet Nam,15+,Both sexes,24.46742
+2014,FB_BNK_ACCSS_ILF,Viet Nam,15+,Both sexes,34.17305
+2017,FB_BNK_ACCSS_ILF,Viet Nam,15+,Both sexes,34.88558
+2011,FB_BNK_ACCSS_ILF,Slovenia,15+,Both sexes,97.61575
+2014,FB_BNK_ACCSS_ILF,Slovenia,15+,Both sexes,97.41671
+2017,FB_BNK_ACCSS_ILF,Slovenia,15+,Both sexes,99.43182
+2021,FB_BNK_ACCSS_ILF,Slovenia,15+,Both sexes,99.84187
+2011,FB_BNK_ACCSS_ILF,Spain,15+,Both sexes,96.24265
+2017,FB_BNK_ACCSS_ILF,Spain,15+,Both sexes,98.35013
+2021,FB_BNK_ACCSS_ILF,Spain,15+,Both sexes,97.09465
+2011,FB_BNK_ACCSS_ILF,Sweden,15+,Both sexes,99.60459
+2014,FB_BNK_ACCSS_ILF,Sweden,15+,Both sexes,100.0
+2017,FB_BNK_ACCSS_ILF,Sweden,15+,Both sexes,99.79536
+2021,FB_BNK_ACCSS_ILF,Sweden,15+,Both sexes,99.59045
+2014,FB_BNK_ACCSS_ILF,Switzerland,15+,Both sexes,98.59818
+2017,FB_BNK_ACCSS_ILF,Switzerland,15+,Both sexes,99.04539
+2021,FB_BNK_ACCSS_ILF,Switzerland,15+,Both sexes,99.8256
+2011,FB_BNK_ACCSS_ILF,Tajikistan,15+,Both sexes,3.05236
+2014,FB_BNK_ACCSS_ILF,Tajikistan,15+,Both sexes,14.24079
+2017,FB_BNK_ACCSS_ILF,Tajikistan,15+,Both sexes,60.2723
+2021,FB_BNK_ACCSS_ILF,Tajikistan,15+,Both sexes,44.46566
+2011,FB_BNK_ACCSS_ILF,United Arab Emirates,15+,Both sexes,80.2287
+2014,FB_BNK_ACCSS_ILF,United Arab Emirates,15+,Both sexes,90.77774
+2017,FB_BNK_ACCSS_ILF,United Arab Emirates,15+,Both sexes,92.5163
+2021,FB_BNK_ACCSS_ILF,United Arab Emirates,15+,Both sexes,85.32044
+2011,FB_BNK_ACCSS_ILF,Türkiye,15+,Both sexes,89.06436
+2014,FB_BNK_ACCSS_ILF,Türkiye,15+,Both sexes,71.09725
+2017,FB_BNK_ACCSS_ILF,Türkiye,15+,Both sexes,89.75962
+2021,FB_BNK_ACCSS_ILF,Türkiye,15+,Both sexes,82.52074
+2011,FB_BNK_ACCSS_ILF,Turkmenistan,15+,Both sexes,0.55177
+2017,FB_BNK_ACCSS_ILF,Turkmenistan,15+,Both sexes,57.79177
+2011,FB_BNK_ACCSS_ILF,Ukraine,15+,Both sexes,48.54243
+2014,FB_BNK_ACCSS_ILF,Ukraine,15+,Both sexes,64.4634
+2017,FB_BNK_ACCSS_ILF,Ukraine,15+,Both sexes,68.72163
+2021,FB_BNK_ACCSS_ILF,Ukraine,15+,Both sexes,87.80831
+2011,FB_BNK_ACCSS_ILF,North Macedonia,15+,Both sexes,78.57264
+2014,FB_BNK_ACCSS_ILF,North Macedonia,15+,Both sexes,84.50485
+2017,FB_BNK_ACCSS_ILF,North Macedonia,15+,Both sexes,89.71305
+2021,FB_BNK_ACCSS_ILF,North Macedonia,15+,Both sexes,92.41866
+2011,FB_BNK_ACCSS_ILF,United Kingdom of Great Britain and Northern Ireland,15+,Both sexes,98.8849
+2014,FB_BNK_ACCSS_ILF,United Kingdom of Great Britain and Northern Ireland,15+,Both sexes,100.0
+2017,FB_BNK_ACCSS_ILF,United Kingdom of Great Britain and Northern Ireland,15+,Both sexes,97.56562
+2021,FB_BNK_ACCSS_ILF,United Kingdom of Great Britain and Northern Ireland,15+,Both sexes,100.0
+2011,FB_BNK_ACCSS_ILF,Uzbekistan,15+,Both sexes,27.04527
+2014,FB_BNK_ACCSS_ILF,Uzbekistan,15+,Both sexes,43.05931
+2017,FB_BNK_ACCSS_ILF,Uzbekistan,15+,Both sexes,38.58828
+2021,FB_BNK_ACCSS_ILF,Uzbekistan,15+,Both sexes,53.32583
+2021,FB_BNK_ACCSS_ILF,Uzbekistan,15+,Both sexes,53.32583

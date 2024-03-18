@@ -1,0 +1,148 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_DOM_TSPDDC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Australia",
+                "Austria",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Armenia",
+                "Serbia",
+                "Belgium",
+                "Slovenia",
+                "Spain",
+                "Bulgaria",
+                "Sweden",
+                "Belarus",
+                "Canada",
+                "Switzerland",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Türkiye",
+                "North Macedonia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "65+",
+                "10+",
+                "15+",
+                "55-64",
+                "15-24",
+                "45-54",
+                "25-44",
+                "16+",
+                "15-64",
+                "20-74",
+                "45-64",
+                "12+",
+                "20+",
+                "20-64",
+                "20-24",
+                "12-24",
+                "65-74",
+                "75-84",
+                "35-44",
+                "25-34",
+                "85+",
+                "3+",
+                "10-14",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "RURAL",
+                "URBAN",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-4-1-SL_DOM_TSPDDC",
+  "title": "meta.name-5-4-1-SL_DOM_TSPDDC"
+}

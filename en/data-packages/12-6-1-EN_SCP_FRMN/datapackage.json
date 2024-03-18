@@ -1,0 +1,133 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_SCP_FRMN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hungary",
+                "Iceland",
+                "India",
+                "Azerbaijan",
+                "Australia",
+                "Ireland",
+                "Austria",
+                "Belgium",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Finland",
+                "France",
+                "Israel",
+                "Italy",
+                "Georgia",
+                "Germany",
+                "Greece",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Liechtenstein",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Viet Nam",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Arab Emirates",
+                "Türkiye",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                "ISIC4_C",
+                "ISIC4_G",
+                "ISIC4_J",
+                "ISIC4_K",
+                "ISIC4_F",
+                "ISIC4_A",
+                "ISIC4_M",
+                "ISIC4_H",
+                "ISIC4_B",
+                "ISIC4_Q",
+                "ISIC4_I",
+                "ISIC4_N",
+                "ISIC4_L",
+                "ISIC4_R",
+                "ISIC4_S",
+                "ISIC4_P",
+                ""
+              ]
+            },
+            "title": "Activity"
+          },
+          {
+            "name": "Level of requirement",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "TOTAL",
+                ""
+              ]
+            },
+            "title": "Level of requirement"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-6-1-EN_SCP_FRMN",
+  "title": "meta.name-12-6-1-EN_SCP_FRMN"
+}

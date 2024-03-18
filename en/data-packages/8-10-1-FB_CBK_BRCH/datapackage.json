@@ -1,0 +1,122 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_CBK_BRCH",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Albania",
+                "Serbia",
+                "Azerbaijan",
+                "Slovakia",
+                "Australia",
+                "Viet Nam",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "Slovenia",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "Spain",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Sweden",
+                "Denmark",
+                "Switzerland",
+                "Tajikistan",
+                "Estonia",
+                "Finland",
+                "United Arab Emirates",
+                "France",
+                "Georgia",
+                "Germany",
+                "Türkiye",
+                "Greece",
+                "Ukraine",
+                "North Macedonia",
+                "Hungary",
+                "Iceland",
+                "India",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Ireland",
+                "Israel",
+                "Uzbekistan",
+                "Italy",
+                "Japan",
+                "Kazakhstan",
+                "Republic of Korea",
+                "Kyrgyzstan",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15+",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-10-1-FB_CBK_BRCH",
+  "title": "meta.name-8-10-1-FB_CBK_BRCH"
+}

@@ -12,8 +12,142 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_VOV_GDSD",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Chile",
+                "Colombia",
+                "Ireland",
+                "Bulgaria",
+                "Mexico",
+                "Moldova",
+                "Montenegro",
+                "Belarus",
+                "Israel",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Canada",
+                "Costa Rica",
+                "Norway",
+                "Denmark",
+                "Viet Nam",
+                "Estonia",
+                "Poland",
+                "Finland",
+                "France",
+                "Serbia",
+                "Georgia",
+                "Republic of Korea",
+                "Sweden",
+                "North Macedonia",
+                "Uzbekistan",
+                "Kyrgyzstan",
+                "Switzerland",
+                "Germany",
+                "Turkmenistan",
+                ""
+              ]
+            },
+            "title": "Country"
+          },
+          {
+            "name": "Disability status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total or no breakdown",
+                "Persons without disability",
+                "Persons with disability",
+                ""
+              ]
+            },
+            "title": "Disability status"
+          },
+          {
+            "name": "Grounds of discrimination",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All or no breakdown",
+                "Place of residence",
+                "Socioeconomic status",
+                "Migration status",
+                "Disability or health status",
+                "Political opinion",
+                "Sex",
+                "Religion or belief",
+                "Other",
+                "Sexual orientation and gender identity",
+                "Family status",
+                "Disability",
+                "Marital status",
+                "Ethnicity, colour, language",
+                "Marital and family status",
+                "Age",
+                "Geographic location",
+                "Sexual orientation",
+                "Ethnicity, colour, language, nationality",
+                "Ethnic",
+                "Ethnic or immigration status",
+                "Colour",
+                "Gender identity",
+                "Ethnicity, race, colour, language",
+                "Sexual/gender identity",
+                "Health problems, illness or injury",
+                "Ethnicity or culture",
+                "Race or Colour",
+                "Language  or dialect",
+                "Nationality",
+                "Ethnic or migration origin",
+                "Physical condition",
+                "Health status",
+                "Ethnic, colour, language, migration",
+                ""
+              ]
+            },
+            "title": "Grounds of discrimination"
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                "All areas",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both sexes",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Value",

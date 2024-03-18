@@ -1,0 +1,5 @@
+From,To
+SeriesCode,Страна 
+Страна ,Education level
+Education level,Location
+Location,Quantile

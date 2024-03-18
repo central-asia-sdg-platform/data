@@ -1,0 +1,112 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_DSR_MMHN",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Кыргызстан",
+                "Albania",
+                "Lithuania",
+                "Azerbaijan",
+                "Australia",
+                "Luxembourg",
+                "Mexico",
+                "Austria",
+                "Montenegro",
+                "Armenia",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Belarus",
+                "Chile",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "China",
+                "Serbia",
+                "Viet Nam",
+                "Slovenia",
+                "Colombia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "Costa Rica",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Türkiye",
+                "Croatia",
+                "Cyprus",
+                "Туркменистан",
+                "Ukraine",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Czechia",
+                "Denmark",
+                "Узбекистан",
+                "Estonia",
+                "Finland",
+                "France",
+                "Georgia",
+                "Hungary",
+                "India",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Казахстан",
+                "Republic of Korea",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Hazard type",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Hazard type"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-1-1-VC_DSR_MMHN",
+  "title": "meta.name-13-1-1-VC_DSR_MMHN"
+}

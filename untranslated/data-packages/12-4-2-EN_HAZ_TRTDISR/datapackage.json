@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EN_HAZ_TRTDISR",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Azerbaijan",
+                "Armenia",
+                "Belarus",
+                "China",
+                "India",
+                "Kazakhstan",
+                "Kyrgyzstan",
+                "Republic of Moldova",
+                "Serbia",
+                "United Arab Emirates",
+                "Ukraine",
+                "Uzbekistan",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "12-4-2-EN_HAZ_TRTDISR",
+  "title": "meta.name-12-4-2-EN_HAZ_TRTDISR"
+}

@@ -12,7 +12,56 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_STT_CAPTY",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estonia",
+                "Georgia",
+                "Albania",
+                "Greece",
+                "India",
+                "Azerbaijan",
+                "Kazakhstan",
+                "Austria",
+                "Armenia",
+                "Kyrgyzstan",
+                "Bosnia and Herzegovina",
+                "Mexico",
+                "Belarus",
+                "Republic of Moldova",
+                "Montenegro",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "New Zealand",
+                "Serbia",
+                "Viet Nam",
+                "Slovenia",
+                "Tajikistan",
+                "United Arab Emirates",
+                "Türkiye",
+                "Turkmenistan",
+                "Ukraine",
+                "North Macedonia",
+                "Uzbekistan",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

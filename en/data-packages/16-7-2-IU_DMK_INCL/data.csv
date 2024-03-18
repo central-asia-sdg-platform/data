@@ -1,0 +1,34 @@
+Year,SeriesCode,Country,Age,Disability status,Education level,Location,Population Group,Quantile,Sex,Value
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Male,27.2
+2022,IU_DMK_INCL,Colombia,<25Y,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,25.1
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,POP_A,,Both sexes,25.2
+2022,IU_DMK_INCL,Colombia,45-54,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,27.5
+2022,IU_DMK_INCL,Colombia,25-34,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,25.0
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,26.7
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Female,26.3
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,POP_B,,Both sexes,26.8
+2022,IU_DMK_INCL,Colombia,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,POP_C,,Both sexes,26.8
+2022,IU_DMK_INCL,Colombia,35-44,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,26.0
+2022,IU_DMK_INCL,Colombia,55-64,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,27.9
+2022,IU_DMK_INCL,Colombia,65+,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,30.2
+2022,IU_DMK_INCL,Republic of Korea,ALLAGE,Total or no breakdown,Total or no breakdown,Rural,TOTAL,,Both sexes,18.8
+2022,IU_DMK_INCL,Republic of Korea,ALLAGE,Total or no breakdown,Total or no breakdown,Urban,TOTAL,,Both sexes,23.9
+2022,IU_DMK_INCL,Republic of Korea,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,21.3
+2022,IU_DMK_INCL,Republic of Korea,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Male,21.0
+2022,IU_DMK_INCL,Republic of Korea,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Female,23.1
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,65.7
+2022,IU_DMK_INCL,Mexico,25-34,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,64.6
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,Rural,TOTAL,,Both sexes,69.2
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,PRIMAR,All areas,TOTAL,,Both sexes,68.8
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,SECOND,All areas,TOTAL,,Both sexes,68.2
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Female,65.0
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Male,66.5
+2022,IU_DMK_INCL,Mexico,35-44,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,63.9
+2022,IU_DMK_INCL,Mexico,45-54,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,65.0
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,Urban,TOTAL,,Both sexes,64.7
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,Total or no breakdown,All areas,POP_A,,Both sexes,71.2
+2022,IU_DMK_INCL,Mexico,<25Y,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,69.6
+2022,IU_DMK_INCL,Mexico,ALLAGE,Total or no breakdown,AGG_5T8,All areas,TOTAL,,Both sexes,57.6
+2022,IU_DMK_INCL,Mexico,65+,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,67.5
+2022,IU_DMK_INCL,Mexico,55-64,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,62.5
+2022,IU_DMK_INCL,Mexico,55-64,Total or no breakdown,Total or no breakdown,All areas,TOTAL,,Both sexes,62.5

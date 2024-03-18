@@ -1,0 +1,594 @@
+Year,SeriesCode,Country,Age,Sex,Value
+2017,VC_HTF_DETVOP,Australia,18+,Female,7.0
+2017,VC_HTF_DETVOP,Australia,18+,Male,14.0
+2017,VC_HTF_DETVOP,Australia,18+,Both sexes,21.0
+2017,VC_HTF_DETVOP,Australia,<18Y,Both sexes,17.0
+2017,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,39.0
+2018,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,63.0
+2018,VC_HTF_DETVOP,Australia,<18Y,Both sexes,27.0
+2018,VC_HTF_DETVOP,Australia,18+,Male,26.0
+2018,VC_HTF_DETVOP,Australia,<18Y,Male,22.0
+2018,VC_HTF_DETVOP,Australia,18+,Female,12.0
+2018,VC_HTF_DETVOP,Australia,18+,Both sexes,38.0
+2019,VC_HTF_DETVOP,Australia,18+,Both sexes,63.0
+2019,VC_HTF_DETVOP,Australia,18+,Male,44.0
+2019,VC_HTF_DETVOP,Australia,18+,Female,20.0
+2019,VC_HTF_DETVOP,Australia,<18Y,Both sexes,27.0
+2019,VC_HTF_DETVOP,Australia,<18Y,Male,22.0
+2019,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,89.0
+2020,VC_HTF_DETVOP,Australia,<18Y,Both sexes,18.0
+2020,VC_HTF_DETVOP,Australia,18+,Female,23.0
+2020,VC_HTF_DETVOP,Australia,<18Y,Female,6.0
+2020,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,84.0
+2020,VC_HTF_DETVOP,Australia,18+,Male,43.0
+2020,VC_HTF_DETVOP,Australia,18+,Both sexes,66.0
+2020,VC_HTF_DETVOP,Australia,<18Y,Male,17.0
+2017,VC_HTF_DETVOP,Austria,18+,Male,10.0
+2017,VC_HTF_DETVOP,Austria,ALLAGE,Both sexes,5.0
+2018,VC_HTF_DETVOP,Austria,18+,Male,5.0
+2019,VC_HTF_DETVOP,Austria,ALLAGE,Both sexes,10.0
+2019,VC_HTF_DETVOP,Austria,18+,Male,17.0
+2020,VC_HTF_DETVOP,Austria,18+,Female,21.0
+2020,VC_HTF_DETVOP,Austria,ALLAGE,Both sexes,96.0
+2020,VC_HTF_DETVOP,Austria,18+,Male,73.0
+2009,VC_HTF_DETVOP,Armenia,ALLAGE,Both sexes,5.0
+2014,VC_HTF_DETVOP,Poland,18+,Male,5.0
+2014,VC_HTF_DETVOP,Poland,ALLAGE,Both sexes,30.0
+2015,VC_HTF_DETVOP,Poland,ALLAGE,Both sexes,25.0
+2016,VC_HTF_DETVOP,Poland,ALLAGE,Both sexes,19.0
+2006,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,17.0
+2007,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,40.0
+2008,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,41.0
+2009,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,39.0
+2005,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,5.0
+2006,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,6.0
+2015,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,48.0
+2016,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,18.0
+2012,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,10.0
+2014,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,9.0
+2014,VC_HTF_DETVOP,Belgium,18+,Female,5.0
+2015,VC_HTF_DETVOP,Belgium,<18Y,Female,6.0
+2015,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,13.0
+2016,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,9.0
+2016,VC_HTF_DETVOP,Belgium,18+,Female,8.0
+2018,VC_HTF_DETVOP,Belgium,ALLAGE,Both sexes,7.0
+2014,VC_HTF_DETVOP,Bosnia and Herzegovina,<18Y,Male,18.0
+2014,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,36.0
+2014,VC_HTF_DETVOP,Bosnia and Herzegovina,<18Y,Female,13.0
+2015,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,28.0
+2015,VC_HTF_DETVOP,Bosnia and Herzegovina,18+,Female,5.0
+2015,VC_HTF_DETVOP,Bosnia and Herzegovina,18+,Male,6.0
+2015,VC_HTF_DETVOP,Bosnia and Herzegovina,<18Y,Male,10.0
+2016,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,23.0
+2017,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,57.0
+2018,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,17.0
+2019,VC_HTF_DETVOP,Bosnia and Herzegovina,ALLAGE,Both sexes,46.0
+2017,VC_HTF_DETVOP,Poland,18+,Male,12.0
+2017,VC_HTF_DETVOP,Poland,ALLAGE,Both sexes,16.0
+2017,VC_HTF_DETVOP,Poland,18+,Both sexes,15.0
+2018,VC_HTF_DETVOP,Poland,ALLAGE,Both sexes,10.0
+2018,VC_HTF_DETVOP,Poland,18+,Both sexes,9.0
+2018,VC_HTF_DETVOP,Poland,18+,Female,9.0
+2010,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,32.0
+2011,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,55.0
+2012,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,53.0
+2013,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,64.0
+2014,VC_HTF_DETVOP,Bulgaria,18+,Male,60.0
+2014,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,64.0
+2017,VC_HTF_DETVOP,Albania,<18Y,Both sexes,9.0
+2017,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,54.0
+2017,VC_HTF_DETVOP,Albania,<18Y,Female,10.0
+2017,VC_HTF_DETVOP,Albania,<18Y,Male,5.0
+2018,VC_HTF_DETVOP,Albania,<18Y,Male,18.0
+2018,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,81.0
+2018,VC_HTF_DETVOP,Albania,<18Y,Female,10.0
+2018,VC_HTF_DETVOP,Albania,<18Y,Both sexes,26.0
+2019,VC_HTF_DETVOP,Albania,<18Y,Female,10.0
+2019,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,41.0
+2019,VC_HTF_DETVOP,Albania,<18Y,Both sexes,10.0
+2019,VC_HTF_DETVOP,Albania,<18Y,Male,6.0
+2020,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,39.0
+2020,VC_HTF_DETVOP,Albania,<18Y,Both sexes,8.0
+2020,VC_HTF_DETVOP,Albania,<18Y,Male,5.0
+2021,VC_HTF_DETVOP,Albania,ALLAGE,Both sexes,84.0
+2015,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,65.0
+2015,VC_HTF_DETVOP,Bulgaria,18+,Male,64.0
+2016,VC_HTF_DETVOP,Bulgaria,18+,Male,84.0
+2016,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,85.0
+2017,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,114.0
+2017,VC_HTF_DETVOP,Bulgaria,18+,Male,110.0
+2014,VC_HTF_DETVOP,Portugal,ALLAGE,Both sexes,10.0
+2017,VC_HTF_DETVOP,Portugal,ALLAGE,Both sexes,7.0
+2017,VC_HTF_DETVOP,Portugal,<18Y,Male,7.0
+2019,VC_HTF_DETVOP,Portugal,18+,Female,11.0
+2019,VC_HTF_DETVOP,Portugal,18+,Male,6.0
+2019,VC_HTF_DETVOP,Portugal,ALLAGE,Both sexes,17.0
+2005,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,112.0
+2006,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,112.0
+2007,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,180.0
+2008,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,109.0
+2009,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,144.0
+2010,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,169.0
+2011,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,134.0
+2012,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,105.0
+2013,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,82.0
+2014,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,107.0
+2015,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,192.0
+2016,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,94.0
+2017,VC_HTF_DETVOP,Romania,<18Y,Female,45.0
+2017,VC_HTF_DETVOP,Romania,<18Y,Male,45.0
+2017,VC_HTF_DETVOP,Romania,<18Y,Both sexes,48.0
+2017,VC_HTF_DETVOP,Romania,18+,Male,12.0
+2017,VC_HTF_DETVOP,Romania,18+,Both sexes,30.0
+2017,VC_HTF_DETVOP,Romania,18+,Female,19.0
+2017,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,172.0
+2018,VC_HTF_DETVOP,Romania,<18Y,Male,9.0
+2018,VC_HTF_DETVOP,Romania,18+,Female,18.0
+2018,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,70.0
+2018,VC_HTF_DETVOP,Romania,18+,Both sexes,24.0
+2018,VC_HTF_DETVOP,Romania,<18Y,Both sexes,10.0
+2018,VC_HTF_DETVOP,Romania,18+,Male,11.0
+2019,VC_HTF_DETVOP,Romania,<18Y,Male,32.0
+2019,VC_HTF_DETVOP,Romania,18+,Male,28.0
+2019,VC_HTF_DETVOP,Romania,18+,Both sexes,31.0
+2019,VC_HTF_DETVOP,Romania,18+,Female,23.0
+2019,VC_HTF_DETVOP,Romania,<18Y,Female,27.0
+2019,VC_HTF_DETVOP,Romania,<18Y,Both sexes,34.0
+2019,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,110.0
+2020,VC_HTF_DETVOP,Romania,18+,Both sexes,47.0
+2020,VC_HTF_DETVOP,Romania,18+,Female,36.0
+2020,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,111.0
+2020,VC_HTF_DETVOP,Romania,18+,Male,34.0
+2020,VC_HTF_DETVOP,Romania,<18Y,Male,20.0
+2020,VC_HTF_DETVOP,Romania,<18Y,Both sexes,27.0
+2020,VC_HTF_DETVOP,Romania,<18Y,Female,17.0
+2021,VC_HTF_DETVOP,Romania,ALLAGE,Both sexes,72.0
+2006,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,6.0
+2008,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,16.0
+2009,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,11.0
+2012,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,24.0
+2014,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,8.0
+2014,VC_HTF_DETVOP,Serbia,<18Y,Male,5.0
+2017,VC_HTF_DETVOP,Serbia,<18Y,Female,12.0
+2017,VC_HTF_DETVOP,Serbia,<18Y,Male,5.0
+2017,VC_HTF_DETVOP,Serbia,18+,Male,9.0
+2017,VC_HTF_DETVOP,Serbia,<18Y,Both sexes,12.0
+2017,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,28.0
+2018,VC_HTF_DETVOP,Serbia,<18Y,Male,5.0
+2018,VC_HTF_DETVOP,Serbia,<18Y,Both sexes,6.0
+2018,VC_HTF_DETVOP,Serbia,18+,Female,5.0
+2018,VC_HTF_DETVOP,Serbia,18+,Both sexes,5.0
+2018,VC_HTF_DETVOP,Serbia,<18Y,Female,6.0
+2018,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,18.0
+2019,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,8.0
+2019,VC_HTF_DETVOP,Serbia,<18Y,Female,5.0
+2020,VC_HTF_DETVOP,Serbia,<18Y,Both sexes,5.0
+2020,VC_HTF_DETVOP,Serbia,ALLAGE,Both sexes,15.0
+2020,VC_HTF_DETVOP,Serbia,<18Y,Female,5.0
+2011,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,8.0
+2012,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,8.0
+2013,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,9.0
+2014,VC_HTF_DETVOP,Slovakia,18+,Male,12.0
+2014,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,16.0
+2015,VC_HTF_DETVOP,Slovakia,18+,Female,5.0
+2015,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,10.0
+2015,VC_HTF_DETVOP,Slovakia,18+,Male,5.0
+2016,VC_HTF_DETVOP,Slovakia,18+,Female,7.0
+2016,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,12.0
+2017,VC_HTF_DETVOP,Slovakia,18+,Male,14.0
+2017,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,34.0
+2017,VC_HTF_DETVOP,Slovakia,18+,Female,18.0
+2017,VC_HTF_DETVOP,Slovakia,18+,Both sexes,24.0
+2018,VC_HTF_DETVOP,Slovakia,18+,Both sexes,26.0
+2018,VC_HTF_DETVOP,Slovakia,18+,Female,9.0
+2018,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,41.0
+2018,VC_HTF_DETVOP,Slovakia,<18Y,Female,7.0
+2018,VC_HTF_DETVOP,Slovakia,<18Y,Male,7.0
+2018,VC_HTF_DETVOP,Slovakia,18+,Male,18.0
+2018,VC_HTF_DETVOP,Slovakia,<18Y,Both sexes,7.0
+2019,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,40.0
+2019,VC_HTF_DETVOP,Slovakia,18+,Both sexes,20.0
+2019,VC_HTF_DETVOP,Slovakia,18+,Female,15.0
+2019,VC_HTF_DETVOP,Slovakia,<18Y,Female,10.0
+2019,VC_HTF_DETVOP,Slovakia,18+,Male,8.0
+2019,VC_HTF_DETVOP,Slovakia,<18Y,Male,7.0
+2020,VC_HTF_DETVOP,Slovakia,18+,Both sexes,10.0
+2020,VC_HTF_DETVOP,Slovakia,18+,Female,7.0
+2020,VC_HTF_DETVOP,Slovakia,ALLAGE,Both sexes,29.0
+2020,VC_HTF_DETVOP,Slovakia,<18Y,Both sexes,6.0
+2020,VC_HTF_DETVOP,Slovakia,18+,Male,6.0
+2020,VC_HTF_DETVOP,Slovakia,<18Y,Male,6.0
+2020,VC_HTF_DETVOP,Slovakia,<18Y,Female,10.0
+2018,VC_HTF_DETVOP,Slovenia,18+,Both sexes,34.0
+2018,VC_HTF_DETVOP,Slovenia,18+,Male,34.0
+2018,VC_HTF_DETVOP,Slovenia,18+,Female,34.0
+2018,VC_HTF_DETVOP,Slovenia,ALLAGE,Both sexes,68.0
+2013,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,10.0
+2014,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,12.0
+2016,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,20.0
+2016,VC_HTF_DETVOP,Spain,<18Y,Male,14.0
+2017,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,13.0
+2018,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,29.0
+2018,VC_HTF_DETVOP,Spain,18+,Both sexes,12.0
+2018,VC_HTF_DETVOP,Spain,<18Y,Male,5.0
+2018,VC_HTF_DETVOP,Spain,18+,Male,11.0
+2018,VC_HTF_DETVOP,Spain,18+,Female,10.0
+2019,VC_HTF_DETVOP,Spain,18+,Male,24.0
+2019,VC_HTF_DETVOP,Spain,18+,Female,49.0
+2019,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,62.0
+2019,VC_HTF_DETVOP,Spain,18+,Both sexes,52.0
+2020,VC_HTF_DETVOP,Spain,18+,Male,6.0
+2020,VC_HTF_DETVOP,Spain,ALLAGE,Both sexes,13.0
+2020,VC_HTF_DETVOP,Spain,18+,Both sexes,8.0
+2008,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,7.0
+2009,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,17.0
+2010,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,7.0
+2016,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,5.0
+2017,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,91.0
+2018,VC_HTF_DETVOP,Sweden,18+,Female,11.0
+2018,VC_HTF_DETVOP,Sweden,ALLAGE,Both sexes,16.0
+2009,VC_HTF_DETVOP,Switzerland,ALLAGE,Both sexes,68.0
+2017,VC_HTF_DETVOP,Tajikistan,18+,Both sexes,18.0
+2017,VC_HTF_DETVOP,Tajikistan,<18Y,Male,5.0
+2017,VC_HTF_DETVOP,Tajikistan,18+,Male,8.0
+2017,VC_HTF_DETVOP,Tajikistan,<18Y,Female,6.0
+2017,VC_HTF_DETVOP,Tajikistan,18+,Female,10.0
+2017,VC_HTF_DETVOP,Tajikistan,<18Y,_O,10.0
+2017,VC_HTF_DETVOP,Tajikistan,ALLAGE,Both sexes,29.0
+2017,VC_HTF_DETVOP,Tajikistan,<18Y,Both sexes,10.0
+2018,VC_HTF_DETVOP,Tajikistan,18+,Both sexes,12.0
+2018,VC_HTF_DETVOP,Tajikistan,<18Y,Both sexes,11.0
+2018,VC_HTF_DETVOP,Tajikistan,<18Y,_O,11.0
+2018,VC_HTF_DETVOP,Tajikistan,<18Y,Female,5.0
+2018,VC_HTF_DETVOP,Tajikistan,18+,Male,11.0
+2018,VC_HTF_DETVOP,Tajikistan,ALLAGE,Both sexes,22.0
+2018,VC_HTF_DETVOP,Tajikistan,<18Y,Male,5.0
+2019,VC_HTF_DETVOP,Tajikistan,<18Y,Male,6.0
+2019,VC_HTF_DETVOP,Tajikistan,18+,Female,5.0
+2019,VC_HTF_DETVOP,Tajikistan,18+,Both sexes,34.0
+2019,VC_HTF_DETVOP,Tajikistan,<18Y,Both sexes,10.0
+2019,VC_HTF_DETVOP,Tajikistan,18+,Male,29.0
+2019,VC_HTF_DETVOP,Tajikistan,ALLAGE,Both sexes,44.0
+2019,VC_HTF_DETVOP,Tajikistan,<18Y,_O,10.0
+2020,VC_HTF_DETVOP,Tajikistan,ALLAGE,Both sexes,56.0
+2020,VC_HTF_DETVOP,Tajikistan,<18Y,_O,8.0
+2020,VC_HTF_DETVOP,Tajikistan,18+,Both sexes,48.0
+2020,VC_HTF_DETVOP,Tajikistan,18+,Male,48.0
+2020,VC_HTF_DETVOP,Tajikistan,<18Y,Both sexes,8.0
+2017,VC_HTF_DETVOP,United Arab Emirates,ALLAGE,Both sexes,8.0
+2018,VC_HTF_DETVOP,United Arab Emirates,18+,Female,15.0
+2018,VC_HTF_DETVOP,United Arab Emirates,18+,Male,15.0
+2018,VC_HTF_DETVOP,United Arab Emirates,<18Y,Both sexes,5.0
+2018,VC_HTF_DETVOP,United Arab Emirates,ALLAGE,Both sexes,30.0
+2018,VC_HTF_DETVOP,United Arab Emirates,18+,Both sexes,17.0
+2020,VC_HTF_DETVOP,United Arab Emirates,18+,Female,8.0
+2020,VC_HTF_DETVOP,United Arab Emirates,ALLAGE,Both sexes,7.0
+2007,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,37.0
+2008,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,24.0
+2009,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,39.0
+2014,VC_HTF_DETVOP,Ukraine,18+,Male,5.0
+2014,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,10.0
+2015,VC_HTF_DETVOP,Ukraine,18+,Male,11.0
+2015,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,16.0
+2016,VC_HTF_DETVOP,Ukraine,18+,Male,5.0
+2016,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,8.0
+2017,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,14.0
+2017,VC_HTF_DETVOP,Ukraine,18+,Female,8.0
+2018,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,20.0
+2019,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,11.0
+2020,VC_HTF_DETVOP,Ukraine,ALLAGE,Both sexes,47.0
+2013,VC_HTF_DETVOP,North Macedonia,ALLAGE,Both sexes,8.0
+2018,VC_HTF_DETVOP,North Macedonia,ALLAGE,Both sexes,5.0
+2019,VC_HTF_DETVOP,North Macedonia,ALLAGE,Both sexes,5.0
+2009,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,46.0
+2010,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,73.0
+2011,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,82.0
+2012,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,80.0
+2013,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,65.0
+2016,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,55.0
+2018,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,1868.0
+2019,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,3535.55
+2019,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,18+,Male,198.41
+2019,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,18+,Female,994.45
+2019,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,<18Y,Male,263.02
+2019,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,<18Y,Female,2056.67
+2020,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,18+,Male,416.0
+2020,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,ALLAGE,Both sexes,5621.0
+2020,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,<18Y,Male,447.0
+2020,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,18+,Female,1612.0
+2020,VC_HTF_DETVOP,United Kingdom of Great Britain and Northern Ireland,<18Y,Female,2880.0
+2012,VC_HTF_DETVOP,Uzbekistan,ALLAGE,Both sexes,6.0
+2013,VC_HTF_DETVOP,Uzbekistan,ALLAGE,Both sexes,28.0
+2014,VC_HTF_DETVOP,Uzbekistan,ALLAGE,Both sexes,50.0
+2015,VC_HTF_DETVOP,Uzbekistan,ALLAGE,Both sexes,21.0
+2017,VC_HTF_DETVOP,Uzbekistan,<18Y,Both sexes,58.0
+2018,VC_HTF_DETVOP,Uzbekistan,<18Y,Both sexes,47.0
+2019,VC_HTF_DETVOP,Uzbekistan,<18Y,Both sexes,45.0
+2020,VC_HTF_DETVOP,Uzbekistan,<18Y,Both sexes,30.0
+2018,VC_HTF_DETVOP,Bulgaria,18+,Female,5.0
+2018,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,72.0
+2018,VC_HTF_DETVOP,Bulgaria,18+,Male,67.0
+2019,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,72.0
+2020,VC_HTF_DETVOP,Bulgaria,18+,Female,39.0
+2020,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,86.0
+2020,VC_HTF_DETVOP,Bulgaria,18+,Male,39.0
+2020,VC_HTF_DETVOP,Bulgaria,18+,Both sexes,46.0
+2021,VC_HTF_DETVOP,Bulgaria,ALLAGE,Both sexes,69.0
+2008,VC_HTF_DETVOP,Chile,ALLAGE,Both sexes,10.0
+2007,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,5.0
+2008,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,9.0
+2009,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,11.0
+2015,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,7.0
+2016,VC_HTF_DETVOP,Colombia,18+,Male,14.0
+2016,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,16.0
+2017,VC_HTF_DETVOP,Colombia,18+,Male,10.0
+2017,VC_HTF_DETVOP,Colombia,<18Y,Male,5.0
+2017,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,18.0
+2018,VC_HTF_DETVOP,Colombia,ALLAGE,Both sexes,20.0
+2012,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,10.0
+2016,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,5.0
+2017,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,48.0
+2017,VC_HTF_DETVOP,Costa Rica,18+,Female,7.0
+2017,VC_HTF_DETVOP,Costa Rica,<18Y,Both sexes,5.0
+2018,VC_HTF_DETVOP,Costa Rica,18+,Female,5.0
+2018,VC_HTF_DETVOP,Costa Rica,<18Y,Female,7.0
+2018,VC_HTF_DETVOP,Costa Rica,<18Y,Male,6.0
+2018,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,48.0
+2019,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,67.0
+2019,VC_HTF_DETVOP,Costa Rica,<18Y,Male,14.0
+2020,VC_HTF_DETVOP,Costa Rica,<18Y,Female,6.0
+2020,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,61.0
+2021,VC_HTF_DETVOP,Costa Rica,ALLAGE,Both sexes,5.0
+2004,VC_HTF_DETVOP,Croatia,ALLAGE,Both sexes,10.0
+2014,VC_HTF_DETVOP,Croatia,ALLAGE,Both sexes,5.0
+2017,VC_HTF_DETVOP,Croatia,<18Y,Female,6.0
+2017,VC_HTF_DETVOP,Croatia,ALLAGE,Both sexes,19.0
+2017,VC_HTF_DETVOP,Croatia,18+,Female,8.0
+2018,VC_HTF_DETVOP,Croatia,18+,Female,45.0
+2018,VC_HTF_DETVOP,Croatia,ALLAGE,Both sexes,62.0
+2018,VC_HTF_DETVOP,Croatia,18+,Male,16.0
+2008,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,12.0
+2014,VC_HTF_DETVOP,Cyprus,18+,Male,7.0
+2014,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,7.0
+2015,VC_HTF_DETVOP,Cyprus,18+,Male,7.0
+2015,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,7.0
+2016,VC_HTF_DETVOP,Cyprus,18+,Male,18.0
+2016,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,21.0
+2018,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,8.0
+2018,VC_HTF_DETVOP,Cyprus,18+,Male,6.0
+2019,VC_HTF_DETVOP,Cyprus,ALLAGE,Both sexes,13.0
+2019,VC_HTF_DETVOP,Cyprus,18+,Male,8.0
+2018,VC_HTF_DETVOP,Czechia,ALLAGE,Both sexes,10.0
+2018,VC_HTF_DETVOP,Czechia,18+,Male,8.0
+2019,VC_HTF_DETVOP,Czechia,ALLAGE,Both sexes,9.0
+2019,VC_HTF_DETVOP,Czechia,18+,Male,7.0
+2013,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,7.0
+2014,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,8.0
+2015,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,43.0
+2016,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,7.0
+2017,VC_HTF_DETVOP,Denmark,18+,Both sexes,8.0
+2017,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,12.0
+2017,VC_HTF_DETVOP,Denmark,18+,Female,8.0
+2018,VC_HTF_DETVOP,Denmark,<18Y,Female,8.0
+2018,VC_HTF_DETVOP,Denmark,18+,Both sexes,7.0
+2018,VC_HTF_DETVOP,Denmark,18+,Female,9.0
+2018,VC_HTF_DETVOP,Denmark,<18Y,Both sexes,7.0
+2018,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,21.0
+2019,VC_HTF_DETVOP,Denmark,18+,Female,8.0
+2019,VC_HTF_DETVOP,Denmark,18+,Both sexes,6.0
+2019,VC_HTF_DETVOP,Denmark,<18Y,Female,10.0
+2019,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,21.0
+2020,VC_HTF_DETVOP,Denmark,<18Y,Both sexes,6.0
+2020,VC_HTF_DETVOP,Denmark,ALLAGE,Both sexes,19.0
+2020,VC_HTF_DETVOP,Denmark,18+,Both sexes,13.0
+2020,VC_HTF_DETVOP,Denmark,18+,Female,9.0
+2017,VC_HTF_DETVOP,Estonia,ALLAGE,Both sexes,5.0
+2010,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,6.0
+2014,VC_HTF_DETVOP,Finland,18+,Male,5.0
+2015,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,7.0
+2015,VC_HTF_DETVOP,Finland,18+,Male,5.0
+2016,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,20.0
+2016,VC_HTF_DETVOP,Finland,18+,Male,13.0
+2017,VC_HTF_DETVOP,Finland,<18Y,Both sexes,7.0
+2017,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,39.0
+2017,VC_HTF_DETVOP,Finland,18+,Male,6.0
+2017,VC_HTF_DETVOP,Finland,18+,Both sexes,17.0
+2018,VC_HTF_DETVOP,Finland,18+,Both sexes,31.0
+2018,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,68.0
+2019,VC_HTF_DETVOP,Finland,18+,Both sexes,65.0
+2019,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,133.0
+2020,VC_HTF_DETVOP,Finland,18+,Female,52.0
+2020,VC_HTF_DETVOP,Finland,18+,Both sexes,57.0
+2020,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,117.0
+2020,VC_HTF_DETVOP,Finland,18+,Male,61.0
+2021,VC_HTF_DETVOP,Finland,ALLAGE,Both sexes,70.0
+2016,VC_HTF_DETVOP,France,ALLAGE,Both sexes,562.0
+2018,VC_HTF_DETVOP,France,18+,Male,194.0
+2018,VC_HTF_DETVOP,France,<18Y,Female,31.0
+2018,VC_HTF_DETVOP,France,<18Y,Male,46.0
+2018,VC_HTF_DETVOP,France,ALLAGE,Both sexes,545.0
+2018,VC_HTF_DETVOP,France,18+,Female,274.0
+2019,VC_HTF_DETVOP,France,<18Y,Female,42.0
+2019,VC_HTF_DETVOP,France,<18Y,Male,53.0
+2019,VC_HTF_DETVOP,France,ALLAGE,Both sexes,663.0
+2019,VC_HTF_DETVOP,France,18+,Female,369.0
+2019,VC_HTF_DETVOP,France,18+,Male,199.0
+2019,VC_HTF_DETVOP,Georgia,<18Y,Male,27.0
+2019,VC_HTF_DETVOP,Georgia,ALLAGE,Both sexes,29.0
+2015,VC_HTF_DETVOP,Germany,ALLAGE,Both sexes,524.0
+2018,VC_HTF_DETVOP,Germany,<18Y,Both sexes,5.0
+2018,VC_HTF_DETVOP,Germany,18+,Both sexes,5.0
+2018,VC_HTF_DETVOP,Germany,ALLAGE,Both sexes,18.0
+2018,VC_HTF_DETVOP,Germany,<18Y,Male,5.0
+2018,VC_HTF_DETVOP,Germany,<18Y,Female,5.0
+2019,VC_HTF_DETVOP,Germany,ALLAGE,Both sexes,47.0
+2019,VC_HTF_DETVOP,Germany,18+,Female,22.0
+2019,VC_HTF_DETVOP,Germany,18+,Male,23.0
+2019,VC_HTF_DETVOP,Germany,18+,Both sexes,23.0
+2020,VC_HTF_DETVOP,Germany,<18Y,Male,7.0
+2020,VC_HTF_DETVOP,Germany,<18Y,Both sexes,6.0
+2020,VC_HTF_DETVOP,Germany,ALLAGE,Both sexes,26.0
+2020,VC_HTF_DETVOP,Germany,18+,Female,8.0
+2020,VC_HTF_DETVOP,Germany,<18Y,Female,6.0
+2020,VC_HTF_DETVOP,Germany,18+,Both sexes,8.0
+2015,VC_HTF_DETVOP,Greece,18+,Female,9.0
+2015,VC_HTF_DETVOP,Greece,ALLAGE,Both sexes,12.0
+2016,VC_HTF_DETVOP,Greece,18+,Female,11.0
+2016,VC_HTF_DETVOP,Greece,<18Y,Male,5.0
+2016,VC_HTF_DETVOP,Greece,<18Y,Female,6.0
+2016,VC_HTF_DETVOP,Greece,ALLAGE,Both sexes,22.0
+2019,VC_HTF_DETVOP,Greece,18+,Male,5.0
+2019,VC_HTF_DETVOP,Greece,ALLAGE,Both sexes,49.0
+2019,VC_HTF_DETVOP,Greece,18+,Female,5.0
+2019,VC_HTF_DETVOP,Greece,<18Y,Both sexes,36.0
+2019,VC_HTF_DETVOP,Greece,<18Y,Male,17.0
+2019,VC_HTF_DETVOP,Greece,<18Y,Female,21.0
+2019,VC_HTF_DETVOP,Greece,18+,Both sexes,7.0
+2020,VC_HTF_DETVOP,Greece,<18Y,Both sexes,70.0
+2020,VC_HTF_DETVOP,Greece,<18Y,Male,33.0
+2020,VC_HTF_DETVOP,Greece,<18Y,Female,41.0
+2020,VC_HTF_DETVOP,Greece,ALLAGE,Both sexes,78.0
+2021,VC_HTF_DETVOP,Greece,ALLAGE,Both sexes,32.0
+2007,VC_HTF_DETVOP,Hungary,ALLAGE,Both sexes,7.0
+2014,VC_HTF_DETVOP,Hungary,18+,Male,11.0
+2014,VC_HTF_DETVOP,Hungary,ALLAGE,Both sexes,12.0
+2015,VC_HTF_DETVOP,Hungary,ALLAGE,Both sexes,6.0
+2017,VC_HTF_DETVOP,Hungary,18+,Male,6.0
+2017,VC_HTF_DETVOP,Hungary,ALLAGE,Both sexes,9.0
+2009,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,14.0
+2015,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,6.0
+2016,VC_HTF_DETVOP,Australia,ALLAGE,Both sexes,23.0
+2017,VC_HTF_DETVOP,Australia,<18Y,Male,17.0
+2017,VC_HTF_DETVOP,India,ALLAGE,Both sexes,2744.0
+2018,VC_HTF_DETVOP,India,ALLAGE,Both sexes,2197.0
+2019,VC_HTF_DETVOP,India,ALLAGE,Both sexes,2982.0
+2020,VC_HTF_DETVOP,India,ALLAGE,Both sexes,916.0
+2014,VC_HTF_DETVOP,Ireland,ALLAGE,Both sexes,6.0
+2015,VC_HTF_DETVOP,Ireland,ALLAGE,Both sexes,7.0
+2016,VC_HTF_DETVOP,Ireland,ALLAGE,Both sexes,5.0
+2016,VC_HTF_DETVOP,Israel,ALLAGE,Both sexes,10.0
+2016,VC_HTF_DETVOP,Israel,18+,Female,5.0
+2016,VC_HTF_DETVOP,Israel,<18Y,Female,5.0
+2020,VC_HTF_DETVOP,Israel,ALLAGE,Both sexes,39.0
+2020,VC_HTF_DETVOP,Israel,18+,Both sexes,39.0
+2020,VC_HTF_DETVOP,Israel,18+,Male,39.0
+2007,VC_HTF_DETVOP,Italy,ALLAGE,Both sexes,19.0
+2008,VC_HTF_DETVOP,Italy,ALLAGE,Both sexes,17.0
+2009,VC_HTF_DETVOP,Italy,ALLAGE,Both sexes,35.0
+2021,VC_HTF_DETVOP,Italy,ALLAGE,Both sexes,122.0
+2010,VC_HTF_DETVOP,Japan,ALLAGE,Both sexes,38.0
+2011,VC_HTF_DETVOP,Japan,ALLAGE,Both sexes,9.0
+2017,VC_HTF_DETVOP,Kazakhstan,ALLAGE,Both sexes,24.0
+2018,VC_HTF_DETVOP,Kazakhstan,ALLAGE,Both sexes,11.0
+2019,VC_HTF_DETVOP,Kazakhstan,ALLAGE,Both sexes,6.0
+2020,VC_HTF_DETVOP,Kazakhstan,ALLAGE,Both sexes,8.0
+2018,VC_HTF_DETVOP,Kyrgyzstan,<18Y,Both sexes,6.0
+2018,VC_HTF_DETVOP,Kyrgyzstan,ALLAGE,Both sexes,6.0
+2019,VC_HTF_DETVOP,Kyrgyzstan,ALLAGE,Both sexes,8.0
+2019,VC_HTF_DETVOP,Kyrgyzstan,<18Y,Both sexes,8.0
+2020,VC_HTF_DETVOP,Kyrgyzstan,<18Y,Both sexes,5.0
+2020,VC_HTF_DETVOP,Kyrgyzstan,ALLAGE,Both sexes,5.0
+2011,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,5.0
+2012,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,14.0
+2013,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,15.0
+2014,VC_HTF_DETVOP,Latvia,18+,Male,22.0
+2014,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,22.0
+2015,VC_HTF_DETVOP,Latvia,18+,Male,7.0
+2015,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,8.0
+2017,VC_HTF_DETVOP,Latvia,18+,Male,8.0
+2017,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,9.0
+2018,VC_HTF_DETVOP,Latvia,18+,Male,6.0
+2018,VC_HTF_DETVOP,Latvia,ALLAGE,Both sexes,6.0
+2014,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,33.0
+2014,VC_HTF_DETVOP,Lithuania,18+,Female,20.0
+2014,VC_HTF_DETVOP,Lithuania,18+,Male,10.0
+2015,VC_HTF_DETVOP,Lithuania,18+,Male,12.0
+2015,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,36.0
+2015,VC_HTF_DETVOP,Lithuania,<18Y,Female,5.0
+2015,VC_HTF_DETVOP,Lithuania,18+,Female,17.0
+2016,VC_HTF_DETVOP,Lithuania,18+,Male,6.0
+2016,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,22.0
+2016,VC_HTF_DETVOP,Lithuania,18+,Female,13.0
+2017,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,14.0
+2017,VC_HTF_DETVOP,Lithuania,18+,Female,7.0
+2018,VC_HTF_DETVOP,Lithuania,18+,Female,5.0
+2018,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,9.0
+2019,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,14.0
+2019,VC_HTF_DETVOP,Lithuania,18+,Female,10.0
+2020,VC_HTF_DETVOP,Lithuania,ALLAGE,Both sexes,12.0
+2020,VC_HTF_DETVOP,Lithuania,18+,Female,7.0
+2020,VC_HTF_DETVOP,Lithuania,18+,Both sexes,9.0
+2016,VC_HTF_DETVOP,Luxembourg,ALLAGE,Both sexes,5.0
+2021,VC_HTF_DETVOP,Luxembourg,ALLAGE,Both sexes,12.0
+2009,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,12.0
+2015,VC_HTF_DETVOP,Mexico,<18Y,Male,10.0
+2015,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,13.0
+2016,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,76.0
+2017,VC_HTF_DETVOP,Mexico,<18Y,Female,14.0
+2017,VC_HTF_DETVOP,Mexico,18+,Male,10.0
+2017,VC_HTF_DETVOP,Mexico,<18Y,Male,9.0
+2017,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,33.0
+2018,VC_HTF_DETVOP,Mexico,<18Y,Male,31.0
+2018,VC_HTF_DETVOP,Mexico,<18Y,Female,36.0
+2018,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,71.0
+2020,VC_HTF_DETVOP,Mexico,ALLAGE,Both sexes,43.0
+2006,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,73.0
+2007,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,18.0
+2009,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,10.0
+2012,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,14.0
+2013,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,24.0
+2014,VC_HTF_DETVOP,Moldova,18+,Male,31.0
+2014,VC_HTF_DETVOP,Moldova,18+,Female,22.0
+2014,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,57.0
+2015,VC_HTF_DETVOP,Moldova,18+,Female,13.0
+2015,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,18.0
+2015,VC_HTF_DETVOP,Moldova,18+,Male,16.0
+2016,VC_HTF_DETVOP,Moldova,18+,Female,34.0
+2016,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,55.0
+2016,VC_HTF_DETVOP,Moldova,18+,Male,14.0
+2017,VC_HTF_DETVOP,Moldova,<18Y,Male,6.0
+2017,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,22.0
+2018,VC_HTF_DETVOP,Moldova,18+,Male,10.0
+2018,VC_HTF_DETVOP,Moldova,ALLAGE,Both sexes,15.0
+2007,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,356.0
+2008,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,335.0
+2009,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,386.0
+2010,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,73.0
+2011,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,148.0
+2012,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,163.0
+2013,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,314.0
+2014,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Female,6.0
+2014,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Male,19.0
+2014,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Male,27.0
+2014,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,61.0
+2014,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Female,9.0
+2015,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Male,24.0
+2015,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,30.0
+2016,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Female,9.0
+2016,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Female,6.0
+2016,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,61.0
+2016,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Male,19.0
+2016,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Male,27.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Female,145.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,_O,6.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,535.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Male,82.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Both sexes,182.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Female,137.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Male,164.0
+2017,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Both sexes,84.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,100.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Both sexes,18.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Male,18.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Both sexes,82.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Female,12.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),18+,Female,64.0
+2018,VC_HTF_DETVOP,Netherlands (Kingdom of the),<18Y,Male,6.0
+2019,VC_HTF_DETVOP,Netherlands (Kingdom of the),ALLAGE,Both sexes,195.0
+2012,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,16.0
+2014,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,6.0
+2016,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,13.0
+2016,VC_HTF_DETVOP,Norway,18+,Male,11.0
+2019,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,16.0
+2020,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,15.0
+2020,VC_HTF_DETVOP,Norway,ALLAGE,Both sexes,15.0

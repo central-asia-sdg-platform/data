@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_SAN_HNDWSH",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armenia",
+                "Mexico",
+                "Azerbaijan",
+                "Republic of Moldova",
+                "Bosnia and Herzegovina",
+                "Montenegro",
+                "China",
+                "Serbia",
+                "Colombia",
+                "Costa Rica",
+                "Georgia",
+                "India",
+                "Казахстан",
+                "Кыргызстан",
+                "Viet Nam",
+                "Таджикистан",
+                "Туркменистан",
+                "North Macedonia",
+                "Узбекистан",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAREA",
+                "URBAN",
+                "RURAL",
+                ""
+              ]
+            },
+            "title": "Location"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-2-1-SH_SAN_HNDWSH",
+  "title": "meta.name-6-2-1-SH_SAN_HNDWSH"
+}

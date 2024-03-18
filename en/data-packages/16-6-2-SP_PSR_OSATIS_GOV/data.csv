@@ -1,0 +1,28 @@
+Year,SeriesCode,Country,Age,Disability status,Location,Population Group,Quantile,Sex,Value
+2022,SP_PSR_OSATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,94
+2022,SP_PSR_OSATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,93
+2022,SP_PSR_OSATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,94
+2022,SP_PSR_OSATIS_GOV,Belarus,ALLAGE,Total or no breakdown,Rural,TOTAL,,Both sexes,97
+2022,SP_PSR_OSATIS_GOV,Belarus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,94
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_A,,Both sexes,98
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,99
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,POP_B,,Both sexes,99
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,98
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,Rural,TOTAL,,Both sexes,99
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,98
+2022,SP_PSR_OSATIS_GOV,Cyprus,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,98
+2022,SP_PSR_OSATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,80
+2022,SP_PSR_OSATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,82
+2022,SP_PSR_OSATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,83
+2022,SP_PSR_OSATIS_GOV,Israel,ALLAGE,Total or no breakdown,All areas,POP_A,,Both sexes,77
+2022,SP_PSR_OSATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Male,81
+2022,SP_PSR_OSATIS_GOV,Mexico,ALLAGE,Total or no breakdown,Urban,TOTAL,,Both sexes,81
+2022,SP_PSR_OSATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Both sexes,81
+2022,SP_PSR_OSATIS_GOV,Mexico,<25Y,Total or no breakdown,All areas,TOTAL,,Both sexes,83
+2022,SP_PSR_OSATIS_GOV,Mexico,25-34,Total or no breakdown,All areas,TOTAL,,Both sexes,83
+2022,SP_PSR_OSATIS_GOV,Mexico,65+,Total or no breakdown,All areas,TOTAL,,Both sexes,80
+2022,SP_PSR_OSATIS_GOV,Mexico,35-44,Total or no breakdown,All areas,TOTAL,,Both sexes,80
+2022,SP_PSR_OSATIS_GOV,Mexico,45-54,Total or no breakdown,All areas,TOTAL,,Both sexes,81
+2022,SP_PSR_OSATIS_GOV,Mexico,ALLAGE,Total or no breakdown,All areas,TOTAL,,Female,80
+2022,SP_PSR_OSATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,Both sexes,73
+2022,SP_PSR_OSATIS_GOV,Mexico,55-64,Total or no breakdown,All areas,TOTAL,,Both sexes,73

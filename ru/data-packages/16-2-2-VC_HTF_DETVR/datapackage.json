@@ -1,0 +1,138 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_HTF_DETVR",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Albania",
+                "Colombia",
+                "Greece",
+                "Hungary",
+                "Costa Rica",
+                "Austria",
+                "Iceland",
+                "India",
+                "Croatia",
+                "Armenia",
+                "Ireland",
+                "Cyprus",
+                "Belgium",
+                "Czechia",
+                "Israel",
+                "Bosnia and Herzegovina",
+                "Denmark",
+                "Italy",
+                "Bulgaria",
+                "Estonia",
+                "Japan",
+                "Belarus",
+                "Finland",
+                "Canada",
+                "Казахстан",
+                "Кыргызстан",
+                "France",
+                "Chile",
+                "Latvia",
+                "Azerbaijan",
+                "Georgia",
+                "Lithuania",
+                "China",
+                "Luxembourg",
+                "Germany",
+                "Malta",
+                "Poland",
+                "Portugal",
+                "Switzerland",
+                "Mexico",
+                "Romania",
+                "Republic of Moldova",
+                "Таджикистан",
+                "United Arab Emirates",
+                "Montenegro",
+                "Netherlands (Kingdom of the)",
+                "Türkiye",
+                "Туркменистан",
+                "New Zealand",
+                "Ukraine",
+                "Norway",
+                "North Macedonia",
+                "Serbia",
+                "Slovakia",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Viet Nam",
+                "Узбекистан",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ALLAGE",
+                "18+",
+                "<18Y",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "BOTHSEX",
+                "MALE",
+                "FEMALE",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-2-VC_HTF_DETVR",
+  "title": "meta.name-16-2-2-VC_HTF_DETVR"
+}

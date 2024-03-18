@@ -1,1 +1,932 @@
-Year,Value
+Year,SeriesCode,Country,Sex,Value
+2000,SH_STA_SCIDE,Czechia,Both sexes,16.3
+2000,SH_STA_SCIDE,Czechia,Female,6.8
+2000,SH_STA_SCIDE,Czechia,Male,26.3
+2005,SH_STA_SCIDE,Czechia,Both sexes,15.8
+2005,SH_STA_SCIDE,Czechia,Female,5.8
+2005,SH_STA_SCIDE,Czechia,Male,26.3
+2010,SH_STA_SCIDE,Czechia,Male,25.4
+2010,SH_STA_SCIDE,Czechia,Both sexes,15.0
+2010,SH_STA_SCIDE,Czechia,Female,5.1
+2015,SH_STA_SCIDE,Czechia,Both sexes,13.6
+2015,SH_STA_SCIDE,Czechia,Female,5.0
+2015,SH_STA_SCIDE,Czechia,Male,22.5
+2019,SH_STA_SCIDE,Czechia,Both sexes,12.2
+2019,SH_STA_SCIDE,Czechia,Female,4.8
+2019,SH_STA_SCIDE,Czechia,Male,19.8
+2000,SH_STA_SCIDE,Denmark,Both sexes,15.6
+2000,SH_STA_SCIDE,Denmark,Female,8.8
+2000,SH_STA_SCIDE,Denmark,Male,22.6
+2005,SH_STA_SCIDE,Denmark,Both sexes,14.8
+2005,SH_STA_SCIDE,Denmark,Female,9.5
+2000,SH_STA_SCIDE,Albania,Both sexes,4.9
+2000,SH_STA_SCIDE,Albania,Male,7.0
+2000,SH_STA_SCIDE,Albania,Female,2.8
+2005,SH_STA_SCIDE,Albania,Both sexes,7.5
+2005,SH_STA_SCIDE,Albania,Female,5.2
+2005,SH_STA_SCIDE,Albania,Male,9.7
+2010,SH_STA_SCIDE,Albania,Both sexes,7.8
+2010,SH_STA_SCIDE,Albania,Female,6.1
+2010,SH_STA_SCIDE,Albania,Male,9.5
+2015,SH_STA_SCIDE,Albania,Both sexes,4.8
+2005,SH_STA_SCIDE,Denmark,Male,20.3
+2010,SH_STA_SCIDE,Denmark,Both sexes,11.8
+2010,SH_STA_SCIDE,Denmark,Male,16.5
+2010,SH_STA_SCIDE,Denmark,Female,7.2
+2015,SH_STA_SCIDE,Denmark,Female,7.2
+2015,SH_STA_SCIDE,Denmark,Male,14.7
+2015,SH_STA_SCIDE,Denmark,Both sexes,10.9
+2019,SH_STA_SCIDE,Denmark,Both sexes,10.7
+2019,SH_STA_SCIDE,Denmark,Female,6.5
+2019,SH_STA_SCIDE,Denmark,Male,14.9
+2015,SH_STA_SCIDE,Albania,Female,3.2
+2015,SH_STA_SCIDE,Albania,Male,6.3
+2019,SH_STA_SCIDE,Albania,Both sexes,4.3
+2019,SH_STA_SCIDE,Albania,Female,2.7
+2019,SH_STA_SCIDE,Albania,Male,5.9
+2000,SH_STA_SCIDE,Azerbaijan,Both sexes,3.1
+2000,SH_STA_SCIDE,Azerbaijan,Female,1.2
+2000,SH_STA_SCIDE,Azerbaijan,Male,5.1
+2005,SH_STA_SCIDE,Azerbaijan,Both sexes,4.5
+2005,SH_STA_SCIDE,Azerbaijan,Female,1.9
+2000,SH_STA_SCIDE,Estonia,Both sexes,29.1
+2000,SH_STA_SCIDE,Estonia,Female,12.6
+2000,SH_STA_SCIDE,Estonia,Male,48.0
+2005,SH_STA_SCIDE,Estonia,Both sexes,22.6
+2005,SH_STA_SCIDE,Estonia,Female,8.2
+2005,SH_STA_SCIDE,Estonia,Male,39.2
+2010,SH_STA_SCIDE,Estonia,Both sexes,18.8
+2010,SH_STA_SCIDE,Estonia,Female,6.6
+2010,SH_STA_SCIDE,Estonia,Male,32.7
+2015,SH_STA_SCIDE,Estonia,Both sexes,15.9
+2005,SH_STA_SCIDE,Azerbaijan,Male,7.2
+2010,SH_STA_SCIDE,Azerbaijan,Female,1.9
+2010,SH_STA_SCIDE,Azerbaijan,Both sexes,4.6
+2010,SH_STA_SCIDE,Azerbaijan,Male,7.3
+2015,SH_STA_SCIDE,Azerbaijan,Male,6.6
+2015,SH_STA_SCIDE,Azerbaijan,Female,1.6
+2015,SH_STA_SCIDE,Azerbaijan,Both sexes,4.1
+2019,SH_STA_SCIDE,Azerbaijan,Both sexes,4.1
+2019,SH_STA_SCIDE,Azerbaijan,Female,1.6
+2019,SH_STA_SCIDE,Azerbaijan,Male,6.6
+2000,SH_STA_SCIDE,Australia,Both sexes,12.7
+2000,SH_STA_SCIDE,Australia,Female,5.6
+2000,SH_STA_SCIDE,Australia,Male,19.9
+2005,SH_STA_SCIDE,Australia,Male,17.3
+2005,SH_STA_SCIDE,Australia,Both sexes,11.2
+2005,SH_STA_SCIDE,Australia,Female,5.1
+2010,SH_STA_SCIDE,Australia,Both sexes,11.7
+2010,SH_STA_SCIDE,Australia,Female,5.7
+2010,SH_STA_SCIDE,Australia,Male,17.7
+2015,SH_STA_SCIDE,Australia,Both sexes,13.2
+2015,SH_STA_SCIDE,Australia,Female,6.8
+2015,SH_STA_SCIDE,Australia,Male,19.7
+2019,SH_STA_SCIDE,Australia,Male,18.6
+2019,SH_STA_SCIDE,Australia,Female,6.4
+2019,SH_STA_SCIDE,Australia,Both sexes,12.5
+2000,SH_STA_SCIDE,Austria,Both sexes,19.9
+2000,SH_STA_SCIDE,Austria,Female,10.6
+2000,SH_STA_SCIDE,Austria,Male,29.8
+2005,SH_STA_SCIDE,Austria,Both sexes,17.2
+2005,SH_STA_SCIDE,Austria,Female,8.6
+2005,SH_STA_SCIDE,Austria,Male,26.4
+2010,SH_STA_SCIDE,Austria,Both sexes,16.1
+2010,SH_STA_SCIDE,Austria,Female,7.6
+2010,SH_STA_SCIDE,Austria,Male,25.1
+2015,SH_STA_SCIDE,Austria,Male,24.8
+2015,SH_STA_SCIDE,Austria,Both sexes,16.0
+2015,SH_STA_SCIDE,Austria,Female,7.6
+2019,SH_STA_SCIDE,Austria,Both sexes,14.6
+2019,SH_STA_SCIDE,Austria,Male,22.8
+2019,SH_STA_SCIDE,Austria,Female,6.7
+2000,SH_STA_SCIDE,Armenia,Male,5.1
+2000,SH_STA_SCIDE,Armenia,Female,1.9
+2000,SH_STA_SCIDE,Armenia,Both sexes,3.4
+2005,SH_STA_SCIDE,Armenia,Both sexes,4.2
+2005,SH_STA_SCIDE,Armenia,Female,2.1
+2005,SH_STA_SCIDE,Armenia,Male,6.6
+2010,SH_STA_SCIDE,Armenia,Male,10.5
+2010,SH_STA_SCIDE,Armenia,Both sexes,6.7
+2010,SH_STA_SCIDE,Armenia,Female,3.5
+2015,SH_STA_SCIDE,Armenia,Both sexes,6.2
+2015,SH_STA_SCIDE,Armenia,Female,3.7
+2015,SH_STA_SCIDE,Armenia,Male,8.9
+2019,SH_STA_SCIDE,Armenia,Both sexes,3.3
+2019,SH_STA_SCIDE,Armenia,Female,1.3
+2019,SH_STA_SCIDE,Armenia,Male,5.6
+2000,SH_STA_SCIDE,Belgium,Both sexes,22.0
+2000,SH_STA_SCIDE,Belgium,Female,12.9
+2000,SH_STA_SCIDE,Belgium,Male,31.5
+2005,SH_STA_SCIDE,Belgium,Both sexes,20.7
+2005,SH_STA_SCIDE,Belgium,Male,30.3
+2005,SH_STA_SCIDE,Belgium,Female,11.4
+2010,SH_STA_SCIDE,Belgium,Both sexes,20.5
+2010,SH_STA_SCIDE,Belgium,Female,12.2
+2010,SH_STA_SCIDE,Belgium,Male,29.1
+2015,SH_STA_SCIDE,Belgium,Both sexes,18.6
+2015,SH_STA_SCIDE,Belgium,Female,11.7
+2015,SH_STA_SCIDE,Belgium,Male,25.8
+2019,SH_STA_SCIDE,Belgium,Both sexes,18.3
+2019,SH_STA_SCIDE,Belgium,Female,11.8
+2019,SH_STA_SCIDE,Belgium,Male,24.9
+2000,SH_STA_SCIDE,Bosnia and Herzegovina,Both sexes,9.0
+2000,SH_STA_SCIDE,Bosnia and Herzegovina,Female,4.0
+2000,SH_STA_SCIDE,Bosnia and Herzegovina,Male,14.3
+2005,SH_STA_SCIDE,Bosnia and Herzegovina,Both sexes,10.8
+2005,SH_STA_SCIDE,Bosnia and Herzegovina,Female,4.4
+2005,SH_STA_SCIDE,Bosnia and Herzegovina,Male,17.3
+2010,SH_STA_SCIDE,Bosnia and Herzegovina,Both sexes,10.5
+2010,SH_STA_SCIDE,Bosnia and Herzegovina,Female,4.5
+2010,SH_STA_SCIDE,Bosnia and Herzegovina,Male,16.8
+2015,SH_STA_SCIDE,Bosnia and Herzegovina,Both sexes,10.7
+2015,SH_STA_SCIDE,Bosnia and Herzegovina,Female,4.6
+2015,SH_STA_SCIDE,Bosnia and Herzegovina,Male,17.0
+2019,SH_STA_SCIDE,Bosnia and Herzegovina,Both sexes,10.9
+2019,SH_STA_SCIDE,Bosnia and Herzegovina,Female,4.5
+2019,SH_STA_SCIDE,Bosnia and Herzegovina,Male,17.6
+2000,SH_STA_SCIDE,Bulgaria,Both sexes,18.2
+2000,SH_STA_SCIDE,Bulgaria,Female,10.1
+2000,SH_STA_SCIDE,Bulgaria,Male,26.8
+2005,SH_STA_SCIDE,Bulgaria,Female,6.7
+2005,SH_STA_SCIDE,Bulgaria,Male,20.2
+2005,SH_STA_SCIDE,Bulgaria,Both sexes,13.2
+2010,SH_STA_SCIDE,Bulgaria,Both sexes,12.4
+2010,SH_STA_SCIDE,Bulgaria,Female,5.9
+2010,SH_STA_SCIDE,Bulgaria,Male,19.2
+2015,SH_STA_SCIDE,Bulgaria,Both sexes,9.8
+2015,SH_STA_SCIDE,Bulgaria,Female,4.5
+2015,SH_STA_SCIDE,Bulgaria,Male,15.5
+2019,SH_STA_SCIDE,Bulgaria,Both sexes,9.7
+2019,SH_STA_SCIDE,Bulgaria,Male,15.3
+2019,SH_STA_SCIDE,Bulgaria,Female,4.4
+2000,SH_STA_SCIDE,Belarus,Female,11.9
+2000,SH_STA_SCIDE,Belarus,Male,75.6
+2000,SH_STA_SCIDE,Belarus,Both sexes,41.8
+2005,SH_STA_SCIDE,Belarus,Both sexes,43.5
+2005,SH_STA_SCIDE,Belarus,Female,12.9
+2005,SH_STA_SCIDE,Belarus,Male,78.5
+2010,SH_STA_SCIDE,Belarus,Both sexes,35.9
+2010,SH_STA_SCIDE,Belarus,Female,11.2
+2010,SH_STA_SCIDE,Belarus,Male,64.3
+2015,SH_STA_SCIDE,Belarus,Both sexes,24.3
+2015,SH_STA_SCIDE,Belarus,Female,8.3
+2015,SH_STA_SCIDE,Belarus,Male,42.7
+2019,SH_STA_SCIDE,Belarus,Both sexes,21.2
+2019,SH_STA_SCIDE,Belarus,Female,7.7
+2019,SH_STA_SCIDE,Belarus,Male,36.7
+2000,SH_STA_SCIDE,Canada,Both sexes,11.9
+2000,SH_STA_SCIDE,Canada,Female,5.7
+2000,SH_STA_SCIDE,Canada,Male,18.3
+2005,SH_STA_SCIDE,Canada,Female,6.2
+2005,SH_STA_SCIDE,Canada,Both sexes,12.2
+2005,SH_STA_SCIDE,Canada,Male,18.2
+2010,SH_STA_SCIDE,Canada,Both sexes,12.1
+2010,SH_STA_SCIDE,Canada,Female,6.4
+2010,SH_STA_SCIDE,Canada,Male,17.8
+2015,SH_STA_SCIDE,Canada,Female,6.8
+2015,SH_STA_SCIDE,Canada,Male,19.2
+2015,SH_STA_SCIDE,Canada,Both sexes,13.0
+2019,SH_STA_SCIDE,Canada,Both sexes,11.8
+2019,SH_STA_SCIDE,Canada,Female,6.1
+2019,SH_STA_SCIDE,Canada,Male,17.6
+2000,SH_STA_SCIDE,Chile,Both sexes,10.3
+2000,SH_STA_SCIDE,Chile,Female,2.9
+2000,SH_STA_SCIDE,Chile,Male,17.9
+2005,SH_STA_SCIDE,Chile,Both sexes,9.7
+2005,SH_STA_SCIDE,Chile,Female,3.2
+2005,SH_STA_SCIDE,Chile,Male,16.3
+2010,SH_STA_SCIDE,Chile,Both sexes,11.6
+2010,SH_STA_SCIDE,Chile,Female,4.4
+2010,SH_STA_SCIDE,Chile,Male,19.1
+2015,SH_STA_SCIDE,Chile,Both sexes,10.0
+2015,SH_STA_SCIDE,Chile,Female,4.1
+2015,SH_STA_SCIDE,Chile,Male,16.0
+2019,SH_STA_SCIDE,Chile,Both sexes,9.0
+2019,SH_STA_SCIDE,Chile,Female,3.2
+2019,SH_STA_SCIDE,Chile,Male,14.9
+2000,SH_STA_SCIDE,China,Both sexes,14.3
+2000,SH_STA_SCIDE,China,Female,14.7
+2000,SH_STA_SCIDE,China,Male,13.9
+2005,SH_STA_SCIDE,China,Both sexes,12.9
+2005,SH_STA_SCIDE,China,Female,11.9
+2005,SH_STA_SCIDE,China,Male,13.8
+2010,SH_STA_SCIDE,China,Female,8.7
+2010,SH_STA_SCIDE,China,Male,11.7
+2010,SH_STA_SCIDE,China,Both sexes,10.2
+2015,SH_STA_SCIDE,China,Both sexes,8.1
+2015,SH_STA_SCIDE,China,Female,6.4
+2015,SH_STA_SCIDE,China,Male,9.8
+2019,SH_STA_SCIDE,China,Both sexes,8.1
+2019,SH_STA_SCIDE,China,Female,6.2
+2019,SH_STA_SCIDE,China,Male,9.8
+2000,SH_STA_SCIDE,Colombia,Both sexes,5.0
+2000,SH_STA_SCIDE,Colombia,Female,2.6
+2000,SH_STA_SCIDE,Colombia,Male,7.5
+2005,SH_STA_SCIDE,Colombia,Male,6.4
+2005,SH_STA_SCIDE,Colombia,Both sexes,4.1
+2005,SH_STA_SCIDE,Colombia,Female,2.0
+2010,SH_STA_SCIDE,Colombia,Both sexes,3.8
+2010,SH_STA_SCIDE,Colombia,Female,1.5
+2010,SH_STA_SCIDE,Colombia,Male,6.2
+2015,SH_STA_SCIDE,Colombia,Both sexes,4.1
+2015,SH_STA_SCIDE,Colombia,Female,1.9
+2015,SH_STA_SCIDE,Colombia,Male,6.5
+2019,SH_STA_SCIDE,Colombia,Both sexes,3.9
+2019,SH_STA_SCIDE,Colombia,Male,6.1
+2019,SH_STA_SCIDE,Colombia,Female,1.8
+2000,SH_STA_SCIDE,Costa Rica,Both sexes,6.4
+2000,SH_STA_SCIDE,Costa Rica,Female,1.5
+2000,SH_STA_SCIDE,Costa Rica,Male,11.3
+2005,SH_STA_SCIDE,Costa Rica,Both sexes,6.5
+2005,SH_STA_SCIDE,Costa Rica,Female,2.0
+2005,SH_STA_SCIDE,Costa Rica,Male,11.1
+2010,SH_STA_SCIDE,Costa Rica,Both sexes,6.9
+2010,SH_STA_SCIDE,Costa Rica,Female,2.0
+2010,SH_STA_SCIDE,Costa Rica,Male,11.8
+2015,SH_STA_SCIDE,Costa Rica,Both sexes,6.7
+2015,SH_STA_SCIDE,Costa Rica,Female,2.3
+2015,SH_STA_SCIDE,Costa Rica,Male,11.2
+2019,SH_STA_SCIDE,Costa Rica,Both sexes,8.1
+2019,SH_STA_SCIDE,Costa Rica,Female,2.0
+2019,SH_STA_SCIDE,Costa Rica,Male,14.1
+2000,SH_STA_SCIDE,Croatia,Female,10.3
+2000,SH_STA_SCIDE,Croatia,Both sexes,20.8
+2000,SH_STA_SCIDE,Croatia,Male,32.1
+2005,SH_STA_SCIDE,Croatia,Both sexes,20.1
+2005,SH_STA_SCIDE,Croatia,Female,9.9
+2005,SH_STA_SCIDE,Croatia,Male,31.0
+2010,SH_STA_SCIDE,Croatia,Both sexes,18.3
+2010,SH_STA_SCIDE,Croatia,Female,9.0
+2010,SH_STA_SCIDE,Croatia,Male,28.4
+2015,SH_STA_SCIDE,Croatia,Both sexes,17.6
+2015,SH_STA_SCIDE,Croatia,Female,9.2
+2015,SH_STA_SCIDE,Croatia,Male,26.7
+2019,SH_STA_SCIDE,Croatia,Both sexes,16.4
+2019,SH_STA_SCIDE,Croatia,Female,8.1
+2019,SH_STA_SCIDE,Croatia,Male,25.3
+2000,SH_STA_SCIDE,Cyprus,Female,1.3
+2000,SH_STA_SCIDE,Cyprus,Both sexes,2.0
+2000,SH_STA_SCIDE,Cyprus,Male,2.8
+2005,SH_STA_SCIDE,Cyprus,Female,1.3
+2005,SH_STA_SCIDE,Cyprus,Male,3.9
+2005,SH_STA_SCIDE,Cyprus,Both sexes,2.6
+2010,SH_STA_SCIDE,Cyprus,Both sexes,5.3
+2010,SH_STA_SCIDE,Cyprus,Female,2.1
+2010,SH_STA_SCIDE,Cyprus,Male,8.4
+2015,SH_STA_SCIDE,Cyprus,Male,7.3
+2015,SH_STA_SCIDE,Estonia,Female,5.4
+2015,SH_STA_SCIDE,Estonia,Male,27.9
+2019,SH_STA_SCIDE,Estonia,Both sexes,14.9
+2019,SH_STA_SCIDE,Estonia,Female,6.5
+2019,SH_STA_SCIDE,Estonia,Male,24.3
+2000,SH_STA_SCIDE,Finland,Female,12.2
+2000,SH_STA_SCIDE,Finland,Male,37.0
+2000,SH_STA_SCIDE,Finland,Both sexes,24.3
+2005,SH_STA_SCIDE,Finland,Both sexes,19.9
+2005,SH_STA_SCIDE,Finland,Female,10.7
+2005,SH_STA_SCIDE,Finland,Male,29.5
+2010,SH_STA_SCIDE,Finland,Both sexes,18.6
+2010,SH_STA_SCIDE,Finland,Female,9.3
+2010,SH_STA_SCIDE,Finland,Male,28.2
+2015,SH_STA_SCIDE,Finland,Both sexes,14.0
+2015,SH_STA_SCIDE,Finland,Female,6.6
+2015,SH_STA_SCIDE,Finland,Male,21.7
+2019,SH_STA_SCIDE,Finland,Female,7.6
+2019,SH_STA_SCIDE,Finland,Male,23.2
+2019,SH_STA_SCIDE,Finland,Both sexes,15.3
+2000,SH_STA_SCIDE,France,Male,29.2
+2000,SH_STA_SCIDE,France,Female,11.7
+2000,SH_STA_SCIDE,France,Both sexes,20.2
+2005,SH_STA_SCIDE,France,Both sexes,19.1
+2005,SH_STA_SCIDE,France,Female,11.1
+2005,SH_STA_SCIDE,France,Male,27.7
+2010,SH_STA_SCIDE,France,Both sexes,18.2
+2010,SH_STA_SCIDE,France,Female,10.4
+2010,SH_STA_SCIDE,France,Male,26.5
+2015,SH_STA_SCIDE,France,Male,23.7
+2015,SH_STA_SCIDE,France,Both sexes,15.8
+2015,SH_STA_SCIDE,France,Female,8.4
+2019,SH_STA_SCIDE,France,Both sexes,13.8
+2019,SH_STA_SCIDE,France,Female,7.6
+2019,SH_STA_SCIDE,France,Male,20.4
+2000,SH_STA_SCIDE,Georgia,Both sexes,7.4
+2000,SH_STA_SCIDE,Georgia,Female,2.8
+2000,SH_STA_SCIDE,Georgia,Male,12.5
+2005,SH_STA_SCIDE,Georgia,Both sexes,6.2
+2005,SH_STA_SCIDE,Georgia,Female,2.5
+2005,SH_STA_SCIDE,Georgia,Male,10.2
+2010,SH_STA_SCIDE,Georgia,Both sexes,8.3
+2010,SH_STA_SCIDE,Georgia,Female,2.9
+2010,SH_STA_SCIDE,Georgia,Male,14.2
+2015,SH_STA_SCIDE,Georgia,Both sexes,10.5
+2015,SH_STA_SCIDE,Georgia,Female,3.6
+2015,SH_STA_SCIDE,Georgia,Male,18.1
+2019,SH_STA_SCIDE,Georgia,Both sexes,9.2
+2019,SH_STA_SCIDE,Georgia,Female,3.0
+2019,SH_STA_SCIDE,Georgia,Male,16.0
+2000,SH_STA_SCIDE,Germany,Male,21.7
+2000,SH_STA_SCIDE,Germany,Both sexes,14.5
+2000,SH_STA_SCIDE,Germany,Female,7.6
+2005,SH_STA_SCIDE,Germany,Both sexes,13.3
+2005,SH_STA_SCIDE,Germany,Female,7.0
+2005,SH_STA_SCIDE,Germany,Male,19.9
+2010,SH_STA_SCIDE,Germany,Both sexes,13.2
+2010,SH_STA_SCIDE,Germany,Female,6.8
+2010,SH_STA_SCIDE,Germany,Male,20.0
+2015,SH_STA_SCIDE,Germany,Both sexes,13.3
+2015,SH_STA_SCIDE,Germany,Female,7.3
+2015,SH_STA_SCIDE,Germany,Male,19.5
+2019,SH_STA_SCIDE,Germany,Male,18.6
+2019,SH_STA_SCIDE,Germany,Both sexes,12.3
+2019,SH_STA_SCIDE,Germany,Female,6.2
+2000,SH_STA_SCIDE,Greece,Both sexes,3.5
+2000,SH_STA_SCIDE,Greece,Female,1.5
+2000,SH_STA_SCIDE,Greece,Male,5.4
+2005,SH_STA_SCIDE,Greece,Both sexes,3.6
+2005,SH_STA_SCIDE,Greece,Female,1.4
+2005,SH_STA_SCIDE,Greece,Male,5.9
+2010,SH_STA_SCIDE,Greece,Male,6.3
+2010,SH_STA_SCIDE,Greece,Female,0.7
+2010,SH_STA_SCIDE,Greece,Both sexes,3.5
+2015,SH_STA_SCIDE,Greece,Female,2.0
+2015,SH_STA_SCIDE,Greece,Male,8.2
+2015,SH_STA_SCIDE,Greece,Both sexes,5.0
+2019,SH_STA_SCIDE,Greece,Both sexes,5.1
+2019,SH_STA_SCIDE,Greece,Female,1.9
+2019,SH_STA_SCIDE,Greece,Male,8.4
+2000,SH_STA_SCIDE,Hungary,Male,52.6
+2000,SH_STA_SCIDE,Hungary,Both sexes,33.4
+2000,SH_STA_SCIDE,Hungary,Female,15.9
+2005,SH_STA_SCIDE,Hungary,Both sexes,26.4
+2005,SH_STA_SCIDE,Hungary,Female,11.6
+2005,SH_STA_SCIDE,Hungary,Male,42.8
+2010,SH_STA_SCIDE,Hungary,Both sexes,25.5
+2010,SH_STA_SCIDE,Hungary,Female,11.0
+2010,SH_STA_SCIDE,Hungary,Male,41.6
+2015,SH_STA_SCIDE,Hungary,Both sexes,19.9
+2015,SH_STA_SCIDE,Hungary,Female,9.9
+2015,SH_STA_SCIDE,Hungary,Male,31.0
+2019,SH_STA_SCIDE,Hungary,Male,25.9
+2019,SH_STA_SCIDE,Hungary,Both sexes,16.6
+2019,SH_STA_SCIDE,Hungary,Female,8.3
+2000,SH_STA_SCIDE,Iceland,Both sexes,13.1
+2000,SH_STA_SCIDE,Iceland,Female,6.3
+2000,SH_STA_SCIDE,Iceland,Male,19.8
+2005,SH_STA_SCIDE,Iceland,Both sexes,11.8
+2005,SH_STA_SCIDE,Iceland,Female,8.3
+2005,SH_STA_SCIDE,Iceland,Male,15.4
+2010,SH_STA_SCIDE,Iceland,Both sexes,12.8
+2010,SH_STA_SCIDE,Iceland,Female,5.7
+2010,SH_STA_SCIDE,Iceland,Male,19.7
+2015,SH_STA_SCIDE,Iceland,Male,22.5
+2015,SH_STA_SCIDE,Iceland,Both sexes,14.3
+2015,SH_STA_SCIDE,Iceland,Female,5.9
+2019,SH_STA_SCIDE,Iceland,Both sexes,11.9
+2019,SH_STA_SCIDE,Iceland,Female,3.9
+2019,SH_STA_SCIDE,Iceland,Male,19.8
+2000,SH_STA_SCIDE,India,Male,17.5
+2000,SH_STA_SCIDE,India,Female,16.4
+2000,SH_STA_SCIDE,India,Both sexes,17.0
+2005,SH_STA_SCIDE,India,Both sexes,15.5
+2005,SH_STA_SCIDE,India,Female,13.7
+2005,SH_STA_SCIDE,India,Male,17.1
+2010,SH_STA_SCIDE,India,Male,16.3
+2010,SH_STA_SCIDE,India,Both sexes,14.6
+2010,SH_STA_SCIDE,India,Female,12.9
+2015,SH_STA_SCIDE,India,Both sexes,12.3
+2015,SH_STA_SCIDE,India,Female,10.8
+2015,SH_STA_SCIDE,India,Male,13.7
+2019,SH_STA_SCIDE,India,Both sexes,12.7
+2019,SH_STA_SCIDE,India,Female,11.1
+2019,SH_STA_SCIDE,India,Male,14.1
+2000,SH_STA_SCIDE,Ireland,Both sexes,12.7
+2000,SH_STA_SCIDE,Ireland,Female,4.8
+2000,SH_STA_SCIDE,Ireland,Male,20.7
+2005,SH_STA_SCIDE,Ireland,Male,18.6
+2005,SH_STA_SCIDE,Ireland,Female,5.1
+2005,SH_STA_SCIDE,Ireland,Both sexes,11.8
+2010,SH_STA_SCIDE,Ireland,Both sexes,11.9
+2010,SH_STA_SCIDE,Ireland,Female,5.4
+2010,SH_STA_SCIDE,Ireland,Male,18.5
+2015,SH_STA_SCIDE,Ireland,Both sexes,9.3
+2015,SH_STA_SCIDE,Ireland,Female,4.0
+2015,SH_STA_SCIDE,Ireland,Male,14.7
+2019,SH_STA_SCIDE,Ireland,Both sexes,9.6
+2019,SH_STA_SCIDE,Ireland,Female,3.9
+2019,SH_STA_SCIDE,Ireland,Male,15.4
+2000,SH_STA_SCIDE,Israel,Both sexes,6.8
+2000,SH_STA_SCIDE,Israel,Female,2.9
+2000,SH_STA_SCIDE,Israel,Male,10.7
+2005,SH_STA_SCIDE,Israel,Both sexes,6.7
+2005,SH_STA_SCIDE,Israel,Female,3.8
+2005,SH_STA_SCIDE,Israel,Male,9.8
+2010,SH_STA_SCIDE,Israel,Female,2.5
+2010,SH_STA_SCIDE,Israel,Male,11.0
+2010,SH_STA_SCIDE,Israel,Both sexes,6.7
+2015,SH_STA_SCIDE,Israel,Both sexes,4.5
+2015,SH_STA_SCIDE,Israel,Female,2.1
+2015,SH_STA_SCIDE,Israel,Male,7.1
+2019,SH_STA_SCIDE,Israel,Both sexes,5.3
+2019,SH_STA_SCIDE,Israel,Female,2.3
+2019,SH_STA_SCIDE,Israel,Male,8.3
+2000,SH_STA_SCIDE,Italy,Both sexes,7.5
+2000,SH_STA_SCIDE,Italy,Female,3.9
+2000,SH_STA_SCIDE,Italy,Male,11.4
+2005,SH_STA_SCIDE,Italy,Male,10.1
+2005,SH_STA_SCIDE,Italy,Both sexes,6.7
+2005,SH_STA_SCIDE,Italy,Female,3.5
+2010,SH_STA_SCIDE,Italy,Female,3.2
+2010,SH_STA_SCIDE,Italy,Both sexes,6.9
+2010,SH_STA_SCIDE,Italy,Male,10.8
+2015,SH_STA_SCIDE,Italy,Both sexes,7.1
+2015,SH_STA_SCIDE,Italy,Female,3.6
+2015,SH_STA_SCIDE,Italy,Male,10.9
+2019,SH_STA_SCIDE,Italy,Both sexes,6.7
+2019,SH_STA_SCIDE,Italy,Female,3.5
+2019,SH_STA_SCIDE,Italy,Male,10.1
+2000,SH_STA_SCIDE,Japan,Female,13.6
+2000,SH_STA_SCIDE,Japan,Male,34.6
+2000,SH_STA_SCIDE,Japan,Both sexes,23.9
+2005,SH_STA_SCIDE,Japan,Both sexes,24.3
+2005,SH_STA_SCIDE,Japan,Female,13.2
+2005,SH_STA_SCIDE,Japan,Male,35.9
+2010,SH_STA_SCIDE,Japan,Both sexes,24.1
+2010,SH_STA_SCIDE,Japan,Female,13.8
+2010,SH_STA_SCIDE,Japan,Male,34.9
+2015,SH_STA_SCIDE,Japan,Female,11.4
+2015,SH_STA_SCIDE,Japan,Male,27.2
+2015,SH_STA_SCIDE,Japan,Both sexes,19.1
+2019,SH_STA_SCIDE,Japan,Male,21.8
+2019,SH_STA_SCIDE,Japan,Both sexes,15.3
+2019,SH_STA_SCIDE,Japan,Female,9.2
+2000,SH_STA_SCIDE,Kazakhstan,Both sexes,38.7
+2000,SH_STA_SCIDE,Kazakhstan,Female,11.5
+2000,SH_STA_SCIDE,Kazakhstan,Male,68.1
+2005,SH_STA_SCIDE,Kazakhstan,Both sexes,39.2
+2005,SH_STA_SCIDE,Kazakhstan,Female,12.3
+2005,SH_STA_SCIDE,Kazakhstan,Male,68.2
+2010,SH_STA_SCIDE,Kazakhstan,Both sexes,29.9
+2010,SH_STA_SCIDE,Kazakhstan,Female,10.5
+2010,SH_STA_SCIDE,Kazakhstan,Male,50.7
+2015,SH_STA_SCIDE,Kazakhstan,Both sexes,23.2
+2015,SH_STA_SCIDE,Kazakhstan,Male,39.3
+2015,SH_STA_SCIDE,Kazakhstan,Female,8.2
+2019,SH_STA_SCIDE,Kazakhstan,Both sexes,17.6
+2019,SH_STA_SCIDE,Kazakhstan,Female,6.8
+2019,SH_STA_SCIDE,Kazakhstan,Male,29.0
+2000,SH_STA_SCIDE,Republic of Korea,Both sexes,14.5
+2000,SH_STA_SCIDE,Republic of Korea,Female,9.0
+2000,SH_STA_SCIDE,Republic of Korea,Male,19.9
+2005,SH_STA_SCIDE,Republic of Korea,Both sexes,26.7
+2005,SH_STA_SCIDE,Republic of Korea,Female,17.9
+2005,SH_STA_SCIDE,Republic of Korea,Male,35.5
+2010,SH_STA_SCIDE,Republic of Korea,Both sexes,34.0
+2010,SH_STA_SCIDE,Republic of Korea,Female,23.0
+2010,SH_STA_SCIDE,Republic of Korea,Male,44.9
+2015,SH_STA_SCIDE,Republic of Korea,Both sexes,28.0
+2015,SH_STA_SCIDE,Republic of Korea,Female,16.5
+2015,SH_STA_SCIDE,Republic of Korea,Male,39.5
+2019,SH_STA_SCIDE,Republic of Korea,Male,40.2
+2019,SH_STA_SCIDE,Republic of Korea,Female,16.9
+2019,SH_STA_SCIDE,Republic of Korea,Both sexes,28.6
+2000,SH_STA_SCIDE,Kyrgyzstan,Female,4.8
+2000,SH_STA_SCIDE,Kyrgyzstan,Both sexes,14.8
+2000,SH_STA_SCIDE,Kyrgyzstan,Male,25.0
+2005,SH_STA_SCIDE,Kyrgyzstan,Both sexes,13.2
+2005,SH_STA_SCIDE,Kyrgyzstan,Female,4.8
+2005,SH_STA_SCIDE,Kyrgyzstan,Male,21.7
+2010,SH_STA_SCIDE,Kyrgyzstan,Both sexes,11.4
+2010,SH_STA_SCIDE,Kyrgyzstan,Female,4.6
+2010,SH_STA_SCIDE,Kyrgyzstan,Male,18.3
+2015,SH_STA_SCIDE,Kyrgyzstan,Male,16.1
+2015,SH_STA_SCIDE,Kyrgyzstan,Both sexes,9.9
+2015,SH_STA_SCIDE,Kyrgyzstan,Female,3.9
+2019,SH_STA_SCIDE,Kyrgyzstan,Both sexes,7.4
+2019,SH_STA_SCIDE,Kyrgyzstan,Female,3.2
+2019,SH_STA_SCIDE,Kyrgyzstan,Male,11.7
+2000,SH_STA_SCIDE,Latvia,Both sexes,34.7
+2000,SH_STA_SCIDE,Latvia,Female,12.8
+2000,SH_STA_SCIDE,Latvia,Male,60.4
+2005,SH_STA_SCIDE,Latvia,Both sexes,26.5
+2005,SH_STA_SCIDE,Latvia,Male,45.9
+2005,SH_STA_SCIDE,Latvia,Female,10.2
+2010,SH_STA_SCIDE,Latvia,Male,42.1
+2010,SH_STA_SCIDE,Latvia,Female,5.9
+2010,SH_STA_SCIDE,Latvia,Both sexes,22.5
+2015,SH_STA_SCIDE,Latvia,Female,8.4
+2015,SH_STA_SCIDE,Latvia,Male,37.2
+2015,SH_STA_SCIDE,Latvia,Both sexes,21.6
+2019,SH_STA_SCIDE,Latvia,Both sexes,20.1
+2019,SH_STA_SCIDE,Latvia,Female,7.0
+2019,SH_STA_SCIDE,Latvia,Male,35.5
+2000,SH_STA_SCIDE,Lithuania,Both sexes,50.1
+2000,SH_STA_SCIDE,Lithuania,Female,18.4
+2000,SH_STA_SCIDE,Lithuania,Male,86.2
+2005,SH_STA_SCIDE,Lithuania,Both sexes,42.7
+2005,SH_STA_SCIDE,Lithuania,Female,14.4
+2005,SH_STA_SCIDE,Lithuania,Male,75.3
+2010,SH_STA_SCIDE,Lithuania,Female,12.9
+2010,SH_STA_SCIDE,Lithuania,Male,65.8
+2010,SH_STA_SCIDE,Lithuania,Both sexes,37.2
+2015,SH_STA_SCIDE,Lithuania,Male,61.7
+2015,SH_STA_SCIDE,Lithuania,Female,11.9
+2015,SH_STA_SCIDE,Lithuania,Both sexes,34.9
+2019,SH_STA_SCIDE,Lithuania,Both sexes,26.1
+2019,SH_STA_SCIDE,Lithuania,Female,9.6
+2019,SH_STA_SCIDE,Lithuania,Male,45.4
+2000,SH_STA_SCIDE,Luxembourg,Both sexes,16.1
+2000,SH_STA_SCIDE,Luxembourg,Female,9.2
+2000,SH_STA_SCIDE,Luxembourg,Male,23.1
+2005,SH_STA_SCIDE,Luxembourg,Female,6.7
+2005,SH_STA_SCIDE,Luxembourg,Male,20.3
+2005,SH_STA_SCIDE,Luxembourg,Both sexes,13.4
+2010,SH_STA_SCIDE,Luxembourg,Both sexes,12.0
+2010,SH_STA_SCIDE,Luxembourg,Female,6.8
+2010,SH_STA_SCIDE,Luxembourg,Male,17.3
+2015,SH_STA_SCIDE,Luxembourg,Both sexes,12.2
+2015,SH_STA_SCIDE,Luxembourg,Female,7.7
+2015,SH_STA_SCIDE,Luxembourg,Male,16.6
+2019,SH_STA_SCIDE,Luxembourg,Both sexes,11.3
+2019,SH_STA_SCIDE,Luxembourg,Female,7.1
+2019,SH_STA_SCIDE,Luxembourg,Male,15.3
+2000,SH_STA_SCIDE,Malta,Female,2.9
+2000,SH_STA_SCIDE,Malta,Male,10.8
+2000,SH_STA_SCIDE,Malta,Both sexes,6.8
+2005,SH_STA_SCIDE,Malta,Both sexes,5.5
+2005,SH_STA_SCIDE,Malta,Female,2.9
+2005,SH_STA_SCIDE,Malta,Male,8.3
+2010,SH_STA_SCIDE,Malta,Both sexes,7.5
+2010,SH_STA_SCIDE,Malta,Female,1.6
+2010,SH_STA_SCIDE,Malta,Male,13.6
+2015,SH_STA_SCIDE,Malta,Both sexes,7.2
+2015,SH_STA_SCIDE,Malta,Female,2.7
+2015,SH_STA_SCIDE,Malta,Male,11.6
+2019,SH_STA_SCIDE,Malta,Both sexes,6.1
+2019,SH_STA_SCIDE,Malta,Female,2.3
+2019,SH_STA_SCIDE,Malta,Male,9.8
+2000,SH_STA_SCIDE,Mexico,Both sexes,3.5
+2000,SH_STA_SCIDE,Mexico,Female,1.1
+2000,SH_STA_SCIDE,Mexico,Male,6.0
+2005,SH_STA_SCIDE,Mexico,Female,1.4
+2005,SH_STA_SCIDE,Mexico,Male,6.9
+2005,SH_STA_SCIDE,Mexico,Both sexes,4.1
+2010,SH_STA_SCIDE,Mexico,Female,1.7
+2010,SH_STA_SCIDE,Mexico,Male,7.5
+2010,SH_STA_SCIDE,Mexico,Both sexes,4.5
+2015,SH_STA_SCIDE,Mexico,Both sexes,5.6
+2015,SH_STA_SCIDE,Mexico,Female,2.3
+2015,SH_STA_SCIDE,Mexico,Male,9.0
+2019,SH_STA_SCIDE,Mexico,Both sexes,5.3
+2019,SH_STA_SCIDE,Mexico,Female,2.2
+2019,SH_STA_SCIDE,Mexico,Male,8.5
+2000,SH_STA_SCIDE,Moldova,Both sexes,17.2
+2000,SH_STA_SCIDE,Moldova,Female,4.6
+2000,SH_STA_SCIDE,Moldova,Male,30.9
+2005,SH_STA_SCIDE,Moldova,Both sexes,19.4
+2005,SH_STA_SCIDE,Moldova,Female,5.9
+2005,SH_STA_SCIDE,Moldova,Male,34.1
+2010,SH_STA_SCIDE,Moldova,Both sexes,20.5
+2010,SH_STA_SCIDE,Moldova,Female,5.8
+2010,SH_STA_SCIDE,Moldova,Male,36.5
+2015,SH_STA_SCIDE,Moldova,Both sexes,16.2
+2015,SH_STA_SCIDE,Moldova,Female,5.4
+2015,SH_STA_SCIDE,Moldova,Male,27.8
+2019,SH_STA_SCIDE,Moldova,Both sexes,14.7
+2019,SH_STA_SCIDE,Moldova,Female,4.1
+2019,SH_STA_SCIDE,Moldova,Male,26.1
+2000,SH_STA_SCIDE,Montenegro,Both sexes,20.8
+2000,SH_STA_SCIDE,Montenegro,Female,11.2
+2000,SH_STA_SCIDE,Montenegro,Male,30.7
+2005,SH_STA_SCIDE,Montenegro,Both sexes,21.7
+2005,SH_STA_SCIDE,Montenegro,Male,32.7
+2005,SH_STA_SCIDE,Montenegro,Female,11.1
+2010,SH_STA_SCIDE,Montenegro,Both sexes,20.3
+2010,SH_STA_SCIDE,Montenegro,Female,10.5
+2010,SH_STA_SCIDE,Montenegro,Male,30.4
+2015,SH_STA_SCIDE,Montenegro,Female,10.9
+2015,SH_STA_SCIDE,Montenegro,Male,30.7
+2015,SH_STA_SCIDE,Montenegro,Both sexes,20.7
+2019,SH_STA_SCIDE,Montenegro,Both sexes,21.0
+2019,SH_STA_SCIDE,Montenegro,Female,10.4
+2019,SH_STA_SCIDE,Montenegro,Male,31.7
+2000,SH_STA_SCIDE,Netherlands (Kingdom of the),Both sexes,9.6
+2000,SH_STA_SCIDE,Netherlands (Kingdom of the),Female,6.4
+2000,SH_STA_SCIDE,Netherlands (Kingdom of the),Male,12.9
+2005,SH_STA_SCIDE,Netherlands (Kingdom of the),Both sexes,9.8
+2005,SH_STA_SCIDE,Netherlands (Kingdom of the),Female,6.3
+2005,SH_STA_SCIDE,Netherlands (Kingdom of the),Male,13.4
+2010,SH_STA_SCIDE,Netherlands (Kingdom of the),Both sexes,9.8
+2010,SH_STA_SCIDE,Netherlands (Kingdom of the),Female,5.8
+2010,SH_STA_SCIDE,Netherlands (Kingdom of the),Male,13.9
+2015,SH_STA_SCIDE,Netherlands (Kingdom of the),Both sexes,11.8
+2015,SH_STA_SCIDE,Netherlands (Kingdom of the),Female,7.9
+2015,SH_STA_SCIDE,Netherlands (Kingdom of the),Male,15.7
+2019,SH_STA_SCIDE,Netherlands (Kingdom of the),Female,8.3
+2019,SH_STA_SCIDE,Netherlands (Kingdom of the),Male,15.5
+2019,SH_STA_SCIDE,Netherlands (Kingdom of the),Both sexes,11.8
+2000,SH_STA_SCIDE,New Zealand,Both sexes,12.5
+2000,SH_STA_SCIDE,New Zealand,Female,4.6
+2000,SH_STA_SCIDE,New Zealand,Male,20.7
+2005,SH_STA_SCIDE,New Zealand,Both sexes,12.9
+2005,SH_STA_SCIDE,New Zealand,Female,6.7
+2005,SH_STA_SCIDE,New Zealand,Male,19.4
+2010,SH_STA_SCIDE,New Zealand,Both sexes,12.6
+2010,SH_STA_SCIDE,New Zealand,Female,7.2
+2010,SH_STA_SCIDE,New Zealand,Male,18.3
+2015,SH_STA_SCIDE,New Zealand,Both sexes,11.7
+2015,SH_STA_SCIDE,New Zealand,Female,6.5
+2015,SH_STA_SCIDE,New Zealand,Male,17.1
+2019,SH_STA_SCIDE,New Zealand,Both sexes,11.0
+2019,SH_STA_SCIDE,New Zealand,Male,16.5
+2019,SH_STA_SCIDE,New Zealand,Female,5.8
+2000,SH_STA_SCIDE,Norway,Both sexes,13.9
+2000,SH_STA_SCIDE,Norway,Female,6.8
+2000,SH_STA_SCIDE,Norway,Male,21.1
+2005,SH_STA_SCIDE,Norway,Female,8.3
+2005,SH_STA_SCIDE,Norway,Male,16.6
+2005,SH_STA_SCIDE,Norway,Both sexes,12.4
+2010,SH_STA_SCIDE,Norway,Both sexes,12.4
+2010,SH_STA_SCIDE,Norway,Male,16.7
+2010,SH_STA_SCIDE,Norway,Female,8.0
+2015,SH_STA_SCIDE,Norway,Both sexes,12.5
+2015,SH_STA_SCIDE,Norway,Female,8.7
+2015,SH_STA_SCIDE,Norway,Male,16.2
+2019,SH_STA_SCIDE,Norway,Both sexes,11.8
+2019,SH_STA_SCIDE,Norway,Male,15.8
+2019,SH_STA_SCIDE,Norway,Female,7.7
+2000,SH_STA_SCIDE,Poland,Female,5.4
+2000,SH_STA_SCIDE,Poland,Male,29.2
+2000,SH_STA_SCIDE,Poland,Both sexes,17.0
+2005,SH_STA_SCIDE,Poland,Both sexes,17.7
+2005,SH_STA_SCIDE,Poland,Female,5.1
+2005,SH_STA_SCIDE,Poland,Male,31.2
+2010,SH_STA_SCIDE,Poland,Both sexes,18.6
+2010,SH_STA_SCIDE,Poland,Female,4.8
+2010,SH_STA_SCIDE,Poland,Male,33.4
+2015,SH_STA_SCIDE,Poland,Both sexes,15.9
+2015,SH_STA_SCIDE,Poland,Female,4.1
+2015,SH_STA_SCIDE,Poland,Male,28.4
+2019,SH_STA_SCIDE,Poland,Male,20.1
+2019,SH_STA_SCIDE,Poland,Both sexes,11.3
+2019,SH_STA_SCIDE,Poland,Female,3.1
+2000,SH_STA_SCIDE,Portugal,Male,12.4
+2000,SH_STA_SCIDE,Portugal,Female,3.1
+2000,SH_STA_SCIDE,Portugal,Both sexes,7.6
+2005,SH_STA_SCIDE,Portugal,Both sexes,11.4
+2005,SH_STA_SCIDE,Portugal,Female,5.3
+2005,SH_STA_SCIDE,Portugal,Male,17.8
+2010,SH_STA_SCIDE,Portugal,Both sexes,13.6
+2010,SH_STA_SCIDE,Portugal,Female,6.6
+2010,SH_STA_SCIDE,Portugal,Male,21.2
+2015,SH_STA_SCIDE,Portugal,Male,19.2
+2015,SH_STA_SCIDE,Portugal,Both sexes,13.2
+2015,SH_STA_SCIDE,Portugal,Female,7.8
+2019,SH_STA_SCIDE,Portugal,Both sexes,11.5
+2019,SH_STA_SCIDE,Portugal,Female,5.7
+2019,SH_STA_SCIDE,Portugal,Male,17.9
+2000,SH_STA_SCIDE,Romania,Both sexes,12.9
+2000,SH_STA_SCIDE,Romania,Female,4.6
+2000,SH_STA_SCIDE,Romania,Male,21.6
+2005,SH_STA_SCIDE,Romania,Male,20.6
+2005,SH_STA_SCIDE,Romania,Female,4.4
+2005,SH_STA_SCIDE,Romania,Both sexes,12.3
+2010,SH_STA_SCIDE,Romania,Both sexes,13.2
+2010,SH_STA_SCIDE,Romania,Female,4.5
+2010,SH_STA_SCIDE,Romania,Male,22.6
+2015,SH_STA_SCIDE,Romania,Both sexes,11.5
+2015,SH_STA_SCIDE,Romania,Female,3.5
+2015,SH_STA_SCIDE,Romania,Male,19.9
+2019,SH_STA_SCIDE,Romania,Both sexes,9.7
+2019,SH_STA_SCIDE,Romania,Female,3.3
+2019,SH_STA_SCIDE,Romania,Male,16.5
+2000,SH_STA_SCIDE,Serbia,Female,13.5
+2000,SH_STA_SCIDE,Serbia,Both sexes,23.1
+2000,SH_STA_SCIDE,Serbia,Male,33.0
+2005,SH_STA_SCIDE,Serbia,Both sexes,20.1
+2005,SH_STA_SCIDE,Serbia,Female,11.8
+2005,SH_STA_SCIDE,Serbia,Male,28.8
+2010,SH_STA_SCIDE,Serbia,Both sexes,17.2
+2010,SH_STA_SCIDE,Serbia,Female,8.6
+2010,SH_STA_SCIDE,Serbia,Male,26.1
+2015,SH_STA_SCIDE,Serbia,Male,24.6
+2015,SH_STA_SCIDE,Serbia,Female,8.5
+2015,SH_STA_SCIDE,Serbia,Both sexes,16.4
+2019,SH_STA_SCIDE,Serbia,Both sexes,11.4
+2019,SH_STA_SCIDE,Serbia,Female,6.3
+2019,SH_STA_SCIDE,Serbia,Male,16.6
+2000,SH_STA_SCIDE,Slovakia,Both sexes,14.2
+2000,SH_STA_SCIDE,Slovakia,Female,5.1
+2000,SH_STA_SCIDE,Slovakia,Male,23.9
+2005,SH_STA_SCIDE,Slovakia,Both sexes,13.7
+2005,SH_STA_SCIDE,Slovakia,Female,3.8
+2005,SH_STA_SCIDE,Slovakia,Male,24.1
+2010,SH_STA_SCIDE,Slovakia,Both sexes,13.6
+2010,SH_STA_SCIDE,Slovakia,Female,3.9
+2010,SH_STA_SCIDE,Slovakia,Male,23.9
+2015,SH_STA_SCIDE,Slovakia,Male,21.9
+2015,SH_STA_SCIDE,Slovakia,Female,3.4
+2015,SH_STA_SCIDE,Slovakia,Both sexes,12.4
+2019,SH_STA_SCIDE,Slovakia,Both sexes,12.1
+2019,SH_STA_SCIDE,Slovakia,Male,21.2
+2019,SH_STA_SCIDE,Slovakia,Female,3.4
+2000,SH_STA_SCIDE,Viet Nam,Male,7.6
+2000,SH_STA_SCIDE,Viet Nam,Both sexes,6.1
+2000,SH_STA_SCIDE,Viet Nam,Female,4.6
+2005,SH_STA_SCIDE,Viet Nam,Both sexes,6.3
+2005,SH_STA_SCIDE,Viet Nam,Female,4.3
+2005,SH_STA_SCIDE,Viet Nam,Male,8.2
+2010,SH_STA_SCIDE,Viet Nam,Both sexes,7.0
+2010,SH_STA_SCIDE,Viet Nam,Female,4.2
+2010,SH_STA_SCIDE,Viet Nam,Male,9.8
+2015,SH_STA_SCIDE,Viet Nam,Both sexes,7.7
+2015,SH_STA_SCIDE,Viet Nam,Female,4.5
+2015,SH_STA_SCIDE,Viet Nam,Male,10.8
+2019,SH_STA_SCIDE,Viet Nam,Male,10.4
+2019,SH_STA_SCIDE,Viet Nam,Both sexes,7.5
+2019,SH_STA_SCIDE,Viet Nam,Female,4.7
+2000,SH_STA_SCIDE,Slovenia,Both sexes,32.0
+2000,SH_STA_SCIDE,Slovenia,Female,16.7
+2000,SH_STA_SCIDE,Slovenia,Male,47.9
+2005,SH_STA_SCIDE,Slovenia,Both sexes,26.8
+2005,SH_STA_SCIDE,Slovenia,Male,42.4
+2005,SH_STA_SCIDE,Slovenia,Female,11.9
+2010,SH_STA_SCIDE,Slovenia,Female,7.6
+2010,SH_STA_SCIDE,Slovenia,Male,34.0
+2010,SH_STA_SCIDE,Slovenia,Both sexes,20.7
+2015,SH_STA_SCIDE,Slovenia,Both sexes,21.0
+2015,SH_STA_SCIDE,Slovenia,Female,8.9
+2015,SH_STA_SCIDE,Slovenia,Male,33.3
+2019,SH_STA_SCIDE,Slovenia,Male,31.4
+2019,SH_STA_SCIDE,Slovenia,Female,8.3
+2019,SH_STA_SCIDE,Slovenia,Both sexes,19.8
+2000,SH_STA_SCIDE,Spain,Both sexes,8.6
+2000,SH_STA_SCIDE,Spain,Female,4.1
+2000,SH_STA_SCIDE,Spain,Male,13.2
+2005,SH_STA_SCIDE,Spain,Both sexes,8.0
+2005,SH_STA_SCIDE,Spain,Female,4.0
+2005,SH_STA_SCIDE,Spain,Male,12.2
+2010,SH_STA_SCIDE,Spain,Both sexes,6.9
+2010,SH_STA_SCIDE,Spain,Female,3.1
+2010,SH_STA_SCIDE,Spain,Male,10.9
+2015,SH_STA_SCIDE,Spain,Both sexes,7.9
+2015,SH_STA_SCIDE,Spain,Female,4.1
+2015,SH_STA_SCIDE,Spain,Male,11.8
+2019,SH_STA_SCIDE,Spain,Both sexes,7.7
+2019,SH_STA_SCIDE,Spain,Male,11.4
+2019,SH_STA_SCIDE,Spain,Female,4.1
+2000,SH_STA_SCIDE,Sweden,Both sexes,15.1
+2000,SH_STA_SCIDE,Sweden,Male,20.5
+2000,SH_STA_SCIDE,Sweden,Female,9.7
+2005,SH_STA_SCIDE,Sweden,Both sexes,15.7
+2005,SH_STA_SCIDE,Sweden,Male,21.1
+2005,SH_STA_SCIDE,Sweden,Female,10.4
+2010,SH_STA_SCIDE,Sweden,Male,20.8
+2010,SH_STA_SCIDE,Sweden,Female,8.7
+2010,SH_STA_SCIDE,Sweden,Both sexes,14.7
+2015,SH_STA_SCIDE,Sweden,Both sexes,15.7
+2015,SH_STA_SCIDE,Sweden,Female,9.7
+2015,SH_STA_SCIDE,Sweden,Male,21.8
+2019,SH_STA_SCIDE,Sweden,Male,19.9
+2019,SH_STA_SCIDE,Sweden,Female,9.5
+2019,SH_STA_SCIDE,Sweden,Both sexes,14.7
+2000,SH_STA_SCIDE,Switzerland,Both sexes,20.2
+2000,SH_STA_SCIDE,Switzerland,Male,28.4
+2000,SH_STA_SCIDE,Switzerland,Female,12.4
+2005,SH_STA_SCIDE,Switzerland,Both sexes,19.0
+2005,SH_STA_SCIDE,Switzerland,Male,25.7
+2005,SH_STA_SCIDE,Switzerland,Female,12.6
+2010,SH_STA_SCIDE,Switzerland,Both sexes,14.5
+2010,SH_STA_SCIDE,Switzerland,Female,9.2
+2010,SH_STA_SCIDE,Switzerland,Male,19.9
+2015,SH_STA_SCIDE,Switzerland,Male,20.5
+2015,SH_STA_SCIDE,Switzerland,Both sexes,15.0
+2015,SH_STA_SCIDE,Switzerland,Female,9.5
+2019,SH_STA_SCIDE,Switzerland,Male,20.2
+2019,SH_STA_SCIDE,Switzerland,Both sexes,14.5
+2019,SH_STA_SCIDE,Switzerland,Female,9.0
+2000,SH_STA_SCIDE,Tajikistan,Male,5.2
+2000,SH_STA_SCIDE,Tajikistan,Female,2.2
+2000,SH_STA_SCIDE,Tajikistan,Both sexes,3.8
+2005,SH_STA_SCIDE,Tajikistan,Both sexes,3.6
+2005,SH_STA_SCIDE,Tajikistan,Female,2.2
+2005,SH_STA_SCIDE,Tajikistan,Male,5.0
+2010,SH_STA_SCIDE,Tajikistan,Male,5.3
+2010,SH_STA_SCIDE,Tajikistan,Both sexes,3.9
+2010,SH_STA_SCIDE,Tajikistan,Female,2.5
+2015,SH_STA_SCIDE,Tajikistan,Both sexes,4.1
+2015,SH_STA_SCIDE,Tajikistan,Male,5.4
+2015,SH_STA_SCIDE,Tajikistan,Female,2.9
+2019,SH_STA_SCIDE,Tajikistan,Female,2.8
+2019,SH_STA_SCIDE,Tajikistan,Male,5.7
+2019,SH_STA_SCIDE,Tajikistan,Both sexes,4.3
+2000,SH_STA_SCIDE,United Arab Emirates,Male,10.8
+2000,SH_STA_SCIDE,United Arab Emirates,Female,3.9
+2000,SH_STA_SCIDE,United Arab Emirates,Both sexes,8.6
+2005,SH_STA_SCIDE,United Arab Emirates,Female,3.4
+2005,SH_STA_SCIDE,United Arab Emirates,Both sexes,7.9
+2005,SH_STA_SCIDE,United Arab Emirates,Male,9.7
+2010,SH_STA_SCIDE,United Arab Emirates,Male,10.1
+2010,SH_STA_SCIDE,United Arab Emirates,Female,3.2
+2010,SH_STA_SCIDE,United Arab Emirates,Both sexes,8.4
+2015,SH_STA_SCIDE,United Arab Emirates,Both sexes,6.5
+2015,SH_STA_SCIDE,United Arab Emirates,Female,3.0
+2015,SH_STA_SCIDE,United Arab Emirates,Male,7.9
+2019,SH_STA_SCIDE,United Arab Emirates,Both sexes,6.4
+2019,SH_STA_SCIDE,United Arab Emirates,Female,3.0
+2019,SH_STA_SCIDE,United Arab Emirates,Male,8.0
+2000,SH_STA_SCIDE,Türkiye,Female,1.8
+2000,SH_STA_SCIDE,Türkiye,Male,6.2
+2000,SH_STA_SCIDE,Türkiye,Both sexes,4.0
+2005,SH_STA_SCIDE,Türkiye,Female,1.5
+2005,SH_STA_SCIDE,Türkiye,Both sexes,2.8
+2005,SH_STA_SCIDE,Türkiye,Male,4.2
+2010,SH_STA_SCIDE,Türkiye,Male,3.6
+2010,SH_STA_SCIDE,Türkiye,Both sexes,2.4
+2010,SH_STA_SCIDE,Türkiye,Female,1.3
+2015,SH_STA_SCIDE,Türkiye,Both sexes,2.3
+2015,SH_STA_SCIDE,Türkiye,Male,3.3
+2015,SH_STA_SCIDE,Türkiye,Female,1.3
+2019,SH_STA_SCIDE,Türkiye,Both sexes,2.4
+2019,SH_STA_SCIDE,Türkiye,Female,1.2
+2019,SH_STA_SCIDE,Türkiye,Male,3.6
+2000,SH_STA_SCIDE,Turkmenistan,Both sexes,12.5
+2000,SH_STA_SCIDE,Turkmenistan,Female,4.2
+2000,SH_STA_SCIDE,Turkmenistan,Male,21.1
+2005,SH_STA_SCIDE,Turkmenistan,Female,5.5
+2005,SH_STA_SCIDE,Turkmenistan,Male,25.0
+2005,SH_STA_SCIDE,Turkmenistan,Both sexes,15.1
+2010,SH_STA_SCIDE,Turkmenistan,Male,13.2
+2010,SH_STA_SCIDE,Turkmenistan,Female,4.0
+2010,SH_STA_SCIDE,Turkmenistan,Both sexes,8.5
+2015,SH_STA_SCIDE,Turkmenistan,Both sexes,6.3
+2015,SH_STA_SCIDE,Turkmenistan,Male,9.4
+2015,SH_STA_SCIDE,Turkmenistan,Female,3.2
+2019,SH_STA_SCIDE,Turkmenistan,Both sexes,5.7
+2019,SH_STA_SCIDE,Turkmenistan,Male,8.8
+2019,SH_STA_SCIDE,Turkmenistan,Female,2.6
+2000,SH_STA_SCIDE,Ukraine,Male,70.9
+2000,SH_STA_SCIDE,Ukraine,Both sexes,39.1
+2000,SH_STA_SCIDE,Ukraine,Female,11.4
+2005,SH_STA_SCIDE,Ukraine,Male,61.9
+2005,SH_STA_SCIDE,Ukraine,Female,9.5
+2005,SH_STA_SCIDE,Ukraine,Both sexes,33.8
+2010,SH_STA_SCIDE,Ukraine,Male,44.0
+2010,SH_STA_SCIDE,Ukraine,Female,7.7
+2010,SH_STA_SCIDE,Ukraine,Both sexes,24.5
+2015,SH_STA_SCIDE,Ukraine,Female,6.7
+2015,SH_STA_SCIDE,Ukraine,Male,38.9
+2015,SH_STA_SCIDE,Ukraine,Both sexes,21.6
+2019,SH_STA_SCIDE,Ukraine,Female,6.5
+2019,SH_STA_SCIDE,Ukraine,Both sexes,21.6
+2019,SH_STA_SCIDE,Ukraine,Male,39.2
+2000,SH_STA_SCIDE,North Macedonia,Both sexes,9.3
+2000,SH_STA_SCIDE,North Macedonia,Female,5.5
+2000,SH_STA_SCIDE,North Macedonia,Male,13.1
+2005,SH_STA_SCIDE,North Macedonia,Female,4.8
+2005,SH_STA_SCIDE,North Macedonia,Both sexes,8.6
+2005,SH_STA_SCIDE,North Macedonia,Male,12.4
+2010,SH_STA_SCIDE,North Macedonia,Male,10.1
+2010,SH_STA_SCIDE,North Macedonia,Female,4.0
+2010,SH_STA_SCIDE,North Macedonia,Both sexes,7.1
+2015,SH_STA_SCIDE,North Macedonia,Male,13.7
+2015,SH_STA_SCIDE,North Macedonia,Female,4.7
+2015,SH_STA_SCIDE,North Macedonia,Both sexes,9.2
+2019,SH_STA_SCIDE,North Macedonia,Male,13.9
+2019,SH_STA_SCIDE,North Macedonia,Both sexes,9.4
+2019,SH_STA_SCIDE,North Macedonia,Female,4.8
+2000,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Male,13.0
+2000,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Female,4.3
+2000,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Both sexes,8.5
+2005,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Both sexes,7.9
+2005,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Male,11.8
+2005,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Female,4.1
+2010,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Both sexes,7.8
+2010,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Female,3.7
+2010,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Male,12.1
+2015,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Both sexes,8.8
+2015,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Female,4.4
+2015,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Male,13.4
+2019,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Both sexes,7.9
+2019,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Female,4.0
+2019,SH_STA_SCIDE,United Kingdom of Great Britain and Northern Ireland,Male,11.8
+2000,SH_STA_SCIDE,Uzbekistan,Male,16.0
+2000,SH_STA_SCIDE,Uzbekistan,Both sexes,10.1
+2000,SH_STA_SCIDE,Uzbekistan,Female,4.3
+2005,SH_STA_SCIDE,Uzbekistan,Female,4.3
+2005,SH_STA_SCIDE,Uzbekistan,Male,13.9
+2005,SH_STA_SCIDE,Uzbekistan,Both sexes,9.1
+2010,SH_STA_SCIDE,Uzbekistan,Both sexes,8.1
+2010,SH_STA_SCIDE,Uzbekistan,Female,4.5
+2010,SH_STA_SCIDE,Uzbekistan,Male,11.7
+2015,SH_STA_SCIDE,Uzbekistan,Male,12.7
+2015,SH_STA_SCIDE,Uzbekistan,Female,5.7
+2015,SH_STA_SCIDE,Uzbekistan,Both sexes,9.2
+2019,SH_STA_SCIDE,Uzbekistan,Male,11.3
+2019,SH_STA_SCIDE,Uzbekistan,Both sexes,8.0
+2019,SH_STA_SCIDE,Uzbekistan,Female,4.8
+2015,SH_STA_SCIDE,Cyprus,Both sexes,4.7
+2015,SH_STA_SCIDE,Cyprus,Female,2.1
+2019,SH_STA_SCIDE,Cyprus,Both sexes,3.6
+2019,SH_STA_SCIDE,Cyprus,Female,1.3
+2019,SH_STA_SCIDE,Cyprus,Male,6.0
+2019,SH_STA_SCIDE,Cyprus,Male,6.0

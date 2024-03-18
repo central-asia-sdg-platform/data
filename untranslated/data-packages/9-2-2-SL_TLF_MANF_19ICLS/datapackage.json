@@ -1,0 +1,103 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SL_TLF_MANF_19ICLS",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Australia",
+                "Malta",
+                "Republic of Moldova",
+                "Netherlands (Kingdom of the)",
+                "New Zealand",
+                "Norway",
+                "Poland",
+                "Austria",
+                "Armenia",
+                "Belgium",
+                "Bosnia and Herzegovina",
+                "Bulgaria",
+                "Canada",
+                "Chile",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Portugal",
+                "Czechia",
+                "Denmark",
+                "Romania",
+                "Estonia",
+                "Serbia",
+                "Finland",
+                "Slovakia",
+                "Viet Nam",
+                "Slovenia",
+                "France",
+                "Georgia",
+                "Germany",
+                "Spain",
+                "Greece",
+                "Sweden",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Israel",
+                "Switzerland",
+                "Italy",
+                "Japan",
+                "United Arab Emirates",
+                "Republic of Korea",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISIC4_C",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-2-2-SL_TLF_MANF_19ICLS",
+  "title": "meta.name-9-2-2-SL_TLF_MANF_19ICLS"
+}

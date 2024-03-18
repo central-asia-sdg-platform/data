@@ -12,8 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
+          },
+          {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ER_RDE_OSEX",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Australia",
+                "Belgium",
+                "Bulgaria",
+                "Canada",
+                "Chile",
+                "Colombia",
+                "Croatia",
+                "Finland",
+                "France",
+                "Germany",
+                "India",
+                "Ireland",
+                "Italy",
+                "Japan",
+                "Republic of Korea",
+                "Netherlands (Kingdom of the)",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Spain",
+                "Türkiye",
+                "United Kingdom of Great Britain and Northern Ireland",
+                ""
+              ]
+            },
+            "title": "Страна "
           },
           {
             "name": "Value",

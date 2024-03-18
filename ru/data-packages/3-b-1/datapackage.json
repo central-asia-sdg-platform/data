@@ -12,12 +12,98 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Год"
           },
           {
+            "name": "SeriesCode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_ACS_HPV",
+                "SH_ACS_PCV3",
+                "SH_ACS_MCV2",
+                "SH_ACS_DTP3",
+                ""
+              ]
+            },
+            "title": "SeriesCode"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Japan",
+                "Mexico",
+                "Republic of Moldova",
+                "Malta",
+                "Armenia",
+                "Colombia",
+                "Bulgaria",
+                "India",
+                "Georgia",
+                "Узбекистан",
+                "Iceland",
+                "Luxembourg",
+                "Switzerland",
+                "France",
+                "Denmark",
+                "Viet Nam",
+                "Ukraine",
+                "North Macedonia",
+                "Туркменистан",
+                "Latvia",
+                "Germany",
+                "Italy",
+                "United Arab Emirates",
+                "Lithuania",
+                "Greece",
+                "Austria",
+                "Казахстан",
+                "Republic of Korea",
+                "Costa Rica",
+                "Slovenia",
+                "Canada",
+                "Ireland",
+                "New Zealand",
+                "Netherlands (Kingdom of the)",
+                "Estonia",
+                "Portugal",
+                "Belarus",
+                "Israel",
+                "Chile",
+                "Finland",
+                "Norway",
+                "Cyprus",
+                "Таджикистан",
+                "Spain",
+                "United Kingdom of Great Britain and Northern Ireland",
+                "Poland",
+                "Sweden",
+                "Belgium",
+                "Australia",
+                "Azerbaijan",
+                "Serbia",
+                "T??rkiye",
+                "Hungary",
+                "Bosnia and Herzegovina",
+                "Romania",
+                "Croatia",
+                "Montenegro",
+                "Czechia",
+                "China",
+                "Кыргызстан",
+                "Albania",
+                "Slovakia",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

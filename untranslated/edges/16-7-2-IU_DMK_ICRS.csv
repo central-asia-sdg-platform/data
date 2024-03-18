@@ -1,0 +1,8 @@
+From,To
+SeriesCode,GeoAreaName
+GeoAreaName,Age
+Age,Disability status
+Disability status,Education level
+Education level,Location
+Location,Population Group
+Population Group,Sex
