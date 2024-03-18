@@ -1,7 +1,19 @@
-GeoAreaName : 'Страна'
-SeriesDescription: 'Показатели'
-Kazakhstan: 'Казахстан'
-Kyrgyzstan: 'Кыргызстан'
-Tajikistan: 'Таджикистан'
-Turkmenistan: 'Туркменистан'
-Uzbekistan: 'Узбекистан'
+GeoAreaName       : 'Страна '
+SeriesDescription : 'Series'
+Kazakhstan        : 'Казахстан'
+Kyrgyzstan        : 'Кыргызстан'
+Tajikistan        : 'Таджикистан'
+Turkmenistan      : 'Туркменистан'
+Uzbekistan        : 'Узбекистан'
+
+SI_POV      : "Черта бедности"
+SI_POV_DDAY : "2,15$ в день (ППС 2017) доллар-в-день"
+SI_POV_LMIC : "3,65$ в день (ППС 2017) LMIC"
+SI_POV_UMIC : "6,85$ в день (ППС 2017) UMIC"
+
+SP_DYN      : "Пол"
+SP_DYN_LE00_IN    : "Всего"
+SP_DYN_LE00_MA_IN : "Мужчины"
+SP_DYN_LE00_FE_IN : "Женщины"
+
+
