@@ -1,10 +1,12 @@
-graph_title : global_indicators.1-1-1-b-title
-indicator_name : global_indicators.1-1-1-b-title
-indicator_number : 1-1-1-b
-permalink : '/1-1-1-b/'
-#notstarted : reported
-tag : 
-  - custom.global
+composite_breakdown_label : ''
+computation_units : ''
+copyright : ''
+data_footnote : ''
+data_non_statistical : false
+data_notice_class : ''
+data_notice_heading : ''
+data_notice_text : ''
+data_show_map : false
 data_start_values : 
   - field: GeoAreaName
     value: Kazakhstan
@@ -16,9 +18,27 @@ data_start_values :
     value: Turkmenistan
   - field: GeoAreaName
     value: Uzbekistan
-  - field: Age
-    value: 25+
-  - field: Sex
-    value: BOTHSEX
 
-graph_target_lines : []
+embedded_feature_footer : ''
+embedded_feature_html : ''
+embedded_feature_tab_title : ''
+embedded_feature_title : ''
+embedded_feature_url : ''
+expected_disaggregations : []
+graph_annotations : []
+graph_limits : []
+graph_stacked_disaggregation : ''
+graph_title : meta.name-1-1-1-b
+graph_titles : []
+graph_type : line
+indicator_name : meta.name-1-1-1-b
+national_geographical_coverage : custom.central_asia
+page_content : ''
+permalink : '/1-1-1-b/'
+precision : []
+reporting_status : notstarted
+sort : ''
+standalone : false
+tags : []
+indicator_number : 1-1-1-b
+notstarted : reported

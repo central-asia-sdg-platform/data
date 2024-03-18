@@ -1,0 +1,932 @@
+Year,SeriesCode,GeoAreaName,Sex,Value
+2010,"SH_STA_POISN","Armenia","FEMALE",0.6
+2010,"SH_STA_POISN","Armenia","MALE",1.8
+2010,"SH_STA_POISN","Armenia","BOTHSEX",1.2
+2015,"SH_STA_POISN","Armenia","BOTHSEX",0.9
+2015,"SH_STA_POISN","Armenia","FEMALE",1.0
+2015,"SH_STA_POISN","Armenia","MALE",0.8
+2019,"SH_STA_POISN","Armenia","BOTHSEX",0.7
+2019,"SH_STA_POISN","Armenia","FEMALE",0.5
+2019,"SH_STA_POISN","Armenia","MALE",0.8
+2000,"SH_STA_POISN","Belgium","BOTHSEX",0.5
+2000,"SH_STA_POISN","Belgium","FEMALE",0.4
+2000,"SH_STA_POISN","Belgium","MALE",0.6
+2005,"SH_STA_POISN","Belgium","BOTHSEX",0.5
+2005,"SH_STA_POISN","Belgium","MALE",0.5
+2005,"SH_STA_POISN","Belgium","FEMALE",0.4
+2010,"SH_STA_POISN","Belgium","BOTHSEX",0.6
+2010,"SH_STA_POISN","Belgium","FEMALE",0.5
+2010,"SH_STA_POISN","Belgium","MALE",0.6
+2015,"SH_STA_POISN","Belgium","MALE",0.5
+2015,"SH_STA_POISN","Belgium","BOTHSEX",0.4
+2015,"SH_STA_POISN","Belgium","FEMALE",0.4
+2019,"SH_STA_POISN","Belgium","BOTHSEX",0.4
+2019,"SH_STA_POISN","Belgium","FEMALE",0.3
+2019,"SH_STA_POISN","Belgium","MALE",0.4
+2000,"SH_STA_POISN","Bosnia and Herzegovina","MALE",1.0
+2000,"SH_STA_POISN","Bosnia and Herzegovina","BOTHSEX",0.7
+2000,"SH_STA_POISN","Bosnia and Herzegovina","FEMALE",0.4
+2000,"SH_STA_POISN","Serbia","MALE",0.7
+2000,"SH_STA_POISN","Serbia","BOTHSEX",0.5
+2000,"SH_STA_POISN","Serbia","FEMALE",0.3
+2005,"SH_STA_POISN","Serbia","BOTHSEX",0.6
+2005,"SH_STA_POISN","Serbia","FEMALE",0.3
+2005,"SH_STA_POISN","Serbia","MALE",0.9
+2010,"SH_STA_POISN","Serbia","BOTHSEX",0.6
+2010,"SH_STA_POISN","Serbia","FEMALE",0.4
+2010,"SH_STA_POISN","Serbia","MALE",0.8
+2005,"SH_STA_POISN","Bosnia and Herzegovina","BOTHSEX",0.5
+2005,"SH_STA_POISN","Bosnia and Herzegovina","FEMALE",0.3
+2005,"SH_STA_POISN","Bosnia and Herzegovina","MALE",0.6
+2010,"SH_STA_POISN","Bosnia and Herzegovina","BOTHSEX",0.4
+2010,"SH_STA_POISN","Bosnia and Herzegovina","FEMALE",0.3
+2010,"SH_STA_POISN","Bosnia and Herzegovina","MALE",0.5
+2015,"SH_STA_POISN","Bosnia and Herzegovina","BOTHSEX",0.4
+2015,"SH_STA_POISN","Bosnia and Herzegovina","FEMALE",0.3
+2015,"SH_STA_POISN","Bosnia and Herzegovina","MALE",0.5
+2015,"SH_STA_POISN","Serbia","BOTHSEX",0.4
+2015,"SH_STA_POISN","Serbia","MALE",0.4
+2015,"SH_STA_POISN","Serbia","FEMALE",0.3
+2019,"SH_STA_POISN","Serbia","BOTHSEX",0.3
+2019,"SH_STA_POISN","Serbia","FEMALE",0.2
+2019,"SH_STA_POISN","Serbia","MALE",0.3
+2000,"SH_STA_POISN","Slovakia","BOTHSEX",1.1
+2000,"SH_STA_POISN","Slovakia","FEMALE",0.3
+2000,"SH_STA_POISN","Slovakia","MALE",1.9
+2019,"SH_STA_POISN","Bosnia and Herzegovina","FEMALE",0.3
+2019,"SH_STA_POISN","Bosnia and Herzegovina","MALE",0.5
+2019,"SH_STA_POISN","Bosnia and Herzegovina","BOTHSEX",0.4
+2000,"SH_STA_POISN","Bulgaria","BOTHSEX",1.0
+2000,"SH_STA_POISN","Bulgaria","FEMALE",0.5
+2000,"SH_STA_POISN","Bulgaria","MALE",1.5
+2005,"SH_STA_POISN","Bulgaria","BOTHSEX",1.1
+2005,"SH_STA_POISN","Bulgaria","FEMALE",0.5
+2005,"SH_STA_POISN","Bulgaria","MALE",1.8
+2005,"SH_STA_POISN","Slovakia","FEMALE",0.4
+2005,"SH_STA_POISN","Slovakia","MALE",1.0
+2005,"SH_STA_POISN","Slovakia","BOTHSEX",0.7
+2010,"SH_STA_POISN","Slovakia","FEMALE",0.4
+2010,"SH_STA_POISN","Slovakia","MALE",0.9
+2010,"SH_STA_POISN","Slovakia","BOTHSEX",0.6
+2015,"SH_STA_POISN","Slovakia","BOTHSEX",0.6
+2015,"SH_STA_POISN","Slovakia","FEMALE",0.3
+2015,"SH_STA_POISN","Slovakia","MALE",0.8
+2019,"SH_STA_POISN","Slovakia","BOTHSEX",0.5
+2019,"SH_STA_POISN","Slovakia","MALE",0.8
+2019,"SH_STA_POISN","Slovakia","FEMALE",0.3
+2000,"SH_STA_POISN","Viet Nam","BOTHSEX",1.2
+2000,"SH_STA_POISN","Viet Nam","FEMALE",0.4
+2000,"SH_STA_POISN","Viet Nam","MALE",2.1
+2005,"SH_STA_POISN","Viet Nam","BOTHSEX",1.1
+2005,"SH_STA_POISN","Viet Nam","FEMALE",0.4
+2005,"SH_STA_POISN","Viet Nam","MALE",1.8
+2010,"SH_STA_POISN","Viet Nam","BOTHSEX",1.1
+2010,"SH_STA_POISN","Viet Nam","FEMALE",0.3
+2010,"SH_STA_POISN","Viet Nam","MALE",1.8
+2015,"SH_STA_POISN","Viet Nam","BOTHSEX",0.9
+2015,"SH_STA_POISN","Viet Nam","FEMALE",0.2
+2015,"SH_STA_POISN","Viet Nam","MALE",1.6
+2019,"SH_STA_POISN","Viet Nam","MALE",1.5
+2019,"SH_STA_POISN","Viet Nam","BOTHSEX",0.9
+2019,"SH_STA_POISN","Viet Nam","FEMALE",0.2
+2000,"SH_STA_POISN","Slovenia","BOTHSEX",0.5
+2000,"SH_STA_POISN","Slovenia","FEMALE",0.1
+2000,"SH_STA_POISN","Slovenia","MALE",0.9
+2005,"SH_STA_POISN","Slovenia","BOTHSEX",0.6
+2005,"SH_STA_POISN","Slovenia","MALE",0.9
+2005,"SH_STA_POISN","Slovenia","FEMALE",0.2
+2010,"SH_STA_POISN","Slovenia","BOTHSEX",0.5
+2010,"SH_STA_POISN","Slovenia","FEMALE",0.2
+2010,"SH_STA_POISN","Slovenia","MALE",0.7
+2010,"SH_STA_POISN","Bulgaria","MALE",1.3
+2010,"SH_STA_POISN","Bulgaria","BOTHSEX",0.8
+2010,"SH_STA_POISN","Bulgaria","FEMALE",0.3
+2015,"SH_STA_POISN","Bulgaria","BOTHSEX",0.8
+2015,"SH_STA_POISN","Bulgaria","FEMALE",0.6
+2015,"SH_STA_POISN","Bulgaria","MALE",0.9
+2019,"SH_STA_POISN","Bulgaria","BOTHSEX",0.5
+2019,"SH_STA_POISN","Bulgaria","MALE",0.7
+2019,"SH_STA_POISN","Bulgaria","FEMALE",0.4
+2000,"SH_STA_POISN","Albania","BOTHSEX",0.8
+2000,"SH_STA_POISN","Albania","FEMALE",0.6
+2000,"SH_STA_POISN","Albania","MALE",1.0
+2005,"SH_STA_POISN","Albania","MALE",0.7
+2005,"SH_STA_POISN","Albania","BOTHSEX",0.6
+2005,"SH_STA_POISN","Albania","FEMALE",0.4
+2010,"SH_STA_POISN","Albania","BOTHSEX",0.5
+2010,"SH_STA_POISN","Albania","FEMALE",0.4
+2010,"SH_STA_POISN","Albania","MALE",0.6
+2000,"SH_STA_POISN","Belarus","FEMALE",3.2
+2000,"SH_STA_POISN","Belarus","MALE",13.6
+2000,"SH_STA_POISN","Belarus","BOTHSEX",8.1
+2005,"SH_STA_POISN","Belarus","FEMALE",2.9
+2005,"SH_STA_POISN","Belarus","MALE",12.1
+2005,"SH_STA_POISN","Belarus","BOTHSEX",7.2
+2010,"SH_STA_POISN","Belarus","BOTHSEX",4.8
+2010,"SH_STA_POISN","Belarus","FEMALE",2.1
+2010,"SH_STA_POISN","Belarus","MALE",7.9
+2015,"SH_STA_POISN","Slovenia","BOTHSEX",0.4
+2015,"SH_STA_POISN","Slovenia","FEMALE",0.2
+2015,"SH_STA_POISN","Slovenia","MALE",0.6
+2019,"SH_STA_POISN","Slovenia","BOTHSEX",0.2
+2019,"SH_STA_POISN","Slovenia","MALE",0.3
+2019,"SH_STA_POISN","Slovenia","FEMALE",0.1
+2000,"SH_STA_POISN","Spain","BOTHSEX",0.4
+2000,"SH_STA_POISN","Spain","FEMALE",0.3
+2000,"SH_STA_POISN","Spain","MALE",0.6
+2015,"SH_STA_POISN","Albania","BOTHSEX",0.3
+2015,"SH_STA_POISN","Albania","FEMALE",0.3
+2015,"SH_STA_POISN","Albania","MALE",0.4
+2019,"SH_STA_POISN","Albania","BOTHSEX",0.3
+2019,"SH_STA_POISN","Albania","FEMALE",0.2
+2019,"SH_STA_POISN","Albania","MALE",0.4
+2000,"SH_STA_POISN","Azerbaijan","MALE",1.9
+2000,"SH_STA_POISN","Azerbaijan","BOTHSEX",1.3
+2000,"SH_STA_POISN","Azerbaijan","FEMALE",0.8
+2005,"SH_STA_POISN","Spain","BOTHSEX",0.6
+2005,"SH_STA_POISN","Spain","FEMALE",0.4
+2005,"SH_STA_POISN","Spain","MALE",0.9
+2010,"SH_STA_POISN","Spain","BOTHSEX",0.5
+2010,"SH_STA_POISN","Spain","FEMALE",0.2
+2010,"SH_STA_POISN","Spain","MALE",0.7
+2015,"SH_STA_POISN","Spain","BOTHSEX",0.3
+2015,"SH_STA_POISN","Spain","FEMALE",0.2
+2015,"SH_STA_POISN","Spain","MALE",0.5
+2005,"SH_STA_POISN","Azerbaijan","BOTHSEX",1.0
+2005,"SH_STA_POISN","Azerbaijan","FEMALE",0.6
+2005,"SH_STA_POISN","Azerbaijan","MALE",1.4
+2010,"SH_STA_POISN","Azerbaijan","BOTHSEX",1.0
+2010,"SH_STA_POISN","Azerbaijan","MALE",1.3
+2010,"SH_STA_POISN","Azerbaijan","FEMALE",0.6
+2015,"SH_STA_POISN","Azerbaijan","MALE",1.3
+2015,"SH_STA_POISN","Azerbaijan","FEMALE",0.6
+2015,"SH_STA_POISN","Azerbaijan","BOTHSEX",0.9
+2019,"SH_STA_POISN","Spain","FEMALE",0.2
+2019,"SH_STA_POISN","Spain","BOTHSEX",0.4
+2019,"SH_STA_POISN","Spain","MALE",0.5
+2000,"SH_STA_POISN","Sweden","FEMALE",0.1
+2000,"SH_STA_POISN","Sweden","MALE",0.3
+2000,"SH_STA_POISN","Sweden","BOTHSEX",0.2
+2005,"SH_STA_POISN","Sweden","BOTHSEX",0.2
+2005,"SH_STA_POISN","Sweden","MALE",0.3
+2005,"SH_STA_POISN","Sweden","FEMALE",0.1
+2019,"SH_STA_POISN","Azerbaijan","FEMALE",0.6
+2019,"SH_STA_POISN","Azerbaijan","MALE",1.3
+2019,"SH_STA_POISN","Azerbaijan","BOTHSEX",0.9
+2000,"SH_STA_POISN","Australia","BOTHSEX",0.4
+2000,"SH_STA_POISN","Australia","FEMALE",0.2
+2000,"SH_STA_POISN","Australia","MALE",0.5
+2005,"SH_STA_POISN","Australia","BOTHSEX",0.3
+2005,"SH_STA_POISN","Australia","FEMALE",0.2
+2005,"SH_STA_POISN","Australia","MALE",0.4
+2010,"SH_STA_POISN","Sweden","MALE",0.4
+2010,"SH_STA_POISN","Sweden","FEMALE",0.2
+2010,"SH_STA_POISN","Sweden","BOTHSEX",0.3
+2015,"SH_STA_POISN","Sweden","BOTHSEX",0.2
+2015,"SH_STA_POISN","Sweden","FEMALE",0.1
+2015,"SH_STA_POISN","Sweden","MALE",0.3
+2019,"SH_STA_POISN","Sweden","MALE",0.2
+2019,"SH_STA_POISN","Sweden","FEMALE",0.1
+2019,"SH_STA_POISN","Sweden","BOTHSEX",0.2
+2010,"SH_STA_POISN","Australia","BOTHSEX",0.2
+2010,"SH_STA_POISN","Australia","FEMALE",0.1
+2010,"SH_STA_POISN","Australia","MALE",0.2
+2015,"SH_STA_POISN","Australia","BOTHSEX",0.1
+2015,"SH_STA_POISN","Australia","FEMALE",0.2
+2015,"SH_STA_POISN","Australia","MALE",0.1
+2019,"SH_STA_POISN","Australia","BOTHSEX",0.1
+2019,"SH_STA_POISN","Australia","MALE",0.2
+2019,"SH_STA_POISN","Australia","FEMALE",0.1
+2015,"SH_STA_POISN","Belarus","BOTHSEX",3.5
+2015,"SH_STA_POISN","Belarus","FEMALE",1.5
+2015,"SH_STA_POISN","Belarus","MALE",6.0
+2019,"SH_STA_POISN","Belarus","BOTHSEX",3.3
+2019,"SH_STA_POISN","Belarus","FEMALE",1.3
+2019,"SH_STA_POISN","Belarus","MALE",5.6
+2000,"SH_STA_POISN","Canada","BOTHSEX",0.4
+2000,"SH_STA_POISN","Canada","FEMALE",0.2
+2000,"SH_STA_POISN","Canada","MALE",0.6
+2000,"SH_STA_POISN","Switzerland","FEMALE",0.1
+2000,"SH_STA_POISN","Switzerland","BOTHSEX",0.2
+2000,"SH_STA_POISN","Switzerland","MALE",0.4
+2005,"SH_STA_POISN","Switzerland","BOTHSEX",0.1
+2005,"SH_STA_POISN","Switzerland","MALE",0.1
+2005,"SH_STA_POISN","Switzerland","FEMALE",0.1
+2010,"SH_STA_POISN","Switzerland","BOTHSEX",0.2
+2010,"SH_STA_POISN","Switzerland","FEMALE",0.2
+2010,"SH_STA_POISN","Switzerland","MALE",0.2
+2015,"SH_STA_POISN","Switzerland","BOTHSEX",0.2
+2015,"SH_STA_POISN","Switzerland","FEMALE",0.1
+2015,"SH_STA_POISN","Switzerland","MALE",0.4
+2019,"SH_STA_POISN","Switzerland","BOTHSEX",0.2
+2019,"SH_STA_POISN","Switzerland","FEMALE",0.1
+2019,"SH_STA_POISN","Switzerland","MALE",0.2
+2000,"SH_STA_POISN","Tajikistan","FEMALE",1.2
+2000,"SH_STA_POISN","Tajikistan","BOTHSEX",1.9
+2000,"SH_STA_POISN","Tajikistan","MALE",2.6
+2000,"SH_STA_POISN","Austria","BOTHSEX",0.2
+2000,"SH_STA_POISN","Austria","FEMALE",0.1
+2000,"SH_STA_POISN","Austria","MALE",0.3
+2005,"SH_STA_POISN","Austria","BOTHSEX",0.2
+2005,"SH_STA_POISN","Austria","FEMALE",0.1
+2005,"SH_STA_POISN","Austria","MALE",0.2
+2010,"SH_STA_POISN","Austria","BOTHSEX",0.3
+2010,"SH_STA_POISN","Austria","FEMALE",0.2
+2010,"SH_STA_POISN","Austria","MALE",0.4
+2005,"SH_STA_POISN","Tajikistan","FEMALE",0.8
+2005,"SH_STA_POISN","Tajikistan","MALE",1.8
+2005,"SH_STA_POISN","Tajikistan","BOTHSEX",1.3
+2010,"SH_STA_POISN","Tajikistan","BOTHSEX",0.9
+2010,"SH_STA_POISN","Tajikistan","FEMALE",0.5
+2010,"SH_STA_POISN","Tajikistan","MALE",1.3
+2015,"SH_STA_POISN","Tajikistan","BOTHSEX",0.4
+2015,"SH_STA_POISN","Tajikistan","MALE",0.6
+2015,"SH_STA_POISN","Tajikistan","FEMALE",0.2
+2015,"SH_STA_POISN","Austria","BOTHSEX",0.1
+2015,"SH_STA_POISN","Austria","FEMALE",0.1
+2015,"SH_STA_POISN","Austria","MALE",0.2
+2019,"SH_STA_POISN","Austria","BOTHSEX",0.2
+2019,"SH_STA_POISN","Austria","MALE",0.3
+2019,"SH_STA_POISN","Austria","FEMALE",0.1
+2000,"SH_STA_POISN","Armenia","MALE",1.6
+2000,"SH_STA_POISN","Armenia","FEMALE",0.5
+2000,"SH_STA_POISN","Armenia","BOTHSEX",1.0
+2005,"SH_STA_POISN","Canada","FEMALE",0.1
+2005,"SH_STA_POISN","Canada","BOTHSEX",0.3
+2005,"SH_STA_POISN","Canada","MALE",0.4
+2010,"SH_STA_POISN","Canada","BOTHSEX",0.3
+2010,"SH_STA_POISN","Canada","FEMALE",0.3
+2010,"SH_STA_POISN","Canada","MALE",0.4
+2015,"SH_STA_POISN","Canada","BOTHSEX",0.3
+2015,"SH_STA_POISN","Canada","FEMALE",0.3
+2015,"SH_STA_POISN","Canada","MALE",0.4
+2019,"SH_STA_POISN","Tajikistan","FEMALE",0.2
+2019,"SH_STA_POISN","Tajikistan","MALE",0.6
+2019,"SH_STA_POISN","Tajikistan","BOTHSEX",0.4
+2000,"SH_STA_POISN","United Arab Emirates","MALE",0.8
+2000,"SH_STA_POISN","United Arab Emirates","FEMALE",0.1
+2000,"SH_STA_POISN","United Arab Emirates","BOTHSEX",0.6
+2005,"SH_STA_POISN","United Arab Emirates","FEMALE",0.1
+2005,"SH_STA_POISN","United Arab Emirates","BOTHSEX",0.5
+2005,"SH_STA_POISN","United Arab Emirates","MALE",0.7
+2010,"SH_STA_POISN","United Arab Emirates","MALE",0.7
+2010,"SH_STA_POISN","United Arab Emirates","FEMALE",0.1
+2010,"SH_STA_POISN","United Arab Emirates","BOTHSEX",0.5
+2015,"SH_STA_POISN","United Arab Emirates","BOTHSEX",0.4
+2015,"SH_STA_POISN","United Arab Emirates","MALE",0.5
+2015,"SH_STA_POISN","United Arab Emirates","FEMALE",0.1
+2019,"SH_STA_POISN","United Arab Emirates","BOTHSEX",0.4
+2019,"SH_STA_POISN","United Arab Emirates","FEMALE",0.1
+2019,"SH_STA_POISN","United Arab Emirates","MALE",0.5
+2000,"SH_STA_POISN","Türkiye","MALE",1.0
+2000,"SH_STA_POISN","Türkiye","BOTHSEX",0.8
+2000,"SH_STA_POISN","Türkiye","FEMALE",0.7
+2005,"SH_STA_POISN","Türkiye","FEMALE",0.4
+2005,"SH_STA_POISN","Türkiye","BOTHSEX",0.5
+2005,"SH_STA_POISN","Türkiye","MALE",0.5
+2010,"SH_STA_POISN","Türkiye","MALE",0.4
+2010,"SH_STA_POISN","Türkiye","BOTHSEX",0.4
+2010,"SH_STA_POISN","Türkiye","FEMALE",0.3
+2019,"SH_STA_POISN","Canada","BOTHSEX",0.3
+2019,"SH_STA_POISN","Canada","FEMALE",0.3
+2019,"SH_STA_POISN","Canada","MALE",0.4
+2000,"SH_STA_POISN","Chile","BOTHSEX",0.3
+2000,"SH_STA_POISN","Chile","FEMALE",0.2
+2000,"SH_STA_POISN","Chile","MALE",0.4
+2005,"SH_STA_POISN","Chile","BOTHSEX",0.4
+2005,"SH_STA_POISN","Chile","FEMALE",0.2
+2005,"SH_STA_POISN","Chile","MALE",0.6
+2015,"SH_STA_POISN","Türkiye","BOTHSEX",0.4
+2015,"SH_STA_POISN","Türkiye","MALE",0.6
+2015,"SH_STA_POISN","Türkiye","FEMALE",0.3
+2019,"SH_STA_POISN","Türkiye","BOTHSEX",0.4
+2019,"SH_STA_POISN","Türkiye","FEMALE",0.3
+2019,"SH_STA_POISN","Türkiye","MALE",0.5
+2000,"SH_STA_POISN","Turkmenistan","FEMALE",0.8
+2000,"SH_STA_POISN","Turkmenistan","BOTHSEX",1.3
+2000,"SH_STA_POISN","Turkmenistan","MALE",1.9
+2010,"SH_STA_POISN","Chile","MALE",0.3
+2010,"SH_STA_POISN","Chile","BOTHSEX",0.3
+2010,"SH_STA_POISN","Chile","FEMALE",0.2
+2015,"SH_STA_POISN","Chile","BOTHSEX",0.3
+2015,"SH_STA_POISN","Chile","FEMALE",0.2
+2015,"SH_STA_POISN","Chile","MALE",0.4
+2019,"SH_STA_POISN","Chile","BOTHSEX",0.4
+2019,"SH_STA_POISN","Chile","FEMALE",0.2
+2019,"SH_STA_POISN","Chile","MALE",0.5
+2005,"SH_STA_POISN","Turkmenistan","FEMALE",0.9
+2005,"SH_STA_POISN","Turkmenistan","BOTHSEX",1.5
+2005,"SH_STA_POISN","Turkmenistan","MALE",2.1
+2010,"SH_STA_POISN","Turkmenistan","BOTHSEX",0.9
+2010,"SH_STA_POISN","Turkmenistan","MALE",1.1
+2010,"SH_STA_POISN","Turkmenistan","FEMALE",0.7
+2015,"SH_STA_POISN","Turkmenistan","BOTHSEX",0.7
+2015,"SH_STA_POISN","Turkmenistan","MALE",0.8
+2015,"SH_STA_POISN","Turkmenistan","FEMALE",0.6
+2019,"SH_STA_POISN","Turkmenistan","BOTHSEX",0.6
+2019,"SH_STA_POISN","Turkmenistan","FEMALE",0.5
+2019,"SH_STA_POISN","Turkmenistan","MALE",0.8
+2000,"SH_STA_POISN","Ukraine","MALE",14.7
+2000,"SH_STA_POISN","Ukraine","BOTHSEX",8.3
+2000,"SH_STA_POISN","Ukraine","FEMALE",2.8
+2005,"SH_STA_POISN","Ukraine","BOTHSEX",7.0
+2005,"SH_STA_POISN","Ukraine","FEMALE",2.5
+2005,"SH_STA_POISN","Ukraine","MALE",12.3
+2000,"SH_STA_POISN","China","BOTHSEX",1.7
+2000,"SH_STA_POISN","China","FEMALE",1.5
+2000,"SH_STA_POISN","China","MALE",1.9
+2005,"SH_STA_POISN","China","FEMALE",1.7
+2005,"SH_STA_POISN","China","MALE",2.4
+2005,"SH_STA_POISN","China","BOTHSEX",2.0
+2010,"SH_STA_POISN","China","BOTHSEX",2.1
+2010,"SH_STA_POISN","China","FEMALE",1.8
+2010,"SH_STA_POISN","China","MALE",2.4
+2010,"SH_STA_POISN","Ukraine","MALE",6.0
+2010,"SH_STA_POISN","Ukraine","FEMALE",1.4
+2010,"SH_STA_POISN","Ukraine","BOTHSEX",3.5
+2015,"SH_STA_POISN","Ukraine","BOTHSEX",2.3
+2015,"SH_STA_POISN","Ukraine","FEMALE",1.0
+2015,"SH_STA_POISN","Ukraine","MALE",3.9
+2019,"SH_STA_POISN","Ukraine","BOTHSEX",2.5
+2019,"SH_STA_POISN","Ukraine","MALE",4.3
+2019,"SH_STA_POISN","Ukraine","FEMALE",1.0
+2015,"SH_STA_POISN","China","BOTHSEX",2.0
+2015,"SH_STA_POISN","China","FEMALE",1.6
+2015,"SH_STA_POISN","China","MALE",2.3
+2019,"SH_STA_POISN","China","BOTHSEX",1.8
+2019,"SH_STA_POISN","China","FEMALE",1.5
+2019,"SH_STA_POISN","China","MALE",2.1
+2000,"SH_STA_POISN","Colombia","BOTHSEX",0.2
+2000,"SH_STA_POISN","Colombia","FEMALE",0.1
+2000,"SH_STA_POISN","Colombia","MALE",0.2
+2000,"SH_STA_POISN","North Macedonia","BOTHSEX",0.7
+2000,"SH_STA_POISN","North Macedonia","FEMALE",0.4
+2000,"SH_STA_POISN","North Macedonia","MALE",1.0
+2005,"SH_STA_POISN","North Macedonia","BOTHSEX",0.6
+2005,"SH_STA_POISN","North Macedonia","MALE",0.7
+2005,"SH_STA_POISN","North Macedonia","FEMALE",0.4
+2010,"SH_STA_POISN","North Macedonia","MALE",0.7
+2010,"SH_STA_POISN","North Macedonia","BOTHSEX",0.6
+2010,"SH_STA_POISN","North Macedonia","FEMALE",0.5
+2005,"SH_STA_POISN","Colombia","BOTHSEX",0.2
+2005,"SH_STA_POISN","Colombia","FEMALE",0.1
+2005,"SH_STA_POISN","Colombia","MALE",0.2
+2010,"SH_STA_POISN","Colombia","BOTHSEX",0.1
+2010,"SH_STA_POISN","Colombia","FEMALE",0.1
+2010,"SH_STA_POISN","Colombia","MALE",0.2
+2015,"SH_STA_POISN","Colombia","MALE",0.2
+2015,"SH_STA_POISN","Colombia","BOTHSEX",0.1
+2015,"SH_STA_POISN","Colombia","FEMALE",0.1
+2015,"SH_STA_POISN","North Macedonia","MALE",0.8
+2015,"SH_STA_POISN","North Macedonia","FEMALE",0.3
+2015,"SH_STA_POISN","North Macedonia","BOTHSEX",0.5
+2019,"SH_STA_POISN","North Macedonia","FEMALE",0.3
+2019,"SH_STA_POISN","North Macedonia","MALE",0.8
+2019,"SH_STA_POISN","North Macedonia","BOTHSEX",0.5
+2000,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","BOTHSEX",0.3
+2000,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","MALE",0.4
+2000,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","FEMALE",0.1
+2005,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","BOTHSEX",0.2
+2005,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","MALE",0.2
+2005,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","FEMALE",0.2
+2010,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","BOTHSEX",0.3
+2010,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","FEMALE",0.3
+2010,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","MALE",0.4
+2015,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","FEMALE",0.3
+2015,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","MALE",0.4
+2019,"SH_STA_POISN","Colombia","BOTHSEX",0.1
+2019,"SH_STA_POISN","Colombia","MALE",0.2
+2019,"SH_STA_POISN","Colombia","FEMALE",0.1
+2000,"SH_STA_POISN","Costa Rica","BOTHSEX",0.1
+2000,"SH_STA_POISN","Costa Rica","FEMALE",0.2
+2000,"SH_STA_POISN","Costa Rica","MALE",0.1
+2005,"SH_STA_POISN","Costa Rica","BOTHSEX",0.1
+2005,"SH_STA_POISN","Costa Rica","FEMALE",0.0
+2005,"SH_STA_POISN","Costa Rica","MALE",0.2
+2010,"SH_STA_POISN","Costa Rica","BOTHSEX",0.2
+2010,"SH_STA_POISN","Costa Rica","FEMALE",0.0
+2010,"SH_STA_POISN","Costa Rica","MALE",0.3
+2015,"SH_STA_POISN","Costa Rica","FEMALE",0.0
+2015,"SH_STA_POISN","Costa Rica","MALE",0.2
+2015,"SH_STA_POISN","Costa Rica","BOTHSEX",0.1
+2019,"SH_STA_POISN","Costa Rica","BOTHSEX",0.1
+2019,"SH_STA_POISN","Costa Rica","FEMALE",0.1
+2019,"SH_STA_POISN","Costa Rica","MALE",0.1
+2015,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","BOTHSEX",0.3
+2019,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","BOTHSEX",0.3
+2019,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","FEMALE",0.2
+2019,"SH_STA_POISN","United Kingdom of Great Britain and Northern Ireland","MALE",0.4
+2000,"SH_STA_POISN","Uzbekistan","MALE",2.2
+2000,"SH_STA_POISN","Uzbekistan","BOTHSEX",1.4
+2000,"SH_STA_POISN","Uzbekistan","FEMALE",0.7
+2005,"SH_STA_POISN","Uzbekistan","MALE",1.7
+2005,"SH_STA_POISN","Uzbekistan","BOTHSEX",1.2
+2005,"SH_STA_POISN","Uzbekistan","FEMALE",0.7
+2010,"SH_STA_POISN","Uzbekistan","BOTHSEX",1.0
+2010,"SH_STA_POISN","Uzbekistan","FEMALE",0.6
+2010,"SH_STA_POISN","Uzbekistan","MALE",1.4
+2015,"SH_STA_POISN","Uzbekistan","FEMALE",0.6
+2015,"SH_STA_POISN","Uzbekistan","BOTHSEX",0.9
+2015,"SH_STA_POISN","Uzbekistan","MALE",1.3
+2019,"SH_STA_POISN","Uzbekistan","MALE",1.2
+2019,"SH_STA_POISN","Uzbekistan","BOTHSEX",0.8
+2000,"SH_STA_POISN","Croatia","MALE",0.8
+2000,"SH_STA_POISN","Croatia","FEMALE",0.4
+2000,"SH_STA_POISN","Croatia","BOTHSEX",0.6
+2005,"SH_STA_POISN","Croatia","BOTHSEX",0.9
+2005,"SH_STA_POISN","Croatia","FEMALE",0.6
+2005,"SH_STA_POISN","Croatia","MALE",1.2
+2010,"SH_STA_POISN","Croatia","BOTHSEX",0.5
+2010,"SH_STA_POISN","Croatia","FEMALE",0.4
+2010,"SH_STA_POISN","Croatia","MALE",0.5
+2015,"SH_STA_POISN","Croatia","BOTHSEX",0.4
+2015,"SH_STA_POISN","Croatia","FEMALE",0.3
+2015,"SH_STA_POISN","Croatia","MALE",0.5
+2019,"SH_STA_POISN","Croatia","FEMALE",0.3
+2019,"SH_STA_POISN","Croatia","MALE",0.5
+2019,"SH_STA_POISN","Croatia","BOTHSEX",0.4
+2000,"SH_STA_POISN","Cyprus","FEMALE",0.1
+2000,"SH_STA_POISN","Cyprus","BOTHSEX",0.1
+2000,"SH_STA_POISN","Cyprus","MALE",0.2
+2005,"SH_STA_POISN","Cyprus","BOTHSEX",0.1
+2005,"SH_STA_POISN","Cyprus","FEMALE",0.2
+2005,"SH_STA_POISN","Cyprus","MALE",0.0
+2010,"SH_STA_POISN","Cyprus","BOTHSEX",0.0
+2010,"SH_STA_POISN","Cyprus","FEMALE",0.0
+2010,"SH_STA_POISN","Cyprus","MALE",0.0
+2015,"SH_STA_POISN","Cyprus","BOTHSEX",0.2
+2015,"SH_STA_POISN","Cyprus","FEMALE",0.0
+2015,"SH_STA_POISN","Cyprus","MALE",0.4
+2019,"SH_STA_POISN","Cyprus","BOTHSEX",0.3
+2019,"SH_STA_POISN","Cyprus","FEMALE",0.4
+2019,"SH_STA_POISN","Cyprus","MALE",0.3
+2000,"SH_STA_POISN","Czechia","FEMALE",0.7
+2000,"SH_STA_POISN","Czechia","MALE",1.8
+2000,"SH_STA_POISN","Czechia","BOTHSEX",1.2
+2005,"SH_STA_POISN","Czechia","BOTHSEX",1.1
+2005,"SH_STA_POISN","Czechia","FEMALE",0.6
+2005,"SH_STA_POISN","Czechia","MALE",1.6
+2010,"SH_STA_POISN","Czechia","BOTHSEX",1.0
+2010,"SH_STA_POISN","Czechia","FEMALE",0.3
+2010,"SH_STA_POISN","Czechia","MALE",1.8
+2015,"SH_STA_POISN","Czechia","BOTHSEX",0.8
+2015,"SH_STA_POISN","Czechia","FEMALE",0.5
+2015,"SH_STA_POISN","Czechia","MALE",1.2
+2019,"SH_STA_POISN","Czechia","BOTHSEX",0.4
+2019,"SH_STA_POISN","Czechia","FEMALE",0.2
+2019,"SH_STA_POISN","Czechia","MALE",0.5
+2000,"SH_STA_POISN","Denmark","BOTHSEX",0.3
+2000,"SH_STA_POISN","Denmark","FEMALE",0.3
+2000,"SH_STA_POISN","Denmark","MALE",0.3
+2005,"SH_STA_POISN","Denmark","BOTHSEX",0.3
+2005,"SH_STA_POISN","Denmark","FEMALE",0.2
+2005,"SH_STA_POISN","Denmark","MALE",0.4
+2010,"SH_STA_POISN","Denmark","BOTHSEX",0.2
+2010,"SH_STA_POISN","Denmark","MALE",0.3
+2010,"SH_STA_POISN","Denmark","FEMALE",0.2
+2015,"SH_STA_POISN","Denmark","FEMALE",0.1
+2015,"SH_STA_POISN","Denmark","MALE",0.3
+2015,"SH_STA_POISN","Denmark","BOTHSEX",0.2
+2019,"SH_STA_POISN","Denmark","BOTHSEX",0.1
+2019,"SH_STA_POISN","Denmark","FEMALE",0.0
+2019,"SH_STA_POISN","Denmark","MALE",0.2
+2000,"SH_STA_POISN","Estonia","BOTHSEX",3.5
+2000,"SH_STA_POISN","Estonia","FEMALE",0.6
+2000,"SH_STA_POISN","Estonia","MALE",6.8
+2005,"SH_STA_POISN","Estonia","BOTHSEX",2.0
+2005,"SH_STA_POISN","Estonia","FEMALE",0.5
+2005,"SH_STA_POISN","Estonia","MALE",3.8
+2010,"SH_STA_POISN","Estonia","BOTHSEX",0.9
+2010,"SH_STA_POISN","Estonia","FEMALE",0.5
+2010,"SH_STA_POISN","Estonia","MALE",1.2
+2015,"SH_STA_POISN","Estonia","BOTHSEX",0.5
+2015,"SH_STA_POISN","Estonia","FEMALE",0.3
+2015,"SH_STA_POISN","Estonia","MALE",0.7
+2019,"SH_STA_POISN","Estonia","MALE",1.2
+2019,"SH_STA_POISN","Estonia","BOTHSEX",0.6
+2019,"SH_STA_POISN","Estonia","FEMALE",0.1
+2000,"SH_STA_POISN","Finland","FEMALE",0.2
+2000,"SH_STA_POISN","Finland","MALE",0.9
+2000,"SH_STA_POISN","Finland","BOTHSEX",0.5
+2005,"SH_STA_POISN","Finland","BOTHSEX",0.8
+2005,"SH_STA_POISN","Finland","FEMALE",0.6
+2005,"SH_STA_POISN","Finland","MALE",1.1
+2010,"SH_STA_POISN","Finland","BOTHSEX",1.1
+2010,"SH_STA_POISN","Finland","FEMALE",0.6
+2010,"SH_STA_POISN","Finland","MALE",1.6
+2015,"SH_STA_POISN","Finland","BOTHSEX",0.5
+2015,"SH_STA_POISN","Finland","FEMALE",0.5
+2015,"SH_STA_POISN","Finland","MALE",0.5
+2019,"SH_STA_POISN","Finland","BOTHSEX",0.4
+2019,"SH_STA_POISN","Finland","FEMALE",0.2
+2019,"SH_STA_POISN","Finland","MALE",0.7
+2000,"SH_STA_POISN","France","MALE",0.5
+2000,"SH_STA_POISN","France","FEMALE",0.3
+2000,"SH_STA_POISN","France","BOTHSEX",0.4
+2005,"SH_STA_POISN","France","BOTHSEX",0.4
+2005,"SH_STA_POISN","France","FEMALE",0.3
+2005,"SH_STA_POISN","France","MALE",0.6
+2010,"SH_STA_POISN","France","MALE",0.5
+2010,"SH_STA_POISN","France","BOTHSEX",0.4
+2010,"SH_STA_POISN","France","FEMALE",0.3
+2015,"SH_STA_POISN","France","BOTHSEX",0.3
+2015,"SH_STA_POISN","France","FEMALE",0.3
+2015,"SH_STA_POISN","France","MALE",0.4
+2019,"SH_STA_POISN","France","BOTHSEX",0.3
+2019,"SH_STA_POISN","France","FEMALE",0.3
+2019,"SH_STA_POISN","France","MALE",0.5
+2000,"SH_STA_POISN","Georgia","MALE",1.1
+2000,"SH_STA_POISN","Georgia","BOTHSEX",0.8
+2000,"SH_STA_POISN","Georgia","FEMALE",0.5
+2005,"SH_STA_POISN","Georgia","FEMALE",0.6
+2005,"SH_STA_POISN","Georgia","MALE",0.9
+2005,"SH_STA_POISN","Georgia","BOTHSEX",0.7
+2010,"SH_STA_POISN","Georgia","FEMALE",0.6
+2010,"SH_STA_POISN","Georgia","MALE",0.9
+2010,"SH_STA_POISN","Georgia","BOTHSEX",0.7
+2015,"SH_STA_POISN","Georgia","BOTHSEX",0.7
+2015,"SH_STA_POISN","Georgia","FEMALE",0.7
+2015,"SH_STA_POISN","Georgia","MALE",0.6
+2019,"SH_STA_POISN","Georgia","BOTHSEX",0.6
+2019,"SH_STA_POISN","Georgia","FEMALE",0.6
+2019,"SH_STA_POISN","Georgia","MALE",0.6
+2000,"SH_STA_POISN","Germany","BOTHSEX",0.1
+2000,"SH_STA_POISN","Germany","FEMALE",0.1
+2000,"SH_STA_POISN","Germany","MALE",0.1
+2005,"SH_STA_POISN","Germany","BOTHSEX",0.1
+2005,"SH_STA_POISN","Germany","FEMALE",0.1
+2005,"SH_STA_POISN","Germany","MALE",0.2
+2010,"SH_STA_POISN","Germany","BOTHSEX",0.1
+2010,"SH_STA_POISN","Germany","FEMALE",0.1
+2010,"SH_STA_POISN","Germany","MALE",0.2
+2015,"SH_STA_POISN","Germany","BOTHSEX",0.2
+2015,"SH_STA_POISN","Germany","FEMALE",0.1
+2015,"SH_STA_POISN","Germany","MALE",0.2
+2019,"SH_STA_POISN","Germany","MALE",0.4
+2019,"SH_STA_POISN","Germany","BOTHSEX",0.3
+2019,"SH_STA_POISN","Germany","FEMALE",0.1
+2000,"SH_STA_POISN","Greece","BOTHSEX",0.3
+2000,"SH_STA_POISN","Greece","FEMALE",0.1
+2000,"SH_STA_POISN","Greece","MALE",0.4
+2005,"SH_STA_POISN","Greece","BOTHSEX",0.4
+2005,"SH_STA_POISN","Greece","FEMALE",0.1
+2005,"SH_STA_POISN","Greece","MALE",0.7
+2010,"SH_STA_POISN","Greece","MALE",0.4
+2010,"SH_STA_POISN","Greece","FEMALE",0.0
+2010,"SH_STA_POISN","Greece","BOTHSEX",0.2
+2015,"SH_STA_POISN","Greece","BOTHSEX",0.1
+2015,"SH_STA_POISN","Greece","FEMALE",0.1
+2015,"SH_STA_POISN","Greece","MALE",0.1
+2019,"SH_STA_POISN","Greece","BOTHSEX",0.2
+2019,"SH_STA_POISN","Greece","FEMALE",0.1
+2019,"SH_STA_POISN","Greece","MALE",0.2
+2000,"SH_STA_POISN","Hungary","BOTHSEX",0.6
+2000,"SH_STA_POISN","Hungary","FEMALE",0.2
+2000,"SH_STA_POISN","Hungary","MALE",1.0
+2005,"SH_STA_POISN","Hungary","BOTHSEX",1.0
+2005,"SH_STA_POISN","Hungary","FEMALE",0.7
+2005,"SH_STA_POISN","Hungary","MALE",1.4
+2010,"SH_STA_POISN","Hungary","FEMALE",0.6
+2010,"SH_STA_POISN","Hungary","MALE",1.3
+2010,"SH_STA_POISN","Hungary","BOTHSEX",0.9
+2015,"SH_STA_POISN","Hungary","BOTHSEX",0.4
+2015,"SH_STA_POISN","Hungary","FEMALE",0.2
+2015,"SH_STA_POISN","Hungary","MALE",0.7
+2019,"SH_STA_POISN","Hungary","BOTHSEX",0.5
+2019,"SH_STA_POISN","Hungary","FEMALE",0.4
+2019,"SH_STA_POISN","Hungary","MALE",0.6
+2000,"SH_STA_POISN","Iceland","BOTHSEX",0.6
+2000,"SH_STA_POISN","Iceland","FEMALE",0.3
+2000,"SH_STA_POISN","Iceland","MALE",0.9
+2005,"SH_STA_POISN","Iceland","BOTHSEX",0.1
+2005,"SH_STA_POISN","Iceland","FEMALE",0.0
+2005,"SH_STA_POISN","Iceland","MALE",0.2
+2010,"SH_STA_POISN","Iceland","BOTHSEX",0.4
+2010,"SH_STA_POISN","Iceland","FEMALE",0.2
+2010,"SH_STA_POISN","Iceland","MALE",0.7
+2015,"SH_STA_POISN","Iceland","BOTHSEX",0.1
+2015,"SH_STA_POISN","Iceland","FEMALE",0.2
+2015,"SH_STA_POISN","Iceland","MALE",0.0
+2019,"SH_STA_POISN","Iceland","MALE",1.5
+2019,"SH_STA_POISN","Iceland","BOTHSEX",1.0
+2019,"SH_STA_POISN","Iceland","FEMALE",0.4
+2000,"SH_STA_POISN","India","MALE",0.7
+2000,"SH_STA_POISN","India","FEMALE",0.5
+2000,"SH_STA_POISN","India","BOTHSEX",0.6
+2005,"SH_STA_POISN","India","BOTHSEX",0.5
+2005,"SH_STA_POISN","India","FEMALE",0.4
+2005,"SH_STA_POISN","India","MALE",0.6
+2010,"SH_STA_POISN","India","BOTHSEX",0.4
+2010,"SH_STA_POISN","India","FEMALE",0.3
+2010,"SH_STA_POISN","India","MALE",0.5
+2015,"SH_STA_POISN","India","FEMALE",0.2
+2015,"SH_STA_POISN","India","MALE",0.4
+2015,"SH_STA_POISN","India","BOTHSEX",0.3
+2019,"SH_STA_POISN","India","BOTHSEX",0.3
+2019,"SH_STA_POISN","India","FEMALE",0.2
+2019,"SH_STA_POISN","India","MALE",0.3
+2000,"SH_STA_POISN","Ireland","BOTHSEX",0.6
+2000,"SH_STA_POISN","Ireland","FEMALE",0.4
+2000,"SH_STA_POISN","Ireland","MALE",0.8
+2005,"SH_STA_POISN","Ireland","BOTHSEX",0.6
+2005,"SH_STA_POISN","Ireland","FEMALE",0.4
+2005,"SH_STA_POISN","Ireland","MALE",0.7
+2010,"SH_STA_POISN","Ireland","BOTHSEX",0.3
+2010,"SH_STA_POISN","Ireland","FEMALE",0.1
+2010,"SH_STA_POISN","Ireland","MALE",0.5
+2015,"SH_STA_POISN","Ireland","BOTHSEX",0.4
+2015,"SH_STA_POISN","Ireland","FEMALE",0.1
+2015,"SH_STA_POISN","Ireland","MALE",0.6
+2019,"SH_STA_POISN","Ireland","BOTHSEX",0.3
+2019,"SH_STA_POISN","Ireland","FEMALE",0.2
+2019,"SH_STA_POISN","Ireland","MALE",0.4
+2000,"SH_STA_POISN","Israel","FEMALE",0.1
+2000,"SH_STA_POISN","Israel","MALE",0.2
+2000,"SH_STA_POISN","Israel","BOTHSEX",0.1
+2005,"SH_STA_POISN","Israel","BOTHSEX",0.0
+2005,"SH_STA_POISN","Israel","FEMALE",0.0
+2005,"SH_STA_POISN","Israel","MALE",0.0
+2010,"SH_STA_POISN","Israel","BOTHSEX",0.0
+2010,"SH_STA_POISN","Israel","FEMALE",0.0
+2010,"SH_STA_POISN","Israel","MALE",0.0
+2015,"SH_STA_POISN","Israel","BOTHSEX",0.0
+2015,"SH_STA_POISN","Israel","FEMALE",0.0
+2015,"SH_STA_POISN","Israel","MALE",0.0
+2019,"SH_STA_POISN","Israel","BOTHSEX",0.0
+2019,"SH_STA_POISN","Israel","FEMALE",0.0
+2019,"SH_STA_POISN","Israel","MALE",0.1
+2000,"SH_STA_POISN","Italy","BOTHSEX",0.5
+2000,"SH_STA_POISN","Italy","FEMALE",0.2
+2000,"SH_STA_POISN","Italy","MALE",0.9
+2005,"SH_STA_POISN","Italy","BOTHSEX",0.3
+2005,"SH_STA_POISN","Italy","MALE",0.5
+2005,"SH_STA_POISN","Italy","FEMALE",0.1
+2010,"SH_STA_POISN","Italy","FEMALE",0.2
+2010,"SH_STA_POISN","Italy","BOTHSEX",0.3
+2010,"SH_STA_POISN","Italy","MALE",0.5
+2015,"SH_STA_POISN","Italy","BOTHSEX",0.3
+2015,"SH_STA_POISN","Italy","FEMALE",0.2
+2015,"SH_STA_POISN","Italy","MALE",0.5
+2019,"SH_STA_POISN","Italy","BOTHSEX",0.3
+2019,"SH_STA_POISN","Italy","FEMALE",0.1
+2019,"SH_STA_POISN","Italy","MALE",0.4
+2000,"SH_STA_POISN","Japan","BOTHSEX",0.3
+2000,"SH_STA_POISN","Japan","FEMALE",0.2
+2000,"SH_STA_POISN","Japan","MALE",0.4
+2005,"SH_STA_POISN","Japan","BOTHSEX",0.5
+2005,"SH_STA_POISN","Japan","FEMALE",0.2
+2005,"SH_STA_POISN","Japan","MALE",0.7
+2010,"SH_STA_POISN","Japan","BOTHSEX",0.4
+2010,"SH_STA_POISN","Japan","FEMALE",0.2
+2010,"SH_STA_POISN","Japan","MALE",0.6
+2015,"SH_STA_POISN","Japan","BOTHSEX",0.2
+2015,"SH_STA_POISN","Japan","FEMALE",0.2
+2015,"SH_STA_POISN","Japan","MALE",0.3
+2019,"SH_STA_POISN","Japan","BOTHSEX",0.2
+2019,"SH_STA_POISN","Japan","FEMALE",0.1
+2019,"SH_STA_POISN","Japan","MALE",0.3
+2000,"SH_STA_POISN","Kazakhstan","BOTHSEX",5.4
+2000,"SH_STA_POISN","Kazakhstan","FEMALE",2.7
+2000,"SH_STA_POISN","Kazakhstan","MALE",8.3
+2005,"SH_STA_POISN","Kazakhstan","BOTHSEX",4.8
+2005,"SH_STA_POISN","Kazakhstan","FEMALE",2.3
+2005,"SH_STA_POISN","Kazakhstan","MALE",7.5
+2010,"SH_STA_POISN","Kazakhstan","BOTHSEX",3.3
+2010,"SH_STA_POISN","Kazakhstan","FEMALE",1.8
+2010,"SH_STA_POISN","Kazakhstan","MALE",5.0
+2015,"SH_STA_POISN","Kazakhstan","BOTHSEX",2.4
+2015,"SH_STA_POISN","Kazakhstan","MALE",3.7
+2015,"SH_STA_POISN","Kazakhstan","FEMALE",1.3
+2019,"SH_STA_POISN","Kazakhstan","MALE",2.9
+2019,"SH_STA_POISN","Kazakhstan","BOTHSEX",1.9
+2019,"SH_STA_POISN","Kazakhstan","FEMALE",1.0
+2000,"SH_STA_POISN","Republic of Korea","FEMALE",0.6
+2000,"SH_STA_POISN","Republic of Korea","MALE",1.0
+2000,"SH_STA_POISN","Republic of Korea","BOTHSEX",0.8
+2005,"SH_STA_POISN","Republic of Korea","BOTHSEX",0.5
+2005,"SH_STA_POISN","Republic of Korea","FEMALE",0.3
+2005,"SH_STA_POISN","Republic of Korea","MALE",0.7
+2010,"SH_STA_POISN","Republic of Korea","BOTHSEX",0.4
+2010,"SH_STA_POISN","Republic of Korea","FEMALE",0.2
+2010,"SH_STA_POISN","Republic of Korea","MALE",0.6
+2015,"SH_STA_POISN","Republic of Korea","BOTHSEX",0.3
+2015,"SH_STA_POISN","Republic of Korea","FEMALE",0.1
+2015,"SH_STA_POISN","Republic of Korea","MALE",0.4
+2019,"SH_STA_POISN","Republic of Korea","MALE",0.3
+2019,"SH_STA_POISN","Republic of Korea","FEMALE",0.1
+2019,"SH_STA_POISN","Republic of Korea","BOTHSEX",0.2
+2000,"SH_STA_POISN","Kyrgyzstan","BOTHSEX",2.8
+2000,"SH_STA_POISN","Kyrgyzstan","MALE",4.2
+2000,"SH_STA_POISN","Kyrgyzstan","FEMALE",1.5
+2005,"SH_STA_POISN","Kyrgyzstan","BOTHSEX",2.1
+2005,"SH_STA_POISN","Kyrgyzstan","FEMALE",1.2
+2005,"SH_STA_POISN","Kyrgyzstan","MALE",2.9
+2010,"SH_STA_POISN","Kyrgyzstan","BOTHSEX",1.5
+2010,"SH_STA_POISN","Kyrgyzstan","FEMALE",0.9
+2010,"SH_STA_POISN","Kyrgyzstan","MALE",2.2
+2015,"SH_STA_POISN","Kyrgyzstan","BOTHSEX",1.2
+2015,"SH_STA_POISN","Kyrgyzstan","FEMALE",0.7
+2015,"SH_STA_POISN","Kyrgyzstan","MALE",1.8
+2019,"SH_STA_POISN","Kyrgyzstan","BOTHSEX",0.9
+2019,"SH_STA_POISN","Kyrgyzstan","FEMALE",0.6
+2019,"SH_STA_POISN","Kyrgyzstan","MALE",1.3
+2000,"SH_STA_POISN","Latvia","BOTHSEX",6.3
+2000,"SH_STA_POISN","Latvia","FEMALE",3.1
+2000,"SH_STA_POISN","Latvia","MALE",10.1
+2005,"SH_STA_POISN","Latvia","BOTHSEX",5.9
+2005,"SH_STA_POISN","Latvia","MALE",9.4
+2005,"SH_STA_POISN","Latvia","FEMALE",3.0
+2010,"SH_STA_POISN","Latvia","MALE",3.8
+2010,"SH_STA_POISN","Latvia","FEMALE",1.0
+2010,"SH_STA_POISN","Latvia","BOTHSEX",2.3
+2015,"SH_STA_POISN","Latvia","BOTHSEX",0.8
+2015,"SH_STA_POISN","Latvia","FEMALE",0.3
+2015,"SH_STA_POISN","Latvia","MALE",1.5
+2019,"SH_STA_POISN","Latvia","MALE",2.1
+2019,"SH_STA_POISN","Latvia","BOTHSEX",1.2
+2019,"SH_STA_POISN","Latvia","FEMALE",0.5
+2000,"SH_STA_POISN","Lithuania","FEMALE",2.6
+2000,"SH_STA_POISN","Lithuania","MALE",8.5
+2000,"SH_STA_POISN","Lithuania","BOTHSEX",5.4
+2005,"SH_STA_POISN","Lithuania","BOTHSEX",6.9
+2005,"SH_STA_POISN","Lithuania","FEMALE",2.1
+2005,"SH_STA_POISN","Lithuania","MALE",12.4
+2010,"SH_STA_POISN","Lithuania","BOTHSEX",6.5
+2010,"SH_STA_POISN","Lithuania","FEMALE",2.9
+2010,"SH_STA_POISN","Lithuania","MALE",10.7
+2015,"SH_STA_POISN","Lithuania","MALE",6.2
+2015,"SH_STA_POISN","Lithuania","FEMALE",1.9
+2015,"SH_STA_POISN","Lithuania","BOTHSEX",3.9
+2019,"SH_STA_POISN","Lithuania","BOTHSEX",1.7
+2019,"SH_STA_POISN","Lithuania","FEMALE",0.7
+2019,"SH_STA_POISN","Lithuania","MALE",2.8
+2000,"SH_STA_POISN","Luxembourg","BOTHSEX",1.1
+2000,"SH_STA_POISN","Luxembourg","FEMALE",0.5
+2000,"SH_STA_POISN","Luxembourg","MALE",1.7
+2005,"SH_STA_POISN","Luxembourg","BOTHSEX",1.2
+2005,"SH_STA_POISN","Luxembourg","FEMALE",0.7
+2005,"SH_STA_POISN","Luxembourg","MALE",1.7
+2010,"SH_STA_POISN","Luxembourg","MALE",1.3
+2010,"SH_STA_POISN","Luxembourg","BOTHSEX",0.7
+2010,"SH_STA_POISN","Luxembourg","FEMALE",0.2
+2015,"SH_STA_POISN","Luxembourg","BOTHSEX",0.4
+2015,"SH_STA_POISN","Luxembourg","FEMALE",0.0
+2015,"SH_STA_POISN","Luxembourg","MALE",0.7
+2019,"SH_STA_POISN","Luxembourg","BOTHSEX",0.2
+2019,"SH_STA_POISN","Luxembourg","FEMALE",0.0
+2019,"SH_STA_POISN","Luxembourg","MALE",0.5
+2000,"SH_STA_POISN","Malta","FEMALE",0.5
+2000,"SH_STA_POISN","Malta","MALE",0.6
+2000,"SH_STA_POISN","Malta","BOTHSEX",0.5
+2005,"SH_STA_POISN","Malta","BOTHSEX",0.0
+2005,"SH_STA_POISN","Malta","FEMALE",0.0
+2005,"SH_STA_POISN","Malta","MALE",0.0
+2010,"SH_STA_POISN","Malta","BOTHSEX",0.1
+2010,"SH_STA_POISN","Malta","FEMALE",0.0
+2010,"SH_STA_POISN","Malta","MALE",0.1
+2015,"SH_STA_POISN","Malta","BOTHSEX",0.0
+2015,"SH_STA_POISN","Malta","FEMALE",0.0
+2015,"SH_STA_POISN","Malta","MALE",0.0
+2019,"SH_STA_POISN","Malta","BOTHSEX",0.1
+2019,"SH_STA_POISN","Malta","FEMALE",0.0
+2019,"SH_STA_POISN","Malta","MALE",0.2
+2000,"SH_STA_POISN","Mexico","BOTHSEX",0.8
+2000,"SH_STA_POISN","Mexico","FEMALE",0.4
+2000,"SH_STA_POISN","Mexico","MALE",1.2
+2005,"SH_STA_POISN","Mexico","BOTHSEX",0.8
+2005,"SH_STA_POISN","Mexico","FEMALE",0.4
+2005,"SH_STA_POISN","Mexico","MALE",1.1
+2010,"SH_STA_POISN","Mexico","BOTHSEX",0.5
+2010,"SH_STA_POISN","Mexico","FEMALE",0.3
+2010,"SH_STA_POISN","Mexico","MALE",0.8
+2015,"SH_STA_POISN","Mexico","BOTHSEX",0.5
+2015,"SH_STA_POISN","Mexico","FEMALE",0.3
+2015,"SH_STA_POISN","Mexico","MALE",0.8
+2019,"SH_STA_POISN","Mexico","BOTHSEX",0.4
+2019,"SH_STA_POISN","Mexico","FEMALE",0.3
+2019,"SH_STA_POISN","Mexico","MALE",0.6
+2000,"SH_STA_POISN","Republic of Moldova","BOTHSEX",6.8
+2000,"SH_STA_POISN","Republic of Moldova","FEMALE",3.9
+2000,"SH_STA_POISN","Republic of Moldova","MALE",10.0
+2005,"SH_STA_POISN","Republic of Moldova","BOTHSEX",9.0
+2005,"SH_STA_POISN","Republic of Moldova","FEMALE",4.5
+2005,"SH_STA_POISN","Republic of Moldova","MALE",13.8
+2010,"SH_STA_POISN","Republic of Moldova","MALE",10.9
+2010,"SH_STA_POISN","Republic of Moldova","BOTHSEX",6.7
+2010,"SH_STA_POISN","Republic of Moldova","FEMALE",2.8
+2015,"SH_STA_POISN","Republic of Moldova","BOTHSEX",7.1
+2015,"SH_STA_POISN","Republic of Moldova","FEMALE",3.6
+2015,"SH_STA_POISN","Republic of Moldova","MALE",10.9
+2019,"SH_STA_POISN","Republic of Moldova","BOTHSEX",5.5
+2019,"SH_STA_POISN","Republic of Moldova","FEMALE",3.3
+2019,"SH_STA_POISN","Republic of Moldova","MALE",7.7
+2000,"SH_STA_POISN","Montenegro","BOTHSEX",0.9
+2000,"SH_STA_POISN","Montenegro","FEMALE",0.6
+2000,"SH_STA_POISN","Montenegro","MALE",1.2
+2005,"SH_STA_POISN","Montenegro","FEMALE",0.4
+2005,"SH_STA_POISN","Montenegro","MALE",1.0
+2005,"SH_STA_POISN","Montenegro","BOTHSEX",0.7
+2010,"SH_STA_POISN","Montenegro","FEMALE",0.4
+2010,"SH_STA_POISN","Montenegro","BOTHSEX",0.6
+2010,"SH_STA_POISN","Montenegro","MALE",0.8
+2015,"SH_STA_POISN","Montenegro","BOTHSEX",0.6
+2015,"SH_STA_POISN","Montenegro","FEMALE",0.4
+2015,"SH_STA_POISN","Montenegro","MALE",0.8
+2019,"SH_STA_POISN","Montenegro","BOTHSEX",0.6
+2019,"SH_STA_POISN","Montenegro","FEMALE",0.4
+2019,"SH_STA_POISN","Montenegro","MALE",0.8
+2000,"SH_STA_POISN","Netherlands (Kingdom of the)","MALE",0.1
+2000,"SH_STA_POISN","Netherlands (Kingdom of the)","BOTHSEX",0.1
+2000,"SH_STA_POISN","Netherlands (Kingdom of the)","FEMALE",0.1
+2005,"SH_STA_POISN","Netherlands (Kingdom of the)","BOTHSEX",0.1
+2005,"SH_STA_POISN","Netherlands (Kingdom of the)","FEMALE",0.1
+2005,"SH_STA_POISN","Netherlands (Kingdom of the)","MALE",0.1
+2010,"SH_STA_POISN","Netherlands (Kingdom of the)","BOTHSEX",0.1
+2010,"SH_STA_POISN","Netherlands (Kingdom of the)","FEMALE",0.1
+2010,"SH_STA_POISN","Netherlands (Kingdom of the)","MALE",0.1
+2015,"SH_STA_POISN","Netherlands (Kingdom of the)","BOTHSEX",0.1
+2015,"SH_STA_POISN","Netherlands (Kingdom of the)","FEMALE",0.0
+2015,"SH_STA_POISN","Netherlands (Kingdom of the)","MALE",0.2
+2019,"SH_STA_POISN","Netherlands (Kingdom of the)","MALE",0.2
+2019,"SH_STA_POISN","Netherlands (Kingdom of the)","BOTHSEX",0.1
+2019,"SH_STA_POISN","Netherlands (Kingdom of the)","FEMALE",0.1
+2000,"SH_STA_POISN","New Zealand","BOTHSEX",0.3
+2000,"SH_STA_POISN","New Zealand","FEMALE",0.2
+2000,"SH_STA_POISN","New Zealand","MALE",0.3
+2005,"SH_STA_POISN","New Zealand","BOTHSEX",0.2
+2005,"SH_STA_POISN","New Zealand","FEMALE",0.1
+2005,"SH_STA_POISN","New Zealand","MALE",0.4
+2010,"SH_STA_POISN","New Zealand","BOTHSEX",0.3
+2010,"SH_STA_POISN","New Zealand","FEMALE",0.2
+2010,"SH_STA_POISN","New Zealand","MALE",0.4
+2015,"SH_STA_POISN","New Zealand","BOTHSEX",0.2
+2015,"SH_STA_POISN","New Zealand","FEMALE",0.2
+2015,"SH_STA_POISN","New Zealand","MALE",0.3
+2019,"SH_STA_POISN","New Zealand","BOTHSEX",0.2
+2019,"SH_STA_POISN","New Zealand","MALE",0.3
+2019,"SH_STA_POISN","New Zealand","FEMALE",0.1
+2000,"SH_STA_POISN","Norway","FEMALE",0.1
+2000,"SH_STA_POISN","Norway","BOTHSEX",0.2
+2000,"SH_STA_POISN","Norway","MALE",0.4
+2005,"SH_STA_POISN","Norway","MALE",0.5
+2005,"SH_STA_POISN","Norway","FEMALE",0.2
+2005,"SH_STA_POISN","Norway","BOTHSEX",0.3
+2010,"SH_STA_POISN","Norway","BOTHSEX",0.3
+2010,"SH_STA_POISN","Norway","MALE",0.4
+2010,"SH_STA_POISN","Norway","FEMALE",0.3
+2015,"SH_STA_POISN","Norway","FEMALE",0.3
+2015,"SH_STA_POISN","Norway","MALE",0.3
+2015,"SH_STA_POISN","Norway","BOTHSEX",0.3
+2019,"SH_STA_POISN","Norway","BOTHSEX",0.3
+2019,"SH_STA_POISN","Norway","MALE",0.3
+2019,"SH_STA_POISN","Norway","FEMALE",0.2
+2000,"SH_STA_POISN","Poland","FEMALE",0.5
+2000,"SH_STA_POISN","Poland","MALE",1.7
+2000,"SH_STA_POISN","Poland","BOTHSEX",1.1
+2005,"SH_STA_POISN","Poland","BOTHSEX",1.2
+2005,"SH_STA_POISN","Poland","FEMALE",0.6
+2005,"SH_STA_POISN","Poland","MALE",1.8
+2010,"SH_STA_POISN","Poland","BOTHSEX",0.9
+2010,"SH_STA_POISN","Poland","FEMALE",0.5
+2010,"SH_STA_POISN","Poland","MALE",1.3
+2015,"SH_STA_POISN","Poland","BOTHSEX",0.4
+2015,"SH_STA_POISN","Poland","FEMALE",0.3
+2015,"SH_STA_POISN","Poland","MALE",0.6
+2019,"SH_STA_POISN","Poland","FEMALE",0.3
+2019,"SH_STA_POISN","Poland","MALE",0.8
+2019,"SH_STA_POISN","Poland","BOTHSEX",0.5
+2000,"SH_STA_POISN","Portugal","MALE",0.6
+2000,"SH_STA_POISN","Portugal","FEMALE",0.1
+2000,"SH_STA_POISN","Portugal","BOTHSEX",0.3
+2005,"SH_STA_POISN","Portugal","BOTHSEX",0.2
+2005,"SH_STA_POISN","Portugal","FEMALE",0.2
+2005,"SH_STA_POISN","Portugal","MALE",0.3
+2010,"SH_STA_POISN","Portugal","BOTHSEX",0.2
+2010,"SH_STA_POISN","Portugal","FEMALE",0.2
+2010,"SH_STA_POISN","Portugal","MALE",0.2
+2015,"SH_STA_POISN","Portugal","BOTHSEX",0.2
+2015,"SH_STA_POISN","Portugal","FEMALE",0.1
+2015,"SH_STA_POISN","Portugal","MALE",0.4
+2019,"SH_STA_POISN","Portugal","BOTHSEX",0.3
+2019,"SH_STA_POISN","Portugal","FEMALE",0.2
+2019,"SH_STA_POISN","Portugal","MALE",0.4
+2000,"SH_STA_POISN","Romania","BOTHSEX",4.4
+2000,"SH_STA_POISN","Romania","FEMALE",3.1
+2000,"SH_STA_POISN","Romania","MALE",5.8
+2005,"SH_STA_POISN","Romania","FEMALE",2.7
+2005,"SH_STA_POISN","Romania","BOTHSEX",3.6
+2005,"SH_STA_POISN","Romania","MALE",4.5
+2010,"SH_STA_POISN","Romania","BOTHSEX",2.6
+2010,"SH_STA_POISN","Romania","FEMALE",1.7
+2010,"SH_STA_POISN","Romania","MALE",3.5
+2015,"SH_STA_POISN","Romania","BOTHSEX",2.0
+2015,"SH_STA_POISN","Romania","FEMALE",1.4
+2015,"SH_STA_POISN","Romania","MALE",2.5
+2019,"SH_STA_POISN","Romania","BOTHSEX",1.9
+2019,"SH_STA_POISN","Romania","FEMALE",1.3
+2019,"SH_STA_POISN","Romania","MALE",2.5
+2019,"SH_STA_POISN","Uzbekistan","FEMALE",0.5
+2005,"SH_STA_POISN","Armenia","BOTHSEX",1.2
+2005,"SH_STA_POISN","Armenia","FEMALE",0.8
+2005,"SH_STA_POISN","Armenia","MALE",1.6
+2005,"SH_STA_POISN","Armenia","MALE",1.6

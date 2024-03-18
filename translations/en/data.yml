@@ -5,6 +5,7 @@ Kyrgyzstan        : 'Kyrgyzstan'
 Tajikistan        : 'Tajikistan'
 Turkmenistan      : 'Turkmenistan'
 Uzbekistan        : 'Uzbekistan'
+'Republic of Moldova' : 'Moldova'
 
 SI_POV      : "Poverty line"
 SI_POV_DDAY : "$2.15 a day (2017 PPP) dollar-a-day"
@@ -14,5 +15,78 @@ SP_DYN      : "Gender"
 SP_DYN_LE00_IN    : "Total"
 SP_DYN_LE00_MA_IN : "Male"
 SP_DYN_LE00_FE_IN : "Female"
+
+Quantile : 'Quantile'
+Q1 : "Quantile 1 (poorest)"
+Q2 : "Quantile 2"
+Q3 : "Quantile 3"
+Q4 : "Quantile 4"
+Q5 : "Quantile 5 (richest)"
+B40 : "Bottom 40%"
+R60 : "Richest 60%"
+_T : "Total or no breakdown"
+
+'Disability status' : 'Disability status'
+PD : "Persons with disability"
+PWD : "Persons without disability"
+
+'Grounds of discrimination' : 'Grounds of discrimination' 
+ALL : "All or no breakdown"
+AGE : "Age"
+WEDLOCK : "Born out of wedlock"
+DISHEA : "Disability or health status"
+EDU : "Educational"
+ETH : "Ethnic"
+ETHCOLLAN : "Ethnicity, colour, language"
+ETHCOLLANNAL : "Ethnicity, colour, language, nationality"
+FAM : "Family status"
+GENID : "Gender identity"
+GEO : "Geographic location"
+LANDIA : "Language  or dialect"
+MARFAM : "Marital and family status"
+MAR : "Marital status"
+MIG : "Migration status"
+OTHER : "Other"
+RES : "Place of residence"
+POLVIEW : "Political opinion"
+PREGY : "Pregnancy"
+RACE : "Race"
+RELIGION : "Religion or belief"
+SEX : "Sex"
+SEXOGENID : "Sexual orientation and gender identity"
+SEXO : "Sexual orientation"
+SOCIOECON : "Socioeconomic status"
+WEALTH : "Wealth status"
+COLR : "Colour"
+ORIGIN : "Place of origin"
+TRAD : "Traditions"
+NETW : "Networking"
+WORK : "Work status"
+CLOTH : "Clothing"
+DIS : "Disability"
+ETHCOLLANMIG : "Ethnic, colour, language, migration"
+ETHI : "Ethnic or immigration status"
+ETHRACECOLLAN : "Ethnicity, race, colour, language"
+HEALTH : "Health status"
+NATION : "Nationality"
+PHYSCOND : "Physical condition"
+RACECOLR : "Race or Colour"
+SEXGENID : "Sexual/gender identity"
+ETHCUL : "Ethnicity or culture"
+HEAILLINJ : "Health problems, illness or injury"
+ETHIO : "Ethnic or migration origin"
+
+
+Location : 'Location'
+ALLAREA : "All areas"
+RURAL : "Rural"
+URBAN : "Urban"
+CITY : "City"
+TSUB : "Town and semi-dense area"
+
+Sex : 'Sex'
+BOTHSEX : "Both sexes"
+FEMALE : "Female"
+MALE : "Male"
 
 

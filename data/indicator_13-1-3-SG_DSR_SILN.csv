@@ -1,0 +1,752 @@
+Year,SeriesCode,GeoAreaName,Value
+2018,"SG_DSR_SILN","Albania",1
+2018,"SG_DSR_SILN","Australia",126
+2019,"SG_DSR_SILN","Australia",51
+2020,"SG_DSR_SILN","Australia",76
+2021,"SG_DSR_SILN","Australia",270
+2018,"SG_DSR_SILN","Austria",850
+2017,"SG_DSR_SILN","Armenia",127
+2018,"SG_DSR_SILN","Armenia",218
+2019,"SG_DSR_SILN","Armenia",240
+2020,"SG_DSR_SILN","Armenia",247
+2021,"SG_DSR_SILN","Armenia",24
+2017,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2018,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2015,"SG_DSR_SILN","Bulgaria",0
+2016,"SG_DSR_SILN","Bulgaria",0
+2017,"SG_DSR_SILN","Bulgaria",0
+2020,"SG_DSR_SILN","Bulgaria",9
+2021,"SG_DSR_SILN","Bulgaria",30
+2015,"SG_DSR_SILN","Belarus",0
+2016,"SG_DSR_SILN","Belarus",0
+2017,"SG_DSR_SILN","Belarus",0
+2018,"SG_DSR_SILN","Belarus",0
+2019,"SG_DSR_SILN","Belarus",7
+2020,"SG_DSR_SILN","Belarus",7
+2021,"SG_DSR_SILN","Belarus",7
+2005,"SG_DSR_SILN","Chile",4
+2006,"SG_DSR_SILN","Chile",4
+2007,"SG_DSR_SILN","Chile",4
+2008,"SG_DSR_SILN","Chile",4
+2009,"SG_DSR_SILN","Chile",4
+2010,"SG_DSR_SILN","Chile",5
+2011,"SG_DSR_SILN","Chile",5
+2012,"SG_DSR_SILN","Chile",14
+2013,"SG_DSR_SILN","Chile",20
+2014,"SG_DSR_SILN","Chile",38
+2015,"SG_DSR_SILN","Chile",70
+2016,"SG_DSR_SILN","Chile",76
+2017,"SG_DSR_SILN","Chile",103
+2018,"SG_DSR_SILN","Chile",184
+2019,"SG_DSR_SILN","Chile",215
+2021,"SG_DSR_SILN","Chile",271
+2005,"SG_DSR_SILN","Colombia",0
+2006,"SG_DSR_SILN","Colombia",0
+2007,"SG_DSR_SILN","Colombia",0
+2008,"SG_DSR_SILN","Colombia",39
+2009,"SG_DSR_SILN","Colombia",109
+2010,"SG_DSR_SILN","Colombia",261
+2011,"SG_DSR_SILN","Colombia",393
+2012,"SG_DSR_SILN","Colombia",514
+2013,"SG_DSR_SILN","Colombia",629
+2014,"SG_DSR_SILN","Colombia",728
+2015,"SG_DSR_SILN","Colombia",813
+2016,"SG_DSR_SILN","Colombia",867
+2017,"SG_DSR_SILN","Colombia",885
+2018,"SG_DSR_SILN","Colombia",903
+2019,"SG_DSR_SILN","Colombia",714
+2020,"SG_DSR_SILN","Colombia",856
+2021,"SG_DSR_SILN","Colombia",912
+2005,"SG_DSR_SILN","Costa Rica",2
+2006,"SG_DSR_SILN","Costa Rica",2
+2007,"SG_DSR_SILN","Costa Rica",2
+2008,"SG_DSR_SILN","Costa Rica",2
+2009,"SG_DSR_SILN","Costa Rica",2
+2010,"SG_DSR_SILN","Costa Rica",20
+2011,"SG_DSR_SILN","Costa Rica",40
+2012,"SG_DSR_SILN","Costa Rica",50
+2013,"SG_DSR_SILN","Costa Rica",55
+2014,"SG_DSR_SILN","Costa Rica",55
+2015,"SG_DSR_SILN","Costa Rica",89
+2016,"SG_DSR_SILN","Costa Rica",89
+2017,"SG_DSR_SILN","Costa Rica",89
+2018,"SG_DSR_SILN","Costa Rica",89
+2019,"SG_DSR_SILN","Costa Rica",89
+2020,"SG_DSR_SILN","Costa Rica",89
+2021,"SG_DSR_SILN","Costa Rica",90
+2017,"SG_DSR_SILN","Croatia",0
+2015,"SG_DSR_SILN","Czechia",14
+2016,"SG_DSR_SILN","Czechia",14
+2017,"SG_DSR_SILN","Czechia",14
+2005,"SG_DSR_SILN","Estonia",241
+2006,"SG_DSR_SILN","Estonia",227
+2007,"SG_DSR_SILN","Estonia",227
+2008,"SG_DSR_SILN","Estonia",227
+2009,"SG_DSR_SILN","Estonia",227
+2010,"SG_DSR_SILN","Estonia",226
+2011,"SG_DSR_SILN","Estonia",226
+2012,"SG_DSR_SILN","Estonia",226
+2013,"SG_DSR_SILN","Estonia",226
+2014,"SG_DSR_SILN","Estonia",215
+2015,"SG_DSR_SILN","Estonia",215
+2016,"SG_DSR_SILN","Estonia",213
+2017,"SG_DSR_SILN","Estonia",213
+2018,"SG_DSR_SILN","Estonia",79
+2019,"SG_DSR_SILN","Estonia",79
+2015,"SG_DSR_SILN","Finland",317
+2016,"SG_DSR_SILN","Finland",313
+2017,"SG_DSR_SILN","Finland",311
+2018,"SG_DSR_SILN","Finland",311
+2019,"SG_DSR_SILN","Finland",310
+2016,"SG_DSR_SILN","France",101
+2017,"SG_DSR_SILN","France",101
+2018,"SG_DSR_SILN","France",101
+2014,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Georgia",0
+2016,"SG_DSR_SILN","Georgia",0
+2017,"SG_DSR_SILN","Georgia",0
+2018,"SG_DSR_SILN","Georgia",0
+2019,"SG_DSR_SILN","Georgia",0
+2020,"SG_DSR_SILN","Georgia",0
+2021,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Germany",11092
+2020,"SG_DSR_SILN","Hungary",3178
+2021,"SG_DSR_SILN","Hungary",3178
+2015,"SG_DSR_SILN","India",616
+2018,"SG_DSR_SILN","India",669
+2019,"SG_DSR_SILN","India",670
+2020,"SG_DSR_SILN","India",673
+2015,"SG_DSR_SILN","Ireland",8
+2016,"SG_DSR_SILN","Ireland",8
+2017,"SG_DSR_SILN","Ireland",8
+2011,"SG_DSR_SILN","Japan",1716
+2012,"SG_DSR_SILN","Japan",1716
+2013,"SG_DSR_SILN","Japan",1716
+2014,"SG_DSR_SILN","Japan",1716
+2015,"SG_DSR_SILN","Japan",1788
+2016,"SG_DSR_SILN","Japan",1788
+2017,"SG_DSR_SILN","Japan",1788
+2018,"SG_DSR_SILN","Japan",1788
+2019,"SG_DSR_SILN","Japan",1788
+2020,"SG_DSR_SILN","Japan",1788
+2017,"SG_DSR_SILN","Kazakhstan",17
+2018,"SG_DSR_SILN","Kazakhstan",17
+2019,"SG_DSR_SILN","Kazakhstan",17
+2020,"SG_DSR_SILN","Kazakhstan",17
+2021,"SG_DSR_SILN","Kazakhstan",17
+2015,"SG_DSR_SILN","Republic of Korea",243
+2016,"SG_DSR_SILN","Republic of Korea",243
+2017,"SG_DSR_SILN","Republic of Korea",243
+2018,"SG_DSR_SILN","Republic of Korea",243
+2019,"SG_DSR_SILN","Republic of Korea",243
+2020,"SG_DSR_SILN","Republic of Korea",243
+2015,"SG_DSR_SILN","Kyrgyzstan",0
+2016,"SG_DSR_SILN","Kyrgyzstan",0
+2017,"SG_DSR_SILN","Kyrgyzstan",0
+2018,"SG_DSR_SILN","Kyrgyzstan",42
+2019,"SG_DSR_SILN","Kyrgyzstan",49
+2020,"SG_DSR_SILN","Lithuania",60
+2021,"SG_DSR_SILN","Lithuania",60
+2015,"SG_DSR_SILN","Mexico",20
+2016,"SG_DSR_SILN","Mexico",24
+2017,"SG_DSR_SILN","Mexico",24
+2018,"SG_DSR_SILN","Mexico",32
+2019,"SG_DSR_SILN","Mexico",32
+2020,"SG_DSR_SILN","Mexico",32
+2021,"SG_DSR_SILN","Mexico",25
+2016,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Montenegro",0
+2018,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Netherlands (Kingdom of the)",25
+2015,"SG_DSR_SILN","New Zealand",16
+2016,"SG_DSR_SILN","New Zealand",16
+2017,"SG_DSR_SILN","New Zealand",16
+2018,"SG_DSR_SILN","New Zealand",16
+2019,"SG_DSR_SILN","New Zealand",16
+2020,"SG_DSR_SILN","New Zealand",16
+2021,"SG_DSR_SILN","New Zealand",16
+2012,"SG_DSR_SILN","Norway",282
+2014,"SG_DSR_SILN","Norway",315
+2015,"SG_DSR_SILN","Norway",330
+2016,"SG_DSR_SILN","Norway",350
+2017,"SG_DSR_SILN","Norway",362
+2018,"SG_DSR_SILN","Norway",359
+2019,"SG_DSR_SILN","Norway",394
+2015,"SG_DSR_SILN","Poland",16
+2016,"SG_DSR_SILN","Poland",16
+2017,"SG_DSR_SILN","Poland",16
+2018,"SG_DSR_SILN","Poland",16
+2019,"SG_DSR_SILN","Poland",16
+2020,"SG_DSR_SILN","Poland",16
+2010,"SG_DSR_SILN","Portugal",2
+2011,"SG_DSR_SILN","Portugal",2
+2012,"SG_DSR_SILN","Portugal",4
+2013,"SG_DSR_SILN","Portugal",4
+2014,"SG_DSR_SILN","Portugal",5
+2015,"SG_DSR_SILN","Portugal",7
+2016,"SG_DSR_SILN","Portugal",9
+2017,"SG_DSR_SILN","Portugal",25
+2018,"SG_DSR_SILN","Portugal",27
+2019,"SG_DSR_SILN","Portugal",31
+2020,"SG_DSR_SILN","Portugal",36
+2005,"SG_DSR_SILN","Romania",0
+2006,"SG_DSR_SILN","Romania",0
+2007,"SG_DSR_SILN","Romania",0
+2008,"SG_DSR_SILN","Romania",0
+2009,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Romania",0
+2011,"SG_DSR_SILN","Romania",0
+2012,"SG_DSR_SILN","Romania",0
+2013,"SG_DSR_SILN","Romania",0
+2014,"SG_DSR_SILN","Romania",0
+2015,"SG_DSR_SILN","Romania",0
+2016,"SG_DSR_SILN","Romania",0
+2017,"SG_DSR_SILN","Romania",0
+2018,"SG_DSR_SILN","Romania",0
+2019,"SG_DSR_SILN","Romania",0
+2020,"SG_DSR_SILN","Romania",0
+2021,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Serbia",1
+2011,"SG_DSR_SILN","Serbia",0
+2018,"SG_DSR_SILN","Serbia",8
+2015,"SG_DSR_SILN","Slovenia",212
+2016,"SG_DSR_SILN","Slovenia",212
+2017,"SG_DSR_SILN","Slovenia",212
+2018,"SG_DSR_SILN","Slovenia",212
+2019,"SG_DSR_SILN","Slovenia",212
+2020,"SG_DSR_SILN","Slovenia",212
+2021,"SG_DSR_SILN","Slovenia",212
+2015,"SG_DSR_SILN","Sweden",0
+2016,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Sweden",0
+2018,"SG_DSR_SILN","Sweden",0
+2019,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Switzerland",13
+2015,"SG_DSR_SILN","Tajikistan",33
+2016,"SG_DSR_SILN","Tajikistan",43
+2017,"SG_DSR_SILN","Tajikistan",55
+2018,"SG_DSR_SILN","Tajikistan",60
+2019,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","United Arab Emirates",3
+2017,"SG_DSR_SILN","Türkiye",1
+2020,"SG_DSR_SILN","Türkiye",7
+2021,"SG_DSR_SILN","Türkiye",74
+2019,"SG_DSR_SILN","Turkmenistan",6
+2013,"SG_DSR_SILN","Ukraine",27
+2014,"SG_DSR_SILN","Ukraine",25
+2015,"SG_DSR_SILN","Ukraine",25
+2016,"SG_DSR_SILN","Ukraine",25
+2017,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","Ukraine",25
+2019,"SG_DSR_SILN","Ukraine",25
+2020,"SG_DSR_SILN","Ukraine",25
+2021,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2019,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2020,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2021,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",42
+2019,"SG_DSR_SILN","Uzbekistan",14
+2020,"SG_DSR_SILN","Uzbekistan",200
+2021,"SG_DSR_SILN","Uzbekistan",205
+2018,"SG_DSR_SILN","Albania",1
+2018,"SG_DSR_SILN","Australia",126
+2019,"SG_DSR_SILN","Australia",51
+2020,"SG_DSR_SILN","Australia",76
+2021,"SG_DSR_SILN","Australia",270
+2018,"SG_DSR_SILN","Austria",850
+2017,"SG_DSR_SILN","Armenia",127
+2018,"SG_DSR_SILN","Armenia",218
+2019,"SG_DSR_SILN","Armenia",240
+2020,"SG_DSR_SILN","Armenia",247
+2021,"SG_DSR_SILN","Armenia",24
+2017,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2018,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2015,"SG_DSR_SILN","Bulgaria",0
+2016,"SG_DSR_SILN","Bulgaria",0
+2017,"SG_DSR_SILN","Bulgaria",0
+2020,"SG_DSR_SILN","Bulgaria",9
+2021,"SG_DSR_SILN","Bulgaria",30
+2015,"SG_DSR_SILN","Belarus",0
+2016,"SG_DSR_SILN","Belarus",0
+2017,"SG_DSR_SILN","Belarus",0
+2018,"SG_DSR_SILN","Belarus",0
+2019,"SG_DSR_SILN","Belarus",7
+2020,"SG_DSR_SILN","Belarus",7
+2021,"SG_DSR_SILN","Belarus",7
+2005,"SG_DSR_SILN","Chile",4
+2006,"SG_DSR_SILN","Chile",4
+2007,"SG_DSR_SILN","Chile",4
+2008,"SG_DSR_SILN","Chile",4
+2009,"SG_DSR_SILN","Chile",4
+2010,"SG_DSR_SILN","Chile",5
+2011,"SG_DSR_SILN","Chile",5
+2012,"SG_DSR_SILN","Chile",14
+2013,"SG_DSR_SILN","Chile",20
+2014,"SG_DSR_SILN","Chile",38
+2015,"SG_DSR_SILN","Chile",70
+2016,"SG_DSR_SILN","Chile",76
+2017,"SG_DSR_SILN","Chile",103
+2018,"SG_DSR_SILN","Chile",184
+2019,"SG_DSR_SILN","Chile",215
+2021,"SG_DSR_SILN","Chile",271
+2005,"SG_DSR_SILN","Colombia",0
+2006,"SG_DSR_SILN","Colombia",0
+2007,"SG_DSR_SILN","Colombia",0
+2008,"SG_DSR_SILN","Colombia",39
+2009,"SG_DSR_SILN","Colombia",109
+2010,"SG_DSR_SILN","Colombia",261
+2011,"SG_DSR_SILN","Colombia",393
+2012,"SG_DSR_SILN","Colombia",514
+2013,"SG_DSR_SILN","Colombia",629
+2014,"SG_DSR_SILN","Colombia",728
+2015,"SG_DSR_SILN","Colombia",813
+2016,"SG_DSR_SILN","Colombia",867
+2017,"SG_DSR_SILN","Colombia",885
+2018,"SG_DSR_SILN","Colombia",903
+2019,"SG_DSR_SILN","Colombia",714
+2020,"SG_DSR_SILN","Colombia",856
+2021,"SG_DSR_SILN","Colombia",912
+2005,"SG_DSR_SILN","Costa Rica",2
+2006,"SG_DSR_SILN","Costa Rica",2
+2007,"SG_DSR_SILN","Costa Rica",2
+2008,"SG_DSR_SILN","Costa Rica",2
+2009,"SG_DSR_SILN","Costa Rica",2
+2010,"SG_DSR_SILN","Costa Rica",20
+2011,"SG_DSR_SILN","Costa Rica",40
+2012,"SG_DSR_SILN","Costa Rica",50
+2013,"SG_DSR_SILN","Costa Rica",55
+2014,"SG_DSR_SILN","Costa Rica",55
+2015,"SG_DSR_SILN","Costa Rica",89
+2016,"SG_DSR_SILN","Costa Rica",89
+2017,"SG_DSR_SILN","Costa Rica",89
+2018,"SG_DSR_SILN","Costa Rica",89
+2019,"SG_DSR_SILN","Costa Rica",89
+2020,"SG_DSR_SILN","Costa Rica",89
+2021,"SG_DSR_SILN","Costa Rica",90
+2017,"SG_DSR_SILN","Croatia",0
+2015,"SG_DSR_SILN","Czechia",14
+2016,"SG_DSR_SILN","Czechia",14
+2017,"SG_DSR_SILN","Czechia",14
+2005,"SG_DSR_SILN","Estonia",241
+2006,"SG_DSR_SILN","Estonia",227
+2007,"SG_DSR_SILN","Estonia",227
+2008,"SG_DSR_SILN","Estonia",227
+2009,"SG_DSR_SILN","Estonia",227
+2010,"SG_DSR_SILN","Estonia",226
+2011,"SG_DSR_SILN","Estonia",226
+2012,"SG_DSR_SILN","Estonia",226
+2013,"SG_DSR_SILN","Estonia",226
+2014,"SG_DSR_SILN","Estonia",215
+2015,"SG_DSR_SILN","Estonia",215
+2016,"SG_DSR_SILN","Estonia",213
+2017,"SG_DSR_SILN","Estonia",213
+2018,"SG_DSR_SILN","Estonia",79
+2019,"SG_DSR_SILN","Estonia",79
+2015,"SG_DSR_SILN","Finland",317
+2016,"SG_DSR_SILN","Finland",313
+2017,"SG_DSR_SILN","Finland",311
+2018,"SG_DSR_SILN","Finland",311
+2019,"SG_DSR_SILN","Finland",310
+2016,"SG_DSR_SILN","France",101
+2017,"SG_DSR_SILN","France",101
+2018,"SG_DSR_SILN","France",101
+2014,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Georgia",0
+2016,"SG_DSR_SILN","Georgia",0
+2017,"SG_DSR_SILN","Georgia",0
+2018,"SG_DSR_SILN","Georgia",0
+2019,"SG_DSR_SILN","Georgia",0
+2020,"SG_DSR_SILN","Georgia",0
+2021,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Germany",11092
+2020,"SG_DSR_SILN","Hungary",3178
+2021,"SG_DSR_SILN","Hungary",3178
+2015,"SG_DSR_SILN","India",616
+2018,"SG_DSR_SILN","India",669
+2019,"SG_DSR_SILN","India",670
+2020,"SG_DSR_SILN","India",673
+2015,"SG_DSR_SILN","Ireland",8
+2016,"SG_DSR_SILN","Ireland",8
+2017,"SG_DSR_SILN","Ireland",8
+2011,"SG_DSR_SILN","Japan",1716
+2012,"SG_DSR_SILN","Japan",1716
+2013,"SG_DSR_SILN","Japan",1716
+2014,"SG_DSR_SILN","Japan",1716
+2015,"SG_DSR_SILN","Japan",1788
+2016,"SG_DSR_SILN","Japan",1788
+2017,"SG_DSR_SILN","Japan",1788
+2018,"SG_DSR_SILN","Japan",1788
+2019,"SG_DSR_SILN","Japan",1788
+2020,"SG_DSR_SILN","Japan",1788
+2017,"SG_DSR_SILN","Kazakhstan",17
+2018,"SG_DSR_SILN","Kazakhstan",17
+2019,"SG_DSR_SILN","Kazakhstan",17
+2020,"SG_DSR_SILN","Kazakhstan",17
+2021,"SG_DSR_SILN","Kazakhstan",17
+2015,"SG_DSR_SILN","Republic of Korea",243
+2016,"SG_DSR_SILN","Republic of Korea",243
+2017,"SG_DSR_SILN","Republic of Korea",243
+2018,"SG_DSR_SILN","Republic of Korea",243
+2019,"SG_DSR_SILN","Republic of Korea",243
+2020,"SG_DSR_SILN","Republic of Korea",243
+2015,"SG_DSR_SILN","Kyrgyzstan",0
+2016,"SG_DSR_SILN","Kyrgyzstan",0
+2017,"SG_DSR_SILN","Kyrgyzstan",0
+2018,"SG_DSR_SILN","Kyrgyzstan",42
+2019,"SG_DSR_SILN","Kyrgyzstan",49
+2020,"SG_DSR_SILN","Lithuania",60
+2021,"SG_DSR_SILN","Lithuania",60
+2015,"SG_DSR_SILN","Mexico",20
+2016,"SG_DSR_SILN","Mexico",24
+2017,"SG_DSR_SILN","Mexico",24
+2018,"SG_DSR_SILN","Mexico",32
+2019,"SG_DSR_SILN","Mexico",32
+2020,"SG_DSR_SILN","Mexico",32
+2021,"SG_DSR_SILN","Mexico",25
+2016,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Montenegro",0
+2018,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Netherlands (Kingdom of the)",25
+2015,"SG_DSR_SILN","New Zealand",16
+2016,"SG_DSR_SILN","New Zealand",16
+2017,"SG_DSR_SILN","New Zealand",16
+2018,"SG_DSR_SILN","New Zealand",16
+2019,"SG_DSR_SILN","New Zealand",16
+2020,"SG_DSR_SILN","New Zealand",16
+2021,"SG_DSR_SILN","New Zealand",16
+2012,"SG_DSR_SILN","Norway",282
+2014,"SG_DSR_SILN","Norway",315
+2015,"SG_DSR_SILN","Norway",330
+2016,"SG_DSR_SILN","Norway",350
+2017,"SG_DSR_SILN","Norway",362
+2018,"SG_DSR_SILN","Norway",359
+2019,"SG_DSR_SILN","Norway",394
+2015,"SG_DSR_SILN","Poland",16
+2016,"SG_DSR_SILN","Poland",16
+2017,"SG_DSR_SILN","Poland",16
+2018,"SG_DSR_SILN","Poland",16
+2019,"SG_DSR_SILN","Poland",16
+2020,"SG_DSR_SILN","Poland",16
+2010,"SG_DSR_SILN","Portugal",2
+2011,"SG_DSR_SILN","Portugal",2
+2012,"SG_DSR_SILN","Portugal",4
+2013,"SG_DSR_SILN","Portugal",4
+2014,"SG_DSR_SILN","Portugal",5
+2015,"SG_DSR_SILN","Portugal",7
+2016,"SG_DSR_SILN","Portugal",9
+2017,"SG_DSR_SILN","Portugal",25
+2018,"SG_DSR_SILN","Portugal",27
+2019,"SG_DSR_SILN","Portugal",31
+2018,"SG_DSR_SILN","Albania",1
+2018,"SG_DSR_SILN","Australia",126
+2019,"SG_DSR_SILN","Australia",51
+2020,"SG_DSR_SILN","Australia",76
+2021,"SG_DSR_SILN","Australia",270
+2018,"SG_DSR_SILN","Austria",850
+2017,"SG_DSR_SILN","Armenia",127
+2018,"SG_DSR_SILN","Armenia",218
+2019,"SG_DSR_SILN","Armenia",240
+2020,"SG_DSR_SILN","Armenia",247
+2021,"SG_DSR_SILN","Armenia",24
+2017,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2018,"SG_DSR_SILN","Bosnia and Herzegovina",0
+2015,"SG_DSR_SILN","Bulgaria",0
+2016,"SG_DSR_SILN","Bulgaria",0
+2017,"SG_DSR_SILN","Bulgaria",0
+2020,"SG_DSR_SILN","Bulgaria",9
+2021,"SG_DSR_SILN","Bulgaria",30
+2015,"SG_DSR_SILN","Belarus",0
+2016,"SG_DSR_SILN","Belarus",0
+2017,"SG_DSR_SILN","Belarus",0
+2020,"SG_DSR_SILN","Portugal",36
+2005,"SG_DSR_SILN","Romania",0
+2006,"SG_DSR_SILN","Romania",0
+2007,"SG_DSR_SILN","Romania",0
+2008,"SG_DSR_SILN","Romania",0
+2009,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Romania",0
+2018,"SG_DSR_SILN","Belarus",0
+2019,"SG_DSR_SILN","Belarus",7
+2020,"SG_DSR_SILN","Belarus",7
+2021,"SG_DSR_SILN","Belarus",7
+2005,"SG_DSR_SILN","Chile",4
+2006,"SG_DSR_SILN","Chile",4
+2007,"SG_DSR_SILN","Chile",4
+2008,"SG_DSR_SILN","Chile",4
+2009,"SG_DSR_SILN","Chile",4
+2010,"SG_DSR_SILN","Chile",5
+2011,"SG_DSR_SILN","Chile",5
+2012,"SG_DSR_SILN","Chile",14
+2013,"SG_DSR_SILN","Chile",20
+2014,"SG_DSR_SILN","Chile",38
+2015,"SG_DSR_SILN","Chile",70
+2016,"SG_DSR_SILN","Chile",76
+2017,"SG_DSR_SILN","Chile",103
+2018,"SG_DSR_SILN","Chile",184
+2019,"SG_DSR_SILN","Chile",215
+2021,"SG_DSR_SILN","Chile",271
+2005,"SG_DSR_SILN","Colombia",0
+2006,"SG_DSR_SILN","Colombia",0
+2007,"SG_DSR_SILN","Colombia",0
+2008,"SG_DSR_SILN","Colombia",39
+2009,"SG_DSR_SILN","Colombia",109
+2010,"SG_DSR_SILN","Colombia",261
+2011,"SG_DSR_SILN","Colombia",393
+2012,"SG_DSR_SILN","Colombia",514
+2011,"SG_DSR_SILN","Romania",0
+2012,"SG_DSR_SILN","Romania",0
+2013,"SG_DSR_SILN","Romania",0
+2014,"SG_DSR_SILN","Romania",0
+2015,"SG_DSR_SILN","Romania",0
+2016,"SG_DSR_SILN","Romania",0
+2017,"SG_DSR_SILN","Romania",0
+2013,"SG_DSR_SILN","Colombia",629
+2014,"SG_DSR_SILN","Colombia",728
+2015,"SG_DSR_SILN","Colombia",813
+2016,"SG_DSR_SILN","Colombia",867
+2017,"SG_DSR_SILN","Colombia",885
+2018,"SG_DSR_SILN","Colombia",903
+2019,"SG_DSR_SILN","Colombia",714
+2020,"SG_DSR_SILN","Colombia",856
+2021,"SG_DSR_SILN","Colombia",912
+2005,"SG_DSR_SILN","Costa Rica",2
+2006,"SG_DSR_SILN","Costa Rica",2
+2007,"SG_DSR_SILN","Costa Rica",2
+2008,"SG_DSR_SILN","Costa Rica",2
+2009,"SG_DSR_SILN","Costa Rica",2
+2010,"SG_DSR_SILN","Costa Rica",20
+2011,"SG_DSR_SILN","Costa Rica",40
+2012,"SG_DSR_SILN","Costa Rica",50
+2013,"SG_DSR_SILN","Costa Rica",55
+2014,"SG_DSR_SILN","Costa Rica",55
+2015,"SG_DSR_SILN","Costa Rica",89
+2016,"SG_DSR_SILN","Costa Rica",89
+2018,"SG_DSR_SILN","Romania",0
+2019,"SG_DSR_SILN","Romania",0
+2020,"SG_DSR_SILN","Romania",0
+2021,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Serbia",1
+2011,"SG_DSR_SILN","Serbia",0
+2018,"SG_DSR_SILN","Serbia",8
+2017,"SG_DSR_SILN","Costa Rica",89
+2018,"SG_DSR_SILN","Costa Rica",89
+2019,"SG_DSR_SILN","Costa Rica",89
+2020,"SG_DSR_SILN","Costa Rica",89
+2021,"SG_DSR_SILN","Costa Rica",90
+2017,"SG_DSR_SILN","Croatia",0
+2015,"SG_DSR_SILN","Czechia",14
+2015,"SG_DSR_SILN","Slovenia",212
+2016,"SG_DSR_SILN","Slovenia",212
+2017,"SG_DSR_SILN","Slovenia",212
+2018,"SG_DSR_SILN","Slovenia",212
+2019,"SG_DSR_SILN","Slovenia",212
+2020,"SG_DSR_SILN","Slovenia",212
+2021,"SG_DSR_SILN","Slovenia",212
+2016,"SG_DSR_SILN","Czechia",14
+2017,"SG_DSR_SILN","Czechia",14
+2005,"SG_DSR_SILN","Estonia",241
+2006,"SG_DSR_SILN","Estonia",227
+2007,"SG_DSR_SILN","Estonia",227
+2008,"SG_DSR_SILN","Estonia",227
+2009,"SG_DSR_SILN","Estonia",227
+2010,"SG_DSR_SILN","Estonia",226
+2011,"SG_DSR_SILN","Estonia",226
+2012,"SG_DSR_SILN","Estonia",226
+2013,"SG_DSR_SILN","Estonia",226
+2014,"SG_DSR_SILN","Estonia",215
+2015,"SG_DSR_SILN","Estonia",215
+2016,"SG_DSR_SILN","Estonia",213
+2017,"SG_DSR_SILN","Estonia",213
+2018,"SG_DSR_SILN","Estonia",79
+2019,"SG_DSR_SILN","Estonia",79
+2015,"SG_DSR_SILN","Finland",317
+2016,"SG_DSR_SILN","Finland",313
+2017,"SG_DSR_SILN","Finland",311
+2018,"SG_DSR_SILN","Finland",311
+2019,"SG_DSR_SILN","Finland",310
+2016,"SG_DSR_SILN","France",101
+2017,"SG_DSR_SILN","France",101
+2018,"SG_DSR_SILN","France",101
+2014,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Georgia",0
+2016,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Sweden",0
+2016,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Sweden",0
+2018,"SG_DSR_SILN","Sweden",0
+2019,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Switzerland",13
+2015,"SG_DSR_SILN","Tajikistan",33
+2017,"SG_DSR_SILN","Georgia",0
+2018,"SG_DSR_SILN","Georgia",0
+2019,"SG_DSR_SILN","Georgia",0
+2020,"SG_DSR_SILN","Georgia",0
+2021,"SG_DSR_SILN","Georgia",0
+2015,"SG_DSR_SILN","Germany",11092
+2020,"SG_DSR_SILN","Hungary",3178
+2021,"SG_DSR_SILN","Hungary",3178
+2015,"SG_DSR_SILN","India",616
+2018,"SG_DSR_SILN","India",669
+2019,"SG_DSR_SILN","India",670
+2020,"SG_DSR_SILN","India",673
+2015,"SG_DSR_SILN","Ireland",8
+2016,"SG_DSR_SILN","Ireland",8
+2017,"SG_DSR_SILN","Ireland",8
+2011,"SG_DSR_SILN","Japan",1716
+2012,"SG_DSR_SILN","Japan",1716
+2013,"SG_DSR_SILN","Japan",1716
+2014,"SG_DSR_SILN","Japan",1716
+2015,"SG_DSR_SILN","Japan",1788
+2016,"SG_DSR_SILN","Japan",1788
+2016,"SG_DSR_SILN","Tajikistan",43
+2017,"SG_DSR_SILN","Tajikistan",55
+2018,"SG_DSR_SILN","Tajikistan",60
+2019,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","United Arab Emirates",3
+2017,"SG_DSR_SILN","Türkiye",1
+2017,"SG_DSR_SILN","Japan",1788
+2018,"SG_DSR_SILN","Japan",1788
+2019,"SG_DSR_SILN","Japan",1788
+2020,"SG_DSR_SILN","Japan",1788
+2017,"SG_DSR_SILN","Kazakhstan",17
+2018,"SG_DSR_SILN","Kazakhstan",17
+2019,"SG_DSR_SILN","Kazakhstan",17
+2020,"SG_DSR_SILN","Türkiye",7
+2021,"SG_DSR_SILN","Türkiye",74
+2019,"SG_DSR_SILN","Turkmenistan",6
+2013,"SG_DSR_SILN","Ukraine",27
+2014,"SG_DSR_SILN","Ukraine",25
+2015,"SG_DSR_SILN","Ukraine",25
+2016,"SG_DSR_SILN","Ukraine",25
+2020,"SG_DSR_SILN","Kazakhstan",17
+2021,"SG_DSR_SILN","Kazakhstan",17
+2015,"SG_DSR_SILN","Republic of Korea",243
+2016,"SG_DSR_SILN","Republic of Korea",243
+2017,"SG_DSR_SILN","Republic of Korea",243
+2018,"SG_DSR_SILN","Republic of Korea",243
+2019,"SG_DSR_SILN","Republic of Korea",243
+2017,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","Ukraine",25
+2019,"SG_DSR_SILN","Ukraine",25
+2020,"SG_DSR_SILN","Ukraine",25
+2021,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2019,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2020,"SG_DSR_SILN","Republic of Korea",243
+2015,"SG_DSR_SILN","Kyrgyzstan",0
+2016,"SG_DSR_SILN","Kyrgyzstan",0
+2017,"SG_DSR_SILN","Kyrgyzstan",0
+2018,"SG_DSR_SILN","Kyrgyzstan",42
+2019,"SG_DSR_SILN","Kyrgyzstan",49
+2020,"SG_DSR_SILN","Lithuania",60
+2021,"SG_DSR_SILN","Lithuania",60
+2015,"SG_DSR_SILN","Mexico",20
+2016,"SG_DSR_SILN","Mexico",24
+2017,"SG_DSR_SILN","Mexico",24
+2018,"SG_DSR_SILN","Mexico",32
+2019,"SG_DSR_SILN","Mexico",32
+2020,"SG_DSR_SILN","Mexico",32
+2021,"SG_DSR_SILN","Mexico",25
+2016,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Montenegro",0
+2018,"SG_DSR_SILN","Montenegro",0
+2017,"SG_DSR_SILN","Netherlands (Kingdom of the)",25
+2015,"SG_DSR_SILN","New Zealand",16
+2016,"SG_DSR_SILN","New Zealand",16
+2017,"SG_DSR_SILN","New Zealand",16
+2018,"SG_DSR_SILN","New Zealand",16
+2019,"SG_DSR_SILN","New Zealand",16
+2020,"SG_DSR_SILN","New Zealand",16
+2021,"SG_DSR_SILN","New Zealand",16
+2012,"SG_DSR_SILN","Norway",282
+2014,"SG_DSR_SILN","Norway",315
+2015,"SG_DSR_SILN","Norway",330
+2016,"SG_DSR_SILN","Norway",350
+2017,"SG_DSR_SILN","Norway",362
+2018,"SG_DSR_SILN","Norway",359
+2019,"SG_DSR_SILN","Norway",394
+2015,"SG_DSR_SILN","Poland",16
+2016,"SG_DSR_SILN","Poland",16
+2017,"SG_DSR_SILN","Poland",16
+2018,"SG_DSR_SILN","Poland",16
+2019,"SG_DSR_SILN","Poland",16
+2020,"SG_DSR_SILN","Poland",16
+2010,"SG_DSR_SILN","Portugal",2
+2011,"SG_DSR_SILN","Portugal",2
+2012,"SG_DSR_SILN","Portugal",4
+2013,"SG_DSR_SILN","Portugal",4
+2014,"SG_DSR_SILN","Portugal",5
+2015,"SG_DSR_SILN","Portugal",7
+2016,"SG_DSR_SILN","Portugal",9
+2017,"SG_DSR_SILN","Portugal",25
+2018,"SG_DSR_SILN","Portugal",27
+2019,"SG_DSR_SILN","Portugal",31
+2020,"SG_DSR_SILN","Portugal",36
+2005,"SG_DSR_SILN","Romania",0
+2006,"SG_DSR_SILN","Romania",0
+2007,"SG_DSR_SILN","Romania",0
+2008,"SG_DSR_SILN","Romania",0
+2009,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Romania",0
+2011,"SG_DSR_SILN","Romania",0
+2012,"SG_DSR_SILN","Romania",0
+2013,"SG_DSR_SILN","Romania",0
+2014,"SG_DSR_SILN","Romania",0
+2015,"SG_DSR_SILN","Romania",0
+2016,"SG_DSR_SILN","Romania",0
+2017,"SG_DSR_SILN","Romania",0
+2018,"SG_DSR_SILN","Romania",0
+2019,"SG_DSR_SILN","Romania",0
+2020,"SG_DSR_SILN","Romania",0
+2021,"SG_DSR_SILN","Romania",0
+2010,"SG_DSR_SILN","Serbia",1
+2011,"SG_DSR_SILN","Serbia",0
+2018,"SG_DSR_SILN","Serbia",8
+2015,"SG_DSR_SILN","Slovenia",212
+2016,"SG_DSR_SILN","Slovenia",212
+2017,"SG_DSR_SILN","Slovenia",212
+2018,"SG_DSR_SILN","Slovenia",212
+2019,"SG_DSR_SILN","Slovenia",212
+2020,"SG_DSR_SILN","Slovenia",212
+2021,"SG_DSR_SILN","Slovenia",212
+2015,"SG_DSR_SILN","Sweden",0
+2016,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Sweden",0
+2018,"SG_DSR_SILN","Sweden",0
+2019,"SG_DSR_SILN","Sweden",0
+2017,"SG_DSR_SILN","Switzerland",13
+2015,"SG_DSR_SILN","Tajikistan",33
+2016,"SG_DSR_SILN","Tajikistan",43
+2017,"SG_DSR_SILN","Tajikistan",55
+2018,"SG_DSR_SILN","Tajikistan",60
+2019,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","Tajikistan",65
+2020,"SG_DSR_SILN","United Arab Emirates",3
+2017,"SG_DSR_SILN","Türkiye",1
+2020,"SG_DSR_SILN","Türkiye",7
+2021,"SG_DSR_SILN","Türkiye",74
+2019,"SG_DSR_SILN","Turkmenistan",6
+2013,"SG_DSR_SILN","Ukraine",27
+2014,"SG_DSR_SILN","Ukraine",25
+2015,"SG_DSR_SILN","Ukraine",25
+2016,"SG_DSR_SILN","Ukraine",25
+2017,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","Ukraine",25
+2019,"SG_DSR_SILN","Ukraine",25
+2020,"SG_DSR_SILN","Ukraine",25
+2021,"SG_DSR_SILN","Ukraine",25
+2018,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2019,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2020,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2021,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",42
+2019,"SG_DSR_SILN","Uzbekistan",14
+2020,"SG_DSR_SILN","Uzbekistan",200
+2021,"SG_DSR_SILN","Uzbekistan",205
+2020,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",41
+2021,"SG_DSR_SILN","United Kingdom of Great Britain and Northern Ireland",42
+2019,"SG_DSR_SILN","Uzbekistan",14
+2020,"SG_DSR_SILN","Uzbekistan",200
+2021,"SG_DSR_SILN","Uzbekistan",205
+2021,"SG_DSR_SILN","Uzbekistan",205

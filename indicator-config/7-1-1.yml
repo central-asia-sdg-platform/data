@@ -18,9 +18,7 @@ data_start_values :
     value: Turkmenistan
   - field: GeoAreaName
     value: Uzbekistan
-  - field: Location
-    value: ALLAREA
-    
+
 embedded_feature_footer : ''
 embedded_feature_html : ''
 embedded_feature_tab_title : ''
@@ -30,20 +28,17 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : global_indicators.7-1-1-title
+graph_title : meta.name-7-1-1
 graph_titles : []
 graph_type : line
-indicator_name : global_indicators.7-1-1-title
+indicator_name : meta.name-7-1-1
 national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/7-1-1/'
 precision : []
-reporting_status : complete
+reporting_status : notstarted
 sort : ''
 standalone : false
 tags : []
 indicator_number : 7-1-1
 notstarted : reported
-tag : 
-  - custom.global
-graph_target_lines : []

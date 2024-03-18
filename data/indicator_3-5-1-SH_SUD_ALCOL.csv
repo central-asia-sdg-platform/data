@@ -1,0 +1,188 @@
+Year,SeriesCode,GeoAreaName,Age,Sex,Value
+2016,"SH_SUD_ALCOL","Albania","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Albania","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Albania","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Azerbaijan","15+","MALE",10
+2016,"SH_SUD_ALCOL","Azerbaijan","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Azerbaijan","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Australia","15+","FEMALE",2.7
+2016,"SH_SUD_ALCOL","Australia","15+","MALE",6.1
+2016,"SH_SUD_ALCOL","Australia","15+","BOTHSEX",4.4
+2016,"SH_SUD_ALCOL","Austria","15+","FEMALE",6.1
+2016,"SH_SUD_ALCOL","Austria","15+","BOTHSEX",12
+2016,"SH_SUD_ALCOL","Austria","15+","MALE",18.1
+2016,"SH_SUD_ALCOL","Armenia","15+","BOTHSEX",5.7
+2016,"SH_SUD_ALCOL","Armenia","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Armenia","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Belgium","15+","BOTHSEX",8.1
+2016,"SH_SUD_ALCOL","Belgium","15+","FEMALE",4.3
+2016,"SH_SUD_ALCOL","Belgium","15+","MALE",12.1
+2016,"SH_SUD_ALCOL","Bosnia and Herzegovina","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Bosnia and Herzegovina","15+","MALE",9.8
+2016,"SH_SUD_ALCOL","Bosnia and Herzegovina","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Bulgaria","15+","FEMALE",1.9
+2016,"SH_SUD_ALCOL","Bulgaria","15+","MALE",12.2
+2016,"SH_SUD_ALCOL","Bulgaria","15+","BOTHSEX",6.9
+2016,"SH_SUD_ALCOL","Belarus","15+","MALE",33.9
+2016,"SH_SUD_ALCOL","Belarus","15+","FEMALE",6.2
+2016,"SH_SUD_ALCOL","Belarus","15+","BOTHSEX",18.8
+2016,"SH_SUD_ALCOL","Canada","15+","FEMALE",4.1
+2016,"SH_SUD_ALCOL","Canada","15+","BOTHSEX",8
+2016,"SH_SUD_ALCOL","Canada","15+","MALE",12
+2016,"SH_SUD_ALCOL","Chile","15+","MALE",10.3
+2016,"SH_SUD_ALCOL","Chile","15+","FEMALE",1.9
+2016,"SH_SUD_ALCOL","Chile","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","China","15+","MALE",8.4
+2016,"SH_SUD_ALCOL","China","15+","BOTHSEX",4.4
+2016,"SH_SUD_ALCOL","China","15+","FEMALE",0.2
+2016,"SH_SUD_ALCOL","Colombia","15+","BOTHSEX",7
+2016,"SH_SUD_ALCOL","Colombia","15+","MALE",10.4
+2016,"SH_SUD_ALCOL","Colombia","15+","FEMALE",3.8
+2016,"SH_SUD_ALCOL","Costa Rica","15+","FEMALE",3.4
+2016,"SH_SUD_ALCOL","Costa Rica","15+","BOTHSEX",6.9
+2016,"SH_SUD_ALCOL","Costa Rica","15+","MALE",10.4
+2016,"SH_SUD_ALCOL","Croatia","15+","BOTHSEX",5.8
+2016,"SH_SUD_ALCOL","Croatia","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Croatia","15+","MALE",9.8
+2016,"SH_SUD_ALCOL","Cyprus","15+","BOTHSEX",6.9
+2016,"SH_SUD_ALCOL","Cyprus","15+","MALE",10.5
+2016,"SH_SUD_ALCOL","Cyprus","15+","FEMALE",3.2
+2016,"SH_SUD_ALCOL","Czechia","15+","FEMALE",1.7
+2016,"SH_SUD_ALCOL","Czechia","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Czechia","15+","MALE",10.6
+2016,"SH_SUD_ALCOL","Denmark","15+","BOTHSEX",7.5
+2016,"SH_SUD_ALCOL","Denmark","15+","MALE",10.9
+2016,"SH_SUD_ALCOL","Denmark","15+","FEMALE",4.2
+2016,"SH_SUD_ALCOL","Estonia","15+","FEMALE",3.8
+2016,"SH_SUD_ALCOL","Estonia","15+","BOTHSEX",12.2
+2016,"SH_SUD_ALCOL","Estonia","15+","MALE",22.2
+2016,"SH_SUD_ALCOL","Finland","15+","MALE",14.8
+2016,"SH_SUD_ALCOL","Finland","15+","BOTHSEX",9.1
+2016,"SH_SUD_ALCOL","Finland","15+","FEMALE",3.8
+2016,"SH_SUD_ALCOL","France","15+","MALE",11.1
+2016,"SH_SUD_ALCOL","France","15+","BOTHSEX",7
+2016,"SH_SUD_ALCOL","France","15+","FEMALE",3.1
+2016,"SH_SUD_ALCOL","Georgia","15+","MALE",8.8
+2016,"SH_SUD_ALCOL","Georgia","15+","BOTHSEX",4.6
+2016,"SH_SUD_ALCOL","Georgia","15+","FEMALE",1
+2016,"SH_SUD_ALCOL","Germany","15+","FEMALE",4
+2016,"SH_SUD_ALCOL","Germany","15+","BOTHSEX",6.8
+2016,"SH_SUD_ALCOL","Germany","15+","MALE",9.8
+2016,"SH_SUD_ALCOL","Greece","15+","MALE",9.4
+2016,"SH_SUD_ALCOL","Greece","15+","FEMALE",2.9
+2016,"SH_SUD_ALCOL","Greece","15+","BOTHSEX",6.1
+2016,"SH_SUD_ALCOL","Hungary","15+","MALE",36.9
+2016,"SH_SUD_ALCOL","Hungary","15+","BOTHSEX",21.2
+2016,"SH_SUD_ALCOL","Hungary","15+","FEMALE",7.2
+2016,"SH_SUD_ALCOL","Iceland","15+","BOTHSEX",4.4
+2016,"SH_SUD_ALCOL","Iceland","15+","FEMALE",2
+2016,"SH_SUD_ALCOL","Iceland","15+","MALE",6.7
+2016,"SH_SUD_ALCOL","India","15+","BOTHSEX",4.9
+2016,"SH_SUD_ALCOL","India","15+","FEMALE",0.5
+2016,"SH_SUD_ALCOL","India","15+","MALE",9.1
+2016,"SH_SUD_ALCOL","Ireland","15+","FEMALE",4.1
+2016,"SH_SUD_ALCOL","Ireland","15+","BOTHSEX",8.5
+2016,"SH_SUD_ALCOL","Ireland","15+","MALE",13
+2016,"SH_SUD_ALCOL","Israel","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Israel","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Israel","15+","MALE",9.8
+2016,"SH_SUD_ALCOL","Italy","15+","MALE",1.7
+2016,"SH_SUD_ALCOL","Italy","15+","BOTHSEX",1.3
+2016,"SH_SUD_ALCOL","Italy","15+","FEMALE",1
+2016,"SH_SUD_ALCOL","Japan","15+","FEMALE",1.4
+2016,"SH_SUD_ALCOL","Japan","15+","BOTHSEX",3.4
+2016,"SH_SUD_ALCOL","Japan","15+","MALE",5.7
+2016,"SH_SUD_ALCOL","Kazakhstan","15+","MALE",10.3
+2016,"SH_SUD_ALCOL","Kazakhstan","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Kazakhstan","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Republic of Korea","15+","MALE",21.2
+2016,"SH_SUD_ALCOL","Republic of Korea","15+","BOTHSEX",13.9
+2016,"SH_SUD_ALCOL","Republic of Korea","15+","FEMALE",6.8
+2016,"SH_SUD_ALCOL","Kyrgyzstan","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Kyrgyzstan","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Kyrgyzstan","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Latvia","15+","FEMALE",4.6
+2016,"SH_SUD_ALCOL","Latvia","15+","BOTHSEX",15.5
+2016,"SH_SUD_ALCOL","Latvia","15+","MALE",28.8
+2016,"SH_SUD_ALCOL","Lithuania","15+","FEMALE",3.6
+2016,"SH_SUD_ALCOL","Lithuania","15+","BOTHSEX",11
+2016,"SH_SUD_ALCOL","Lithuania","15+","MALE",19.9
+2016,"SH_SUD_ALCOL","Luxembourg","15+","FEMALE",2.7
+2016,"SH_SUD_ALCOL","Luxembourg","15+","MALE",10.5
+2016,"SH_SUD_ALCOL","Luxembourg","15+","BOTHSEX",6.6
+2016,"SH_SUD_ALCOL","Malta","15+","BOTHSEX",3.6
+2016,"SH_SUD_ALCOL","Malta","15+","FEMALE",1.6
+2016,"SH_SUD_ALCOL","Malta","15+","MALE",5.6
+2016,"SH_SUD_ALCOL","Mexico","15+","BOTHSEX",2.3
+2016,"SH_SUD_ALCOL","Mexico","15+","MALE",4.3
+2016,"SH_SUD_ALCOL","Mexico","15+","FEMALE",0.4
+2016,"SH_SUD_ALCOL","Republic of Moldova","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Republic of Moldova","15+","MALE",10.3
+2016,"SH_SUD_ALCOL","Republic of Moldova","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Montenegro","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Montenegro","15+","FEMALE",2.2
+2016,"SH_SUD_ALCOL","Montenegro","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Netherlands (Kingdom of the)","15+","FEMALE",0.9
+2016,"SH_SUD_ALCOL","Netherlands (Kingdom of the)","15+","BOTHSEX",1.5
+2016,"SH_SUD_ALCOL","Netherlands (Kingdom of the)","15+","MALE",2
+2016,"SH_SUD_ALCOL","New Zealand","15+","MALE",5.6
+2016,"SH_SUD_ALCOL","New Zealand","15+","BOTHSEX",4
+2016,"SH_SUD_ALCOL","New Zealand","15+","FEMALE",2.5
+2016,"SH_SUD_ALCOL","Norway","15+","MALE",10.6
+2016,"SH_SUD_ALCOL","Norway","15+","FEMALE",3.8
+2016,"SH_SUD_ALCOL","Norway","15+","BOTHSEX",7.2
+2016,"SH_SUD_ALCOL","Poland","15+","FEMALE",3.7
+2016,"SH_SUD_ALCOL","Poland","15+","MALE",22.7
+2016,"SH_SUD_ALCOL","Poland","15+","BOTHSEX",12.8
+2016,"SH_SUD_ALCOL","Portugal","15+","BOTHSEX",6.8
+2016,"SH_SUD_ALCOL","Portugal","15+","FEMALE",3.2
+2016,"SH_SUD_ALCOL","Portugal","15+","MALE",11
+2016,"SH_SUD_ALCOL","Romania","15+","FEMALE",1.4
+2016,"SH_SUD_ALCOL","Romania","15+","MALE",4.5
+2016,"SH_SUD_ALCOL","Romania","15+","BOTHSEX",2.8
+2016,"SH_SUD_ALCOL","Serbia","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Serbia","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Serbia","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Slovakia","15+","BOTHSEX",12.2
+2016,"SH_SUD_ALCOL","Slovakia","15+","MALE",22.8
+2016,"SH_SUD_ALCOL","Slovakia","15+","FEMALE",2.5
+2016,"SH_SUD_ALCOL","Viet Nam","15+","BOTHSEX",5.4
+2016,"SH_SUD_ALCOL","Viet Nam","15+","MALE",9.8
+2016,"SH_SUD_ALCOL","Viet Nam","15+","FEMALE",1.2
+2016,"SH_SUD_ALCOL","Slovenia","15+","MALE",23.5
+2016,"SH_SUD_ALCOL","Slovenia","15+","FEMALE",4.5
+2016,"SH_SUD_ALCOL","Slovenia","15+","BOTHSEX",13.9
+2016,"SH_SUD_ALCOL","Spain","15+","BOTHSEX",1.5
+2016,"SH_SUD_ALCOL","Spain","15+","MALE",2.7
+2016,"SH_SUD_ALCOL","Spain","15+","FEMALE",0.5
+2016,"SH_SUD_ALCOL","Sweden","15+","BOTHSEX",11
+2016,"SH_SUD_ALCOL","Sweden","15+","MALE",14.7
+2016,"SH_SUD_ALCOL","Sweden","15+","FEMALE",7.3
+2016,"SH_SUD_ALCOL","Switzerland","15+","FEMALE",3.2
+2016,"SH_SUD_ALCOL","Switzerland","15+","MALE",16.1
+2016,"SH_SUD_ALCOL","Switzerland","15+","BOTHSEX",9.5
+2016,"SH_SUD_ALCOL","Tajikistan","15+","MALE",1.6
+2016,"SH_SUD_ALCOL","Tajikistan","15+","FEMALE",0.3
+2016,"SH_SUD_ALCOL","Tajikistan","15+","BOTHSEX",0.9
+2016,"SH_SUD_ALCOL","United Arab Emirates","15+","BOTHSEX",0.7
+2016,"SH_SUD_ALCOL","United Arab Emirates","15+","MALE",0.8
+2016,"SH_SUD_ALCOL","United Arab Emirates","15+","FEMALE",0.2
+2016,"SH_SUD_ALCOL","Türkiye","15+","FEMALE",1.7
+2016,"SH_SUD_ALCOL","Türkiye","15+","MALE",8.1
+2016,"SH_SUD_ALCOL","Türkiye","15+","BOTHSEX",4.8
+2016,"SH_SUD_ALCOL","Turkmenistan","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Turkmenistan","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Turkmenistan","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Ukraine","15+","FEMALE",1.4
+2016,"SH_SUD_ALCOL","Ukraine","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","Ukraine","15+","MALE",11.5
+2016,"SH_SUD_ALCOL","North Macedonia","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","North Macedonia","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","North Macedonia","15+","BOTHSEX",6
+2016,"SH_SUD_ALCOL","United Kingdom of Great Britain and Northern Ireland","15+","BOTHSEX",8.7
+2016,"SH_SUD_ALCOL","United Kingdom of Great Britain and Northern Ireland","15+","MALE",13
+2016,"SH_SUD_ALCOL","United Kingdom of Great Britain and Northern Ireland","15+","FEMALE",4.7
+2016,"SH_SUD_ALCOL","Uzbekistan","15+","FEMALE",2.1
+2016,"SH_SUD_ALCOL","Uzbekistan","15+","MALE",9.9
+2016,"SH_SUD_ALCOL","Uzbekistan","15+","BOTHSEX",5.9
+2016,"SH_SUD_ALCOL","Uzbekistan","15+","BOTHSEX",5.9

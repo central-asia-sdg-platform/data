@@ -1,0 +1,506 @@
+Year,SeriesCode,GeoAreaName,Value
+2000,"AG_LND_FRST","Latvia",52.08
+2010,"AG_LND_FRST","Latvia",54.19
+2015,"AG_LND_FRST","Latvia",54.5
+2016,"AG_LND_FRST","Latvia",54.56
+2017,"AG_LND_FRST","Latvia",54.63
+2018,"AG_LND_FRST","Latvia",54.69
+2019,"AG_LND_FRST","Latvia",54.75
+2020,"AG_LND_FRST","Latvia",54.81
+2000,"AG_LND_FRST","Liechtenstein",41.88
+2010,"AG_LND_FRST","Liechtenstein",41.87
+2015,"AG_LND_FRST","Liechtenstein",41.88
+2016,"AG_LND_FRST","Liechtenstein",41.88
+2017,"AG_LND_FRST","Liechtenstein",41.88
+2018,"AG_LND_FRST","Liechtenstein",41.88
+2019,"AG_LND_FRST","Liechtenstein",41.88
+2020,"AG_LND_FRST","Liechtenstein",41.88
+2000,"AG_LND_FRST","Lithuania",32.23
+2010,"AG_LND_FRST","Lithuania",34.62
+2015,"AG_LND_FRST","Lithuania",34.91
+2016,"AG_LND_FRST","Lithuania",34.96
+2017,"AG_LND_FRST","Lithuania",35.06
+2018,"AG_LND_FRST","Lithuania",35.1
+2019,"AG_LND_FRST","Lithuania",35.13
+2020,"AG_LND_FRST","Lithuania",35.15
+2000,"AG_LND_FRST","Luxembourg",33.68
+2010,"AG_LND_FRST","Luxembourg",34.45
+2015,"AG_LND_FRST","Luxembourg",34.45
+2016,"AG_LND_FRST","Luxembourg",34.45
+2017,"AG_LND_FRST","Luxembourg",34.45
+2018,"AG_LND_FRST","Luxembourg",34.45
+2019,"AG_LND_FRST","Luxembourg",34.45
+2020,"AG_LND_FRST","Luxembourg",34.45
+2000,"AG_LND_FRST","Malta",1.09
+2010,"AG_LND_FRST","Malta",1.09
+2015,"AG_LND_FRST","Malta",1.09
+2016,"AG_LND_FRST","Malta",1.19
+2017,"AG_LND_FRST","Malta",1.31
+2018,"AG_LND_FRST","Malta",1.44
+2019,"AG_LND_FRST","Malta",1.44
+2020,"AG_LND_FRST","Malta",1.44
+2000,"AG_LND_FRST","Mexico",35.18
+2010,"AG_LND_FRST","Mexico",34.44
+2015,"AG_LND_FRST","Mexico",34.12
+2016,"AG_LND_FRST","Mexico",34.06
+2017,"AG_LND_FRST","Mexico",33.99
+2018,"AG_LND_FRST","Mexico",33.92
+2019,"AG_LND_FRST","Mexico",33.86
+2020,"AG_LND_FRST","Mexico",33.79
+2000,"AG_LND_FRST","Republic of Moldova",10.47
+2010,"AG_LND_FRST","Republic of Moldova",11.4
+2015,"AG_LND_FRST","Republic of Moldova",11.75
+2016,"AG_LND_FRST","Republic of Moldova",11.75
+2017,"AG_LND_FRST","Republic of Moldova",11.75
+2018,"AG_LND_FRST","Republic of Moldova",11.75
+2019,"AG_LND_FRST","Republic of Moldova",11.75
+2020,"AG_LND_FRST","Republic of Moldova",11.75
+2000,"AG_LND_FRST","Montenegro",46.54
+2010,"AG_LND_FRST","Montenegro",61.49
+2015,"AG_LND_FRST","Montenegro",61.49
+2016,"AG_LND_FRST","Montenegro",61.49
+2017,"AG_LND_FRST","Montenegro",61.49
+2018,"AG_LND_FRST","Montenegro",61.49
+2019,"AG_LND_FRST","Montenegro",61.49
+2020,"AG_LND_FRST","Montenegro",61.49
+2000,"AG_LND_FRST","Netherlands (Kingdom of the)",10.65
+2010,"AG_LND_FRST","Netherlands (Kingdom of the)",11.07
+2015,"AG_LND_FRST","Netherlands (Kingdom of the)",10.84
+2016,"AG_LND_FRST","Netherlands (Kingdom of the)",10.86
+2017,"AG_LND_FRST","Netherlands (Kingdom of the)",10.89
+2018,"AG_LND_FRST","Netherlands (Kingdom of the)",10.92
+2000,"AG_LND_FRST","Albania",28.08
+2010,"AG_LND_FRST","Albania",28.54
+2015,"AG_LND_FRST","Albania",28.8
+2016,"AG_LND_FRST","Albania",28.8
+2017,"AG_LND_FRST","Albania",28.79
+2018,"AG_LND_FRST","Albania",28.79
+2019,"AG_LND_FRST","Albania",28.79
+2020,"AG_LND_FRST","Albania",28.79
+2000,"AG_LND_FRST","Azerbaijan",11.95
+2010,"AG_LND_FRST","Azerbaijan",12.49
+2015,"AG_LND_FRST","Azerbaijan",13.04
+2016,"AG_LND_FRST","Azerbaijan",13.15
+2017,"AG_LND_FRST","Azerbaijan",13.27
+2018,"AG_LND_FRST","Azerbaijan",13.41
+2019,"AG_LND_FRST","Azerbaijan",13.55
+2020,"AG_LND_FRST","Azerbaijan",13.69
+2000,"AG_LND_FRST","Australia",17.16
+2010,"AG_LND_FRST","Australia",16.86
+2015,"AG_LND_FRST","Australia",17.32
+2016,"AG_LND_FRST","Australia",17.43
+2017,"AG_LND_FRST","Australia",17.42
+2018,"AG_LND_FRST","Australia",17.42
+2019,"AG_LND_FRST","Australia",17.42
+2020,"AG_LND_FRST","Australia",17.42
+2000,"AG_LND_FRST","Austria",46.51
+2010,"AG_LND_FRST","Austria",46.82
+2015,"AG_LND_FRST","Austria",47.03
+2016,"AG_LND_FRST","Austria",47.08
+2017,"AG_LND_FRST","Austria",47.12
+2018,"AG_LND_FRST","Austria",47.16
+2019,"AG_LND_FRST","Austria",47.21
+2020,"AG_LND_FRST","Austria",47.25
+2000,"AG_LND_FRST","Armenia",11.68
+2010,"AG_LND_FRST","Armenia",11.61
+2015,"AG_LND_FRST","Armenia",11.57
+2016,"AG_LND_FRST","Armenia",11.57
+2017,"AG_LND_FRST","Armenia",11.56
+2018,"AG_LND_FRST","Armenia",11.55
+2019,"AG_LND_FRST","Armenia",11.54
+2020,"AG_LND_FRST","Armenia",11.54
+2000,"AG_LND_FRST","Belgium",22.04
+2010,"AG_LND_FRST","Belgium",22.78
+2015,"AG_LND_FRST","Belgium",22.76
+2016,"AG_LND_FRST","Belgium",22.76
+2017,"AG_LND_FRST","Belgium",22.76
+2018,"AG_LND_FRST","Belgium",22.76
+2019,"AG_LND_FRST","Belgium",22.76
+2020,"AG_LND_FRST","Belgium",22.76
+2019,"AG_LND_FRST","Netherlands (Kingdom of the)",10.95
+2020,"AG_LND_FRST","Netherlands (Kingdom of the)",10.97
+2000,"AG_LND_FRST","New Zealand",37.41
+2010,"AG_LND_FRST","New Zealand",37.4
+2015,"AG_LND_FRST","New Zealand",37.4
+2016,"AG_LND_FRST","New Zealand",37.4
+2017,"AG_LND_FRST","New Zealand",37.41
+2018,"AG_LND_FRST","New Zealand",37.43
+2019,"AG_LND_FRST","New Zealand",37.47
+2020,"AG_LND_FRST","New Zealand",37.57
+2000,"AG_LND_FRST","Norway",39.81
+2000,"AG_LND_FRST","Bosnia and Herzegovina",41.24
+2010,"AG_LND_FRST","Bosnia and Herzegovina",41.07
+2015,"AG_LND_FRST","Bosnia and Herzegovina",42.2
+2016,"AG_LND_FRST","Bosnia and Herzegovina",42.51
+2017,"AG_LND_FRST","Bosnia and Herzegovina",42.73
+2018,"AG_LND_FRST","Bosnia and Herzegovina",42.73
+2019,"AG_LND_FRST","Bosnia and Herzegovina",42.73
+2020,"AG_LND_FRST","Bosnia and Herzegovina",42.73
+2000,"AG_LND_FRST","Bulgaria",30.51
+2010,"AG_LND_FRST","Bulgaria",34.42
+2015,"AG_LND_FRST","Bulgaria",35.31
+2016,"AG_LND_FRST","Bulgaria",35.38
+2010,"AG_LND_FRST","Norway",39.78
+2015,"AG_LND_FRST","Norway",39.91
+2016,"AG_LND_FRST","Norway",39.94
+2017,"AG_LND_FRST","Norway",39.97
+2018,"AG_LND_FRST","Norway",40
+2019,"AG_LND_FRST","Norway",40.03
+2020,"AG_LND_FRST","Norway",40.16
+2000,"AG_LND_FRST","Poland",29.58
+2010,"AG_LND_FRST","Poland",30.46
+2015,"AG_LND_FRST","Poland",30.77
+2016,"AG_LND_FRST","Poland",30.81
+2017,"AG_LND_FRST","Poland",30.85
+2017,"AG_LND_FRST","Bulgaria",35.5
+2018,"AG_LND_FRST","Bulgaria",35.62
+2019,"AG_LND_FRST","Bulgaria",35.74
+2020,"AG_LND_FRST","Bulgaria",35.86
+2000,"AG_LND_FRST","Belarus",40.78
+2010,"AG_LND_FRST","Belarus",42.53
+2015,"AG_LND_FRST","Belarus",42.53
+2016,"AG_LND_FRST","Belarus",42.91
+2017,"AG_LND_FRST","Belarus",42.98
+2018,"AG_LND_FRST","Belarus",43.05
+2019,"AG_LND_FRST","Belarus",43.13
+2020,"AG_LND_FRST","Belarus",43.19
+2018,"AG_LND_FRST","Poland",30.89
+2019,"AG_LND_FRST","Poland",30.94
+2020,"AG_LND_FRST","Poland",30.98
+2000,"AG_LND_FRST","Portugal",35.86
+2010,"AG_LND_FRST","Portugal",35.51
+2015,"AG_LND_FRST","Portugal",36.15
+2016,"AG_LND_FRST","Portugal",36.15
+2017,"AG_LND_FRST","Portugal",36.15
+2018,"AG_LND_FRST","Portugal",36.15
+2019,"AG_LND_FRST","Portugal",36.15
+2020,"AG_LND_FRST","Portugal",36.15
+2000,"AG_LND_FRST","Romania",27.71
+2000,"AG_LND_FRST","Canada",38.79
+2010,"AG_LND_FRST","Canada",38.74
+2015,"AG_LND_FRST","Canada",38.72
+2016,"AG_LND_FRST","Canada",38.71
+2017,"AG_LND_FRST","Canada",38.71
+2018,"AG_LND_FRST","Canada",38.7
+2019,"AG_LND_FRST","Canada",38.7
+2020,"AG_LND_FRST","Canada",38.7
+2000,"AG_LND_FRST","Chile",21.27
+2010,"AG_LND_FRST","Chile",22.49
+2015,"AG_LND_FRST","Chile",23.67
+2016,"AG_LND_FRST","Chile",23.83
+2017,"AG_LND_FRST","Chile",24
+2018,"AG_LND_FRST","Chile",24.16
+2019,"AG_LND_FRST","Chile",24.33
+2020,"AG_LND_FRST","Chile",24.49
+2000,"AG_LND_FRST","China",18.78
+2010,"AG_LND_FRST","China",21.29
+2015,"AG_LND_FRST","China",22.31
+2016,"AG_LND_FRST","China",22.54
+2017,"AG_LND_FRST","China",22.74
+2018,"AG_LND_FRST","China",22.94
+2019,"AG_LND_FRST","China",23.14
+2020,"AG_LND_FRST","China",23.34
+2010,"AG_LND_FRST","Romania",28.32
+2015,"AG_LND_FRST","Romania",29.99
+2016,"AG_LND_FRST","Romania",30.12
+2017,"AG_LND_FRST","Romania",30.12
+2018,"AG_LND_FRST","Romania",30.12
+2019,"AG_LND_FRST","Romania",30.12
+2020,"AG_LND_FRST","Romania",30.12
+2000,"AG_LND_FRST","Serbia",28.13
+2010,"AG_LND_FRST","Serbia",31.02
+2015,"AG_LND_FRST","Serbia",31.09
+2016,"AG_LND_FRST","Serbia",31.1
+2017,"AG_LND_FRST","Serbia",31.12
+2000,"AG_LND_FRST","Colombia",56.54
+2010,"AG_LND_FRST","Colombia",54.81
+2015,"AG_LND_FRST","Colombia",54.2
+2016,"AG_LND_FRST","Colombia",54.04
+2017,"AG_LND_FRST","Colombia",53.84
+2018,"AG_LND_FRST","Colombia",53.66
+2019,"AG_LND_FRST","Colombia",53.48
+2020,"AG_LND_FRST","Colombia",53.31
+2000,"AG_LND_FRST","Costa Rica",55.96
+2010,"AG_LND_FRST","Costa Rica",56.23
+2015,"AG_LND_FRST","Costa Rica",57.83
+2016,"AG_LND_FRST","Costa Rica",58.16
+2018,"AG_LND_FRST","Serbia",31.12
+2019,"AG_LND_FRST","Serbia",31.13
+2020,"AG_LND_FRST","Serbia",31.13
+2000,"AG_LND_FRST","Slovakia",39.53
+2010,"AG_LND_FRST","Slovakia",39.88
+2015,"AG_LND_FRST","Slovakia",39.97
+2016,"AG_LND_FRST","Slovakia",40
+2017,"AG_LND_FRST","Slovakia",40.06
+2018,"AG_LND_FRST","Slovakia",40.06
+2019,"AG_LND_FRST","Slovakia",40.06
+2020,"AG_LND_FRST","Slovakia",40.06
+2000,"AG_LND_FRST","Viet Nam",37.88
+2017,"AG_LND_FRST","Costa Rica",58.48
+2018,"AG_LND_FRST","Costa Rica",58.8
+2019,"AG_LND_FRST","Costa Rica",59.12
+2020,"AG_LND_FRST","Costa Rica",59.44
+2000,"AG_LND_FRST","Croatia",33.71
+2010,"AG_LND_FRST","Croatia",34.31
+2015,"AG_LND_FRST","Croatia",34.34
+2016,"AG_LND_FRST","Croatia",34.38
+2017,"AG_LND_FRST","Croatia",34.52
+2018,"AG_LND_FRST","Croatia",34.56
+2019,"AG_LND_FRST","Croatia",34.6
+2020,"AG_LND_FRST","Croatia",34.65
+2010,"AG_LND_FRST","Viet Nam",42.73
+2015,"AG_LND_FRST","Viet Nam",44.87
+2016,"AG_LND_FRST","Viet Nam",45.88
+2017,"AG_LND_FRST","Viet Nam",46
+2018,"AG_LND_FRST","Viet Nam",46.23
+2019,"AG_LND_FRST","Viet Nam",46.48
+2020,"AG_LND_FRST","Viet Nam",46.72
+2000,"AG_LND_FRST","Slovenia",61.22
+2010,"AG_LND_FRST","Slovenia",61.9
+2015,"AG_LND_FRST","Slovenia",61.96
+2016,"AG_LND_FRST","Slovenia",61.86
+2017,"AG_LND_FRST","Slovenia",61.77
+2000,"AG_LND_FRST","Cyprus",18.57
+2010,"AG_LND_FRST","Cyprus",18.71
+2015,"AG_LND_FRST","Cyprus",18.69
+2016,"AG_LND_FRST","Cyprus",18.68
+2017,"AG_LND_FRST","Cyprus",18.68
+2018,"AG_LND_FRST","Cyprus",18.68
+2019,"AG_LND_FRST","Cyprus",18.67
+2020,"AG_LND_FRST","Cyprus",18.67
+2000,"AG_LND_FRST","Czechia",34.13
+2010,"AG_LND_FRST","Czechia",34.41
+2015,"AG_LND_FRST","Czechia",34.56
+2016,"AG_LND_FRST","Czechia",34.58
+2017,"AG_LND_FRST","Czechia",34.6
+2018,"AG_LND_FRST","Czechia",34.63
+2019,"AG_LND_FRST","Czechia",34.65
+2020,"AG_LND_FRST","Czechia",34.68
+2000,"AG_LND_FRST","Denmark",14.29
+2010,"AG_LND_FRST","Denmark",14.66
+2015,"AG_LND_FRST","Denmark",15.62
+2016,"AG_LND_FRST","Denmark",15.62
+2017,"AG_LND_FRST","Denmark",15.64
+2018,"AG_LND_FRST","Denmark",15.66
+2019,"AG_LND_FRST","Denmark",15.69
+2020,"AG_LND_FRST","Denmark",15.71
+2018,"AG_LND_FRST","Slovenia",61.67
+2019,"AG_LND_FRST","Slovenia",61.57
+2020,"AG_LND_FRST","Slovenia",61.47
+2000,"AG_LND_FRST","Spain",34.26
+2010,"AG_LND_FRST","Spain",37.09
+2015,"AG_LND_FRST","Spain",37.13
+2016,"AG_LND_FRST","Spain",37.14
+2017,"AG_LND_FRST","Spain",37.15
+2018,"AG_LND_FRST","Spain",37.16
+2019,"AG_LND_FRST","Spain",37.17
+2020,"AG_LND_FRST","Spain",37.18
+2000,"AG_LND_FRST","Sweden",69.14
+2000,"AG_LND_FRST","Estonia",52.82
+2010,"AG_LND_FRST","Estonia",55.11
+2015,"AG_LND_FRST","Estonia",55.69
+2016,"AG_LND_FRST","Estonia",55.7
+2017,"AG_LND_FRST","Estonia",57.04
+2018,"AG_LND_FRST","Estonia",57.04
+2019,"AG_LND_FRST","Estonia",57.04
+2020,"AG_LND_FRST","Estonia",57.04
+2000,"AG_LND_FRST","Finland",73.69
+2010,"AG_LND_FRST","Finland",73.19
+2015,"AG_LND_FRST","Finland",73.74
+2016,"AG_LND_FRST","Finland",73.74
+2017,"AG_LND_FRST","Finland",73.73
+2018,"AG_LND_FRST","Finland",73.73
+2019,"AG_LND_FRST","Finland",73.73
+2020,"AG_LND_FRST","Finland",73.73
+2000,"AG_LND_FRST","France",27.92
+2010,"AG_LND_FRST","France",29.99
+2015,"AG_LND_FRST","France",30.75
+2016,"AG_LND_FRST","France",30.9
+2017,"AG_LND_FRST","France",31.05
+2018,"AG_LND_FRST","France",31.2
+2019,"AG_LND_FRST","France",31.36
+2020,"AG_LND_FRST","France",31.51
+2010,"AG_LND_FRST","Sweden",68.92
+2015,"AG_LND_FRST","Sweden",68.69
+2016,"AG_LND_FRST","Sweden",68.69
+2017,"AG_LND_FRST","Sweden",68.69
+2018,"AG_LND_FRST","Sweden",68.69
+2019,"AG_LND_FRST","Sweden",68.7
+2020,"AG_LND_FRST","Sweden",68.7
+2000,"AG_LND_FRST","Switzerland",30.26
+2010,"AG_LND_FRST","Switzerland",31.25
+2015,"AG_LND_FRST","Switzerland",31.68
+2016,"AG_LND_FRST","Switzerland",31.77
+2017,"AG_LND_FRST","Switzerland",31.86
+2000,"AG_LND_FRST","Georgia",39.73
+2010,"AG_LND_FRST","Georgia",40.62
+2015,"AG_LND_FRST","Georgia",40.62
+2016,"AG_LND_FRST","Georgia",40.62
+2017,"AG_LND_FRST","Georgia",40.62
+2018,"AG_LND_FRST","Georgia",40.62
+2019,"AG_LND_FRST","Georgia",40.62
+2020,"AG_LND_FRST","Georgia",40.62
+2000,"AG_LND_FRST","Germany",32.54
+2010,"AG_LND_FRST","Germany",32.73
+2015,"AG_LND_FRST","Germany",32.73
+2016,"AG_LND_FRST","Germany",32.69
+2018,"AG_LND_FRST","Switzerland",31.94
+2019,"AG_LND_FRST","Switzerland",32.03
+2020,"AG_LND_FRST","Switzerland",32.12
+2000,"AG_LND_FRST","Tajikistan",2.93
+2010,"AG_LND_FRST","Tajikistan",2.93
+2015,"AG_LND_FRST","Tajikistan",3.04
+2016,"AG_LND_FRST","Tajikistan",3.04
+2017,"AG_LND_FRST","Tajikistan",3.04
+2018,"AG_LND_FRST","Tajikistan",3.04
+2019,"AG_LND_FRST","Tajikistan",3.05
+2020,"AG_LND_FRST","Tajikistan",3.05
+2000,"AG_LND_FRST","United Arab Emirates",4.36
+2017,"AG_LND_FRST","Germany",32.68
+2018,"AG_LND_FRST","Germany",32.68
+2019,"AG_LND_FRST","Germany",32.68
+2020,"AG_LND_FRST","Germany",32.68
+2000,"AG_LND_FRST","Greece",27.93
+2010,"AG_LND_FRST","Greece",30.27
+2015,"AG_LND_FRST","Greece",30.27
+2016,"AG_LND_FRST","Greece",30.27
+2017,"AG_LND_FRST","Greece",30.27
+2018,"AG_LND_FRST","Greece",30.27
+2019,"AG_LND_FRST","Greece",30.27
+2020,"AG_LND_FRST","Greece",30.27
+2010,"AG_LND_FRST","United Arab Emirates",4.47
+2015,"AG_LND_FRST","United Arab Emirates",4.47
+2016,"AG_LND_FRST","United Arab Emirates",4.47
+2017,"AG_LND_FRST","United Arab Emirates",4.47
+2018,"AG_LND_FRST","United Arab Emirates",4.47
+2019,"AG_LND_FRST","United Arab Emirates",4.47
+2020,"AG_LND_FRST","United Arab Emirates",4.47
+2000,"AG_LND_FRST","Türkiye",26.18
+2010,"AG_LND_FRST","Türkiye",27.39
+2015,"AG_LND_FRST","Türkiye",28.1
+2016,"AG_LND_FRST","Türkiye",28.1
+2017,"AG_LND_FRST","Türkiye",28.26
+2018,"AG_LND_FRST","Türkiye",28.47
+2019,"AG_LND_FRST","Türkiye",28.67
+2020,"AG_LND_FRST","Türkiye",28.87
+2000,"AG_LND_FRST","Turkmenistan",8.78
+2010,"AG_LND_FRST","Turkmenistan",8.78
+2015,"AG_LND_FRST","Turkmenistan",8.78
+2016,"AG_LND_FRST","Turkmenistan",8.78
+2017,"AG_LND_FRST","Turkmenistan",8.78
+2018,"AG_LND_FRST","Turkmenistan",8.78
+2019,"AG_LND_FRST","Turkmenistan",8.78
+2020,"AG_LND_FRST","Turkmenistan",8.78
+2000,"AG_LND_FRST","Ukraine",16.41
+2000,"AG_LND_FRST","Hungary",21.44
+2010,"AG_LND_FRST","Hungary",22.6
+2015,"AG_LND_FRST","Hungary",22.58
+2016,"AG_LND_FRST","Hungary",22.56
+2017,"AG_LND_FRST","Hungary",22.54
+2018,"AG_LND_FRST","Hungary",22.53
+2019,"AG_LND_FRST","Hungary",22.51
+2020,"AG_LND_FRST","Hungary",22.5
+2000,"AG_LND_FRST","Iceland",0.3
+2010,"AG_LND_FRST","Iceland",0.45
+2015,"AG_LND_FRST","Iceland",0.48
+2016,"AG_LND_FRST","Iceland",0.49
+2010,"AG_LND_FRST","Ukraine",16.48
+2015,"AG_LND_FRST","Ukraine",16.67
+2016,"AG_LND_FRST","Ukraine",16.68
+2017,"AG_LND_FRST","Ukraine",16.69
+2018,"AG_LND_FRST","Ukraine",16.7
+2019,"AG_LND_FRST","Ukraine",16.71
+2020,"AG_LND_FRST","Ukraine",16.72
+2000,"AG_LND_FRST","North Macedonia",37.65
+2010,"AG_LND_FRST","North Macedonia",38.08
+2015,"AG_LND_FRST","North Macedonia",39.43
+2016,"AG_LND_FRST","North Macedonia",39.72
+2017,"AG_LND_FRST","North Macedonia",39.71
+2017,"AG_LND_FRST","Iceland",0.49
+2018,"AG_LND_FRST","Iceland",0.5
+2019,"AG_LND_FRST","Iceland",0.5
+2020,"AG_LND_FRST","Iceland",0.51
+2000,"AG_LND_FRST","India",22.73
+2010,"AG_LND_FRST","India",23.37
+2015,"AG_LND_FRST","India",23.82
+2016,"AG_LND_FRST","India",23.91
+2017,"AG_LND_FRST","India",24
+2018,"AG_LND_FRST","India",24.09
+2019,"AG_LND_FRST","India",24.18
+2020,"AG_LND_FRST","India",24.27
+2018,"AG_LND_FRST","North Macedonia",39.71
+2019,"AG_LND_FRST","North Macedonia",39.71
+2020,"AG_LND_FRST","North Macedonia",39.71
+2000,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",12.21
+2010,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",12.64
+2015,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.04
+2016,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.06
+2017,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.08
+2018,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.12
+2019,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.15
+2020,"AG_LND_FRST","United Kingdom of Great Britain and Northern Ireland",13.19
+2000,"AG_LND_FRST","Ireland",9.15
+2010,"AG_LND_FRST","Ireland",10.46
+2015,"AG_LND_FRST","Ireland",10.95
+2016,"AG_LND_FRST","Ireland",11.07
+2017,"AG_LND_FRST","Ireland",11.18
+2018,"AG_LND_FRST","Ireland",11.24
+2019,"AG_LND_FRST","Ireland",11.29
+2020,"AG_LND_FRST","Ireland",11.35
+2000,"AG_LND_FRST","Israel",7.07
+2010,"AG_LND_FRST","Israel",7.12
+2015,"AG_LND_FRST","Israel",7.62
+2016,"AG_LND_FRST","Israel",6.47
+2017,"AG_LND_FRST","Israel",6.47
+2018,"AG_LND_FRST","Israel",6.47
+2019,"AG_LND_FRST","Israel",6.47
+2020,"AG_LND_FRST","Israel",6.47
+2000,"AG_LND_FRST","Italy",28.3
+2010,"AG_LND_FRST","Italy",30.53
+2015,"AG_LND_FRST","Italy",31.44
+2016,"AG_LND_FRST","Italy",31.62
+2017,"AG_LND_FRST","Italy",31.8
+2018,"AG_LND_FRST","Italy",31.98
+2019,"AG_LND_FRST","Italy",32.17
+2020,"AG_LND_FRST","Italy",32.35
+2000,"AG_LND_FRST","Japan",68.25
+2010,"AG_LND_FRST","Japan",68.49
+2015,"AG_LND_FRST","Japan",68.43
+2016,"AG_LND_FRST","Japan",68.42
+2017,"AG_LND_FRST","Japan",68.41
+2018,"AG_LND_FRST","Japan",68.41
+2019,"AG_LND_FRST","Japan",68.41
+2020,"AG_LND_FRST","Japan",68.41
+2000,"AG_LND_FRST","Kazakhstan",1.17
+2010,"AG_LND_FRST","Kazakhstan",1.14
+2015,"AG_LND_FRST","Kazakhstan",1.23
+2016,"AG_LND_FRST","Kazakhstan",1.24
+2017,"AG_LND_FRST","Kazakhstan",1.25
+2018,"AG_LND_FRST","Kazakhstan",1.26
+2019,"AG_LND_FRST","Kazakhstan",1.27
+2020,"AG_LND_FRST","Kazakhstan",1.28
+2000,"AG_LND_FRST","Republic of Korea",67.14
+2010,"AG_LND_FRST","Republic of Korea",65.71
+2015,"AG_LND_FRST","Republic of Korea",65.03
+2016,"AG_LND_FRST","Republic of Korea",64.88
+2017,"AG_LND_FRST","Republic of Korea",64.78
+2018,"AG_LND_FRST","Republic of Korea",64.67
+2019,"AG_LND_FRST","Republic of Korea",64.52
+2020,"AG_LND_FRST","Republic of Korea",64.42
+2000,"AG_LND_FRST","Kyrgyzstan",6.16
+2010,"AG_LND_FRST","Kyrgyzstan",6.41
+2015,"AG_LND_FRST","Kyrgyzstan",6.53
+2016,"AG_LND_FRST","Kyrgyzstan",6.55
+2017,"AG_LND_FRST","Kyrgyzstan",6.57
+2018,"AG_LND_FRST","Kyrgyzstan",6.67
+2019,"AG_LND_FRST","Kyrgyzstan",6.76
+2020,"AG_LND_FRST","Kyrgyzstan",6.86
+2000,"AG_LND_FRST","Uzbekistan",6.79
+2010,"AG_LND_FRST","Uzbekistan",7.68
+2015,"AG_LND_FRST","Uzbekistan",8.06
+2016,"AG_LND_FRST","Uzbekistan",8.14
+2017,"AG_LND_FRST","Uzbekistan",8.2
+2018,"AG_LND_FRST","Uzbekistan",8.26
+2019,"AG_LND_FRST","Uzbekistan",8.32
+2020,"AG_LND_FRST","Uzbekistan",8.37
+2020,"AG_LND_FRST","Uzbekistan",8.37

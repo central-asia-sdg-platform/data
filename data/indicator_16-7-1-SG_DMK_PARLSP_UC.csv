@@ -1,0 +1,82 @@
+Year,SeriesCode,GeoAreaName,Age,Sex,Value
+2021,"SG_DMK_PARLSP_UC","Australia","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Australia","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Australia","46+","FEMALE",1
+2021,"SG_DMK_PARLSP_UC","Austria","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Austria","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Austria","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Belgium","<=45Y","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Belgium","<=45Y","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Belgium","<=45Y","FEMALE",1
+2021,"SG_DMK_PARLSP_UC","Bosnia and Herzegovina","46+","MALE",3
+2022,"SG_DMK_PARLSP_UC","Bosnia and Herzegovina","46+","MALE",3
+2023,"SG_DMK_PARLSP_UC","Bosnia and Herzegovina","46+","MALE",3
+2021,"SG_DMK_PARLSP_UC","Belarus","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Belarus","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Belarus","46+","FEMALE",1
+2021,"SG_DMK_PARLSP_UC","Canada","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Canada","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Canada","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Chile","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Chile","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Chile","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Colombia","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Colombia","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Colombia","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Czechia","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Czechia","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Czechia","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","France","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","France","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","France","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Germany","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Germany","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Germany","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","India","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","India","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","India","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Ireland","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Ireland","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Ireland","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Italy","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Italy","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Italy","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Japan","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Japan","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Japan","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Kazakhstan","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Kazakhstan","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Kazakhstan","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Mexico","<=45Y","MALE",1
+2022,"SG_DMK_PARLSP_UC","Mexico","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Mexico","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Netherlands (Kingdom of the)","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Netherlands (Kingdom of the)","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Netherlands (Kingdom of the)","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Poland","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Poland","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Poland","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Romania","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Romania","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Romania","<=45Y","FEMALE",1
+2021,"SG_DMK_PARLSP_UC","Slovenia","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Slovenia","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Slovenia","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Spain","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Spain","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Spain","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Switzerland","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","Switzerland","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Switzerland","46+","FEMALE",1
+2021,"SG_DMK_PARLSP_UC","Tajikistan","<=45Y","MALE",1
+2022,"SG_DMK_PARLSP_UC","Tajikistan","<=45Y","MALE",1
+2023,"SG_DMK_PARLSP_UC","Tajikistan","<=45Y","MALE",1
+2022,"SG_DMK_PARLSP_UC","Turkmenistan","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","Turkmenistan","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","United Kingdom of Great Britain and Northern Ireland","46+","MALE",1
+2022,"SG_DMK_PARLSP_UC","United Kingdom of Great Britain and Northern Ireland","46+","MALE",1
+2023,"SG_DMK_PARLSP_UC","United Kingdom of Great Britain and Northern Ireland","46+","MALE",1
+2021,"SG_DMK_PARLSP_UC","Uzbekistan","46+","FEMALE",1
+2022,"SG_DMK_PARLSP_UC","Uzbekistan","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Uzbekistan","46+","FEMALE",1
+2023,"SG_DMK_PARLSP_UC","Uzbekistan","46+","FEMALE",1

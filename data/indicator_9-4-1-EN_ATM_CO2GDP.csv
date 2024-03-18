@@ -1,0 +1,1299 @@
+Year,SeriesCode,GeoAreaName,Value
+2000,"EN_ATM_CO2GDP","China",0.711
+2001,"EN_ATM_CO2GDP","China",0.689
+2002,"EN_ATM_CO2GDP","China",0.681
+2003,"EN_ATM_CO2GDP","China",0.717
+2004,"EN_ATM_CO2GDP","China",0.759
+2005,"EN_ATM_CO2GDP","China",0.778
+2006,"EN_ATM_CO2GDP","China",0.76
+2007,"EN_ATM_CO2GDP","China",0.723
+2008,"EN_ATM_CO2GDP","China",0.679
+2009,"EN_ATM_CO2GDP","China",0.664
+2000,"EN_ATM_CO2GDP","Albania",0.17
+2001,"EN_ATM_CO2GDP","Albania",0.164
+2002,"EN_ATM_CO2GDP","Albania",0.183
+2003,"EN_ATM_CO2GDP","Albania",0.176
+2004,"EN_ATM_CO2GDP","Albania",0.175
+2005,"EN_ATM_CO2GDP","Albania",0.159
+2006,"EN_ATM_CO2GDP","Albania",0.148
+2007,"EN_ATM_CO2GDP","Albania",0.139
+2008,"EN_ATM_CO2GDP","Albania",0.128
+2009,"EN_ATM_CO2GDP","Albania",0.125
+2010,"EN_ATM_CO2GDP","China",0.659
+2011,"EN_ATM_CO2GDP","China",0.658
+2012,"EN_ATM_CO2GDP","China",0.628
+2013,"EN_ATM_CO2GDP","China",0.61
+2014,"EN_ATM_CO2GDP","China",0.568
+2015,"EN_ATM_CO2GDP","China",0.525
+2016,"EN_ATM_CO2GDP","China",0.49
+2017,"EN_ATM_CO2GDP","China",0.469
+2018,"EN_ATM_CO2GDP","China",0.461
+2019,"EN_ATM_CO2GDP","China",0.442
+2010,"EN_ATM_CO2GDP","Albania",0.126
+2011,"EN_ATM_CO2GDP","Albania",0.13
+2012,"EN_ATM_CO2GDP","Albania",0.108
+2013,"EN_ATM_CO2GDP","Albania",0.111
+2014,"EN_ATM_CO2GDP","Albania",0.124
+2015,"EN_ATM_CO2GDP","Albania",0.112
+2016,"EN_ATM_CO2GDP","Albania",0.104
+2017,"EN_ATM_CO2GDP","Albania",0.12
+2018,"EN_ATM_CO2GDP","Albania",0.115
+2019,"EN_ATM_CO2GDP","Albania",0.104
+2020,"EN_ATM_CO2GDP","China",0.438
+2000,"EN_ATM_CO2GDP","Colombia",0.152
+2001,"EN_ATM_CO2GDP","Colombia",0.151
+2002,"EN_ATM_CO2GDP","Colombia",0.142
+2003,"EN_ATM_CO2GDP","Colombia",0.135
+2004,"EN_ATM_CO2GDP","Colombia",0.128
+2005,"EN_ATM_CO2GDP","Colombia",0.124
+2006,"EN_ATM_CO2GDP","Colombia",0.117
+2007,"EN_ATM_CO2GDP","Colombia",0.111
+2008,"EN_ATM_CO2GDP","Colombia",0.109
+2009,"EN_ATM_CO2GDP","Colombia",0.114
+2010,"EN_ATM_CO2GDP","Colombia",0.111
+2011,"EN_ATM_CO2GDP","Colombia",0.112
+2012,"EN_ATM_CO2GDP","Colombia",0.107
+2013,"EN_ATM_CO2GDP","Colombia",0.115
+2014,"EN_ATM_CO2GDP","Colombia",0.113
+2015,"EN_ATM_CO2GDP","Colombia",0.111
+2016,"EN_ATM_CO2GDP","Colombia",0.113
+2017,"EN_ATM_CO2GDP","Colombia",0.1
+2018,"EN_ATM_CO2GDP","Colombia",0.103
+2000,"EN_ATM_CO2GDP","United Arab Emirates",0.249
+2001,"EN_ATM_CO2GDP","United Arab Emirates",0.285
+2002,"EN_ATM_CO2GDP","United Arab Emirates",0.284
+2003,"EN_ATM_CO2GDP","United Arab Emirates",0.272
+2004,"EN_ATM_CO2GDP","United Arab Emirates",0.264
+2005,"EN_ATM_CO2GDP","United Arab Emirates",0.267
+2006,"EN_ATM_CO2GDP","United Arab Emirates",0.251
+2007,"EN_ATM_CO2GDP","United Arab Emirates",0.263
+2008,"EN_ATM_CO2GDP","United Arab Emirates",0.301
+2009,"EN_ATM_CO2GDP","United Arab Emirates",0.321
+2020,"EN_ATM_CO2GDP","Albania",0.09
+2000,"EN_ATM_CO2GDP","Azerbaijan",0.848
+2001,"EN_ATM_CO2GDP","Azerbaijan",0.73
+2002,"EN_ATM_CO2GDP","Azerbaijan",0.659
+2003,"EN_ATM_CO2GDP","Azerbaijan",0.652
+2004,"EN_ATM_CO2GDP","Azerbaijan",0.588
+2005,"EN_ATM_CO2GDP","Azerbaijan",0.487
+2006,"EN_ATM_CO2GDP","Azerbaijan",0.366
+2007,"EN_ATM_CO2GDP","Azerbaijan",0.266
+2008,"EN_ATM_CO2GDP","Azerbaijan",0.259
+2009,"EN_ATM_CO2GDP","Azerbaijan",0.201
+2010,"EN_ATM_CO2GDP","Azerbaijan",0.184
+2011,"EN_ATM_CO2GDP","Azerbaijan",0.207
+2012,"EN_ATM_CO2GDP","Azerbaijan",0.221
+2013,"EN_ATM_CO2GDP","Azerbaijan",0.213
+2014,"EN_ATM_CO2GDP","Azerbaijan",0.217
+2015,"EN_ATM_CO2GDP","Azerbaijan",0.213
+2016,"EN_ATM_CO2GDP","Azerbaijan",0.224
+2017,"EN_ATM_CO2GDP","Azerbaijan",0.221
+2018,"EN_ATM_CO2GDP","Azerbaijan",0.221
+2019,"EN_ATM_CO2GDP","Azerbaijan",0.235
+2020,"EN_ATM_CO2GDP","Azerbaijan",0.238
+2000,"EN_ATM_CO2GDP","Australia",0.457
+2001,"EN_ATM_CO2GDP","Australia",0.457
+2002,"EN_ATM_CO2GDP","Australia",0.449
+2003,"EN_ATM_CO2GDP","Australia",0.435
+2004,"EN_ATM_CO2GDP","Australia",0.433
+2005,"EN_ATM_CO2GDP","Australia",0.423
+2006,"EN_ATM_CO2GDP","Australia",0.418
+2007,"EN_ATM_CO2GDP","Australia",0.414
+2008,"EN_ATM_CO2GDP","Australia",0.403
+2009,"EN_ATM_CO2GDP","Australia",0.402
+2010,"EN_ATM_CO2GDP","Australia",0.396
+2011,"EN_ATM_CO2GDP","Australia",0.384
+2012,"EN_ATM_CO2GDP","Australia",0.371
+2013,"EN_ATM_CO2GDP","Australia",0.355
+2014,"EN_ATM_CO2GDP","Australia",0.337
+2015,"EN_ATM_CO2GDP","Australia",0.336
+2016,"EN_ATM_CO2GDP","Australia",0.335
+2017,"EN_ATM_CO2GDP","Australia",0.33
+2019,"EN_ATM_CO2GDP","Colombia",0.099
+2020,"EN_ATM_CO2GDP","Colombia",0.107
+2000,"EN_ATM_CO2GDP","Costa Rica",0.09
+2001,"EN_ATM_CO2GDP","Costa Rica",0.095
+2002,"EN_ATM_CO2GDP","Costa Rica",0.094
+2003,"EN_ATM_CO2GDP","Costa Rica",0.095
+2004,"EN_ATM_CO2GDP","Costa Rica",0.091
+2005,"EN_ATM_CO2GDP","Costa Rica",0.09
+2006,"EN_ATM_CO2GDP","Costa Rica",0.092
+2007,"EN_ATM_CO2GDP","Costa Rica",0.095
+2010,"EN_ATM_CO2GDP","United Arab Emirates",0.329
+2011,"EN_ATM_CO2GDP","United Arab Emirates",0.317
+2012,"EN_ATM_CO2GDP","United Arab Emirates",0.321
+2013,"EN_ATM_CO2GDP","United Arab Emirates",0.321
+2014,"EN_ATM_CO2GDP","United Arab Emirates",0.309
+2015,"EN_ATM_CO2GDP","United Arab Emirates",0.308
+2016,"EN_ATM_CO2GDP","United Arab Emirates",0.31
+2017,"EN_ATM_CO2GDP","United Arab Emirates",0.289
+2018,"EN_ATM_CO2GDP","United Arab Emirates",0.257
+2019,"EN_ATM_CO2GDP","United Arab Emirates",0.267
+2018,"EN_ATM_CO2GDP","Australia",0.32
+2019,"EN_ATM_CO2GDP","Australia",0.311
+2020,"EN_ATM_CO2GDP","Australia",0.299
+2000,"EN_ATM_CO2GDP","Austria",0.166
+2001,"EN_ATM_CO2GDP","Austria",0.176
+2002,"EN_ATM_CO2GDP","Austria",0.176
+2003,"EN_ATM_CO2GDP","Austria",0.188
+2004,"EN_ATM_CO2GDP","Austria",0.186
+2005,"EN_ATM_CO2GDP","Austria",0.183
+2006,"EN_ATM_CO2GDP","Austria",0.172
+2020,"EN_ATM_CO2GDP","United Arab Emirates",0.289
+2000,"EN_ATM_CO2GDP","Türkiye",0.206
+2001,"EN_ATM_CO2GDP","Türkiye",0.199
+2002,"EN_ATM_CO2GDP","Türkiye",0.197
+2003,"EN_ATM_CO2GDP","Türkiye",0.196
+2004,"EN_ATM_CO2GDP","Türkiye",0.182
+2005,"EN_ATM_CO2GDP","Türkiye",0.174
+2006,"EN_ATM_CO2GDP","Türkiye",0.181
+2007,"EN_ATM_CO2GDP","Türkiye",0.191
+2008,"EN_ATM_CO2GDP","Türkiye",0.187
+2009,"EN_ATM_CO2GDP","Türkiye",0.196
+2010,"EN_ATM_CO2GDP","Türkiye",0.185
+2011,"EN_ATM_CO2GDP","Türkiye",0.178
+2012,"EN_ATM_CO2GDP","Türkiye",0.177
+2013,"EN_ATM_CO2GDP","Türkiye",0.156
+2014,"EN_ATM_CO2GDP","Türkiye",0.16
+2015,"EN_ATM_CO2GDP","Türkiye",0.156
+2016,"EN_ATM_CO2GDP","Türkiye",0.161
+2017,"EN_ATM_CO2GDP","Türkiye",0.167
+2018,"EN_ATM_CO2GDP","Türkiye",0.161
+2007,"EN_ATM_CO2GDP","Austria",0.159
+2008,"EN_ATM_CO2GDP","Austria",0.155
+2009,"EN_ATM_CO2GDP","Austria",0.147
+2010,"EN_ATM_CO2GDP","Austria",0.158
+2011,"EN_ATM_CO2GDP","Austria",0.149
+2012,"EN_ATM_CO2GDP","Austria",0.141
+2013,"EN_ATM_CO2GDP","Austria",0.143
+2014,"EN_ATM_CO2GDP","Austria",0.134
+2015,"EN_ATM_CO2GDP","Austria",0.135
+2016,"EN_ATM_CO2GDP","Austria",0.133
+2017,"EN_ATM_CO2GDP","Austria",0.135
+2018,"EN_ATM_CO2GDP","Austria",0.125
+2019,"EN_ATM_CO2GDP","Austria",0.127
+2020,"EN_ATM_CO2GDP","Austria",0.124
+2000,"EN_ATM_CO2GDP","Armenia",0.275
+2001,"EN_ATM_CO2GDP","Armenia",0.254
+2002,"EN_ATM_CO2GDP","Armenia",0.189
+2003,"EN_ATM_CO2GDP","Armenia",0.186
+2004,"EN_ATM_CO2GDP","Armenia",0.178
+2005,"EN_ATM_CO2GDP","Armenia",0.187
+2006,"EN_ATM_CO2GDP","Armenia",0.166
+2007,"EN_ATM_CO2GDP","Armenia",0.169
+2008,"EN_ATM_CO2GDP","Armenia",0.173
+2009,"EN_ATM_CO2GDP","Armenia",0.163
+2010,"EN_ATM_CO2GDP","Armenia",0.152
+2011,"EN_ATM_CO2GDP","Armenia",0.167
+2012,"EN_ATM_CO2GDP","Armenia",0.181
+2013,"EN_ATM_CO2GDP","Armenia",0.169
+2014,"EN_ATM_CO2GDP","Armenia",0.163
+2015,"EN_ATM_CO2GDP","Armenia",0.154
+2019,"EN_ATM_CO2GDP","Türkiye",0.156
+2020,"EN_ATM_CO2GDP","Türkiye",0.153
+2000,"EN_ATM_CO2GDP","Turkmenistan",1.757
+2001,"EN_ATM_CO2GDP","Turkmenistan",1.713
+2002,"EN_ATM_CO2GDP","Turkmenistan",1.796
+2003,"EN_ATM_CO2GDP","Turkmenistan",1.931
+2004,"EN_ATM_CO2GDP","Turkmenistan",1.968
+2005,"EN_ATM_CO2GDP","Turkmenistan",1.799
+2006,"EN_ATM_CO2GDP","Turkmenistan",1.658
+2007,"EN_ATM_CO2GDP","Turkmenistan",1.698
+2016,"EN_ATM_CO2GDP","Armenia",0.148
+2017,"EN_ATM_CO2GDP","Armenia",0.145
+2018,"EN_ATM_CO2GDP","Armenia",0.144
+2019,"EN_ATM_CO2GDP","Armenia",0.145
+2020,"EN_ATM_CO2GDP","Armenia",0.169
+2000,"EN_ATM_CO2GDP","Belgium",0.258
+2001,"EN_ATM_CO2GDP","Belgium",0.259
+2002,"EN_ATM_CO2GDP","Belgium",0.238
+2003,"EN_ATM_CO2GDP","Belgium",0.246
+2004,"EN_ATM_CO2GDP","Belgium",0.233
+2008,"EN_ATM_CO2GDP","Turkmenistan",1.492
+2009,"EN_ATM_CO2GDP","Turkmenistan",1.245
+2010,"EN_ATM_CO2GDP","Turkmenistan",1.298
+2011,"EN_ATM_CO2GDP","Turkmenistan",1.222
+2012,"EN_ATM_CO2GDP","Turkmenistan",1.107
+2013,"EN_ATM_CO2GDP","Turkmenistan",0.96
+2014,"EN_ATM_CO2GDP","Turkmenistan",0.851
+2015,"EN_ATM_CO2GDP","Turkmenistan",0.823
+2016,"EN_ATM_CO2GDP","Turkmenistan",0.778
+2017,"EN_ATM_CO2GDP","Turkmenistan",0.731
+2018,"EN_ATM_CO2GDP","Turkmenistan",0.689
+2019,"EN_ATM_CO2GDP","Turkmenistan",0.651
+2020,"EN_ATM_CO2GDP","Turkmenistan",0.633
+2000,"EN_ATM_CO2GDP","Ukraine",0.8
+2001,"EN_ATM_CO2GDP","Ukraine",0.743
+2002,"EN_ATM_CO2GDP","Ukraine",0.713
+2003,"EN_ATM_CO2GDP","Ukraine",0.706
+2004,"EN_ATM_CO2GDP","Ukraine",0.585
+2005,"EN_ATM_CO2GDP","Ukraine",0.545
+2006,"EN_ATM_CO2GDP","Ukraine",0.52
+2007,"EN_ATM_CO2GDP","Ukraine",0.493
+2008,"EN_ATM_CO2GDP","Ukraine",0.465
+2009,"EN_ATM_CO2GDP","Ukraine",0.462
+2010,"EN_ATM_CO2GDP","Ukraine",0.475
+2011,"EN_ATM_CO2GDP","Ukraine",0.473
+2012,"EN_ATM_CO2GDP","Ukraine",0.463
+2013,"EN_ATM_CO2GDP","Ukraine",0.45
+2014,"EN_ATM_CO2GDP","Ukraine",0.439
+2015,"EN_ATM_CO2GDP","Ukraine",0.39
+2016,"EN_ATM_CO2GDP","Ukraine",0.401
+2017,"EN_ATM_CO2GDP","Ukraine",0.34
+2018,"EN_ATM_CO2GDP","Ukraine",0.348
+2019,"EN_ATM_CO2GDP","Ukraine",0.317
+2020,"EN_ATM_CO2GDP","Ukraine",0.312
+2000,"EN_ATM_CO2GDP","North Macedonia",0.411
+2001,"EN_ATM_CO2GDP","North Macedonia",0.432
+2002,"EN_ATM_CO2GDP","North Macedonia",0.399
+2003,"EN_ATM_CO2GDP","North Macedonia",0.424
+2004,"EN_ATM_CO2GDP","North Macedonia",0.392
+2005,"EN_ATM_CO2GDP","North Macedonia",0.389
+2006,"EN_ATM_CO2GDP","North Macedonia",0.369
+2007,"EN_ATM_CO2GDP","North Macedonia",0.365
+2008,"EN_ATM_CO2GDP","North Macedonia",0.338
+2009,"EN_ATM_CO2GDP","North Macedonia",0.317
+2010,"EN_ATM_CO2GDP","North Macedonia",0.3
+2011,"EN_ATM_CO2GDP","North Macedonia",0.322
+2012,"EN_ATM_CO2GDP","North Macedonia",0.311
+2013,"EN_ATM_CO2GDP","North Macedonia",0.27
+2014,"EN_ATM_CO2GDP","North Macedonia",0.247
+2015,"EN_ATM_CO2GDP","North Macedonia",0.228
+2016,"EN_ATM_CO2GDP","North Macedonia",0.216
+2017,"EN_ATM_CO2GDP","North Macedonia",0.228
+2018,"EN_ATM_CO2GDP","North Macedonia",0.207
+2019,"EN_ATM_CO2GDP","North Macedonia",0.228
+2020,"EN_ATM_CO2GDP","North Macedonia",0.208
+2000,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.227
+2001,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.229
+2002,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.218
+2003,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.217
+2004,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.212
+2005,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.206
+2006,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.201
+2007,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.192
+2008,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.188
+2009,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.178
+2010,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.18
+2011,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.164
+2012,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.169
+2013,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.161
+2014,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.143
+2015,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.134
+2016,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.125
+2017,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.117
+2018,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.114
+2019,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.107
+2020,"EN_ATM_CO2GDP","United Kingdom of Great Britain and Northern Ireland",0.105
+2000,"EN_ATM_CO2GDP","Uzbekistan",1.64
+2001,"EN_ATM_CO2GDP","Uzbekistan",1.582
+2002,"EN_ATM_CO2GDP","Uzbekistan",1.558
+2003,"EN_ATM_CO2GDP","Uzbekistan",1.404
+2004,"EN_ATM_CO2GDP","Uzbekistan",1.34
+2005,"EN_ATM_CO2GDP","Uzbekistan",1.182
+2006,"EN_ATM_CO2GDP","Uzbekistan",1.176
+2007,"EN_ATM_CO2GDP","Uzbekistan",1.042
+2008,"EN_ATM_CO2GDP","Uzbekistan",0.996
+2009,"EN_ATM_CO2GDP","Uzbekistan",0.841
+2010,"EN_ATM_CO2GDP","Uzbekistan",0.848
+2011,"EN_ATM_CO2GDP","Uzbekistan",0.807
+2005,"EN_ATM_CO2GDP","Belgium",0.222
+2006,"EN_ATM_CO2GDP","Belgium",0.211
+2007,"EN_ATM_CO2GDP","Belgium",0.195
+2008,"EN_ATM_CO2GDP","Belgium",0.2
+2009,"EN_ATM_CO2GDP","Belgium",0.191
+2010,"EN_ATM_CO2GDP","Belgium",0.2
+2011,"EN_ATM_CO2GDP","Belgium",0.176
+2012,"EN_ATM_CO2GDP","Belgium",0.173
+2013,"EN_ATM_CO2GDP","Belgium",0.175
+2014,"EN_ATM_CO2GDP","Belgium",0.161
+2015,"EN_ATM_CO2GDP","Belgium",0.166
+2016,"EN_ATM_CO2GDP","Belgium",0.162
+2017,"EN_ATM_CO2GDP","Belgium",0.157
+2018,"EN_ATM_CO2GDP","Belgium",0.156
+2019,"EN_ATM_CO2GDP","Belgium",0.151
+2020,"EN_ATM_CO2GDP","Belgium",0.147
+2000,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.481
+2001,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.462
+2002,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.463
+2003,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.456
+2004,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.448
+2005,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.45
+2006,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.47
+2007,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.469
+2008,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.489
+2009,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.503
+2010,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.505
+2011,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.572
+2012,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.533
+2013,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.518
+2014,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.457
+2015,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.446
+2016,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.493
+2017,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.485
+2018,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.465
+2019,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.422
+2020,"EN_ATM_CO2GDP","Bosnia and Herzegovina",0.431
+2000,"EN_ATM_CO2GDP","Bulgaria",0.492
+2001,"EN_ATM_CO2GDP","Bulgaria",0.505
+2002,"EN_ATM_CO2GDP","Bulgaria",0.449
+2003,"EN_ATM_CO2GDP","Bulgaria",0.47
+2004,"EN_ATM_CO2GDP","Bulgaria",0.433
+2005,"EN_ATM_CO2GDP","Bulgaria",0.41
+2006,"EN_ATM_CO2GDP","Bulgaria",0.392
+2007,"EN_ATM_CO2GDP","Bulgaria",0.393
+2008,"EN_ATM_CO2GDP","Bulgaria",0.352
+2009,"EN_ATM_CO2GDP","Bulgaria",0.317
+2010,"EN_ATM_CO2GDP","Bulgaria",0.327
+2011,"EN_ATM_CO2GDP","Bulgaria",0.356
+2012,"EN_ATM_CO2GDP","Bulgaria",0.319
+2013,"EN_ATM_CO2GDP","Bulgaria",0.282
+2014,"EN_ATM_CO2GDP","Bulgaria",0.297
+2015,"EN_ATM_CO2GDP","Bulgaria",0.303
+2016,"EN_ATM_CO2GDP","Bulgaria",0.273
+2017,"EN_ATM_CO2GDP","Bulgaria",0.281
+2018,"EN_ATM_CO2GDP","Bulgaria",0.254
+2019,"EN_ATM_CO2GDP","Bulgaria",0.234
+2020,"EN_ATM_CO2GDP","Bulgaria",0.213
+2000,"EN_ATM_CO2GDP","Belarus",0.648
+2001,"EN_ATM_CO2GDP","Belarus",0.605
+2002,"EN_ATM_CO2GDP","Belarus",0.574
+2003,"EN_ATM_CO2GDP","Belarus",0.543
+2004,"EN_ATM_CO2GDP","Belarus",0.516
+2005,"EN_ATM_CO2GDP","Belarus",0.477
+2006,"EN_ATM_CO2GDP","Belarus",0.451
+2007,"EN_ATM_CO2GDP","Belarus",0.404
+2008,"EN_ATM_CO2GDP","Belarus",0.385
+2009,"EN_ATM_CO2GDP","Belarus",0.363
+2010,"EN_ATM_CO2GDP","Belarus",0.362
+2011,"EN_ATM_CO2GDP","Belarus",0.326
+2012,"EN_ATM_CO2GDP","Belarus",0.327
+2013,"EN_ATM_CO2GDP","Belarus",0.324
+2014,"EN_ATM_CO2GDP","Belarus",0.314
+2015,"EN_ATM_CO2GDP","Belarus",0.303
+2016,"EN_ATM_CO2GDP","Belarus",0.313
+2017,"EN_ATM_CO2GDP","Belarus",0.311
+2018,"EN_ATM_CO2GDP","Belarus",0.319
+2019,"EN_ATM_CO2GDP","Belarus",0.305
+2020,"EN_ATM_CO2GDP","Belarus",0.292
+2000,"EN_ATM_CO2GDP","Canada",0.441
+2001,"EN_ATM_CO2GDP","Canada",0.429
+2002,"EN_ATM_CO2GDP","Canada",0.43
+2003,"EN_ATM_CO2GDP","Canada",0.43
+2004,"EN_ATM_CO2GDP","Canada",0.408
+2005,"EN_ATM_CO2GDP","Canada",0.398
+2006,"EN_ATM_CO2GDP","Canada",0.375
+2007,"EN_ATM_CO2GDP","Canada",0.371
+2008,"EN_ATM_CO2GDP","Canada",0.354
+2009,"EN_ATM_CO2GDP","Canada",0.346
+2010,"EN_ATM_CO2GDP","Canada",0.345
+2011,"EN_ATM_CO2GDP","Canada",0.342
+2012,"EN_ATM_CO2GDP","Canada",0.336
+2013,"EN_ATM_CO2GDP","Canada",0.334
+2014,"EN_ATM_CO2GDP","Canada",0.327
+2015,"EN_ATM_CO2GDP","Canada",0.324
+2016,"EN_ATM_CO2GDP","Canada",0.32
+2017,"EN_ATM_CO2GDP","Canada",0.316
+2018,"EN_ATM_CO2GDP","Canada",0.314
+2019,"EN_ATM_CO2GDP","Canada",0.301
+2020,"EN_ATM_CO2GDP","Canada",0.29
+2000,"EN_ATM_CO2GDP","Chile",0.205
+2001,"EN_ATM_CO2GDP","Chile",0.191
+2002,"EN_ATM_CO2GDP","Chile",0.188
+2003,"EN_ATM_CO2GDP","Chile",0.184
+2004,"EN_ATM_CO2GDP","Chile",0.19
+2005,"EN_ATM_CO2GDP","Chile",0.183
+2006,"EN_ATM_CO2GDP","Chile",0.176
+2007,"EN_ATM_CO2GDP","Chile",0.19
+2008,"EN_ATM_CO2GDP","Chile",0.193
+2009,"EN_ATM_CO2GDP","Chile",0.188
+2010,"EN_ATM_CO2GDP","Chile",0.19
+2011,"EN_ATM_CO2GDP","Chile",0.196
+2012,"EN_ATM_CO2GDP","Chile",0.19
+2013,"EN_ATM_CO2GDP","Chile",0.195
+2014,"EN_ATM_CO2GDP","Chile",0.176
+2015,"EN_ATM_CO2GDP","Chile",0.186
+2016,"EN_ATM_CO2GDP","Chile",0.192
+2017,"EN_ATM_CO2GDP","Chile",0.191
+2018,"EN_ATM_CO2GDP","Chile",0.183
+2019,"EN_ATM_CO2GDP","Chile",0.193
+2008,"EN_ATM_CO2GDP","Costa Rica",0.091
+2009,"EN_ATM_CO2GDP","Costa Rica",0.087
+2010,"EN_ATM_CO2GDP","Costa Rica",0.086
+2011,"EN_ATM_CO2GDP","Costa Rica",0.086
+2012,"EN_ATM_CO2GDP","Costa Rica",0.082
+2013,"EN_ATM_CO2GDP","Costa Rica",0.083
+2014,"EN_ATM_CO2GDP","Costa Rica",0.081
+2015,"EN_ATM_CO2GDP","Costa Rica",0.075
+2016,"EN_ATM_CO2GDP","Costa Rica",0.078
+2017,"EN_ATM_CO2GDP","Costa Rica",0.076
+2018,"EN_ATM_CO2GDP","Costa Rica",0.074
+2019,"EN_ATM_CO2GDP","Costa Rica",0.071
+2020,"EN_ATM_CO2GDP","Costa Rica",0.065
+2000,"EN_ATM_CO2GDP","Croatia",0.204
+2001,"EN_ATM_CO2GDP","Croatia",0.21
+2002,"EN_ATM_CO2GDP","Croatia",0.211
+2003,"EN_ATM_CO2GDP","Croatia",0.214
+2004,"EN_ATM_CO2GDP","Croatia",0.199
+2005,"EN_ATM_CO2GDP","Croatia",0.194
+2006,"EN_ATM_CO2GDP","Croatia",0.186
+2007,"EN_ATM_CO2GDP","Croatia",0.188
+2008,"EN_ATM_CO2GDP","Croatia",0.175
+2009,"EN_ATM_CO2GDP","Croatia",0.179
+2010,"EN_ATM_CO2GDP","Croatia",0.173
+2011,"EN_ATM_CO2GDP","Croatia",0.171
+2012,"EN_ATM_CO2GDP","Croatia",0.159
+2013,"EN_ATM_CO2GDP","Croatia",0.155
+2014,"EN_ATM_CO2GDP","Croatia",0.147
+2015,"EN_ATM_CO2GDP","Croatia",0.148
+2016,"EN_ATM_CO2GDP","Croatia",0.146
+2017,"EN_ATM_CO2GDP","Croatia",0.144
+2018,"EN_ATM_CO2GDP","Croatia",0.132
+2019,"EN_ATM_CO2GDP","Croatia",0.129
+2020,"EN_ATM_CO2GDP","Croatia",0.132
+2000,"EN_ATM_CO2GDP","Cyprus",0.278
+2001,"EN_ATM_CO2GDP","Cyprus",0.263
+2002,"EN_ATM_CO2GDP","Cyprus",0.26
+2003,"EN_ATM_CO2GDP","Cyprus",0.28
+2004,"EN_ATM_CO2GDP","Cyprus",0.262
+2005,"EN_ATM_CO2GDP","Cyprus",0.255
+2006,"EN_ATM_CO2GDP","Cyprus",0.246
+2007,"EN_ATM_CO2GDP","Cyprus",0.244
+2008,"EN_ATM_CO2GDP","Cyprus",0.241
+2009,"EN_ATM_CO2GDP","Cyprus",0.244
+2010,"EN_ATM_CO2GDP","Cyprus",0.231
+2011,"EN_ATM_CO2GDP","Cyprus",0.222
+2012,"EN_ATM_CO2GDP","Cyprus",0.214
+2013,"EN_ATM_CO2GDP","Cyprus",0.197
+2014,"EN_ATM_CO2GDP","Cyprus",0.207
+2015,"EN_ATM_CO2GDP","Cyprus",0.205
+2016,"EN_ATM_CO2GDP","Cyprus",0.204
+2017,"EN_ATM_CO2GDP","Cyprus",0.196
+2018,"EN_ATM_CO2GDP","Cyprus",0.183
+2019,"EN_ATM_CO2GDP","Cyprus",0.175
+2020,"EN_ATM_CO2GDP","Cyprus",0.169
+2000,"EN_ATM_CO2GDP","Czechia",0.479
+2001,"EN_ATM_CO2GDP","Czechia",0.465
+2002,"EN_ATM_CO2GDP","Czechia",0.443
+2003,"EN_ATM_CO2GDP","Czechia",0.439
+2004,"EN_ATM_CO2GDP","Czechia",0.42
+2005,"EN_ATM_CO2GDP","Czechia",0.388
+2006,"EN_ATM_CO2GDP","Czechia",0.365
+2007,"EN_ATM_CO2GDP","Czechia",0.35
+2008,"EN_ATM_CO2GDP","Czechia",0.325
+2009,"EN_ATM_CO2GDP","Czechia",0.326
+2010,"EN_ATM_CO2GDP","Czechia",0.321
+2011,"EN_ATM_CO2GDP","Czechia",0.307
+2012,"EN_ATM_CO2GDP","Czechia",0.299
+2013,"EN_ATM_CO2GDP","Czechia",0.287
+2014,"EN_ATM_CO2GDP","Czechia",0.272
+2015,"EN_ATM_CO2GDP","Czechia",0.261
+2016,"EN_ATM_CO2GDP","Czechia",0.259
+2017,"EN_ATM_CO2GDP","Czechia",0.248
+2018,"EN_ATM_CO2GDP","Czechia",0.238
+2019,"EN_ATM_CO2GDP","Czechia",0.219
+2020,"EN_ATM_CO2GDP","Czechia",0.211
+2000,"EN_ATM_CO2GDP","Denmark",0.194
+2001,"EN_ATM_CO2GDP","Denmark",0.199
+2002,"EN_ATM_CO2GDP","Denmark",0.197
+2003,"EN_ATM_CO2GDP","Denmark",0.216
+2004,"EN_ATM_CO2GDP","Denmark",0.19
+2005,"EN_ATM_CO2GDP","Denmark",0.174
+2006,"EN_ATM_CO2GDP","Denmark",0.195
+2007,"EN_ATM_CO2GDP","Denmark",0.177
+2008,"EN_ATM_CO2GDP","Denmark",0.167
+2009,"EN_ATM_CO2GDP","Denmark",0.17
+2010,"EN_ATM_CO2GDP","Denmark",0.168
+2011,"EN_ATM_CO2GDP","Denmark",0.147
+2012,"EN_ATM_CO2GDP","Denmark",0.13
+2013,"EN_ATM_CO2GDP","Denmark",0.134
+2014,"EN_ATM_CO2GDP","Denmark",0.118
+2015,"EN_ATM_CO2GDP","Denmark",0.108
+2016,"EN_ATM_CO2GDP","Denmark",0.109
+2017,"EN_ATM_CO2GDP","Denmark",0.1
+2018,"EN_ATM_CO2GDP","Denmark",0.098
+2019,"EN_ATM_CO2GDP","Denmark",0.085
+2020,"EN_ATM_CO2GDP","Denmark",0.08
+2000,"EN_ATM_CO2GDP","Estonia",0.587
+2001,"EN_ATM_CO2GDP","Estonia",0.565
+2002,"EN_ATM_CO2GDP","Estonia",0.514
+2003,"EN_ATM_CO2GDP","Estonia",0.541
+2004,"EN_ATM_CO2GDP","Estonia",0.508
+2005,"EN_ATM_CO2GDP","Estonia",0.465
+2006,"EN_ATM_CO2GDP","Estonia",0.404
+2007,"EN_ATM_CO2GDP","Estonia",0.459
+2008,"EN_ATM_CO2GDP","Estonia",0.426
+2009,"EN_ATM_CO2GDP","Estonia",0.408
+2010,"EN_ATM_CO2GDP","Estonia",0.525
+2011,"EN_ATM_CO2GDP","Estonia",0.487
+2012,"EN_ATM_CO2GDP","Estonia",0.432
+2013,"EN_ATM_CO2GDP","Estonia",0.474
+2014,"EN_ATM_CO2GDP","Estonia",0.428
+2015,"EN_ATM_CO2GDP","Estonia",0.347
+2016,"EN_ATM_CO2GDP","Estonia",0.373
+2017,"EN_ATM_CO2GDP","Estonia",0.37
+2018,"EN_ATM_CO2GDP","Estonia",0.332
+2019,"EN_ATM_CO2GDP","Estonia",0.202
+2020,"EN_ATM_CO2GDP","Estonia",0.151
+2000,"EN_ATM_CO2GDP","Finland",0.264
+2001,"EN_ATM_CO2GDP","Finland",0.286
+2002,"EN_ATM_CO2GDP","Finland",0.292
+2003,"EN_ATM_CO2GDP","Finland",0.324
+2004,"EN_ATM_CO2GDP","Finland",0.294
+2005,"EN_ATM_CO2GDP","Finland",0.234
+2006,"EN_ATM_CO2GDP","Finland",0.272
+2007,"EN_ATM_CO2GDP","Finland",0.251
+2008,"EN_ATM_CO2GDP","Finland",0.216
+2009,"EN_ATM_CO2GDP","Finland",0.226
+2010,"EN_ATM_CO2GDP","Finland",0.252
+2011,"EN_ATM_CO2GDP","Finland",0.216
+2012,"EN_ATM_CO2GDP","Finland",0.197
+2013,"EN_ATM_CO2GDP","Finland",0.202
+2014,"EN_ATM_CO2GDP","Finland",0.186
+2015,"EN_ATM_CO2GDP","Finland",0.171
+2016,"EN_ATM_CO2GDP","Finland",0.178
+2017,"EN_ATM_CO2GDP","Finland",0.162
+2018,"EN_ATM_CO2GDP","Finland",0.165
+2019,"EN_ATM_CO2GDP","Finland",0.151
+2020,"EN_ATM_CO2GDP","Finland",0.136
+2000,"EN_ATM_CO2GDP","France",0.151
+2001,"EN_ATM_CO2GDP","France",0.149
+2002,"EN_ATM_CO2GDP","France",0.145
+2003,"EN_ATM_CO2GDP","France",0.146
+2004,"EN_ATM_CO2GDP","France",0.143
+2005,"EN_ATM_CO2GDP","France",0.141
+2006,"EN_ATM_CO2GDP","France",0.134
+2007,"EN_ATM_CO2GDP","France",0.128
+2008,"EN_ATM_CO2GDP","France",0.126
+2009,"EN_ATM_CO2GDP","France",0.125
+2010,"EN_ATM_CO2GDP","France",0.124
+2011,"EN_ATM_CO2GDP","France",0.117
+2012,"EN_ATM_CO2GDP","France",0.118
+2013,"EN_ATM_CO2GDP","France",0.117
+2014,"EN_ATM_CO2GDP","France",0.105
+2015,"EN_ATM_CO2GDP","France",0.106
+2016,"EN_ATM_CO2GDP","France",0.105
+2017,"EN_ATM_CO2GDP","France",0.104
+2018,"EN_ATM_CO2GDP","France",0.099
+2019,"EN_ATM_CO2GDP","France",0.095
+2020,"EN_ATM_CO2GDP","France",0.092
+2000,"EN_ATM_CO2GDP","Georgia",0.231
+2001,"EN_ATM_CO2GDP","Georgia",0.161
+2002,"EN_ATM_CO2GDP","Georgia",0.127
+2003,"EN_ATM_CO2GDP","Georgia",0.123
+2004,"EN_ATM_CO2GDP","Georgia",0.123
+2005,"EN_ATM_CO2GDP","Georgia",0.142
+2006,"EN_ATM_CO2GDP","Georgia",0.145
+2007,"EN_ATM_CO2GDP","Georgia",0.155
+2008,"EN_ATM_CO2GDP","Georgia",0.13
+2009,"EN_ATM_CO2GDP","Georgia",0.153
+2010,"EN_ATM_CO2GDP","Georgia",0.135
+2011,"EN_ATM_CO2GDP","Georgia",0.15
+2012,"EN_ATM_CO2GDP","Georgia",0.157
+2013,"EN_ATM_CO2GDP","Georgia",0.17
+2014,"EN_ATM_CO2GDP","Georgia",0.176
+2015,"EN_ATM_CO2GDP","Georgia",0.186
+2016,"EN_ATM_CO2GDP","Georgia",0.189
+2017,"EN_ATM_CO2GDP","Georgia",0.18
+2018,"EN_ATM_CO2GDP","Georgia",0.169
+2019,"EN_ATM_CO2GDP","Georgia",0.171
+2020,"EN_ATM_CO2GDP","Georgia",0.179
+2000,"EN_ATM_CO2GDP","Germany",0.23
+2001,"EN_ATM_CO2GDP","Germany",0.232
+2002,"EN_ATM_CO2GDP","Germany",0.228
+2003,"EN_ATM_CO2GDP","Germany",0.231
+2004,"EN_ATM_CO2GDP","Germany",0.224
+2005,"EN_ATM_CO2GDP","Germany",0.217
+2006,"EN_ATM_CO2GDP","Germany",0.212
+2007,"EN_ATM_CO2GDP","Germany",0.198
+2008,"EN_ATM_CO2GDP","Germany",0.198
+2009,"EN_ATM_CO2GDP","Germany",0.195
+2010,"EN_ATM_CO2GDP","Germany",0.197
+2011,"EN_ATM_CO2GDP","Germany",0.183
+2012,"EN_ATM_CO2GDP","Germany",0.186
+2013,"EN_ATM_CO2GDP","Germany",0.19
+2014,"EN_ATM_CO2GDP","Germany",0.176
+2015,"EN_ATM_CO2GDP","Germany",0.175
+2016,"EN_ATM_CO2GDP","Germany",0.172
+2017,"EN_ATM_CO2GDP","Germany",0.164
+2018,"EN_ATM_CO2GDP","Germany",0.157
+2019,"EN_ATM_CO2GDP","Germany",0.144
+2020,"EN_ATM_CO2GDP","Germany",0.138
+2000,"EN_ATM_CO2GDP","Greece",0.279
+2001,"EN_ATM_CO2GDP","Greece",0.275
+2002,"EN_ATM_CO2GDP","Greece",0.265
+2003,"EN_ATM_CO2GDP","Greece",0.26
+2004,"EN_ATM_CO2GDP","Greece",0.247
+2005,"EN_ATM_CO2GDP","Greece",0.25
+2006,"EN_ATM_CO2GDP","Greece",0.234
+2007,"EN_ATM_CO2GDP","Greece",0.236
+2008,"EN_ATM_CO2GDP","Greece",0.228
+2009,"EN_ATM_CO2GDP","Greece",0.227
+2010,"EN_ATM_CO2GDP","Greece",0.222
+2011,"EN_ATM_CO2GDP","Greece",0.244
+2012,"EN_ATM_CO2GDP","Greece",0.246
+2013,"EN_ATM_CO2GDP","Greece",0.226
+2014,"EN_ATM_CO2GDP","Greece",0.215
+2015,"EN_ATM_CO2GDP","Greece",0.211
+2016,"EN_ATM_CO2GDP","Greece",0.207
+2017,"EN_ATM_CO2GDP","Greece",0.205
+2018,"EN_ATM_CO2GDP","Greece",0.197
+2019,"EN_ATM_CO2GDP","Greece",0.178
+2020,"EN_ATM_CO2GDP","Greece",0.166
+2000,"EN_ATM_CO2GDP","Hungary",0.269
+2001,"EN_ATM_CO2GDP","Hungary",0.266
+2002,"EN_ATM_CO2GDP","Hungary",0.251
+2003,"EN_ATM_CO2GDP","Hungary",0.252
+2004,"EN_ATM_CO2GDP","Hungary",0.233
+2005,"EN_ATM_CO2GDP","Hungary",0.222
+2006,"EN_ATM_CO2GDP","Hungary",0.212
+2007,"EN_ATM_CO2GDP","Hungary",0.205
+2008,"EN_ATM_CO2GDP","Hungary",0.2
+2009,"EN_ATM_CO2GDP","Hungary",0.193
+2010,"EN_ATM_CO2GDP","Hungary",0.193
+2011,"EN_ATM_CO2GDP","Hungary",0.186
+2012,"EN_ATM_CO2GDP","Hungary",0.174
+2013,"EN_ATM_CO2GDP","Hungary",0.161
+2014,"EN_ATM_CO2GDP","Hungary",0.153
+2015,"EN_ATM_CO2GDP","Hungary",0.158
+2016,"EN_ATM_CO2GDP","Hungary",0.157
+2017,"EN_ATM_CO2GDP","Hungary",0.169
+2018,"EN_ATM_CO2GDP","Hungary",0.159
+2019,"EN_ATM_CO2GDP","Hungary",0.145
+2020,"EN_ATM_CO2GDP","Hungary",0.144
+2000,"EN_ATM_CO2GDP","Iceland",0.185
+2001,"EN_ATM_CO2GDP","Iceland",0.173
+2002,"EN_ATM_CO2GDP","Iceland",0.181
+2003,"EN_ATM_CO2GDP","Iceland",0.176
+2004,"EN_ATM_CO2GDP","Iceland",0.168
+2005,"EN_ATM_CO2GDP","Iceland",0.155
+2006,"EN_ATM_CO2GDP","Iceland",0.148
+2007,"EN_ATM_CO2GDP","Iceland",0.141
+2008,"EN_ATM_CO2GDP","Iceland",0.126
+2009,"EN_ATM_CO2GDP","Iceland",0.134
+2010,"EN_ATM_CO2GDP","Iceland",0.129
+2011,"EN_ATM_CO2GDP","Iceland",0.122
+2012,"EN_ATM_CO2GDP","Iceland",0.12
+2013,"EN_ATM_CO2GDP","Iceland",0.125
+2014,"EN_ATM_CO2GDP","Iceland",0.124
+2015,"EN_ATM_CO2GDP","Iceland",0.119
+2016,"EN_ATM_CO2GDP","Iceland",0.089
+2017,"EN_ATM_CO2GDP","Iceland",0.087
+2018,"EN_ATM_CO2GDP","Iceland",0.085
+2019,"EN_ATM_CO2GDP","Iceland",0.08
+2020,"EN_ATM_CO2GDP","Iceland",0.075
+2000,"EN_ATM_CO2GDP","India",0.327
+2001,"EN_ATM_CO2GDP","India",0.317
+2002,"EN_ATM_CO2GDP","India",0.315
+2003,"EN_ATM_CO2GDP","India",0.3
+2004,"EN_ATM_CO2GDP","India",0.298
+2005,"EN_ATM_CO2GDP","India",0.289
+2006,"EN_ATM_CO2GDP","India",0.285
+2007,"EN_ATM_CO2GDP","India",0.292
+2008,"EN_ATM_CO2GDP","India",0.302
+2009,"EN_ATM_CO2GDP","India",0.308
+2010,"EN_ATM_CO2GDP","India",0.301
+2011,"EN_ATM_CO2GDP","India",0.302
+2012,"EN_ATM_CO2GDP","India",0.311
+2013,"EN_ATM_CO2GDP","India",0.302
+2014,"EN_ATM_CO2GDP","India",0.306
+2015,"EN_ATM_CO2GDP","India",0.284
+2016,"EN_ATM_CO2GDP","India",0.267
+2017,"EN_ATM_CO2GDP","India",0.264
+2018,"EN_ATM_CO2GDP","India",0.263
+2019,"EN_ATM_CO2GDP","India",0.249
+2020,"EN_ATM_CO2GDP","India",0.243
+2000,"EN_ATM_CO2GDP","Ireland",0.224
+2001,"EN_ATM_CO2GDP","Ireland",0.223
+2002,"EN_ATM_CO2GDP","Ireland",0.207
+2003,"EN_ATM_CO2GDP","Ireland",0.2
+2004,"EN_ATM_CO2GDP","Ireland",0.189
+2005,"EN_ATM_CO2GDP","Ireland",0.187
+2006,"EN_ATM_CO2GDP","Ireland",0.181
+2007,"EN_ATM_CO2GDP","Ireland",0.169
+2008,"EN_ATM_CO2GDP","Ireland",0.175
+2009,"EN_ATM_CO2GDP","Ireland",0.165
+2010,"EN_ATM_CO2GDP","Ireland",0.162
+2011,"EN_ATM_CO2GDP","Ireland",0.146
+2012,"EN_ATM_CO2GDP","Ireland",0.147
+2013,"EN_ATM_CO2GDP","Ireland",0.14
+2014,"EN_ATM_CO2GDP","Ireland",0.127
+2015,"EN_ATM_CO2GDP","Ireland",0.105
+2016,"EN_ATM_CO2GDP","Ireland",0.108
+2017,"EN_ATM_CO2GDP","Ireland",0.096
+2018,"EN_ATM_CO2GDP","Ireland",0.087
+2019,"EN_ATM_CO2GDP","Ireland",0.079
+2020,"EN_ATM_CO2GDP","Ireland",0.071
+2000,"EN_ATM_CO2GDP","Israel",0.291
+2001,"EN_ATM_CO2GDP","Israel",0.298
+2002,"EN_ATM_CO2GDP","Israel",0.315
+2003,"EN_ATM_CO2GDP","Israel",0.32
+2004,"EN_ATM_CO2GDP","Israel",0.306
+2005,"EN_ATM_CO2GDP","Israel",0.283
+2006,"EN_ATM_CO2GDP","Israel",0.282
+2007,"EN_ATM_CO2GDP","Israel",0.275
+2008,"EN_ATM_CO2GDP","Israel",0.267
+2009,"EN_ATM_CO2GDP","Israel",0.261
+2010,"EN_ATM_CO2GDP","Israel",0.265
+2011,"EN_ATM_CO2GDP","Israel",0.248
+2012,"EN_ATM_CO2GDP","Israel",0.263
+2013,"EN_ATM_CO2GDP","Israel",0.221
+2014,"EN_ATM_CO2GDP","Israel",0.204
+2015,"EN_ATM_CO2GDP","Israel",0.205
+2016,"EN_ATM_CO2GDP","Israel",0.194
+2017,"EN_ATM_CO2GDP","Israel",0.188
+2018,"EN_ATM_CO2GDP","Israel",0.168
+2019,"EN_ATM_CO2GDP","Israel",0.167
+2020,"EN_ATM_CO2GDP","Israel",0.16
+2000,"EN_ATM_CO2GDP","Italy",0.172
+2001,"EN_ATM_CO2GDP","Italy",0.168
+2002,"EN_ATM_CO2GDP","Italy",0.17
+2003,"EN_ATM_CO2GDP","Italy",0.177
+2004,"EN_ATM_CO2GDP","Italy",0.179
+2005,"EN_ATM_CO2GDP","Italy",0.178
+2006,"EN_ATM_CO2GDP","Italy",0.172
+2007,"EN_ATM_CO2GDP","Italy",0.167
+2008,"EN_ATM_CO2GDP","Italy",0.163
+2009,"EN_ATM_CO2GDP","Italy",0.154
+2010,"EN_ATM_CO2GDP","Italy",0.155
+2011,"EN_ATM_CO2GDP","Italy",0.151
+2012,"EN_ATM_CO2GDP","Italy",0.148
+2013,"EN_ATM_CO2GDP","Italy",0.139
+2014,"EN_ATM_CO2GDP","Italy",0.132
+2015,"EN_ATM_CO2GDP","Italy",0.135
+2016,"EN_ATM_CO2GDP","Italy",0.132
+2017,"EN_ATM_CO2GDP","Italy",0.128
+2018,"EN_ATM_CO2GDP","Italy",0.125
+2019,"EN_ATM_CO2GDP","Italy",0.121
+2020,"EN_ATM_CO2GDP","Italy",0.118
+2000,"EN_ATM_CO2GDP","Japan",0.249
+2001,"EN_ATM_CO2GDP","Japan",0.246
+2002,"EN_ATM_CO2GDP","Japan",0.254
+2003,"EN_ATM_CO2GDP","Japan",0.252
+2004,"EN_ATM_CO2GDP","Japan",0.245
+2005,"EN_ATM_CO2GDP","Japan",0.242
+2006,"EN_ATM_CO2GDP","Japan",0.234
+2007,"EN_ATM_CO2GDP","Japan",0.238
+2008,"EN_ATM_CO2GDP","Japan",0.228
+2009,"EN_ATM_CO2GDP","Japan",0.23
+2010,"EN_ATM_CO2GDP","Japan",0.232
+2011,"EN_ATM_CO2GDP","Japan",0.244
+2012,"EN_ATM_CO2GDP","Japan",0.249
+2013,"EN_ATM_CO2GDP","Japan",0.246
+2014,"EN_ATM_CO2GDP","Japan",0.235
+2015,"EN_ATM_CO2GDP","Japan",0.224
+2016,"EN_ATM_CO2GDP","Japan",0.22
+2017,"EN_ATM_CO2GDP","Japan",0.214
+2018,"EN_ATM_CO2GDP","Japan",0.205
+2019,"EN_ATM_CO2GDP","Japan",0.199
+2020,"EN_ATM_CO2GDP","Japan",0.196
+2000,"EN_ATM_CO2GDP","Kazakhstan",0.732
+2001,"EN_ATM_CO2GDP","Kazakhstan",0.629
+2002,"EN_ATM_CO2GDP","Kazakhstan",0.627
+2003,"EN_ATM_CO2GDP","Kazakhstan",0.647
+2004,"EN_ATM_CO2GDP","Kazakhstan",0.641
+2005,"EN_ATM_CO2GDP","Kazakhstan",0.626
+2006,"EN_ATM_CO2GDP","Kazakhstan",0.624
+2007,"EN_ATM_CO2GDP","Kazakhstan",0.62
+2008,"EN_ATM_CO2GDP","Kazakhstan",0.738
+2009,"EN_ATM_CO2GDP","Kazakhstan",0.642
+2010,"EN_ATM_CO2GDP","Kazakhstan",0.653
+2011,"EN_ATM_CO2GDP","Kazakhstan",0.646
+2012,"EN_ATM_CO2GDP","Kazakhstan",0.613
+2013,"EN_ATM_CO2GDP","Kazakhstan",0.617
+2014,"EN_ATM_CO2GDP","Kazakhstan",0.47
+2015,"EN_ATM_CO2GDP","Kazakhstan",0.422
+2016,"EN_ATM_CO2GDP","Kazakhstan",0.449
+2017,"EN_ATM_CO2GDP","Kazakhstan",0.459
+2018,"EN_ATM_CO2GDP","Kazakhstan",0.447
+2019,"EN_ATM_CO2GDP","Kazakhstan",0.405
+2020,"EN_ATM_CO2GDP","Kazakhstan",0.43
+2000,"EN_ATM_CO2GDP","Republic of Korea",0.391
+2001,"EN_ATM_CO2GDP","Republic of Korea",0.381
+2002,"EN_ATM_CO2GDP","Republic of Korea",0.356
+2003,"EN_ATM_CO2GDP","Republic of Korea",0.347
+2004,"EN_ATM_CO2GDP","Republic of Korea",0.348
+2005,"EN_ATM_CO2GDP","Republic of Korea",0.332
+2006,"EN_ATM_CO2GDP","Republic of Korea",0.32
+2007,"EN_ATM_CO2GDP","Republic of Korea",0.311
+2008,"EN_ATM_CO2GDP","Republic of Korea",0.309
+2009,"EN_ATM_CO2GDP","Republic of Korea",0.315
+2010,"EN_ATM_CO2GDP","Republic of Korea",0.323
+2011,"EN_ATM_CO2GDP","Republic of Korea",0.325
+2012,"EN_ATM_CO2GDP","Republic of Korea",0.318
+2013,"EN_ATM_CO2GDP","Republic of Korea",0.308
+2014,"EN_ATM_CO2GDP","Republic of Korea",0.292
+2015,"EN_ATM_CO2GDP","Republic of Korea",0.294
+2016,"EN_ATM_CO2GDP","Republic of Korea",0.289
+2017,"EN_ATM_CO2GDP","Republic of Korea",0.285
+2018,"EN_ATM_CO2GDP","Republic of Korea",0.28
+2019,"EN_ATM_CO2GDP","Republic of Korea",0.265
+2020,"EN_ATM_CO2GDP","Republic of Korea",0.249
+2000,"EN_ATM_CO2GDP","Kyrgyzstan",0.295
+2001,"EN_ATM_CO2GDP","Kyrgyzstan",0.237
+2002,"EN_ATM_CO2GDP","Kyrgyzstan",0.298
+2003,"EN_ATM_CO2GDP","Kyrgyzstan",0.309
+2004,"EN_ATM_CO2GDP","Kyrgyzstan",0.285
+2005,"EN_ATM_CO2GDP","Kyrgyzstan",0.269
+2006,"EN_ATM_CO2GDP","Kyrgyzstan",0.26
+2007,"EN_ATM_CO2GDP","Kyrgyzstan",0.293
+2008,"EN_ATM_CO2GDP","Kyrgyzstan",0.318
+2009,"EN_ATM_CO2GDP","Kyrgyzstan",0.288
+2010,"EN_ATM_CO2GDP","Kyrgyzstan",0.268
+2011,"EN_ATM_CO2GDP","Kyrgyzstan",0.302
+2012,"EN_ATM_CO2GDP","Kyrgyzstan",0.4
+2013,"EN_ATM_CO2GDP","Kyrgyzstan",0.329
+2014,"EN_ATM_CO2GDP","Kyrgyzstan",0.328
+2015,"EN_ATM_CO2GDP","Kyrgyzstan",0.335
+2016,"EN_ATM_CO2GDP","Kyrgyzstan",0.304
+2017,"EN_ATM_CO2GDP","Kyrgyzstan",0.28
+2018,"EN_ATM_CO2GDP","Kyrgyzstan",0.32
+2019,"EN_ATM_CO2GDP","Kyrgyzstan",0.268
+2020,"EN_ATM_CO2GDP","Kyrgyzstan",0.263
+2000,"EN_ATM_CO2GDP","Latvia",0.222
+2001,"EN_ATM_CO2GDP","Latvia",0.222
+2002,"EN_ATM_CO2GDP","Latvia",0.207
+2003,"EN_ATM_CO2GDP","Latvia",0.197
+2004,"EN_ATM_CO2GDP","Latvia",0.182
+2005,"EN_ATM_CO2GDP","Latvia",0.167
+2006,"EN_ATM_CO2GDP","Latvia",0.158
+2007,"EN_ATM_CO2GDP","Latvia",0.149
+2008,"EN_ATM_CO2GDP","Latvia",0.146
+2009,"EN_ATM_CO2GDP","Latvia",0.155
+2010,"EN_ATM_CO2GDP","Latvia",0.182
+2011,"EN_ATM_CO2GDP","Latvia",0.161
+2012,"EN_ATM_CO2GDP","Latvia",0.143
+2013,"EN_ATM_CO2GDP","Latvia",0.139
+2014,"EN_ATM_CO2GDP","Latvia",0.133
+2015,"EN_ATM_CO2GDP","Latvia",0.13
+2016,"EN_ATM_CO2GDP","Latvia",0.126
+2017,"EN_ATM_CO2GDP","Latvia",0.12
+2018,"EN_ATM_CO2GDP","Latvia",0.125
+2019,"EN_ATM_CO2GDP","Latvia",0.118
+2020,"EN_ATM_CO2GDP","Latvia",0.112
+2000,"EN_ATM_CO2GDP","Lithuania",0.211
+2001,"EN_ATM_CO2GDP","Lithuania",0.211
+2002,"EN_ATM_CO2GDP","Lithuania",0.198
+2003,"EN_ATM_CO2GDP","Lithuania",0.18
+2004,"EN_ATM_CO2GDP","Lithuania",0.178
+2005,"EN_ATM_CO2GDP","Lithuania",0.178
+2006,"EN_ATM_CO2GDP","Lithuania",0.166
+2007,"EN_ATM_CO2GDP","Lithuania",0.152
+2008,"EN_ATM_CO2GDP","Lithuania",0.147
+2009,"EN_ATM_CO2GDP","Lithuania",0.156
+2010,"EN_ATM_CO2GDP","Lithuania",0.166
+2011,"EN_ATM_CO2GDP","Lithuania",0.147
+2012,"EN_ATM_CO2GDP","Lithuania",0.141
+2013,"EN_ATM_CO2GDP","Lithuania",0.129
+2014,"EN_ATM_CO2GDP","Lithuania",0.12
+2015,"EN_ATM_CO2GDP","Lithuania",0.118
+2016,"EN_ATM_CO2GDP","Lithuania",0.117
+2017,"EN_ATM_CO2GDP","Lithuania",0.113
+2018,"EN_ATM_CO2GDP","Lithuania",0.112
+2019,"EN_ATM_CO2GDP","Lithuania",0.107
+2020,"EN_ATM_CO2GDP","Lithuania",0.107
+2000,"EN_ATM_CO2GDP","Luxembourg",0.186
+2001,"EN_ATM_CO2GDP","Luxembourg",0.195
+2002,"EN_ATM_CO2GDP","Luxembourg",0.203
+2003,"EN_ATM_CO2GDP","Luxembourg",0.208
+2004,"EN_ATM_CO2GDP","Luxembourg",0.228
+2005,"EN_ATM_CO2GDP","Luxembourg",0.227
+2006,"EN_ATM_CO2GDP","Luxembourg",0.211
+2007,"EN_ATM_CO2GDP","Luxembourg",0.185
+2008,"EN_ATM_CO2GDP","Luxembourg",0.184
+2009,"EN_ATM_CO2GDP","Luxembourg",0.181
+2010,"EN_ATM_CO2GDP","Luxembourg",0.184
+2011,"EN_ATM_CO2GDP","Luxembourg",0.18
+2012,"EN_ATM_CO2GDP","Luxembourg",0.173
+2013,"EN_ATM_CO2GDP","Luxembourg",0.16
+2014,"EN_ATM_CO2GDP","Luxembourg",0.147
+2015,"EN_ATM_CO2GDP","Luxembourg",0.137
+2016,"EN_ATM_CO2GDP","Luxembourg",0.126
+2017,"EN_ATM_CO2GDP","Luxembourg",0.126
+2018,"EN_ATM_CO2GDP","Luxembourg",0.128
+2019,"EN_ATM_CO2GDP","Luxembourg",0.126
+2020,"EN_ATM_CO2GDP","Luxembourg",0.105
+2000,"EN_ATM_CO2GDP","Malta",0.198
+2001,"EN_ATM_CO2GDP","Malta",0.235
+2002,"EN_ATM_CO2GDP","Malta",0.213
+2003,"EN_ATM_CO2GDP","Malta",0.23
+2004,"EN_ATM_CO2GDP","Malta",0.229
+2005,"EN_ATM_CO2GDP","Malta",0.224
+2006,"EN_ATM_CO2GDP","Malta",0.221
+2007,"EN_ATM_CO2GDP","Malta",0.216
+2008,"EN_ATM_CO2GDP","Malta",0.208
+2009,"EN_ATM_CO2GDP","Malta",0.194
+2010,"EN_ATM_CO2GDP","Malta",0.19
+2011,"EN_ATM_CO2GDP","Malta",0.188
+2012,"EN_ATM_CO2GDP","Malta",0.19
+2013,"EN_ATM_CO2GDP","Malta",0.158
+2014,"EN_ATM_CO2GDP","Malta",0.145
+2015,"EN_ATM_CO2GDP","Malta",0.093
+2016,"EN_ATM_CO2GDP","Malta",0.074
+2017,"EN_ATM_CO2GDP","Malta",0.075
+2018,"EN_ATM_CO2GDP","Malta",0.072
+2019,"EN_ATM_CO2GDP","Malta",0.072
+2020,"EN_ATM_CO2GDP","Malta",0.077
+2000,"EN_ATM_CO2GDP","Mexico",0.205
+2001,"EN_ATM_CO2GDP","Mexico",0.206
+2002,"EN_ATM_CO2GDP","Mexico",0.211
+2003,"EN_ATM_CO2GDP","Mexico",0.218
+2004,"EN_ATM_CO2GDP","Mexico",0.215
+2005,"EN_ATM_CO2GDP","Mexico",0.219
+2006,"EN_ATM_CO2GDP","Mexico",0.217
+2007,"EN_ATM_CO2GDP","Mexico",0.215
+2008,"EN_ATM_CO2GDP","Mexico",0.213
+2009,"EN_ATM_CO2GDP","Mexico",0.22
+2010,"EN_ATM_CO2GDP","Mexico",0.217
+2011,"EN_ATM_CO2GDP","Mexico",0.217
+2012,"EN_ATM_CO2GDP","Mexico",0.211
+2013,"EN_ATM_CO2GDP","Mexico",0.203
+2014,"EN_ATM_CO2GDP","Mexico",0.191
+2015,"EN_ATM_CO2GDP","Mexico",0.188
+2016,"EN_ATM_CO2GDP","Mexico",0.185
+2017,"EN_ATM_CO2GDP","Mexico",0.181
+2018,"EN_ATM_CO2GDP","Mexico",0.166
+2019,"EN_ATM_CO2GDP","Mexico",0.169
+2020,"EN_ATM_CO2GDP","Mexico",0.152
+2000,"EN_ATM_CO2GDP","Republic of Moldova",0.441
+2001,"EN_ATM_CO2GDP","Republic of Moldova",0.435
+2002,"EN_ATM_CO2GDP","Republic of Moldova",0.41
+2003,"EN_ATM_CO2GDP","Republic of Moldova",0.416
+2004,"EN_ATM_CO2GDP","Republic of Moldova",0.386
+2005,"EN_ATM_CO2GDP","Republic of Moldova",0.374
+2006,"EN_ATM_CO2GDP","Republic of Moldova",0.343
+2007,"EN_ATM_CO2GDP","Republic of Moldova",0.33
+2008,"EN_ATM_CO2GDP","Republic of Moldova",0.303
+2009,"EN_ATM_CO2GDP","Republic of Moldova",0.319
+2010,"EN_ATM_CO2GDP","Republic of Moldova",0.325
+2011,"EN_ATM_CO2GDP","Republic of Moldova",0.306
+2020,"EN_ATM_CO2GDP","Chile",0.189
+2012,"EN_ATM_CO2GDP","Republic of Moldova",0.299
+2013,"EN_ATM_CO2GDP","Republic of Moldova",0.239
+2014,"EN_ATM_CO2GDP","Republic of Moldova",0.246
+2015,"EN_ATM_CO2GDP","Republic of Moldova",0.258
+2016,"EN_ATM_CO2GDP","Republic of Moldova",0.251
+2017,"EN_ATM_CO2GDP","Republic of Moldova",0.234
+2018,"EN_ATM_CO2GDP","Republic of Moldova",0.238
+2019,"EN_ATM_CO2GDP","Republic of Moldova",0.239
+2020,"EN_ATM_CO2GDP","Republic of Moldova",0.25
+2005,"EN_ATM_CO2GDP","Montenegro",0.232
+2006,"EN_ATM_CO2GDP","Montenegro",0.233
+2007,"EN_ATM_CO2GDP","Montenegro",0.21
+2008,"EN_ATM_CO2GDP","Montenegro",0.251
+2009,"EN_ATM_CO2GDP","Montenegro",0.173
+2010,"EN_ATM_CO2GDP","Montenegro",0.249
+2012,"EN_ATM_CO2GDP","Uzbekistan",0.657
+2013,"EN_ATM_CO2GDP","Uzbekistan",0.608
+2014,"EN_ATM_CO2GDP","Uzbekistan",0.533
+2015,"EN_ATM_CO2GDP","Uzbekistan",0.469
+2016,"EN_ATM_CO2GDP","Uzbekistan",0.471
+2017,"EN_ATM_CO2GDP","Uzbekistan",0.472
+2018,"EN_ATM_CO2GDP","Uzbekistan",0.461
+2019,"EN_ATM_CO2GDP","Uzbekistan",0.453
+2020,"EN_ATM_CO2GDP","Uzbekistan",0.436
+2011,"EN_ATM_CO2GDP","Montenegro",0.237
+2012,"EN_ATM_CO2GDP","Montenegro",0.224
+2013,"EN_ATM_CO2GDP","Montenegro",0.21
+2014,"EN_ATM_CO2GDP","Montenegro",0.202
+2015,"EN_ATM_CO2GDP","Montenegro",0.208
+2016,"EN_ATM_CO2GDP","Montenegro",0.184
+2017,"EN_ATM_CO2GDP","Montenegro",0.185
+2018,"EN_ATM_CO2GDP","Montenegro",0.194
+2019,"EN_ATM_CO2GDP","Montenegro",0.194
+2020,"EN_ATM_CO2GDP","Montenegro",0.223
+2000,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.214
+2001,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.216
+2002,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.216
+2003,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.219
+2004,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.217
+2005,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.207
+2006,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.195
+2007,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.189
+2008,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.186
+2009,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.188
+2010,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.198
+2011,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.18
+2012,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.181
+2013,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.181
+2014,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.17
+2015,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.175
+2016,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.173
+2017,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.165
+2018,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.156
+2019,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.148
+2020,"EN_ATM_CO2GDP","Netherlands (Kingdom of the)",0.138
+2000,"EN_ATM_CO2GDP","New Zealand",0.229
+2001,"EN_ATM_CO2GDP","New Zealand",0.238
+2002,"EN_ATM_CO2GDP","New Zealand",0.226
+2003,"EN_ATM_CO2GDP","New Zealand",0.23
+2004,"EN_ATM_CO2GDP","New Zealand",0.217
+2005,"EN_ATM_CO2GDP","New Zealand",0.219
+2006,"EN_ATM_CO2GDP","New Zealand",0.213
+2007,"EN_ATM_CO2GDP","New Zealand",0.2
+2008,"EN_ATM_CO2GDP","New Zealand",0.207
+2009,"EN_ATM_CO2GDP","New Zealand",0.189
+2010,"EN_ATM_CO2GDP","New Zealand",0.186
+2011,"EN_ATM_CO2GDP","New Zealand",0.177
+2012,"EN_ATM_CO2GDP","New Zealand",0.184
+2013,"EN_ATM_CO2GDP","New Zealand",0.177
+2014,"EN_ATM_CO2GDP","New Zealand",0.171
+2015,"EN_ATM_CO2GDP","New Zealand",0.166
+2016,"EN_ATM_CO2GDP","New Zealand",0.155
+2017,"EN_ATM_CO2GDP","New Zealand",0.159
+2018,"EN_ATM_CO2GDP","New Zealand",0.151
+2019,"EN_ATM_CO2GDP","New Zealand",0.156
+2020,"EN_ATM_CO2GDP","New Zealand",0.145
+2000,"EN_ATM_CO2GDP","Norway",0.124
+2001,"EN_ATM_CO2GDP","Norway",0.126
+2002,"EN_ATM_CO2GDP","Norway",0.122
+2003,"EN_ATM_CO2GDP","Norway",0.131
+2004,"EN_ATM_CO2GDP","Norway",0.128
+2005,"EN_ATM_CO2GDP","Norway",0.121
+2006,"EN_ATM_CO2GDP","Norway",0.121
+2007,"EN_ATM_CO2GDP","Norway",0.12
+2008,"EN_ATM_CO2GDP","Norway",0.117
+2009,"EN_ATM_CO2GDP","Norway",0.12
+2010,"EN_ATM_CO2GDP","Norway",0.129
+2011,"EN_ATM_CO2GDP","Norway",0.124
+2012,"EN_ATM_CO2GDP","Norway",0.12
+2013,"EN_ATM_CO2GDP","Norway",0.121
+2014,"EN_ATM_CO2GDP","Norway",0.119
+2015,"EN_ATM_CO2GDP","Norway",0.119
+2016,"EN_ATM_CO2GDP","Norway",0.116
+2017,"EN_ATM_CO2GDP","Norway",0.112
+2018,"EN_ATM_CO2GDP","Norway",0.11
+2019,"EN_ATM_CO2GDP","Norway",0.106
+2020,"EN_ATM_CO2GDP","Norway",0.103
+2000,"EN_ATM_CO2GDP","Poland",0.466
+2001,"EN_ATM_CO2GDP","Poland",0.458
+2002,"EN_ATM_CO2GDP","Poland",0.44
+2003,"EN_ATM_CO2GDP","Poland",0.441
+2004,"EN_ATM_CO2GDP","Poland",0.425
+2005,"EN_ATM_CO2GDP","Poland",0.41
+2006,"EN_ATM_CO2GDP","Poland",0.402
+2007,"EN_ATM_CO2GDP","Poland",0.373
+2008,"EN_ATM_CO2GDP","Poland",0.352
+2009,"EN_ATM_CO2GDP","Poland",0.331
+2010,"EN_ATM_CO2GDP","Poland",0.337
+2011,"EN_ATM_CO2GDP","Poland",0.317
+2012,"EN_ATM_CO2GDP","Poland",0.306
+2013,"EN_ATM_CO2GDP","Poland",0.298
+2014,"EN_ATM_CO2GDP","Poland",0.276
+2015,"EN_ATM_CO2GDP","Poland",0.268
+2016,"EN_ATM_CO2GDP","Poland",0.269
+2017,"EN_ATM_CO2GDP","Poland",0.268
+2018,"EN_ATM_CO2GDP","Poland",0.253
+2019,"EN_ATM_CO2GDP","Poland",0.228
+2020,"EN_ATM_CO2GDP","Poland",0.221
+2000,"EN_ATM_CO2GDP","Portugal",0.185
+2001,"EN_ATM_CO2GDP","Portugal",0.181
+2002,"EN_ATM_CO2GDP","Portugal",0.192
+2003,"EN_ATM_CO2GDP","Portugal",0.179
+2004,"EN_ATM_CO2GDP","Portugal",0.179
+2005,"EN_ATM_CO2GDP","Portugal",0.188
+2006,"EN_ATM_CO2GDP","Portugal",0.17
+2007,"EN_ATM_CO2GDP","Portugal",0.161
+2008,"EN_ATM_CO2GDP","Portugal",0.155
+2009,"EN_ATM_CO2GDP","Portugal",0.161
+2010,"EN_ATM_CO2GDP","Portugal",0.141
+2011,"EN_ATM_CO2GDP","Portugal",0.142
+2012,"EN_ATM_CO2GDP","Portugal",0.144
+2013,"EN_ATM_CO2GDP","Portugal",0.139
+2014,"EN_ATM_CO2GDP","Portugal",0.135
+2015,"EN_ATM_CO2GDP","Portugal",0.146
+2016,"EN_ATM_CO2GDP","Portugal",0.141
+2017,"EN_ATM_CO2GDP","Portugal",0.149
+2018,"EN_ATM_CO2GDP","Portugal",0.135
+2019,"EN_ATM_CO2GDP","Portugal",0.118
+2020,"EN_ATM_CO2GDP","Portugal",0.111
+2000,"EN_ATM_CO2GDP","Romania",0.317
+2001,"EN_ATM_CO2GDP","Romania",0.323
+2002,"EN_ATM_CO2GDP","Romania",0.301
+2003,"EN_ATM_CO2GDP","Romania",0.308
+2004,"EN_ATM_CO2GDP","Romania",0.27
+2005,"EN_ATM_CO2GDP","Romania",0.255
+2006,"EN_ATM_CO2GDP","Romania",0.247
+2007,"EN_ATM_CO2GDP","Romania",0.223
+2008,"EN_ATM_CO2GDP","Romania",0.201
+2009,"EN_ATM_CO2GDP","Romania",0.181
+2010,"EN_ATM_CO2GDP","Romania",0.182
+2011,"EN_ATM_CO2GDP","Romania",0.193
+2012,"EN_ATM_CO2GDP","Romania",0.184
+2013,"EN_ATM_CO2GDP","Romania",0.156
+2014,"EN_ATM_CO2GDP","Romania",0.149
+2015,"EN_ATM_CO2GDP","Romania",0.148
+2016,"EN_ATM_CO2GDP","Romania",0.138
+2017,"EN_ATM_CO2GDP","Romania",0.133
+2018,"EN_ATM_CO2GDP","Romania",0.129
+2019,"EN_ATM_CO2GDP","Romania",0.121
+2020,"EN_ATM_CO2GDP","Romania",0.116
+2000,"EN_ATM_CO2GDP","Serbia",0.642
+2001,"EN_ATM_CO2GDP","Serbia",0.629
+2002,"EN_ATM_CO2GDP","Serbia",0.639
+2003,"EN_ATM_CO2GDP","Serbia",0.657
+2004,"EN_ATM_CO2GDP","Serbia",0.651
+2005,"EN_ATM_CO2GDP","Serbia",0.542
+2006,"EN_ATM_CO2GDP","Serbia",0.538
+2007,"EN_ATM_CO2GDP","Serbia",0.49
+2008,"EN_ATM_CO2GDP","Serbia",0.448
+2009,"EN_ATM_CO2GDP","Serbia",0.436
+2010,"EN_ATM_CO2GDP","Serbia",0.435
+2011,"EN_ATM_CO2GDP","Serbia",0.465
+2012,"EN_ATM_CO2GDP","Serbia",0.419
+2013,"EN_ATM_CO2GDP","Serbia",0.414
+2014,"EN_ATM_CO2GDP","Serbia",0.353
+2015,"EN_ATM_CO2GDP","Serbia",0.405
+2016,"EN_ATM_CO2GDP","Serbia",0.402
+2017,"EN_ATM_CO2GDP","Serbia",0.399
+2018,"EN_ATM_CO2GDP","Serbia",0.372
+2019,"EN_ATM_CO2GDP","Serbia",0.355
+2020,"EN_ATM_CO2GDP","Serbia",0.36
+2000,"EN_ATM_CO2GDP","Slovakia",0.437
+2001,"EN_ATM_CO2GDP","Slovakia",0.429
+2002,"EN_ATM_CO2GDP","Slovakia",0.405
+2003,"EN_ATM_CO2GDP","Slovakia",0.389
+2004,"EN_ATM_CO2GDP","Slovakia",0.358
+2005,"EN_ATM_CO2GDP","Slovakia",0.345
+2006,"EN_ATM_CO2GDP","Slovakia",0.312
+2007,"EN_ATM_CO2GDP","Slovakia",0.275
+2008,"EN_ATM_CO2GDP","Slovakia",0.259
+2009,"EN_ATM_CO2GDP","Slovakia",0.253
+2010,"EN_ATM_CO2GDP","Slovakia",0.251
+2011,"EN_ATM_CO2GDP","Slovakia",0.233
+2012,"EN_ATM_CO2GDP","Slovakia",0.218
+2013,"EN_ATM_CO2GDP","Slovakia",0.221
+2014,"EN_ATM_CO2GDP","Slovakia",0.197
+2015,"EN_ATM_CO2GDP","Slovakia",0.189
+2016,"EN_ATM_CO2GDP","Slovakia",0.19
+2017,"EN_ATM_CO2GDP","Slovakia",0.197
+2018,"EN_ATM_CO2GDP","Slovakia",0.187
+2019,"EN_ATM_CO2GDP","Slovakia",0.17
+2020,"EN_ATM_CO2GDP","Slovakia",0.166
+2000,"EN_ATM_CO2GDP","Viet Nam",0.152
+2001,"EN_ATM_CO2GDP","Viet Nam",0.158
+2002,"EN_ATM_CO2GDP","Viet Nam",0.174
+2003,"EN_ATM_CO2GDP","Viet Nam",0.171
+2004,"EN_ATM_CO2GDP","Viet Nam",0.194
+2005,"EN_ATM_CO2GDP","Viet Nam",0.195
+2006,"EN_ATM_CO2GDP","Viet Nam",0.187
+2007,"EN_ATM_CO2GDP","Viet Nam",0.193
+2008,"EN_ATM_CO2GDP","Viet Nam",0.205
+2009,"EN_ATM_CO2GDP","Viet Nam",0.216
+2010,"EN_ATM_CO2GDP","Viet Nam",0.229
+2011,"EN_ATM_CO2GDP","Viet Nam",0.215
+2012,"EN_ATM_CO2GDP","Viet Nam",0.202
+2013,"EN_ATM_CO2GDP","Viet Nam",0.201
+2014,"EN_ATM_CO2GDP","Viet Nam",0.209
+2015,"EN_ATM_CO2GDP","Viet Nam",0.221
+2016,"EN_ATM_CO2GDP","Viet Nam",0.23
+2017,"EN_ATM_CO2GDP","Viet Nam",0.218
+2018,"EN_ATM_CO2GDP","Viet Nam",0.258
+2019,"EN_ATM_CO2GDP","Viet Nam",0.29
+2020,"EN_ATM_CO2GDP","Viet Nam",0.292
+2000,"EN_ATM_CO2GDP","Slovenia",0.269
+2001,"EN_ATM_CO2GDP","Slovenia",0.276
+2002,"EN_ATM_CO2GDP","Slovenia",0.27
+2003,"EN_ATM_CO2GDP","Slovenia",0.26
+2004,"EN_ATM_CO2GDP","Slovenia",0.254
+2005,"EN_ATM_CO2GDP","Slovenia",0.248
+2006,"EN_ATM_CO2GDP","Slovenia",0.24
+2007,"EN_ATM_CO2GDP","Slovenia",0.223
+2008,"EN_ATM_CO2GDP","Slovenia",0.23
+2009,"EN_ATM_CO2GDP","Slovenia",0.224
+2010,"EN_ATM_CO2GDP","Slovenia",0.226
+2011,"EN_ATM_CO2GDP","Slovenia",0.223
+2012,"EN_ATM_CO2GDP","Slovenia",0.221
+2013,"EN_ATM_CO2GDP","Slovenia",0.213
+2014,"EN_ATM_CO2GDP","Slovenia",0.186
+2015,"EN_ATM_CO2GDP","Slovenia",0.183
+2016,"EN_ATM_CO2GDP","Slovenia",0.188
+2017,"EN_ATM_CO2GDP","Slovenia",0.182
+2018,"EN_ATM_CO2GDP","Slovenia",0.173
+2019,"EN_ATM_CO2GDP","Slovenia",0.162
+2020,"EN_ATM_CO2GDP","Slovenia",0.154
+2000,"EN_ATM_CO2GDP","Spain",0.198
+2001,"EN_ATM_CO2GDP","Spain",0.191
+2002,"EN_ATM_CO2GDP","Spain",0.197
+2003,"EN_ATM_CO2GDP","Spain",0.195
+2004,"EN_ATM_CO2GDP","Spain",0.2
+2005,"EN_ATM_CO2GDP","Spain",0.201
+2006,"EN_ATM_CO2GDP","Spain",0.188
+2007,"EN_ATM_CO2GDP","Spain",0.189
+2008,"EN_ATM_CO2GDP","Spain",0.172
+2009,"EN_ATM_CO2GDP","Spain",0.159
+2010,"EN_ATM_CO2GDP","Spain",0.151
+2011,"EN_ATM_CO2GDP","Spain",0.154
+2012,"EN_ATM_CO2GDP","Spain",0.156
+2013,"EN_ATM_CO2GDP","Spain",0.143
+2014,"EN_ATM_CO2GDP","Spain",0.139
+2015,"EN_ATM_CO2GDP","Spain",0.143
+2016,"EN_ATM_CO2GDP","Spain",0.134
+2017,"EN_ATM_CO2GDP","Spain",0.139
+2018,"EN_ATM_CO2GDP","Spain",0.132
+2019,"EN_ATM_CO2GDP","Spain",0.121
+2020,"EN_ATM_CO2GDP","Spain",0.113
+2000,"EN_ATM_CO2GDP","Sweden",0.144
+2001,"EN_ATM_CO2GDP","Sweden",0.14
+2002,"EN_ATM_CO2GDP","Sweden",0.141
+2003,"EN_ATM_CO2GDP","Sweden",0.141
+2004,"EN_ATM_CO2GDP","Sweden",0.131
+2005,"EN_ATM_CO2GDP","Sweden",0.119
+2006,"EN_ATM_CO2GDP","Sweden",0.11
+2007,"EN_ATM_CO2GDP","Sweden",0.103
+2008,"EN_ATM_CO2GDP","Sweden",0.101
+2009,"EN_ATM_CO2GDP","Sweden",0.098
+2010,"EN_ATM_CO2GDP","Sweden",0.104
+2011,"EN_ATM_CO2GDP","Sweden",0.093
+2012,"EN_ATM_CO2GDP","Sweden",0.088
+2013,"EN_ATM_CO2GDP","Sweden",0.084
+2014,"EN_ATM_CO2GDP","Sweden",0.079
+2015,"EN_ATM_CO2GDP","Sweden",0.075
+2016,"EN_ATM_CO2GDP","Sweden",0.073
+2017,"EN_ATM_CO2GDP","Sweden",0.07
+2018,"EN_ATM_CO2GDP","Sweden",0.064
+2019,"EN_ATM_CO2GDP","Sweden",0.062
+2020,"EN_ATM_CO2GDP","Sweden",0.061
+2000,"EN_ATM_CO2GDP","Switzerland",0.098
+2001,"EN_ATM_CO2GDP","Switzerland",0.1
+2002,"EN_ATM_CO2GDP","Switzerland",0.097
+2003,"EN_ATM_CO2GDP","Switzerland",0.1
+2004,"EN_ATM_CO2GDP","Switzerland",0.098
+2005,"EN_ATM_CO2GDP","Switzerland",0.096
+2006,"EN_ATM_CO2GDP","Switzerland",0.092
+2007,"EN_ATM_CO2GDP","Switzerland",0.084
+2008,"EN_ATM_CO2GDP","Switzerland",0.085
+2009,"EN_ATM_CO2GDP","Switzerland",0.084
+2010,"EN_ATM_CO2GDP","Switzerland",0.084
+2011,"EN_ATM_CO2GDP","Switzerland",0.075
+2012,"EN_ATM_CO2GDP","Switzerland",0.077
+2013,"EN_ATM_CO2GDP","Switzerland",0.077
+2014,"EN_ATM_CO2GDP","Switzerland",0.068
+2015,"EN_ATM_CO2GDP","Switzerland",0.066
+2016,"EN_ATM_CO2GDP","Switzerland",0.066
+2017,"EN_ATM_CO2GDP","Switzerland",0.063
+2018,"EN_ATM_CO2GDP","Switzerland",0.059
+2019,"EN_ATM_CO2GDP","Switzerland",0.059
+2020,"EN_ATM_CO2GDP","Switzerland",0.056
+2000,"EN_ATM_CO2GDP","Tajikistan",0.264
+2001,"EN_ATM_CO2GDP","Tajikistan",0.234
+2002,"EN_ATM_CO2GDP","Tajikistan",0.209
+2003,"EN_ATM_CO2GDP","Tajikistan",0.189
+2004,"EN_ATM_CO2GDP","Tajikistan",0.204
+2005,"EN_ATM_CO2GDP","Tajikistan",0.18
+2006,"EN_ATM_CO2GDP","Tajikistan",0.182
+2007,"EN_ATM_CO2GDP","Tajikistan",0.207
+2008,"EN_ATM_CO2GDP","Tajikistan",0.181
+2009,"EN_ATM_CO2GDP","Tajikistan",0.137
+2010,"EN_ATM_CO2GDP","Tajikistan",0.128
+2011,"EN_ATM_CO2GDP","Tajikistan",0.125
+2012,"EN_ATM_CO2GDP","Tajikistan",0.139
+2013,"EN_ATM_CO2GDP","Tajikistan",0.135
+2014,"EN_ATM_CO2GDP","Tajikistan",0.169
+2015,"EN_ATM_CO2GDP","Tajikistan",0.167
+2016,"EN_ATM_CO2GDP","Tajikistan",0.179
+2017,"EN_ATM_CO2GDP","Tajikistan",0.181
+2018,"EN_ATM_CO2GDP","Tajikistan",0.2
+2019,"EN_ATM_CO2GDP","Tajikistan",0.207
+2020,"EN_ATM_CO2GDP","Tajikistan",0.208
+2020,"EN_ATM_CO2GDP","Tajikistan",0.208

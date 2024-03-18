@@ -18,8 +18,6 @@ data_start_values :
     value: Turkmenistan
   - field: GeoAreaName
     value: Uzbekistan
-  - field: 'Poverty Line'
-    value: 'Poverty line at $3.65 a day (LMIC)'
 
 embedded_feature_footer : ''
 embedded_feature_html : ''
@@ -30,20 +28,17 @@ expected_disaggregations : []
 graph_annotations : []
 graph_limits : []
 graph_stacked_disaggregation : ''
-graph_title : regional_indicators.1-1-1-a-title
+graph_title : meta.name-1-1-1-a
 graph_titles : []
 graph_type : line
-indicator_name : regional_indicators.1-1-1-a-title
+indicator_name : meta.name-1-1-1-a
+national_geographical_coverage : custom.central_asia
 page_content : ''
 permalink : '/1-1-1-a/'
 precision : []
-reporting_status : complete
+reporting_status : notstarted
 sort : ''
 standalone : false
 tags : []
 indicator_number : 1-1-1-a
-# notstarted : reported
-tag : 
-  - custom.regional
-graph_target_lines : []
-national_geographical_coverage: custom.central_asia
+notstarted : reported

@@ -1,0 +1,1224 @@
+Year,SeriesCode,GeoAreaName,Value
+2001,"AG_XPD_AGSGB","Slovakia",4.28
+2002,"AG_XPD_AGSGB","Slovakia",2.63
+2003,"AG_XPD_AGSGB","Slovakia",2.57
+2004,"AG_XPD_AGSGB","Slovakia",2.83
+2005,"AG_XPD_AGSGB","Slovakia",3.59
+2006,"AG_XPD_AGSGB","Slovakia",3.25
+2007,"AG_XPD_AGSGB","Slovakia",3.23
+2008,"AG_XPD_AGSGB","Slovakia",3.49
+2009,"AG_XPD_AGSGB","Slovakia",4.08
+2010,"AG_XPD_AGSGB","Slovakia",3.85
+2011,"AG_XPD_AGSGB","Slovakia",3.67
+2012,"AG_XPD_AGSGB","Slovakia",0.8
+2013,"AG_XPD_AGSGB","Slovakia",0.84
+2014,"AG_XPD_AGSGB","Slovakia",0.77
+2015,"AG_XPD_AGSGB","Slovakia",0.86
+2016,"AG_XPD_AGSGB","Slovakia",0.6
+2017,"AG_XPD_AGSGB","Slovakia",0.56
+2018,"AG_XPD_AGSGB","Slovakia",0.54
+2019,"AG_XPD_AGSGB","Slovakia",0.62
+2020,"AG_XPD_AGSGB","Slovakia",0.65
+2021,"AG_XPD_AGSGB","Slovakia",0.61
+2001,"AG_XPD_AGSGB","Viet Nam",4.17
+2002,"AG_XPD_AGSGB","Viet Nam",4.24
+2003,"AG_XPD_AGSGB","Viet Nam",4.41
+2004,"AG_XPD_AGSGB","Viet Nam",4.7
+2005,"AG_XPD_AGSGB","Viet Nam",4.71
+2006,"AG_XPD_AGSGB","Viet Nam",3.48
+2007,"AG_XPD_AGSGB","Viet Nam",3.62
+2008,"AG_XPD_AGSGB","Viet Nam",3.44
+2009,"AG_XPD_AGSGB","Viet Nam",5.5
+2010,"AG_XPD_AGSGB","Viet Nam",5.04
+2011,"AG_XPD_AGSGB","Viet Nam",5.73
+2012,"AG_XPD_AGSGB","Viet Nam",5.34
+2013,"AG_XPD_AGSGB","Viet Nam",5.58
+2014,"AG_XPD_AGSGB","Viet Nam",5.26
+2015,"AG_XPD_AGSGB","Viet Nam",5.07
+2016,"AG_XPD_AGSGB","Viet Nam",4.97
+2017,"AG_XPD_AGSGB","Viet Nam",4.24
+2018,"AG_XPD_AGSGB","Viet Nam",4.84
+2019,"AG_XPD_AGSGB","Viet Nam",5.2
+2020,"AG_XPD_AGSGB","Viet Nam",5.03
+2021,"AG_XPD_AGSGB","Viet Nam",4.16
+2001,"AG_XPD_AGSGB","Slovenia",2.08
+2001,"AG_XPD_AGSGB","Chile",1.68
+2002,"AG_XPD_AGSGB","Chile",1.67
+2003,"AG_XPD_AGSGB","Chile",1.81
+2004,"AG_XPD_AGSGB","Chile",1.72
+2005,"AG_XPD_AGSGB","Chile",1.78
+2006,"AG_XPD_AGSGB","Chile",1.71
+2007,"AG_XPD_AGSGB","Chile",1.76
+2008,"AG_XPD_AGSGB","Chile",1.81
+2009,"AG_XPD_AGSGB","Chile",1.76
+2010,"AG_XPD_AGSGB","Chile",1.59
+2011,"AG_XPD_AGSGB","Chile",1.57
+2012,"AG_XPD_AGSGB","Chile",1.54
+2002,"AG_XPD_AGSGB","Slovenia",2.25
+2003,"AG_XPD_AGSGB","Slovenia",2.39
+2004,"AG_XPD_AGSGB","Slovenia",2.01
+2005,"AG_XPD_AGSGB","Slovenia",1.51
+2006,"AG_XPD_AGSGB","Slovenia",1.63
+2007,"AG_XPD_AGSGB","Slovenia",1.54
+2008,"AG_XPD_AGSGB","Slovenia",1.65
+2009,"AG_XPD_AGSGB","Slovenia",1.41
+2010,"AG_XPD_AGSGB","Slovenia",1.04
+2011,"AG_XPD_AGSGB","Slovenia",1.03
+2012,"AG_XPD_AGSGB","Slovenia",1.17
+2013,"AG_XPD_AGSGB","Slovenia",1.02
+2013,"AG_XPD_AGSGB","Chile",1.55
+2014,"AG_XPD_AGSGB","Chile",1.54
+2015,"AG_XPD_AGSGB","Chile",1.53
+2016,"AG_XPD_AGSGB","Chile",1.57
+2017,"AG_XPD_AGSGB","Chile",1.5
+2018,"AG_XPD_AGSGB","Chile",1.38
+2019,"AG_XPD_AGSGB","Chile",1.36
+2020,"AG_XPD_AGSGB","Chile",1.18
+2021,"AG_XPD_AGSGB","Chile",1.04
+2001,"AG_XPD_AGSGB","China",8.14
+2002,"AG_XPD_AGSGB","China",8.08
+2003,"AG_XPD_AGSGB","China",8.1
+2014,"AG_XPD_AGSGB","Slovenia",0.95
+2015,"AG_XPD_AGSGB","Slovenia",1.21
+2016,"AG_XPD_AGSGB","Slovenia",1.01
+2017,"AG_XPD_AGSGB","Slovenia",1.08
+2018,"AG_XPD_AGSGB","Slovenia",1.14
+2019,"AG_XPD_AGSGB","Slovenia",1.26
+2020,"AG_XPD_AGSGB","Slovenia",1.13
+2021,"AG_XPD_AGSGB","Slovenia",1.09
+2001,"AG_XPD_AGSGB","Spain",1.68
+2002,"AG_XPD_AGSGB","Spain",1.59
+2003,"AG_XPD_AGSGB","Spain",1.59
+2004,"AG_XPD_AGSGB","Spain",1.6
+2005,"AG_XPD_AGSGB","Spain",1.6
+2006,"AG_XPD_AGSGB","Spain",1.54
+2007,"AG_XPD_AGSGB","Spain",1.54
+2008,"AG_XPD_AGSGB","Spain",1.51
+2009,"AG_XPD_AGSGB","Spain",1.22
+2010,"AG_XPD_AGSGB","Spain",1.1
+2011,"AG_XPD_AGSGB","Spain",1
+2012,"AG_XPD_AGSGB","Spain",0.82
+2013,"AG_XPD_AGSGB","Spain",0.87
+2014,"AG_XPD_AGSGB","Spain",0.81
+2015,"AG_XPD_AGSGB","Spain",0.87
+2016,"AG_XPD_AGSGB","Spain",0.71
+2004,"AG_XPD_AGSGB","China",8.3
+2005,"AG_XPD_AGSGB","China",8.58
+2006,"AG_XPD_AGSGB","China",8.86
+2007,"AG_XPD_AGSGB","China",6.84
+2008,"AG_XPD_AGSGB","China",7.26
+2009,"AG_XPD_AGSGB","China",8.81
+2010,"AG_XPD_AGSGB","China",9.05
+2011,"AG_XPD_AGSGB","China",9.1
+2012,"AG_XPD_AGSGB","China",9.51
+2013,"AG_XPD_AGSGB","China",9.52
+2014,"AG_XPD_AGSGB","China",9.34
+2015,"AG_XPD_AGSGB","China",9.88
+2016,"AG_XPD_AGSGB","China",9.9
+2017,"AG_XPD_AGSGB","China",9.4
+2018,"AG_XPD_AGSGB","China",9.55
+2019,"AG_XPD_AGSGB","China",9.57
+2020,"AG_XPD_AGSGB","China",9.75
+2021,"AG_XPD_AGSGB","China",8.99
+2009,"AG_XPD_AGSGB","Colombia",0.84
+2010,"AG_XPD_AGSGB","Colombia",1.01
+2011,"AG_XPD_AGSGB","Colombia",0.69
+2012,"AG_XPD_AGSGB","Colombia",1.23
+2013,"AG_XPD_AGSGB","Colombia",0.89
+2014,"AG_XPD_AGSGB","Colombia",0.95
+2015,"AG_XPD_AGSGB","Colombia",0.97
+2016,"AG_XPD_AGSGB","Colombia",0.83
+2017,"AG_XPD_AGSGB","Colombia",0.79
+2018,"AG_XPD_AGSGB","Colombia",0.68
+2017,"AG_XPD_AGSGB","Spain",0.74
+2018,"AG_XPD_AGSGB","Spain",0.79
+2019,"AG_XPD_AGSGB","Spain",0.83
+2020,"AG_XPD_AGSGB","Spain",0.77
+2021,"AG_XPD_AGSGB","Spain",0.78
+2001,"AG_XPD_AGSGB","Sweden",0.33
+2002,"AG_XPD_AGSGB","Sweden",0.37
+2003,"AG_XPD_AGSGB","Sweden",0.36
+2004,"AG_XPD_AGSGB","Sweden",0.32
+2005,"AG_XPD_AGSGB","Sweden",0.43
+2006,"AG_XPD_AGSGB","Sweden",0.38
+2007,"AG_XPD_AGSGB","Sweden",0.32
+2001,"AG_XPD_AGSGB","Albania",2.93
+2002,"AG_XPD_AGSGB","Albania",3.72
+2003,"AG_XPD_AGSGB","Albania",2.46
+2004,"AG_XPD_AGSGB","Albania",2.12
+2005,"AG_XPD_AGSGB","Albania",2.14
+2006,"AG_XPD_AGSGB","Albania",2.16
+2007,"AG_XPD_AGSGB","Albania",2.16
+2008,"AG_XPD_AGSGB","Albania",1.65
+2009,"AG_XPD_AGSGB","Albania",1.65
+2010,"AG_XPD_AGSGB","Albania",1.69
+2011,"AG_XPD_AGSGB","Albania",1.66
+2012,"AG_XPD_AGSGB","Albania",1.57
+2008,"AG_XPD_AGSGB","Sweden",0.37
+2009,"AG_XPD_AGSGB","Sweden",0.36
+2010,"AG_XPD_AGSGB","Sweden",0.36
+2011,"AG_XPD_AGSGB","Sweden",0.34
+2012,"AG_XPD_AGSGB","Sweden",0.33
+2013,"AG_XPD_AGSGB","Sweden",0.32
+2014,"AG_XPD_AGSGB","Sweden",0.31
+2015,"AG_XPD_AGSGB","Sweden",0.27
+2016,"AG_XPD_AGSGB","Sweden",0.27
+2017,"AG_XPD_AGSGB","Sweden",0.26
+2018,"AG_XPD_AGSGB","Sweden",0.3
+2019,"AG_XPD_AGSGB","Sweden",0.29
+2020,"AG_XPD_AGSGB","Sweden",0.23
+2021,"AG_XPD_AGSGB","Sweden",0.27
+2001,"AG_XPD_AGSGB","Switzerland",3.23
+2002,"AG_XPD_AGSGB","Switzerland",3.02
+2003,"AG_XPD_AGSGB","Switzerland",2.99
+2004,"AG_XPD_AGSGB","Switzerland",2.87
+2005,"AG_XPD_AGSGB","Switzerland",2.77
+2006,"AG_XPD_AGSGB","Switzerland",2.76
+2007,"AG_XPD_AGSGB","Switzerland",2.69
+2008,"AG_XPD_AGSGB","Switzerland",2.45
+2009,"AG_XPD_AGSGB","Switzerland",2.44
+2010,"AG_XPD_AGSGB","Switzerland",2.36
+2019,"AG_XPD_AGSGB","Colombia",0.72
+2020,"AG_XPD_AGSGB","Colombia",0.73
+2021,"AG_XPD_AGSGB","Colombia",0.66
+2001,"AG_XPD_AGSGB","Costa Rica",2.52
+2002,"AG_XPD_AGSGB","Costa Rica",2.13
+2003,"AG_XPD_AGSGB","Costa Rica",2.42
+2004,"AG_XPD_AGSGB","Costa Rica",1.72
+2005,"AG_XPD_AGSGB","Costa Rica",2.37
+2006,"AG_XPD_AGSGB","Costa Rica",2.93
+2007,"AG_XPD_AGSGB","Costa Rica",3.83
+2008,"AG_XPD_AGSGB","Costa Rica",4.36
+2009,"AG_XPD_AGSGB","Costa Rica",4.54
+2011,"AG_XPD_AGSGB","Switzerland",2.34
+2012,"AG_XPD_AGSGB","Switzerland",2.32
+2013,"AG_XPD_AGSGB","Switzerland",2.22
+2014,"AG_XPD_AGSGB","Switzerland",2.23
+2015,"AG_XPD_AGSGB","Switzerland",2.2
+2016,"AG_XPD_AGSGB","Switzerland",2.14
+2017,"AG_XPD_AGSGB","Switzerland",2.11
+2018,"AG_XPD_AGSGB","Switzerland",2.12
+2019,"AG_XPD_AGSGB","Switzerland",2.08
+2020,"AG_XPD_AGSGB","Switzerland",1.87
+2021,"AG_XPD_AGSGB","Switzerland",2.06
+2001,"AG_XPD_AGSGB","Tajikistan",2.49
+2013,"AG_XPD_AGSGB","Albania",1.74
+2014,"AG_XPD_AGSGB","Albania",1.74
+2015,"AG_XPD_AGSGB","Albania",1.95
+2016,"AG_XPD_AGSGB","Albania",2.95
+2017,"AG_XPD_AGSGB","Albania",2.21
+2018,"AG_XPD_AGSGB","Albania",2.2
+2019,"AG_XPD_AGSGB","Albania",2.04
+2020,"AG_XPD_AGSGB","Albania",2.09
+2021,"AG_XPD_AGSGB","Albania",2.75
+2001,"AG_XPD_AGSGB","Azerbaijan",2.75
+2002,"AG_XPD_AGSGB","Azerbaijan",2.77
+2003,"AG_XPD_AGSGB","Azerbaijan",2.77
+2010,"AG_XPD_AGSGB","Costa Rica",6
+2011,"AG_XPD_AGSGB","Costa Rica",5.78
+2012,"AG_XPD_AGSGB","Costa Rica",6.86
+2013,"AG_XPD_AGSGB","Costa Rica",2.78
+2014,"AG_XPD_AGSGB","Costa Rica",1.41
+2015,"AG_XPD_AGSGB","Costa Rica",1.39
+2016,"AG_XPD_AGSGB","Costa Rica",1.25
+2017,"AG_XPD_AGSGB","Costa Rica",1.17
+2018,"AG_XPD_AGSGB","Costa Rica",1.15
+2019,"AG_XPD_AGSGB","Costa Rica",1.06
+2020,"AG_XPD_AGSGB","Costa Rica",0.99
+2021,"AG_XPD_AGSGB","Costa Rica",1.12
+2002,"AG_XPD_AGSGB","Tajikistan",3.05
+2003,"AG_XPD_AGSGB","Tajikistan",2.95
+2004,"AG_XPD_AGSGB","Tajikistan",3.09
+2005,"AG_XPD_AGSGB","Tajikistan",2.7
+2006,"AG_XPD_AGSGB","Tajikistan",2.5
+2007,"AG_XPD_AGSGB","Tajikistan",2.2
+2008,"AG_XPD_AGSGB","Tajikistan",1.96
+2009,"AG_XPD_AGSGB","Tajikistan",1.56
+2010,"AG_XPD_AGSGB","Tajikistan",1.38
+2011,"AG_XPD_AGSGB","Tajikistan",3.51
+2012,"AG_XPD_AGSGB","Tajikistan",2.58
+2001,"AG_XPD_AGSGB","Croatia",2.36
+2002,"AG_XPD_AGSGB","Croatia",2.49
+2003,"AG_XPD_AGSGB","Croatia",2.33
+2004,"AG_XPD_AGSGB","Croatia",2.92
+2005,"AG_XPD_AGSGB","Croatia",2.64
+2006,"AG_XPD_AGSGB","Croatia",2.51
+2007,"AG_XPD_AGSGB","Croatia",2.64
+2008,"AG_XPD_AGSGB","Croatia",2.94
+2009,"AG_XPD_AGSGB","Croatia",2.62
+2010,"AG_XPD_AGSGB","Croatia",2.95
+2011,"AG_XPD_AGSGB","Croatia",2.67
+2012,"AG_XPD_AGSGB","Croatia",2.76
+2004,"AG_XPD_AGSGB","Azerbaijan",2.79
+2005,"AG_XPD_AGSGB","Azerbaijan",2.74
+2006,"AG_XPD_AGSGB","Azerbaijan",2.68
+2007,"AG_XPD_AGSGB","Azerbaijan",2.65
+2008,"AG_XPD_AGSGB","Azerbaijan",2.53
+2009,"AG_XPD_AGSGB","Azerbaijan",3.43
+2010,"AG_XPD_AGSGB","Azerbaijan",2.78
+2011,"AG_XPD_AGSGB","Azerbaijan",2.67
+2012,"AG_XPD_AGSGB","Azerbaijan",2.45
+2013,"AG_XPD_AGSGB","Azerbaijan",2.38
+2014,"AG_XPD_AGSGB","Azerbaijan",2.44
+2015,"AG_XPD_AGSGB","Azerbaijan",2.79
+2013,"AG_XPD_AGSGB","Tajikistan",2.14
+2014,"AG_XPD_AGSGB","Tajikistan",2.06
+2015,"AG_XPD_AGSGB","Tajikistan",0.65
+2016,"AG_XPD_AGSGB","Tajikistan",0.61
+2017,"AG_XPD_AGSGB","Tajikistan",0.74
+2018,"AG_XPD_AGSGB","Tajikistan",0.59
+2019,"AG_XPD_AGSGB","Tajikistan",0.66
+2020,"AG_XPD_AGSGB","Tajikistan",0.66
+2021,"AG_XPD_AGSGB","Tajikistan",0.65
+2016,"AG_XPD_AGSGB","Azerbaijan",3.06
+2017,"AG_XPD_AGSGB","Azerbaijan",2.48
+2018,"AG_XPD_AGSGB","Azerbaijan",3.47
+2019,"AG_XPD_AGSGB","Azerbaijan",2.87
+2020,"AG_XPD_AGSGB","Azerbaijan",3.03
+2021,"AG_XPD_AGSGB","Azerbaijan",2.98
+2001,"AG_XPD_AGSGB","Australia",1.49
+2002,"AG_XPD_AGSGB","Australia",1.45
+2003,"AG_XPD_AGSGB","Australia",1.47
+2004,"AG_XPD_AGSGB","Australia",1.38
+2005,"AG_XPD_AGSGB","Australia",1.14
+2006,"AG_XPD_AGSGB","Australia",1.42
+2012,"AG_XPD_AGSGB","United Arab Emirates",0.16
+2013,"AG_XPD_AGSGB","United Arab Emirates",0.11
+2014,"AG_XPD_AGSGB","United Arab Emirates",0.16
+2015,"AG_XPD_AGSGB","United Arab Emirates",0.13
+2007,"AG_XPD_AGSGB","Australia",1.41
+2008,"AG_XPD_AGSGB","Australia",1.62
+2009,"AG_XPD_AGSGB","Australia",1.2
+2010,"AG_XPD_AGSGB","Australia",1.14
+2011,"AG_XPD_AGSGB","Australia",1.02
+2012,"AG_XPD_AGSGB","Australia",0.91
+2013,"AG_XPD_AGSGB","Australia",0.79
+2014,"AG_XPD_AGSGB","Australia",0.71
+2015,"AG_XPD_AGSGB","Australia",0.64
+2016,"AG_XPD_AGSGB","Australia",0.67
+2017,"AG_XPD_AGSGB","Australia",0.65
+2018,"AG_XPD_AGSGB","Australia",0.63
+2013,"AG_XPD_AGSGB","Croatia",2.04
+2014,"AG_XPD_AGSGB","Croatia",1.92
+2015,"AG_XPD_AGSGB","Croatia",1.53
+2016,"AG_XPD_AGSGB","Croatia",1.52
+2017,"AG_XPD_AGSGB","Croatia",1.54
+2018,"AG_XPD_AGSGB","Croatia",1.28
+2019,"AG_XPD_AGSGB","Croatia",1.19
+2020,"AG_XPD_AGSGB","Croatia",1.01
+2021,"AG_XPD_AGSGB","Croatia",1.31
+2001,"AG_XPD_AGSGB","Cyprus",5.45
+2002,"AG_XPD_AGSGB","Cyprus",4.48
+2016,"AG_XPD_AGSGB","United Arab Emirates",0.14
+2017,"AG_XPD_AGSGB","United Arab Emirates",0.14
+2018,"AG_XPD_AGSGB","United Arab Emirates",0.14
+2019,"AG_XPD_AGSGB","United Arab Emirates",0.14
+2020,"AG_XPD_AGSGB","United Arab Emirates",0.82
+2021,"AG_XPD_AGSGB","United Arab Emirates",0.84
+2001,"AG_XPD_AGSGB","Türkiye",3.77
+2002,"AG_XPD_AGSGB","Türkiye",3.75
+2003,"AG_XPD_AGSGB","Türkiye",3.67
+2004,"AG_XPD_AGSGB","Türkiye",3.52
+2005,"AG_XPD_AGSGB","Türkiye",3.39
+2003,"AG_XPD_AGSGB","Cyprus",4.29
+2004,"AG_XPD_AGSGB","Cyprus",4.3
+2005,"AG_XPD_AGSGB","Cyprus",3.27
+2006,"AG_XPD_AGSGB","Cyprus",2.88
+2007,"AG_XPD_AGSGB","Cyprus",2.62
+2008,"AG_XPD_AGSGB","Cyprus",2.77
+2009,"AG_XPD_AGSGB","Cyprus",1.9
+2010,"AG_XPD_AGSGB","Cyprus",2.08
+2011,"AG_XPD_AGSGB","Cyprus",1.84
+2012,"AG_XPD_AGSGB","Cyprus",1.69
+2013,"AG_XPD_AGSGB","Cyprus",1.8
+2014,"AG_XPD_AGSGB","Cyprus",1.48
+2019,"AG_XPD_AGSGB","Australia",0.64
+2020,"AG_XPD_AGSGB","Australia",0.56
+2021,"AG_XPD_AGSGB","Australia",0.59
+2001,"AG_XPD_AGSGB","Austria",1.15
+2002,"AG_XPD_AGSGB","Austria",1.25
+2003,"AG_XPD_AGSGB","Austria",1.26
+2004,"AG_XPD_AGSGB","Austria",1.08
+2005,"AG_XPD_AGSGB","Austria",1.11
+2006,"AG_XPD_AGSGB","Austria",1.04
+2007,"AG_XPD_AGSGB","Austria",0.93
+2008,"AG_XPD_AGSGB","Austria",0.95
+2009,"AG_XPD_AGSGB","Austria",0.91
+2006,"AG_XPD_AGSGB","Türkiye",4.07
+2007,"AG_XPD_AGSGB","Türkiye",4.19
+2008,"AG_XPD_AGSGB","Türkiye",4.31
+2009,"AG_XPD_AGSGB","Türkiye",3.05
+2010,"AG_XPD_AGSGB","Türkiye",2.99
+2011,"AG_XPD_AGSGB","Türkiye",3.24
+2012,"AG_XPD_AGSGB","Türkiye",3.37
+2013,"AG_XPD_AGSGB","Türkiye",2.97
+2014,"AG_XPD_AGSGB","Türkiye",3.1
+2015,"AG_XPD_AGSGB","Türkiye",3.06
+2016,"AG_XPD_AGSGB","Türkiye",2.79
+2017,"AG_XPD_AGSGB","Türkiye",3.02
+2010,"AG_XPD_AGSGB","Austria",0.87
+2011,"AG_XPD_AGSGB","Austria",0.83
+2012,"AG_XPD_AGSGB","Austria",0.8
+2013,"AG_XPD_AGSGB","Austria",0.81
+2014,"AG_XPD_AGSGB","Austria",0.76
+2015,"AG_XPD_AGSGB","Austria",0.71
+2016,"AG_XPD_AGSGB","Austria",0.69
+2017,"AG_XPD_AGSGB","Austria",0.7
+2018,"AG_XPD_AGSGB","Austria",0.7
+2019,"AG_XPD_AGSGB","Austria",0.69
+2020,"AG_XPD_AGSGB","Austria",0.69
+2021,"AG_XPD_AGSGB","Austria",0.69
+2015,"AG_XPD_AGSGB","Cyprus",1.68
+2016,"AG_XPD_AGSGB","Cyprus",2.02
+2017,"AG_XPD_AGSGB","Cyprus",1.48
+2018,"AG_XPD_AGSGB","Cyprus",1.23
+2019,"AG_XPD_AGSGB","Cyprus",1.47
+2020,"AG_XPD_AGSGB","Cyprus",1.39
+2021,"AG_XPD_AGSGB","Cyprus",1.39
+2001,"AG_XPD_AGSGB","Czechia",2.3
+2002,"AG_XPD_AGSGB","Czechia",2.32
+2003,"AG_XPD_AGSGB","Czechia",2.39
+2004,"AG_XPD_AGSGB","Czechia",2.52
+2005,"AG_XPD_AGSGB","Czechia",3.09
+2006,"AG_XPD_AGSGB","Czechia",3.08
+2007,"AG_XPD_AGSGB","Czechia",3.36
+2008,"AG_XPD_AGSGB","Czechia",3.18
+2009,"AG_XPD_AGSGB","Czechia",3.53
+2010,"AG_XPD_AGSGB","Czechia",3.15
+2011,"AG_XPD_AGSGB","Czechia",2.97
+2012,"AG_XPD_AGSGB","Czechia",2.97
+2013,"AG_XPD_AGSGB","Czechia",2.65
+2014,"AG_XPD_AGSGB","Czechia",3.02
+2015,"AG_XPD_AGSGB","Czechia",2.63
+2016,"AG_XPD_AGSGB","Czechia",3.1
+2017,"AG_XPD_AGSGB","Czechia",3.07
+2018,"AG_XPD_AGSGB","Czechia",1.25
+2019,"AG_XPD_AGSGB","Czechia",1.41
+2020,"AG_XPD_AGSGB","Czechia",2.69
+2021,"AG_XPD_AGSGB","Czechia",2.6
+2001,"AG_XPD_AGSGB","Denmark",0.19
+2002,"AG_XPD_AGSGB","Denmark",0.29
+2003,"AG_XPD_AGSGB","Denmark",0.29
+2004,"AG_XPD_AGSGB","Denmark",0.22
+2005,"AG_XPD_AGSGB","Denmark",0.23
+2006,"AG_XPD_AGSGB","Denmark",0.24
+2007,"AG_XPD_AGSGB","Denmark",0.21
+2008,"AG_XPD_AGSGB","Denmark",0.27
+2018,"AG_XPD_AGSGB","Türkiye",2.63
+2019,"AG_XPD_AGSGB","Türkiye",2.73
+2020,"AG_XPD_AGSGB","Türkiye",2.73
+2021,"AG_XPD_AGSGB","Türkiye",2.35
+2001,"AG_XPD_AGSGB","Ukraine",1.41
+2002,"AG_XPD_AGSGB","Ukraine",3.17
+2003,"AG_XPD_AGSGB","Ukraine",4.9
+2004,"AG_XPD_AGSGB","Ukraine",2.13
+2005,"AG_XPD_AGSGB","Ukraine",1.97
+2006,"AG_XPD_AGSGB","Ukraine",2.13
+2007,"AG_XPD_AGSGB","Ukraine",2.21
+2008,"AG_XPD_AGSGB","Ukraine",2.23
+2009,"AG_XPD_AGSGB","Denmark",0.32
+2010,"AG_XPD_AGSGB","Denmark",0.24
+2011,"AG_XPD_AGSGB","Denmark",0.38
+2012,"AG_XPD_AGSGB","Denmark",0.36
+2013,"AG_XPD_AGSGB","Denmark",0.3
+2014,"AG_XPD_AGSGB","Denmark",0.31
+2015,"AG_XPD_AGSGB","Denmark",0.27
+2016,"AG_XPD_AGSGB","Denmark",0.28
+2017,"AG_XPD_AGSGB","Denmark",0.3
+2018,"AG_XPD_AGSGB","Denmark",0.31
+2019,"AG_XPD_AGSGB","Denmark",0.36
+2020,"AG_XPD_AGSGB","Denmark",0.49
+2001,"AG_XPD_AGSGB","Armenia",3.76
+2002,"AG_XPD_AGSGB","Armenia",3.78
+2003,"AG_XPD_AGSGB","Armenia",3.77
+2004,"AG_XPD_AGSGB","Armenia",3.74
+2005,"AG_XPD_AGSGB","Armenia",3.74
+2006,"AG_XPD_AGSGB","Armenia",3.87
+2007,"AG_XPD_AGSGB","Armenia",3.82
+2008,"AG_XPD_AGSGB","Armenia",3.44
+2009,"AG_XPD_AGSGB","Armenia",3.84
+2010,"AG_XPD_AGSGB","Armenia",4.17
+2011,"AG_XPD_AGSGB","Armenia",4.26
+2009,"AG_XPD_AGSGB","Ukraine",1.42
+2010,"AG_XPD_AGSGB","Ukraine",1.4
+2011,"AG_XPD_AGSGB","Ukraine",1.3
+2012,"AG_XPD_AGSGB","Ukraine",1.1
+2013,"AG_XPD_AGSGB","Ukraine",1.11
+2014,"AG_XPD_AGSGB","Ukraine",0.83
+2015,"AG_XPD_AGSGB","Ukraine",0.72
+2016,"AG_XPD_AGSGB","Ukraine",0.6
+2017,"AG_XPD_AGSGB","Ukraine",1.05
+2018,"AG_XPD_AGSGB","Ukraine",0.95
+2019,"AG_XPD_AGSGB","Ukraine",0.88
+2020,"AG_XPD_AGSGB","Ukraine",0.78
+2021,"AG_XPD_AGSGB","Ukraine",0.77
+2012,"AG_XPD_AGSGB","Armenia",2.2
+2013,"AG_XPD_AGSGB","Armenia",1.61
+2014,"AG_XPD_AGSGB","Armenia",1.68
+2015,"AG_XPD_AGSGB","Armenia",2.44
+2016,"AG_XPD_AGSGB","Armenia",3.31
+2017,"AG_XPD_AGSGB","Armenia",2.49
+2018,"AG_XPD_AGSGB","Armenia",1.84
+2019,"AG_XPD_AGSGB","Armenia",2.01
+2020,"AG_XPD_AGSGB","Armenia",1.75
+2021,"AG_XPD_AGSGB","Armenia",2.34
+2001,"AG_XPD_AGSGB","Belgium",0.25
+2002,"AG_XPD_AGSGB","Belgium",0.18
+2019,"AG_XPD_AGSGB","North Macedonia",4.57
+2020,"AG_XPD_AGSGB","North Macedonia",4.43
+2001,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.87
+2002,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.51
+2003,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.5
+2021,"AG_XPD_AGSGB","Denmark",0.62
+2001,"AG_XPD_AGSGB","Estonia",2.1
+2002,"AG_XPD_AGSGB","Estonia",2.27
+2003,"AG_XPD_AGSGB","Estonia",2.41
+2004,"AG_XPD_AGSGB","Estonia",2.03
+2005,"AG_XPD_AGSGB","Estonia",1.62
+2006,"AG_XPD_AGSGB","Estonia",1.76
+2007,"AG_XPD_AGSGB","Estonia",2.32
+2008,"AG_XPD_AGSGB","Estonia",1.86
+2009,"AG_XPD_AGSGB","Estonia",2.48
+2010,"AG_XPD_AGSGB","Estonia",1.51
+2011,"AG_XPD_AGSGB","Estonia",1.73
+2003,"AG_XPD_AGSGB","Belgium",0.18
+2004,"AG_XPD_AGSGB","Belgium",0.2
+2005,"AG_XPD_AGSGB","Belgium",0.19
+2006,"AG_XPD_AGSGB","Belgium",0.18
+2007,"AG_XPD_AGSGB","Belgium",0.18
+2008,"AG_XPD_AGSGB","Belgium",0.18
+2009,"AG_XPD_AGSGB","Belgium",0.12
+2010,"AG_XPD_AGSGB","Belgium",0.12
+2011,"AG_XPD_AGSGB","Belgium",0.09
+2012,"AG_XPD_AGSGB","Belgium",0.1
+2013,"AG_XPD_AGSGB","Belgium",0.11
+2014,"AG_XPD_AGSGB","Belgium",0.12
+2004,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.52
+2005,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.56
+2006,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.53
+2007,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.47
+2008,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.38
+2009,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.36
+2010,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.36
+2011,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.38
+2012,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.32
+2013,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.31
+2014,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.3
+2012,"AG_XPD_AGSGB","Estonia",1.65
+2013,"AG_XPD_AGSGB","Estonia",1.8
+2014,"AG_XPD_AGSGB","Estonia",1.33
+2015,"AG_XPD_AGSGB","Estonia",1.29
+2016,"AG_XPD_AGSGB","Estonia",1.33
+2017,"AG_XPD_AGSGB","Estonia",1.41
+2018,"AG_XPD_AGSGB","Estonia",1.21
+2019,"AG_XPD_AGSGB","Estonia",1.11
+2020,"AG_XPD_AGSGB","Estonia",0.91
+2021,"AG_XPD_AGSGB","Estonia",1.19
+2001,"AG_XPD_AGSGB","Finland",2.38
+2002,"AG_XPD_AGSGB","Finland",2.35
+2015,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.29
+2016,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.28
+2017,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.28
+2018,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.28
+2019,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.28
+2020,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.47
+2021,"AG_XPD_AGSGB","United Kingdom of Great Britain and Northern Ireland",0.34
+2001,"AG_XPD_AGSGB","Uzbekistan",5.46
+2002,"AG_XPD_AGSGB","Uzbekistan",5.47
+2003,"AG_XPD_AGSGB","Uzbekistan",5.47
+2004,"AG_XPD_AGSGB","Uzbekistan",5.43
+2015,"AG_XPD_AGSGB","Belgium",0.16
+2016,"AG_XPD_AGSGB","Belgium",0.16
+2017,"AG_XPD_AGSGB","Belgium",0.16
+2018,"AG_XPD_AGSGB","Belgium",0.15
+2019,"AG_XPD_AGSGB","Belgium",0.14
+2020,"AG_XPD_AGSGB","Belgium",0.15
+2021,"AG_XPD_AGSGB","Belgium",0.15
+2001,"AG_XPD_AGSGB","Bulgaria",1.86
+2002,"AG_XPD_AGSGB","Bulgaria",2.64
+2003,"AG_XPD_AGSGB","Bulgaria",2.68
+2004,"AG_XPD_AGSGB","Bulgaria",2.55
+2005,"AG_XPD_AGSGB","Bulgaria",2.84
+2006,"AG_XPD_AGSGB","Bulgaria",3.38
+2007,"AG_XPD_AGSGB","Bulgaria",2.44
+2008,"AG_XPD_AGSGB","Bulgaria",1.98
+2009,"AG_XPD_AGSGB","Bulgaria",1.63
+2010,"AG_XPD_AGSGB","Bulgaria",1.24
+2011,"AG_XPD_AGSGB","Bulgaria",3.55
+2012,"AG_XPD_AGSGB","Bulgaria",4.1
+2013,"AG_XPD_AGSGB","Bulgaria",3.6
+2014,"AG_XPD_AGSGB","Bulgaria",3.39
+2015,"AG_XPD_AGSGB","Bulgaria",4.57
+2016,"AG_XPD_AGSGB","Bulgaria",2.45
+2017,"AG_XPD_AGSGB","Bulgaria",2.47
+2003,"AG_XPD_AGSGB","Finland",2.31
+2004,"AG_XPD_AGSGB","Finland",2.25
+2005,"AG_XPD_AGSGB","Finland",2.33
+2006,"AG_XPD_AGSGB","Finland",2.35
+2007,"AG_XPD_AGSGB","Finland",2.15
+2008,"AG_XPD_AGSGB","Finland",1.98
+2009,"AG_XPD_AGSGB","Finland",1.89
+2010,"AG_XPD_AGSGB","Finland",1.89
+2011,"AG_XPD_AGSGB","Finland",1.86
+2012,"AG_XPD_AGSGB","Finland",1.68
+2013,"AG_XPD_AGSGB","Finland",1.53
+2014,"AG_XPD_AGSGB","Finland",1.47
+2015,"AG_XPD_AGSGB","Finland",1.35
+2016,"AG_XPD_AGSGB","Finland",1.34
+2017,"AG_XPD_AGSGB","Finland",1.31
+2018,"AG_XPD_AGSGB","Finland",1.31
+2019,"AG_XPD_AGSGB","Finland",1.3
+2020,"AG_XPD_AGSGB","Finland",1.28
+2021,"AG_XPD_AGSGB","Finland",1.31
+2001,"AG_XPD_AGSGB","France",0.69
+2002,"AG_XPD_AGSGB","France",0.71
+2003,"AG_XPD_AGSGB","France",0.69
+2004,"AG_XPD_AGSGB","France",0.78
+2005,"AG_XPD_AGSGB","France",0.79
+2005,"AG_XPD_AGSGB","Uzbekistan",5.44
+2006,"AG_XPD_AGSGB","Uzbekistan",5.47
+2007,"AG_XPD_AGSGB","Uzbekistan",5.53
+2008,"AG_XPD_AGSGB","Uzbekistan",5.46
+2009,"AG_XPD_AGSGB","Uzbekistan",5.34
+2010,"AG_XPD_AGSGB","Uzbekistan",5.24
+2011,"AG_XPD_AGSGB","Uzbekistan",5.96
+2012,"AG_XPD_AGSGB","Uzbekistan",5.43
+2013,"AG_XPD_AGSGB","Uzbekistan",5.22
+2014,"AG_XPD_AGSGB","Uzbekistan",5.24
+2015,"AG_XPD_AGSGB","Uzbekistan",5.14
+2016,"AG_XPD_AGSGB","Uzbekistan",5.3
+2018,"AG_XPD_AGSGB","Bulgaria",2.4
+2019,"AG_XPD_AGSGB","Bulgaria",2.37
+2020,"AG_XPD_AGSGB","Bulgaria",2.17
+2021,"AG_XPD_AGSGB","Bulgaria",1.38
+2001,"AG_XPD_AGSGB","Belarus",11.27
+2002,"AG_XPD_AGSGB","Belarus",10.19
+2003,"AG_XPD_AGSGB","Belarus",8.53
+2004,"AG_XPD_AGSGB","Belarus",8.76
+2005,"AG_XPD_AGSGB","Belarus",9.51
+2006,"AG_XPD_AGSGB","Belarus",9.44
+2007,"AG_XPD_AGSGB","Belarus",8.74
+2008,"AG_XPD_AGSGB","Belarus",7.64
+2009,"AG_XPD_AGSGB","Belarus",8.84
+2010,"AG_XPD_AGSGB","Belarus",7.89
+2011,"AG_XPD_AGSGB","Belarus",8.4
+2012,"AG_XPD_AGSGB","Belarus",6.8
+2013,"AG_XPD_AGSGB","Belarus",2.79
+2014,"AG_XPD_AGSGB","Belarus",6.04
+2015,"AG_XPD_AGSGB","Belarus",5.71
+2016,"AG_XPD_AGSGB","Belarus",5.97
+2017,"AG_XPD_AGSGB","Belarus",4.98
+2018,"AG_XPD_AGSGB","Belarus",4.54
+2019,"AG_XPD_AGSGB","Belarus",5.21
+2006,"AG_XPD_AGSGB","France",0.78
+2007,"AG_XPD_AGSGB","France",0.74
+2008,"AG_XPD_AGSGB","France",0.73
+2009,"AG_XPD_AGSGB","France",0.74
+2010,"AG_XPD_AGSGB","France",0.75
+2011,"AG_XPD_AGSGB","France",0.69
+2012,"AG_XPD_AGSGB","France",0.38
+2013,"AG_XPD_AGSGB","France",0.35
+2014,"AG_XPD_AGSGB","France",0.37
+2015,"AG_XPD_AGSGB","France",0.45
+2016,"AG_XPD_AGSGB","France",0.39
+2017,"AG_XPD_AGSGB","France",0.42
+2020,"AG_XPD_AGSGB","Belarus",4.69
+2021,"AG_XPD_AGSGB","Belarus",5.21
+2001,"AG_XPD_AGSGB","Canada",1.28
+2002,"AG_XPD_AGSGB","Canada",1.28
+2003,"AG_XPD_AGSGB","Canada",1.27
+2004,"AG_XPD_AGSGB","Canada",1.27
+2005,"AG_XPD_AGSGB","Canada",1.28
+2006,"AG_XPD_AGSGB","Canada",1.28
+2007,"AG_XPD_AGSGB","Canada",1.27
+2008,"AG_XPD_AGSGB","Canada",1.25
+2009,"AG_XPD_AGSGB","Canada",1.29
+2010,"AG_XPD_AGSGB","Canada",1.3
+2018,"AG_XPD_AGSGB","France",0.41
+2019,"AG_XPD_AGSGB","France",0.39
+2020,"AG_XPD_AGSGB","France",0.37
+2021,"AG_XPD_AGSGB","France",0.39
+2001,"AG_XPD_AGSGB","Georgia",1.47
+2002,"AG_XPD_AGSGB","Georgia",1.49
+2003,"AG_XPD_AGSGB","Georgia",1.13
+2004,"AG_XPD_AGSGB","Georgia",1.45
+2005,"AG_XPD_AGSGB","Georgia",1.96
+2006,"AG_XPD_AGSGB","Georgia",2.15
+2007,"AG_XPD_AGSGB","Georgia",1.37
+2008,"AG_XPD_AGSGB","Georgia",1.38
+2009,"AG_XPD_AGSGB","Georgia",1.14
+2010,"AG_XPD_AGSGB","Georgia",0.54
+2011,"AG_XPD_AGSGB","Georgia",0.57
+2012,"AG_XPD_AGSGB","Georgia",3.01
+2013,"AG_XPD_AGSGB","Georgia",2.48
+2014,"AG_XPD_AGSGB","Georgia",3.32
+2015,"AG_XPD_AGSGB","Georgia",2.72
+2016,"AG_XPD_AGSGB","Georgia",2.29
+2017,"AG_XPD_AGSGB","Georgia",1.89
+2018,"AG_XPD_AGSGB","Georgia",1.77
+2019,"AG_XPD_AGSGB","Georgia",2.23
+2020,"AG_XPD_AGSGB","Georgia",2.59
+2021,"AG_XPD_AGSGB","Georgia",2.89
+2001,"AG_XPD_AGSGB","Germany",0.69
+2002,"AG_XPD_AGSGB","Germany",0.64
+2003,"AG_XPD_AGSGB","Germany",0.57
+2004,"AG_XPD_AGSGB","Germany",0.62
+2005,"AG_XPD_AGSGB","Germany",0.49
+2006,"AG_XPD_AGSGB","Germany",0.52
+2007,"AG_XPD_AGSGB","Germany",0.55
+2008,"AG_XPD_AGSGB","Germany",0.48
+2009,"AG_XPD_AGSGB","Germany",0.43
+2010,"AG_XPD_AGSGB","Germany",0.47
+2011,"AG_XPD_AGSGB","Germany",0.51
+2012,"AG_XPD_AGSGB","Germany",0.46
+2013,"AG_XPD_AGSGB","Germany",0.44
+2014,"AG_XPD_AGSGB","Germany",0.49
+2015,"AG_XPD_AGSGB","Germany",0.44
+2016,"AG_XPD_AGSGB","Germany",0.43
+2017,"AG_XPD_AGSGB","Germany",0.44
+2018,"AG_XPD_AGSGB","Germany",0.46
+2019,"AG_XPD_AGSGB","Germany",0.43
+2020,"AG_XPD_AGSGB","Germany",0.42
+2021,"AG_XPD_AGSGB","Germany",0.43
+2001,"AG_XPD_AGSGB","Greece",0.26
+2002,"AG_XPD_AGSGB","Greece",0.27
+2003,"AG_XPD_AGSGB","Greece",0.28
+2004,"AG_XPD_AGSGB","Greece",0.3
+2005,"AG_XPD_AGSGB","Greece",0.29
+2006,"AG_XPD_AGSGB","Greece",0.11
+2007,"AG_XPD_AGSGB","Greece",0.23
+2008,"AG_XPD_AGSGB","Greece",0.14
+2009,"AG_XPD_AGSGB","Greece",0.71
+2010,"AG_XPD_AGSGB","Greece",0.24
+2011,"AG_XPD_AGSGB","Greece",0.19
+2012,"AG_XPD_AGSGB","Greece",0.22
+2013,"AG_XPD_AGSGB","Greece",0.24
+2014,"AG_XPD_AGSGB","Greece",0.33
+2015,"AG_XPD_AGSGB","Greece",0.44
+2016,"AG_XPD_AGSGB","Greece",0.5
+2017,"AG_XPD_AGSGB","Greece",0.48
+2018,"AG_XPD_AGSGB","Greece",0.53
+2019,"AG_XPD_AGSGB","Greece",0.5
+2020,"AG_XPD_AGSGB","Greece",0.8
+2021,"AG_XPD_AGSGB","Greece",0.56
+2001,"AG_XPD_AGSGB","Hungary",3.57
+2002,"AG_XPD_AGSGB","Hungary",4.5
+2003,"AG_XPD_AGSGB","Hungary",3.36
+2004,"AG_XPD_AGSGB","Hungary",2.99
+2005,"AG_XPD_AGSGB","Hungary",2.56
+2006,"AG_XPD_AGSGB","Hungary",2.39
+2007,"AG_XPD_AGSGB","Hungary",2.34
+2008,"AG_XPD_AGSGB","Hungary",1.44
+2009,"AG_XPD_AGSGB","Hungary",1.59
+2010,"AG_XPD_AGSGB","Hungary",0.95
+2011,"AG_XPD_AGSGB","Hungary",1.04
+2012,"AG_XPD_AGSGB","Hungary",1.02
+2013,"AG_XPD_AGSGB","Hungary",0.91
+2014,"AG_XPD_AGSGB","Hungary",1.22
+2015,"AG_XPD_AGSGB","Hungary",1.06
+2016,"AG_XPD_AGSGB","Hungary",1.03
+2017,"AG_XPD_AGSGB","Hungary",1.1
+2018,"AG_XPD_AGSGB","Hungary",0.87
+2019,"AG_XPD_AGSGB","Hungary",1.01
+2020,"AG_XPD_AGSGB","Hungary",1.1
+2021,"AG_XPD_AGSGB","Hungary",1.02
+2001,"AG_XPD_AGSGB","Iceland",3.66
+2002,"AG_XPD_AGSGB","Iceland",3.48
+2003,"AG_XPD_AGSGB","Iceland",3.4
+2004,"AG_XPD_AGSGB","Iceland",3.08
+2005,"AG_XPD_AGSGB","Iceland",3.23
+2006,"AG_XPD_AGSGB","Iceland",2.46
+2007,"AG_XPD_AGSGB","Iceland",2.32
+2008,"AG_XPD_AGSGB","Iceland",1.71
+2009,"AG_XPD_AGSGB","Iceland",2.29
+2010,"AG_XPD_AGSGB","Iceland",2.25
+2011,"AG_XPD_AGSGB","Iceland",2.39
+2012,"AG_XPD_AGSGB","Iceland",2.44
+2013,"AG_XPD_AGSGB","Iceland",2.18
+2014,"AG_XPD_AGSGB","Iceland",1.99
+2015,"AG_XPD_AGSGB","Iceland",1.95
+2016,"AG_XPD_AGSGB","Iceland",1.72
+2017,"AG_XPD_AGSGB","Iceland",1.79
+2018,"AG_XPD_AGSGB","Iceland",1.69
+2019,"AG_XPD_AGSGB","Iceland",1.6
+2020,"AG_XPD_AGSGB","Iceland",1.43
+2021,"AG_XPD_AGSGB","Iceland",1.44
+2001,"AG_XPD_AGSGB","India",7.66
+2002,"AG_XPD_AGSGB","India",6.7
+2003,"AG_XPD_AGSGB","India",6.79
+2004,"AG_XPD_AGSGB","India",6.51
+2005,"AG_XPD_AGSGB","India",6.8
+2006,"AG_XPD_AGSGB","India",7.62
+2007,"AG_XPD_AGSGB","India",8.67
+2008,"AG_XPD_AGSGB","India",10.35
+2009,"AG_XPD_AGSGB","India",8.69
+2010,"AG_XPD_AGSGB","India",8.51
+2011,"AG_XPD_AGSGB","India",8.42
+2012,"AG_XPD_AGSGB","India",8.03
+2013,"AG_XPD_AGSGB","India",8.41
+2014,"AG_XPD_AGSGB","India",7.7
+2015,"AG_XPD_AGSGB","India",7.79
+2016,"AG_XPD_AGSGB","India",6.93
+2017,"AG_XPD_AGSGB","India",7.47
+2018,"AG_XPD_AGSGB","India",7.5
+2019,"AG_XPD_AGSGB","India",7.5
+2020,"AG_XPD_AGSGB","India",7.09
+2021,"AG_XPD_AGSGB","India",7.23
+2001,"AG_XPD_AGSGB","Ireland",3.05
+2002,"AG_XPD_AGSGB","Ireland",2.48
+2003,"AG_XPD_AGSGB","Ireland",2.14
+2004,"AG_XPD_AGSGB","Ireland",1.94
+2005,"AG_XPD_AGSGB","Ireland",1.88
+2006,"AG_XPD_AGSGB","Ireland",1.65
+2007,"AG_XPD_AGSGB","Ireland",1.81
+2008,"AG_XPD_AGSGB","Ireland",2.87
+2009,"AG_XPD_AGSGB","Ireland",1.3
+2010,"AG_XPD_AGSGB","Ireland",0.79
+2011,"AG_XPD_AGSGB","Ireland",0.96
+2012,"AG_XPD_AGSGB","Ireland",1.22
+2013,"AG_XPD_AGSGB","Ireland",1.01
+2014,"AG_XPD_AGSGB","Ireland",1.02
+2015,"AG_XPD_AGSGB","Ireland",1.03
+2016,"AG_XPD_AGSGB","Ireland",1.04
+2017,"AG_XPD_AGSGB","Ireland",1.07
+2018,"AG_XPD_AGSGB","Ireland",1.08
+2019,"AG_XPD_AGSGB","Ireland",1.05
+2020,"AG_XPD_AGSGB","Ireland",0.96
+2021,"AG_XPD_AGSGB","Ireland",1.04
+2001,"AG_XPD_AGSGB","Israel",0.69
+2002,"AG_XPD_AGSGB","Israel",0.61
+2003,"AG_XPD_AGSGB","Israel",0.61
+2004,"AG_XPD_AGSGB","Israel",0.46
+2005,"AG_XPD_AGSGB","Israel",0.41
+2006,"AG_XPD_AGSGB","Israel",0.43
+2007,"AG_XPD_AGSGB","Israel",0.5
+2008,"AG_XPD_AGSGB","Israel",0.41
+2009,"AG_XPD_AGSGB","Israel",0.4
+2010,"AG_XPD_AGSGB","Israel",0.37
+2011,"AG_XPD_AGSGB","Israel",0.37
+2012,"AG_XPD_AGSGB","Israel",0.43
+2013,"AG_XPD_AGSGB","Israel",0.39
+2014,"AG_XPD_AGSGB","Israel",0.5
+2015,"AG_XPD_AGSGB","Israel",0.44
+2016,"AG_XPD_AGSGB","Israel",0.38
+2017,"AG_XPD_AGSGB","Israel",0.38
+2018,"AG_XPD_AGSGB","Israel",0.36
+2019,"AG_XPD_AGSGB","Israel",0.43
+2020,"AG_XPD_AGSGB","Israel",0.3
+2021,"AG_XPD_AGSGB","Israel",0.3
+2001,"AG_XPD_AGSGB","Italy",1.2
+2002,"AG_XPD_AGSGB","Italy",1.21
+2003,"AG_XPD_AGSGB","Italy",0.88
+2004,"AG_XPD_AGSGB","Italy",0.86
+2005,"AG_XPD_AGSGB","Italy",0.78
+2006,"AG_XPD_AGSGB","Italy",0.88
+2007,"AG_XPD_AGSGB","Italy",0.78
+2008,"AG_XPD_AGSGB","Italy",0.71
+2009,"AG_XPD_AGSGB","Italy",0.71
+2010,"AG_XPD_AGSGB","Italy",0.69
+2011,"AG_XPD_AGSGB","Italy",0.74
+2012,"AG_XPD_AGSGB","Italy",0.56
+2013,"AG_XPD_AGSGB","Italy",0.59
+2014,"AG_XPD_AGSGB","Italy",0.58
+2015,"AG_XPD_AGSGB","Italy",0.45
+2016,"AG_XPD_AGSGB","Italy",0.42
+2017,"AG_XPD_AGSGB","Italy",0.41
+2018,"AG_XPD_AGSGB","Italy",0.4
+2019,"AG_XPD_AGSGB","Italy",0.48
+2020,"AG_XPD_AGSGB","Italy",0.53
+2021,"AG_XPD_AGSGB","Italy",0.45
+2001,"AG_XPD_AGSGB","Japan",2.43
+2002,"AG_XPD_AGSGB","Japan",2.41
+2003,"AG_XPD_AGSGB","Japan",2.39
+2004,"AG_XPD_AGSGB","Japan",2.38
+2005,"AG_XPD_AGSGB","Japan",2.66
+2006,"AG_XPD_AGSGB","Japan",2.4
+2007,"AG_XPD_AGSGB","Japan",2.42
+2008,"AG_XPD_AGSGB","Japan",2.39
+2009,"AG_XPD_AGSGB","Japan",2.32
+2010,"AG_XPD_AGSGB","Japan",2.34
+2011,"AG_XPD_AGSGB","Japan",2.32
+2012,"AG_XPD_AGSGB","Japan",2.36
+2013,"AG_XPD_AGSGB","Japan",2.45
+2014,"AG_XPD_AGSGB","Japan",2.28
+2015,"AG_XPD_AGSGB","Japan",2.25
+2016,"AG_XPD_AGSGB","Japan",2.16
+2017,"AG_XPD_AGSGB","Japan",2.25
+2018,"AG_XPD_AGSGB","Japan",2.23
+2019,"AG_XPD_AGSGB","Japan",2.25
+2020,"AG_XPD_AGSGB","Japan",2.07
+2021,"AG_XPD_AGSGB","Japan",2.19
+2001,"AG_XPD_AGSGB","Kazakhstan",2.75
+2002,"AG_XPD_AGSGB","Kazakhstan",3.19
+2003,"AG_XPD_AGSGB","Kazakhstan",4.16
+2004,"AG_XPD_AGSGB","Kazakhstan",4.96
+2005,"AG_XPD_AGSGB","Kazakhstan",3.67
+2006,"AG_XPD_AGSGB","Kazakhstan",3.91
+2007,"AG_XPD_AGSGB","Kazakhstan",4.06
+2008,"AG_XPD_AGSGB","Kazakhstan",4.74
+2009,"AG_XPD_AGSGB","Kazakhstan",3.7
+2010,"AG_XPD_AGSGB","Kazakhstan",3.88
+2011,"AG_XPD_AGSGB","Kazakhstan",4.2
+2012,"AG_XPD_AGSGB","Kazakhstan",4.03
+2013,"AG_XPD_AGSGB","Kazakhstan",3.3
+2014,"AG_XPD_AGSGB","Kazakhstan",4.07
+2015,"AG_XPD_AGSGB","Kazakhstan",4.32
+2016,"AG_XPD_AGSGB","Kazakhstan",4.57
+2017,"AG_XPD_AGSGB","Kazakhstan",4.35
+2018,"AG_XPD_AGSGB","Kazakhstan",4.25
+2019,"AG_XPD_AGSGB","Kazakhstan",5.13
+2020,"AG_XPD_AGSGB","Kazakhstan",4.64
+2021,"AG_XPD_AGSGB","Kazakhstan",4.24
+2001,"AG_XPD_AGSGB","Republic of Korea",5.7
+2002,"AG_XPD_AGSGB","Republic of Korea",5.18
+2003,"AG_XPD_AGSGB","Republic of Korea",4.91
+2004,"AG_XPD_AGSGB","Republic of Korea",4.44
+2005,"AG_XPD_AGSGB","Republic of Korea",4.5
+2006,"AG_XPD_AGSGB","Republic of Korea",5.1
+2007,"AG_XPD_AGSGB","Republic of Korea",4.8
+2008,"AG_XPD_AGSGB","Republic of Korea",4.71
+2009,"AG_XPD_AGSGB","Republic of Korea",4.25
+2010,"AG_XPD_AGSGB","Republic of Korea",4.47
+2011,"AG_XPD_AGSGB","Republic of Korea",4.76
+2012,"AG_XPD_AGSGB","Republic of Korea",4.27
+2013,"AG_XPD_AGSGB","Republic of Korea",4.07
+2014,"AG_XPD_AGSGB","Republic of Korea",3.72
+2015,"AG_XPD_AGSGB","Republic of Korea",4.13
+2016,"AG_XPD_AGSGB","Republic of Korea",4.04
+2017,"AG_XPD_AGSGB","Republic of Korea",4
+2018,"AG_XPD_AGSGB","Republic of Korea",4.05
+2019,"AG_XPD_AGSGB","Republic of Korea",3.41
+2020,"AG_XPD_AGSGB","Republic of Korea",3.17
+2021,"AG_XPD_AGSGB","Republic of Korea",3.66
+2001,"AG_XPD_AGSGB","Kyrgyzstan",4.18
+2002,"AG_XPD_AGSGB","Kyrgyzstan",4.2
+2003,"AG_XPD_AGSGB","Kyrgyzstan",3.97
+2004,"AG_XPD_AGSGB","Kyrgyzstan",4.09
+2005,"AG_XPD_AGSGB","Kyrgyzstan",3.78
+2006,"AG_XPD_AGSGB","Kyrgyzstan",4.99
+2007,"AG_XPD_AGSGB","Kyrgyzstan",3.01
+2008,"AG_XPD_AGSGB","Kyrgyzstan",1.67
+2009,"AG_XPD_AGSGB","Kyrgyzstan",1.56
+2010,"AG_XPD_AGSGB","Kyrgyzstan",1.37
+2011,"AG_XPD_AGSGB","Kyrgyzstan",1.03
+2012,"AG_XPD_AGSGB","Kyrgyzstan",0.89
+2013,"AG_XPD_AGSGB","Kyrgyzstan",1.47
+2014,"AG_XPD_AGSGB","Kyrgyzstan",0.87
+2015,"AG_XPD_AGSGB","Kyrgyzstan",0.91
+2016,"AG_XPD_AGSGB","Kyrgyzstan",0.87
+2017,"AG_XPD_AGSGB","Kyrgyzstan",0.89
+2018,"AG_XPD_AGSGB","Kyrgyzstan",0.94
+2019,"AG_XPD_AGSGB","Kyrgyzstan",0.81
+2020,"AG_XPD_AGSGB","Kyrgyzstan",1.02
+2021,"AG_XPD_AGSGB","Kyrgyzstan",0.94
+2001,"AG_XPD_AGSGB","Latvia",2.79
+2002,"AG_XPD_AGSGB","Latvia",2.83
+2003,"AG_XPD_AGSGB","Latvia",2.83
+2004,"AG_XPD_AGSGB","Latvia",2.64
+2005,"AG_XPD_AGSGB","Latvia",2.37
+2006,"AG_XPD_AGSGB","Latvia",2.2
+2007,"AG_XPD_AGSGB","Latvia",2.75
+2008,"AG_XPD_AGSGB","Latvia",4.33
+2009,"AG_XPD_AGSGB","Latvia",2.81
+2010,"AG_XPD_AGSGB","Latvia",3.17
+2011,"AG_XPD_AGSGB","Latvia",0.95
+2012,"AG_XPD_AGSGB","Latvia",1.46
+2013,"AG_XPD_AGSGB","Latvia",1.02
+2014,"AG_XPD_AGSGB","Latvia",1.33
+2015,"AG_XPD_AGSGB","Latvia",0.95
+2016,"AG_XPD_AGSGB","Latvia",1.09
+2017,"AG_XPD_AGSGB","Latvia",1.14
+2018,"AG_XPD_AGSGB","Latvia",1.04
+2019,"AG_XPD_AGSGB","Latvia",1.09
+2020,"AG_XPD_AGSGB","Latvia",1.52
+2021,"AG_XPD_AGSGB","Latvia",1.19
+2001,"AG_XPD_AGSGB","Lithuania",3.41
+2002,"AG_XPD_AGSGB","Lithuania",3.33
+2003,"AG_XPD_AGSGB","Lithuania",3.19
+2004,"AG_XPD_AGSGB","Lithuania",3.84
+2005,"AG_XPD_AGSGB","Lithuania",3.22
+2006,"AG_XPD_AGSGB","Lithuania",3.6
+2007,"AG_XPD_AGSGB","Lithuania",3.72
+2008,"AG_XPD_AGSGB","Lithuania",3.07
+2009,"AG_XPD_AGSGB","Lithuania",3.02
+2010,"AG_XPD_AGSGB","Lithuania",2.93
+2011,"AG_XPD_AGSGB","Lithuania",2.47
+2012,"AG_XPD_AGSGB","Lithuania",2.67
+2013,"AG_XPD_AGSGB","Lithuania",2.55
+2014,"AG_XPD_AGSGB","Lithuania",2.56
+2015,"AG_XPD_AGSGB","Lithuania",2.73
+2016,"AG_XPD_AGSGB","Lithuania",2.15
+2017,"AG_XPD_AGSGB","Lithuania",1.84
+2018,"AG_XPD_AGSGB","Lithuania",1.53
+2019,"AG_XPD_AGSGB","Lithuania",1.42
+2020,"AG_XPD_AGSGB","Lithuania",1.46
+2021,"AG_XPD_AGSGB","Lithuania",1.47
+2001,"AG_XPD_AGSGB","Luxembourg",1.32
+2002,"AG_XPD_AGSGB","Luxembourg",1.28
+2003,"AG_XPD_AGSGB","Luxembourg",1.37
+2004,"AG_XPD_AGSGB","Luxembourg",1.22
+2005,"AG_XPD_AGSGB","Luxembourg",1.06
+2006,"AG_XPD_AGSGB","Luxembourg",1.03
+2007,"AG_XPD_AGSGB","Luxembourg",1.02
+2008,"AG_XPD_AGSGB","Luxembourg",0.92
+2009,"AG_XPD_AGSGB","Luxembourg",1.09
+2010,"AG_XPD_AGSGB","Luxembourg",1.04
+2011,"AG_XPD_AGSGB","Luxembourg",1.07
+2012,"AG_XPD_AGSGB","Luxembourg",0.93
+2013,"AG_XPD_AGSGB","Luxembourg",0.84
+2014,"AG_XPD_AGSGB","Luxembourg",0.8
+2015,"AG_XPD_AGSGB","Luxembourg",0.85
+2016,"AG_XPD_AGSGB","Luxembourg",0.68
+2017,"AG_XPD_AGSGB","Luxembourg",0.66
+2018,"AG_XPD_AGSGB","Luxembourg",0.75
+2019,"AG_XPD_AGSGB","Luxembourg",0.72
+2020,"AG_XPD_AGSGB","Luxembourg",0.68
+2021,"AG_XPD_AGSGB","Luxembourg",0.74
+2001,"AG_XPD_AGSGB","Malta",1.46
+2002,"AG_XPD_AGSGB","Malta",1.6
+2003,"AG_XPD_AGSGB","Malta",1.66
+2004,"AG_XPD_AGSGB","Malta",2.43
+2005,"AG_XPD_AGSGB","Malta",2.49
+2006,"AG_XPD_AGSGB","Malta",2.38
+2007,"AG_XPD_AGSGB","Malta",2
+2008,"AG_XPD_AGSGB","Malta",1.8
+2009,"AG_XPD_AGSGB","Malta",1.91
+2010,"AG_XPD_AGSGB","Malta",1.73
+2011,"AG_XPD_AGSGB","Malta",1.55
+2012,"AG_XPD_AGSGB","Malta",1.46
+2013,"AG_XPD_AGSGB","Malta",1.35
+2014,"AG_XPD_AGSGB","Malta",1.19
+2015,"AG_XPD_AGSGB","Malta",1.33
+2016,"AG_XPD_AGSGB","Malta",1.26
+2017,"AG_XPD_AGSGB","Malta",1.09
+2018,"AG_XPD_AGSGB","Malta",1.32
+2019,"AG_XPD_AGSGB","Malta",1.03
+2020,"AG_XPD_AGSGB","Malta",0.93
+2021,"AG_XPD_AGSGB","Malta",1.09
+2001,"AG_XPD_AGSGB","Mexico",3.41
+2002,"AG_XPD_AGSGB","Mexico",7.41
+2003,"AG_XPD_AGSGB","Mexico",3.56
+2004,"AG_XPD_AGSGB","Mexico",3.43
+2005,"AG_XPD_AGSGB","Mexico",3.46
+2006,"AG_XPD_AGSGB","Mexico",3.13
+2007,"AG_XPD_AGSGB","Mexico",3.48
+2008,"AG_XPD_AGSGB","Mexico",3.38
+2009,"AG_XPD_AGSGB","Mexico",3.51
+2010,"AG_XPD_AGSGB","Mexico",3.42
+2011,"AG_XPD_AGSGB","Mexico",3.29
+2012,"AG_XPD_AGSGB","Mexico",2.99
+2013,"AG_XPD_AGSGB","Mexico",2.84
+2014,"AG_XPD_AGSGB","Mexico",2.77
+2015,"AG_XPD_AGSGB","Mexico",2.63
+2016,"AG_XPD_AGSGB","Mexico",2.32
+2017,"AG_XPD_AGSGB","Mexico",1.73
+2018,"AG_XPD_AGSGB","Mexico",1.79
+2019,"AG_XPD_AGSGB","Mexico",1.33
+2020,"AG_XPD_AGSGB","Mexico",0.97
+2021,"AG_XPD_AGSGB","Mexico",1.01
+2001,"AG_XPD_AGSGB","Republic of Moldova",1.4
+2002,"AG_XPD_AGSGB","Republic of Moldova",1.73
+2003,"AG_XPD_AGSGB","Republic of Moldova",1.63
+2004,"AG_XPD_AGSGB","Republic of Moldova",2.21
+2005,"AG_XPD_AGSGB","Republic of Moldova",4.98
+2006,"AG_XPD_AGSGB","Republic of Moldova",3.79
+2007,"AG_XPD_AGSGB","Republic of Moldova",5.5
+2008,"AG_XPD_AGSGB","Republic of Moldova",4.78
+2009,"AG_XPD_AGSGB","Republic of Moldova",3.79
+2010,"AG_XPD_AGSGB","Republic of Moldova",2.92
+2011,"AG_XPD_AGSGB","Republic of Moldova",2.63
+2012,"AG_XPD_AGSGB","Republic of Moldova",3.59
+2013,"AG_XPD_AGSGB","Republic of Moldova",3.59
+2014,"AG_XPD_AGSGB","Republic of Moldova",3.33
+2015,"AG_XPD_AGSGB","Republic of Moldova",4.84
+2016,"AG_XPD_AGSGB","Republic of Moldova",2.77
+2017,"AG_XPD_AGSGB","Republic of Moldova",3.02
+2018,"AG_XPD_AGSGB","Republic of Moldova",2.45
+2019,"AG_XPD_AGSGB","Republic of Moldova",2.53
+2020,"AG_XPD_AGSGB","Republic of Moldova",2.9
+2021,"AG_XPD_AGSGB","Republic of Moldova",2.71
+2001,"AG_XPD_AGSGB","Montenegro",0.88
+2002,"AG_XPD_AGSGB","Montenegro",0.51
+2003,"AG_XPD_AGSGB","Montenegro",0.89
+2004,"AG_XPD_AGSGB","Montenegro",1.02
+2005,"AG_XPD_AGSGB","Montenegro",0.96
+2006,"AG_XPD_AGSGB","Montenegro",0.67
+2007,"AG_XPD_AGSGB","Montenegro",0.7
+2008,"AG_XPD_AGSGB","Montenegro",0.89
+2009,"AG_XPD_AGSGB","Montenegro",0.8
+2010,"AG_XPD_AGSGB","Montenegro",0.71
+2011,"AG_XPD_AGSGB","Montenegro",0.63
+2012,"AG_XPD_AGSGB","Montenegro",0.64
+2013,"AG_XPD_AGSGB","Montenegro",0.54
+2014,"AG_XPD_AGSGB","Montenegro",0.53
+2015,"AG_XPD_AGSGB","Montenegro",0.61
+2016,"AG_XPD_AGSGB","Montenegro",0.58
+2017,"AG_XPD_AGSGB","Montenegro",0.57
+2018,"AG_XPD_AGSGB","Montenegro",0.57
+2019,"AG_XPD_AGSGB","Montenegro",0.57
+2020,"AG_XPD_AGSGB","Montenegro",0.57
+2021,"AG_XPD_AGSGB","Montenegro",0.57
+2001,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.73
+2002,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.63
+2003,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.71
+2004,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.54
+2005,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.48
+2006,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.5
+2007,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.43
+2008,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.43
+2009,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.44
+2010,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.48
+2011,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.42
+2012,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.37
+2013,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.36
+2014,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.18
+2015,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.31
+2016,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.27
+2017,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.26
+2018,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.28
+2019,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.3
+2020,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.37
+2021,"AG_XPD_AGSGB","Netherlands (Kingdom of the)",0.31
+2001,"AG_XPD_AGSGB","New Zealand",1.48
+2002,"AG_XPD_AGSGB","New Zealand",1.49
+2003,"AG_XPD_AGSGB","New Zealand",1.59
+2004,"AG_XPD_AGSGB","New Zealand",1.4
+2005,"AG_XPD_AGSGB","New Zealand",1.38
+2006,"AG_XPD_AGSGB","New Zealand",1.79
+2007,"AG_XPD_AGSGB","New Zealand",1.77
+2008,"AG_XPD_AGSGB","New Zealand",1.7
+2009,"AG_XPD_AGSGB","New Zealand",1.56
+2010,"AG_XPD_AGSGB","New Zealand",1.38
+2011,"AG_XPD_AGSGB","New Zealand",1.15
+2012,"AG_XPD_AGSGB","New Zealand",1.01
+2013,"AG_XPD_AGSGB","New Zealand",0.89
+2014,"AG_XPD_AGSGB","New Zealand",0.8
+2015,"AG_XPD_AGSGB","New Zealand",0.5
+2016,"AG_XPD_AGSGB","New Zealand",0.76
+2017,"AG_XPD_AGSGB","New Zealand",0.76
+2018,"AG_XPD_AGSGB","New Zealand",0.97
+2019,"AG_XPD_AGSGB","New Zealand",1.23
+2020,"AG_XPD_AGSGB","New Zealand",0.83
+2021,"AG_XPD_AGSGB","New Zealand",0.94
+2001,"AG_XPD_AGSGB","Norway",2.27
+2002,"AG_XPD_AGSGB","Norway",2.18
+2003,"AG_XPD_AGSGB","Norway",1.98
+2004,"AG_XPD_AGSGB","Norway",1.79
+2005,"AG_XPD_AGSGB","Norway",1.64
+2006,"AG_XPD_AGSGB","Norway",1.54
+2007,"AG_XPD_AGSGB","Norway",1.46
+2008,"AG_XPD_AGSGB","Norway",1.49
+2009,"AG_XPD_AGSGB","Norway",1.44
+2010,"AG_XPD_AGSGB","Norway",1.45
+2011,"AG_XPD_AGSGB","Norway",1.39
+2012,"AG_XPD_AGSGB","Norway",1.36
+2013,"AG_XPD_AGSGB","Norway",1.36
+2014,"AG_XPD_AGSGB","Norway",1.28
+2015,"AG_XPD_AGSGB","Norway",1.24
+2016,"AG_XPD_AGSGB","Norway",1.2
+2017,"AG_XPD_AGSGB","Norway",1.18
+2018,"AG_XPD_AGSGB","Norway",1.3
+2019,"AG_XPD_AGSGB","Norway",1.17
+2020,"AG_XPD_AGSGB","Norway",0.77
+2021,"AG_XPD_AGSGB","Norway",1.14
+2001,"AG_XPD_AGSGB","Poland",1.63
+2002,"AG_XPD_AGSGB","Poland",1.24
+2003,"AG_XPD_AGSGB","Poland",1.73
+2004,"AG_XPD_AGSGB","Poland",1.61
+2005,"AG_XPD_AGSGB","Poland",2.16
+2006,"AG_XPD_AGSGB","Poland",2.17
+2007,"AG_XPD_AGSGB","Poland",1.97
+2008,"AG_XPD_AGSGB","Poland",2.1
+2009,"AG_XPD_AGSGB","Poland",1.82
+2010,"AG_XPD_AGSGB","Poland",1.75
+2011,"AG_XPD_AGSGB","Poland",1.67
+2012,"AG_XPD_AGSGB","Poland",1.51
+2013,"AG_XPD_AGSGB","Poland",1.3
+2014,"AG_XPD_AGSGB","Poland",0.92
+2015,"AG_XPD_AGSGB","Poland",0.88
+2016,"AG_XPD_AGSGB","Poland",1.02
+2017,"AG_XPD_AGSGB","Poland",1.05
+2018,"AG_XPD_AGSGB","Poland",1.18
+2019,"AG_XPD_AGSGB","Poland",1.13
+2020,"AG_XPD_AGSGB","Poland",1.16
+2021,"AG_XPD_AGSGB","Poland",1.16
+2001,"AG_XPD_AGSGB","Portugal",1.56
+2002,"AG_XPD_AGSGB","Portugal",1.42
+2003,"AG_XPD_AGSGB","Portugal",1.19
+2004,"AG_XPD_AGSGB","Portugal",1.3
+2005,"AG_XPD_AGSGB","Portugal",1.09
+2006,"AG_XPD_AGSGB","Portugal",1.06
+2007,"AG_XPD_AGSGB","Portugal",0.84
+2008,"AG_XPD_AGSGB","Portugal",0.77
+2009,"AG_XPD_AGSGB","Portugal",0.77
+2010,"AG_XPD_AGSGB","Portugal",0.71
+2011,"AG_XPD_AGSGB","Portugal",0.72
+2012,"AG_XPD_AGSGB","Portugal",0.82
+2013,"AG_XPD_AGSGB","Portugal",0.69
+2014,"AG_XPD_AGSGB","Portugal",0.84
+2015,"AG_XPD_AGSGB","Portugal",0.72
+2016,"AG_XPD_AGSGB","Portugal",0.61
+2017,"AG_XPD_AGSGB","Portugal",0.58
+2018,"AG_XPD_AGSGB","Portugal",0.63
+2019,"AG_XPD_AGSGB","Portugal",0.67
+2020,"AG_XPD_AGSGB","Portugal",0.63
+2021,"AG_XPD_AGSGB","Portugal",0.64
+2001,"AG_XPD_AGSGB","Romania",1.58
+2002,"AG_XPD_AGSGB","Romania",1.31
+2003,"AG_XPD_AGSGB","Romania",2.24
+2004,"AG_XPD_AGSGB","Romania",3.21
+2005,"AG_XPD_AGSGB","Romania",2.87
+2006,"AG_XPD_AGSGB","Romania",3.02
+2007,"AG_XPD_AGSGB","Romania",3.06
+2008,"AG_XPD_AGSGB","Romania",3.69
+2009,"AG_XPD_AGSGB","Romania",2.94
+2010,"AG_XPD_AGSGB","Romania",2.4
+2011,"AG_XPD_AGSGB","Romania",2.96
+2012,"AG_XPD_AGSGB","Romania",2.53
+2013,"AG_XPD_AGSGB","Romania",2.38
+2014,"AG_XPD_AGSGB","Romania",2.1
+2015,"AG_XPD_AGSGB","Romania",1.95
+2016,"AG_XPD_AGSGB","Romania",1.48
+2017,"AG_XPD_AGSGB","Romania",2.04
+2018,"AG_XPD_AGSGB","Romania",1.86
+2019,"AG_XPD_AGSGB","Romania",1.63
+2020,"AG_XPD_AGSGB","Romania",2.07
+2021,"AG_XPD_AGSGB","Romania",1.86
+2001,"AG_XPD_AGSGB","Serbia",2.23
+2002,"AG_XPD_AGSGB","Serbia",2.07
+2003,"AG_XPD_AGSGB","Serbia",2.59
+2004,"AG_XPD_AGSGB","Serbia",4.17
+2005,"AG_XPD_AGSGB","Serbia",2.06
+2006,"AG_XPD_AGSGB","Serbia",1.99
+2007,"AG_XPD_AGSGB","Serbia",1.83
+2008,"AG_XPD_AGSGB","Serbia",2.06
+2009,"AG_XPD_AGSGB","Serbia",1.26
+2010,"AG_XPD_AGSGB","Serbia",1.87
+2011,"AG_XPD_AGSGB","Serbia",1.81
+2012,"AG_XPD_AGSGB","Serbia",2.3
+2013,"AG_XPD_AGSGB","Serbia",2.18
+2011,"AG_XPD_AGSGB","Canada",1.28
+2012,"AG_XPD_AGSGB","Canada",1.14
+2013,"AG_XPD_AGSGB","Canada",1.25
+2014,"AG_XPD_AGSGB","Canada",1
+2015,"AG_XPD_AGSGB","Canada",0.93
+2016,"AG_XPD_AGSGB","Canada",1.08
+2017,"AG_XPD_AGSGB","Canada",0.99
+2018,"AG_XPD_AGSGB","Canada",1.08
+2019,"AG_XPD_AGSGB","Canada",1.18
+2020,"AG_XPD_AGSGB","Canada",1.01
+2021,"AG_XPD_AGSGB","Canada",1.07
+2017,"AG_XPD_AGSGB","Uzbekistan",5.12
+2018,"AG_XPD_AGSGB","Uzbekistan",4.65
+2019,"AG_XPD_AGSGB","Uzbekistan",4.22
+2020,"AG_XPD_AGSGB","Uzbekistan",4.27
+2021,"AG_XPD_AGSGB","Uzbekistan",3.52
+2014,"AG_XPD_AGSGB","Serbia",2.21
+2015,"AG_XPD_AGSGB","Serbia",2.21
+2016,"AG_XPD_AGSGB","Serbia",2.14
+2017,"AG_XPD_AGSGB","Serbia",2.24
+2018,"AG_XPD_AGSGB","Serbia",2.13
+2019,"AG_XPD_AGSGB","Serbia",2.38
+2020,"AG_XPD_AGSGB","Serbia",2.08
+2021,"AG_XPD_AGSGB","Serbia",2.03
+2021,"AG_XPD_AGSGB","Serbia",2.03

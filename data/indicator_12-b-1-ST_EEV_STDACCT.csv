@@ -1,0 +1,807 @@
+Year,SeriesCode,GeoAreaName,Value
+2008,"ST_EEV_STDACCT","Georgia",0
+2009,"ST_EEV_STDACCT","Georgia",0
+2010,"ST_EEV_STDACCT","Georgia",0
+2011,"ST_EEV_STDACCT","Georgia",0
+2012,"ST_EEV_STDACCT","Georgia",0
+2013,"ST_EEV_STDACCT","Georgia",0
+2014,"ST_EEV_STDACCT","Georgia",0
+2015,"ST_EEV_STDACCT","Georgia",0
+2016,"ST_EEV_STDACCT","Georgia",0
+2017,"ST_EEV_STDACCT","Georgia",0
+2018,"ST_EEV_STDACCT","Georgia",0
+2019,"ST_EEV_STDACCT","Georgia",4
+2020,"ST_EEV_STDACCT","Georgia",0
+2008,"ST_EEV_STDACCT","Germany",2
+2009,"ST_EEV_STDACCT","Germany",2
+2010,"ST_EEV_STDACCT","Germany",10
+2011,"ST_EEV_STDACCT","Germany",2
+2012,"ST_EEV_STDACCT","Germany",2
+2013,"ST_EEV_STDACCT","Germany",3
+2014,"ST_EEV_STDACCT","Germany",2
+2015,"ST_EEV_STDACCT","Germany",9
+2016,"ST_EEV_STDACCT","Germany",10
+2017,"ST_EEV_STDACCT","Germany",9
+2018,"ST_EEV_STDACCT","Germany",9
+2019,"ST_EEV_STDACCT","Germany",9
+2020,"ST_EEV_STDACCT","Germany",2
+2010,"ST_EEV_STDACCT","Sweden",8
+2011,"ST_EEV_STDACCT","Sweden",7
+2012,"ST_EEV_STDACCT","Sweden",7
+2008,"ST_EEV_STDACCT","Albania",0
+2009,"ST_EEV_STDACCT","Albania",0
+2010,"ST_EEV_STDACCT","Albania",0
+2011,"ST_EEV_STDACCT","Albania",0
+2012,"ST_EEV_STDACCT","Albania",0
+2013,"ST_EEV_STDACCT","Albania",0
+2014,"ST_EEV_STDACCT","Albania",0
+2015,"ST_EEV_STDACCT","Albania",0
+2016,"ST_EEV_STDACCT","Albania",0
+2017,"ST_EEV_STDACCT","Albania",0
+2013,"ST_EEV_STDACCT","Sweden",8
+2014,"ST_EEV_STDACCT","Sweden",8
+2015,"ST_EEV_STDACCT","Sweden",10
+2008,"ST_EEV_STDACCT","Greece",1
+2009,"ST_EEV_STDACCT","Greece",1
+2016,"ST_EEV_STDACCT","Sweden",9
+2017,"ST_EEV_STDACCT","Sweden",9
+2018,"ST_EEV_STDACCT","Sweden",10
+2010,"ST_EEV_STDACCT","Greece",1
+2011,"ST_EEV_STDACCT","Greece",1
+2012,"ST_EEV_STDACCT","Greece",1
+2013,"ST_EEV_STDACCT","Greece",1
+2019,"ST_EEV_STDACCT","Sweden",9
+2020,"ST_EEV_STDACCT","Sweden",9
+2021,"ST_EEV_STDACCT","Sweden",8
+2014,"ST_EEV_STDACCT","Greece",2
+2015,"ST_EEV_STDACCT","Greece",6
+2008,"ST_EEV_STDACCT","Switzerland",8
+2009,"ST_EEV_STDACCT","Switzerland",2
+2010,"ST_EEV_STDACCT","Switzerland",2
+2011,"ST_EEV_STDACCT","Switzerland",8
+2012,"ST_EEV_STDACCT","Switzerland",2
+2013,"ST_EEV_STDACCT","Switzerland",2
+2018,"ST_EEV_STDACCT","Albania",0
+2019,"ST_EEV_STDACCT","Albania",0
+2020,"ST_EEV_STDACCT","Albania",0
+2021,"ST_EEV_STDACCT","Albania",0
+2008,"ST_EEV_STDACCT","Azerbaijan",0
+2009,"ST_EEV_STDACCT","Azerbaijan",0
+2010,"ST_EEV_STDACCT","Azerbaijan",0
+2011,"ST_EEV_STDACCT","Azerbaijan",0
+2012,"ST_EEV_STDACCT","Azerbaijan",0
+2013,"ST_EEV_STDACCT","Azerbaijan",0
+2014,"ST_EEV_STDACCT","Azerbaijan",0
+2014,"ST_EEV_STDACCT","Switzerland",8
+2015,"ST_EEV_STDACCT","Switzerland",2
+2016,"ST_EEV_STDACCT","Switzerland",2
+2017,"ST_EEV_STDACCT","Switzerland",8
+2018,"ST_EEV_STDACCT","Switzerland",2
+2019,"ST_EEV_STDACCT","Switzerland",2
+2015,"ST_EEV_STDACCT","Azerbaijan",0
+2016,"ST_EEV_STDACCT","Azerbaijan",7
+2017,"ST_EEV_STDACCT","Azerbaijan",3
+2018,"ST_EEV_STDACCT","Azerbaijan",5
+2019,"ST_EEV_STDACCT","Azerbaijan",5
+2020,"ST_EEV_STDACCT","Azerbaijan",5
+2021,"ST_EEV_STDACCT","Azerbaijan",5
+2008,"ST_EEV_STDACCT","Australia",10
+2009,"ST_EEV_STDACCT","Australia",11
+2010,"ST_EEV_STDACCT","Australia",11
+2011,"ST_EEV_STDACCT","Australia",11
+2020,"ST_EEV_STDACCT","Switzerland",2
+2008,"ST_EEV_STDACCT","United Arab Emirates",0
+2009,"ST_EEV_STDACCT","United Arab Emirates",0
+2010,"ST_EEV_STDACCT","United Arab Emirates",0
+2011,"ST_EEV_STDACCT","United Arab Emirates",0
+2012,"ST_EEV_STDACCT","United Arab Emirates",0
+2013,"ST_EEV_STDACCT","United Arab Emirates",0
+2016,"ST_EEV_STDACCT","Greece",2
+2017,"ST_EEV_STDACCT","Greece",2
+2018,"ST_EEV_STDACCT","Greece",2
+2019,"ST_EEV_STDACCT","Greece",2
+2012,"ST_EEV_STDACCT","Australia",11
+2013,"ST_EEV_STDACCT","Australia",11
+2014,"ST_EEV_STDACCT","Australia",11
+2014,"ST_EEV_STDACCT","United Arab Emirates",0
+2015,"ST_EEV_STDACCT","United Arab Emirates",0
+2016,"ST_EEV_STDACCT","United Arab Emirates",0
+2017,"ST_EEV_STDACCT","United Arab Emirates",0
+2018,"ST_EEV_STDACCT","United Arab Emirates",0
+2019,"ST_EEV_STDACCT","United Arab Emirates",0
+2020,"ST_EEV_STDACCT","United Arab Emirates",3
+2015,"ST_EEV_STDACCT","Australia",11
+2016,"ST_EEV_STDACCT","Australia",11
+2017,"ST_EEV_STDACCT","Australia",11
+2021,"ST_EEV_STDACCT","United Arab Emirates",3
+2008,"ST_EEV_STDACCT","Türkiye",1
+2009,"ST_EEV_STDACCT","Türkiye",1
+2010,"ST_EEV_STDACCT","Türkiye",1
+2011,"ST_EEV_STDACCT","Türkiye",1
+2012,"ST_EEV_STDACCT","Türkiye",1
+2013,"ST_EEV_STDACCT","Türkiye",1
+2014,"ST_EEV_STDACCT","Türkiye",1
+2015,"ST_EEV_STDACCT","Türkiye",1
+2016,"ST_EEV_STDACCT","Türkiye",2
+2017,"ST_EEV_STDACCT","Türkiye",2
+2018,"ST_EEV_STDACCT","Türkiye",2
+2019,"ST_EEV_STDACCT","Türkiye",1
+2008,"ST_EEV_STDACCT","Hungary",8
+2009,"ST_EEV_STDACCT","Hungary",8
+2010,"ST_EEV_STDACCT","Hungary",8
+2011,"ST_EEV_STDACCT","Hungary",8
+2012,"ST_EEV_STDACCT","Hungary",8
+2013,"ST_EEV_STDACCT","Hungary",8
+2014,"ST_EEV_STDACCT","Hungary",9
+2015,"ST_EEV_STDACCT","Hungary",9
+2016,"ST_EEV_STDACCT","Hungary",9
+2008,"ST_EEV_STDACCT","Ukraine",0
+2009,"ST_EEV_STDACCT","Ukraine",0
+2010,"ST_EEV_STDACCT","Ukraine",0
+2011,"ST_EEV_STDACCT","Ukraine",0
+2012,"ST_EEV_STDACCT","Ukraine",0
+2013,"ST_EEV_STDACCT","Ukraine",0
+2014,"ST_EEV_STDACCT","Ukraine",0
+2015,"ST_EEV_STDACCT","Ukraine",0
+2016,"ST_EEV_STDACCT","Ukraine",0
+2017,"ST_EEV_STDACCT","Ukraine",0
+2017,"ST_EEV_STDACCT","Hungary",9
+2018,"ST_EEV_STDACCT","Hungary",9
+2019,"ST_EEV_STDACCT","Hungary",9
+2008,"ST_EEV_STDACCT","Iceland",1
+2009,"ST_EEV_STDACCT","Iceland",8
+2010,"ST_EEV_STDACCT","Iceland",8
+2011,"ST_EEV_STDACCT","Iceland",8
+2012,"ST_EEV_STDACCT","Iceland",8
+2013,"ST_EEV_STDACCT","Iceland",8
+2014,"ST_EEV_STDACCT","Iceland",8
+2018,"ST_EEV_STDACCT","Ukraine",0
+2019,"ST_EEV_STDACCT","Ukraine",0
+2020,"ST_EEV_STDACCT","Ukraine",0
+2008,"ST_EEV_STDACCT","North Macedonia",0
+2009,"ST_EEV_STDACCT","North Macedonia",0
+2010,"ST_EEV_STDACCT","North Macedonia",0
+2011,"ST_EEV_STDACCT","North Macedonia",0
+2012,"ST_EEV_STDACCT","North Macedonia",0
+2013,"ST_EEV_STDACCT","North Macedonia",0
+2015,"ST_EEV_STDACCT","Iceland",8
+2016,"ST_EEV_STDACCT","Iceland",8
+2017,"ST_EEV_STDACCT","Iceland",8
+2018,"ST_EEV_STDACCT","Iceland",8
+2019,"ST_EEV_STDACCT","Iceland",8
+2020,"ST_EEV_STDACCT","Iceland",8
+2008,"ST_EEV_STDACCT","India",1
+2009,"ST_EEV_STDACCT","India",8
+2014,"ST_EEV_STDACCT","North Macedonia",0
+2015,"ST_EEV_STDACCT","North Macedonia",0
+2016,"ST_EEV_STDACCT","North Macedonia",0
+2017,"ST_EEV_STDACCT","North Macedonia",0
+2018,"ST_EEV_STDACCT","North Macedonia",0
+2019,"ST_EEV_STDACCT","North Macedonia",0
+2008,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2010,"ST_EEV_STDACCT","India",2
+2011,"ST_EEV_STDACCT","India",2
+2012,"ST_EEV_STDACCT","India",2
+2013,"ST_EEV_STDACCT","India",2
+2014,"ST_EEV_STDACCT","India",2
+2015,"ST_EEV_STDACCT","India",8
+2016,"ST_EEV_STDACCT","India",1
+2017,"ST_EEV_STDACCT","India",1
+2018,"ST_EEV_STDACCT","India",1
+2009,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2010,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",10
+2011,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",10
+2012,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",10
+2013,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2014,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",10
+2015,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2016,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",10
+2019,"ST_EEV_STDACCT","India",1
+2020,"ST_EEV_STDACCT","India",1
+2021,"ST_EEV_STDACCT","India",2
+2017,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2018,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",9
+2019,"ST_EEV_STDACCT","United Kingdom of Great Britain and Northern Ireland",7
+2008,"ST_EEV_STDACCT","Uzbekistan",2
+2008,"ST_EEV_STDACCT","Ireland",1
+2009,"ST_EEV_STDACCT","Ireland",1
+2009,"ST_EEV_STDACCT","Uzbekistan",0
+2010,"ST_EEV_STDACCT","Uzbekistan",0
+2011,"ST_EEV_STDACCT","Uzbekistan",0
+2012,"ST_EEV_STDACCT","Uzbekistan",0
+2013,"ST_EEV_STDACCT","Uzbekistan",0
+2014,"ST_EEV_STDACCT","Uzbekistan",3
+2015,"ST_EEV_STDACCT","Uzbekistan",3
+2016,"ST_EEV_STDACCT","Uzbekistan",3
+2017,"ST_EEV_STDACCT","Uzbekistan",3
+2018,"ST_EEV_STDACCT","Uzbekistan",3
+2010,"ST_EEV_STDACCT","Ireland",2
+2011,"ST_EEV_STDACCT","Ireland",2
+2012,"ST_EEV_STDACCT","Ireland",3
+2013,"ST_EEV_STDACCT","Ireland",2
+2014,"ST_EEV_STDACCT","Ireland",4
+2015,"ST_EEV_STDACCT","Ireland",3
+2016,"ST_EEV_STDACCT","Ireland",4
+2017,"ST_EEV_STDACCT","Ireland",3
+2018,"ST_EEV_STDACCT","Ireland",4
+2019,"ST_EEV_STDACCT","Ireland",10
+2020,"ST_EEV_STDACCT","Ireland",4
+2008,"ST_EEV_STDACCT","Israel",6
+2009,"ST_EEV_STDACCT","Israel",6
+2010,"ST_EEV_STDACCT","Israel",6
+2011,"ST_EEV_STDACCT","Israel",5
+2018,"ST_EEV_STDACCT","Australia",10
+2019,"ST_EEV_STDACCT","Australia",10
+2020,"ST_EEV_STDACCT","Australia",9
+2021,"ST_EEV_STDACCT","Australia",9
+2008,"ST_EEV_STDACCT","Austria",7
+2009,"ST_EEV_STDACCT","Austria",7
+2012,"ST_EEV_STDACCT","Israel",5
+2014,"ST_EEV_STDACCT","Israel",4
+2015,"ST_EEV_STDACCT","Israel",5
+2016,"ST_EEV_STDACCT","Israel",5
+2017,"ST_EEV_STDACCT","Israel",6
+2018,"ST_EEV_STDACCT","Israel",5
+2019,"ST_EEV_STDACCT","Israel",1
+2020,"ST_EEV_STDACCT","Israel",1
+2010,"ST_EEV_STDACCT","Austria",7
+2011,"ST_EEV_STDACCT","Austria",7
+2012,"ST_EEV_STDACCT","Austria",7
+2013,"ST_EEV_STDACCT","Austria",8
+2021,"ST_EEV_STDACCT","Israel",1
+2008,"ST_EEV_STDACCT","Italy",2
+2009,"ST_EEV_STDACCT","Italy",2
+2010,"ST_EEV_STDACCT","Italy",9
+2011,"ST_EEV_STDACCT","Italy",2
+2012,"ST_EEV_STDACCT","Italy",2
+2013,"ST_EEV_STDACCT","Italy",2
+2014,"ST_EEV_STDACCT","Italy",2
+2015,"ST_EEV_STDACCT","Italy",9
+2016,"ST_EEV_STDACCT","Italy",2
+2017,"ST_EEV_STDACCT","Italy",9
+2014,"ST_EEV_STDACCT","Austria",8
+2015,"ST_EEV_STDACCT","Austria",8
+2016,"ST_EEV_STDACCT","Austria",8
+2017,"ST_EEV_STDACCT","Austria",8
+2018,"ST_EEV_STDACCT","Italy",2
+2019,"ST_EEV_STDACCT","Italy",9
+2020,"ST_EEV_STDACCT","Italy",2
+2008,"ST_EEV_STDACCT","Japan",0
+2009,"ST_EEV_STDACCT","Japan",1
+2010,"ST_EEV_STDACCT","Japan",0
+2011,"ST_EEV_STDACCT","Japan",0
+2012,"ST_EEV_STDACCT","Japan",1
+2018,"ST_EEV_STDACCT","Austria",8
+2019,"ST_EEV_STDACCT","Austria",8
+2020,"ST_EEV_STDACCT","Austria",8
+2013,"ST_EEV_STDACCT","Japan",0
+2014,"ST_EEV_STDACCT","Japan",7
+2015,"ST_EEV_STDACCT","Japan",7
+2016,"ST_EEV_STDACCT","Japan",7
+2017,"ST_EEV_STDACCT","Japan",7
+2018,"ST_EEV_STDACCT","Japan",7
+2019,"ST_EEV_STDACCT","Japan",7
+2020,"ST_EEV_STDACCT","Japan",0
+2008,"ST_EEV_STDACCT","Kazakhstan",7
+2009,"ST_EEV_STDACCT","Kazakhstan",7
+2008,"ST_EEV_STDACCT","Armenia",0
+2009,"ST_EEV_STDACCT","Armenia",0
+2010,"ST_EEV_STDACCT","Armenia",0
+2011,"ST_EEV_STDACCT","Armenia",0
+2012,"ST_EEV_STDACCT","Armenia",0
+2013,"ST_EEV_STDACCT","Armenia",0
+2014,"ST_EEV_STDACCT","Armenia",0
+2015,"ST_EEV_STDACCT","Armenia",0
+2016,"ST_EEV_STDACCT","Armenia",0
+2010,"ST_EEV_STDACCT","Kazakhstan",7
+2011,"ST_EEV_STDACCT","Kazakhstan",7
+2012,"ST_EEV_STDACCT","Kazakhstan",7
+2013,"ST_EEV_STDACCT","Kazakhstan",7
+2014,"ST_EEV_STDACCT","Kazakhstan",8
+2015,"ST_EEV_STDACCT","Kazakhstan",8
+2016,"ST_EEV_STDACCT","Kazakhstan",8
+2017,"ST_EEV_STDACCT","Kazakhstan",8
+2018,"ST_EEV_STDACCT","Kazakhstan",8
+2019,"ST_EEV_STDACCT","Kazakhstan",8
+2020,"ST_EEV_STDACCT","Kazakhstan",8
+2008,"ST_EEV_STDACCT","Republic of Korea",0
+2009,"ST_EEV_STDACCT","Republic of Korea",0
+2017,"ST_EEV_STDACCT","Armenia",0
+2018,"ST_EEV_STDACCT","Armenia",0
+2019,"ST_EEV_STDACCT","Armenia",0
+2020,"ST_EEV_STDACCT","Armenia",0
+2021,"ST_EEV_STDACCT","Armenia",0
+2008,"ST_EEV_STDACCT","Belgium",8
+2009,"ST_EEV_STDACCT","Belgium",2
+2010,"ST_EEV_STDACCT","Belgium",8
+2011,"ST_EEV_STDACCT","Belgium",2
+2012,"ST_EEV_STDACCT","Belgium",8
+2010,"ST_EEV_STDACCT","Republic of Korea",0
+2011,"ST_EEV_STDACCT","Republic of Korea",0
+2012,"ST_EEV_STDACCT","Republic of Korea",0
+2013,"ST_EEV_STDACCT","Republic of Korea",0
+2014,"ST_EEV_STDACCT","Republic of Korea",0
+2015,"ST_EEV_STDACCT","Republic of Korea",0
+2016,"ST_EEV_STDACCT","Republic of Korea",0
+2017,"ST_EEV_STDACCT","Republic of Korea",0
+2018,"ST_EEV_STDACCT","Republic of Korea",0
+2019,"ST_EEV_STDACCT","Republic of Korea",0
+2020,"ST_EEV_STDACCT","Republic of Korea",0
+2013,"ST_EEV_STDACCT","Belgium",2
+2014,"ST_EEV_STDACCT","Belgium",8
+2015,"ST_EEV_STDACCT","Belgium",2
+2016,"ST_EEV_STDACCT","Belgium",8
+2008,"ST_EEV_STDACCT","Kyrgyzstan",0
+2009,"ST_EEV_STDACCT","Kyrgyzstan",0
+2010,"ST_EEV_STDACCT","Kyrgyzstan",0
+2011,"ST_EEV_STDACCT","Kyrgyzstan",0
+2012,"ST_EEV_STDACCT","Kyrgyzstan",0
+2013,"ST_EEV_STDACCT","Kyrgyzstan",0
+2014,"ST_EEV_STDACCT","Kyrgyzstan",0
+2015,"ST_EEV_STDACCT","Kyrgyzstan",0
+2016,"ST_EEV_STDACCT","Kyrgyzstan",0
+2017,"ST_EEV_STDACCT","Belgium",2
+2018,"ST_EEV_STDACCT","Belgium",8
+2017,"ST_EEV_STDACCT","Kyrgyzstan",0
+2018,"ST_EEV_STDACCT","Kyrgyzstan",0
+2019,"ST_EEV_STDACCT","Kyrgyzstan",0
+2020,"ST_EEV_STDACCT","Kyrgyzstan",0
+2008,"ST_EEV_STDACCT","Latvia",6
+2009,"ST_EEV_STDACCT","Latvia",6
+2010,"ST_EEV_STDACCT","Latvia",6
+2019,"ST_EEV_STDACCT","Belgium",6
+2020,"ST_EEV_STDACCT","Belgium",0
+2011,"ST_EEV_STDACCT","Latvia",6
+2012,"ST_EEV_STDACCT","Latvia",7
+2013,"ST_EEV_STDACCT","Latvia",7
+2014,"ST_EEV_STDACCT","Latvia",7
+2015,"ST_EEV_STDACCT","Latvia",7
+2016,"ST_EEV_STDACCT","Latvia",7
+2021,"ST_EEV_STDACCT","Belgium",0
+2008,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2009,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2010,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2017,"ST_EEV_STDACCT","Latvia",7
+2018,"ST_EEV_STDACCT","Latvia",7
+2019,"ST_EEV_STDACCT","Latvia",7
+2020,"ST_EEV_STDACCT","Latvia",2
+2008,"ST_EEV_STDACCT","Liechtenstein",0
+2009,"ST_EEV_STDACCT","Liechtenstein",0
+2011,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2012,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2010,"ST_EEV_STDACCT","Liechtenstein",0
+2011,"ST_EEV_STDACCT","Liechtenstein",0
+2012,"ST_EEV_STDACCT","Liechtenstein",0
+2013,"ST_EEV_STDACCT","Liechtenstein",0
+2014,"ST_EEV_STDACCT","Liechtenstein",0
+2015,"ST_EEV_STDACCT","Liechtenstein",0
+2016,"ST_EEV_STDACCT","Liechtenstein",0
+2017,"ST_EEV_STDACCT","Liechtenstein",0
+2013,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2014,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2018,"ST_EEV_STDACCT","Liechtenstein",0
+2019,"ST_EEV_STDACCT","Liechtenstein",0
+2020,"ST_EEV_STDACCT","Liechtenstein",0
+2021,"ST_EEV_STDACCT","Liechtenstein",0
+2008,"ST_EEV_STDACCT","Lithuania",1
+2009,"ST_EEV_STDACCT","Lithuania",8
+2010,"ST_EEV_STDACCT","Lithuania",8
+2011,"ST_EEV_STDACCT","Lithuania",8
+2012,"ST_EEV_STDACCT","Lithuania",8
+2013,"ST_EEV_STDACCT","Lithuania",8
+2014,"ST_EEV_STDACCT","Lithuania",9
+2015,"ST_EEV_STDACCT","Lithuania",9
+2016,"ST_EEV_STDACCT","Lithuania",9
+2017,"ST_EEV_STDACCT","Lithuania",9
+2018,"ST_EEV_STDACCT","Lithuania",9
+2019,"ST_EEV_STDACCT","Lithuania",9
+2020,"ST_EEV_STDACCT","Lithuania",9
+2008,"ST_EEV_STDACCT","Luxembourg",2
+2015,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2016,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2009,"ST_EEV_STDACCT","Luxembourg",2
+2010,"ST_EEV_STDACCT","Luxembourg",3
+2011,"ST_EEV_STDACCT","Luxembourg",2
+2012,"ST_EEV_STDACCT","Luxembourg",9
+2013,"ST_EEV_STDACCT","Luxembourg",8
+2014,"ST_EEV_STDACCT","Luxembourg",11
+2015,"ST_EEV_STDACCT","Luxembourg",10
+2016,"ST_EEV_STDACCT","Luxembourg",11
+2017,"ST_EEV_STDACCT","Luxembourg",10
+2018,"ST_EEV_STDACCT","Luxembourg",11
+2017,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2018,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2019,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2020,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2021,"ST_EEV_STDACCT","Bosnia and Herzegovina",0
+2008,"ST_EEV_STDACCT","Bulgaria",5
+2009,"ST_EEV_STDACCT","Bulgaria",5
+2010,"ST_EEV_STDACCT","Bulgaria",5
+2011,"ST_EEV_STDACCT","Bulgaria",5
+2012,"ST_EEV_STDACCT","Bulgaria",6
+2013,"ST_EEV_STDACCT","Bulgaria",6
+2014,"ST_EEV_STDACCT","Bulgaria",7
+2015,"ST_EEV_STDACCT","Bulgaria",6
+2016,"ST_EEV_STDACCT","Bulgaria",6
+2017,"ST_EEV_STDACCT","Bulgaria",6
+2018,"ST_EEV_STDACCT","Bulgaria",6
+2019,"ST_EEV_STDACCT","Bulgaria",6
+2020,"ST_EEV_STDACCT","Bulgaria",2
+2008,"ST_EEV_STDACCT","Belarus",0
+2019,"ST_EEV_STDACCT","Luxembourg",9
+2020,"ST_EEV_STDACCT","Luxembourg",9
+2009,"ST_EEV_STDACCT","Malta",1
+2010,"ST_EEV_STDACCT","Malta",8
+2011,"ST_EEV_STDACCT","Malta",1
+2012,"ST_EEV_STDACCT","Malta",1
+2013,"ST_EEV_STDACCT","Malta",1
+2014,"ST_EEV_STDACCT","Malta",2
+2009,"ST_EEV_STDACCT","Belarus",0
+2010,"ST_EEV_STDACCT","Belarus",0
+2011,"ST_EEV_STDACCT","Belarus",0
+2012,"ST_EEV_STDACCT","Belarus",0
+2013,"ST_EEV_STDACCT","Belarus",0
+2014,"ST_EEV_STDACCT","Belarus",6
+2015,"ST_EEV_STDACCT","Belarus",0
+2016,"ST_EEV_STDACCT","Belarus",8
+2017,"ST_EEV_STDACCT","Belarus",1
+2018,"ST_EEV_STDACCT","Belarus",8
+2019,"ST_EEV_STDACCT","Belarus",1
+2020,"ST_EEV_STDACCT","Belarus",1
+2021,"ST_EEV_STDACCT","Belarus",1
+2008,"ST_EEV_STDACCT","Canada",6
+2009,"ST_EEV_STDACCT","Canada",9
+2015,"ST_EEV_STDACCT","Malta",2
+2016,"ST_EEV_STDACCT","Malta",2
+2017,"ST_EEV_STDACCT","Malta",2
+2018,"ST_EEV_STDACCT","Malta",2
+2019,"ST_EEV_STDACCT","Malta",2
+2020,"ST_EEV_STDACCT","Malta",2
+2008,"ST_EEV_STDACCT","Mexico",10
+2009,"ST_EEV_STDACCT","Mexico",10
+2010,"ST_EEV_STDACCT","Mexico",10
+2011,"ST_EEV_STDACCT","Mexico",10
+2012,"ST_EEV_STDACCT","Mexico",10
+2013,"ST_EEV_STDACCT","Mexico",10
+2014,"ST_EEV_STDACCT","Mexico",10
+2015,"ST_EEV_STDACCT","Mexico",10
+2016,"ST_EEV_STDACCT","Mexico",10
+2017,"ST_EEV_STDACCT","Mexico",10
+2018,"ST_EEV_STDACCT","Mexico",10
+2019,"ST_EEV_STDACCT","Mexico",10
+2020,"ST_EEV_STDACCT","Mexico",10
+2008,"ST_EEV_STDACCT","Republic of Moldova",0
+2009,"ST_EEV_STDACCT","Republic of Moldova",0
+2010,"ST_EEV_STDACCT","Republic of Moldova",0
+2011,"ST_EEV_STDACCT","Republic of Moldova",0
+2012,"ST_EEV_STDACCT","Republic of Moldova",0
+2013,"ST_EEV_STDACCT","Republic of Moldova",0
+2010,"ST_EEV_STDACCT","Canada",8
+2011,"ST_EEV_STDACCT","Canada",9
+2012,"ST_EEV_STDACCT","Canada",9
+2013,"ST_EEV_STDACCT","Canada",9
+2014,"ST_EEV_STDACCT","Canada",9
+2015,"ST_EEV_STDACCT","Canada",9
+2014,"ST_EEV_STDACCT","Republic of Moldova",0
+2015,"ST_EEV_STDACCT","Republic of Moldova",0
+2016,"ST_EEV_STDACCT","Republic of Moldova",0
+2017,"ST_EEV_STDACCT","Republic of Moldova",0
+2018,"ST_EEV_STDACCT","Republic of Moldova",0
+2019,"ST_EEV_STDACCT","Republic of Moldova",0
+2020,"ST_EEV_STDACCT","Republic of Moldova",0
+2021,"ST_EEV_STDACCT","Republic of Moldova",0
+2009,"ST_EEV_STDACCT","Montenegro",6
+2010,"ST_EEV_STDACCT","Montenegro",0
+2011,"ST_EEV_STDACCT","Montenegro",0
+2012,"ST_EEV_STDACCT","Montenegro",0
+2013,"ST_EEV_STDACCT","Montenegro",0
+2014,"ST_EEV_STDACCT","Montenegro",0
+2015,"ST_EEV_STDACCT","Montenegro",0
+2016,"ST_EEV_STDACCT","Montenegro",0
+2016,"ST_EEV_STDACCT","Canada",8
+2017,"ST_EEV_STDACCT","Canada",10
+2018,"ST_EEV_STDACCT","Canada",8
+2019,"ST_EEV_STDACCT","Canada",8
+2020,"ST_EEV_STDACCT","Canada",6
+2021,"ST_EEV_STDACCT","Canada",6
+2017,"ST_EEV_STDACCT","Montenegro",0
+2018,"ST_EEV_STDACCT","Montenegro",0
+2019,"ST_EEV_STDACCT","Montenegro",0
+2020,"ST_EEV_STDACCT","Montenegro",0
+2021,"ST_EEV_STDACCT","Montenegro",0
+2008,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",3
+2009,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",4
+2010,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2011,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2012,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2013,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2014,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2015,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2016,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2017,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2018,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",9
+2019,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",6
+2020,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",6
+2021,"ST_EEV_STDACCT","Netherlands (Kingdom of the)",6
+2008,"ST_EEV_STDACCT","New Zealand",7
+2009,"ST_EEV_STDACCT","New Zealand",7
+2010,"ST_EEV_STDACCT","New Zealand",7
+2011,"ST_EEV_STDACCT","New Zealand",7
+2012,"ST_EEV_STDACCT","New Zealand",7
+2013,"ST_EEV_STDACCT","New Zealand",7
+2014,"ST_EEV_STDACCT","New Zealand",7
+2015,"ST_EEV_STDACCT","New Zealand",7
+2016,"ST_EEV_STDACCT","New Zealand",7
+2017,"ST_EEV_STDACCT","New Zealand",7
+2018,"ST_EEV_STDACCT","New Zealand",7
+2019,"ST_EEV_STDACCT","New Zealand",7
+2020,"ST_EEV_STDACCT","New Zealand",7
+2021,"ST_EEV_STDACCT","New Zealand",5
+2008,"ST_EEV_STDACCT","Norway",8
+2009,"ST_EEV_STDACCT","Norway",8
+2010,"ST_EEV_STDACCT","Norway",8
+2011,"ST_EEV_STDACCT","Norway",8
+2012,"ST_EEV_STDACCT","Norway",8
+2013,"ST_EEV_STDACCT","Norway",8
+2014,"ST_EEV_STDACCT","Norway",8
+2015,"ST_EEV_STDACCT","Norway",8
+2016,"ST_EEV_STDACCT","Norway",8
+2017,"ST_EEV_STDACCT","Norway",8
+2018,"ST_EEV_STDACCT","Norway",8
+2019,"ST_EEV_STDACCT","Norway",8
+2008,"ST_EEV_STDACCT","Chile",2
+2009,"ST_EEV_STDACCT","Chile",2
+2010,"ST_EEV_STDACCT","Chile",1
+2011,"ST_EEV_STDACCT","Chile",3
+2020,"ST_EEV_STDACCT","Norway",2
+2021,"ST_EEV_STDACCT","Norway",2
+2008,"ST_EEV_STDACCT","Poland",6
+2009,"ST_EEV_STDACCT","Poland",7
+2010,"ST_EEV_STDACCT","Poland",8
+2011,"ST_EEV_STDACCT","Poland",10
+2012,"ST_EEV_STDACCT","Poland",9
+2013,"ST_EEV_STDACCT","Poland",9
+2014,"ST_EEV_STDACCT","Poland",4
+2015,"ST_EEV_STDACCT","Poland",8
+2016,"ST_EEV_STDACCT","Poland",4
+2012,"ST_EEV_STDACCT","Chile",3
+2013,"ST_EEV_STDACCT","Chile",3
+2014,"ST_EEV_STDACCT","Chile",3
+2015,"ST_EEV_STDACCT","Chile",3
+2016,"ST_EEV_STDACCT","Chile",5
+2017,"ST_EEV_STDACCT","Chile",5
+2018,"ST_EEV_STDACCT","Chile",5
+2019,"ST_EEV_STDACCT","Chile",5
+2017,"ST_EEV_STDACCT","Poland",2
+2018,"ST_EEV_STDACCT","Poland",3
+2019,"ST_EEV_STDACCT","Poland",0
+2008,"ST_EEV_STDACCT","Portugal",9
+2009,"ST_EEV_STDACCT","Portugal",4
+2010,"ST_EEV_STDACCT","Portugal",4
+2011,"ST_EEV_STDACCT","Portugal",2
+2012,"ST_EEV_STDACCT","Portugal",2
+2013,"ST_EEV_STDACCT","Portugal",2
+2014,"ST_EEV_STDACCT","Portugal",9
+2015,"ST_EEV_STDACCT","Portugal",9
+2016,"ST_EEV_STDACCT","Portugal",9
+2017,"ST_EEV_STDACCT","Portugal",9
+2018,"ST_EEV_STDACCT","Portugal",9
+2019,"ST_EEV_STDACCT","Portugal",9
+2020,"ST_EEV_STDACCT","Portugal",4
+2021,"ST_EEV_STDACCT","Portugal",2
+2008,"ST_EEV_STDACCT","Romania",8
+2009,"ST_EEV_STDACCT","Romania",8
+2010,"ST_EEV_STDACCT","Romania",8
+2011,"ST_EEV_STDACCT","Romania",8
+2012,"ST_EEV_STDACCT","Romania",8
+2013,"ST_EEV_STDACCT","Romania",9
+2014,"ST_EEV_STDACCT","Romania",9
+2015,"ST_EEV_STDACCT","Romania",9
+2016,"ST_EEV_STDACCT","Romania",9
+2017,"ST_EEV_STDACCT","Romania",9
+2018,"ST_EEV_STDACCT","Romania",9
+2019,"ST_EEV_STDACCT","Romania",8
+2020,"ST_EEV_STDACCT","Chile",5
+2021,"ST_EEV_STDACCT","Chile",5
+2008,"ST_EEV_STDACCT","China",0
+2009,"ST_EEV_STDACCT","China",0
+2010,"ST_EEV_STDACCT","China",0
+2011,"ST_EEV_STDACCT","China",0
+2012,"ST_EEV_STDACCT","China",0
+2008,"ST_EEV_STDACCT","Serbia",1
+2009,"ST_EEV_STDACCT","Serbia",1
+2010,"ST_EEV_STDACCT","Serbia",1
+2011,"ST_EEV_STDACCT","Serbia",1
+2012,"ST_EEV_STDACCT","Serbia",1
+2013,"ST_EEV_STDACCT","Serbia",1
+2014,"ST_EEV_STDACCT","Serbia",1
+2015,"ST_EEV_STDACCT","Serbia",1
+2016,"ST_EEV_STDACCT","Serbia",2
+2017,"ST_EEV_STDACCT","Serbia",2
+2018,"ST_EEV_STDACCT","Serbia",2
+2019,"ST_EEV_STDACCT","Serbia",2
+2020,"ST_EEV_STDACCT","Serbia",2
+2008,"ST_EEV_STDACCT","Slovakia",1
+2009,"ST_EEV_STDACCT","Slovakia",1
+2010,"ST_EEV_STDACCT","Slovakia",1
+2013,"ST_EEV_STDACCT","China",0
+2014,"ST_EEV_STDACCT","China",0
+2015,"ST_EEV_STDACCT","China",0
+2016,"ST_EEV_STDACCT","China",0
+2017,"ST_EEV_STDACCT","China",0
+2018,"ST_EEV_STDACCT","China",0
+2019,"ST_EEV_STDACCT","China",0
+2020,"ST_EEV_STDACCT","China",0
+2008,"ST_EEV_STDACCT","Colombia",2
+2009,"ST_EEV_STDACCT","Colombia",2
+2011,"ST_EEV_STDACCT","Slovakia",1
+2012,"ST_EEV_STDACCT","Slovakia",1
+2013,"ST_EEV_STDACCT","Slovakia",8
+2014,"ST_EEV_STDACCT","Slovakia",9
+2015,"ST_EEV_STDACCT","Slovakia",9
+2016,"ST_EEV_STDACCT","Slovakia",9
+2017,"ST_EEV_STDACCT","Slovakia",9
+2018,"ST_EEV_STDACCT","Slovakia",9
+2019,"ST_EEV_STDACCT","Slovakia",9
+2008,"ST_EEV_STDACCT","Viet Nam",0
+2009,"ST_EEV_STDACCT","Viet Nam",0
+2010,"ST_EEV_STDACCT","Viet Nam",0
+2011,"ST_EEV_STDACCT","Viet Nam",0
+2012,"ST_EEV_STDACCT","Viet Nam",0
+2013,"ST_EEV_STDACCT","Viet Nam",5
+2014,"ST_EEV_STDACCT","Viet Nam",5
+2015,"ST_EEV_STDACCT","Viet Nam",5
+2016,"ST_EEV_STDACCT","Viet Nam",5
+2017,"ST_EEV_STDACCT","Viet Nam",5
+2018,"ST_EEV_STDACCT","Viet Nam",5
+2019,"ST_EEV_STDACCT","Viet Nam",5
+2020,"ST_EEV_STDACCT","Viet Nam",5
+2008,"ST_EEV_STDACCT","Slovenia",1
+2009,"ST_EEV_STDACCT","Slovenia",8
+2010,"ST_EEV_STDACCT","Slovenia",1
+2011,"ST_EEV_STDACCT","Slovenia",1
+2012,"ST_EEV_STDACCT","Slovenia",9
+2013,"ST_EEV_STDACCT","Slovenia",2
+2014,"ST_EEV_STDACCT","Slovenia",9
+2015,"ST_EEV_STDACCT","Slovenia",9
+2016,"ST_EEV_STDACCT","Slovenia",2
+2017,"ST_EEV_STDACCT","Slovenia",10
+2018,"ST_EEV_STDACCT","Slovenia",3
+2019,"ST_EEV_STDACCT","Slovenia",10
+2020,"ST_EEV_STDACCT","Slovenia",10
+2008,"ST_EEV_STDACCT","Spain",10
+2009,"ST_EEV_STDACCT","Spain",10
+2010,"ST_EEV_STDACCT","Spain",9
+2011,"ST_EEV_STDACCT","Spain",9
+2012,"ST_EEV_STDACCT","Spain",8
+2013,"ST_EEV_STDACCT","Spain",8
+2014,"ST_EEV_STDACCT","Spain",9
+2015,"ST_EEV_STDACCT","Spain",10
+2016,"ST_EEV_STDACCT","Spain",10
+2017,"ST_EEV_STDACCT","Spain",10
+2018,"ST_EEV_STDACCT","Spain",7
+2019,"ST_EEV_STDACCT","Spain",7
+2010,"ST_EEV_STDACCT","Colombia",3
+2011,"ST_EEV_STDACCT","Colombia",3
+2012,"ST_EEV_STDACCT","Colombia",11
+2013,"ST_EEV_STDACCT","Colombia",11
+2014,"ST_EEV_STDACCT","Colombia",11
+2015,"ST_EEV_STDACCT","Colombia",11
+2016,"ST_EEV_STDACCT","Colombia",11
+2020,"ST_EEV_STDACCT","Spain",5
+2021,"ST_EEV_STDACCT","Spain",1
+2008,"ST_EEV_STDACCT","Sweden",7
+2009,"ST_EEV_STDACCT","Sweden",7
+2017,"ST_EEV_STDACCT","Colombia",11
+2018,"ST_EEV_STDACCT","Colombia",11
+2019,"ST_EEV_STDACCT","Colombia",11
+2020,"ST_EEV_STDACCT","Colombia",11
+2021,"ST_EEV_STDACCT","Colombia",5
+2008,"ST_EEV_STDACCT","Costa Rica",0
+2009,"ST_EEV_STDACCT","Costa Rica",0
+2010,"ST_EEV_STDACCT","Costa Rica",0
+2011,"ST_EEV_STDACCT","Costa Rica",1
+2012,"ST_EEV_STDACCT","Costa Rica",9
+2013,"ST_EEV_STDACCT","Costa Rica",9
+2014,"ST_EEV_STDACCT","Costa Rica",9
+2015,"ST_EEV_STDACCT","Costa Rica",9
+2016,"ST_EEV_STDACCT","Costa Rica",9
+2017,"ST_EEV_STDACCT","Costa Rica",9
+2018,"ST_EEV_STDACCT","Costa Rica",9
+2019,"ST_EEV_STDACCT","Costa Rica",8
+2020,"ST_EEV_STDACCT","Costa Rica",0
+2021,"ST_EEV_STDACCT","Costa Rica",0
+2008,"ST_EEV_STDACCT","Croatia",2
+2009,"ST_EEV_STDACCT","Croatia",3
+2010,"ST_EEV_STDACCT","Croatia",3
+2011,"ST_EEV_STDACCT","Croatia",8
+2012,"ST_EEV_STDACCT","Croatia",4
+2013,"ST_EEV_STDACCT","Croatia",3
+2014,"ST_EEV_STDACCT","Croatia",4
+2015,"ST_EEV_STDACCT","Croatia",3
+2016,"ST_EEV_STDACCT","Croatia",9
+2017,"ST_EEV_STDACCT","Croatia",4
+2018,"ST_EEV_STDACCT","Croatia",4
+2019,"ST_EEV_STDACCT","Croatia",9
+2020,"ST_EEV_STDACCT","Croatia",4
+2021,"ST_EEV_STDACCT","Croatia",1
+2008,"ST_EEV_STDACCT","Cyprus",1
+2009,"ST_EEV_STDACCT","Cyprus",1
+2010,"ST_EEV_STDACCT","Cyprus",1
+2011,"ST_EEV_STDACCT","Cyprus",1
+2012,"ST_EEV_STDACCT","Cyprus",1
+2013,"ST_EEV_STDACCT","Cyprus",1
+2014,"ST_EEV_STDACCT","Cyprus",2
+2015,"ST_EEV_STDACCT","Cyprus",2
+2016,"ST_EEV_STDACCT","Cyprus",2
+2017,"ST_EEV_STDACCT","Cyprus",2
+2018,"ST_EEV_STDACCT","Cyprus",2
+2019,"ST_EEV_STDACCT","Cyprus",2
+2020,"ST_EEV_STDACCT","Cyprus",2
+2008,"ST_EEV_STDACCT","Czechia",8
+2009,"ST_EEV_STDACCT","Czechia",8
+2010,"ST_EEV_STDACCT","Czechia",8
+2011,"ST_EEV_STDACCT","Czechia",8
+2012,"ST_EEV_STDACCT","Czechia",8
+2013,"ST_EEV_STDACCT","Czechia",8
+2014,"ST_EEV_STDACCT","Czechia",9
+2015,"ST_EEV_STDACCT","Czechia",9
+2016,"ST_EEV_STDACCT","Czechia",9
+2017,"ST_EEV_STDACCT","Czechia",9
+2018,"ST_EEV_STDACCT","Czechia",9
+2019,"ST_EEV_STDACCT","Czechia",9
+2020,"ST_EEV_STDACCT","Czechia",9
+2021,"ST_EEV_STDACCT","Czechia",0
+2008,"ST_EEV_STDACCT","Denmark",9
+2009,"ST_EEV_STDACCT","Denmark",2
+2010,"ST_EEV_STDACCT","Denmark",10
+2011,"ST_EEV_STDACCT","Denmark",11
+2012,"ST_EEV_STDACCT","Denmark",11
+2013,"ST_EEV_STDACCT","Denmark",11
+2014,"ST_EEV_STDACCT","Denmark",11
+2015,"ST_EEV_STDACCT","Denmark",11
+2016,"ST_EEV_STDACCT","Denmark",11
+2017,"ST_EEV_STDACCT","Denmark",11
+2018,"ST_EEV_STDACCT","Denmark",11
+2019,"ST_EEV_STDACCT","Denmark",11
+2020,"ST_EEV_STDACCT","Denmark",11
+2008,"ST_EEV_STDACCT","Estonia",7
+2009,"ST_EEV_STDACCT","Estonia",7
+2010,"ST_EEV_STDACCT","Estonia",7
+2011,"ST_EEV_STDACCT","Estonia",7
+2012,"ST_EEV_STDACCT","Estonia",7
+2013,"ST_EEV_STDACCT","Estonia",7
+2014,"ST_EEV_STDACCT","Estonia",8
+2015,"ST_EEV_STDACCT","Estonia",8
+2016,"ST_EEV_STDACCT","Estonia",8
+2017,"ST_EEV_STDACCT","Estonia",8
+2018,"ST_EEV_STDACCT","Estonia",2
+2019,"ST_EEV_STDACCT","Estonia",2
+2008,"ST_EEV_STDACCT","Finland",1
+2009,"ST_EEV_STDACCT","Finland",1
+2010,"ST_EEV_STDACCT","Finland",1
+2011,"ST_EEV_STDACCT","Finland",7
+2012,"ST_EEV_STDACCT","Finland",7
+2013,"ST_EEV_STDACCT","Finland",7
+2014,"ST_EEV_STDACCT","Finland",7
+2015,"ST_EEV_STDACCT","Finland",7
+2016,"ST_EEV_STDACCT","Finland",7
+2017,"ST_EEV_STDACCT","Finland",7
+2018,"ST_EEV_STDACCT","Finland",7
+2019,"ST_EEV_STDACCT","Finland",7
+2020,"ST_EEV_STDACCT","Finland",7
+2008,"ST_EEV_STDACCT","France",3
+2009,"ST_EEV_STDACCT","France",2
+2010,"ST_EEV_STDACCT","France",6
+2011,"ST_EEV_STDACCT","France",5
+2012,"ST_EEV_STDACCT","France",6
+2013,"ST_EEV_STDACCT","France",5
+2014,"ST_EEV_STDACCT","France",7
+2015,"ST_EEV_STDACCT","France",6
+2016,"ST_EEV_STDACCT","France",7
+2017,"ST_EEV_STDACCT","France",6
+2018,"ST_EEV_STDACCT","France",4
+2019,"ST_EEV_STDACCT","France",0
+2020,"ST_EEV_STDACCT","France",0
+2019,"ST_EEV_STDACCT","Uzbekistan",3
+2019,"ST_EEV_STDACCT","Uzbekistan",3

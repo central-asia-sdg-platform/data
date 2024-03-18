@@ -1,0 +1,123 @@
+Year,SeriesCode,GeoAreaName,Level/Status,Value
+2017,"ER_H2O_IWRMD_MI","Albania","_T",51
+2020,"ER_H2O_IWRMD_MI","Albania","_T",47
+2017,"ER_H2O_IWRMD_MI","Azerbaijan","_T",72
+2020,"ER_H2O_IWRMD_MI","Azerbaijan","_T",54
+2017,"ER_H2O_IWRMD_MI","Australia","_T",88
+2020,"ER_H2O_IWRMD_MI","Australia","_T",91
+2017,"ER_H2O_IWRMD_MI","Austria","_T",100
+2020,"ER_H2O_IWRMD_MI","Austria","_T",93
+2017,"ER_H2O_IWRMD_MI","Armenia","_T",28
+2020,"ER_H2O_IWRMD_MI","Armenia","_T",47
+2017,"ER_H2O_IWRMD_MI","Belgium","_T",78
+2020,"ER_H2O_IWRMD_MI","Belgium","_T",88
+2017,"ER_H2O_IWRMD_MI","Bosnia and Herzegovina","_T",62
+2020,"ER_H2O_IWRMD_MI","Bosnia and Herzegovina","_T",56
+2017,"ER_H2O_IWRMD_MI","Bulgaria","_T",62
+2020,"ER_H2O_IWRMD_MI","Bulgaria","_T",70
+2017,"ER_H2O_IWRMD_MI","Belarus","_T",58
+2020,"ER_H2O_IWRMD_MI","Belarus","_T",66
+2020,"ER_H2O_IWRMD_MI","Canada","_T",0
+2017,"ER_H2O_IWRMD_MI","Chile","_T",19
+2020,"ER_H2O_IWRMD_MI","Chile","_T",38
+2017,"ER_H2O_IWRMD_MI","China","_T",76
+2020,"ER_H2O_IWRMD_MI","China","_T",79
+2017,"ER_H2O_IWRMD_MI","Colombia","_T",53
+2020,"ER_H2O_IWRMD_MI","Colombia","_T",57
+2017,"ER_H2O_IWRMD_MI","Costa Rica","_T",51
+2020,"ER_H2O_IWRMD_MI","Costa Rica","_T",52
+2017,"ER_H2O_IWRMD_MI","Croatia","_T",84
+2020,"ER_H2O_IWRMD_MI","Croatia","_T",84
+2017,"ER_H2O_IWRMD_MI","Cyprus","_T",85
+2020,"ER_H2O_IWRMD_MI","Cyprus","_T",89
+2017,"ER_H2O_IWRMD_MI","Czechia","_T",82
+2020,"ER_H2O_IWRMD_MI","Czechia","_T",83
+2017,"ER_H2O_IWRMD_MI","Denmark","_T",94
+2020,"ER_H2O_IWRMD_MI","Denmark","_T",96
+2017,"ER_H2O_IWRMD_MI","Estonia","_T",80
+2020,"ER_H2O_IWRMD_MI","Estonia","_T",80
+2017,"ER_H2O_IWRMD_MI","Finland","_T",77
+2020,"ER_H2O_IWRMD_MI","Finland","_T",82
+2017,"ER_H2O_IWRMD_MI","France","_T",100
+2020,"ER_H2O_IWRMD_MI","France","_T",100
+2017,"ER_H2O_IWRMD_MI","Georgia","_T",32
+2020,"ER_H2O_IWRMD_MI","Georgia","_T",39
+2017,"ER_H2O_IWRMD_MI","Germany","_T",83
+2020,"ER_H2O_IWRMD_MI","Germany","_T",87
+2017,"ER_H2O_IWRMD_MI","Greece","_T",77
+2020,"ER_H2O_IWRMD_MI","Greece","_T",87
+2017,"ER_H2O_IWRMD_MI","Hungary","_T",76
+2020,"ER_H2O_IWRMD_MI","Hungary","_T",77
+2017,"ER_H2O_IWRMD_MI","Iceland","_T",75
+2020,"ER_H2O_IWRMD_MI","Iceland","_T",78
+2020,"ER_H2O_IWRMD_MI","India","_T",63
+2017,"ER_H2O_IWRMD_MI","Ireland","_T",82
+2020,"ER_H2O_IWRMD_MI","Ireland","_T",84
+2017,"ER_H2O_IWRMD_MI","Israel","_T",82
+2020,"ER_H2O_IWRMD_MI","Israel","_T",81
+2017,"ER_H2O_IWRMD_MI","Italy","_T",51
+2020,"ER_H2O_IWRMD_MI","Italy","_T",76
+2017,"ER_H2O_IWRMD_MI","Japan","_T",90
+2020,"ER_H2O_IWRMD_MI","Japan","_T",93
+2017,"ER_H2O_IWRMD_MI","Kazakhstan","_T",40
+2020,"ER_H2O_IWRMD_MI","Kazakhstan","_T",51
+2017,"ER_H2O_IWRMD_MI","Republic of Korea","_T",80
+2020,"ER_H2O_IWRMD_MI","Republic of Korea","_T",83
+2020,"ER_H2O_IWRMD_MI","Kyrgyzstan","_T",43
+2017,"ER_H2O_IWRMD_MI","Latvia","_T",69
+2020,"ER_H2O_IWRMD_MI","Latvia","_T",77
+2017,"ER_H2O_IWRMD_MI","Liechtenstein","_T",73
+2020,"ER_H2O_IWRMD_MI","Liechtenstein","_T",70
+2017,"ER_H2O_IWRMD_MI","Lithuania","_T",62
+2020,"ER_H2O_IWRMD_MI","Lithuania","_T",62
+2017,"ER_H2O_IWRMD_MI","Luxembourg","_T",92
+2020,"ER_H2O_IWRMD_MI","Luxembourg","_T",90
+2017,"ER_H2O_IWRMD_MI","Malta","_T",76
+2020,"ER_H2O_IWRMD_MI","Malta","_T",88
+2017,"ER_H2O_IWRMD_MI","Mexico","_T",53
+2020,"ER_H2O_IWRMD_MI","Mexico","_T",43
+2017,"ER_H2O_IWRMD_MI","Republic of Moldova","_T",31
+2020,"ER_H2O_IWRMD_MI","Republic of Moldova","_T",46
+2017,"ER_H2O_IWRMD_MI","Montenegro","_T",40
+2020,"ER_H2O_IWRMD_MI","Montenegro","_T",38
+2017,"ER_H2O_IWRMD_MI","Netherlands (Kingdom of the)","_T",88
+2020,"ER_H2O_IWRMD_MI","Netherlands (Kingdom of the)","_T",87
+2017,"ER_H2O_IWRMD_MI","New Zealand","_T",59
+2020,"ER_H2O_IWRMD_MI","New Zealand","_T",64
+2017,"ER_H2O_IWRMD_MI","Norway","_T",64
+2020,"ER_H2O_IWRMD_MI","Norway","_T",66
+2017,"ER_H2O_IWRMD_MI","Poland","_T",40
+2020,"ER_H2O_IWRMD_MI","Poland","_T",72
+2017,"ER_H2O_IWRMD_MI","Portugal","_T",78
+2020,"ER_H2O_IWRMD_MI","Portugal","_T",78
+2017,"ER_H2O_IWRMD_MI","Romania","_T",84
+2020,"ER_H2O_IWRMD_MI","Romania","_T",82
+2017,"ER_H2O_IWRMD_MI","Serbia","_T",37
+2020,"ER_H2O_IWRMD_MI","Serbia","_T",42
+2017,"ER_H2O_IWRMD_MI","Slovakia","_T",66
+2020,"ER_H2O_IWRMD_MI","Slovakia","_T",62
+2017,"ER_H2O_IWRMD_MI","Viet Nam","_T",36
+2020,"ER_H2O_IWRMD_MI","Viet Nam","_T",44
+2017,"ER_H2O_IWRMD_MI","Slovenia","_T",62
+2020,"ER_H2O_IWRMD_MI","Slovenia","_T",81
+2017,"ER_H2O_IWRMD_MI","Spain","_T",90
+2020,"ER_H2O_IWRMD_MI","Spain","_T",90
+2017,"ER_H2O_IWRMD_MI","Sweden","_T",87
+2020,"ER_H2O_IWRMD_MI","Sweden","_T",87
+2017,"ER_H2O_IWRMD_MI","Switzerland","_T",81
+2020,"ER_H2O_IWRMD_MI","Switzerland","_T",81
+2020,"ER_H2O_IWRMD_MI","Tajikistan","_T",48
+2017,"ER_H2O_IWRMD_MI","United Arab Emirates","_T",71
+2020,"ER_H2O_IWRMD_MI","United Arab Emirates","_T",73
+2017,"ER_H2O_IWRMD_MI","Türkiye","_T",70
+2020,"ER_H2O_IWRMD_MI","Türkiye","_T",73
+2020,"ER_H2O_IWRMD_MI","Turkmenistan","_T",63
+2017,"ER_H2O_IWRMD_MI","Ukraine","_T",40
+2020,"ER_H2O_IWRMD_MI","Ukraine","_T",40
+2017,"ER_H2O_IWRMD_MI","North Macedonia","_T",27
+2020,"ER_H2O_IWRMD_MI","North Macedonia","_T",43
+2017,"ER_H2O_IWRMD_MI","United Kingdom of Great Britain and Northern Ireland","_T",76
+2020,"ER_H2O_IWRMD_MI","United Kingdom of Great Britain and Northern Ireland","_T",76
+2017,"ER_H2O_IWRMD_MI","Uzbekistan","_T",56
+2020,"ER_H2O_IWRMD_MI","Uzbekistan","_T",60
+2020,"ER_H2O_IWRMD_MI","Uzbekistan","_T",60

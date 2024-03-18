@@ -1,0 +1,157 @@
+Year,SeriesCode,GeoAreaName,Value
+2011,"SI_RMT_COST_SND","Australia",13.64
+2015,"SI_RMT_COST_SND","Australia",9.24
+2017,"SI_RMT_COST_SND","Australia",8.84
+2018,"SI_RMT_COST_SND","Australia",7.77
+2019,"SI_RMT_COST_SND","Australia",7.42
+2020,"SI_RMT_COST_SND","Australia",7.21
+2021,"SI_RMT_COST_SND","Australia",7.25
+2015,"SI_RMT_COST_SND","Austria",6.25
+2017,"SI_RMT_COST_SND","Austria",6.91
+2018,"SI_RMT_COST_SND","Austria",6.44
+2019,"SI_RMT_COST_SND","Austria",6.18
+2020,"SI_RMT_COST_SND","Austria",6.37
+2021,"SI_RMT_COST_SND","Austria",6.39
+2011,"SI_RMT_COST_SND","Belgium",9.54
+2015,"SI_RMT_COST_SND","Belgium",6.97
+2017,"SI_RMT_COST_SND","Belgium",7.50
+2018,"SI_RMT_COST_SND","Belgium",7.31
+2019,"SI_RMT_COST_SND","Belgium",7.79
+2020,"SI_RMT_COST_SND","Belgium",7.58
+2021,"SI_RMT_COST_SND","Belgium",6.90
+2011,"SI_RMT_COST_SND","Canada",11.87
+2015,"SI_RMT_COST_SND","Canada",9.08
+2017,"SI_RMT_COST_SND","Canada",7.29
+2018,"SI_RMT_COST_SND","Canada",8.02
+2019,"SI_RMT_COST_SND","Canada",7.94
+2020,"SI_RMT_COST_SND","Canada",6.27
+2021,"SI_RMT_COST_SND","Canada",6.60
+2011,"SI_RMT_COST_SND","Chile",2.90
+2015,"SI_RMT_COST_SND","Chile",5.22
+2017,"SI_RMT_COST_SND","Chile",4.25
+2018,"SI_RMT_COST_SND","Chile",4.59
+2019,"SI_RMT_COST_SND","Chile",2.64
+2020,"SI_RMT_COST_SND","Chile",7.57
+2021,"SI_RMT_COST_SND","Chile",5.26
+2011,"SI_RMT_COST_SND","Costa Rica",3.91
+2015,"SI_RMT_COST_SND","Costa Rica",3.12
+2017,"SI_RMT_COST_SND","Costa Rica",3.33
+2018,"SI_RMT_COST_SND","Costa Rica",5.50
+2019,"SI_RMT_COST_SND","Costa Rica",5.83
+2020,"SI_RMT_COST_SND","Costa Rica",5.13
+2021,"SI_RMT_COST_SND","Costa Rica",7.50
+2011,"SI_RMT_COST_SND","Czechia",11.47
+2015,"SI_RMT_COST_SND","Czechia",9.07
+2017,"SI_RMT_COST_SND","Czechia",9.85
+2018,"SI_RMT_COST_SND","Czechia",8.88
+2019,"SI_RMT_COST_SND","Czechia",8.98
+2020,"SI_RMT_COST_SND","Czechia",8.71
+2021,"SI_RMT_COST_SND","Czechia",7.07
+2011,"SI_RMT_COST_SND","France",11.63
+2015,"SI_RMT_COST_SND","France",7.56
+2017,"SI_RMT_COST_SND","France",6.57
+2018,"SI_RMT_COST_SND","France",6.53
+2019,"SI_RMT_COST_SND","France",6.83
+2020,"SI_RMT_COST_SND","France",6.30
+2021,"SI_RMT_COST_SND","France",6.21
+2011,"SI_RMT_COST_SND","Germany",12.64
+2015,"SI_RMT_COST_SND","Germany",7.32
+2017,"SI_RMT_COST_SND","Germany",7.57
+2018,"SI_RMT_COST_SND","Germany",7.31
+2019,"SI_RMT_COST_SND","Germany",7.64
+2020,"SI_RMT_COST_SND","Germany",7.47
+2021,"SI_RMT_COST_SND","Germany",6.37
+2017,"SI_RMT_COST_SND","India",3.03
+2020,"SI_RMT_COST_SND","India",3.95
+2021,"SI_RMT_COST_SND","India",6.66
+2017,"SI_RMT_COST_SND","Israel",11.23
+2018,"SI_RMT_COST_SND","Israel",10.48
+2019,"SI_RMT_COST_SND","Israel",12.03
+2020,"SI_RMT_COST_SND","Israel",12.31
+2021,"SI_RMT_COST_SND","Israel",13.91
+2011,"SI_RMT_COST_SND","Italy",8.18
+2015,"SI_RMT_COST_SND","Italy",6.05
+2017,"SI_RMT_COST_SND","Italy",5.98
+2018,"SI_RMT_COST_SND","Italy",6.08
+2019,"SI_RMT_COST_SND","Italy",6.33
+2020,"SI_RMT_COST_SND","Italy",6.15
+2021,"SI_RMT_COST_SND","Italy",4.76
+2011,"SI_RMT_COST_SND","Japan",16.84
+2015,"SI_RMT_COST_SND","Japan",12.97
+2017,"SI_RMT_COST_SND","Japan",10.85
+2018,"SI_RMT_COST_SND","Japan",9.58
+2019,"SI_RMT_COST_SND","Japan",9.99
+2020,"SI_RMT_COST_SND","Japan",10.58
+2021,"SI_RMT_COST_SND","Japan",7.95
+2011,"SI_RMT_COST_SND","Republic of Korea",6.36
+2015,"SI_RMT_COST_SND","Republic of Korea",5.43
+2017,"SI_RMT_COST_SND","Republic of Korea",4.81
+2018,"SI_RMT_COST_SND","Republic of Korea",5.07
+2019,"SI_RMT_COST_SND","Republic of Korea",4.87
+2020,"SI_RMT_COST_SND","Republic of Korea",4.74
+2021,"SI_RMT_COST_SND","Republic of Korea",4.18
+2011,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",9.53
+2015,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",8.77
+2017,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",8.20
+2018,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",7.76
+2019,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",6.86
+2020,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",7.30
+2021,"SI_RMT_COST_SND","Netherlands (Kingdom of the)",6.55
+2011,"SI_RMT_COST_SND","New Zealand",11.99
+2015,"SI_RMT_COST_SND","New Zealand",8.32
+2017,"SI_RMT_COST_SND","New Zealand",9.18
+2018,"SI_RMT_COST_SND","New Zealand",8.28
+2019,"SI_RMT_COST_SND","New Zealand",8.25
+2020,"SI_RMT_COST_SND","New Zealand",7.83
+2021,"SI_RMT_COST_SND","New Zealand",7.35
+2011,"SI_RMT_COST_SND","Norway",13.08
+2015,"SI_RMT_COST_SND","Norway",8.78
+2017,"SI_RMT_COST_SND","Norway",6.22
+2018,"SI_RMT_COST_SND","Norway",6.25
+2019,"SI_RMT_COST_SND","Norway",6.21
+2020,"SI_RMT_COST_SND","Norway",4.08
+2021,"SI_RMT_COST_SND","Norway",5.07
+2017,"SI_RMT_COST_SND","Portugal",7.90
+2018,"SI_RMT_COST_SND","Portugal",5.74
+2019,"SI_RMT_COST_SND","Portugal",7.68
+2020,"SI_RMT_COST_SND","Portugal",7.16
+2021,"SI_RMT_COST_SND","Portugal",6.03
+2011,"SI_RMT_COST_SND","Spain",6.63
+2015,"SI_RMT_COST_SND","Spain",6.06
+2017,"SI_RMT_COST_SND","Spain",5.63
+2018,"SI_RMT_COST_SND","Spain",5.64
+2019,"SI_RMT_COST_SND","Spain",5.35
+2020,"SI_RMT_COST_SND","Spain",5.03
+2021,"SI_RMT_COST_SND","Spain",5.16
+2017,"SI_RMT_COST_SND","Sweden",9.59
+2018,"SI_RMT_COST_SND","Sweden",8.09
+2019,"SI_RMT_COST_SND","Sweden",7.95
+2020,"SI_RMT_COST_SND","Sweden",7.93
+2021,"SI_RMT_COST_SND","Sweden",7.36
+2011,"SI_RMT_COST_SND","Switzerland",11.65
+2015,"SI_RMT_COST_SND","Switzerland",15.38
+2017,"SI_RMT_COST_SND","Switzerland",9.89
+2018,"SI_RMT_COST_SND","Switzerland",9.06
+2019,"SI_RMT_COST_SND","Switzerland",8.45
+2020,"SI_RMT_COST_SND","Switzerland",8.25
+2021,"SI_RMT_COST_SND","Switzerland",6.28
+2011,"SI_RMT_COST_SND","United Arab Emirates",3.90
+2015,"SI_RMT_COST_SND","United Arab Emirates",3.15
+2017,"SI_RMT_COST_SND","United Arab Emirates",4.32
+2018,"SI_RMT_COST_SND","United Arab Emirates",3.71
+2019,"SI_RMT_COST_SND","United Arab Emirates",3.47
+2020,"SI_RMT_COST_SND","United Arab Emirates",4.10
+2021,"SI_RMT_COST_SND","United Arab Emirates",3.89
+2017,"SI_RMT_COST_SND","Türkiye",10.41
+2018,"SI_RMT_COST_SND","Türkiye",13.09
+2019,"SI_RMT_COST_SND","Türkiye",13.60
+2020,"SI_RMT_COST_SND","Türkiye",11.11
+2021,"SI_RMT_COST_SND","Türkiye",22.44
+2011,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",7.73
+2015,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",7.41
+2017,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",7.01
+2018,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",7.08
+2019,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",7.28
+2020,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",6.57
+2021,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",6.06
+2021,"SI_RMT_COST_SND","United Kingdom of Great Britain and Northern Ireland",6.06
