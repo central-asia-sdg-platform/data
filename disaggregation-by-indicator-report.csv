@@ -1,4 +1,609 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"GeoAreaName, Age, Location, Sex",4
+#1-1-1,"GeoAreaName, Location, Age, Sex",4
+#1-1-1-a,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#1-1-1-b,"SeriesCode, GeoAreaName, Age, Sex",4
 #1-1-1-cmp,"GeoAreaName, SI_POV",2
+#1-2-1,"SeriesCode, GeoAreaName, Location",3
+#1-2-2-SD_MDP_ANDI,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#1-2-2-SD_MDP_CSMP,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#1-2-2-SD_MDP_MUHC,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#1-2-2-SD_MDP_MUHHC,"SeriesCode, GeoAreaName, Location",3
+#1-3-1-SI_COV_BENFTS,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_CHLD,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_DISAB,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_LMKT,"SeriesCode, GeoAreaName, Quantile",3
+#1-3-1-SI_COV_MATNL,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_PENSN,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_POOR,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_SOCAST,"SeriesCode, GeoAreaName, Quantile",3
+#1-3-1-SI_COV_SOCINS,"SeriesCode, GeoAreaName, Quantile",3
+#1-3-1-SI_COV_UEMP,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_VULN,"SeriesCode, GeoAreaName, Sex",3
+#1-3-1-SI_COV_WKINJRY,"SeriesCode, GeoAreaName, Sex",3
+#1-4-1-SP_ACS_BSRVH2O,"SeriesCode, GeoAreaName, Location",3
+#1-4-1-SP_ACS_BSRVSAN,"SeriesCode, GeoAreaName, Location",3
+#1-4-2-SP_LGL_LNDDOC,"SeriesCode, GeoAreaName, Sex",3
+#1-4-2-SP_LGL_LNDSEC,"SeriesCode, GeoAreaName, Sex",3
+#1-4-2-SP_LGL_LNDSTR,"SeriesCode, GeoAreaName, Sex",3
+#1-5-1-VC_DSR_AFFCT,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_DAFF,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_IJILN,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_MISS,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_MMHN,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_MORT,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_MTMP,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_PDAN,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_PDLN,"SeriesCode, GeoAreaName",2
+#1-5-1-VC_DSR_PDYN,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_AGLH,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_CHLN,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_CILN,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_DDPA,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_GDPLS,"SeriesCode, GeoAreaName",2
+#1-5-2-VC_DSR_LSGP,"SeriesCode, GeoAreaName",2
+#1-5-3-SG_DSR_LGRGSR,"SeriesCode, GeoAreaName",2
+#1-5-4-SG_DSR_SILN,"SeriesCode, GeoAreaName",2
+#1-5-4-SG_DSR_SILS,"SeriesCode, GeoAreaName",2
+#1-a-1-DC_ODA_POVDLG,"SeriesCode, GeoAreaName",2
+#1-a-1-DC_ODA_POVLG,"SeriesCode, GeoAreaName",2
+#1-b-1,"SeriesCode, GeoAreaName",2
+#10-1-1,"SeriesCode, GeoAreaName, Quantile",3
+#10-2-1,"SeriesCode, GeoAreaName, Quantile",3
+#10-3-1,"SeriesCode, GeoAreaName, Location, Sex, Disability status, Grounds of discrimination",6
+#10-4-1,"SeriesCode, GeoAreaName",2
+#10-4-2,"SeriesCode, GeoAreaName, Fiscal intervention stage",3
+#10-5-1,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSERA,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSKA,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSKNL,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSKRTC,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSLS,"SeriesCode, GeoAreaName",2
+#10-5-1-FI_FSI_FSSNO,"SeriesCode, GeoAreaName",2
+#10-6-1-SG_INT_MBRDEV,"SeriesCode, GeoAreaName, Name of international institution",3
+#10-6-1-SG_INT_VRTDEV,"SeriesCode, GeoAreaName, Name of international institution",3
+#10-7-2-SG_CPA_MIGRS,"SeriesCode, GeoAreaName, Policy Domains",3
+#10-7-3,"SeriesCode, GeoAreaName",2
+#10-7-4,"SeriesCode, GeoAreaName",2
+#10-a-1,"SeriesCode, GeoAreaName, Type of product",3
+#10-b-1-DC_TRF_TOTDL,"SeriesCode, GeoAreaName",2
+#10-b-1-DC_TRF_TOTL,"SeriesCode, GeoAreaName",2
+#10-c-1-SI_RMT_COST,"SeriesCode, GeoAreaName",2
+#10-c-1-SI_RMT_COST_BC,"SeriesCode, GeoAreaName, Counterpart",3
+#10-c-1-SI_RMT_COST_SC,"SeriesCode, GeoAreaName, Counterpart",3
+#10-c-1-SI_RMT_COST_SND,"SeriesCode, GeoAreaName",2
+#11-1-1,"SeriesCode, GeoAreaName, Location",3
+#11-2-1,"SeriesCode, GeoAreaName, Cities",3
+#11-3-1,"SeriesCode, GeoAreaName, Cities",3
+#11-4-1,"SeriesCode, GeoAreaName, Level_of_government",3
+#11-5-1-VC_DSR_AFFCT,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_DAFF,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_IJILN,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_MISS,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_MMHN,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_MORT,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_MTMP,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_PDAN,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_PDLN,"SeriesCode, GeoAreaName",2
+#11-5-1-VC_DSR_PDYN,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_AGLH,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_CHLN,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_CILN,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_DDPA,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_GDPLS,"SeriesCode, GeoAreaName",2
+#11-5-2-VC_DSR_LSGP,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_BSDN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_CDAN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_CDYN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_EFDN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_ESDN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_HFDN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_HSDN,"SeriesCode, GeoAreaName",2
+#11-5-3-VC_DSR_OBDN,"SeriesCode, GeoAreaName",2
+#11-6-1,"SeriesCode, GeoAreaName, Cities",3
+#11-6-2,"SeriesCode, GeoAreaName, Location",3
+#11-7-1,"SeriesCode, GeoAreaName, Cities",3
+#11-7-2,"SeriesCode, GeoAreaName, Sex",3
+#11-a-1,"SeriesCode, GeoAreaName",2
+#11-b-1-SG_DSR_LGRGSR,"SeriesCode, GeoAreaName",2
+#11-b-2-SG_DSR_SILN,"SeriesCode, GeoAreaName",2
+#11-b-2-SG_DSR_SILS,"SeriesCode, GeoAreaName",2
+#11-b-2-SG_GOV_LOGV,"SeriesCode, GeoAreaName",2
+#12-1-1-SG_SCP_CNTRY,"SeriesCode, GeoAreaName",2
+#12-1-1-SG_SCP_POLINS,"SeriesCode, GeoAreaName, Policy instruments",3
+#12-1-1-SG_SCP_TOTLN,"SeriesCode, GeoAreaName",2
+#12-2-2-EN_MAT_DOMCMPC,"SeriesCode, GeoAreaName, Type of product",3
+#12-2-2-EN_MAT_DOMCMPG,"SeriesCode, GeoAreaName, Type of product",3
+#12-2-2-EN_MAT_DOMCMPT,"SeriesCode, GeoAreaName, Type of product",3
+#12-3-1-AG_FOOD_WST,"SeriesCode, GeoAreaName, Food Waste Sector",3
+#12-3-1-AG_FOOD_WST_PC,"SeriesCode, GeoAreaName, Food Waste Sector",3
+#12-4-1-SG_HAZ_CMRBASEL,"SeriesCode, GeoAreaName",2
+#12-4-1-SG_HAZ_CMRMNMT,"SeriesCode, GeoAreaName",2
+#12-4-1-SG_HAZ_CMRMNTRL,"SeriesCode, GeoAreaName",2
+#12-4-1-SG_HAZ_CMRROTDAM,"SeriesCode, GeoAreaName",2
+#12-4-1-SG_HAZ_CMRSTHOLM,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_EWT_COLLPCAP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_EWT_COLLR,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_EWT_COLLV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_EWT_GENPCAP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_EWT_GENV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_EXP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_GENGDP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_GENV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_IMP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_PCAP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_TREATV,"SeriesCode, GeoAreaName, Type of waste treatment",3
+#12-4-2-EN_HAZ_TRTDISR,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_HAZ_TRTDISV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_MWT_COLLV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_MWT_EXP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_MWT_GENV,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_MWT_IMP,"SeriesCode, GeoAreaName",2
+#12-4-2-EN_MWT_TREATR,"SeriesCode, GeoAreaName, Type of waste treatment",3
+#12-4-2-EN_MWT_TREATV,"SeriesCode, GeoAreaName, Type of waste treatment",3
+#12-4-2-EN_TWT_GENV,"SeriesCode, GeoAreaName, Activity",3
+#12-5-1-EN_EWT_RCYPCAP,"SeriesCode, GeoAreaName",2
+#12-5-1-EN_EWT_RCYR,"SeriesCode, GeoAreaName",2
+#12-5-1-EN_EWT_RCYV,"SeriesCode, GeoAreaName",2
+#12-5-1-EN_MWT_RCYR,"SeriesCode, GeoAreaName",2
+#12-5-1-EN_MWT_RCYV,"SeriesCode, GeoAreaName",2
+#12-6-1-EN_SCP_FRMN,"SeriesCode, GeoAreaName, Activity, Level of requirement",4
+#12-7-1-SG_SCP_PROCN,"SeriesCode, GeoAreaName, Level/Status",3
+#12-7-1-SG_SCP_PROCN_HS,"SeriesCode, GeoAreaName, Government_Name, Level/Status",4
+#12-7-1-SG_SCP_PROCN_LS,"SeriesCode, GeoAreaName, Government_Name, Level/Status",4
+#12-8-1,"SeriesCode, GeoAreaName",2
+#12-a-1,"SeriesCode, GeoAreaName, Type of renewable technology",3
+#12-b-1-ST_EEV_ACCSEEA,"SeriesCode, GeoAreaName",2
+#12-b-1-ST_EEV_ACCTSA,"SeriesCode, GeoAreaName",2
+#12-b-1-ST_EEV_STDACCT,"SeriesCode, GeoAreaName",2
+#12-c-1-ER_FFS_CMPT_CD,"SeriesCode, GeoAreaName",2
+#12-c-1-ER_FFS_CMPT_GDP,"SeriesCode, GeoAreaName",2
+#12-c-1-ER_FFS_CMPT_PC_CD,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_AFFCT,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_DAFF,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_IJILN,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_MISS,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_MMHN,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_MORT,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_MTMP,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_PDAN,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_PDLN,"SeriesCode, GeoAreaName",2
+#13-1-1-VC_DSR_PDYN,"SeriesCode, GeoAreaName",2
+#13-1-2-SG_DSR_LGRGSR,"SeriesCode, GeoAreaName",2
+#13-1-3-SG_DSR_SILN,"SeriesCode, GeoAreaName",2
+#13-1-3-SG_DSR_SILS,"SeriesCode, GeoAreaName",2
+#13-1-3-SG_GOV_LOGV,"SeriesCode, GeoAreaName",2
+#13-2-2-EN_ATM_GHGT_AIP,"SeriesCode, GeoAreaName",2
+#13-2-2-EN_ATM_GHGT_NAIP,"SeriesCode, GeoAreaName",2
+#13-3-1,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_BEALITSQ,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_BEALIT_BP,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_BEALIT_BV,"SeriesCode, GeoAreaName, Counterpart",3
+#14-1-1-EN_MAR_BEALIT_EXP,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_BEALIT_OP,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_BEALIT_OV,"SeriesCode, GeoAreaName",2
+#14-1-1-EN_MAR_CHLANM,"SeriesCode, GeoAreaName, Frequency of Chlorophyll-a concentration",3
+#14-1-1-EN_MAR_CHLDEV,"SeriesCode, GeoAreaName",2
+#14-2-1,"SeriesCode, GeoAreaName, Level/Status",3
+#14-3-1,"SeriesCode, GeoAreaName, Sampling Stations",3
+#14-4-1,"SeriesCode, GeoAreaName",2
+#14-5-1,"SeriesCode, GeoAreaName",2
+#14-6-1,"SeriesCode, GeoAreaName",2
+#14-7-1,"SeriesCode, GeoAreaName",2
+#14-a-1,"SeriesCode, GeoAreaName",2
+#14-b-1,"SeriesCode, GeoAreaName",2
+#14-c-1,"SeriesCode, GeoAreaName",2
+#15-1-1,"SeriesCode, GeoAreaName",2
+#15-1-2-ER_PTD_FRHWTR,"SeriesCode, GeoAreaName",2
+#15-1-2-ER_PTD_TERR,"SeriesCode, GeoAreaName",2
+#15-2-1-AG_LND_FRSTBIOPHA,"SeriesCode, GeoAreaName",2
+#15-2-1-AG_LND_FRSTCERT,"SeriesCode, GeoAreaName",2
+#15-2-1-AG_LND_FRSTCHG,"SeriesCode, GeoAreaName",2
+#15-2-1-AG_LND_FRSTMGT,"SeriesCode, GeoAreaName",2
+#15-2-1-AG_LND_FRSTPRCT,"SeriesCode, GeoAreaName",2
+#15-3-1,"SeriesCode, GeoAreaName",2
+#15-4-1,"SeriesCode, GeoAreaName",2
+#15-4-2-ER_MTN_DGRDA,"SeriesCode, GeoAreaName, Bioclimatic belt",3
+#15-4-2-ER_MTN_DGRDP,"SeriesCode, GeoAreaName, Bioclimatic belt",3
+#15-4-2-ER_MTN_GRNCOV,"SeriesCode, GeoAreaName, Bioclimatic belt, Land cover",4
+#15-4-2-ER_MTN_GRNCVI,"SeriesCode, GeoAreaName, Bioclimatic belt, Land cover",4
+#15-4-2-ER_MTN_TOTL,"SeriesCode, GeoAreaName, Bioclimatic belt",3
+#15-5-1,"SeriesCode, GeoAreaName",2
+#15-6-1-ER_CBD_ABSCLRHS,"SeriesCode, GeoAreaName",2
+#15-6-1-ER_CBD_NAGOYA,"SeriesCode, GeoAreaName",2
+#15-6-1-ER_CBD_ORSPGRFA,"SeriesCode, GeoAreaName",2
+#15-6-1-ER_CBD_PTYPGRFA,"SeriesCode, GeoAreaName",2
+#15-6-1-ER_CBD_SMTA,"SeriesCode, GeoAreaName",2
+#15-8-1-ER_IAS_GLOFUN,"SeriesCode, GeoAreaName",2
+#15-8-1-ER_IAS_LEGIS,"SeriesCode, GeoAreaName",2
+#15-8-1-ER_IAS_NATBUD,"SeriesCode, GeoAreaName",2
+#15-8-1-ER_IAS_NBSAP,"SeriesCode, GeoAreaName",2
+#15-9-1-ER_BDY_ABT2NP,"SeriesCode, GeoAreaName, Level/Status",3
+#15-9-1-ER_BDY_SEEA,"SeriesCode, GeoAreaName, Level/Status",3
+#15-a-1-DC_ODA_BDVDL,"SeriesCode, GeoAreaName",2
+#15-a-1-DC_ODA_BDVL,"SeriesCode, GeoAreaName",2
+#15-b-1-DC_ODA_BDVDL,"SeriesCode, GeoAreaName",2
+#15-b-1-DC_ODA_BDVL,"SeriesCode, GeoAreaName",2
+#16-1-1-VC_IHR_PSRC,"SeriesCode, GeoAreaName, Sex",3
+#16-1-1-VC_IHR_PSRCN,"SeriesCode, GeoAreaName, Sex",3
+#16-1-3-VC_VOV_PHYL,"SeriesCode, GeoAreaName, Sex",3
+#16-1-3-VC_VOV_ROBB,"SeriesCode, GeoAreaName, Sex",3
+#16-1-3-VC_VOV_SEXL,"SeriesCode, GeoAreaName, Sex",3
+#16-1-4,"SeriesCode, GeoAreaName, Sex",3
+#16-10-2,"SeriesCode, GeoAreaName",2
+#16-2-1,"SeriesCode, GeoAreaName, Age",3
+#16-2-2-VC_HTF_DETV,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVFL,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVFLR,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVOG,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVOGR,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVOP,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVOPR,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVR,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVSX,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-2-VC_HTF_DETVSXR,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-2-3,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-3-1-VC_PRR_PHYV,"SeriesCode, GeoAreaName, Sex",3
+#16-3-1-VC_PRR_ROBB,"SeriesCode, GeoAreaName, Sex",3
+#16-3-1-VC_PRR_SEXV,"SeriesCode, GeoAreaName, Sex",3
+#16-3-2,"SeriesCode, GeoAreaName, Sex",3
+#16-3-3,"SeriesCode, GeoAreaName, Sex, Disability status",4
+#16-4-1-DI_ILL_IN,"SeriesCode, GeoAreaName, Illicit Financial Flows",3
+#16-4-1-DI_ILL_OUT,"SeriesCode, GeoAreaName, Illicit Financial Flows",3
+#16-4-2,"SeriesCode, GeoAreaName",2
+#16-5-1,"SeriesCode, GeoAreaName, Sex",3
+#16-5-2,"SeriesCode, GeoAreaName",2
+#16-6-1,"SeriesCode, GeoAreaName",2
+#16-6-2-SP_PSR_OSATIS_GOV,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group",7
+#16-6-2-SP_PSR_OSATIS_HLTH,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group",7
+#16-6-2-SP_PSR_OSATIS_PRM,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group",7
+#16-6-2-SP_PSR_OSATIS_SEC,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group",7
+#16-6-2-SP_PSR_SATIS_GOV,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group, Service Attribute",8
+#16-6-2-SP_PSR_SATIS_HLTH,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group, Service Attribute",8
+#16-6-2-SP_PSR_SATIS_PRM,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group, Service Attribute",8
+#16-6-2-SP_PSR_SATIS_SEC,"SeriesCode, GeoAreaName, Location, Age, Sex, Disability status, Population Group, Service Attribute",8
+#16-7-1-SG_DMK_JDC,"SeriesCode, GeoAreaName, Age, Sex, Disability status, Population Group, Type of occupation",7
+#16-7-1-SG_DMK_JDC_CNS,"SeriesCode, GeoAreaName, Age, Sex, Disability status, Population Group, Type of occupation",7
+#16-7-1-SG_DMK_JDC_HGR,"SeriesCode, GeoAreaName, Age, Sex, Disability status, Population Group, Type of occupation",7
+#16-7-1-SG_DMK_JDC_LWR,"SeriesCode, GeoAreaName, Age, Sex, Disability status, Population Group, Type of occupation",7
+#16-7-1-SG_DMK_PARLCC_JC,"SeriesCode, GeoAreaName, Age, Parliamentary committees, Sex",5
+#16-7-1-SG_DMK_PARLCC_LC,"SeriesCode, GeoAreaName, Age, Parliamentary committees, Sex",5
+#16-7-1-SG_DMK_PARLCC_UC,"SeriesCode, GeoAreaName, Age, Parliamentary committees, Sex",5
+#16-7-1-SG_DMK_PARLMP_LC,"SeriesCode, GeoAreaName",2
+#16-7-1-SG_DMK_PARLMP_UC,"SeriesCode, GeoAreaName",2
+#16-7-1-SG_DMK_PARLSP_LC,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-7-1-SG_DMK_PARLSP_UC,"SeriesCode, GeoAreaName, Age, Sex",4
+#16-7-1-SG_DMK_PARLYN_LC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PARLYN_UC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PARLYP_LC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PARLYP_UC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PARLYR_LC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PARLYR_UC,"SeriesCode, GeoAreaName, Age",3
+#16-7-1-SG_DMK_PSRVC,"SeriesCode, GeoAreaName, Age, Sex, Disability status, Population Group, Type of occupation",7
+#16-7-2-IU_DMK_ICRS,"SeriesCode, GeoAreaName, Location, Age, Sex, Education level, Disability status, Population Group",8
+#16-7-2-IU_DMK_INCL,"SeriesCode, GeoAreaName, Location, Age, Sex, Education level, Disability status, Population Group",8
+#16-7-2-IU_DMK_RESP,"SeriesCode, GeoAreaName, Location, Age, Sex, Education level, Disability status, Population Group",8
+#16-8-1-SG_INT_MBRDEV,"SeriesCode, GeoAreaName, Name of international institution",3
+#16-8-1-SG_INT_VRTDEV,"SeriesCode, GeoAreaName, Name of international institution",3
+#16-9-1,"SeriesCode, GeoAreaName, Age",3
+#16-a-1-SG_NHR_IMPLN,"SeriesCode, GeoAreaName",2
+#16-a-1-SG_NHR_INTEXSTN,"SeriesCode, GeoAreaName",2
+#16-a-1-SG_NHR_NOAPPLN,"SeriesCode, GeoAreaName",2
+#16-a-1-SG_NHR_NOSTUSN,"SeriesCode, GeoAreaName",2
+#16-b-1,"SeriesCode, GeoAreaName, Location, Sex, Disability status, Grounds of discrimination",6
+#17-1-1-GR_G14_GDP,"SeriesCode, GeoAreaName",2
+#17-1-1-GR_G14_XDC,"SeriesCode, GeoAreaName",2
+#17-1-2,"SeriesCode, GeoAreaName",2
+#17-10-1-TM_TAX_WMFN,"SeriesCode, GeoAreaName, Type of product",3
+#17-10-1-TM_TAX_WMPS,"SeriesCode, GeoAreaName, Type of product",3
+#17-11-1-TX_EXP_GBMRCH,"SeriesCode, GeoAreaName",2
+#17-11-1-TX_EXP_GBSVR,"SeriesCode, GeoAreaName",2
+#17-11-1-TX_IMP_GBMRCH,"SeriesCode, GeoAreaName",2
+#17-11-1-TX_IMP_GBSVR,"SeriesCode, GeoAreaName",2
+#17-12-1-TM_TAX_DMFN,"SeriesCode, GeoAreaName, Type of product",3
+#17-12-1-TM_TAX_DPRF,"SeriesCode, GeoAreaName, Type of product",3
+#17-13-1-BN_CAB_XOKA_GD_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-BN_KLT_PTXL_CD,"SeriesCode, GeoAreaName",2
+#17-13-1-BX_KLT_DINV_WD_GD_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-DP_DOD_DLD2_CR_CG_Z1,"SeriesCode, GeoAreaName",2
+#17-13-1-DT_DOD_DECT_GN_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-FB_BNK_CAPA_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-FI_RES_TOTL_MO,"SeriesCode, GeoAreaName",2
+#17-13-1-FM_LBL_BMNY_IR_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-FM_LBL_BMNY_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-FP_CPI_TOTL_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-GC_BAL_CASH_GD_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-GC_TAX_TOTL_GD_ZS,"SeriesCode, GeoAreaName",2
+#17-13-1-NE_CON_GOVT_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-NE_CON_PRVT_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-NE_EXP_GNFS_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-NE_GDI_TOTL_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-NE_IMP_GNFS_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-NY_GDP_MKTP_KD_ZG,"SeriesCode, GeoAreaName",2
+#17-13-1-PA_NUS_ATLS,"SeriesCode, GeoAreaName",2
+#17-13-1-TG_VAL_TOTL_GD_ZS,"SeriesCode, GeoAreaName",2
+#17-14-1,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_PRPOLRES,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_PRVNDI,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_PRVRICTRY,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_PRVRIMON,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_RECNDI,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_RECRICTRY,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_RECRIMON,"SeriesCode, GeoAreaName",2
+#17-15-1-SG_PLN_REPOLRES,"SeriesCode, GeoAreaName",2
+#17-16-1-SG_PLN_MSTKSDG_P,"SeriesCode, GeoAreaName",2
+#17-16-1-SG_PLN_MSTKSDG_R,"SeriesCode, GeoAreaName",2
+#17-17-1-GF_COM_PPPI,"SeriesCode, GeoAreaName",2
+#17-17-1-GF_COM_PPPI_KD,"SeriesCode, GeoAreaName",2
+#17-18-1-IQ_SPI_PIL4,"SeriesCode, GeoAreaName",2
+#17-18-1-IQ_SPI_PIL5,"SeriesCode, GeoAreaName",2
+#17-18-1-SG_STT_ODIN,"SeriesCode, GeoAreaName",2
+#17-18-2,"SeriesCode, GeoAreaName",2
+#17-18-3-SG_STT_NSDSFDDNR,"SeriesCode, GeoAreaName",2
+#17-18-3-SG_STT_NSDSFDGVT,"SeriesCode, GeoAreaName",2
+#17-18-3-SG_STT_NSDSFDOTHR,"SeriesCode, GeoAreaName",2
+#17-18-3-SG_STT_NSDSFND,"SeriesCode, GeoAreaName",2
+#17-18-3-SG_STT_NSDSIMPL,"SeriesCode, GeoAreaName",2
+#17-19-1,"SeriesCode, GeoAreaName",2
+#17-19-2-SG_REG_BRTH90N,"SeriesCode, GeoAreaName",2
+#17-19-2-SG_REG_CENSUSN,"SeriesCode, GeoAreaName",2
+#17-19-2-SG_REG_DETH75N,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_LDCG,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_LDCS,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_LLDC,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_LLDCG,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_SIDS,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_SIDSG,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_TOTG,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_TOTGGE,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_TOTL,"SeriesCode, GeoAreaName",2
+#17-2-1-DC_ODA_TOTLGE,"SeriesCode, GeoAreaName",2
+#17-3-1-DC_OSSD_GRT,"SeriesCode, GeoAreaName",2
+#17-3-1-DC_OSSD_MPF,"SeriesCode, GeoAreaName",2
+#17-3-1-DC_OSSD_OFFCL,"SeriesCode, GeoAreaName",2
+#17-3-1-DC_OSSD_OFFNL,"SeriesCode, GeoAreaName",2
+#17-3-1-DC_OSSD_PRVGRT,"SeriesCode, GeoAreaName",2
+#17-3-1-GF_FRN_FDI,"SeriesCode, GeoAreaName",2
+#17-3-2,"SeriesCode, GeoAreaName",2
+#17-4-1,"SeriesCode, GeoAreaName",2
+#17-6-1-IT_NET_BBND,"SeriesCode, GeoAreaName, Type of speed",3
+#17-6-1-IT_NET_BBNDN,"SeriesCode, GeoAreaName, Type of speed",3
+#17-7-1-DC_ENVTECH_EXP,"SeriesCode, GeoAreaName",2
+#17-7-1-DC_ENVTECH_IMP,"SeriesCode, GeoAreaName",2
+#17-7-1-DC_ENVTECH_INV,"SeriesCode, GeoAreaName, Activity",3
+#17-7-1-DC_ENVTECH_REXP,"SeriesCode, GeoAreaName",2
+#17-7-1-DC_ENVTECH_RIMP,"SeriesCode, GeoAreaName",2
+#17-7-1-DC_ENVTECH_TT,"SeriesCode, GeoAreaName",2
+#17-8-1,"SeriesCode, GeoAreaName, Sex",3
+#2-1-1,"SeriesCode, GeoAreaName",2
+#2-1-2,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#2-2-1,"SeriesCode, GeoAreaName, Age",3
+#2-2-2,"SeriesCode, GeoAreaName, Age",3
+#2-2-3,"SeriesCode, GeoAreaName, Age, Sex",4
+#2-3-1,"SeriesCode, GeoAreaName, Sex",3
+#2-3-2,"SeriesCode, GeoAreaName, Sex",3
+#2-4-1,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_AGRBIO,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_AGRWAG,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_FERTMG,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_FIES,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_FOVH,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_H2OAVAIL,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_LNDSTR,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_NFI,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_PSTCDSMG,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_RMM,"SeriesCode, GeoAreaName",2
+#2-4-1-a-AG_LND_SDGRD,"SeriesCode, GeoAreaName",2
+#2-5-1-ER_GRF_ANIMKPT,"SeriesCode, GeoAreaName",2
+#2-5-1-ER_GRF_ANIMKPT_TRB,"SeriesCode, GeoAreaName",2
+#2-5-1-ER_GRF_ANIMRCNTN,"SeriesCode, GeoAreaName",2
+#2-5-1-ER_GRF_ANIMRCNTN_TRB,"SeriesCode, GeoAreaName",2
+#2-5-1-ER_GRF_PLNTSTOR,"SeriesCode, GeoAreaName",2
+#2-5-2,"SeriesCode, GeoAreaName",2
+#2-a-1-AG_PRD_AGVAS,"SeriesCode, GeoAreaName",2
+#2-a-1-AG_PRD_ORTIND,"SeriesCode, GeoAreaName",2
+#2-a-1-AG_XPD_AGSGB,"SeriesCode, GeoAreaName",2
+#2-a-2,"SeriesCode, GeoAreaName",2
+#2-b-1,"SeriesCode, GeoAreaName",2
+#2-c-1-AG_FPA_CFPI,"SeriesCode, GeoAreaName",2
+#2-c-1-AG_FPA_COMM,"SeriesCode, GeoAreaName, Type of product",3
+#3-1-1-SH_STA_MORT,"SeriesCode, GeoAreaName, Sex",3
+#3-1-2-SH_STA_BRTC,"SeriesCode, GeoAreaName",2
+#3-2-1-a,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-2-1-b,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-2-2,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-3-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-3-2,"SeriesCode, GeoAreaName",2
+#3-3-3,"SeriesCode, GeoAreaName",2
+#3-3-4,"SeriesCode, GeoAreaName, Age",3
+#3-3-5,"SeriesCode, GeoAreaName",2
+#3-4-1,"SeriesCode, GeoAreaName, Age, Sex",4
 #3-4-1-a,"GeoAreaName, SP_DYN",2
+#3-4-2,"SeriesCode, GeoAreaName, Sex",3
+#3-5-1-SH_SUD_ALCOL,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-5-1-SH_SUD_TREAT,"SeriesCode, GeoAreaName, Substance use disorders",3
+#3-5-2,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-6-1,"SeriesCode, GeoAreaName, Sex",3
+#3-7-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-7-2,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-8-1,"SeriesCode, GeoAreaName",2
+#3-8-2,"SeriesCode, GeoAreaName",2
+#3-9-1,"SeriesCode, GeoAreaName",2
+#3-9-2,"SeriesCode, GeoAreaName",2
+#3-9-3,"SeriesCode, GeoAreaName, Sex",3
+#3-a-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#3-b-1,"SeriesCode, GeoAreaName",2
+#3-b-2-DC_TOF_HLTHL,"SeriesCode, GeoAreaName",2
+#3-b-2-DC_TOF_HLTHNT,"SeriesCode, GeoAreaName",2
+#3-b-3,"SeriesCode, GeoAreaName",2
+#3-c-1-SH_MED_DEN,"SeriesCode, GeoAreaName, Type of occupation",3
+#3-c-1-SH_MED_HWRKDIS,"SeriesCode, GeoAreaName, Sex, Type of occupation",4
+#3-d-1,"SeriesCode, GeoAreaName, IHR Capacity",3
+#3-d-2-SH_BLD_ECOLI,"SeriesCode, GeoAreaName",2
+#3-d-2-SH_BLD_MRSA,"SeriesCode, GeoAreaName",2
+#4-1-1,"SeriesCode, GeoAreaName, Sex, Education level, Type of skill",5
+#4-1-2,"SeriesCode, GeoAreaName, Location, Sex, Quantile, Education level",6
+#4-2-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#4-2-2,"SeriesCode, GeoAreaName, Sex",3
+#4-3-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#4-4-1,"SeriesCode, GeoAreaName, Location, Age, Sex, Type of skill",6
+#4-5-1-SE_AGP_CPRA,"SeriesCode, GeoAreaName, Location, Quantile, Education level",5
+#4-5-1-SE_ALP_CPLR,"SeriesCode, GeoAreaName, Sex, Quantile, Education level",5
+#4-5-1-SE_AWP_CPRA,"SeriesCode, GeoAreaName, Location, Sex, Quantile, Education level",6
+#4-5-1-SE_GPI_ICTS,"SeriesCode, GeoAreaName, Type of skill",3
+#4-5-1-SE_GPI_PART,"SeriesCode, GeoAreaName, Age",3
+#4-5-1-SE_GPI_PTNPRE,"SeriesCode, GeoAreaName",2
+#4-5-1-SE_GPI_TCAQ,"SeriesCode, GeoAreaName, Education level",3
+#4-5-1-SE_IMP_FPOF,"SeriesCode, GeoAreaName, Age, Type of skill",4
+#4-5-1-SE_LGP_ACHI,"SeriesCode, GeoAreaName, Education level, Type of skill",4
+#4-5-1-SE_NAP_ACHI,"SeriesCode, GeoAreaName, Education level, Type of skill",4
+#4-5-1-SE_TOT_GPI,"SeriesCode, GeoAreaName, Education level, Type of skill",4
+#4-5-1-SE_TOT_GPI_FS,"SeriesCode, GeoAreaName, Age, Type of skill",4
+#4-5-1-SE_TOT_RUPI,"SeriesCode, GeoAreaName, Education level, Type of skill",4
+#4-5-1-SE_TOT_SESPI,"SeriesCode, GeoAreaName, Education level, Type of skill",4
+#4-5-1-SE_TOT_SESPI_FS,"SeriesCode, GeoAreaName, Age, Type of skill",4
+#4-6-1,"SeriesCode, GeoAreaName, Age, Sex, Type of skill",5
+#4-7-1,"SeriesCode, GeoAreaName",2
+#4-a-1-SE_ACC_HNDWSH,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_ACS_CMPTR,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_ACS_ELECT,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_ACS_H2O,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_ACS_INTNT,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_ACS_SANIT,"SeriesCode, GeoAreaName, Education level",3
+#4-a-1-SE_INF_DSBL,"SeriesCode, GeoAreaName, Education level",3
+#4-b-1,"SeriesCode, GeoAreaName",2
+#4-c-1,"SeriesCode, GeoAreaName, Sex, Education level",4
+#5-1-1,"SeriesCode, GeoAreaName",2
+#5-2-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-3-1,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-4-1-SL_DOM_TSPD,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#5-4-1-SL_DOM_TSPDCW,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#5-4-1-SL_DOM_TSPDDC,"SeriesCode, GeoAreaName, Location, Age, Sex",5
+#5-5-1-SG_GEN_LOCGELS,"SeriesCode, GeoAreaName, Sex",3
+#5-5-1-SG_GEN_PARL,"SeriesCode, GeoAreaName, Sex",3
+#5-5-2-IC_GEN_MGTL,"SeriesCode, GeoAreaName, Sex",3
+#5-5-2-IC_GEN_MGTL_19ICLS,"SeriesCode, GeoAreaName, Sex",3
+#5-5-2-IC_GEN_MGTN,"SeriesCode, GeoAreaName, Sex",3
+#5-5-2-IC_GEN_MGTN_19ICLS,"SeriesCode, GeoAreaName, Sex",3
+#5-6-1-SH_FPL_INFM,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-6-1-SH_FPL_INFMCU,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-6-1-SH_FPL_INFMRH,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-6-1-SH_FPL_INFMSR,"SeriesCode, GeoAreaName, Age, Sex",4
+#5-6-2-SH_LGR_ACSRHE,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC1,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC10,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC11,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC12,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC13,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC2,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC3,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC4,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC5,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC6,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC7,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC8,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHEC9,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHES1,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHES2,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHES3,"SeriesCode, GeoAreaName",2
+#5-6-2-SH_LGR_ACSRHES4,"SeriesCode, GeoAreaName",2
+#5-a-1-SP_GNP_WNOWNS,"SeriesCode, GeoAreaName",2
+#5-a-1-SP_LGL_LNDAGSEC,"SeriesCode, GeoAreaName, Sex",3
+#5-a-2,"SeriesCode, GeoAreaName",2
+#5-b-1,"SeriesCode, GeoAreaName, Sex",3
+#5-c-1,"SeriesCode, GeoAreaName",2
+#6-1-1,"SeriesCode, GeoAreaName, Location",3
+#6-2-1-SH_SAN_DEFECT,"SeriesCode, GeoAreaName, Location",3
+#6-2-1-SH_SAN_HNDWSH,"SeriesCode, GeoAreaName, Location",3
+#6-2-1-SH_SAN_SAFE,"SeriesCode, GeoAreaName, Location",3
+#6-3-1,"SeriesCode, GeoAreaName, Location, Activity",4
+#6-3-2,"SeriesCode, GeoAreaName",2
+#6-4-1,"SeriesCode, GeoAreaName, Activity",3
+#6-4-2-ER_H2O_STRESS,"SeriesCode, GeoAreaName, Activity",3
+#6-5-1-ER_H2O_IWRMD,"SeriesCode, GeoAreaName, Level/Status",3
+#6-5-1-ER_H2O_IWRMD_EE,"SeriesCode, GeoAreaName, Level/Status",3
+#6-5-1-ER_H2O_IWRMD_FI,"SeriesCode, GeoAreaName, Level/Status",3
+#6-5-1-ER_H2O_IWRMD_IP,"SeriesCode, GeoAreaName, Level/Status",3
+#6-5-1-ER_H2O_IWRMD_MI,"SeriesCode, GeoAreaName, Level/Status",3
+#6-5-2-EG_TBA_H2CO,"SeriesCode, GeoAreaName",2
+#6-5-2-EG_TBA_H2COAQ,"SeriesCode, GeoAreaName",2
+#6-5-2-EG_TBA_H2CORL,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_PWAC,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_PWAN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_PWAP,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_SWAC,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_SWAN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKRV_SWAP,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_LKW_QLTRB,"SeriesCode, GeoAreaName, Deviation Level",3
+#6-6-1-EN_LKW_QLTRST,"SeriesCode, GeoAreaName, Deviation Level",3
+#6-6-1-EN_RSRV_MNWAN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_RSRV_MNWAP,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_RSRV_MXWAN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_RSRV_MXWAP,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_HMWTL,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_INWTL,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_MANGC,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_MANGN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_NDQTGRW,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_NDQTRVR,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_WTLN,"SeriesCode, GeoAreaName",2
+#6-6-1-EN_WBE_WTLP,"SeriesCode, GeoAreaName",2
+#6-a-1,"SeriesCode, GeoAreaName",2
+#6-b-1-ER_H2O_PRDU,"SeriesCode, GeoAreaName, Location",3
+#6-b-1-ER_H2O_RURP,"SeriesCode, GeoAreaName, Location",3
+#6-b-1-ER_WAT_PART,"SeriesCode, GeoAreaName",2
+#6-b-1-ER_WAT_PRDU,"SeriesCode, GeoAreaName",2
+#7-1-1,"SeriesCode, GeoAreaName, Location",3
+#7-1-2,"SeriesCode, GeoAreaName, Location",3
+#7-2-1,"SeriesCode, GeoAreaName",2
+#7-3-1,"SeriesCode, GeoAreaName",2
+#7-a-1,"SeriesCode, GeoAreaName, Type of renewable technology",3
+#7-b-1,"SeriesCode, GeoAreaName, Type of renewable technology",3
+#8-1-1,"SeriesCode, GeoAreaName",2
+#8-10-1-FB_ATM_TOTL,"SeriesCode, GeoAreaName, Age",3
+#8-10-1-FB_CBK_BRCH,"SeriesCode, GeoAreaName, Age",3
+#8-10-2-FB_BNK_ACCSS,"SeriesCode, GeoAreaName, Location, Age, Sex, Quantile, Education level",7
+#8-10-2-FB_BNK_ACCSS_ILF,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-10-2-FB_BNK_ACCSS_OLF,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-2-1,"SeriesCode, GeoAreaName",2
+#8-3-1-SL_ISV_IFEM,"SeriesCode, GeoAreaName, Sex, Activity",4
+#8-3-1-SL_ISV_IFEM_19ICLS,"SeriesCode, GeoAreaName, Sex, Activity",4
+#8-4-2-EN_MAT_DOMCMPC,"SeriesCode, GeoAreaName, Type of product",3
+#8-4-2-EN_MAT_DOMCMPG,"SeriesCode, GeoAreaName, Type of product",3
+#8-4-2-EN_MAT_DOMCMPT,"SeriesCode, GeoAreaName, Type of product",3
+#8-5-1-SL_EMP_EARN,"SeriesCode, GeoAreaName, Sex, Type of occupation",4
+#8-5-2-SL_TLF_UEM,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-5-2-SL_TLF_UEMDIS,"SeriesCode, GeoAreaName, Sex, Disability status",4
+#8-5-2-SL_TLF_UEMDIS_19ICLS,"SeriesCode, GeoAreaName, Sex, Disability status",4
+#8-5-2-SL_TLF_UEM_19ICLS,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-6-1-SL_TLF_NEET,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-6-1-SL_TLF_NEET_19ICLS,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-7-1-SL_TLF_CHLDEA,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-7-1-SL_TLF_CHLDEC,"SeriesCode, GeoAreaName, Age, Sex",4
+#8-8-1-SL_EMP_FTLINJUR,"SeriesCode, GeoAreaName, Sex, Migratory status",4
+#8-8-1-SL_EMP_INJUR,"SeriesCode, GeoAreaName, Sex, Migratory status",4
+#8-8-2,"SeriesCode, GeoAreaName",2
+#8-9-1,"SeriesCode, GeoAreaName",2
+#8-a-1-DC_TOF_TRDCMDL,"SeriesCode, GeoAreaName",2
+#8-a-1-DC_TOF_TRDCML,"SeriesCode, GeoAreaName",2
+#8-a-1-DC_TOF_TRDDBMDL,"SeriesCode, GeoAreaName",2
+#8-a-1-DC_TOF_TRDDBML,"SeriesCode, GeoAreaName",2
+#8-b-1,"SeriesCode, GeoAreaName",2
+#9-1-1,"SeriesCode, GeoAreaName, Location",3
+#9-1-2-IS_RDP_FRGVOL,"SeriesCode, GeoAreaName, Mode of transportation",3
+#9-1-2-IS_RDP_PFVOL,"SeriesCode, GeoAreaName, Mode of transportation",3
+#9-1-2-IS_RDP_PORFVOL,"SeriesCode, GeoAreaName, Mode of transportation",3
+#9-2-1-NV_IND_MANF,"SeriesCode, GeoAreaName, Activity",3
+#9-2-1-NV_IND_MANFPC,"SeriesCode, GeoAreaName, Activity",3
+#9-2-1-NV_IND_MANF_CD,"SeriesCode, GeoAreaName, Activity",3
+#9-2-2-SL_TLF_MANF,"SeriesCode, GeoAreaName, Activity",3
+#9-2-2-SL_TLF_MANF_19ICLS,"SeriesCode, GeoAreaName, Activity",3
+#9-3-1,"SeriesCode, GeoAreaName, Activity",3
+#9-3-2,"SeriesCode, GeoAreaName, Activity",3
+#9-4-1-EN_ATM_CO2,"SeriesCode, GeoAreaName, Activity",3
+#9-4-1-EN_ATM_CO2GDP,"SeriesCode, GeoAreaName",2
+#9-4-1-EN_ATM_CO2MVA,"SeriesCode, GeoAreaName, Activity",3
+#9-5-1,"SeriesCode, GeoAreaName",2
+#9-5-2,"SeriesCode, GeoAreaName",2
+#9-a-1,"SeriesCode, GeoAreaName",2
+#9-b-1,"SeriesCode, GeoAreaName, Activity",3
+#9-c-1,"SeriesCode, GeoAreaName",2

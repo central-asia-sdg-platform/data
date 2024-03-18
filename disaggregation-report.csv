@@ -1,7 +1,43 @@
 Disaggregation,Number of indicators,Number of values
-Age,1,4
-GeoAreaName,3,66
-Location,1,3
-Sex,1,3
+Activity,18,29
+Age,89,61
+Bioclimatic belt,5,5
+Cities,4,4784
+Counterpart,3,164
+Deviation Level,2,4
+Disability status,21,3
+Education level,23,10
+Fiscal intervention stage,1,3
+Food Waste Sector,2,4
+Frequency of Chlorophyll-a concentration,1,3
+GeoAreaName,608,70
+Government_Name,2,19
+Grounds of discrimination,2,34
+IHR Capacity,1,41
+Illicit Financial Flows,2,2
+Land cover,2,11
+Level of requirement,1,1
+Level_of_government,1,4
+Level/Status,11,15
+Location,43,5
+Migratory status,2,3
+Mode of transportation,3,2
+Name of international institution,4,11
+Parliamentary committees,3,7
+Policy Domains,1,7
+Policy instruments,1,4
+Population Group,16,4
+Quantile,10,9
+Sampling Stations,1,345
+SeriesCode,605,590
+Service Attribute,4,6
+Sex,128,6
 SI_POV,1,3
 SP_DYN,1,3
+Substance use disorders,1,4
+Type of occupation,8,36
+Type of product,12,27
+Type of renewable technology,3,8
+Type of skill,12,16
+Type of speed,2,4
+Type of waste treatment,3,7

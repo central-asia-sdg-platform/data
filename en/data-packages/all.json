@@ -83,7 +83,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_DDPA"
+      "title": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)"
     },
     {
       "path": "2-4-1-a-AG_LND_LNDSTR/data.csv",
@@ -142,7 +142,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_LNDSTR"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of secure tenure rights to agricultural land (%)"
     },
     {
       "path": "6-6-1-EN_LKRV_PWAN/data.csv",
@@ -246,7 +246,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_PWAN"
+      "title": "Lakes and rivers permanent water area (square kilometres)"
     },
     {
       "path": "6-a-1/data.csv",
@@ -475,7 +475,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_EFDN"
+      "title": "Number of destroyed or damaged educational facilities attributed to disasters (number)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLCC_UC/data.csv",
@@ -590,7 +590,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLCC_UC"
+      "title": "Number of chairs of permanent committees, by age sex and focus of the committee, Upper Chamber"
     },
     {
       "path": "15-3-1/data.csv",
@@ -795,7 +795,7 @@
           }
         ]
       },
-      "title": "meta.name-17-12-1-TM_TAX_DMFN"
+      "title": "Average tariff applied by developed countries, most-favored nation status, by type of product (%)"
     },
     {
       "path": "2-5-1-ER_GRF_ANIMRCNTN/data.csv",
@@ -884,7 +884,7 @@
           }
         ]
       },
-      "title": "meta.name-2-5-1-ER_GRF_ANIMRCNTN"
+      "title": "Number of local breeds for which sufficient genetic resources are stored for reconstitution"
     },
     {
       "path": "13-2-2-EN_ATM_GHGT_NAIP/data.csv",
@@ -952,7 +952,7 @@
           }
         ]
       },
-      "title": "meta.name-13-2-2-EN_ATM_GHGT_NAIP"
+      "title": "Total greenhouse gas emissions without LULUCF for non-Annex I Parties (Mt COâ‚‚ equivalent)"
     },
     {
       "path": "17-13-1-NE_IMP_GNFS_KD_ZG/data.csv",
@@ -1058,7 +1058,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NE_IMP_GNFS_KD_ZG"
+      "title": "Annual growth of imports of goods and services (%)"
     },
     {
       "path": "16-8-1-SG_INT_VRTDEV/data.csv",
@@ -1187,7 +1187,7 @@
           }
         ]
       },
-      "title": "meta.name-16-8-1-SG_INT_VRTDEV"
+      "title": "Proportion of voting rights of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "14-1-1-EN_MAR_BEALITSQ/data.csv",
@@ -1282,7 +1282,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALITSQ"
+      "title": "Beach litter per square kilometer (Number)"
     },
     {
       "path": "12-2-2-EN_MAT_DOMCMPT/data.csv",
@@ -1418,7 +1418,7 @@
           }
         ]
       },
-      "title": "meta.name-12-2-2-EN_MAT_DOMCMPT"
+      "title": "Domestic material consumption, by type of raw material (tonnes)"
     },
     {
       "path": "1-3-1-SI_COV_SOCAST/data.csv",
@@ -1505,7 +1505,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_SOCAST"
+      "title": "[World Bank] Proportion of population covered by social assistance programs (%)"
     },
     {
       "path": "8-10-2-FB_BNK_ACCSS/data.csv",
@@ -1677,7 +1677,7 @@
           }
         ]
       },
-      "title": "meta.name-8-10-2-FB_BNK_ACCSS"
+      "title": "Proportion of adults (15 years and older) with an account at a financial institution or mobile-money-service provider, by sex (% of adults aged 15 years and older)"
     },
     {
       "path": "17-18-2/data.csv",
@@ -1928,7 +1928,7 @@
           }
         ]
       },
-      "title": "meta.name-15-1-2-ER_PTD_FRHWTR"
+      "title": "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas (%)"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2141,7 +2141,7 @@
           }
         ]
       },
-      "title": "meta.name-15-8-1-ER_IAS_NBSAP"
+      "title": "National Biodiversity Strategy and Action Plan (NBSAP) targets alignment to Aichi Biodiversity target 9 set out in the Strategic Plan for Biodiversity 2011-2020 (1 = YES, 0 = NO)"
     },
     {
       "path": "17-2-1-DC_ODA_LLDC/data.csv",
@@ -2215,7 +2215,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_LLDC"
+      "title": "Net official development assistance (ODA) to landlocked developing countries from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "17-2-1-DC_ODA_SIDS/data.csv",
@@ -2289,7 +2289,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_SIDS"
+      "title": "Net official development assistance (ODA) to small island states (SIDS) from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "14-6-1/data.csv",
@@ -2522,7 +2522,7 @@
           }
         ]
       },
-      "title": "meta.name-12-2-2-EN_MAT_DOMCMPC"
+      "title": "Domestic material consumption per capita, by type of raw material (tonnes)"
     },
     {
       "path": "12-8-1/data.csv",
@@ -2716,7 +2716,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-1-SG_HAZ_CMRMNTRL"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Montreal Protocol on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "14-3-1/data.csv",
@@ -3239,7 +3239,7 @@
           }
         ]
       },
-      "title": "meta.name-15-8-1-ER_IAS_GLOFUN"
+      "title": "Recipient countries of global funding with access to any funding from global financial mechanisms for projects related to invasive alien speciesÂ  management (1 = YES, 0 = NO)"
     },
     {
       "path": "10-5-1-FI_FSI_FSERA/data.csv",
@@ -3341,7 +3341,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSERA"
+      "title": "Return on assets (%)"
     },
     {
       "path": "4-5-1-SE_AWP_CPRA/data.csv",
@@ -3465,7 +3465,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_AWP_CPRA"
+      "title": "Adjusted wealth parity index for completion rate, by sex, location and education level"
     },
     {
       "path": "16-7-2-IU_DMK_INCL/data.csv",
@@ -3605,7 +3605,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-2-IU_DMK_INCL"
+      "title": "Proportion of population who believe decision-making is inclusive (%)"
     },
     {
       "path": "11-6-1/data.csv",
@@ -7660,7 +7660,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-BX_KLT_DINV_WD_GD_ZS"
+      "title": "Foreign direct investment, net inflows, as a proportion of GDP (%)"
     },
     {
       "path": "1-1-1/data.csv",
@@ -7865,7 +7865,7 @@
           }
         ]
       },
-      "title": "meta.name-12-7-1-SG_SCP_PROCN_HS"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans at higher subnational level by level of implementation (1 = YES; 0 = NO)"
     },
     {
       "path": "6-b-1-ER_H2O_RURP/data.csv",
@@ -7954,7 +7954,7 @@
           }
         ]
       },
-      "title": "meta.name-6-b-1-ER_H2O_RURP"
+      "title": "Countries with users/communities participating in planning programs in rural drinking-water supply, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)"
     },
     {
       "path": "1-5-2-VC_DSR_GDPLS/data.csv",
@@ -8042,7 +8042,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_GDPLS"
+      "title": "Direct economic loss attributed to disasters (current United States dollars)"
     },
     {
       "path": "12-b-1-ST_EEV_STDACCT/data.csv",
@@ -8148,7 +8148,7 @@
           }
         ]
       },
-      "title": "meta.name-12-b-1-ST_EEV_STDACCT"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (number of tables)"
     },
     {
       "path": "13-1-1-VC_DSR_AFFCT/data.csv",
@@ -8240,7 +8240,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_AFFCT"
+      "title": "Number of people affected by disaster (number)"
     },
     {
       "path": "14-1-1-EN_MAR_CHLANM/data.csv",
@@ -8346,7 +8346,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_CHLANM"
+      "title": "Chlorophyll-a anomaly, remote sensing (%)"
     },
     {
       "path": "12-1-1-SG_SCP_TOTLN/data.csv",
@@ -8423,7 +8423,7 @@
           }
         ]
       },
-      "title": "meta.name-12-1-1-SG_SCP_TOTLN"
+      "title": "Number of policies, instruments and mechanism in place for sustainable consumption and production (Number)"
     },
     {
       "path": "17-3-1-DC_OSSD_OFFNL/data.csv",
@@ -8492,7 +8492,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-DC_OSSD_OFFNL"
+      "title": "Gross receipts by developing countries of official non-concessional sustainable development loans (millions of United States dollars)"
     },
     {
       "path": "9-5-1/data.csv",
@@ -8695,7 +8695,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC10"
+      "title": "(S.4.C.10) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 10: HIV Counselling and Test Services"
     },
     {
       "path": "17-16-1-SG_PLN_MSTKSDG_P/data.csv",
@@ -8766,7 +8766,7 @@
           }
         ]
       },
-      "title": "meta.name-17-16-1-SG_PLN_MSTKSDG_P"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Provider (1 = YES; 0 = NO)"
     },
     {
       "path": "16-1-1-VC_IHR_PSRC/data.csv",
@@ -8886,7 +8886,7 @@
           }
         ]
       },
-      "title": "meta.name-16-1-1-VC_IHR_PSRC"
+      "title": "Number of victims of intentional homicide per 100,000 population, by sex (victims per 100,000 population)"
     },
     {
       "path": "15-4-2-ER_MTN_GRNCVI/data.csv",
@@ -9024,7 +9024,7 @@
           }
         ]
       },
-      "title": "meta.name-15-4-2-ER_MTN_GRNCVI"
+      "title": "Mountain Green Cover Index"
     },
     {
       "path": "12-4-2-EN_HAZ_PCAP/data.csv",
@@ -9116,7 +9116,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_PCAP"
+      "title": "Hazardous waste generated, per capita (Kg)"
     },
     {
       "path": "15-4-2-ER_MTN_GRNCOV/data.csv",
@@ -9244,7 +9244,7 @@
           }
         ]
       },
-      "title": "meta.name-15-4-2-ER_MTN_GRNCOV"
+      "title": "Mountain green cover area (square kilometres)"
     },
     {
       "path": "1-2-2-SD_MDP_MUHC/data.csv",
@@ -9366,7 +9366,7 @@
           }
         ]
       },
-      "title": "meta.name-1-2-2-SD_MDP_MUHC"
+      "title": "Proportion of population living in multidimensional poverty (%)"
     },
     {
       "path": "11-5-1-VC_DSR_PDYN/data.csv",
@@ -9450,7 +9450,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_PDYN"
+      "title": "Number of people whose destroyed dwellings were attributed to disasters (number)"
     },
     {
       "path": "15-b-1-DC_ODA_BDVDL/data.csv",
@@ -9524,7 +9524,7 @@
           }
         ]
       },
-      "title": "meta.name-15-b-1-DC_ODA_BDVDL"
+      "title": "Total official development assistance for biodiversity, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "12-2-2-EN_MAT_DOMCMPG/data.csv",
@@ -9660,7 +9660,7 @@
           }
         ]
       },
-      "title": "meta.name-12-2-2-EN_MAT_DOMCMPG"
+      "title": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)"
     },
     {
       "path": "8-5-2-SL_TLF_UEMDIS_19ICLS/data.csv",
@@ -9768,7 +9768,7 @@
           }
         ]
       },
-      "title": "meta.name-8-5-2-SL_TLF_UEMDIS_19ICLS"
+      "title": "Unemployment rate, by sex and disability - 19th ICLS (%)"
     },
     {
       "path": "3-3-2/data.csv",
@@ -9971,7 +9971,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_AGRWAG"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of wage rate in agriculture (%)"
     },
     {
       "path": "4-5-1-SE_IMP_FPOF/data.csv",
@@ -10067,7 +10067,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_IMP_FPOF"
+      "title": "Adjusted immigration status parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
     },
     {
       "path": "11-7-1/data.csv",
@@ -10605,7 +10605,7 @@
           }
         ]
       },
-      "title": "meta.name-16-a-1-SG_NHR_INTEXSTN"
+      "title": "Countries with National Human Rights Institutions not fully compliant with the Paris Principles, B status (1 = YES; 0 = NO)"
     },
     {
       "path": "6-5-1-ER_H2O_IWRMD/data.csv",
@@ -10724,7 +10724,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-1-ER_H2O_IWRMD"
+      "title": "Degree of integrated water resources management implementation (%)"
     },
     {
       "path": "3-5-2/data.csv",
@@ -10976,7 +10976,7 @@
           }
         ]
       },
-      "title": "meta.name-1-4-1-SP_ACS_BSRVH2O"
+      "title": "Proportion of population using basic drinking water services, by location (%)"
     },
     {
       "path": "17-13-1-BN_KLT_PTXL_CD/data.csv",
@@ -11081,7 +11081,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-BN_KLT_PTXL_CD"
+      "title": "Portfolio investment, net (Balance of Payments, current United States dollars)"
     },
     {
       "path": "2-4-1-a-AG_LND_H2OAVAIL/data.csv",
@@ -11134,7 +11134,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_H2OAVAIL"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of variation in water availability (%)"
     },
     {
       "path": "8-9-1/data.csv",
@@ -11422,7 +11422,7 @@
           }
         ]
       },
-      "title": "meta.name-12-b-1-ST_EEV_ACCTSA"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (Tourism Satellite Account tables)"
     },
     {
       "path": "14-1-1-EN_MAR_BEALIT_EXP/data.csv",
@@ -11510,7 +11510,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALIT_EXP"
+      "title": "Exported beach litter originating from national land-based sources (Tonnes)"
     },
     {
       "path": "15-9-1-ER_BDY_ABT2NP/data.csv",
@@ -11633,7 +11633,7 @@
           }
         ]
       },
-      "title": "meta.name-15-9-1-ER_BDY_ABT2NP"
+      "title": "Countries that established national targets in accordance with Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011-2020 in their National Biodiversity Strategy and Action Plans (1 = YES; 0 = NO)"
     },
     {
       "path": "2-a-1-AG_PRD_ORTIND/data.csv",
@@ -11738,7 +11738,7 @@
           }
         ]
       },
-      "title": "meta.name-2-a-1-AG_PRD_ORTIND"
+      "title": "Agriculture orientation index for government expenditures"
     },
     {
       "path": "1-2-2-SD_MDP_CSMP/data.csv",
@@ -11819,7 +11819,7 @@
           }
         ]
       },
-      "title": "meta.name-1-2-2-SD_MDP_CSMP"
+      "title": "Proportion of children living in child-specific multidimensional poverty (%)"
     },
     {
       "path": "11-5-3-VC_DSR_CDAN/data.csv",
@@ -11900,7 +11900,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_CDAN"
+      "title": "Number of damaged critical infrastructure attributed to disasters (number)"
     },
     {
       "path": "3-3-5/data.csv",
@@ -12091,7 +12091,7 @@
           }
         ]
       },
-      "title": "meta.name-16-1-3-VC_VOV_ROBB"
+      "title": "Proportion of population subjected to robbery in the previous 12 months, by sex (%)"
     },
     {
       "path": "9-1-2-IS_RDP_FRGVOL/data.csv",
@@ -12208,7 +12208,7 @@
           }
         ]
       },
-      "title": "meta.name-9-1-2-IS_RDP_FRGVOL"
+      "title": "Freight volume, by mode of transport (tonne kilometres)"
     },
     {
       "path": "2-a-1-AG_XPD_AGSGB/data.csv",
@@ -12313,7 +12313,7 @@
           }
         ]
       },
-      "title": "meta.name-2-a-1-AG_XPD_AGSGB"
+      "title": "Agriculture share of Government Expenditure (%)"
     },
     {
       "path": "16-10-2/data.csv",
@@ -12474,7 +12474,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_FIES"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of food security (%)"
     },
     {
       "path": "16-7-1-SG_DMK_JDC/data.csv",
@@ -12608,7 +12608,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_JDC"
+      "title": "Proportions of positions in the judiciary compared to national distributions (ratio)"
     },
     {
       "path": "17-13-1-FM_LBL_BMNY_ZG/data.csv",
@@ -12695,7 +12695,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-FM_LBL_BMNY_ZG"
+      "title": "Annual broad money growth (%)"
     },
     {
       "path": "3-3-3/data.csv",
@@ -12951,7 +12951,7 @@
           }
         ]
       },
-      "title": "meta.name-3-b-2-DC_TOF_HLTHL"
+      "title": "Total official development assistance to medical research and basic health sectors, gross disbursement, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "17-8-1/data.csv",
@@ -13222,7 +13222,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_ALP_CPLR"
+      "title": "Adjusted location parity index for completion rate, by sex, wealth quintile and education level"
     },
     {
       "path": "4-5-1-SE_TOT_SESPI/data.csv",
@@ -13347,7 +13347,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_TOT_SESPI"
+      "title": "Adjusted low to high socio-economic parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
     },
     {
       "path": "12-4-2-EN_MWT_TREATR/data.csv",
@@ -13448,7 +13448,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_TREATR"
+      "title": "Proportion of municipal waste treated, by type of treatment (%)"
     },
     {
       "path": "11-5-2-VC_DSR_DDPA/data.csv",
@@ -13531,7 +13531,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_DDPA"
+      "title": "Direct economic loss to other damaged or destroyed productive assets attributed to disasters (current United States dollars)"
     },
     {
       "path": "6-6-1-EN_RSRV_MNWAN/data.csv",
@@ -13635,7 +13635,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_RSRV_MNWAN"
+      "title": "Reservoir minimum water area (square kilometres)"
     },
     {
       "path": "12-4-2-EN_TWT_GENV/data.csv",
@@ -13754,7 +13754,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_TWT_GENV"
+      "title": "Total waste generation, by activity (Tonnes)"
     },
     {
       "path": "12-c-1-ER_FFS_CMPT_PC_CD/data.csv",
@@ -13860,7 +13860,7 @@
           }
         ]
       },
-      "title": "meta.name-12-c-1-ER_FFS_CMPT_PC_CD"
+      "title": "Fossil-fuel subsidies (consumption and production) per capita (nominal United States dollars)"
     },
     {
       "path": "16-4-2/data.csv",
@@ -13992,7 +13992,7 @@
           }
         ]
       },
-      "title": "meta.name-10-c-1-SI_RMT_COST"
+      "title": "Average remittance costs of sending $200 to a receiving country as a proportion of the amount remitted (%)"
     },
     {
       "path": "9-4-1-EN_ATM_CO2/data.csv",
@@ -14111,7 +14111,7 @@
           }
         ]
       },
-      "title": "meta.name-9-4-1-EN_ATM_CO2"
+      "title": "Carbon dioxide emissions from fuel combustion (millions of tonnes)"
     },
     {
       "path": "12-4-2-EN_MWT_IMP/data.csv",
@@ -14163,7 +14163,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_IMP"
+      "title": "Municipal waste imported (Tonnes)"
     },
     {
       "path": "15-4-2-ER_MTN_TOTL/data.csv",
@@ -14270,7 +14270,7 @@
           }
         ]
       },
-      "title": "meta.name-15-4-2-ER_MTN_TOTL"
+      "title": "Mountain area (square kilometres)"
     },
     {
       "path": "8-6-1-SL_TLF_NEET/data.csv",
@@ -14397,7 +14397,7 @@
           }
         ]
       },
-      "title": "meta.name-8-6-1-SL_TLF_NEET"
+      "title": "Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYN_LC/data.csv",
@@ -14516,7 +14516,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYN_LC"
+      "title": "Number of youth in parliament (age 45 or below), Lower Chamber or Unicameral (Number)"
     },
     {
       "path": "2-5-1-ER_GRF_ANIMKPT/data.csv",
@@ -14622,7 +14622,7 @@
           }
         ]
       },
-      "title": "meta.name-2-5-1-ER_GRF_ANIMKPT"
+      "title": "Number of local breeds kept in the country"
     },
     {
       "path": "4-c-1/data.csv",
@@ -14859,7 +14859,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-2-IU_DMK_RESP"
+      "title": "Proportion of population who believe decision-making is responsive (%)"
     },
     {
       "path": "15-1-1/data.csv",
@@ -15058,7 +15058,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHES3"
+      "title": "(S.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 3: Sexuality Education (%)"
     },
     {
       "path": "17-16-1-SG_PLN_MSTKSDG_R/data.csv",
@@ -15108,7 +15108,7 @@
           }
         ]
       },
-      "title": "meta.name-17-16-1-SG_PLN_MSTKSDG_R"
+      "title": "Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals, Recipient (1 = YES; 0 = NO)"
     },
     {
       "path": "11-5-3-VC_DSR_HFDN/data.csv",
@@ -15189,7 +15189,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_HFDN"
+      "title": "Number of destroyed or damaged health facilities attributed to disasters (number)"
     },
     {
       "path": "16-a-1-SG_NHR_NOSTUSN/data.csv",
@@ -15237,7 +15237,7 @@
           }
         ]
       },
-      "title": "meta.name-16-a-1-SG_NHR_NOSTUSN"
+      "title": "Countries with National Human Rights Institutions and no status with the Paris Principles, C status (1 = YES; 0 = NO)"
     },
     {
       "path": "17-19-2-SG_REG_DETH75N/data.csv",
@@ -15342,7 +15342,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_DETH75N"
+      "title": "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYN_UC/data.csv",
@@ -15424,7 +15424,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYN_UC"
+      "title": "Number of youth in parliament (age 45 or below), Upper Chamber (Number)"
     },
     {
       "path": "4-5-1-SE_GPI_ICTS/data.csv",
@@ -15539,7 +15539,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_GPI_ICTS"
+      "title": "Gender parity index for youth/adults with information and communications technology (ICT) skills, by type of skill (ratio)"
     },
     {
       "path": "4-a-1-SE_ACS_CMPTR/data.csv",
@@ -15659,7 +15659,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACS_CMPTR"
+      "title": "Proportion of schools with access to computers for pedagogical purposes, by education level (%)"
     },
     {
       "path": "2-4-1-a-AG_LND_FOVH/data.csv",
@@ -15722,7 +15722,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_FOVH"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of farm output value per hectare (%)"
     },
     {
       "path": "5-b-1/data.csv",
@@ -15925,7 +15925,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_GPI_PART"
+      "title": "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVSXR/data.csv",
@@ -16053,7 +16053,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVSXR"
+      "title": "Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC9/data.csv",
@@ -16145,7 +16145,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC9"
+      "title": "(S.3.C.9) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 9: Sexuality Education Curriculum Topics (%)"
     },
     {
       "path": "17-7-1-DC_ENVTECH_RIMP/data.csv",
@@ -16212,7 +16212,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_RIMP"
+      "title": "Amount of tracked re-imported Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "11-5-3-VC_DSR_ESDN/data.csv",
@@ -16292,7 +16292,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_ESDN"
+      "title": "Number of disruptions to educational services attributed to disasters (number)"
     },
     {
       "path": "17-14-1/data.csv",
@@ -16465,7 +16465,7 @@
           }
         ]
       },
-      "title": "meta.name-2-a-1-AG_PRD_AGVAS"
+      "title": "Agriculture value added share of GDP (%)"
     },
     {
       "path": "17-18-1-IQ_SPI_PIL5/data.csv",
@@ -16572,7 +16572,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-1-IQ_SPI_PIL5"
+      "title": "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) (Index)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYR_LC/data.csv",
@@ -16691,7 +16691,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYR_LC"
+      "title": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)Â with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
     },
     {
       "path": "17-15-1-SG_PLN_PRVNDI/data.csv",
@@ -16764,7 +16764,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_PRVNDI"
+      "title": "Proportion of project objectives of new development interventions drawn from country-led result frameworks - data by provider (%)"
     },
     {
       "path": "15-6-1-ER_CBD_PTYPGRFA/data.csv",
@@ -16872,7 +16872,7 @@
           }
         ]
       },
-      "title": "meta.name-15-6-1-ER_CBD_PTYPGRFA"
+      "title": "Countries that are contracting Parties to the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)"
     },
     {
       "path": "6-5-1-ER_H2O_IWRMD_EE/data.csv",
@@ -16991,7 +16991,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-1-ER_H2O_IWRMD_EE"
+      "title": "Degree of integrated water resources management implementation, enabling environment (%)"
     },
     {
       "path": "13-1-1-VC_DSR_PDAN/data.csv",
@@ -17078,7 +17078,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_PDAN"
+      "title": "Number of people whose damaged dwellings were attributed to disasters (number)"
     },
     {
       "path": "1-5-1-VC_DSR_PDAN/data.csv",
@@ -17165,7 +17165,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_PDAN"
+      "title": "Number of people whose damaged dwellings were attributed to disasters (number)"
     },
     {
       "path": "17-13-1-FI_RES_TOTL_MO/data.csv",
@@ -17270,7 +17270,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-FI_RES_TOTL_MO"
+      "title": "Total reserves in months of imports (ratio)"
     },
     {
       "path": "6-6-1-EN_WBE_WTLN/data.csv",
@@ -17374,7 +17374,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_WTLN"
+      "title": "Wetlands area (square kilometres)"
     },
     {
       "path": "8-1-1/data.csv",
@@ -17596,7 +17596,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_WKINJRY"
+      "title": "[ILO] Proportion of employed population covered in the event of work injury, by sex (%)"
     },
     {
       "path": "8-a-1-DC_TOF_TRDDBML/data.csv",
@@ -17666,7 +17666,7 @@
           }
         ]
       },
-      "title": "meta.name-8-a-1-DC_TOF_TRDDBML"
+      "title": "Total official flows (disbursement) for Aid for Trade, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "1-3-1-SI_COV_SOCINS/data.csv",
@@ -17752,7 +17752,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_SOCINS"
+      "title": "[World Bank] Proportion of population covered by social insurance programs (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLSP_UC/data.csv",
@@ -17848,7 +17848,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLSP_UC"
+      "title": "Number of speakers in parliament, by age and sex, Upper Chamber"
     },
     {
       "path": "16-3-3/data.csv",
@@ -17996,7 +17996,7 @@
           }
         ]
       },
-      "title": "meta.name-6-2-1-SH_SAN_HNDWSH"
+      "title": "Proportion of population with basic handwashing facilities on premises, by urban/rural (%)"
     },
     {
       "path": "9-1-1/data.csv",
@@ -18147,7 +18147,7 @@
           }
         ]
       },
-      "title": "meta.name-16-a-1-SG_NHR_NOAPPLN"
+      "title": "Countries with no application for accreditation with the Paris Principles, D status  (1 = YES; 0 = NO)"
     },
     {
       "path": "15-2-1-AG_LND_FRSTCHG/data.csv",
@@ -18255,7 +18255,7 @@
           }
         ]
       },
-      "title": "meta.name-15-2-1-AG_LND_FRSTCHG"
+      "title": "Annual forest area change rate (%)"
     },
     {
       "path": "11-5-3-VC_DSR_CDYN/data.csv",
@@ -18328,7 +18328,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_CDYN"
+      "title": "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters (number)"
     },
     {
       "path": "1-5-1-VC_DSR_AFFCT/data.csv",
@@ -18420,7 +18420,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_AFFCT"
+      "title": "Number of people affected by disaster (number)"
     },
     {
       "path": "13-1-1-VC_DSR_DAFF/data.csv",
@@ -18512,7 +18512,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_DAFF"
+      "title": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "4-a-1-SE_ACS_INTNT/data.csv",
@@ -18631,7 +18631,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACS_INTNT"
+      "title": "Proportion of schools with access to the internet for pedagogical purposes, by education level (%)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVOGR/data.csv",
@@ -18711,7 +18711,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVOGR"
+      "title": "Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population)"
     },
     {
       "path": "6-1-1/data.csv",
@@ -19017,7 +19017,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_LDCG"
+      "title": "Net official development assistance (ODA) to LDCs as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
     },
     {
       "path": "1-1-1-cmp/data.csv",
@@ -19193,7 +19193,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_INV"
+      "title": "Total investment in Environment Sound Technologies, by sector (current United States dollars)"
     },
     {
       "path": "16-5-1/data.csv",
@@ -19360,7 +19360,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_RECNDI"
+      "title": "Proportion of project objectives in new development interventions drawn from country-led result frameworks - data by recipient (%)"
     },
     {
       "path": "3-d-2-SH_BLD_ECOLI/data.csv",
@@ -19440,7 +19440,7 @@
           }
         ]
       },
-      "title": "meta.name-3-d-2-SH_BLD_ECOLI"
+      "title": "Percentage of bloodstream infection due to Escherichia coli resistant to 3rd-generation cephalosporin (e.g., ESBL- E. coli) among patients seeking care and whose blood sample is taken and tested (%)"
     },
     {
       "path": "6-6-1-EN_WBE_NDQTRVR/data.csv",
@@ -19493,7 +19493,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_NDQTRVR"
+      "title": "Nationally derived quantity of rivers (million of cubic metres per annum)"
     },
     {
       "path": "12-4-2-EN_EWT_COLLPCAP/data.csv",
@@ -19572,7 +19572,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_EWT_COLLPCAP"
+      "title": "Electronic waste collected, per capita (KG)"
     },
     {
       "path": "17-2-1-DC_ODA_TOTLGE/data.csv",
@@ -19646,7 +19646,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_TOTLGE"
+      "title": "Official development assistance (ODA) from OECD-DAC countries on grant equivalent basis, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "12-5-1-EN_MWT_RCYV/data.csv",
@@ -19737,7 +19737,7 @@
           }
         ]
       },
-      "title": "meta.name-12-5-1-EN_MWT_RCYV"
+      "title": "Municipal waste recycled (Tonnes)"
     },
     {
       "path": "16-3-1-VC_PRR_ROBB/data.csv",
@@ -19819,7 +19819,7 @@
           }
         ]
       },
-      "title": "meta.name-16-3-1-VC_PRR_ROBB"
+      "title": "Police reporting rate for robbery, by sex (%)"
     },
     {
       "path": "17-13-1-DT_DOD_DECT_GN_ZS/data.csv",
@@ -19888,7 +19888,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-DT_DOD_DECT_GN_ZS"
+      "title": "External debt stocks as a proportion of GNI (%)"
     },
     {
       "path": "3-c-1-SH_MED_DEN/data.csv",
@@ -20009,7 +20009,7 @@
           }
         ]
       },
-      "title": "meta.name-3-c-1-SH_MED_DEN"
+      "title": "Health worker density, by type of occupation (per 10,000 population)"
     },
     {
       "path": "8-5-1-SL_EMP_EARN/data.csv",
@@ -20162,7 +20162,7 @@
           }
         ]
       },
-      "title": "meta.name-8-5-1-SL_EMP_EARN"
+      "title": "Average hourly earnings of employees by sex and occupation (local currency)"
     },
     {
       "path": "1-5-4-SG_DSR_SILS/data.csv",
@@ -20251,7 +20251,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-4-SG_DSR_SILS"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
     },
     {
       "path": "6-6-1-EN_RSRV_MXWAN/data.csv",
@@ -20355,7 +20355,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_RSRV_MXWAN"
+      "title": "Reservoir maximum water area (square kilometres)"
     },
     {
       "path": "1-2-2-SD_MDP_ANDI/data.csv",
@@ -20438,7 +20438,7 @@
           }
         ]
       },
-      "title": "meta.name-1-2-2-SD_MDP_ANDI"
+      "title": "Average proportion of deprivations for people multidimensionally poor (%)"
     },
     {
       "path": "1-5-1-VC_DSR_DAFF/data.csv",
@@ -20530,7 +20530,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_DAFF"
+      "title": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "6-6-1-EN_RSRV_MXWAP/data.csv",
@@ -20634,7 +20634,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_RSRV_MXWAP"
+      "title": "Reservoir maximum water area (% of total land area)"
     },
     {
       "path": "4-2-1/data.csv",
@@ -20826,7 +20826,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_MMHN"
+      "title": "Number of deaths and missing persons attributed to disasters (number)"
     },
     {
       "path": "11-5-1-VC_DSR_IJILN/data.csv",
@@ -20915,7 +20915,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_IJILN"
+      "title": "Number of injured or ill people attributed to disasters (number)"
     },
     {
       "path": "6-3-1/data.csv",
@@ -21153,7 +21153,7 @@
           }
         ]
       },
-      "title": "meta.name-1-1-1-b"
+      "title": "Employed population below international poverty line, by sex and age (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHES2/data.csv",
@@ -21248,7 +21248,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHES2"
+      "title": "(S.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 2: Contraceptive and Family Planning (%)"
     },
     {
       "path": "17-18-1-SG_STT_ODIN/data.csv",
@@ -21356,7 +21356,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-1-SG_STT_ODIN"
+      "title": "Open Data Inventory (ODIN) Coverage Index"
     },
     {
       "path": "2-5-1-ER_GRF_ANIMRCNTN_TRB/data.csv",
@@ -21443,7 +21443,7 @@
           }
         ]
       },
-      "title": "meta.name-2-5-1-ER_GRF_ANIMRCNTN_TRB"
+      "title": "Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYP_LC/data.csv",
@@ -21562,7 +21562,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYP_LC"
+      "title": "Proportion of youth in parliament (age 45 or below), Lower Chamber or Unicameral (%)"
     },
     {
       "path": "1-3-1-SI_COV_DISAB/data.csv",
@@ -21683,7 +21683,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_DISAB"
+      "title": "[ILO] Proportion of population with severe disabilities receiving disability cash benefit, by sex (%)"
     },
     {
       "path": "12-1-1-SG_SCP_CNTRY/data.csv",
@@ -21760,7 +21760,7 @@
           }
         ]
       },
-      "title": "meta.name-12-1-1-SG_SCP_CNTRY"
+      "title": "Countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or target into national policies (1 = YES; 0 = NO)"
     },
     {
       "path": "2-c-1-AG_FPA_CFPI/data.csv",
@@ -21865,7 +21865,7 @@
           }
         ]
       },
-      "title": "meta.name-2-c-1-AG_FPA_CFPI"
+      "title": "Indicator of Food Price Anomalies (IFPA), by Consumer Food Price Index"
     },
     {
       "path": "5-4-1-SL_DOM_TSPDCW/data.csv",
@@ -22014,7 +22014,7 @@
           }
         ]
       },
-      "title": "meta.name-5-4-1-SL_DOM_TSPDCW"
+      "title": "Proportion of time spent on unpaid care work, by sex, age and location (%)"
     },
     {
       "path": "4-5-1-SE_GPI_TCAQ/data.csv",
@@ -22099,7 +22099,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_GPI_TCAQ"
+      "title": "Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio)"
     },
     {
       "path": "17-13-1-NE_GDI_TOTL_KD_ZG/data.csv",
@@ -22203,7 +22203,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NE_GDI_TOTL_KD_ZG"
+      "title": "Annual growth of the gross capital formation (%)"
     },
     {
       "path": "17-18-3-SG_STT_NSDSFDOTHR/data.csv",
@@ -22264,7 +22264,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-3-SG_STT_NSDSFDOTHR"
+      "title": "Countries with national statistical plans with funding from others (1 = YES; 0 = NO)"
     },
     {
       "path": "4-3-1/data.csv",
@@ -22476,7 +22476,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-3-SG_DSR_SILN"
+      "title": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
     },
     {
       "path": "15-8-1-ER_IAS_NATBUD/data.csv",
@@ -22578,7 +22578,7 @@
           }
         ]
       },
-      "title": "meta.name-15-8-1-ER_IAS_NATBUD"
+      "title": "Countries with an allocation from the national budget to manage the threat of invasive alien speciesÂ (1 = YES, 0 = NO)"
     },
     {
       "path": "9-5-2/data.csv",
@@ -22740,7 +22740,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_NFI"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of net farm income (%)"
     },
     {
       "path": "11-5-2-VC_DSR_LSGP/data.csv",
@@ -22828,7 +22828,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_LSGP"
+      "title": "Direct economic loss attributed to disasters relative to GDP (%)"
     },
     {
       "path": "17-15-1-SG_PLN_PRVRIMON/data.csv",
@@ -22901,7 +22901,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_PRVRIMON"
+      "title": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by provider (%)"
     },
     {
       "path": "6-6-1-EN_LKW_QLTRB/data.csv",
@@ -23011,7 +23011,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKW_QLTRB"
+      "title": "Lake water quality turbidity (%)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVSX/data.csv",
@@ -23142,7 +23142,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVSX"
+      "title": "Detected victims of human trafficking for sexual exploitation, by age and sex (number)"
     },
     {
       "path": "15-5-1/data.csv",
@@ -23396,7 +23396,7 @@
           }
         ]
       },
-      "title": "meta.name-12-b-1-ST_EEV_ACCSEEA"
+      "title": "Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism (SEEA tables)"
     },
     {
       "path": "12-4-1-SG_HAZ_CMRROTDAM/data.csv",
@@ -23499,7 +23499,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-1-SG_HAZ_CMRROTDAM"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Rotterdam Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "10-7-2-SG_CPA_MIGRS/data.csv",
@@ -23617,7 +23617,7 @@
           }
         ]
       },
-      "title": "meta.name-10-7-2-SG_CPA_MIGRS"
+      "title": "Countries with migration policies to facilitate orderly, safe, regular and responsible migration and mobility of people, by policy domain (1 = Requires further progress; 2 = Partially meets; 3 = Meets; 4 = Fully meets)"
     },
     {
       "path": "8-4-2-EN_MAT_DOMCMPT/data.csv",
@@ -23753,7 +23753,7 @@
           }
         ]
       },
-      "title": "meta.name-8-4-2-EN_MAT_DOMCMPT"
+      "title": "Domestic material consumption, by type of raw material (tonnes)"
     },
     {
       "path": "17-15-1-SG_PLN_RECRIMON/data.csv",
@@ -23811,7 +23811,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_RECRIMON"
+      "title": "Proportion of results indicators which will be monitored using government sources and monitoring systems - data by recipient (%)"
     },
     {
       "path": "5-a-1-SP_LGL_LNDAGSEC/data.csv",
@@ -23873,7 +23873,7 @@
           }
         ]
       },
-      "title": "meta.name-5-a-1-SP_LGL_LNDAGSEC"
+      "title": "Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex (%)"
     },
     {
       "path": "17-18-3-SG_STT_NSDSFDDNR/data.csv",
@@ -23934,7 +23934,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-3-SG_STT_NSDSFDDNR"
+      "title": "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO)"
     },
     {
       "path": "6-6-1-EN_LKRV_SWAC/data.csv",
@@ -24038,7 +24038,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_SWAC"
+      "title": "Lakes and rivers seasonal water area change (%)"
     },
     {
       "path": "6-6-1-EN_LKRV_PWAP/data.csv",
@@ -24142,7 +24142,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_PWAP"
+      "title": "Lakes and rivers permanent water area (% of total land area)"
     },
     {
       "path": "14-b-1/data.csv",
@@ -24316,7 +24316,7 @@
           }
         ]
       },
-      "title": "meta.name-15-a-1-DC_ODA_BDVDL"
+      "title": "Total official development assistance for biodiversity, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "17-6-1-IT_NET_BBND/data.csv",
@@ -24478,7 +24478,7 @@
           }
         ]
       },
-      "title": "meta.name-17-6-1-IT_NET_BBND"
+      "title": "Fixed broadband subscriptions per 100Â inhabitants, by speed (per 100 inhabitants)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLCC_JC/data.csv",
@@ -24571,7 +24571,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLCC_JC"
+      "title": "Number of chairs of permanent committees, by age sex and focus of the committee, Joint Committees"
     },
     {
       "path": "2-4-1-a-AG_LND_AGRBIO/data.csv",
@@ -24624,7 +24624,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_AGRBIO"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of use of agro-biodiversity supportive practices (%)"
     },
     {
       "path": "2-a-2/data.csv",
@@ -24774,7 +24774,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-1-SH_FPL_INFMSR"
+      "title": "Proportion of women who make their own informed decisions regarding sexual relations (% of women aged 15-49 years)"
     },
     {
       "path": "17-3-1-DC_OSSD_GRT/data.csv",
@@ -24843,7 +24843,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-DC_OSSD_GRT"
+      "title": "Gross receipts by developing countries of official sustainable development grants (millions of United States dollars)"
     },
     {
       "path": "15-a-1-DC_ODA_BDVL/data.csv",
@@ -24913,7 +24913,7 @@
           }
         ]
       },
-      "title": "meta.name-15-a-1-DC_ODA_BDVL"
+      "title": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "11-5-3-VC_DSR_HSDN/data.csv",
@@ -24995,7 +24995,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_HSDN"
+      "title": "Number of disruptions to health services attributed to disasters (number)"
     },
     {
       "path": "17-15-1-SG_PLN_PRPOLRES/data.csv",
@@ -25068,7 +25068,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_PRPOLRES"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by provider (%)"
     },
     {
       "path": "17-13-1-GC_TAX_TOTL_GD_ZS/data.csv",
@@ -25171,7 +25171,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-GC_TAX_TOTL_GD_ZS"
+      "title": "Tax revenue as a proportion of GDP (%)"
     },
     {
       "path": "11-5-1-VC_DSR_MISS/data.csv",
@@ -25262,7 +25262,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_MISS"
+      "title": "Number of missing persons due to disaster (number)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC2/data.csv",
@@ -25355,7 +25355,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC2"
+      "title": "(S.1.C.2) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 2: Life Saving Commodities (%)"
     },
     {
       "path": "10-7-3/data.csv",
@@ -25570,7 +25570,7 @@
           }
         ]
       },
-      "title": "meta.name-3-c-1-SH_MED_HWRKDIS"
+      "title": "Health worker distribution, by sex and type of occupation (%)"
     },
     {
       "path": "12-c-1-ER_FFS_CMPT_GDP/data.csv",
@@ -25677,7 +25677,7 @@
           }
         ]
       },
-      "title": "meta.name-12-c-1-ER_FFS_CMPT_GDP"
+      "title": "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP (%)"
     },
     {
       "path": "16-8-1-SG_INT_MBRDEV/data.csv",
@@ -25806,7 +25806,7 @@
           }
         ]
       },
-      "title": "meta.name-16-8-1-SG_INT_MBRDEV"
+      "title": "Proportion of members of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "16-3-1-VC_PRR_PHYV/data.csv",
@@ -25882,7 +25882,7 @@
           }
         ]
       },
-      "title": "meta.name-16-3-1-VC_PRR_PHYV"
+      "title": "Police reporting rate for physical assault, by sex (%)"
     },
     {
       "path": "6-6-1-EN_LKRV_SWAN/data.csv",
@@ -25986,7 +25986,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_SWAN"
+      "title": "Lakes and rivers seasonal water area (square kilometres)"
     },
     {
       "path": "6-6-1-EN_LKRV_SWAP/data.csv",
@@ -26090,7 +26090,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_SWAP"
+      "title": "Lakes and rivers seasonal water area (% of total land area)"
     },
     {
       "path": "1-4-2-SP_LGL_LNDDOC/data.csv",
@@ -26155,7 +26155,7 @@
           }
         ]
       },
-      "title": "meta.name-1-4-2-SP_LGL_LNDDOC"
+      "title": "Proportion of people with legally recognized documentation of their rights to land out of total adult population, by sex (%)"
     },
     {
       "path": "17-18-3-SG_STT_NSDSFDGVT/data.csv",
@@ -26260,7 +26260,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-3-SG_STT_NSDSFDGVT"
+      "title": "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO)"
     },
     {
       "path": "16-3-2/data.csv",
@@ -26584,7 +26584,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_POOR"
+      "title": "[ILO] Proportion of poor population receiving social assistance cash benefit, by sex (%)"
     },
     {
       "path": "16-3-1-VC_PRR_SEXV/data.csv",
@@ -26658,7 +26658,7 @@
           }
         ]
       },
-      "title": "meta.name-16-3-1-VC_PRR_SEXV"
+      "title": "Police reporting rate for sexual assault, by sex (%)"
     },
     {
       "path": "8-10-1-FB_ATM_TOTL/data.csv",
@@ -26775,7 +26775,7 @@
           }
         ]
       },
-      "title": "meta.name-8-10-1-FB_ATM_TOTL"
+      "title": "Number of automated teller machines (ATMs) per 100,000 adults"
     },
     {
       "path": "3-b-3/data.csv",
@@ -26928,7 +26928,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSKRTC"
+      "title": "Regulatory Tier 1 capital to risk-weighted assets (%)"
     },
     {
       "path": "9-2-1-NV_IND_MANF_CD/data.csv",
@@ -27047,7 +27047,7 @@
           }
         ]
       },
-      "title": "meta.name-9-2-1-NV_IND_MANF_CD"
+      "title": "Manufacturing value added (current United States dollars) as a proportion of GDP (%)"
     },
     {
       "path": "12-4-1-SG_HAZ_CMRSTHOLM/data.csv",
@@ -27154,7 +27154,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-1-SG_HAZ_CMRSTHOLM"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Stockholm Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "6-2-1-SH_SAN_DEFECT/data.csv",
@@ -27275,7 +27275,7 @@
           }
         ]
       },
-      "title": "meta.name-6-2-1-SH_SAN_DEFECT"
+      "title": "Proportion of population practicing open defecation, by urban/rural (%)"
     },
     {
       "path": "11-7-2/data.csv",
@@ -27530,7 +27530,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_MANGC"
+      "title": "Mangrove total area change (%)"
     },
     {
       "path": "17-1-1-GR_G14_XDC/data.csv",
@@ -27636,7 +27636,7 @@
           }
         ]
       },
-      "title": "meta.name-17-1-1-GR_G14_XDC"
+      "title": "Total government revenue, in local currency"
     },
     {
       "path": "9-2-2-SL_TLF_MANF/data.csv",
@@ -27763,7 +27763,7 @@
           }
         ]
       },
-      "title": "meta.name-9-2-2-SL_TLF_MANF"
+      "title": "Manufacturing employment as a proportion of total employment - 13th ICLS (%)"
     },
     {
       "path": "1-3-1-SI_COV_BENFTS/data.csv",
@@ -27882,7 +27882,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_BENFTS"
+      "title": "[ILO] Proportion of population covered by at least one social protection benefit, by sex (%)"
     },
     {
       "path": "6-5-1-ER_H2O_IWRMD_FI/data.csv",
@@ -28001,7 +28001,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-1-ER_H2O_IWRMD_FI"
+      "title": "Degree of integrated water resources management implementation, financing (%)"
     },
     {
       "path": "12-4-2-EN_HAZ_IMP/data.csv",
@@ -28062,7 +28062,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_IMP"
+      "title": "Hazardous waste imported, (Tonnes)"
     },
     {
       "path": "17-7-1-DC_ENVTECH_REXP/data.csv",
@@ -28122,7 +28122,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_REXP"
+      "title": "Amount of tracked re-exported Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "1-5-3-SG_DSR_LGRGSR/data.csv",
@@ -28214,7 +28214,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-3-SG_DSR_LGRGSR"
+      "title": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
     },
     {
       "path": "17-15-1-SG_PLN_RECRICTRY/data.csv",
@@ -28272,7 +28272,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_RECRICTRY"
+      "title": "Proportion of results indicators drawn from country-led results frameworks - data by recipient (%)"
     },
     {
       "path": "12-5-1-EN_EWT_RCYR/data.csv",
@@ -28348,7 +28348,7 @@
           }
         ]
       },
-      "title": "meta.name-12-5-1-EN_EWT_RCYR"
+      "title": "Proportion of electronic waste recycled (%)"
     },
     {
       "path": "1-5-1-VC_DSR_MISS/data.csv",
@@ -28439,7 +28439,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_MISS"
+      "title": "Number of missing persons due to disaster (number)"
     },
     {
       "path": "3-d-2-SH_BLD_MRSA/data.csv",
@@ -28519,7 +28519,7 @@
           }
         ]
       },
-      "title": "meta.name-3-d-2-SH_BLD_MRSA"
+      "title": "Percentage of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) among patients seeking care and whose blood sample is taken and tested (%)"
     },
     {
       "path": "13-1-1-VC_DSR_MTMP/data.csv",
@@ -28615,7 +28615,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_MTMP"
+      "title": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "12-a-1/data.csv",
@@ -28842,7 +28842,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_COLLV"
+      "title": "Municipal waste collected (Tonnes)"
     },
     {
       "path": "12-4-2-EN_HAZ_EXP/data.csv",
@@ -28902,7 +28902,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_EXP"
+      "title": "Hazardous waste exported, (Tonnes)"
     },
     {
       "path": "8-10-2-FB_BNK_ACCSS_OLF/data.csv",
@@ -29041,7 +29041,7 @@
           }
         ]
       },
-      "title": "meta.name-8-10-2-FB_BNK_ACCSS_OLF"
+      "title": "Proportion of adults (15 years and older) out of labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)"
     },
     {
       "path": "17-11-1-TX_EXP_GBMRCH/data.csv",
@@ -29148,7 +29148,7 @@
           }
         ]
       },
-      "title": "meta.name-17-11-1-TX_EXP_GBMRCH"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global merchandise exports (%)"
     },
     {
       "path": "15-8-1-ER_IAS_LEGIS/data.csv",
@@ -29256,7 +29256,7 @@
           }
         ]
       },
-      "title": "meta.name-15-8-1-ER_IAS_LEGIS"
+      "title": "Legislation, Regulation, Act related to the prevention of introduction and management of Invasive Alien Species (1 = YES, 0 = NO)"
     },
     {
       "path": "8-10-1-FB_CBK_BRCH/data.csv",
@@ -29372,7 +29372,7 @@
           }
         ]
       },
-      "title": "meta.name-8-10-1-FB_CBK_BRCH"
+      "title": "Number of commercial bank branches per 100,000 adults"
     },
     {
       "path": "5-6-1-SH_FPL_INFMCU/data.csv",
@@ -29451,7 +29451,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-1-SH_FPL_INFMCU"
+      "title": "Proportion of women who make their own informed decisions regarding contraceptive use (% of women aged 15-49 years)"
     },
     {
       "path": "5-a-2/data.csv",
@@ -29652,7 +29652,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVR"
+      "title": "Detected victims of human trafficking, by age and sex (per 100,000 population)"
     },
     {
       "path": "11-b-1-SG_DSR_LGRGSR/data.csv",
@@ -29744,7 +29744,7 @@
           }
         ]
       },
-      "title": "meta.name-11-b-1-SG_DSR_LGRGSR"
+      "title": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
     },
     {
       "path": "14-2-1/data.csv",
@@ -30137,7 +30137,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-BN_CAB_XOKA_GD_ZS"
+      "title": "Current account balance as a proportion of GDP (%)"
     },
     {
       "path": "10-6-1-SG_INT_VRTDEV/data.csv",
@@ -30266,7 +30266,7 @@
           }
         ]
       },
-      "title": "meta.name-10-6-1-SG_INT_VRTDEV"
+      "title": "Proportion of voting rights of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "3-9-3/data.csv",
@@ -30478,7 +30478,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-2-SG_DSR_LGRGSR"
+      "title": "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
     },
     {
       "path": "11-3-1/data.csv",
@@ -31392,7 +31392,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACS_ELECT"
+      "title": "Proportion of schools with access to electricity, by education level (%)"
     },
     {
       "path": "3-8-2/data.csv",
@@ -31550,7 +31550,7 @@
           }
         ]
       },
-      "title": "meta.name-16-4-1-DI_ILL_IN"
+      "title": "Total value of inward illicit financial flows"
     },
     {
       "path": "10-c-1-SI_RMT_COST_BC/data.csv",
@@ -31706,7 +31706,7 @@
           }
         ]
       },
-      "title": "meta.name-10-c-1-SI_RMT_COST_BC"
+      "title": "Average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)"
     },
     {
       "path": "8-7-1-SL_TLF_CHLDEC/data.csv",
@@ -31793,7 +31793,7 @@
           }
         ]
       },
-      "title": "meta.name-8-7-1-SL_TLF_CHLDEC"
+      "title": "Proportion of children engaged in economic activity and household chores, by sex and age (%)"
     },
     {
       "path": "9-4-1-EN_ATM_CO2GDP/data.csv",
@@ -31900,7 +31900,7 @@
           }
         ]
       },
-      "title": "meta.name-9-4-1-EN_ATM_CO2GDP"
+      "title": "Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars)"
     },
     {
       "path": "8-5-2-SL_TLF_UEM_19ICLS/data.csv",
@@ -32018,7 +32018,7 @@
           }
         ]
       },
-      "title": "meta.name-8-5-2-SL_TLF_UEM_19ICLS"
+      "title": "Unemployment rate, by sex and age - 19th ICLS (%)"
     },
     {
       "path": "15-4-2-ER_MTN_DGRDP/data.csv",
@@ -32125,7 +32125,7 @@
           }
         ]
       },
-      "title": "meta.name-15-4-2-ER_MTN_DGRDP"
+      "title": "Proportion of degraded mountain land (%)"
     },
     {
       "path": "11-5-2-VC_DSR_CHLN/data.csv",
@@ -32203,7 +32203,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_CHLN"
+      "title": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
     },
     {
       "path": "5-4-1-SL_DOM_TSPD/data.csv",
@@ -32353,7 +32353,7 @@
           }
         ]
       },
-      "title": "meta.name-5-4-1-SL_DOM_TSPD"
+      "title": "Proportion of time spent on unpaid domestic chores and care work, by sex, age and location (%)"
     },
     {
       "path": "6-6-1-EN_WBE_INWTL/data.csv",
@@ -32442,7 +32442,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_INWTL"
+      "title": "Extent of inland wetlands (square kilometres)"
     },
     {
       "path": "7-b-1/data.csv",
@@ -32568,7 +32568,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_EWT_COLLR"
+      "title": "Proportion of electronic waste collected (%)"
     },
     {
       "path": "17-4-1/data.csv",
@@ -32725,7 +32725,7 @@
           }
         ]
       },
-      "title": "meta.name-11-b-2-SG_DSR_SILS"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC1/data.csv",
@@ -32821,7 +32821,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC1"
+      "title": "(S.1.C.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 1: Maternity Care (%)"
     },
     {
       "path": "12-4-2-EN_HAZ_TREATV/data.csv",
@@ -32929,7 +32929,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_TREATV"
+      "title": "Hazardous waste treated, by type of treatment (Tonnes)"
     },
     {
       "path": "14-5-1/data.csv",
@@ -33137,7 +33137,7 @@
           }
         ]
       },
-      "title": "meta.name-8-3-1-SL_ISV_IFEM"
+      "title": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 13th ICLS (%)"
     },
     {
       "path": "11-5-1-VC_DSR_PDLN/data.csv",
@@ -33217,7 +33217,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_PDLN"
+      "title": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
     },
     {
       "path": "17-1-1-GR_G14_GDP/data.csv",
@@ -33323,7 +33323,7 @@
           }
         ]
       },
-      "title": "meta.name-17-1-1-GR_G14_GDP"
+      "title": "Total government revenue (budgetary central government) as a proportion of GDP (%)"
     },
     {
       "path": "12-4-2-EN_HAZ_GENV/data.csv",
@@ -33415,7 +33415,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_GENV"
+      "title": "Hazardous waste generated (Tonnes)"
     },
     {
       "path": "17-3-1-GF_FRN_FDI/data.csv",
@@ -33522,7 +33522,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-GF_FRN_FDI"
+      "title": "Foreign direct investment (FDI) inflows (millions of United States dollars)"
     },
     {
       "path": "17-18-3-SG_STT_NSDSFND/data.csv",
@@ -33626,7 +33626,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-3-SG_STT_NSDSFND"
+      "title": "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO)"
     },
     {
       "path": "9-b-1/data.csv",
@@ -33878,7 +33878,7 @@
           }
         ]
       },
-      "title": "meta.name-8-5-2-SL_TLF_UEM"
+      "title": "Unemployment rate, by sex and age - 13th ICLS (%)"
     },
     {
       "path": "3-6-1/data.csv",
@@ -34115,7 +34115,7 @@
           }
         ]
       },
-      "title": "meta.name-17-11-1-TX_IMP_GBMRCH"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global merchandise imports (%)"
     },
     {
       "path": "16-9-1/data.csv",
@@ -34745,7 +34745,7 @@
           }
         ]
       },
-      "title": "meta.name-15-2-1-AG_LND_FRSTPRCT"
+      "title": "Proportion of forest area within legally established protected areas (%)"
     },
     {
       "path": "16-6-2-SP_PSR_OSATIS_GOV/data.csv",
@@ -34871,7 +34871,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_OSATIS_GOV"
+      "title": "Proportion of population who say that overall they are satisfied with the quality of government services (%)"
     },
     {
       "path": "14-4-1/data.csv",
@@ -35064,7 +35064,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_PENSN"
+      "title": "[ILO] Proportion of population above statutory pensionable age receiving a pension, by sex (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHE/data.csv",
@@ -35150,7 +35150,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHE"
+      "title": "Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education (%)"
     },
     {
       "path": "14-1-1-EN_MAR_BEALIT_OV/data.csv",
@@ -35238,7 +35238,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALIT_OV"
+      "title": "Beach litter originating from national land-based sources that ends in the ocean (Tonnes)"
     },
     {
       "path": "17-15-1-SG_PLN_PRVRICTRY/data.csv",
@@ -35311,7 +35311,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_PRVRICTRY"
+      "title": "Proportion of results indicators drawn from country-led results frameworks - data by provider (%)"
     },
     {
       "path": "11-5-1-VC_DSR_AFFCT/data.csv",
@@ -35403,7 +35403,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_AFFCT"
+      "title": "Number of people affected by disaster (number)"
     },
     {
       "path": "4-a-1-SE_ACS_SANIT/data.csv",
@@ -35504,7 +35504,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACS_SANIT"
+      "title": "Proportion of schools with access to single-sex basic sanitation, by education level (%)"
     },
     {
       "path": "3-1-1-SH_STA_MORT/data.csv",
@@ -35652,7 +35652,7 @@
           }
         ]
       },
-      "title": "meta.name-3-1-1-SH_STA_MORT"
+      "title": "Maternal mortality ratio"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC3/data.csv",
@@ -35746,7 +35746,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC3"
+      "title": "(S.1.C.3) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 3: Abortion"
     },
     {
       "path": "11-5-1-VC_DSR_MORT/data.csv",
@@ -35841,7 +35841,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_MORT"
+      "title": "Number of deaths due to disaster (number)"
     },
     {
       "path": "4-2-2/data.csv",
@@ -36187,7 +36187,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-1-SG_HAZ_CMRMNMT"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Minamata Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "1-1-1-a/data.csv",
@@ -36332,7 +36332,7 @@
           }
         ]
       },
-      "title": "meta.name-1-1-1-a"
+      "title": "Proportion of population below international poverty line (%)"
     },
     {
       "path": "9-1-2-IS_RDP_PFVOL/data.csv",
@@ -36449,7 +36449,7 @@
           }
         ]
       },
-      "title": "meta.name-9-1-2-IS_RDP_PFVOL"
+      "title": "Passenger volume (passenger kilometres), by mode of transport"
     },
     {
       "path": "1-3-1-SI_COV_UEMP/data.csv",
@@ -36570,7 +36570,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_UEMP"
+      "title": "[ILO] Proportion of unemployed persons receiving unemployment cash benefit, by sex (%)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVOPR/data.csv",
@@ -36691,7 +36691,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVOPR"
+      "title": "Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population)"
     },
     {
       "path": "12-4-2-EN_MWT_TREATV/data.csv",
@@ -36804,7 +36804,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_TREATV"
+      "title": "Municipal waste treated by type of treatment (Tonnes)"
     },
     {
       "path": "5-a-1-SP_GNP_WNOWNS/data.csv",
@@ -36853,7 +36853,7 @@
           }
         ]
       },
-      "title": "meta.name-5-a-1-SP_GNP_WNOWNS"
+      "title": "Share of women among owners or rights-bearers of agricultural land, by type of tenure (%)"
     },
     {
       "path": "17-13-1-FB_BNK_CAPA_ZS/data.csv",
@@ -36954,7 +36954,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-FB_BNK_CAPA_ZS"
+      "title": "Bank capital to assets ratio (%)"
     },
     {
       "path": "5-3-1/data.csv",
@@ -37281,7 +37281,7 @@
           }
         ]
       },
-      "title": "meta.name-17-12-1-TM_TAX_DPRF"
+      "title": "Average tariff applied by developed countries, preferential status, by type of product (%)"
     },
     {
       "path": "17-13-1-GC_BAL_CASH_GD_ZS/data.csv",
@@ -37383,7 +37383,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-GC_BAL_CASH_GD_ZS"
+      "title": "Cash surplus/deficit as a proportion of GDP (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYP_UC/data.csv",
@@ -37465,7 +37465,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYP_UC"
+      "title": "Proportion of youth in parliament (age 45 or below), Upper Chamber (%)"
     },
     {
       "path": "9-2-1-NV_IND_MANFPC/data.csv",
@@ -37584,7 +37584,7 @@
           }
         ]
       },
-      "title": "meta.name-9-2-1-NV_IND_MANFPC"
+      "title": "Manufacturing value added per capita (constant 2015 United States dollars)"
     },
     {
       "path": "8-a-1-DC_TOF_TRDDBMDL/data.csv",
@@ -37658,7 +37658,7 @@
           }
         ]
       },
-      "title": "meta.name-8-a-1-DC_TOF_TRDDBMDL"
+      "title": "Total official flows (disbursement) for Aid for Trade, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "3-d-1/data.csv",
@@ -37912,7 +37912,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACS_H2O"
+      "title": "Proportion of schools with access to basic drinking water, by education level (%)"
     },
     {
       "path": "5-2-1/data.csv",
@@ -38095,7 +38095,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_TRTDISR"
+      "title": "Proportion of hazardous waste treated or disposed (%)"
     },
     {
       "path": "11-5-2-VC_DSR_CILN/data.csv",
@@ -38179,7 +38179,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_CILN"
+      "title": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)"
     },
     {
       "path": "8-4-2-EN_MAT_DOMCMPC/data.csv",
@@ -38315,7 +38315,7 @@
           }
         ]
       },
-      "title": "meta.name-8-4-2-EN_MAT_DOMCMPC"
+      "title": "Domestic material consumption per capita, by type of raw material (tonnes)"
     },
     {
       "path": "3-8-1/data.csv",
@@ -38527,7 +38527,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_IMP"
+      "title": "Amount of tracked imported Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "5-5-2-IC_GEN_MGTL/data.csv",
@@ -38653,7 +38653,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-2-IC_GEN_MGTL"
+      "title": "Proportion of women in managerial positions - 13th ICLS (%)"
     },
     {
       "path": "6-6-1-EN_WBE_HMWTL/data.csv",
@@ -38717,7 +38717,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_HMWTL"
+      "title": "Extent of human made wetlands (square kilometres)"
     },
     {
       "path": "5-1-1/data.csv",
@@ -38914,7 +38914,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_IJILN"
+      "title": "Number of injured or ill people attributed to disasters (number)"
     },
     {
       "path": "14-1-1-EN_MAR_BEALIT_BP/data.csv",
@@ -39002,7 +39002,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALIT_BP"
+      "title": "Beach litter originating from national land-based sources that ends in the beach (%)"
     },
     {
       "path": "17-11-1-TX_IMP_GBSVR/data.csv",
@@ -39108,7 +39108,7 @@
           }
         ]
       },
-      "title": "meta.name-17-11-1-TX_IMP_GBSVR"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global services imports (%)"
     },
     {
       "path": "17-18-3-SG_STT_NSDSIMPL/data.csv",
@@ -39215,7 +39215,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-3-SG_STT_NSDSIMPL"
+      "title": "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO)"
     },
     {
       "path": "16-5-2/data.csv",
@@ -39363,7 +39363,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_EXP"
+      "title": "Municipal waste exported (Tonnes)"
     },
     {
       "path": "11-b-2-SG_DSR_SILN/data.csv",
@@ -39452,7 +39452,7 @@
           }
         ]
       },
-      "title": "meta.name-11-b-2-SG_DSR_SILN"
+      "title": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
     },
     {
       "path": "16-1-3-VC_VOV_SEXL/data.csv",
@@ -39519,7 +39519,7 @@
           }
         ]
       },
-      "title": "meta.name-16-1-3-VC_VOV_SEXL"
+      "title": "Proportion of population subjected to sexual violence in the previous 12 months, by sex (%)"
     },
     {
       "path": "17-13-1-DP_DOD_DLD2_CR_CG_Z1/data.csv",
@@ -39600,7 +39600,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-DP_DOD_DLD2_CR_CG_Z1"
+      "title": "Gross public sector debt, Central Government, as a proportion of GDP (%)"
     },
     {
       "path": "6-5-2-EG_TBA_H2CO/data.csv",
@@ -39694,7 +39694,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-2-EG_TBA_H2CO"
+      "title": "Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation (%)"
     },
     {
       "path": "17-2-1-DC_ODA_SIDSG/data.csv",
@@ -39768,7 +39768,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_SIDSG"
+      "title": "Net official development assistance (ODA) to small island states (SIDS) as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
     },
     {
       "path": "17-3-1-DC_OSSD_OFFCL/data.csv",
@@ -39837,7 +39837,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-DC_OSSD_OFFCL"
+      "title": "Gross receipts by developing countries of official concessional sustainable development loans (millions of United States dollars)"
     },
     {
       "path": "8-a-1-DC_TOF_TRDCMDL/data.csv",
@@ -39911,7 +39911,7 @@
           }
         ]
       },
-      "title": "meta.name-8-a-1-DC_TOF_TRDCMDL"
+      "title": "Total official flows (commitments) for Aid for Trade, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "14-a-1/data.csv",
@@ -40069,7 +40069,7 @@
           }
         ]
       },
-      "title": "meta.name-12-1-1-SG_SCP_POLINS"
+      "title": "Countries with policy instrument for sustainable consumption and production (1 = YES; 0 = NO)"
     },
     {
       "path": "15-4-1/data.csv",
@@ -40297,7 +40297,7 @@
           }
         ]
       },
-      "title": "meta.name-8-7-1-SL_TLF_CHLDEA"
+      "title": "Proportion of children engaged in economic activity, by sex and age  (%)"
     },
     {
       "path": "16-2-1/data.csv",
@@ -40570,7 +40570,7 @@
           }
         ]
       },
-      "title": "meta.name-12-c-1-ER_FFS_CMPT_CD"
+      "title": "Fossil-fuel subsidies (consumption and production) (billions of nominal United States dollars)"
     },
     {
       "path": "4-b-1/data.csv",
@@ -40714,7 +40714,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_TOTGGE"
+      "title": "Official development assistance (ODA) as a percentage of OECD-DAC donors' GNI on grant equivalent basis, by donor countries (%)"
     },
     {
       "path": "15-1-2-ER_PTD_TERR/data.csv",
@@ -40862,7 +40862,7 @@
           }
         ]
       },
-      "title": "meta.name-15-1-2-ER_PTD_TERR"
+      "title": "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas (%)"
     },
     {
       "path": "2-4-1-a-AG_LND_SDGRD/data.csv",
@@ -40911,7 +40911,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_SDGRD"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of soil degradation (%)"
     },
     {
       "path": "16-6-2-SP_PSR_OSATIS_PRM/data.csv",
@@ -41035,7 +41035,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_OSATIS_PRM"
+      "title": "Proportion of population who say that overall they are satisfied with the quality of primary education services (%)"
     },
     {
       "path": "6-6-1-EN_WBE_NDQTGRW/data.csv",
@@ -41084,7 +41084,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_NDQTGRW"
+      "title": "Nationally derived quantity of groundwater (millions of cubic metres per annum)"
     },
     {
       "path": "4-6-1/data.csv",
@@ -41291,7 +41291,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-2-EG_TBA_H2COAQ"
+      "title": "Proportion of transboundary aquifers with an operational arrangement for water cooperation (%)"
     },
     {
       "path": "11-2-1/data.csv",
@@ -42561,7 +42561,7 @@
           }
         ]
       },
-      "title": "meta.name-9-2-2-SL_TLF_MANF_19ICLS"
+      "title": "Manufacturing employment as a proportion of total employment - 19th ICLS(%)"
     },
     {
       "path": "6-4-2-ER_H2O_STRESS/data.csv",
@@ -42681,7 +42681,7 @@
           }
         ]
       },
-      "title": "meta.name-6-4-2-ER_H2O_STRESS"
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHES1/data.csv",
@@ -42771,7 +42771,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHES1"
+      "title": "(S.1) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 1: Maternity Care (%)"
     },
     {
       "path": "2-1-1/data.csv",
@@ -42960,7 +42960,7 @@
           }
         ]
       },
-      "title": "meta.name-1-4-2-SP_LGL_LNDSEC"
+      "title": "Proportion of people who perceive their rights to land as secure out of total adult population, by sex (%)"
     },
     {
       "path": "13-1-1-VC_DSR_MMHN/data.csv",
@@ -43066,7 +43066,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_MMHN"
+      "title": "Number of deaths and missing persons attributed to disasters (number)"
     },
     {
       "path": "17-17-1-GF_COM_PPPI/data.csv",
@@ -43135,7 +43135,7 @@
           }
         ]
       },
-      "title": "meta.name-17-17-1-GF_COM_PPPI"
+      "title": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD nominal"
     },
     {
       "path": "7-1-2/data.csv",
@@ -43326,7 +43326,7 @@
           }
         ]
       },
-      "title": "meta.name-10-b-1-DC_TRF_TOTL"
+      "title": "Total assistance for development, by recipient countries (millions of current United States dollars)"
     },
     {
       "path": "15-2-1-AG_LND_FRSTBIOPHA/data.csv",
@@ -43430,7 +43430,7 @@
           }
         ]
       },
-      "title": "meta.name-15-2-1-AG_LND_FRSTBIOPHA"
+      "title": "Above-ground biomass in forest (tonnes per hectare)"
     },
     {
       "path": "16-6-2-SP_PSR_OSATIS_SEC/data.csv",
@@ -43547,7 +43547,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_OSATIS_SEC"
+      "title": "Proportion of population who say that overall they are satisfied with the quality of secondary education services (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC11/data.csv",
@@ -43644,7 +43644,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC11"
+      "title": "(S.4.C.11) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 11: HIV Treatment and Care Services (%)"
     },
     {
       "path": "16-4-1-DI_ILL_OUT/data.csv",
@@ -43703,7 +43703,7 @@
           }
         ]
       },
-      "title": "meta.name-16-4-1-DI_ILL_OUT"
+      "title": "Total value of outward illicit financial flows"
     },
     {
       "path": "17-7-1-DC_ENVTECH_TT/data.csv",
@@ -43808,7 +43808,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_TT"
+      "title": "Total trade of tracked Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "17-2-1-DC_ODA_LLDCG/data.csv",
@@ -43882,7 +43882,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_LLDCG"
+      "title": "Net official development assistance (ODA) to landlocked developing countries as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
     },
     {
       "path": "16-6-2-SP_PSR_SATIS_SEC/data.csv",
@@ -44005,7 +44005,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_SATIS_SEC"
+      "title": "Proportion of population satisfied with their last experience of public services, secondary education services (%)"
     },
     {
       "path": "1-a-1-DC_ODA_POVLG/data.csv",
@@ -44076,7 +44076,7 @@
           }
         ]
       },
-      "title": "meta.name-1-a-1-DC_ODA_POVLG"
+      "title": "Official development assistance grants for poverty reduction, by recipient countries (percentage of GNI)"
     },
     {
       "path": "15-6-1-ER_CBD_NAGOYA/data.csv",
@@ -44184,7 +44184,7 @@
           }
         ]
       },
-      "title": "meta.name-15-6-1-ER_CBD_NAGOYA"
+      "title": "Countries that are parties to the Nagoya Protocol (1 = YES; 0 = NO)"
     },
     {
       "path": "17-7-1-DC_ENVTECH_EXP/data.csv",
@@ -44289,7 +44289,7 @@
           }
         ]
       },
-      "title": "meta.name-17-7-1-DC_ENVTECH_EXP"
+      "title": "Amount of tracked exported Environmentally Sound Technologies (current United States dollars)"
     },
     {
       "path": "17-2-1-DC_ODA_LDCS/data.csv",
@@ -44363,7 +44363,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_LDCS"
+      "title": "Net official development assistance (ODA) to LDCs from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "6-5-2-EG_TBA_H2CORL/data.csv",
@@ -44460,7 +44460,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-2-EG_TBA_H2CORL"
+      "title": "Proportion of transboundary river and lake basins with an operational arrangement for water cooperation (%)"
     },
     {
       "path": "12-7-1-SG_SCP_PROCN_LS/data.csv",
@@ -44537,7 +44537,7 @@
           }
         ]
       },
-      "title": "meta.name-12-7-1-SG_SCP_PROCN_LS"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans at lower subnational level by level of implementation (1 = YES; 0 = NO)"
     },
     {
       "path": "16-6-1/data.csv",
@@ -44730,7 +44730,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_MORT"
+      "title": "Number of deaths due to disaster (number)"
     },
     {
       "path": "9-a-1/data.csv",
@@ -44882,7 +44882,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_PDLN"
+      "title": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
     },
     {
       "path": "8-3-1-SL_ISV_IFEM_19ICLS/data.csv",
@@ -44993,7 +44993,7 @@
           }
         ]
       },
-      "title": "meta.name-8-3-1-SL_ISV_IFEM_19ICLS"
+      "title": "Proportion of informal employment, by sector and sex (ILO harmonized estimates) - 19th ICLS (%)"
     },
     {
       "path": "1-4-2-SP_LGL_LNDSTR/data.csv",
@@ -45057,7 +45057,7 @@
           }
         ]
       },
-      "title": "meta.name-1-4-2-SP_LGL_LNDSTR"
+      "title": "Proportion of people with secure tenure rights to land out of total adult population, by sex (%)"
     },
     {
       "path": "16-7-1-SG_DMK_JDC_CNS/data.csv",
@@ -45181,7 +45181,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_JDC_CNS"
+      "title": "Proportions of positions in the judiciary compared to national distributions, Constitutional Court (ratio)"
     },
     {
       "path": "5-5-1-SG_GEN_LOCGELS/data.csv",
@@ -45293,7 +45293,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-1-SG_GEN_LOCGELS"
+      "title": "Proportion of elected seats held by women in deliberative bodies of local government (%)"
     },
     {
       "path": "9-c-1/data.csv",
@@ -45565,7 +45565,7 @@
           }
         ]
       },
-      "title": "meta.name-17-6-1-IT_NET_BBNDN"
+      "title": "Number of fixed broadband subscriptions, by speed (number)"
     },
     {
       "path": "4-5-1-SE_NAP_ACHI/data.csv",
@@ -45689,7 +45689,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_NAP_ACHI"
+      "title": "Adjusted immigration status parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
     },
     {
       "path": "4-a-1-SE_INF_DSBL/data.csv",
@@ -45760,7 +45760,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_INF_DSBL"
+      "title": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities, by education level (%)"
     },
     {
       "path": "1-3-1-SI_COV_MATNL/data.csv",
@@ -45874,7 +45874,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_MATNL"
+      "title": "[ILO] Proportion of mothers with newborns receiving maternity cash benefit (%)"
     },
     {
       "path": "4-5-1-SE_GPI_PTNPRE/data.csv",
@@ -45978,7 +45978,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_GPI_PTNPRE"
+      "title": "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio)"
     },
     {
       "path": "1-5-1-VC_DSR_PDYN/data.csv",
@@ -46062,7 +46062,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_PDYN"
+      "title": "Number of people whose destroyed dwellings were attributed to disasters (number)"
     },
     {
       "path": "17-13-1-NY_GDP_MKTP_KD_ZG/data.csv",
@@ -46170,7 +46170,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NY_GDP_MKTP_KD_ZG"
+      "title": "Annual GDP growth (%)"
     },
     {
       "path": "14-7-1/data.csv",
@@ -46425,7 +46425,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-DC_OSSD_MPF"
+      "title": "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis (millions of United States dollars)"
     },
     {
       "path": "2-4-1-a-AG_LND_PSTCDSMG/data.csv",
@@ -46479,7 +46479,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_PSTCDSMG"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of management of pesticides (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC8/data.csv",
@@ -46574,7 +46574,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC8"
+      "title": "(S.3.C.8) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 8: Sexuality Education Curriculum Laws (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC12/data.csv",
@@ -46671,7 +46671,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC12"
+      "title": "(S.4.C.12) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 12: HIV Confidentiality (%)"
     },
     {
       "path": "16-6-2-SP_PSR_SATIS_HLTH/data.csv",
@@ -46811,7 +46811,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_SATIS_HLTH"
+      "title": "Proportion of population satisfied with their last experience of public services, healthcare services (%)"
     },
     {
       "path": "6-5-1-ER_H2O_IWRMD_IP/data.csv",
@@ -46930,7 +46930,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-1-ER_H2O_IWRMD_IP"
+      "title": "Degree of integrated water resources management implementation, institutions and participation (%)"
     },
     {
       "path": "10-a-1/data.csv",
@@ -47161,7 +47161,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NE_EXP_GNFS_KD_ZG"
+      "title": "Annual growth of exports of goods and services (%)"
     },
     {
       "path": "16-1-4/data.csv",
@@ -47314,7 +47314,7 @@
           }
         ]
       },
-      "title": "meta.name-15-b-1-DC_ODA_BDVL"
+      "title": "Total official development assistance for biodiversity, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "17-2-1-DC_ODA_TOTL/data.csv",
@@ -47388,7 +47388,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_TOTL"
+      "title": "Net official development assistance (ODA) from OECD-DAC countries, by donor countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC7/data.csv",
@@ -47483,7 +47483,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC7"
+      "title": "(S.2.C.7) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 7: Emergency Contraception (%)"
     },
     {
       "path": "12-5-1-EN_EWT_RCYPCAP/data.csv",
@@ -47559,7 +47559,7 @@
           }
         ]
       },
-      "title": "meta.name-12-5-1-EN_EWT_RCYPCAP"
+      "title": "Electronic waste recycled, per capita (Kg)"
     },
     {
       "path": "1-b-1/data.csv",
@@ -47693,7 +47693,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_GDPLS"
+      "title": "Direct economic loss attributed to disasters (current United States dollars)"
     },
     {
       "path": "1-5-2-VC_DSR_AGLH/data.csv",
@@ -47775,7 +47775,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_AGLH"
+      "title": "Direct agriculture loss attributed to disasters (current United States dollars)"
     },
     {
       "path": "11-5-1-VC_DSR_MTMP/data.csv",
@@ -47871,7 +47871,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_MTMP"
+      "title": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "12-3-1-AG_FOOD_WST_PC/data.csv",
@@ -47993,7 +47993,7 @@
           }
         ]
       },
-      "title": "meta.name-12-3-1-AG_FOOD_WST_PC"
+      "title": "Food waste per capita (KG)"
     },
     {
       "path": "4-1-2/data.csv",
@@ -48379,7 +48379,7 @@
           }
         ]
       },
-      "title": "meta.name-6-2-1-SH_SAN_SAFE"
+      "title": "Proportion of population using safely managed sanitation services, by urban/rural (%)"
     },
     {
       "path": "1-5-1-VC_DSR_MTMP/data.csv",
@@ -48475,7 +48475,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_MTMP"
+      "title": "Number of deaths and missing persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "11-6-2/data.csv",
@@ -48768,7 +48768,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_CENSUSN"
+      "title": "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO)"
     },
     {
       "path": "12-6-1-EN_SCP_FRMN/data.csv",
@@ -48895,7 +48895,7 @@
           }
         ]
       },
-      "title": "meta.name-12-6-1-EN_SCP_FRMN"
+      "title": "Number of companies publishing sustainability reports with disclosure by dimension, by level of requirement (Number)"
     },
     {
       "path": "2-4-1-a-AG_LND_RMM/data.csv",
@@ -48954,7 +48954,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_RMM"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of risk mitigation mechanisms (%)"
     },
     {
       "path": "15-6-1-ER_CBD_SMTA/data.csv",
@@ -49062,7 +49062,7 @@
           }
         ]
       },
-      "title": "meta.name-15-6-1-ER_CBD_SMTA"
+      "title": "Total reported number of Standard Material Transfer Agreements (SMTAs) transferring plant genetic resources for food and agriculture to the country (number)"
     },
     {
       "path": "13-1-1-VC_DSR_IJILN/data.csv",
@@ -49151,7 +49151,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_IJILN"
+      "title": "Number of injured or ill people attributed to disasters (number)"
     },
     {
       "path": "3-9-2/data.csv",
@@ -49383,7 +49383,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_BRTH90N"
+      "title": "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVFLR/data.csv",
@@ -49510,7 +49510,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVFLR"
+      "title": "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population)"
     },
     {
       "path": "10-c-1-SI_RMT_COST_SC/data.csv",
@@ -49666,7 +49666,7 @@
           }
         ]
       },
-      "title": "meta.name-10-c-1-SI_RMT_COST_SC"
+      "title": "SmaRT average remittance costs of sending $200 in a corridor as a proportion of the amount remitted (%)"
     },
     {
       "path": "17-13-1-PA_NUS_ATLS/data.csv",
@@ -49774,7 +49774,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-PA_NUS_ATLS"
+      "title": "DEC alternative conversion factor (in local currency unit per United States dollar)"
     },
     {
       "path": "5-6-1-SH_FPL_INFMRH/data.csv",
@@ -49853,7 +49853,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-1-SH_FPL_INFMRH"
+      "title": "Proportion of women who make their own informed decisions regarding reproductive health care (% of women aged 15-49 years)"
     },
     {
       "path": "4-1-1/data.csv",
@@ -50103,7 +50103,7 @@
           }
         ]
       },
-      "title": "meta.name-15-6-1-ER_CBD_ORSPGRFA"
+      "title": "Countries that have legislative, administrative and policy framework or measures reported through the Online Reporting System on Compliance  of the International Treaty on Plant Genetic Resources for Food and Agriculture (PGRFA) (1 = YES; 0 = NO)"
     },
     {
       "path": "6-b-1-ER_WAT_PRDU/data.csv",
@@ -50179,7 +50179,7 @@
           }
         ]
       },
-      "title": "meta.name-6-b-1-ER_WAT_PRDU"
+      "title": "Countries with procedures in law or policy for participation by service users/communities in planning program in water resources planning and management, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)"
     },
     {
       "path": "2-c-1-AG_FPA_COMM/data.csv",
@@ -50256,7 +50256,7 @@
           }
         ]
       },
-      "title": "meta.name-2-c-1-AG_FPA_COMM"
+      "title": "Indicator of Food Price Anomalies (IFPA), by type of product"
     },
     {
       "path": "16-1-3-VC_VOV_PHYL/data.csv",
@@ -50328,7 +50328,7 @@
           }
         ]
       },
-      "title": "meta.name-16-1-3-VC_VOV_PHYL"
+      "title": "Proportion of population subjected to physical violence in the previous 12 months, by sex (%)"
     },
     {
       "path": "3-4-1-a/data.csv",
@@ -50438,7 +50438,7 @@
           }
         ]
       },
-      "title": "Life expectancy at birth"
+      "title": "Life expectancy at birth (years)"
     },
     {
       "path": "17-13-1-FP_CPI_TOTL_ZG/data.csv",
@@ -50544,7 +50544,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-FP_CPI_TOTL_ZG"
+      "title": "Annual inflation, consumer prices (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PSRVC/data.csv",
@@ -50685,7 +50685,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PSRVC"
+      "title": "Proportions of positions in the public service compared to national distributions (ratio)"
     },
     {
       "path": "16-b-1/data.csv",
@@ -51061,7 +51061,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALIT_OP"
+      "title": "Beach litter originating from national land-based sources that ends in the ocean (%)"
     },
     {
       "path": "7-a-1/data.csv",
@@ -51249,7 +51249,7 @@
           }
         ]
       },
-      "title": "meta.name-3-1-2-SH_STA_BRTC"
+      "title": "Proportion of births attended by skilled health personnel (%)"
     },
     {
       "path": "4-5-1-SE_TOT_GPI/data.csv",
@@ -51374,7 +51374,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_TOT_GPI"
+      "title": "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
     },
     {
       "path": "1-3-1-SI_COV_CHLD/data.csv",
@@ -51480,7 +51480,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_CHLD"
+      "title": "[ILO] Proportion of children/households receiving child/family cash benefit, by sex (%)"
     },
     {
       "path": "17-13-1-TG_VAL_TOTL_GD_ZS/data.csv",
@@ -51587,7 +51587,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-TG_VAL_TOTL_GD_ZS"
+      "title": "Merchandise trade as a proportion of GDP (%)"
     },
     {
       "path": "4-a-1-SE_ACC_HNDWSH/data.csv",
@@ -51683,7 +51683,7 @@
           }
         ]
       },
-      "title": "meta.name-4-a-1-SE_ACC_HNDWSH"
+      "title": "Proportion of schools with basic handwashing facilities, by education level (%)"
     },
     {
       "path": "16-7-2-IU_DMK_ICRS/data.csv",
@@ -51816,7 +51816,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-2-IU_DMK_ICRS"
+      "title": "Proportion of population who believe decision-making is inclusive and responsive (%)"
     },
     {
       "path": "17-10-1-TM_TAX_WMPS/data.csv",
@@ -51912,7 +51912,7 @@
           }
         ]
       },
-      "title": "meta.name-17-10-1-TM_TAX_WMPS"
+      "title": "Worldwide weighted tariff-average, preferential status, by type of product (%)"
     },
     {
       "path": "3-7-2/data.csv",
@@ -52185,7 +52185,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLSP_LC"
+      "title": "Number of speakers in parliament, by age and sex , Lower Chamber or Unicameral"
     },
     {
       "path": "3-2-1-a/data.csv",
@@ -52316,7 +52316,7 @@
           }
         ]
       },
-      "title": "meta.name-3-2-1-a"
+      "title": "Infant deaths (number)"
     },
     {
       "path": "17-10-1-TM_TAX_WMFN/data.csv",
@@ -52412,7 +52412,7 @@
           }
         ]
       },
-      "title": "meta.name-17-10-1-TM_TAX_WMFN"
+      "title": "Worldwide weighted tariff-average, most-favoured-nation status, by type of product (%)"
     },
     {
       "path": "12-5-1-EN_MWT_RCYR/data.csv",
@@ -52496,7 +52496,7 @@
           }
         ]
       },
-      "title": "meta.name-12-5-1-EN_MWT_RCYR"
+      "title": "Proportion of municipal waste recycled (%)"
     },
     {
       "path": "11-5-2-VC_DSR_AGLH/data.csv",
@@ -52578,7 +52578,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-2-VC_DSR_AGLH"
+      "title": "Direct agriculture loss attributed to disasters (current United States dollars)"
     },
     {
       "path": "6-6-1-EN_LKRV_PWAC/data.csv",
@@ -52682,7 +52682,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKRV_PWAC"
+      "title": "Lakes and rivers permanent water area change (%)"
     },
     {
       "path": "17-2-1-DC_ODA_TOTG/data.csv",
@@ -52755,7 +52755,7 @@
           }
         ]
       },
-      "title": "meta.name-17-2-1-DC_ODA_TOTG"
+      "title": "Net official development assistance (ODA) as a percentage of OECD-DAC donors' GNI, by donor countries (%)"
     },
     {
       "path": "3-5-1-SH_SUD_TREAT/data.csv",
@@ -52836,7 +52836,7 @@
           }
         ]
       },
-      "title": "meta.name-3-5-1-SH_SUD_TREAT"
+      "title": "Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders (%)"
     },
     {
       "path": "1-5-1-VC_DSR_PDLN/data.csv",
@@ -52916,7 +52916,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_PDLN"
+      "title": "Number of people whose livelihoods were disrupted or destroyed, attributed to disasters (number)"
     },
     {
       "path": "15-2-1-AG_LND_FRSTCERT/data.csv",
@@ -53024,7 +53024,7 @@
           }
         ]
       },
-      "title": "meta.name-15-2-1-AG_LND_FRSTCERT"
+      "title": "Forest area certified under an independently verified certification scheme (thousands of hectares)"
     },
     {
       "path": "17-15-1-SG_PLN_REPOLRES/data.csv",
@@ -53082,7 +53082,7 @@
           }
         ]
       },
-      "title": "meta.name-17-15-1-SG_PLN_REPOLRES"
+      "title": "Extent of use of country-owned results frameworks and planning tools by providers of development cooperation - data by recipient (%)"
     },
     {
       "path": "3-b-2-DC_TOF_HLTHNT/data.csv",
@@ -53152,7 +53152,7 @@
           }
         ]
       },
-      "title": "meta.name-3-b-2-DC_TOF_HLTHNT"
+      "title": "Total official development assistance to medical research and basic health sectors, net disbursement, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "1-4-1-SP_ACS_BSRVSAN/data.csv",
@@ -53273,7 +53273,7 @@
           }
         ]
       },
-      "title": "meta.name-1-4-1-SP_ACS_BSRVSAN"
+      "title": "Proportion of population using basic sanitation services, by location (%)"
     },
     {
       "path": "8-5-2-SL_TLF_UEMDIS/data.csv",
@@ -53387,7 +53387,7 @@
           }
         ]
       },
-      "title": "meta.name-8-5-2-SL_TLF_UEMDIS"
+      "title": "Unemployment rate, by sex and disability - 13th ICLS (%)"
     },
     {
       "path": "2-4-1-a-AG_LND_FERTMG/data.csv",
@@ -53443,7 +53443,7 @@
           }
         ]
       },
-      "title": "meta.name-2-4-1-a-AG_LND_FERTMG"
+      "title": "Proportion of agricultural land area that has achieved an acceptable or desirable level of management of fertilizers (%)"
     },
     {
       "path": "5-5-1-SG_GEN_PARL/data.csv",
@@ -53562,7 +53562,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-1-SG_GEN_PARL"
+      "title": "Proportion of seats held by women in national parliaments (% of total number of seats)"
     },
     {
       "path": "6-6-1-EN_RSRV_MNWAP/data.csv",
@@ -53666,7 +53666,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_RSRV_MNWAP"
+      "title": "Reservoir minimum water area (% of total land area)"
     },
     {
       "path": "8-8-1-SL_EMP_FTLINJUR/data.csv",
@@ -53789,7 +53789,7 @@
           }
         ]
       },
-      "title": "meta.name-8-8-1-SL_EMP_FTLINJUR"
+      "title": "Fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)"
     },
     {
       "path": "5-5-2-IC_GEN_MGTN/data.csv",
@@ -53895,7 +53895,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-2-IC_GEN_MGTN"
+      "title": "Proportion of women in senior and middle management positions - 13th ICLS (%)"
     },
     {
       "path": "4-7-1/data.csv",
@@ -54210,7 +54210,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_JDC_LWR"
+      "title": "Proportions of positions in the judiciary compared to national distributions, Lower Courts (ratio)"
     },
     {
       "path": "17-3-1-DC_OSSD_PRVGRT/data.csv",
@@ -54278,7 +54278,7 @@
           }
         ]
       },
-      "title": "meta.name-17-3-1-DC_OSSD_PRVGRT"
+      "title": "Gross receipts by developing countries of private grants (millions of United States dollars)"
     },
     {
       "path": "2-3-2/data.csv",
@@ -54423,7 +54423,7 @@
           }
         ]
       },
-      "title": "meta.name-6-b-1-ER_WAT_PART"
+      "title": "Countries with users/communities participating in planning programs in water resources planning and management, by level of participation (3 = High; 2 = Moderate; 1 = Low; 0 = NA)"
     },
     {
       "path": "7-1-1/data.csv",
@@ -54659,7 +54659,7 @@
           }
         ]
       },
-      "title": "meta.name-8-6-1-SL_TLF_NEET_19ICLS"
+      "title": "Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLMP_UC/data.csv",
@@ -54731,7 +54731,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLMP_UC"
+      "title": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national populationÂ with the age of eligibility as a lower bound boundary), Upper Chamber"
     },
     {
       "path": "1-a-1-DC_ODA_POVDLG/data.csv",
@@ -54815,7 +54815,7 @@
           }
         ]
       },
-      "title": "meta.name-1-a-1-DC_ODA_POVDLG"
+      "title": "Official development assistance grants for poverty reduction, by donor countries (percentage of GNI)"
     },
     {
       "path": "17-17-1-GF_COM_PPPI_KD/data.csv",
@@ -54884,7 +54884,7 @@
           }
         ]
       },
-      "title": "meta.name-17-17-1-GF_COM_PPPI_KD"
+      "title": "Amount of United States dollars committed to public-private partnerships for infrastructure, million USD real"
     },
     {
       "path": "16-6-2-SP_PSR_SATIS_PRM/data.csv",
@@ -55024,7 +55024,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_SATIS_PRM"
+      "title": "Proportion of population satisfied with their last experience of public services, primary education services (%)"
     },
     {
       "path": "3-5-1-SH_SUD_ALCOL/data.csv",
@@ -55155,7 +55155,7 @@
           }
         ]
       },
-      "title": "meta.name-3-5-1-SH_SUD_ALCOL"
+      "title": "Alcohol use disorders, 12-month prevalence (%)"
     },
     {
       "path": "10-5-1-FI_FSI_FSSNO/data.csv",
@@ -55251,7 +55251,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSSNO"
+      "title": "Net open position in foreign exchange to capital (%)"
     },
     {
       "path": "8-4-2-EN_MAT_DOMCMPG/data.csv",
@@ -55387,7 +55387,7 @@
           }
         ]
       },
-      "title": "meta.name-8-4-2-EN_MAT_DOMCMPG"
+      "title": "Domestic material consumption per unit of GDP, by type of raw material (kilograms per constant 2015 United States dollars)"
     },
     {
       "path": "10-b-1-DC_TRF_TOTDL/data.csv",
@@ -55474,7 +55474,7 @@
           }
         ]
       },
-      "title": "meta.name-10-b-1-DC_TRF_TOTDL"
+      "title": "Total assistance for development, by donor countries (millions of current United States dollars)"
     },
     {
       "path": "1-3-1-SI_COV_LMKT/data.csv",
@@ -55556,7 +55556,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_LMKT"
+      "title": "[World Bank] Proportion of population covered by labour market programs (%)"
     },
     {
       "path": "13-2-2-EN_ATM_GHGT_AIP/data.csv",
@@ -55640,7 +55640,7 @@
           }
         ]
       },
-      "title": "meta.name-13-2-2-EN_ATM_GHGT_AIP"
+      "title": "Total greenhouse gas emissions without LULUCF for Annex I Parties (Mt COâ‚‚ equivalent)"
     },
     {
       "path": "16-2-2-VC_HTF_DETV/data.csv",
@@ -55775,7 +55775,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETV"
+      "title": "Detected victims of human trafficking, by age and sex (number)"
     },
     {
       "path": "11-4-1/data.csv",
@@ -55955,7 +55955,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-1-SH_FPL_INFM"
+      "title": "Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)"
     },
     {
       "path": "9-4-1-EN_ATM_CO2MVA/data.csv",
@@ -56073,7 +56073,7 @@
           }
         ]
       },
-      "title": "meta.name-9-4-1-EN_ATM_CO2MVA"
+      "title": "Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2015 United States dollars)"
     },
     {
       "path": "17-3-2/data.csv",
@@ -56285,7 +56285,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NE_CON_PRVT_KD_ZG"
+      "title": "Annual growth of households and NPISHs final consumption expenditure (%)"
     },
     {
       "path": "12-5-1-EN_EWT_RCYV/data.csv",
@@ -56361,7 +56361,7 @@
           }
         ]
       },
-      "title": "meta.name-12-5-1-EN_EWT_RCYV"
+      "title": "Electronic waste recycled (Tonnes)"
     },
     {
       "path": "1-3-1-SI_COV_VULN/data.csv",
@@ -56468,7 +56468,7 @@
           }
         ]
       },
-      "title": "meta.name-1-3-1-SI_COV_VULN"
+      "title": "[ILO] Proportion of vulnerable population receiving social assistance cash benefit, by sex (%)"
     },
     {
       "path": "4-5-1-SE_TOT_RUPI/data.csv",
@@ -56592,7 +56592,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_TOT_RUPI"
+      "title": "Adjusted rural to urban parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
     },
     {
       "path": "12-4-2-EN_MWT_GENV/data.csv",
@@ -56678,7 +56678,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_MWT_GENV"
+      "title": "Municipal waste generated (Tonnes)"
     },
     {
       "path": "17-13-1-FM_LBL_BMNY_IR_ZS/data.csv",
@@ -56765,7 +56765,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-FM_LBL_BMNY_IR_ZS"
+      "title": "Broad money to total reserves ratio"
     },
     {
       "path": "8-8-1-SL_EMP_INJUR/data.csv",
@@ -56887,7 +56887,7 @@
           }
         ]
       },
-      "title": "meta.name-8-8-1-SL_EMP_INJUR"
+      "title": "Non-fatal occupational injuries among employees, by sex and migrant status (per 100,000 employees)"
     },
     {
       "path": "15-2-1-AG_LND_FRSTMGT/data.csv",
@@ -56985,7 +56985,7 @@
           }
         ]
       },
-      "title": "meta.name-15-2-1-AG_LND_FRSTMGT"
+      "title": "Proportion of forest area with a long-term management plan (%)"
     },
     {
       "path": "13-1-3-SG_GOV_LOGV/data.csv",
@@ -57075,7 +57075,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-3-SG_GOV_LOGV"
+      "title": "Number of local governments (number)"
     },
     {
       "path": "5-5-2-IC_GEN_MGTL_19ICLS/data.csv",
@@ -57187,7 +57187,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-2-IC_GEN_MGTL_19ICLS"
+      "title": "Proportion of women in managerial positions - 19th ICLS (%)"
     },
     {
       "path": "5-4-1-SL_DOM_TSPDDC/data.csv",
@@ -57336,7 +57336,7 @@
           }
         ]
       },
-      "title": "meta.name-5-4-1-SL_DOM_TSPDDC"
+      "title": "Proportion of time spent on unpaid domestic chores, by sex, age and location (%)"
     },
     {
       "path": "11-5-3-VC_DSR_OBDN/data.csv",
@@ -57408,7 +57408,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_OBDN"
+      "title": "Number of disruptions to other basic services attributed to disasters (number)"
     },
     {
       "path": "6-6-1-EN_WBE_WTLP/data.csv",
@@ -57510,7 +57510,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_WTLP"
+      "title": "Wetlands area (% of total land area)"
     },
     {
       "path": "16-a-1-SG_NHR_IMPLN/data.csv",
@@ -57593,7 +57593,7 @@
           }
         ]
       },
-      "title": "meta.name-16-a-1-SG_NHR_IMPLN"
+      "title": "Countries with National Human Rights Institutions in compliance with the Paris Principles, A status (1 = YES; 0 = NO)"
     },
     {
       "path": "8-b-1/data.csv",
@@ -57861,7 +57861,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSLS"
+      "title": "Liquid assets to short term liabilities (%)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVOG/data.csv",
@@ -57941,7 +57941,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVOG"
+      "title": "Detected victims of human trafficking for removal of organ, by age and sex (number)"
     },
     {
       "path": "4-4-1/data.csv",
@@ -58224,7 +58224,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_LGP_ACHI"
+      "title": "Adjusted language test parity index for achieving a minimum proficiency level in reading and mathematics (ratio)"
     },
     {
       "path": "6-6-1-EN_LKW_QLTRST/data.csv",
@@ -58334,7 +58334,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_LKW_QLTRST"
+      "title": "Lake water quality trophic state (%)"
     },
     {
       "path": "15-9-1-ER_BDY_SEEA/data.csv",
@@ -58446,7 +58446,7 @@
           }
         ]
       },
-      "title": "meta.name-15-9-1-ER_BDY_SEEA"
+      "title": "Countries with integrated biodiversity values into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting  (1 = YES; 0 = NO)"
     },
     {
       "path": "3-4-2/data.csv",
@@ -58635,7 +58635,7 @@
           }
         ]
       },
-      "title": "meta.name-10-c-1-SI_RMT_COST_SND"
+      "title": "Average remittance costs of sending $200 for a sending country as a proportion of the amount remitted (%)"
     },
     {
       "path": "16-1-1-VC_IHR_PSRCN/data.csv",
@@ -58755,7 +58755,7 @@
           }
         ]
       },
-      "title": "meta.name-16-1-1-VC_IHR_PSRCN"
+      "title": "Number of victims of intentional homicide, by sex (number)"
     },
     {
       "path": "6-5-1-ER_H2O_IWRMD_MI/data.csv",
@@ -58874,7 +58874,7 @@
           }
         ]
       },
-      "title": "meta.name-6-5-1-ER_H2O_IWRMD_MI"
+      "title": "Degree of integrated water resources management implementation, management instruments (%)"
     },
     {
       "path": "5-5-2-IC_GEN_MGTN_19ICLS/data.csv",
@@ -58970,7 +58970,7 @@
           }
         ]
       },
-      "title": "meta.name-5-5-2-IC_GEN_MGTN_19ICLS"
+      "title": "Proportion of women in senior and middle management positions - 19th ICLS (%)"
     },
     {
       "path": "8-10-2-FB_BNK_ACCSS_ILF/data.csv",
@@ -59099,7 +59099,7 @@
           }
         ]
       },
-      "title": "meta.name-8-10-2-FB_BNK_ACCSS_ILF"
+      "title": "Proportion of adults (15 years and older) active in labor force with an account at a financial institution or mobile-money-service provider (% of adults aged 15 years and older)"
     },
     {
       "path": "13-1-3-SG_DSR_SILS/data.csv",
@@ -59188,7 +59188,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-3-SG_DSR_SILS"
+      "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies (%)"
     },
     {
       "path": "1-5-2-VC_DSR_CHLN/data.csv",
@@ -59266,7 +59266,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_CHLN"
+      "title": "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters (millions of current United States dollars)"
     },
     {
       "path": "8-2-1/data.csv",
@@ -59465,7 +59465,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_GENGDP"
+      "title": "Hazardous waste generated, per unit of GDP (kilograms per constant 2015 United States dollars)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC13/data.csv",
@@ -59562,7 +59562,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC13"
+      "title": "(S.4.C.13) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 13: HPV Vaccine (%)"
     },
     {
       "path": "3-2-2/data.csv",
@@ -59909,7 +59909,7 @@
           }
         ]
       },
-      "title": "meta.name-11-b-2-SG_GOV_LOGV"
+      "title": "Number of local governments (number)"
     },
     {
       "path": "3-9-1/data.csv",
@@ -60241,7 +60241,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSKNL"
+      "title": "Non-performing loans net of provisions to capital (%)"
     },
     {
       "path": "1-5-4-SG_DSR_SILN/data.csv",
@@ -60330,7 +60330,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-4-SG_DSR_SILN"
+      "title": "Number of local governments that adopt and implement local DRR strategies in line with national strategies (number)"
     },
     {
       "path": "2-4-1/data.csv",
@@ -60463,7 +60463,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_PDAN"
+      "title": "Number of people whose damaged dwellings were attributed to disasters (number)"
     },
     {
       "path": "14-1-1-EN_MAR_CHLDEV/data.csv",
@@ -60555,7 +60555,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_CHLDEV"
+      "title": "Chlorophyll-a deviations, remote sensing (%)"
     },
     {
       "path": "2-5-1-ER_GRF_PLNTSTOR/data.csv",
@@ -60655,7 +60655,7 @@
           }
         ]
       },
-      "title": "meta.name-2-5-1-ER_GRF_PLNTSTOR"
+      "title": "Plant genetic resources accessions stored ex situ (number)"
     },
     {
       "path": "3-3-1/data.csv",
@@ -60837,7 +60837,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_EWT_GENV"
+      "title": "Electronic waste generated (Tonnes)"
     },
     {
       "path": "6-6-1-EN_WBE_MANGN/data.csv",
@@ -60891,7 +60891,7 @@
           }
         ]
       },
-      "title": "meta.name-6-6-1-EN_WBE_MANGN"
+      "title": "Mangrove area (square kilometres)"
     },
     {
       "path": "2-2-3/data.csv",
@@ -61128,7 +61128,7 @@
           }
         ]
       },
-      "title": "meta.name-15-6-1-ER_CBD_ABSCLRHS"
+      "title": "Countries that have legislative, administrative and policy framework or measures reported to the Access and Benefit-Sharing Clearing-House (1 = YES; 0 = NO)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC5/data.csv",
@@ -61225,7 +61225,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC5"
+      "title": "(S.2.C.5) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 5: Contraceptive Services (%)"
     },
     {
       "path": "15-4-2-ER_MTN_DGRDA/data.csv",
@@ -61332,7 +61332,7 @@
           }
         ]
       },
-      "title": "meta.name-15-4-2-ER_MTN_DGRDA"
+      "title": "Area of degraded mountain land (square kilometres)"
     },
     {
       "path": "1-5-1-VC_DSR_MMHN/data.csv",
@@ -61438,7 +61438,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-1-VC_DSR_MMHN"
+      "title": "Number of deaths and missing persons attributed to disasters (number)"
     },
     {
       "path": "16-2-2-VC_HTF_DETVFL/data.csv",
@@ -61568,7 +61568,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVFL"
+      "title": "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (number)"
     },
     {
       "path": "4-5-1-SE_TOT_GPI_FS/data.csv",
@@ -61668,7 +61668,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_TOT_GPI_FS"
+      "title": "Adjusted gender parity index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
     },
     {
       "path": "14-1-1-EN_MAR_BEALIT_BV/data.csv",
@@ -61905,7 +61905,7 @@
           }
         ]
       },
-      "title": "meta.name-14-1-1-EN_MAR_BEALIT_BV"
+      "title": "Beach litter originating from national land-based sources that ends in the beach (Tonnes)"
     },
     {
       "path": "8-8-2/data.csv",
@@ -62129,7 +62129,7 @@
           }
         ]
       },
-      "title": "meta.name-17-18-1-IQ_SPI_PIL4"
+      "title": "Data Sources performance index (Statistical Performance Indicators Pillar 4) (Index)"
     },
     {
       "path": "12-3-1-AG_FOOD_WST/data.csv",
@@ -62251,7 +62251,7 @@
           }
         ]
       },
-      "title": "meta.name-12-3-1-AG_FOOD_WST"
+      "title": "Food waste (Tonnes)"
     },
     {
       "path": "12-4-2-EN_EWT_COLLV/data.csv",
@@ -62330,7 +62330,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_EWT_COLLV"
+      "title": "Electronic waste collected (Tonnes)"
     },
     {
       "path": "11-5-3-VC_DSR_BSDN/data.csv",
@@ -62412,7 +62412,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-3-VC_DSR_BSDN"
+      "title": "Number of disruptions to basic services attributed to disasters (number)"
     },
     {
       "path": "8-a-1-DC_TOF_TRDCML/data.csv",
@@ -62482,7 +62482,7 @@
           }
         ]
       },
-      "title": "meta.name-8-a-1-DC_TOF_TRDCML"
+      "title": "Total official flows (commitments) for Aid for Trade, by recipient countries (millions of constant 2021 United States dollars)"
     },
     {
       "path": "9-1-2-IS_RDP_PORFVOL/data.csv",
@@ -62584,7 +62584,7 @@
           }
         ]
       },
-      "title": "meta.name-9-1-2-IS_RDP_PORFVOL"
+      "title": "Container port traffic, maritime transport (twenty-foot equivalent units - TEUs)"
     },
     {
       "path": "12-4-2-EN_EWT_GENPCAP/data.csv",
@@ -62652,7 +62652,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_EWT_GENPCAP"
+      "title": "Electronic waste generated, per capita (Kg)"
     },
     {
       "path": "3-7-1/data.csv",
@@ -62831,7 +62831,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_CILN"
+      "title": "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters (current United States dollars)"
     },
     {
       "path": "12-7-1-SG_SCP_PROCN/data.csv",
@@ -62925,7 +62925,7 @@
           }
         ]
       },
-      "title": "meta.name-12-7-1-SG_SCP_PROCN"
+      "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
       "path": "16-2-2-VC_HTF_DETVOP/data.csv",
@@ -63047,7 +63047,7 @@
           }
         ]
       },
-      "title": "meta.name-16-2-2-VC_HTF_DETVOP"
+      "title": "Detected victims of human trafficking for other purposes, by age and sex (number)"
     },
     {
       "path": "16-6-2-SP_PSR_OSATIS_HLTH/data.csv",
@@ -63169,7 +63169,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_OSATIS_HLTH"
+      "title": "Proportion of population who say that overall they are satisfied with the quality of healthcare services (%)"
     },
     {
       "path": "12-4-1-SG_HAZ_CMRBASEL/data.csv",
@@ -63277,7 +63277,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-1-SG_HAZ_CMRBASEL"
+      "title": "Parties meeting their commitments and obligations in transmitting information as required by Basel Convention on hazardous waste, and other chemicals (%)"
     },
     {
       "path": "2-5-1-ER_GRF_ANIMKPT_TRB/data.csv",
@@ -63383,7 +63383,7 @@
           }
         ]
       },
-      "title": "meta.name-2-5-1-ER_GRF_ANIMKPT_TRB"
+      "title": "Number of transboundary breeds (including extinct ones)"
     },
     {
       "path": "2-2-2/data.csv",
@@ -63606,7 +63606,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHES4"
+      "title": "(S.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Section 4: HIV and HPV (%)"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC6/data.csv",
@@ -63703,7 +63703,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC6"
+      "title": "(S.2.C.6) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 6: Contraceptive Consent (%)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLMP_LC/data.csv",
@@ -63811,7 +63811,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLMP_LC"
+      "title": "Ratio for female members of parliaments (Ratio of the proportion of women in parliament in the proportion of women in the national populationÂ with the age of eligibility as a lower bound boundary), Lower Chamber or Unicameral"
     },
     {
       "path": "3-2-1-b/data.csv",
@@ -63942,7 +63942,7 @@
           }
         ]
       },
-      "title": "meta.name-3-2-1-b"
+      "title": "Infant mortality rate (deaths per 1,000 live births)"
     },
     {
       "path": "11-5-1-VC_DSR_DAFF/data.csv",
@@ -64034,7 +64034,7 @@
           }
         ]
       },
-      "title": "meta.name-11-5-1-VC_DSR_DAFF"
+      "title": "Number of directly affected persons attributed to disasters per 100,000 population (number)"
     },
     {
       "path": "4-5-1-SE_TOT_SESPI_FS/data.csv",
@@ -64134,7 +64134,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_TOT_SESPI_FS"
+      "title": "Adjusted low to high socio-economic parity status index for achieving at least a fixed level of proficiency in functional skills, by numeracy/literacy skills (ratio)"
     },
     {
       "path": "1-2-2-SD_MDP_MUHHC/data.csv",
@@ -64196,7 +64196,7 @@
           }
         ]
       },
-      "title": "meta.name-1-2-2-SD_MDP_MUHHC"
+      "title": "Proportion of households living in multidimensional poverty (%)"
     },
     {
       "path": "13-1-1-VC_DSR_MISS/data.csv",
@@ -64287,7 +64287,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_MISS"
+      "title": "Number of missing persons due to disaster (number)"
     },
     {
       "path": "12-4-2-EN_HAZ_TRTDISV/data.csv",
@@ -64378,7 +64378,7 @@
           }
         ]
       },
-      "title": "meta.name-12-4-2-EN_HAZ_TRTDISV"
+      "title": "Hazardous waste treated or disposed (Tonnes)"
     },
     {
       "path": "10-4-2/data.csv",
@@ -64676,7 +64676,7 @@
           }
         ]
       },
-      "title": "meta.name-6-b-1-ER_H2O_PRDU"
+      "title": "Countries with procedures in law or policy for participation by service users/communities in planning program in rural drinking-water supply, by level of definition in procedures (10 = Clearly defined; 5 = Not clearly defined ; 0 = NA)"
     },
     {
       "path": "10-6-1-SG_INT_MBRDEV/data.csv",
@@ -64805,7 +64805,7 @@
           }
         ]
       },
-      "title": "meta.name-10-6-1-SG_INT_MBRDEV"
+      "title": "Proportion of members of developing countries in international organizations, by organization (%)"
     },
     {
       "path": "10-5-1-FI_FSI_FSKA/data.csv",
@@ -64906,7 +64906,7 @@
           }
         ]
       },
-      "title": "meta.name-10-5-1-FI_FSI_FSKA"
+      "title": "Regulatory capital to assets (%)"
     },
     {
       "path": "16-6-2-SP_PSR_SATIS_GOV/data.csv",
@@ -65048,7 +65048,7 @@
           }
         ]
       },
-      "title": "meta.name-16-6-2-SP_PSR_SATIS_GOV"
+      "title": "Proportion of population satisfied with their last experience of public services, government services (%)"
     },
     {
       "path": "9-2-1-NV_IND_MANF/data.csv",
@@ -65167,7 +65167,7 @@
           }
         ]
       },
-      "title": "meta.name-9-2-1-NV_IND_MANF"
+      "title": "Manufacturing value added (constant 2015 United States dollars) as a proportion of GDP (%)"
     },
     {
       "path": "5-c-1/data.csv",
@@ -65349,7 +65349,7 @@
           }
         ]
       },
-      "title": "meta.name-17-13-1-NE_CON_GOVT_KD_ZG"
+      "title": "Annual growth of the general government final consumption expenditure (%)"
     },
     {
       "path": "1-5-2-VC_DSR_LSGP/data.csv",
@@ -65437,7 +65437,7 @@
           }
         ]
       },
-      "title": "meta.name-1-5-2-VC_DSR_LSGP"
+      "title": "Direct economic loss attributed to disasters relative to GDP (%)"
     },
     {
       "path": "17-11-1-TX_EXP_GBSVR/data.csv",
@@ -65543,7 +65543,7 @@
           }
         ]
       },
-      "title": "meta.name-17-11-1-TX_EXP_GBSVR"
+      "title": "Developing countriesâ€™ and least developed countriesâ€™ share of global services exports (%)"
     },
     {
       "path": "13-1-1-VC_DSR_PDYN/data.csv",
@@ -65627,7 +65627,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_PDYN"
+      "title": "Number of people whose destroyed dwellings were attributed to disasters (number)"
     },
     {
       "path": "16-7-1-SG_DMK_JDC_HGR/data.csv",
@@ -65752,7 +65752,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_JDC_HGR"
+      "title": "Proportions of positions in the judiciary compared to national distributions, Higher Courts (ratio)"
     },
     {
       "path": "4-5-1-SE_AGP_CPRA/data.csv",
@@ -65899,7 +65899,7 @@
           }
         ]
       },
-      "title": "meta.name-4-5-1-SE_AGP_CPRA"
+      "title": "Adjusted gender parity index for completion rate, by location, wealth quintile and education level"
     },
     {
       "path": "16-7-1-SG_DMK_PARLYR_UC/data.csv",
@@ -65981,7 +65981,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLYR_UC"
+      "title": "Ratio of young members in parliament (Ratio of the proportion of young members in parliament (age 45 or below) in the proportion of the national population (age 45 or below)Â with the age of eligibility as a lower bound boundary), Upper Chamber"
     },
     {
       "path": "5-6-2-SH_LGR_ACSRHEC4/data.csv",
@@ -66078,7 +66078,7 @@
           }
         ]
       },
-      "title": "meta.name-5-6-2-SH_LGR_ACSRHEC4"
+      "title": "(S.1.C.4) Extent to which countries have laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education: Component 4: Post-Abortion Care (%)"
     },
     {
       "path": "14-c-1/data.csv",
@@ -66328,7 +66328,7 @@
           }
         ]
       },
-      "title": "meta.name-13-1-1-VC_DSR_MORT"
+      "title": "Number of deaths due to disaster (number)"
     },
     {
       "path": "16-7-1-SG_DMK_PARLCC_LC/data.csv",
@@ -66481,7 +66481,7 @@
           }
         ]
       },
-      "title": "meta.name-16-7-1-SG_DMK_PARLCC_LC"
+      "title": "Number of chairs of permanent committees, by age sex and focus of the committee, Lower Chamber or Unicameral"
     },
     {
       "path": "3-b-1/data.csv",
@@ -66722,7 +66722,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_BRTH90"
+      "title": "Proportion of countries with birth registration data that are at least 90 percent complete (%)"
     },
     {
       "path": "17-19-2-SG_REG_DETH75/data.csv",
@@ -66746,7 +66746,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_DETH75"
+      "title": "Proportion of countries with death registration data that are at least 75 percent complete (%)"
     },
     {
       "path": "17-19-2-SG_REG_CENSUS/data.csv",
@@ -66770,7 +66770,7 @@
           }
         ]
       },
-      "title": "meta.name-17-19-2-SG_REG_CENSUS"
+      "title": "Proportion of countries that have conducted at least one population and housing census in the last 10 years (%)"
     },
     {
       "path": "1-2-2/data.csv",

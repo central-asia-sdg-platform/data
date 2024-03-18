@@ -1,4 +1,6 @@
 Value,Disaggregation combinations using this value,Number of indicators
-ALLAREA,267,1
-RURAL,40,1
-URBAN,41,1
+ALLAREA,12667,39
+CITY,62,1
+RURAL,4845,38
+TSUB,63,1
+URBAN,4969,37
