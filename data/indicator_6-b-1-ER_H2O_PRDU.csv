@@ -1,0 +1,95 @@
+Year,SeriesCode,GeoAreaName,Location,Value
+2017,"ER_H2O_PRDU","Albania","RURAL",10.0
+2019,"ER_H2O_PRDU","Albania","RURAL",10.0
+2022,"ER_H2O_PRDU","Albania","RURAL",10.0
+2012,"ER_H2O_PRDU","Azerbaijan","RURAL",10.0
+2014,"ER_H2O_PRDU","Azerbaijan","RURAL",10.0
+2017,"ER_H2O_PRDU","Azerbaijan","RURAL",10.0
+2019,"ER_H2O_PRDU","Azerbaijan","RURAL",10.0
+2022,"ER_H2O_PRDU","Azerbaijan","RURAL",10.0
+2019,"ER_H2O_PRDU","Austria","RURAL",10.0
+2017,"ER_H2O_PRDU","Bosnia and Herzegovina","RURAL",10.0
+2019,"ER_H2O_PRDU","Bosnia and Herzegovina","RURAL",10.0
+2022,"ER_H2O_PRDU","Bosnia and Herzegovina","RURAL",10.0
+2014,"ER_H2O_PRDU","Belarus","RURAL",5.0
+2017,"ER_H2O_PRDU","Belarus","RURAL",10.0
+2019,"ER_H2O_PRDU","Belarus","RURAL",10.0
+2022,"ER_H2O_PRDU","Belarus","RURAL",10.0
+2014,"ER_H2O_PRDU","Chile","RURAL",10.0
+2017,"ER_H2O_PRDU","Chile","RURAL",10.0
+2019,"ER_H2O_PRDU","Chile","RURAL",10.0
+2022,"ER_H2O_PRDU","Chile","RURAL",10.0
+2017,"ER_H2O_PRDU","China","RURAL",10.0
+2019,"ER_H2O_PRDU","China","RURAL",10.0
+2022,"ER_H2O_PRDU","China","RURAL",10.0
+2012,"ER_H2O_PRDU","Colombia","RURAL",5.0
+2014,"ER_H2O_PRDU","Colombia","RURAL",10.0
+2017,"ER_H2O_PRDU","Colombia","RURAL",10.0
+2019,"ER_H2O_PRDU","Colombia","RURAL",10.0
+2022,"ER_H2O_PRDU","Colombia","RURAL",10.0
+2014,"ER_H2O_PRDU","Costa Rica","RURAL",10.0
+2017,"ER_H2O_PRDU","Costa Rica","RURAL",10.0
+2019,"ER_H2O_PRDU","Costa Rica","RURAL",10.0
+2022,"ER_H2O_PRDU","Costa Rica","RURAL",10.0
+2022,"ER_H2O_PRDU","Croatia","RURAL",10.0
+2014,"ER_H2O_PRDU","Estonia","RURAL",10.0
+2022,"ER_H2O_PRDU","Estonia","RURAL",10.0
+2014,"ER_H2O_PRDU","Georgia","RURAL",5.0
+2017,"ER_H2O_PRDU","Georgia","RURAL",10.0
+2019,"ER_H2O_PRDU","Georgia","RURAL",10.0
+2022,"ER_H2O_PRDU","Georgia","RURAL",10.0
+2022,"ER_H2O_PRDU","Greece","RURAL",10.0
+2019,"ER_H2O_PRDU","Hungary","RURAL",10.0
+2022,"ER_H2O_PRDU","Hungary","RURAL",10.0
+2012,"ER_H2O_PRDU","India","RURAL",10.0
+2014,"ER_H2O_PRDU","India","RURAL",0.0
+2017,"ER_H2O_PRDU","India","RURAL",10.0
+2022,"ER_H2O_PRDU","Italy","RURAL",10.0
+2010,"ER_H2O_PRDU","Kazakhstan","RURAL",0.0
+2014,"ER_H2O_PRDU","Kazakhstan","RURAL",10.0
+2022,"ER_H2O_PRDU","Kazakhstan","RURAL",10.0
+2012,"ER_H2O_PRDU","Kyrgyzstan","RURAL",10.0
+2014,"ER_H2O_PRDU","Kyrgyzstan","RURAL",10.0
+2017,"ER_H2O_PRDU","Kyrgyzstan","RURAL",5.0
+2019,"ER_H2O_PRDU","Kyrgyzstan","RURAL",5.0
+2022,"ER_H2O_PRDU","Kyrgyzstan","RURAL",10.0
+2014,"ER_H2O_PRDU","Lithuania","RURAL",10.0
+2017,"ER_H2O_PRDU","Lithuania","RURAL",10.0
+2019,"ER_H2O_PRDU","Lithuania","RURAL",10.0
+2014,"ER_H2O_PRDU","Mexico","RURAL",10.0
+2017,"ER_H2O_PRDU","Mexico","RURAL",10.0
+2019,"ER_H2O_PRDU","Mexico","RURAL",10.0
+2022,"ER_H2O_PRDU","Mexico","RURAL",10.0
+2014,"ER_H2O_PRDU","Republic of Moldova","RURAL",5.0
+2019,"ER_H2O_PRDU","Montenegro","RURAL",5.0
+2022,"ER_H2O_PRDU","Montenegro","RURAL",10.0
+2019,"ER_H2O_PRDU","Netherlands (Kingdom of the)","RURAL",10.0
+2019,"ER_H2O_PRDU","New Zealand","RURAL",10.0
+2022,"ER_H2O_PRDU","Norway","RURAL",10.0
+2022,"ER_H2O_PRDU","Romania","RURAL",10.0
+2014,"ER_H2O_PRDU","Serbia","RURAL",10.0
+2017,"ER_H2O_PRDU","Serbia","RURAL",10.0
+2019,"ER_H2O_PRDU","Serbia","RURAL",10.0
+2022,"ER_H2O_PRDU","Serbia","RURAL",10.0
+2010,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2012,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2014,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2017,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2019,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2022,"ER_H2O_PRDU","Viet Nam","RURAL",10.0
+2012,"ER_H2O_PRDU","Tajikistan","RURAL",10.0
+2014,"ER_H2O_PRDU","Tajikistan","RURAL",10.0
+2017,"ER_H2O_PRDU","Tajikistan","RURAL",10.0
+2019,"ER_H2O_PRDU","Tajikistan","RURAL",10.0
+2022,"ER_H2O_PRDU","Tajikistan","RURAL",10.0
+2022,"ER_H2O_PRDU","Turkmenistan","RURAL",10.0
+2014,"ER_H2O_PRDU","Ukraine","RURAL",10.0
+2017,"ER_H2O_PRDU","Ukraine","RURAL",10.0
+2019,"ER_H2O_PRDU","Ukraine","RURAL",10.0
+2022,"ER_H2O_PRDU","Ukraine","RURAL",10.0
+2014,"ER_H2O_PRDU","North Macedonia","RURAL",10.0
+2012,"ER_H2O_PRDU","Uzbekistan","RURAL",10.0
+2017,"ER_H2O_PRDU","Uzbekistan","RURAL",0.0
+2019,"ER_H2O_PRDU","Uzbekistan","RURAL",5.0
+2022,"ER_H2O_PRDU","Uzbekistan","RURAL",10.0
+2022,"ER_H2O_PRDU","Uzbekistan","RURAL",10.0

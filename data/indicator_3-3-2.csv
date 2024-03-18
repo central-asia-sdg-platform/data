@@ -1,0 +1,1356 @@
+Year,SeriesCode,GeoAreaName,Age,Freq,Location,Sex,Value
+2000,"SH_TBS_INCD","Belarus","","","","",86
+2001,"SH_TBS_INCD","Belarus","","","","",70
+2002,"SH_TBS_INCD","Belarus","","","","",66
+2003,"SH_TBS_INCD","Belarus","","","","",77
+2004,"SH_TBS_INCD","Belarus","","","","",71
+2005,"SH_TBS_INCD","Belarus","","","","",69
+2006,"SH_TBS_INCD","Belarus","","","","",68
+2007,"SH_TBS_INCD","Belarus","","","","",71
+2008,"SH_TBS_INCD","Belarus","","","","",68
+2009,"SH_TBS_INCD","Belarus","","","","",70
+2010,"SH_TBS_INCD","Belarus","","","","",68
+2011,"SH_TBS_INCD","Belarus","","","","",62
+2012,"SH_TBS_INCD","Belarus","","","","",63
+2013,"SH_TBS_INCD","Belarus","","","","",59
+2014,"SH_TBS_INCD","Belarus","","","","",51
+2015,"SH_TBS_INCD","Belarus","","","","",50
+2016,"SH_TBS_INCD","Belarus","","","","",42
+2017,"SH_TBS_INCD","Belarus","","","","",37
+2018,"SH_TBS_INCD","Belarus","","","","",31
+2019,"SH_TBS_INCD","Belarus","","","","",29
+2020,"SH_TBS_INCD","Belarus","","","","",28
+2021,"SH_TBS_INCD","Belarus","","","","",30
+2000,"SH_TBS_INCD","Canada","","","","",6.5
+2001,"SH_TBS_INCD","Canada","","","","",6.6
+2002,"SH_TBS_INCD","Canada","","","","",6.1
+2003,"SH_TBS_INCD","Canada","","","","",5.9
+2004,"SH_TBS_INCD","Canada","","","","",5.6
+2005,"SH_TBS_INCD","Canada","","","","",5.5
+2006,"SH_TBS_INCD","Canada","","","","",5.4
+2007,"SH_TBS_INCD","Canada","","","","",5.3
+2008,"SH_TBS_INCD","Canada","","","","",5.4
+2009,"SH_TBS_INCD","Canada","","","","",5.4
+2010,"SH_TBS_INCD","Canada","","","","",4.6
+2011,"SH_TBS_INCD","Canada","","","","",4.8
+2012,"SH_TBS_INCD","Canada","","","","",5.5
+2013,"SH_TBS_INCD","Canada","","","","",5.4
+2014,"SH_TBS_INCD","Canada","","","","",5.1
+2015,"SH_TBS_INCD","Canada","","","","",5.3
+2016,"SH_TBS_INCD","Canada","","","","",5.5
+2017,"SH_TBS_INCD","Canada","","","","",5.7
+2018,"SH_TBS_INCD","Canada","","","","",5.6
+2019,"SH_TBS_INCD","Canada","","","","",5.9
+2020,"SH_TBS_INCD","Canada","","","","",5.4
+2021,"SH_TBS_INCD","Canada","","","","",5.3
+2000,"SH_TBS_INCD","Chile","","","","",23
+2001,"SH_TBS_INCD","Chile","","","","",22
+2002,"SH_TBS_INCD","Chile","","","","",18
+2003,"SH_TBS_INCD","Chile","","","","",16
+2004,"SH_TBS_INCD","Chile","","","","",19
+2005,"SH_TBS_INCD","Chile","","","","",18
+2006,"SH_TBS_INCD","Chile","","","","",18
+2007,"SH_TBS_INCD","Chile","","","","",17
+2008,"SH_TBS_INCD","Chile","","","","",17
+2000,"SH_TBS_INCD","Albania","","","","",22
+2001,"SH_TBS_INCD","Albania","","","","",20
+2002,"SH_TBS_INCD","Albania","","","","",22
+2003,"SH_TBS_INCD","Albania","","","","",20
+2004,"SH_TBS_INCD","Albania","","","","",20
+2005,"SH_TBS_INCD","Albania","","","","",19
+2006,"SH_TBS_INCD","Albania","","","","",18
+2007,"SH_TBS_INCD","Albania","","","","",17
+2008,"SH_TBS_INCD","Albania","","","","",16
+2000,"SH_TBS_INCD","Republic of Moldova","","","","",80
+2001,"SH_TBS_INCD","Republic of Moldova","","","","",99
+2002,"SH_TBS_INCD","Republic of Moldova","","","","",104
+2003,"SH_TBS_INCD","Republic of Moldova","","","","",119
+2004,"SH_TBS_INCD","Republic of Moldova","","","","",133
+2005,"SH_TBS_INCD","Republic of Moldova","","","","",142
+2006,"SH_TBS_INCD","Republic of Moldova","","","","",138
+2007,"SH_TBS_INCD","Republic of Moldova","","","","",135
+2008,"SH_TBS_INCD","Republic of Moldova","","","","",125
+2009,"SH_TBS_INCD","Chile","","","","",16
+2010,"SH_TBS_INCD","Chile","","","","",16
+2011,"SH_TBS_INCD","Chile","","","","",16
+2012,"SH_TBS_INCD","Chile","","","","",16
+2013,"SH_TBS_INCD","Chile","","","","",16
+2014,"SH_TBS_INCD","Chile","","","","",15
+2015,"SH_TBS_INCD","Chile","","","","",17
+2016,"SH_TBS_INCD","Chile","","","","",16
+2017,"SH_TBS_INCD","Chile","","","","",17
+2009,"SH_TBS_INCD","Albania","","","","",17
+2010,"SH_TBS_INCD","Albania","","","","",17
+2011,"SH_TBS_INCD","Albania","","","","",17
+2012,"SH_TBS_INCD","Albania","","","","",16
+2013,"SH_TBS_INCD","Albania","","","","",19
+2014,"SH_TBS_INCD","Albania","","","","",16
+2015,"SH_TBS_INCD","Albania","","","","",17
+2016,"SH_TBS_INCD","Albania","","","","",17
+2017,"SH_TBS_INCD","Albania","","","","",20
+2009,"SH_TBS_INCD","Republic of Moldova","","","","",125
+2010,"SH_TBS_INCD","Republic of Moldova","","","","",116
+2011,"SH_TBS_INCD","Republic of Moldova","","","","",119
+2012,"SH_TBS_INCD","Republic of Moldova","","","","",124
+2013,"SH_TBS_INCD","Republic of Moldova","","","","",127
+2014,"SH_TBS_INCD","Republic of Moldova","","","","",115
+2015,"SH_TBS_INCD","Republic of Moldova","","","","",102
+2016,"SH_TBS_INCD","Republic of Moldova","","","","",101
+2017,"SH_TBS_INCD","Republic of Moldova","","","","",95
+2018,"SH_TBS_INCD","Chile","","","","",18
+2019,"SH_TBS_INCD","Chile","","","","",18
+2020,"SH_TBS_INCD","Chile","","","","",14
+2021,"SH_TBS_INCD","Chile","","","","",16
+2000,"SH_TBS_INCD","China","","","","",107
+2001,"SH_TBS_INCD","China","","","","",104
+2002,"SH_TBS_INCD","China","","","","",100
+2003,"SH_TBS_INCD","China","","","","",97
+2004,"SH_TBS_INCD","China","","","","",94
+2018,"SH_TBS_INCD","Albania","","","","",18
+2019,"SH_TBS_INCD","Albania","","","","",16
+2020,"SH_TBS_INCD","Albania","","","","",16
+2021,"SH_TBS_INCD","Albania","","","","",17
+2000,"SH_TBS_INCD","Azerbaijan","","","","",80
+2001,"SH_TBS_INCD","Azerbaijan","","","","",75
+2002,"SH_TBS_INCD","Azerbaijan","","","","",78
+2003,"SH_TBS_INCD","Azerbaijan","","","","",57
+2004,"SH_TBS_INCD","Azerbaijan","","","","",80
+2005,"SH_TBS_INCD","Azerbaijan","","","","",88
+2006,"SH_TBS_INCD","Azerbaijan","","","","",83
+2007,"SH_TBS_INCD","Azerbaijan","","","","",79
+2008,"SH_TBS_INCD","Azerbaijan","","","","",108
+2009,"SH_TBS_INCD","Azerbaijan","","","","",133
+2010,"SH_TBS_INCD","Azerbaijan","","","","",104
+2011,"SH_TBS_INCD","Azerbaijan","","","","",125
+2012,"SH_TBS_INCD","Azerbaijan","","","","",86
+2005,"SH_TBS_INCD","China","","","","",91
+2006,"SH_TBS_INCD","China","","","","",88
+2007,"SH_TBS_INCD","China","","","","",85
+2008,"SH_TBS_INCD","China","","","","",82
+2009,"SH_TBS_INCD","China","","","","",81
+2010,"SH_TBS_INCD","China","","","","",76
+2011,"SH_TBS_INCD","China","","","","",75
+2012,"SH_TBS_INCD","China","","","","",73
+2013,"SH_TBS_INCD","China","","","","",70
+2014,"SH_TBS_INCD","China","","","","",67
+2015,"SH_TBS_INCD","China","","","","",65
+2016,"SH_TBS_INCD","China","","","","",63
+2017,"SH_TBS_INCD","China","","","","",62
+2018,"SH_TBS_INCD","China","","","","",61
+2019,"SH_TBS_INCD","China","","","","",58
+2020,"SH_TBS_INCD","China","","","","",57
+2021,"SH_TBS_INCD","China","","","","",55
+2000,"SH_TBS_INCD","Colombia","","","","",37
+2001,"SH_TBS_INCD","Colombia","","","","",36
+2002,"SH_TBS_INCD","Colombia","","","","",35
+2003,"SH_TBS_INCD","Colombia","","","","",35
+2004,"SH_TBS_INCD","Colombia","","","","",33
+2005,"SH_TBS_INCD","Colombia","","","","",30
+2006,"SH_TBS_INCD","Colombia","","","","",32
+2007,"SH_TBS_INCD","Colombia","","","","",31
+2008,"SH_TBS_INCD","Colombia","","","","",32
+2009,"SH_TBS_INCD","Colombia","","","","",32
+2013,"SH_TBS_INCD","Azerbaijan","","","","",78
+2014,"SH_TBS_INCD","Azerbaijan","","","","",76
+2015,"SH_TBS_INCD","Azerbaijan","","","","",71
+2016,"SH_TBS_INCD","Azerbaijan","","","","",66
+2017,"SH_TBS_INCD","Azerbaijan","","","","",66
+2018,"SH_TBS_INCD","Azerbaijan","","","","",63
+2019,"SH_TBS_INCD","Azerbaijan","","","","",60
+2020,"SH_TBS_INCD","Azerbaijan","","","","",58
+2021,"SH_TBS_INCD","Azerbaijan","","","","",63
+2010,"SH_TBS_INCD","Colombia","","","","",32
+2011,"SH_TBS_INCD","Colombia","","","","",33
+2012,"SH_TBS_INCD","Colombia","","","","",33
+2013,"SH_TBS_INCD","Colombia","","","","",32
+2014,"SH_TBS_INCD","Colombia","","","","",31
+2015,"SH_TBS_INCD","Colombia","","","","",31
+2016,"SH_TBS_INCD","Colombia","","","","",33
+2017,"SH_TBS_INCD","Colombia","","","","",33
+2018,"SH_TBS_INCD","Colombia","","","","",33
+2000,"SH_TBS_INCD","Australia","","","","",6.3
+2001,"SH_TBS_INCD","Australia","","","","",5.9
+2002,"SH_TBS_INCD","Australia","","","","",6
+2003,"SH_TBS_INCD","Australia","","","","",5.5
+2004,"SH_TBS_INCD","Australia","","","","",6.2
+2005,"SH_TBS_INCD","Australia","","","","",6
+2006,"SH_TBS_INCD","Australia","","","","",6.5
+2007,"SH_TBS_INCD","Australia","","","","",6.2
+2008,"SH_TBS_INCD","Australia","","","","",6.6
+2019,"SH_TBS_INCD","Colombia","","","","",35
+2020,"SH_TBS_INCD","Colombia","","","","",34
+2021,"SH_TBS_INCD","Colombia","","","","",41
+2000,"SH_TBS_INCD","Costa Rica","","","","",18
+2001,"SH_TBS_INCD","Costa Rica","","","","",20
+2002,"SH_TBS_INCD","Costa Rica","","","","",17
+2003,"SH_TBS_INCD","Costa Rica","","","","",16
+2004,"SH_TBS_INCD","Costa Rica","","","","",21
+2009,"SH_TBS_INCD","Australia","","","","",6.9
+2010,"SH_TBS_INCD","Australia","","","","",6.6
+2011,"SH_TBS_INCD","Australia","","","","",6.4
+2012,"SH_TBS_INCD","Australia","","","","",6.6
+2013,"SH_TBS_INCD","Australia","","","","",6.2
+2014,"SH_TBS_INCD","Australia","","","","",6.5
+2015,"SH_TBS_INCD","Australia","","","","",6.1
+2016,"SH_TBS_INCD","Australia","","","","",6.5
+2017,"SH_TBS_INCD","Australia","","","","",6.7
+2005,"SH_TBS_INCD","Costa Rica","","","","",16
+2006,"SH_TBS_INCD","Costa Rica","","","","",14
+2007,"SH_TBS_INCD","Costa Rica","","","","",16
+2008,"SH_TBS_INCD","Costa Rica","","","","",14
+2009,"SH_TBS_INCD","Costa Rica","","","","",12
+2010,"SH_TBS_INCD","Costa Rica","","","","",13
+2011,"SH_TBS_INCD","Costa Rica","","","","",14
+2012,"SH_TBS_INCD","Costa Rica","","","","",13
+2013,"SH_TBS_INCD","Costa Rica","","","","",11
+2018,"SH_TBS_INCD","Australia","","","","",6.6
+2019,"SH_TBS_INCD","Australia","","","","",6.8
+2020,"SH_TBS_INCD","Australia","","","","",7.2
+2021,"SH_TBS_INCD","Australia","","","","",6.5
+2000,"SH_TBS_INCD","Austria","","","","",17
+2001,"SH_TBS_INCD","Austria","","","","",14
+2002,"SH_TBS_INCD","Austria","","","","",15
+2003,"SH_TBS_INCD","Austria","","","","",13
+2004,"SH_TBS_INCD","Austria","","","","",13
+2018,"SH_TBS_INCD","Republic of Moldova","","","","",86
+2019,"SH_TBS_INCD","Republic of Moldova","","","","",80
+2020,"SH_TBS_INCD","Republic of Moldova","","","","",78
+2021,"SH_TBS_INCD","Republic of Moldova","","","","",84
+2005,"SH_TBS_INCD","Montenegro","","","","",29
+2006,"SH_TBS_INCD","Montenegro","","","","",31
+2007,"SH_TBS_INCD","Montenegro","","","","",27
+2008,"SH_TBS_INCD","Montenegro","","","","",24
+2005,"SH_TBS_INCD","Austria","","","","",13
+2006,"SH_TBS_INCD","Austria","","","","",12
+2007,"SH_TBS_INCD","Austria","","","","",11
+2008,"SH_TBS_INCD","Austria","","","","",10
+2009,"SH_TBS_INCD","Austria","","","","",9.1
+2010,"SH_TBS_INCD","Austria","","","","",9.1
+2011,"SH_TBS_INCD","Austria","","","","",9.2
+2012,"SH_TBS_INCD","Austria","","","","",8.5
+2013,"SH_TBS_INCD","Austria","","","","",8.5
+2009,"SH_TBS_INCD","Montenegro","","","","",21
+2010,"SH_TBS_INCD","Montenegro","","","","",20
+2011,"SH_TBS_INCD","Montenegro","","","","",20
+2012,"SH_TBS_INCD","Montenegro","","","","",18
+2013,"SH_TBS_INCD","Montenegro","","","","",22
+2014,"SH_TBS_INCD","Montenegro","","","","",21
+2015,"SH_TBS_INCD","Montenegro","","","","",15
+2016,"SH_TBS_INCD","Montenegro","","","","",16
+2017,"SH_TBS_INCD","Montenegro","","","","",14
+2014,"SH_TBS_INCD","Costa Rica","","","","",12
+2015,"SH_TBS_INCD","Costa Rica","","","","",11
+2016,"SH_TBS_INCD","Costa Rica","","","","",9.4
+2017,"SH_TBS_INCD","Costa Rica","","","","",9.6
+2018,"SH_TBS_INCD","Costa Rica","","","","",10
+2019,"SH_TBS_INCD","Costa Rica","","","","",10
+2020,"SH_TBS_INCD","Costa Rica","","","","",9.7
+2021,"SH_TBS_INCD","Costa Rica","","","","",11
+2000,"SH_TBS_INCD","Croatia","","","","",41
+2001,"SH_TBS_INCD","Croatia","","","","",35
+2002,"SH_TBS_INCD","Croatia","","","","",37
+2003,"SH_TBS_INCD","Croatia","","","","",36
+2004,"SH_TBS_INCD","Croatia","","","","",30
+2005,"SH_TBS_INCD","Croatia","","","","",27
+2006,"SH_TBS_INCD","Croatia","","","","",27
+2007,"SH_TBS_INCD","Croatia","","","","",25
+2008,"SH_TBS_INCD","Croatia","","","","",26
+2009,"SH_TBS_INCD","Croatia","","","","",22
+2010,"SH_TBS_INCD","Croatia","","","","",18
+2011,"SH_TBS_INCD","Croatia","","","","",16
+2012,"SH_TBS_INCD","Croatia","","","","",14
+2013,"SH_TBS_INCD","Croatia","","","","",14
+2014,"SH_TBS_INCD","Croatia","","","","",13
+2015,"SH_TBS_INCD","Croatia","","","","",13
+2016,"SH_TBS_INCD","Croatia","","","","",12
+2017,"SH_TBS_INCD","Croatia","","","","",10
+2014,"SH_TBS_INCD","Austria","","","","",7.6
+2015,"SH_TBS_INCD","Austria","","","","",7.5
+2016,"SH_TBS_INCD","Austria","","","","",8.1
+2017,"SH_TBS_INCD","Austria","","","","",7.3
+2018,"SH_TBS_INCD","Austria","","","","",6.1
+2019,"SH_TBS_INCD","Austria","","","","",6
+2020,"SH_TBS_INCD","Austria","","","","",4.9
+2021,"SH_TBS_INCD","Austria","","","","",5
+2000,"SH_TBS_INCD","Armenia","","","","",54
+2018,"SH_TBS_INCD","Croatia","","","","",10
+2019,"SH_TBS_INCD","Croatia","","","","",8.3
+2020,"SH_TBS_INCD","Croatia","","","","",5
+2021,"SH_TBS_INCD","Croatia","","","","",4
+2000,"SH_TBS_INCD","Cyprus","","","","",4
+2001,"SH_TBS_INCD","Cyprus","","","","",4.8
+2002,"SH_TBS_INCD","Cyprus","","","","",2.3
+2003,"SH_TBS_INCD","Cyprus","","","","",4
+2004,"SH_TBS_INCD","Cyprus","","","","",3.4
+2001,"SH_TBS_INCD","Armenia","","","","",57
+2002,"SH_TBS_INCD","Armenia","","","","",59
+2003,"SH_TBS_INCD","Armenia","","","","",64
+2004,"SH_TBS_INCD","Armenia","","","","",69
+2005,"SH_TBS_INCD","Armenia","","","","",92
+2006,"SH_TBS_INCD","Armenia","","","","",75
+2007,"SH_TBS_INCD","Armenia","","","","",72
+2008,"SH_TBS_INCD","Armenia","","","","",71
+2009,"SH_TBS_INCD","Armenia","","","","",68
+2005,"SH_TBS_INCD","Cyprus","","","","",3.8
+2006,"SH_TBS_INCD","Cyprus","","","","",3.9
+2007,"SH_TBS_INCD","Cyprus","","","","",4.4
+2008,"SH_TBS_INCD","Cyprus","","","","",5.1
+2009,"SH_TBS_INCD","Cyprus","","","","",5.3
+2010,"SH_TBS_INCD","Cyprus","","","","",6.2
+2011,"SH_TBS_INCD","Cyprus","","","","",5.1
+2012,"SH_TBS_INCD","Cyprus","","","","",6.3
+2013,"SH_TBS_INCD","Cyprus","","","","",4
+2010,"SH_TBS_INCD","Armenia","","","","",61
+2011,"SH_TBS_INCD","Armenia","","","","",55
+2012,"SH_TBS_INCD","Armenia","","","","",53
+2013,"SH_TBS_INCD","Armenia","","","","",60
+2014,"SH_TBS_INCD","Armenia","","","","",57
+2015,"SH_TBS_INCD","Armenia","","","","",50
+2016,"SH_TBS_INCD","Armenia","","","","",44
+2017,"SH_TBS_INCD","Armenia","","","","",36
+2018,"SH_TBS_INCD","Armenia","","","","",31
+2018,"SH_TBS_INCD","Montenegro","","","","",15
+2019,"SH_TBS_INCD","Montenegro","","","","",15
+2020,"SH_TBS_INCD","Montenegro","","","","",15
+2021,"SH_TBS_INCD","Montenegro","","","","",16
+2000,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",9
+2001,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",10
+2002,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",9.7
+2003,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",9.3
+2014,"SH_TBS_INCD","Cyprus","","","","",3.8
+2015,"SH_TBS_INCD","Cyprus","","","","",6.1
+2016,"SH_TBS_INCD","Cyprus","","","","",5.5
+2017,"SH_TBS_INCD","Cyprus","","","","",4.9
+2018,"SH_TBS_INCD","Cyprus","","","","",4.8
+2019,"SH_TBS_INCD","Cyprus","","","","",6.2
+2020,"SH_TBS_INCD","Cyprus","","","","",3.2
+2021,"SH_TBS_INCD","Cyprus","","","","",4.4
+2000,"SH_TBS_INCD","Czechia","","","","",16
+2004,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",9.3
+2005,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",8
+2006,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",7.1
+2007,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",6.5
+2008,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",6.7
+2009,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",7.8
+2010,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",7.1
+2011,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",6.7
+2001,"SH_TBS_INCD","Czechia","","","","",15
+2002,"SH_TBS_INCD","Czechia","","","","",13
+2003,"SH_TBS_INCD","Czechia","","","","",13
+2004,"SH_TBS_INCD","Czechia","","","","",12
+2005,"SH_TBS_INCD","Czechia","","","","",11
+2006,"SH_TBS_INCD","Czechia","","","","",11
+2007,"SH_TBS_INCD","Czechia","","","","",8.8
+2008,"SH_TBS_INCD","Czechia","","","","",8.9
+2009,"SH_TBS_INCD","Czechia","","","","",7
+2010,"SH_TBS_INCD","Czechia","","","","",6.8
+2011,"SH_TBS_INCD","Czechia","","","","",6.2
+2012,"SH_TBS_INCD","Czechia","","","","",6.2
+2013,"SH_TBS_INCD","Czechia","","","","",5.2
+2014,"SH_TBS_INCD","Czechia","","","","",5.2
+2015,"SH_TBS_INCD","Czechia","","","","",5.6
+2016,"SH_TBS_INCD","Czechia","","","","",5.6
+2017,"SH_TBS_INCD","Czechia","","","","",5.4
+2018,"SH_TBS_INCD","Czechia","","","","",4.7
+2019,"SH_TBS_INCD","Armenia","","","","",26
+2020,"SH_TBS_INCD","Armenia","","","","",25
+2021,"SH_TBS_INCD","Armenia","","","","",27
+2000,"SH_TBS_INCD","Belgium","","","","",14
+2001,"SH_TBS_INCD","Belgium","","","","",15
+2002,"SH_TBS_INCD","Belgium","","","","",13
+2003,"SH_TBS_INCD","Belgium","","","","",12
+2004,"SH_TBS_INCD","Belgium","","","","",12
+2012,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",6.3
+2013,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.7
+2014,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.5
+2015,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.7
+2016,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.9
+2017,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.2
+2018,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",5.3
+2019,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",4.9
+2019,"SH_TBS_INCD","Czechia","","","","",5
+2020,"SH_TBS_INCD","Czechia","","","","",3.9
+2021,"SH_TBS_INCD","Czechia","","","","",3.9
+2000,"SH_TBS_INCD","Denmark","","","","",13
+2001,"SH_TBS_INCD","Denmark","","","","",11
+2002,"SH_TBS_INCD","Denmark","","","","",8.6
+2003,"SH_TBS_INCD","Denmark","","","","",8.3
+2004,"SH_TBS_INCD","Denmark","","","","",7.6
+2005,"SH_TBS_INCD","Denmark","","","","",8.4
+2006,"SH_TBS_INCD","Denmark","","","","",7.2
+2007,"SH_TBS_INCD","Denmark","","","","",7.5
+2008,"SH_TBS_INCD","Denmark","","","","",6.9
+2009,"SH_TBS_INCD","Denmark","","","","",6.1
+2010,"SH_TBS_INCD","Denmark","","","","",6.9
+2011,"SH_TBS_INCD","Denmark","","","","",7.4
+2012,"SH_TBS_INCD","Denmark","","","","",7
+2013,"SH_TBS_INCD","Denmark","","","","",6.7
+2014,"SH_TBS_INCD","Denmark","","","","",6
+2005,"SH_TBS_INCD","Belgium","","","","",12
+2006,"SH_TBS_INCD","Belgium","","","","",11
+2007,"SH_TBS_INCD","Belgium","","","","",10
+2008,"SH_TBS_INCD","Belgium","","","","",10
+2009,"SH_TBS_INCD","Belgium","","","","",9.8
+2010,"SH_TBS_INCD","Belgium","","","","",11
+2011,"SH_TBS_INCD","Belgium","","","","",10
+2012,"SH_TBS_INCD","Belgium","","","","",9.5
+2013,"SH_TBS_INCD","Belgium","","","","",9.4
+2015,"SH_TBS_INCD","Denmark","","","","",6.5
+2016,"SH_TBS_INCD","Denmark","","","","",5.9
+2017,"SH_TBS_INCD","Denmark","","","","",5.1
+2018,"SH_TBS_INCD","Denmark","","","","",5.4
+2019,"SH_TBS_INCD","Denmark","","","","",5.2
+2020,"SH_TBS_INCD","Denmark","","","","",4.1
+2021,"SH_TBS_INCD","Denmark","","","","",3.8
+2000,"SH_TBS_INCD","Estonia","","","","",65
+2001,"SH_TBS_INCD","Estonia","","","","",59
+2014,"SH_TBS_INCD","Belgium","","","","",9.1
+2015,"SH_TBS_INCD","Belgium","","","","",9.5
+2016,"SH_TBS_INCD","Belgium","","","","",10
+2017,"SH_TBS_INCD","Belgium","","","","",9.3
+2018,"SH_TBS_INCD","Belgium","","","","",9.2
+2019,"SH_TBS_INCD","Belgium","","","","",8.9
+2020,"SH_TBS_INCD","Belgium","","","","",7.7
+2021,"SH_TBS_INCD","Belgium","","","","",8.1
+2000,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",83
+2020,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",4.1
+2021,"SH_TBS_INCD","Netherlands (Kingdom of the)","","","","",4.4
+2000,"SH_TBS_INCD","New Zealand","","","","",10
+2001,"SH_TBS_INCD","New Zealand","","","","",11
+2002,"SH_TBS_INCD","New Zealand","","","","",9.6
+2003,"SH_TBS_INCD","New Zealand","","","","",12
+2004,"SH_TBS_INCD","New Zealand","","","","",10
+2005,"SH_TBS_INCD","New Zealand","","","","",9.2
+2006,"SH_TBS_INCD","New Zealand","","","","",9.5
+2002,"SH_TBS_INCD","Estonia","","","","",52
+2003,"SH_TBS_INCD","Estonia","","","","",49
+2004,"SH_TBS_INCD","Estonia","","","","",45
+2005,"SH_TBS_INCD","Estonia","","","","",41
+2006,"SH_TBS_INCD","Estonia","","","","",36
+2007,"SH_TBS_INCD","Estonia","","","","",39
+2008,"SH_TBS_INCD","Estonia","","","","",34
+2009,"SH_TBS_INCD","Estonia","","","","",31
+2010,"SH_TBS_INCD","Estonia","","","","",25
+2007,"SH_TBS_INCD","New Zealand","","","","",7.5
+2008,"SH_TBS_INCD","New Zealand","","","","",7.9
+2009,"SH_TBS_INCD","New Zealand","","","","",8
+2010,"SH_TBS_INCD","New Zealand","","","","",8
+2011,"SH_TBS_INCD","New Zealand","","","","",8
+2012,"SH_TBS_INCD","New Zealand","","","","",7.6
+2013,"SH_TBS_INCD","New Zealand","","","","",7
+2014,"SH_TBS_INCD","New Zealand","","","","",7.6
+2015,"SH_TBS_INCD","New Zealand","","","","",7.3
+2011,"SH_TBS_INCD","Estonia","","","","",25
+2012,"SH_TBS_INCD","Estonia","","","","",23
+2013,"SH_TBS_INCD","Estonia","","","","",23
+2014,"SH_TBS_INCD","Estonia","","","","",21
+2015,"SH_TBS_INCD","Estonia","","","","",18
+2016,"SH_TBS_INCD","Estonia","","","","",16
+2017,"SH_TBS_INCD","Estonia","","","","",15
+2018,"SH_TBS_INCD","Estonia","","","","",13
+2019,"SH_TBS_INCD","Estonia","","","","",13
+2001,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",82
+2002,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",56
+2003,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",59
+2004,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",78
+2005,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",70
+2006,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",59
+2007,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",79
+2008,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",57
+2009,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",58
+2020,"SH_TBS_INCD","Estonia","","","","",10
+2021,"SH_TBS_INCD","Estonia","","","","",9.3
+2000,"SH_TBS_INCD","Finland","","","","",12
+2001,"SH_TBS_INCD","Finland","","","","",10
+2002,"SH_TBS_INCD","Finland","","","","",9.9
+2003,"SH_TBS_INCD","Finland","","","","",8.7
+2004,"SH_TBS_INCD","Finland","","","","",7
+2005,"SH_TBS_INCD","Finland","","","","",7.4
+2006,"SH_TBS_INCD","Finland","","","","",6.1
+2010,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",45
+2011,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",46
+2012,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",49
+2013,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",44
+2014,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",43
+2015,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",40
+2016,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",33
+2017,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",29
+2018,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",25
+2007,"SH_TBS_INCD","Finland","","","","",6.5
+2008,"SH_TBS_INCD","Finland","","","","",7.2
+2009,"SH_TBS_INCD","Finland","","","","",8.7
+2010,"SH_TBS_INCD","Finland","","","","",6.6
+2011,"SH_TBS_INCD","Finland","","","","",6.7
+2012,"SH_TBS_INCD","Finland","","","","",5.5
+2013,"SH_TBS_INCD","Finland","","","","",5.6
+2014,"SH_TBS_INCD","Finland","","","","",5.3
+2015,"SH_TBS_INCD","Finland","","","","",5.6
+2016,"SH_TBS_INCD","New Zealand","","","","",7.3
+2017,"SH_TBS_INCD","New Zealand","","","","",7.3
+2018,"SH_TBS_INCD","New Zealand","","","","",7.2
+2019,"SH_TBS_INCD","New Zealand","","","","",7.2
+2020,"SH_TBS_INCD","New Zealand","","","","",7.2
+2021,"SH_TBS_INCD","New Zealand","","","","",6.8
+2000,"SH_TBS_INCD","Norway","","","","",5.7
+2001,"SH_TBS_INCD","Norway","","","","",7
+2002,"SH_TBS_INCD","Norway","","","","",6.2
+2019,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",27
+2020,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",26
+2021,"SH_TBS_INCD","Bosnia and Herzegovina","","","","",25
+2000,"SH_TBS_INCD","Bulgaria","","","","",52
+2001,"SH_TBS_INCD","Bulgaria","","","","",61
+2002,"SH_TBS_INCD","Bulgaria","","","","",53
+2003,"SH_TBS_INCD","Bulgaria","","","","",52
+2004,"SH_TBS_INCD","Bulgaria","","","","",49
+2005,"SH_TBS_INCD","Bulgaria","","","","",52
+2016,"SH_TBS_INCD","Finland","","","","",4.7
+2017,"SH_TBS_INCD","Finland","","","","",4.9
+2018,"SH_TBS_INCD","Finland","","","","",4.8
+2019,"SH_TBS_INCD","Finland","","","","",4.7
+2020,"SH_TBS_INCD","Finland","","","","",3.6
+2021,"SH_TBS_INCD","Finland","","","","",3.5
+2000,"SH_TBS_INCD","France","","","","",13
+2001,"SH_TBS_INCD","France","","","","",12
+2002,"SH_TBS_INCD","France","","","","",12
+2003,"SH_TBS_INCD","France","","","","",12
+2004,"SH_TBS_INCD","France","","","","",10
+2005,"SH_TBS_INCD","France","","","","",10
+2006,"SH_TBS_INCD","France","","","","",9.9
+2007,"SH_TBS_INCD","France","","","","",11
+2008,"SH_TBS_INCD","France","","","","",11
+2009,"SH_TBS_INCD","France","","","","",9.6
+2010,"SH_TBS_INCD","France","","","","",9.3
+2011,"SH_TBS_INCD","France","","","","",9.1
+2003,"SH_TBS_INCD","Norway","","","","",8.4
+2004,"SH_TBS_INCD","Norway","","","","",7.1
+2005,"SH_TBS_INCD","Norway","","","","",6.9
+2006,"SH_TBS_INCD","Norway","","","","",6.8
+2007,"SH_TBS_INCD","Norway","","","","",6.9
+2008,"SH_TBS_INCD","Norway","","","","",7.2
+2009,"SH_TBS_INCD","Norway","","","","",7.8
+2010,"SH_TBS_INCD","Norway","","","","",6.9
+2011,"SH_TBS_INCD","Norway","","","","",7.4
+2006,"SH_TBS_INCD","Bulgaria","","","","",51
+2007,"SH_TBS_INCD","Bulgaria","","","","",47
+2008,"SH_TBS_INCD","Bulgaria","","","","",49
+2009,"SH_TBS_INCD","Bulgaria","","","","",44
+2010,"SH_TBS_INCD","Bulgaria","","","","",41
+2011,"SH_TBS_INCD","Bulgaria","","","","",37
+2012,"SH_TBS_INCD","Bulgaria","","","","",35
+2013,"SH_TBS_INCD","Bulgaria","","","","",33
+2014,"SH_TBS_INCD","Bulgaria","","","","",31
+2012,"SH_TBS_INCD","France","","","","",9
+2013,"SH_TBS_INCD","France","","","","",9
+2014,"SH_TBS_INCD","France","","","","",8.6
+2015,"SH_TBS_INCD","France","","","","",8.5
+2016,"SH_TBS_INCD","France","","","","",8.8
+2017,"SH_TBS_INCD","France","","","","",9.1
+2018,"SH_TBS_INCD","France","","","","",9
+2019,"SH_TBS_INCD","France","","","","",9.1
+2020,"SH_TBS_INCD","France","","","","",8.3
+2012,"SH_TBS_INCD","Norway","","","","",7.9
+2013,"SH_TBS_INCD","Norway","","","","",8.2
+2014,"SH_TBS_INCD","Norway","","","","",6.8
+2015,"SH_TBS_INCD","Norway","","","","",6.3
+2016,"SH_TBS_INCD","Norway","","","","",6.1
+2017,"SH_TBS_INCD","Norway","","","","",5.2
+2018,"SH_TBS_INCD","Norway","","","","",4.1
+2019,"SH_TBS_INCD","Norway","","","","",3.3
+2020,"SH_TBS_INCD","Norway","","","","",3.1
+2021,"SH_TBS_INCD","France","","","","",7.7
+2000,"SH_TBS_INCD","Georgia","","","","",254
+2001,"SH_TBS_INCD","Georgia","","","","",243
+2002,"SH_TBS_INCD","Georgia","","","","",228
+2003,"SH_TBS_INCD","Georgia","","","","",210
+2004,"SH_TBS_INCD","Georgia","","","","",192
+2005,"SH_TBS_INCD","Georgia","","","","",175
+2006,"SH_TBS_INCD","Georgia","","","","",161
+2007,"SH_TBS_INCD","Georgia","","","","",149
+2021,"SH_TBS_INCD","Norway","","","","",2.9
+2000,"SH_TBS_INCD","Poland","","","","",33
+2001,"SH_TBS_INCD","Poland","","","","",30
+2002,"SH_TBS_INCD","Poland","","","","",30
+2003,"SH_TBS_INCD","Poland","","","","",30
+2004,"SH_TBS_INCD","Poland","","","","",26
+2005,"SH_TBS_INCD","Poland","","","","",24
+2006,"SH_TBS_INCD","Poland","","","","",24
+2007,"SH_TBS_INCD","Poland","","","","",24
+2008,"SH_TBS_INCD","Georgia","","","","",140
+2009,"SH_TBS_INCD","Georgia","","","","",133
+2010,"SH_TBS_INCD","Georgia","","","","",127
+2011,"SH_TBS_INCD","Georgia","","","","",122
+2012,"SH_TBS_INCD","Georgia","","","","",119
+2013,"SH_TBS_INCD","Georgia","","","","",116
+2014,"SH_TBS_INCD","Georgia","","","","",106
+2015,"SH_TBS_INCD","Georgia","","","","",99
+2016,"SH_TBS_INCD","Georgia","","","","",92
+2008,"SH_TBS_INCD","Poland","","","","",22
+2009,"SH_TBS_INCD","Poland","","","","",23
+2010,"SH_TBS_INCD","Poland","","","","",21
+2011,"SH_TBS_INCD","Poland","","","","",24
+2012,"SH_TBS_INCD","Poland","","","","",21
+2013,"SH_TBS_INCD","Poland","","","","",21
+2014,"SH_TBS_INCD","Poland","","","","",19
+2015,"SH_TBS_INCD","Poland","","","","",19
+2016,"SH_TBS_INCD","Poland","","","","",18
+2017,"SH_TBS_INCD","Poland","","","","",17
+2018,"SH_TBS_INCD","Poland","","","","",16
+2019,"SH_TBS_INCD","Poland","","","","",15
+2020,"SH_TBS_INCD","Poland","","","","",9.4
+2021,"SH_TBS_INCD","Poland","","","","",10
+2000,"SH_TBS_INCD","Portugal","","","","",47
+2001,"SH_TBS_INCD","Portugal","","","","",48
+2002,"SH_TBS_INCD","Portugal","","","","",48
+2003,"SH_TBS_INCD","Portugal","","","","",44
+2017,"SH_TBS_INCD","Georgia","","","","",86
+2018,"SH_TBS_INCD","Georgia","","","","",80
+2019,"SH_TBS_INCD","Georgia","","","","",74
+2020,"SH_TBS_INCD","Georgia","","","","",69
+2021,"SH_TBS_INCD","Georgia","","","","",64
+2000,"SH_TBS_INCD","Germany","","","","",12
+2001,"SH_TBS_INCD","Germany","","","","",9.4
+2002,"SH_TBS_INCD","Germany","","","","",9.4
+2003,"SH_TBS_INCD","Germany","","","","",9.5
+2004,"SH_TBS_INCD","Portugal","","","","",40
+2005,"SH_TBS_INCD","Portugal","","","","",36
+2006,"SH_TBS_INCD","Portugal","","","","",35
+2007,"SH_TBS_INCD","Portugal","","","","",32
+2008,"SH_TBS_INCD","Portugal","","","","",31
+2009,"SH_TBS_INCD","Portugal","","","","",29
+2010,"SH_TBS_INCD","Portugal","","","","",28
+2011,"SH_TBS_INCD","Portugal","","","","",27
+2012,"SH_TBS_INCD","Portugal","","","","",27
+2013,"SH_TBS_INCD","Portugal","","","","",26
+2014,"SH_TBS_INCD","Portugal","","","","",24
+2015,"SH_TBS_INCD","Portugal","","","","",23
+2016,"SH_TBS_INCD","Portugal","","","","",20
+2017,"SH_TBS_INCD","Portugal","","","","",20
+2018,"SH_TBS_INCD","Portugal","","","","",21
+2019,"SH_TBS_INCD","Portugal","","","","",19
+2020,"SH_TBS_INCD","Portugal","","","","",16
+2021,"SH_TBS_INCD","Portugal","","","","",16
+2004,"SH_TBS_INCD","Germany","","","","",8.4
+2005,"SH_TBS_INCD","Germany","","","","",7.7
+2006,"SH_TBS_INCD","Germany","","","","",7
+2007,"SH_TBS_INCD","Germany","","","","",6.3
+2008,"SH_TBS_INCD","Germany","","","","",5.6
+2009,"SH_TBS_INCD","Germany","","","","",5.6
+2010,"SH_TBS_INCD","Germany","","","","",5.5
+2011,"SH_TBS_INCD","Germany","","","","",5.5
+2012,"SH_TBS_INCD","Germany","","","","",5.4
+2013,"SH_TBS_INCD","Germany","","","","",5.6
+2014,"SH_TBS_INCD","Germany","","","","",5.8
+2015,"SH_TBS_INCD","Germany","","","","",7.6
+2016,"SH_TBS_INCD","Germany","","","","",7.7
+2017,"SH_TBS_INCD","Germany","","","","",7.1
+2018,"SH_TBS_INCD","Germany","","","","",7
+2019,"SH_TBS_INCD","Germany","","","","",6.1
+2020,"SH_TBS_INCD","Germany","","","","",5.3
+2021,"SH_TBS_INCD","Germany","","","","",5
+2000,"SH_TBS_INCD","Romania","","","","",144
+2001,"SH_TBS_INCD","Romania","","","","",151
+2002,"SH_TBS_INCD","Romania","","","","",158
+2003,"SH_TBS_INCD","Romania","","","","",159
+2004,"SH_TBS_INCD","Romania","","","","",154
+2005,"SH_TBS_INCD","Romania","","","","",142
+2006,"SH_TBS_INCD","Romania","","","","",134
+2007,"SH_TBS_INCD","Romania","","","","",125
+2008,"SH_TBS_INCD","Romania","","","","",121
+2009,"SH_TBS_INCD","Romania","","","","",116
+2010,"SH_TBS_INCD","Romania","","","","",105
+2011,"SH_TBS_INCD","Romania","","","","",97
+2012,"SH_TBS_INCD","Romania","","","","",92
+2013,"SH_TBS_INCD","Romania","","","","",89
+2014,"SH_TBS_INCD","Romania","","","","",85
+2015,"SH_TBS_INCD","Romania","","","","",82
+2016,"SH_TBS_INCD","Romania","","","","",74
+2017,"SH_TBS_INCD","Romania","","","","",72
+2000,"SH_TBS_INCD","Greece","","","","",7.3
+2001,"SH_TBS_INCD","Greece","","","","",5.2
+2002,"SH_TBS_INCD","Greece","","","","",5.9
+2003,"SH_TBS_INCD","Greece","","","","",6.1
+2004,"SH_TBS_INCD","Greece","","","","",7.6
+2005,"SH_TBS_INCD","Greece","","","","",7.2
+2006,"SH_TBS_INCD","Greece","","","","",6.4
+2007,"SH_TBS_INCD","Greece","","","","",6.4
+2008,"SH_TBS_INCD","Greece","","","","",6.1
+2009,"SH_TBS_INCD","Greece","","","","",5.6
+2010,"SH_TBS_INCD","Greece","","","","",4.6
+2011,"SH_TBS_INCD","Greece","","","","",4.7
+2012,"SH_TBS_INCD","Greece","","","","",5.4
+2013,"SH_TBS_INCD","Greece","","","","",5.2
+2014,"SH_TBS_INCD","Greece","","","","",5.1
+2015,"SH_TBS_INCD","Greece","","","","",4.7
+2016,"SH_TBS_INCD","Greece","","","","",4.4
+2017,"SH_TBS_INCD","Greece","","","","",4.7
+2018,"SH_TBS_INCD","Romania","","","","",68
+2019,"SH_TBS_INCD","Romania","","","","",65
+2020,"SH_TBS_INCD","Romania","","","","",43
+2021,"SH_TBS_INCD","Romania","","","","",45
+2005,"SH_TBS_INCD","Serbia","","","","",40
+2006,"SH_TBS_INCD","Serbia","","","","",40
+2007,"SH_TBS_INCD","Serbia","","","","",37
+2008,"SH_TBS_INCD","Serbia","","","","",35
+2009,"SH_TBS_INCD","Serbia","","","","",32
+2010,"SH_TBS_INCD","Serbia","","","","",30
+2011,"SH_TBS_INCD","Serbia","","","","",28
+2012,"SH_TBS_INCD","Serbia","","","","",24
+2013,"SH_TBS_INCD","Serbia","","","","",27
+2014,"SH_TBS_INCD","Serbia","","","","",23
+2015,"SH_TBS_INCD","Serbia","","","","",21
+2016,"SH_TBS_INCD","Serbia","","","","",19
+2017,"SH_TBS_INCD","Serbia","","","","",19
+2018,"SH_TBS_INCD","Serbia","","","","",17
+2019,"SH_TBS_INCD","Serbia","","","","",14
+2020,"SH_TBS_INCD","Serbia","","","","",14
+2021,"SH_TBS_INCD","Serbia","","","","",15
+2000,"SH_TBS_INCD","Slovakia","","","","",22
+2001,"SH_TBS_INCD","Slovakia","","","","",21
+2002,"SH_TBS_INCD","Slovakia","","","","",21
+2003,"SH_TBS_INCD","Slovakia","","","","",21
+2004,"SH_TBS_INCD","Slovakia","","","","",14
+2005,"SH_TBS_INCD","Slovakia","","","","",15
+2006,"SH_TBS_INCD","Slovakia","","","","",14
+2007,"SH_TBS_INCD","Slovakia","","","","",13
+2008,"SH_TBS_INCD","Slovakia","","","","",12
+2009,"SH_TBS_INCD","Slovakia","","","","",9.7
+2010,"SH_TBS_INCD","Slovakia","","","","",8.7
+2011,"SH_TBS_INCD","Slovakia","","","","",8
+2012,"SH_TBS_INCD","Slovakia","","","","",6.8
+2013,"SH_TBS_INCD","Slovakia","","","","",8.5
+2014,"SH_TBS_INCD","Slovakia","","","","",6.8
+2015,"SH_TBS_INCD","Slovakia","","","","",6.5
+2016,"SH_TBS_INCD","Slovakia","","","","",5.9
+2017,"SH_TBS_INCD","Slovakia","","","","",4.8
+2018,"SH_TBS_INCD","Slovakia","","","","",5.8
+2019,"SH_TBS_INCD","Slovakia","","","","",4.5
+2020,"SH_TBS_INCD","Slovakia","","","","",3.2
+2021,"SH_TBS_INCD","Slovakia","","","","",2.8
+2000,"SH_TBS_INCD","Viet Nam","","","","",296
+2018,"SH_TBS_INCD","Greece","","","","",4.4
+2019,"SH_TBS_INCD","Greece","","","","",4.7
+2020,"SH_TBS_INCD","Greece","","","","",4.2
+2021,"SH_TBS_INCD","Greece","","","","",4.1
+2000,"SH_TBS_INCD","Hungary","","","","",35
+2001,"SH_TBS_INCD","Hungary","","","","",33
+2002,"SH_TBS_INCD","Hungary","","","","",31
+2003,"SH_TBS_INCD","Hungary","","","","",31
+2004,"SH_TBS_INCD","Hungary","","","","",26
+2001,"SH_TBS_INCD","Viet Nam","","","","",290
+2002,"SH_TBS_INCD","Viet Nam","","","","",284
+2003,"SH_TBS_INCD","Viet Nam","","","","",278
+2004,"SH_TBS_INCD","Viet Nam","","","","",272
+2005,"SH_TBS_INCD","Viet Nam","","","","",266
+2006,"SH_TBS_INCD","Viet Nam","","","","",260
+2007,"SH_TBS_INCD","Viet Nam","","","","",253
+2008,"SH_TBS_INCD","Viet Nam","","","","",246
+2009,"SH_TBS_INCD","Viet Nam","","","","",239
+2005,"SH_TBS_INCD","Hungary","","","","",21
+2006,"SH_TBS_INCD","Hungary","","","","",19
+2007,"SH_TBS_INCD","Hungary","","","","",18
+2008,"SH_TBS_INCD","Hungary","","","","",16
+2009,"SH_TBS_INCD","Hungary","","","","",15
+2010,"SH_TBS_INCD","Hungary","","","","",18
+2011,"SH_TBS_INCD","Hungary","","","","",15
+2012,"SH_TBS_INCD","Hungary","","","","",13
+2013,"SH_TBS_INCD","Hungary","","","","",12
+2010,"SH_TBS_INCD","Viet Nam","","","","",231
+2011,"SH_TBS_INCD","Viet Nam","","","","",225
+2012,"SH_TBS_INCD","Viet Nam","","","","",218
+2013,"SH_TBS_INCD","Viet Nam","","","","",212
+2014,"SH_TBS_INCD","Viet Nam","","","","",205
+2015,"SH_TBS_INCD","Viet Nam","","","","",199
+2016,"SH_TBS_INCD","Viet Nam","","","","",193
+2017,"SH_TBS_INCD","Viet Nam","","","","",188
+2018,"SH_TBS_INCD","Viet Nam","","","","",182
+2014,"SH_TBS_INCD","Hungary","","","","",9.3
+2015,"SH_TBS_INCD","Hungary","","","","",10
+2016,"SH_TBS_INCD","Hungary","","","","",8.6
+2017,"SH_TBS_INCD","Hungary","","","","",7.6
+2018,"SH_TBS_INCD","Hungary","","","","",7.1
+2019,"SH_TBS_INCD","Hungary","","","","",6.2
+2020,"SH_TBS_INCD","Hungary","","","","",4.5
+2021,"SH_TBS_INCD","Hungary","","","","",3.7
+2000,"SH_TBS_INCD","Iceland","","","","",5.3
+2019,"SH_TBS_INCD","Viet Nam","","","","",176
+2020,"SH_TBS_INCD","Viet Nam","","","","",171
+2021,"SH_TBS_INCD","Viet Nam","","","","",173
+2000,"SH_TBS_INCD","Slovenia","","","","",21
+2001,"SH_TBS_INCD","Slovenia","","","","",21
+2002,"SH_TBS_INCD","Slovenia","","","","",20
+2003,"SH_TBS_INCD","Slovenia","","","","",16
+2004,"SH_TBS_INCD","Slovenia","","","","",14
+2001,"SH_TBS_INCD","Iceland","","","","",4.8
+2002,"SH_TBS_INCD","Iceland","","","","",3.2
+2003,"SH_TBS_INCD","Iceland","","","","",2
+2004,"SH_TBS_INCD","Iceland","","","","",4.3
+2005,"SH_TBS_INCD","Iceland","","","","",3.9
+2006,"SH_TBS_INCD","Iceland","","","","",4.9
+2007,"SH_TBS_INCD","Iceland","","","","",4.4
+2008,"SH_TBS_INCD","Iceland","","","","",2.2
+2009,"SH_TBS_INCD","Iceland","","","","",3.2
+2005,"SH_TBS_INCD","Slovenia","","","","",15
+2006,"SH_TBS_INCD","Slovenia","","","","",12
+2007,"SH_TBS_INCD","Slovenia","","","","",12
+2008,"SH_TBS_INCD","Slovenia","","","","",12
+2009,"SH_TBS_INCD","Slovenia","","","","",10
+2010,"SH_TBS_INCD","Slovenia","","","","",9.4
+2011,"SH_TBS_INCD","Slovenia","","","","",10
+2012,"SH_TBS_INCD","Slovenia","","","","",7.4
+2013,"SH_TBS_INCD","Slovenia","","","","",7.7
+2010,"SH_TBS_INCD","Iceland","","","","",7.9
+2011,"SH_TBS_INCD","Iceland","","","","",2.9
+2012,"SH_TBS_INCD","Iceland","","","","",3.6
+2013,"SH_TBS_INCD","Iceland","","","","",3.9
+2014,"SH_TBS_INCD","Iceland","","","","",2.8
+2015,"SH_TBS_INCD","Iceland","","","","",2.4
+2016,"SH_TBS_INCD","Iceland","","","","",2.1
+2017,"SH_TBS_INCD","Iceland","","","","",4.4
+2018,"SH_TBS_INCD","Iceland","","","","",2.6
+2014,"SH_TBS_INCD","Slovenia","","","","",7.9
+2015,"SH_TBS_INCD","Slovenia","","","","",7.1
+2016,"SH_TBS_INCD","Slovenia","","","","",6.5
+2017,"SH_TBS_INCD","Slovenia","","","","",6.1
+2018,"SH_TBS_INCD","Slovenia","","","","",5.4
+2019,"SH_TBS_INCD","Slovenia","","","","",5.3
+2020,"SH_TBS_INCD","Slovenia","","","","",4.1
+2021,"SH_TBS_INCD","Slovenia","","","","",4.3
+2000,"SH_TBS_INCD","Spain","","","","",23
+2019,"SH_TBS_INCD","Iceland","","","","",4.1
+2020,"SH_TBS_INCD","Iceland","","","","",3.8
+2021,"SH_TBS_INCD","Iceland","","","","",2.9
+2000,"SH_TBS_INCD","India","","","","",341
+2001,"SH_TBS_INCD","India","","","","",340
+2002,"SH_TBS_INCD","India","","","","",339
+2003,"SH_TBS_INCD","India","","","","",337
+2004,"SH_TBS_INCD","India","","","","",334
+2005,"SH_TBS_INCD","India","","","","",329
+2006,"SH_TBS_INCD","India","","","","",323
+2007,"SH_TBS_INCD","India","","","","",316
+2008,"SH_TBS_INCD","India","","","","",309
+2009,"SH_TBS_INCD","India","","","","",300
+2010,"SH_TBS_INCD","India","","","","",292
+2011,"SH_TBS_INCD","India","","","","",284
+2012,"SH_TBS_INCD","India","","","","",277
+2013,"SH_TBS_INCD","India","","","","",270
+2014,"SH_TBS_INCD","India","","","","",263
+2001,"SH_TBS_INCD","Spain","","","","",19
+2002,"SH_TBS_INCD","Spain","","","","",20
+2003,"SH_TBS_INCD","Spain","","","","",27
+2004,"SH_TBS_INCD","Spain","","","","",16
+2005,"SH_TBS_INCD","Spain","","","","",19
+2006,"SH_TBS_INCD","Spain","","","","",20
+2007,"SH_TBS_INCD","Spain","","","","",19
+2008,"SH_TBS_INCD","Spain","","","","",19
+2009,"SH_TBS_INCD","Spain","","","","",18
+2010,"SH_TBS_INCD","Spain","","","","",17
+2011,"SH_TBS_INCD","Spain","","","","",16
+2012,"SH_TBS_INCD","Spain","","","","",14
+2013,"SH_TBS_INCD","Spain","","","","",13
+2014,"SH_TBS_INCD","Spain","","","","",12
+2015,"SH_TBS_INCD","Spain","","","","",10
+2016,"SH_TBS_INCD","Spain","","","","",12
+2017,"SH_TBS_INCD","Spain","","","","",11
+2018,"SH_TBS_INCD","Spain","","","","",11
+2015,"SH_TBS_INCD","India","","","","",256
+2016,"SH_TBS_INCD","India","","","","",249
+2017,"SH_TBS_INCD","India","","","","",234
+2018,"SH_TBS_INCD","India","","","","",224
+2019,"SH_TBS_INCD","India","","","","",214
+2020,"SH_TBS_INCD","India","","","","",204
+2021,"SH_TBS_INCD","India","","","","",210
+2000,"SH_TBS_INCD","Ireland","","","","",12
+2001,"SH_TBS_INCD","Ireland","","","","",12
+2002,"SH_TBS_INCD","Ireland","","","","",11
+2003,"SH_TBS_INCD","Ireland","","","","",12
+2004,"SH_TBS_INCD","Ireland","","","","",12
+2005,"SH_TBS_INCD","Ireland","","","","",12
+2006,"SH_TBS_INCD","Ireland","","","","",12
+2007,"SH_TBS_INCD","Ireland","","","","",11
+2008,"SH_TBS_INCD","Ireland","","","","",11
+2009,"SH_TBS_INCD","Ireland","","","","",11
+2019,"SH_TBS_INCD","Spain","","","","",9.9
+2020,"SH_TBS_INCD","Spain","","","","",7.2
+2021,"SH_TBS_INCD","Spain","","","","",8.2
+2000,"SH_TBS_INCD","Sweden","","","","",5.4
+2001,"SH_TBS_INCD","Sweden","","","","",5.1
+2002,"SH_TBS_INCD","Sweden","","","","",4.8
+2003,"SH_TBS_INCD","Sweden","","","","",5.1
+2004,"SH_TBS_INCD","Sweden","","","","",5.5
+2005,"SH_TBS_INCD","Sweden","","","","",6.8
+2010,"SH_TBS_INCD","Ireland","","","","",9.8
+2011,"SH_TBS_INCD","Ireland","","","","",9.8
+2012,"SH_TBS_INCD","Ireland","","","","",8.6
+2013,"SH_TBS_INCD","Ireland","","","","",8.9
+2014,"SH_TBS_INCD","Ireland","","","","",7.4
+2015,"SH_TBS_INCD","Ireland","","","","",7.3
+2016,"SH_TBS_INCD","Ireland","","","","",7.1
+2017,"SH_TBS_INCD","Ireland","","","","",7.3
+2018,"SH_TBS_INCD","Ireland","","","","",7
+2006,"SH_TBS_INCD","Sweden","","","","",6.2
+2007,"SH_TBS_INCD","Sweden","","","","",5.8
+2008,"SH_TBS_INCD","Sweden","","","","",6.4
+2009,"SH_TBS_INCD","Sweden","","","","",7.1
+2010,"SH_TBS_INCD","Sweden","","","","",7.5
+2011,"SH_TBS_INCD","Sweden","","","","",6.5
+2012,"SH_TBS_INCD","Sweden","","","","",7.1
+2013,"SH_TBS_INCD","Sweden","","","","",7.3
+2014,"SH_TBS_INCD","Sweden","","","","",7.5
+2019,"SH_TBS_INCD","Ireland","","","","",5.8
+2020,"SH_TBS_INCD","Ireland","","","","",5.3
+2021,"SH_TBS_INCD","Ireland","","","","",4.8
+2000,"SH_TBS_INCD","Israel","","","","",10
+2001,"SH_TBS_INCD","Israel","","","","",9.4
+2002,"SH_TBS_INCD","Israel","","","","",8.4
+2003,"SH_TBS_INCD","Israel","","","","",8.4
+2004,"SH_TBS_INCD","Israel","","","","",8
+2005,"SH_TBS_INCD","Israel","","","","",6.4
+2015,"SH_TBS_INCD","Sweden","","","","",9.1
+2016,"SH_TBS_INCD","Sweden","","","","",8.1
+2017,"SH_TBS_INCD","Sweden","","","","",5.6
+2018,"SH_TBS_INCD","Sweden","","","","",5.4
+2019,"SH_TBS_INCD","Sweden","","","","",5.4
+2020,"SH_TBS_INCD","Sweden","","","","",3.5
+2021,"SH_TBS_INCD","Sweden","","","","",3.8
+2000,"SH_TBS_INCD","Switzerland","","","","",9.2
+2001,"SH_TBS_INCD","Switzerland","","","","",8.7
+2006,"SH_TBS_INCD","Israel","","","","",5.7
+2007,"SH_TBS_INCD","Israel","","","","",6.6
+2008,"SH_TBS_INCD","Israel","","","","",5.2
+2009,"SH_TBS_INCD","Israel","","","","",5.5
+2010,"SH_TBS_INCD","Israel","","","","",5.3
+2011,"SH_TBS_INCD","Israel","","","","",6.4
+2012,"SH_TBS_INCD","Israel","","","","",7.7
+2013,"SH_TBS_INCD","Israel","","","","",4.6
+2014,"SH_TBS_INCD","Israel","","","","",5.3
+2002,"SH_TBS_INCD","Switzerland","","","","",9.4
+2003,"SH_TBS_INCD","Switzerland","","","","",9
+2004,"SH_TBS_INCD","Switzerland","","","","",8.6
+2005,"SH_TBS_INCD","Switzerland","","","","",8
+2006,"SH_TBS_INCD","Switzerland","","","","",7.3
+2007,"SH_TBS_INCD","Switzerland","","","","",6.4
+2008,"SH_TBS_INCD","Switzerland","","","","",7
+2009,"SH_TBS_INCD","Switzerland","","","","",7.5
+2010,"SH_TBS_INCD","Switzerland","","","","",7.5
+2015,"SH_TBS_INCD","Israel","","","","",4
+2016,"SH_TBS_INCD","Israel","","","","",3.5
+2017,"SH_TBS_INCD","Israel","","","","",3.2
+2018,"SH_TBS_INCD","Israel","","","","",4
+2019,"SH_TBS_INCD","Israel","","","","",2.9
+2020,"SH_TBS_INCD","Israel","","","","",2.1
+2021,"SH_TBS_INCD","Israel","","","","",2.8
+2000,"SH_TBS_INCD","Italy","","","","",7.1
+2001,"SH_TBS_INCD","Italy","","","","",8.6
+2011,"SH_TBS_INCD","Switzerland","","","","",7.6
+2012,"SH_TBS_INCD","Switzerland","","","","",6
+2013,"SH_TBS_INCD","Switzerland","","","","",6.6
+2014,"SH_TBS_INCD","Switzerland","","","","",5.9
+2015,"SH_TBS_INCD","Switzerland","","","","",7.4
+2016,"SH_TBS_INCD","Switzerland","","","","",7.9
+2017,"SH_TBS_INCD","Switzerland","","","","",7.2
+2018,"SH_TBS_INCD","Switzerland","","","","",6.4
+2019,"SH_TBS_INCD","Switzerland","","","","",5.4
+2002,"SH_TBS_INCD","Italy","","","","",7.9
+2003,"SH_TBS_INCD","Italy","","","","",8.7
+2004,"SH_TBS_INCD","Italy","","","","",7.9
+2005,"SH_TBS_INCD","Italy","","","","",7.6
+2006,"SH_TBS_INCD","Italy","","","","",8.2
+2007,"SH_TBS_INCD","Italy","","","","",5.4
+2008,"SH_TBS_INCD","Italy","","","","",8
+2009,"SH_TBS_INCD","Italy","","","","",7.9
+2010,"SH_TBS_INCD","Italy","","","","",8.7
+2020,"SH_TBS_INCD","Switzerland","","","","",4.7
+2021,"SH_TBS_INCD","Switzerland","","","","",4.7
+2000,"SH_TBS_INCD","Tajikistan","","","","",219
+2001,"SH_TBS_INCD","Tajikistan","","","","",222
+2002,"SH_TBS_INCD","Tajikistan","","","","",220
+2003,"SH_TBS_INCD","Tajikistan","","","","",215
+2004,"SH_TBS_INCD","Tajikistan","","","","",207
+2005,"SH_TBS_INCD","Tajikistan","","","","",196
+2006,"SH_TBS_INCD","Tajikistan","","","","",183
+2011,"SH_TBS_INCD","Italy","","","","",6.6
+2012,"SH_TBS_INCD","Italy","","","","",5.9
+2013,"SH_TBS_INCD","Italy","","","","",5.8
+2014,"SH_TBS_INCD","Italy","","","","",6.4
+2015,"SH_TBS_INCD","Italy","","","","",6.6
+2016,"SH_TBS_INCD","Italy","","","","",7.2
+2017,"SH_TBS_INCD","Italy","","","","",7.3
+2018,"SH_TBS_INCD","Italy","","","","",7.3
+2019,"SH_TBS_INCD","Italy","","","","",6.1
+2007,"SH_TBS_INCD","Tajikistan","","","","",169
+2008,"SH_TBS_INCD","Tajikistan","","","","",155
+2009,"SH_TBS_INCD","Tajikistan","","","","",141
+2010,"SH_TBS_INCD","Tajikistan","","","","",128
+2011,"SH_TBS_INCD","Tajikistan","","","","",117
+2012,"SH_TBS_INCD","Tajikistan","","","","",108
+2013,"SH_TBS_INCD","Tajikistan","","","","",100
+2014,"SH_TBS_INCD","Tajikistan","","","","",91
+2015,"SH_TBS_INCD","Tajikistan","","","","",86
+2020,"SH_TBS_INCD","Italy","","","","",4.2
+2021,"SH_TBS_INCD","Italy","","","","",4.9
+2000,"SH_TBS_INCD","Japan","","","","",36
+2001,"SH_TBS_INCD","Japan","","","","",32
+2002,"SH_TBS_INCD","Japan","","","","",30
+2003,"SH_TBS_INCD","Japan","","","","",29
+2004,"SH_TBS_INCD","Japan","","","","",27
+2005,"SH_TBS_INCD","Japan","","","","",24
+2006,"SH_TBS_INCD","Japan","","","","",23
+2007,"SH_TBS_INCD","Japan","","","","",22
+2008,"SH_TBS_INCD","Japan","","","","",22
+2009,"SH_TBS_INCD","Japan","","","","",21
+2010,"SH_TBS_INCD","Japan","","","","",20
+2011,"SH_TBS_INCD","Japan","","","","",20
+2012,"SH_TBS_INCD","Japan","","","","",19
+2013,"SH_TBS_INCD","Japan","","","","",18
+2014,"SH_TBS_INCD","Japan","","","","",18
+2015,"SH_TBS_INCD","Japan","","","","",17
+2016,"SH_TBS_INCD","Tajikistan","","","","",85
+2017,"SH_TBS_INCD","Tajikistan","","","","",85
+2018,"SH_TBS_INCD","Tajikistan","","","","",84
+2019,"SH_TBS_INCD","Tajikistan","","","","",83
+2020,"SH_TBS_INCD","Tajikistan","","","","",80
+2021,"SH_TBS_INCD","Tajikistan","","","","",88
+2000,"SH_TBS_INCD","United Arab Emirates","","","","",4
+2001,"SH_TBS_INCD","United Arab Emirates","","","","",2.5
+2016,"SH_TBS_INCD","Japan","","","","",16
+2017,"SH_TBS_INCD","Japan","","","","",15
+2018,"SH_TBS_INCD","Japan","","","","",14
+2019,"SH_TBS_INCD","Japan","","","","",13
+2020,"SH_TBS_INCD","Japan","","","","",12
+2021,"SH_TBS_INCD","Japan","","","","",11
+2000,"SH_TBS_INCD","Kazakhstan","","","","",171
+2001,"SH_TBS_INCD","Kazakhstan","","","","",185
+2002,"SH_TBS_INCD","Kazakhstan","","","","",193
+2002,"SH_TBS_INCD","United Arab Emirates","","","","",2.8
+2003,"SH_TBS_INCD","United Arab Emirates","","","","",3.5
+2004,"SH_TBS_INCD","United Arab Emirates","","","","",2.6
+2005,"SH_TBS_INCD","United Arab Emirates","","","","",2.8
+2006,"SH_TBS_INCD","United Arab Emirates","","","","",2.1
+2007,"SH_TBS_INCD","United Arab Emirates","","","","",1.9
+2008,"SH_TBS_INCD","United Arab Emirates","","","","",1.5
+2009,"SH_TBS_INCD","United Arab Emirates","","","","",1.7
+2010,"SH_TBS_INCD","United Arab Emirates","","","","",1.8
+2003,"SH_TBS_INCD","Kazakhstan","","","","",196
+2004,"SH_TBS_INCD","Kazakhstan","","","","",195
+2005,"SH_TBS_INCD","Kazakhstan","","","","",187
+2006,"SH_TBS_INCD","Kazakhstan","","","","",175
+2007,"SH_TBS_INCD","Kazakhstan","","","","",164
+2008,"SH_TBS_INCD","Kazakhstan","","","","",158
+2009,"SH_TBS_INCD","Kazakhstan","","","","",152
+2010,"SH_TBS_INCD","Kazakhstan","","","","",144
+2011,"SH_TBS_INCD","Kazakhstan","","","","",135
+2011,"SH_TBS_INCD","United Arab Emirates","","","","",1.4
+2012,"SH_TBS_INCD","United Arab Emirates","","","","",1
+2013,"SH_TBS_INCD","United Arab Emirates","","","","",1.1
+2014,"SH_TBS_INCD","United Arab Emirates","","","","",0.78
+2015,"SH_TBS_INCD","United Arab Emirates","","","","",0.79
+2016,"SH_TBS_INCD","United Arab Emirates","","","","",0.82
+2017,"SH_TBS_INCD","United Arab Emirates","","","","",0.84
+2018,"SH_TBS_INCD","United Arab Emirates","","","","",1
+2019,"SH_TBS_INCD","United Arab Emirates","","","","",1
+2012,"SH_TBS_INCD","Kazakhstan","","","","",122
+2013,"SH_TBS_INCD","Kazakhstan","","","","",106
+2014,"SH_TBS_INCD","Kazakhstan","","","","",91
+2015,"SH_TBS_INCD","Kazakhstan","","","","",81
+2016,"SH_TBS_INCD","Kazakhstan","","","","",73
+2017,"SH_TBS_INCD","Kazakhstan","","","","",69
+2018,"SH_TBS_INCD","Kazakhstan","","","","",67
+2019,"SH_TBS_INCD","Kazakhstan","","","","",68
+2020,"SH_TBS_INCD","Kazakhstan","","","","",66
+2020,"SH_TBS_INCD","United Arab Emirates","","","","",0.77
+2021,"SH_TBS_INCD","United Arab Emirates","","","","",0.82
+2000,"SH_TBS_INCD","Türkiye","","","","",33
+2001,"SH_TBS_INCD","Türkiye","","","","",31
+2002,"SH_TBS_INCD","Türkiye","","","","",32
+2003,"SH_TBS_INCD","Türkiye","","","","",31
+2004,"SH_TBS_INCD","Türkiye","","","","",30
+2005,"SH_TBS_INCD","Türkiye","","","","",33
+2006,"SH_TBS_INCD","Türkiye","","","","",33
+2007,"SH_TBS_INCD","Türkiye","","","","",31
+2008,"SH_TBS_INCD","Türkiye","","","","",29
+2009,"SH_TBS_INCD","Türkiye","","","","",27
+2010,"SH_TBS_INCD","Türkiye","","","","",25
+2011,"SH_TBS_INCD","Türkiye","","","","",24
+2012,"SH_TBS_INCD","Türkiye","","","","",22
+2013,"SH_TBS_INCD","Türkiye","","","","",20
+2014,"SH_TBS_INCD","Türkiye","","","","",20
+2015,"SH_TBS_INCD","Türkiye","","","","",18
+2021,"SH_TBS_INCD","Kazakhstan","","","","",74
+2000,"SH_TBS_INCD","Republic of Korea","","","","",50
+2001,"SH_TBS_INCD","Republic of Korea","","","","",85
+2002,"SH_TBS_INCD","Republic of Korea","","","","",79
+2003,"SH_TBS_INCD","Republic of Korea","","","","",83
+2004,"SH_TBS_INCD","Republic of Korea","","","","",78
+2005,"SH_TBS_INCD","Republic of Korea","","","","",96
+2006,"SH_TBS_INCD","Republic of Korea","","","","",94
+2016,"SH_TBS_INCD","Türkiye","","","","",18
+2017,"SH_TBS_INCD","Türkiye","","","","",17
+2018,"SH_TBS_INCD","Türkiye","","","","",16
+2019,"SH_TBS_INCD","Türkiye","","","","",16
+2020,"SH_TBS_INCD","Türkiye","","","","",16
+2021,"SH_TBS_INCD","Türkiye","","","","",18
+2000,"SH_TBS_INCD","Turkmenistan","","","","",112
+2001,"SH_TBS_INCD","Turkmenistan","","","","",108
+2007,"SH_TBS_INCD","Republic of Korea","","","","",93
+2008,"SH_TBS_INCD","Republic of Korea","","","","",90
+2009,"SH_TBS_INCD","Republic of Korea","","","","",95
+2010,"SH_TBS_INCD","Republic of Korea","","","","",97
+2011,"SH_TBS_INCD","Republic of Korea","","","","",101
+2012,"SH_TBS_INCD","Republic of Korea","","","","",94
+2013,"SH_TBS_INCD","Republic of Korea","","","","",89
+2014,"SH_TBS_INCD","Republic of Korea","","","","",85
+2015,"SH_TBS_INCD","Republic of Korea","","","","",79
+2002,"SH_TBS_INCD","Turkmenistan","","","","",100
+2003,"SH_TBS_INCD","Turkmenistan","","","","",116
+2004,"SH_TBS_INCD","Turkmenistan","","","","",90
+2005,"SH_TBS_INCD","Turkmenistan","","","","",84
+2006,"SH_TBS_INCD","Turkmenistan","","","","",84
+2007,"SH_TBS_INCD","Turkmenistan","","","","",88
+2008,"SH_TBS_INCD","Turkmenistan","","","","",95
+2009,"SH_TBS_INCD","Turkmenistan","","","","",79
+2010,"SH_TBS_INCD","Turkmenistan","","","","",79
+2016,"SH_TBS_INCD","Republic of Korea","","","","",76
+2017,"SH_TBS_INCD","Republic of Korea","","","","",69
+2018,"SH_TBS_INCD","Republic of Korea","","","","",64
+2019,"SH_TBS_INCD","Republic of Korea","","","","",58
+2020,"SH_TBS_INCD","Republic of Korea","","","","",48
+2021,"SH_TBS_INCD","Republic of Korea","","","","",44
+2000,"SH_TBS_INCD","Kyrgyzstan","","","","",145
+2001,"SH_TBS_INCD","Kyrgyzstan","","","","",154
+2002,"SH_TBS_INCD","Kyrgyzstan","","","","",152
+2003,"SH_TBS_INCD","Kyrgyzstan","","","","",146
+2004,"SH_TBS_INCD","Kyrgyzstan","","","","",139
+2005,"SH_TBS_INCD","Kyrgyzstan","","","","",143
+2006,"SH_TBS_INCD","Kyrgyzstan","","","","",139
+2007,"SH_TBS_INCD","Kyrgyzstan","","","","",135
+2008,"SH_TBS_INCD","Kyrgyzstan","","","","",148
+2009,"SH_TBS_INCD","Kyrgyzstan","","","","",128
+2010,"SH_TBS_INCD","Kyrgyzstan","","","","",120
+2011,"SH_TBS_INCD","Kyrgyzstan","","","","",125
+2011,"SH_TBS_INCD","Turkmenistan","","","","",66
+2012,"SH_TBS_INCD","Turkmenistan","","","","",70
+2013,"SH_TBS_INCD","Turkmenistan","","","","",71
+2014,"SH_TBS_INCD","Turkmenistan","","","","",58
+2015,"SH_TBS_INCD","Turkmenistan","","","","",49
+2016,"SH_TBS_INCD","Turkmenistan","","","","",46
+2017,"SH_TBS_INCD","Turkmenistan","","","","",43
+2018,"SH_TBS_INCD","Turkmenistan","","","","",46
+2019,"SH_TBS_INCD","Turkmenistan","","","","",45
+2012,"SH_TBS_INCD","Kyrgyzstan","","","","",127
+2013,"SH_TBS_INCD","Kyrgyzstan","","","","",142
+2014,"SH_TBS_INCD","Kyrgyzstan","","","","",126
+2015,"SH_TBS_INCD","Kyrgyzstan","","","","",136
+2016,"SH_TBS_INCD","Kyrgyzstan","","","","",133
+2017,"SH_TBS_INCD","Kyrgyzstan","","","","",124
+2018,"SH_TBS_INCD","Kyrgyzstan","","","","",116
+2019,"SH_TBS_INCD","Kyrgyzstan","","","","",110
+2020,"SH_TBS_INCD","Kyrgyzstan","","","","",108
+2021,"SH_TBS_INCD","Kyrgyzstan","","","","",130
+2000,"SH_TBS_INCD","Latvia","","","","",95
+2001,"SH_TBS_INCD","Latvia","","","","",97
+2002,"SH_TBS_INCD","Latvia","","","","",89
+2003,"SH_TBS_INCD","Latvia","","","","",85
+2004,"SH_TBS_INCD","Latvia","","","","",80
+2005,"SH_TBS_INCD","Latvia","","","","",73
+2006,"SH_TBS_INCD","Latvia","","","","",67
+2007,"SH_TBS_INCD","Latvia","","","","",65
+2008,"SH_TBS_INCD","Latvia","","","","",56
+2009,"SH_TBS_INCD","Latvia","","","","",51
+2010,"SH_TBS_INCD","Latvia","","","","",50
+2011,"SH_TBS_INCD","Latvia","","","","",48
+2012,"SH_TBS_INCD","Latvia","","","","",54
+2013,"SH_TBS_INCD","Latvia","","","","",49
+2014,"SH_TBS_INCD","Latvia","","","","",42
+2015,"SH_TBS_INCD","Latvia","","","","",40
+2016,"SH_TBS_INCD","Latvia","","","","",37
+2020,"SH_TBS_INCD","Turkmenistan","","","","",46
+2021,"SH_TBS_INCD","Turkmenistan","","","","",47
+2000,"SH_TBS_INCD","Ukraine","","","","",114
+2001,"SH_TBS_INCD","Ukraine","","","","",119
+2002,"SH_TBS_INCD","Ukraine","","","","",123
+2003,"SH_TBS_INCD","Ukraine","","","","",126
+2004,"SH_TBS_INCD","Ukraine","","","","",127
+2005,"SH_TBS_INCD","Ukraine","","","","",127
+2006,"SH_TBS_INCD","Ukraine","","","","",125
+2017,"SH_TBS_INCD","Latvia","","","","",32
+2018,"SH_TBS_INCD","Latvia","","","","",28
+2019,"SH_TBS_INCD","Latvia","","","","",24
+2020,"SH_TBS_INCD","Latvia","","","","",20
+2021,"SH_TBS_INCD","Latvia","","","","",16
+2000,"SH_TBS_INCD","Lithuania","","","","",85
+2001,"SH_TBS_INCD","Lithuania","","","","",84
+2002,"SH_TBS_INCD","Lithuania","","","","",79
+2003,"SH_TBS_INCD","Lithuania","","","","",87
+2007,"SH_TBS_INCD","Ukraine","","","","",123
+2008,"SH_TBS_INCD","Ukraine","","","","",119
+2009,"SH_TBS_INCD","Ukraine","","","","",115
+2010,"SH_TBS_INCD","Ukraine","","","","",110
+2011,"SH_TBS_INCD","Ukraine","","","","",105
+2012,"SH_TBS_INCD","Ukraine","","","","",101
+2013,"SH_TBS_INCD","Ukraine","","","","",96
+2014,"SH_TBS_INCD","Ukraine","","","","",94
+2015,"SH_TBS_INCD","Ukraine","","","","",91
+2004,"SH_TBS_INCD","Lithuania","","","","",68
+2005,"SH_TBS_INCD","Lithuania","","","","",72
+2006,"SH_TBS_INCD","Lithuania","","","","",82
+2007,"SH_TBS_INCD","Lithuania","","","","",79
+2008,"SH_TBS_INCD","Lithuania","","","","",75
+2009,"SH_TBS_INCD","Lithuania","","","","",69
+2010,"SH_TBS_INCD","Lithuania","","","","",64
+2011,"SH_TBS_INCD","Lithuania","","","","",65
+2012,"SH_TBS_INCD","Lithuania","","","","",61
+2016,"SH_TBS_INCD","Ukraine","","","","",87
+2017,"SH_TBS_INCD","Ukraine","","","","",84
+2018,"SH_TBS_INCD","Ukraine","","","","",80
+2019,"SH_TBS_INCD","Ukraine","","","","",77
+2020,"SH_TBS_INCD","Ukraine","","","","",74
+2021,"SH_TBS_INCD","Ukraine","","","","",71
+2000,"SH_TBS_INCD","North Macedonia","","","","",39
+2001,"SH_TBS_INCD","North Macedonia","","","","",40
+2002,"SH_TBS_INCD","North Macedonia","","","","",42
+2013,"SH_TBS_INCD","Lithuania","","","","",60
+2014,"SH_TBS_INCD","Lithuania","","","","",57
+2015,"SH_TBS_INCD","Lithuania","","","","",54
+2016,"SH_TBS_INCD","Lithuania","","","","",53
+2017,"SH_TBS_INCD","Lithuania","","","","",50
+2018,"SH_TBS_INCD","Lithuania","","","","",43
+2019,"SH_TBS_INCD","Lithuania","","","","",41
+2020,"SH_TBS_INCD","Lithuania","","","","",28
+2021,"SH_TBS_INCD","Lithuania","","","","",26
+2003,"SH_TBS_INCD","North Macedonia","","","","",42
+2004,"SH_TBS_INCD","North Macedonia","","","","",39
+2005,"SH_TBS_INCD","North Macedonia","","","","",36
+2006,"SH_TBS_INCD","North Macedonia","","","","",34
+2007,"SH_TBS_INCD","North Macedonia","","","","",32
+2008,"SH_TBS_INCD","North Macedonia","","","","",27
+2009,"SH_TBS_INCD","North Macedonia","","","","",27
+2010,"SH_TBS_INCD","North Macedonia","","","","",23
+2011,"SH_TBS_INCD","North Macedonia","","","","",20
+2000,"SH_TBS_INCD","Luxembourg","","","","",12
+2001,"SH_TBS_INCD","Luxembourg","","","","",8.1
+2002,"SH_TBS_INCD","Luxembourg","","","","",8
+2003,"SH_TBS_INCD","Luxembourg","","","","",14
+2004,"SH_TBS_INCD","Luxembourg","","","","",7.8
+2005,"SH_TBS_INCD","Luxembourg","","","","",9.2
+2006,"SH_TBS_INCD","Luxembourg","","","","",8
+2007,"SH_TBS_INCD","Luxembourg","","","","",9.3
+2008,"SH_TBS_INCD","Luxembourg","","","","",6.6
+2012,"SH_TBS_INCD","North Macedonia","","","","",21
+2013,"SH_TBS_INCD","North Macedonia","","","","",19
+2014,"SH_TBS_INCD","North Macedonia","","","","",17
+2015,"SH_TBS_INCD","North Macedonia","","","","",17
+2016,"SH_TBS_INCD","North Macedonia","","","","",16
+2017,"SH_TBS_INCD","North Macedonia","","","","",13
+2018,"SH_TBS_INCD","North Macedonia","","","","",13
+2019,"SH_TBS_INCD","North Macedonia","","","","",12
+2020,"SH_TBS_INCD","North Macedonia","","","","",12
+2009,"SH_TBS_INCD","Luxembourg","","","","",6.2
+2010,"SH_TBS_INCD","Luxembourg","","","","",6.6
+2011,"SH_TBS_INCD","Luxembourg","","","","",5.5
+2012,"SH_TBS_INCD","Luxembourg","","","","",9.8
+2013,"SH_TBS_INCD","Luxembourg","","","","",8
+2014,"SH_TBS_INCD","Luxembourg","","","","",5
+2015,"SH_TBS_INCD","Luxembourg","","","","",6.1
+2016,"SH_TBS_INCD","Luxembourg","","","","",5.7
+2017,"SH_TBS_INCD","Luxembourg","","","","",6.2
+2021,"SH_TBS_INCD","North Macedonia","","","","",11
+2000,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",12
+2001,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",11
+2002,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",13
+2003,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",13
+2004,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",13
+2005,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2006,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2007,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2008,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2009,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2010,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",14
+2011,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2012,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",15
+2013,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",13
+2014,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",12
+2018,"SH_TBS_INCD","Luxembourg","","","","",7.9
+2019,"SH_TBS_INCD","Luxembourg","","","","",8.9
+2020,"SH_TBS_INCD","Luxembourg","","","","",5.8
+2021,"SH_TBS_INCD","Luxembourg","","","","",6.1
+2000,"SH_TBS_INCD","Malta","","","","",4.6
+2001,"SH_TBS_INCD","Malta","","","","",4.6
+2002,"SH_TBS_INCD","Malta","","","","",6.8
+2003,"SH_TBS_INCD","Malta","","","","",2
+2004,"SH_TBS_INCD","Malta","","","","",5.1
+2005,"SH_TBS_INCD","Malta","","","","",6.2
+2006,"SH_TBS_INCD","Malta","","","","",8.4
+2007,"SH_TBS_INCD","Malta","","","","",11
+2008,"SH_TBS_INCD","Malta","","","","",13
+2009,"SH_TBS_INCD","Malta","","","","",12
+2010,"SH_TBS_INCD","Malta","","","","",8
+2011,"SH_TBS_INCD","Malta","","","","",8.1
+2012,"SH_TBS_INCD","Malta","","","","",11
+2013,"SH_TBS_INCD","Malta","","","","",13
+2014,"SH_TBS_INCD","Malta","","","","",12
+2015,"SH_TBS_INCD","Malta","","","","",8.1
+2016,"SH_TBS_INCD","Malta","","","","",12
+2017,"SH_TBS_INCD","Malta","","","","",10
+2018,"SH_TBS_INCD","Malta","","","","",13
+2019,"SH_TBS_INCD","Malta","","","","",22
+2020,"SH_TBS_INCD","Malta","","","","",31
+2021,"SH_TBS_INCD","Malta","","","","",12
+2000,"SH_TBS_INCD","Mexico","","","","",23
+2015,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",10
+2016,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",9.9
+2017,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",8.9
+2018,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",8.1
+2019,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",8.1
+2020,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",7
+2021,"SH_TBS_INCD","United Kingdom of Great Britain and Northern Ireland","","","","",6.3
+2000,"SH_TBS_INCD","Uzbekistan","","","","",99
+2001,"SH_TBS_INCD","Mexico","","","","",24
+2002,"SH_TBS_INCD","Mexico","","","","",22
+2003,"SH_TBS_INCD","Mexico","","","","",23
+2004,"SH_TBS_INCD","Mexico","","","","",18
+2005,"SH_TBS_INCD","Mexico","","","","",22
+2006,"SH_TBS_INCD","Mexico","","","","",21
+2007,"SH_TBS_INCD","Mexico","","","","",21
+2008,"SH_TBS_INCD","Mexico","","","","",21
+2009,"SH_TBS_INCD","Mexico","","","","",21
+2010,"SH_TBS_INCD","Mexico","","","","",22
+2011,"SH_TBS_INCD","Mexico","","","","",21
+2012,"SH_TBS_INCD","Mexico","","","","",22
+2013,"SH_TBS_INCD","Mexico","","","","",22
+2014,"SH_TBS_INCD","Mexico","","","","",22
+2015,"SH_TBS_INCD","Mexico","","","","",22
+2016,"SH_TBS_INCD","Mexico","","","","",22
+2017,"SH_TBS_INCD","Mexico","","","","",23
+2018,"SH_TBS_INCD","Mexico","","","","",23
+2001,"SH_TBS_INCD","Uzbekistan","","","","",107
+2002,"SH_TBS_INCD","Uzbekistan","","","","",113
+2003,"SH_TBS_INCD","Uzbekistan","","","","",117
+2004,"SH_TBS_INCD","Uzbekistan","","","","",119
+2005,"SH_TBS_INCD","Uzbekistan","","","","",120
+2006,"SH_TBS_INCD","Uzbekistan","","","","",116
+2007,"SH_TBS_INCD","Uzbekistan","","","","",110
+2008,"SH_TBS_INCD","Uzbekistan","","","","",105
+2009,"SH_TBS_INCD","Uzbekistan","","","","",101
+2010,"SH_TBS_INCD","Uzbekistan","","","","",97
+2011,"SH_TBS_INCD","Uzbekistan","","","","",93
+2012,"SH_TBS_INCD","Uzbekistan","","","","",89
+2013,"SH_TBS_INCD","Uzbekistan","","","","",86
+2014,"SH_TBS_INCD","Uzbekistan","","","","",82
+2015,"SH_TBS_INCD","Uzbekistan","","","","",79
+2016,"SH_TBS_INCD","Uzbekistan","","","","",76
+2017,"SH_TBS_INCD","Uzbekistan","","","","",73
+2018,"SH_TBS_INCD","Uzbekistan","","","","",70
+2019,"SH_TBS_INCD","Mexico","","","","",23
+2020,"SH_TBS_INCD","Mexico","","","","",23
+2021,"SH_TBS_INCD","Mexico","","","","",25
+2019,"SH_TBS_INCD","Uzbekistan","","","","",67
+2020,"SH_TBS_INCD","Uzbekistan","","","","",65
+2021,"SH_TBS_INCD","Uzbekistan","","","","",62
+2015,"SH_TBS_INCD","Bulgaria","","","","",28
+2016,"SH_TBS_INCD","Bulgaria","","","","",27
+2017,"SH_TBS_INCD","Bulgaria","","","","",25
+2018,"SH_TBS_INCD","Bulgaria","","","","",23
+2019,"SH_TBS_INCD","Bulgaria","","","","",21
+2020,"SH_TBS_INCD","Bulgaria","","","","",19
+2021,"SH_TBS_INCD","Bulgaria","","","","",17
+2021,"SH_TBS_INCD","Bulgaria","","","","",17

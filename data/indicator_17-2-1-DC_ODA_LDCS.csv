@@ -1,0 +1,639 @@
+Year,SeriesCode,GeoAreaName,Value
+2000,"DC_ODA_LDCS","Australia",646.72907
+2001,"DC_ODA_LDCS","Australia",524.97282
+2002,"DC_ODA_LDCS","Australia",543.74898
+2003,"DC_ODA_LDCS","Australia",510.1342
+2004,"DC_ODA_LDCS","Australia",563.8257
+2005,"DC_ODA_LDCS","Australia",585.15928
+2006,"DC_ODA_LDCS","Australia",700.41628
+2007,"DC_ODA_LDCS","Australia",813.27273
+2008,"DC_ODA_LDCS","Australia",857.83597
+2009,"DC_ODA_LDCS","Australia",836.14947
+2010,"DC_ODA_LDCS","Australia",1059.15207
+2011,"DC_ODA_LDCS","Australia",1098.11747
+2012,"DC_ODA_LDCS","Australia",1300.26953
+2013,"DC_ODA_LDCS","Australia",1136.00378
+2014,"DC_ODA_LDCS","Australia",1130.28893
+2015,"DC_ODA_LDCS","Australia",986.73284
+2016,"DC_ODA_LDCS","Australia",936.24967
+2017,"DC_ODA_LDCS","Australia",881.14883
+2018,"DC_ODA_LDCS","Australia",909.63378
+2019,"DC_ODA_LDCS","Australia",717.03401
+2020,"DC_ODA_LDCS","Australia",726.3491
+2021,"DC_ODA_LDCS","Australia",736.22444
+2000,"DC_ODA_LDCS","Austria",213.17767
+2001,"DC_ODA_LDCS","Austria",265.6447
+2002,"DC_ODA_LDCS","Austria",315.40931
+2003,"DC_ODA_LDCS","Austria",249.82728
+2004,"DC_ODA_LDCS","Austria",223.63013
+2005,"DC_ODA_LDCS","Austria",310.28912
+2006,"DC_ODA_LDCS","Austria",308.44533
+2007,"DC_ODA_LDCS","Austria",282.04332
+2008,"DC_ODA_LDCS","Austria",300.55455
+2009,"DC_ODA_LDCS","Austria",364.96482
+2010,"DC_ODA_LDCS","Austria",501.47126
+2011,"DC_ODA_LDCS","Austria",301.76122
+2012,"DC_ODA_LDCS","Austria",263.71562
+2013,"DC_ODA_LDCS","Austria",352.54102
+2014,"DC_ODA_LDCS","Austria",366.51766
+2015,"DC_ODA_LDCS","Austria",262.93349
+2016,"DC_ODA_LDCS","Austria",291.2742
+2017,"DC_ODA_LDCS","Austria",332.22044
+2018,"DC_ODA_LDCS","Austria",338.33025
+2019,"DC_ODA_LDCS","Austria",347.02777
+2020,"DC_ODA_LDCS","Austria",322.50439
+2021,"DC_ODA_LDCS","Austria",330.49078
+2000,"DC_ODA_LDCS","Belgium",466.10108
+2001,"DC_ODA_LDCS","Belgium",595.28155
+2002,"DC_ODA_LDCS","Belgium",657.93458
+2003,"DC_ODA_LDCS","Belgium",1563.92525
+2004,"DC_ODA_LDCS","Belgium",844.18949
+2005,"DC_ODA_LDCS","Belgium",759.22367
+2006,"DC_ODA_LDCS","Belgium",875.76885
+2007,"DC_ODA_LDCS","Belgium",841.657
+2008,"DC_ODA_LDCS","Belgium",964.1425
+2009,"DC_ODA_LDCS","Belgium",997.72466
+2010,"DC_ODA_LDCS","Belgium",1555.08293
+2011,"DC_ODA_LDCS","Belgium",1069.52859
+2012,"DC_ODA_LDCS","Belgium",751.05171
+2013,"DC_ODA_LDCS","Belgium",829.05321
+2014,"DC_ODA_LDCS","Belgium",839.08287
+2015,"DC_ODA_LDCS","Belgium",727.13439
+2016,"DC_ODA_LDCS","Belgium",748.43213
+2017,"DC_ODA_LDCS","Belgium",735.25817
+2018,"DC_ODA_LDCS","Belgium",791.5848
+2019,"DC_ODA_LDCS","Belgium",799.36917
+2020,"DC_ODA_LDCS","Belgium",832.18277
+2021,"DC_ODA_LDCS","Belgium",834.84413
+2000,"DC_ODA_LDCS","Canada",655.19962
+2001,"DC_ODA_LDCS","Canada",588.2584
+2002,"DC_ODA_LDCS","Canada",772.44578
+2003,"DC_ODA_LDCS","Canada",1179.0907
+2004,"DC_ODA_LDCS","Canada",1163.6
+2005,"DC_ODA_LDCS","Canada",1424.76646
+2006,"DC_ODA_LDCS","Canada",1531.77487
+2007,"DC_ODA_LDCS","Canada",1745.298
+2008,"DC_ODA_LDCS","Canada",1996.07202
+2009,"DC_ODA_LDCS","Canada",1727.30329
+2010,"DC_ODA_LDCS","Canada",2348.74087
+2011,"DC_ODA_LDCS","Canada",1845.39173
+2012,"DC_ODA_LDCS","Canada",1847.72058
+2013,"DC_ODA_LDCS","Canada",1779.17875
+2014,"DC_ODA_LDCS","Canada",1416.60475
+2015,"DC_ODA_LDCS","Canada",1845.6476
+2016,"DC_ODA_LDCS","Canada",1632.01674
+2017,"DC_ODA_LDCS","Canada",1726.72962
+2018,"DC_ODA_LDCS","Canada",1877.40028
+2019,"DC_ODA_LDCS","Canada",1714.86705
+2020,"DC_ODA_LDCS","Canada",1659.99208
+2021,"DC_ODA_LDCS","Canada",1781.99762
+2000,"DC_ODA_LDCS","Czechia",10.37366
+2001,"DC_ODA_LDCS","Czechia",14.08587
+2002,"DC_ODA_LDCS","Czechia",14.27357
+2003,"DC_ODA_LDCS","Czechia",21.21444
+2004,"DC_ODA_LDCS","Czechia",36.96218
+2005,"DC_ODA_LDCS","Czechia",41.88486
+2006,"DC_ODA_LDCS","Czechia",49.75157
+2007,"DC_ODA_LDCS","Czechia",60.54196
+2008,"DC_ODA_LDCS","Czechia",97.95542
+2009,"DC_ODA_LDCS","Czechia",77.91586
+2010,"DC_ODA_LDCS","Czechia",77.97047
+2011,"DC_ODA_LDCS","Czechia",64.30176
+2012,"DC_ODA_LDCS","Czechia",65.13239
+2013,"DC_ODA_LDCS","Czechia",57.32237
+2014,"DC_ODA_LDCS","Czechia",58.24227
+2015,"DC_ODA_LDCS","Czechia",54.77826
+2016,"DC_ODA_LDCS","Czechia",72.17639
+2017,"DC_ODA_LDCS","Czechia",79.40891
+2018,"DC_ODA_LDCS","Czechia",72.69588
+2019,"DC_ODA_LDCS","Czechia",73.76733
+2020,"DC_ODA_LDCS","Czechia",68.11016
+2021,"DC_ODA_LDCS","Czechia",69.86284
+2000,"DC_ODA_LDCS","Denmark",1044.3872
+2001,"DC_ODA_LDCS","Denmark",1074.51937
+2002,"DC_ODA_LDCS","Denmark",982.77874
+2003,"DC_ODA_LDCS","Denmark",1002.16304
+2004,"DC_ODA_LDCS","Denmark",1008.43605
+2005,"DC_ODA_LDCS","Denmark",1029.62435
+2006,"DC_ODA_LDCS","Denmark",1059.80668
+2007,"DC_ODA_LDCS","Denmark",1155.8462
+2008,"DC_ODA_LDCS","Denmark",1084.37646
+2009,"DC_ODA_LDCS","Denmark",1110.90388
+2010,"DC_ODA_LDCS","Denmark",1145.33123
+2011,"DC_ODA_LDCS","Denmark",1059.64948
+2012,"DC_ODA_LDCS","Denmark",1029.66134
+2013,"DC_ODA_LDCS","Denmark",912.65935
+2014,"DC_ODA_LDCS","Denmark",878.68549
+2015,"DC_ODA_LDCS","Denmark",709.1565
+2016,"DC_ODA_LDCS","Denmark",757.49902
+2017,"DC_ODA_LDCS","Denmark",820.93285
+2018,"DC_ODA_LDCS","Denmark",776.3925
+2019,"DC_ODA_LDCS","Denmark",879.82382
+2020,"DC_ODA_LDCS","Denmark",824.2289
+2021,"DC_ODA_LDCS","Denmark",893.03915
+2000,"DC_ODA_LDCS","Finland",210.74745
+2001,"DC_ODA_LDCS","Finland",225.63246
+2002,"DC_ODA_LDCS","Finland",272.71537
+2003,"DC_ODA_LDCS","Finland",268.13444
+2004,"DC_ODA_LDCS","Finland",282.14291
+2005,"DC_ODA_LDCS","Finland",314.28705
+2006,"DC_ODA_LDCS","Finland",370.90276
+2007,"DC_ODA_LDCS","Finland",402.56467
+2008,"DC_ODA_LDCS","Finland",416.40384
+2009,"DC_ODA_LDCS","Finland",467.36431
+2010,"DC_ODA_LDCS","Finland",521.84405
+2011,"DC_ODA_LDCS","Finland",463.66954
+2012,"DC_ODA_LDCS","Finland",470.77799
+2013,"DC_ODA_LDCS","Finland",508.57904
+2014,"DC_ODA_LDCS","Finland",558.55745
+2015,"DC_ODA_LDCS","Finland",496.8348
+2016,"DC_ODA_LDCS","Finland",375.05026
+2017,"DC_ODA_LDCS","Finland",367.19
+2018,"DC_ODA_LDCS","Finland",332.08484
+2019,"DC_ODA_LDCS","Finland",404.80516
+2020,"DC_ODA_LDCS","Finland",404.64988
+2021,"DC_ODA_LDCS","Finland",483.80361
+2000,"DC_ODA_LDCS","France",2147.91677
+2001,"DC_ODA_LDCS","France",2164.21821
+2002,"DC_ODA_LDCS","France",2982.75719
+2003,"DC_ODA_LDCS","France",4051.88345
+2004,"DC_ODA_LDCS","France",4091.06871
+2005,"DC_ODA_LDCS","France",2573.1825
+2006,"DC_ODA_LDCS","France",2952.54999
+2007,"DC_ODA_LDCS","France",2973.0683
+2008,"DC_ODA_LDCS","France",2935.72154
+2009,"DC_ODA_LDCS","France",3153.03325
+2010,"DC_ODA_LDCS","France",3683.86434
+2011,"DC_ODA_LDCS","France",3422.19044
+2012,"DC_ODA_LDCS","France",2562.20135
+2013,"DC_ODA_LDCS","France",3159.62457
+2014,"DC_ODA_LDCS","France",2471.25647
+2015,"DC_ODA_LDCS","France",2722.02839
+2016,"DC_ODA_LDCS","France",2399.95978
+2017,"DC_ODA_LDCS","France",3072.90582
+2018,"DC_ODA_LDCS","France",3574.50857
+2019,"DC_ODA_LDCS","France",3206.0593
+2020,"DC_ODA_LDCS","France",4013.56248
+2021,"DC_ODA_LDCS","France",3887.32432
+2000,"DC_ODA_LDCS","Germany",2348.92696
+2001,"DC_ODA_LDCS","Germany",2213.09345
+2002,"DC_ODA_LDCS","Germany",2446.92689
+2003,"DC_ODA_LDCS","Germany",3520.92571
+2004,"DC_ODA_LDCS","Germany",2940.6219
+2005,"DC_ODA_LDCS","Germany",2327.15618
+2006,"DC_ODA_LDCS","Germany",3195.40198
+2007,"DC_ODA_LDCS","Germany",3307.22899
+2008,"DC_ODA_LDCS","Germany",3835.03773
+2009,"DC_ODA_LDCS","Germany",3533.28328
+2010,"DC_ODA_LDCS","Germany",3967.48472
+2011,"DC_ODA_LDCS","Germany",3764.57583
+2012,"DC_ODA_LDCS","Germany",4018.52568
+2013,"DC_ODA_LDCS","Germany",3492.44235
+2014,"DC_ODA_LDCS","Germany",3911.45285
+2015,"DC_ODA_LDCS","Germany",3107.29837
+2016,"DC_ODA_LDCS","Germany",4241.97015
+2017,"DC_ODA_LDCS","Germany",4686.92555
+2018,"DC_ODA_LDCS","Germany",5318.14015
+2019,"DC_ODA_LDCS","Germany",4933.65638
+2020,"DC_ODA_LDCS","Germany",6089.91653
+2021,"DC_ODA_LDCS","Germany",6384.18102
+2000,"DC_ODA_LDCS","Greece",47.09909
+2001,"DC_ODA_LDCS","Greece",50.95303
+2002,"DC_ODA_LDCS","Greece",88.3831
+2003,"DC_ODA_LDCS","Greece",67.84722
+2004,"DC_ODA_LDCS","Greece",70.96555
+2005,"DC_ODA_LDCS","Greece",84.02042
+2006,"DC_ODA_LDCS","Greece",102.61168
+2007,"DC_ODA_LDCS","Greece",98.69357
+2008,"DC_ODA_LDCS","Greece",125.64528
+2009,"DC_ODA_LDCS","Greece",96.18119
+2010,"DC_ODA_LDCS","Greece",91.84964
+2011,"DC_ODA_LDCS","Greece",54.68761
+2012,"DC_ODA_LDCS","Greece",44.50259
+2013,"DC_ODA_LDCS","Greece",39.19395
+2014,"DC_ODA_LDCS","Greece",44.49877
+2015,"DC_ODA_LDCS","Greece",40.91287
+2016,"DC_ODA_LDCS","Greece",51.10515
+2017,"DC_ODA_LDCS","Greece",59.89143
+2018,"DC_ODA_LDCS","Greece",60.87674
+2019,"DC_ODA_LDCS","Greece",53.21119
+2020,"DC_ODA_LDCS","Greece",51.12904
+2021,"DC_ODA_LDCS","Greece",57.91014
+2000,"DC_ODA_LDCS","Hungary",0
+2001,"DC_ODA_LDCS","Hungary",0
+2002,"DC_ODA_LDCS","Hungary",0
+2003,"DC_ODA_LDCS","Hungary",4.51243
+2004,"DC_ODA_LDCS","Hungary",17.70033
+2005,"DC_ODA_LDCS","Hungary",40.97699
+2006,"DC_ODA_LDCS","Hungary",25.71465
+2007,"DC_ODA_LDCS","Hungary",51.82579
+2008,"DC_ODA_LDCS","Hungary",32.96024
+2009,"DC_ODA_LDCS","Hungary",38.07992
+2010,"DC_ODA_LDCS","Hungary",41.64097
+2011,"DC_ODA_LDCS","Hungary",31.68595
+2012,"DC_ODA_LDCS","Hungary",27.1282
+2013,"DC_ODA_LDCS","Hungary",27.77726
+2014,"DC_ODA_LDCS","Hungary",29.59106
+2015,"DC_ODA_LDCS","Hungary",31.28885
+2016,"DC_ODA_LDCS","Hungary",47.93913
+2017,"DC_ODA_LDCS","Hungary",32.07375
+2018,"DC_ODA_LDCS","Hungary",71.75442
+2019,"DC_ODA_LDCS","Hungary",70.61453
+2020,"DC_ODA_LDCS","Hungary",55.50997
+2021,"DC_ODA_LDCS","Hungary",67.42006
+2000,"DC_ODA_LDCS","Iceland",6.04349
+2001,"DC_ODA_LDCS","Iceland",9.29666
+2002,"DC_ODA_LDCS","Iceland",6.99042
+2003,"DC_ODA_LDCS","Iceland",7.295
+2004,"DC_ODA_LDCS","Iceland",7.6763
+2005,"DC_ODA_LDCS","Iceland",11.96546
+2006,"DC_ODA_LDCS","Iceland",21.26262
+2007,"DC_ODA_LDCS","Iceland",19.18881
+2008,"DC_ODA_LDCS","Iceland",23.70757
+2009,"DC_ODA_LDCS","Iceland",20.94907
+2010,"DC_ODA_LDCS","Iceland",19.01056
+2011,"DC_ODA_LDCS","Iceland",15.05577
+2012,"DC_ODA_LDCS","Iceland",15.93447
+2013,"DC_ODA_LDCS","Iceland",20.73753
+2014,"DC_ODA_LDCS","Iceland",17.98332
+2015,"DC_ODA_LDCS","Iceland",20.56395
+2016,"DC_ODA_LDCS","Iceland",19.80188
+2017,"DC_ODA_LDCS","Iceland",19.36064
+2018,"DC_ODA_LDCS","Iceland",31.69123
+2019,"DC_ODA_LDCS","Iceland",25.89482
+2020,"DC_ODA_LDCS","Iceland",25.40709
+2021,"DC_ODA_LDCS","Iceland",27.70581
+2000,"DC_ODA_LDCS","Ireland",217.68724
+2001,"DC_ODA_LDCS","Ireland",267.12337
+2002,"DC_ODA_LDCS","Ireland",354.36574
+2003,"DC_ODA_LDCS","Ireland",357.53214
+2004,"DC_ODA_LDCS","Ireland",389.81054
+2005,"DC_ODA_LDCS","Ireland",410.10302
+2006,"DC_ODA_LDCS","Ireland",565.31937
+2007,"DC_ODA_LDCS","Ireland",589.67835
+2008,"DC_ODA_LDCS","Ireland",630.69448
+2009,"DC_ODA_LDCS","Ireland",515.02542
+2010,"DC_ODA_LDCS","Ireland",538.46702
+2011,"DC_ODA_LDCS","Ireland",485.41595
+2012,"DC_ODA_LDCS","Ireland",447.90074
+2013,"DC_ODA_LDCS","Ireland",440.42467
+2014,"DC_ODA_LDCS","Ireland",409.28174
+2015,"DC_ODA_LDCS","Ireland",385.21798
+2016,"DC_ODA_LDCS","Ireland",401.62082
+2017,"DC_ODA_LDCS","Ireland",391.35183
+2018,"DC_ODA_LDCS","Ireland",398.56991
+2019,"DC_ODA_LDCS","Ireland",393.2643
+2020,"DC_ODA_LDCS","Ireland",402.57803
+2021,"DC_ODA_LDCS","Ireland",424.36625
+2000,"DC_ODA_LDCS","Italy",930.37578
+2001,"DC_ODA_LDCS","Italy",1049.48725
+2002,"DC_ODA_LDCS","Italy",1988.95911
+2003,"DC_ODA_LDCS","Italy",1548.3521
+2004,"DC_ODA_LDCS","Italy",989.60113
+2005,"DC_ODA_LDCS","Italy",1685.76925
+2006,"DC_ODA_LDCS","Italy",892.36608
+2007,"DC_ODA_LDCS","Italy",1317.38597
+2008,"DC_ODA_LDCS","Italy",1566.78858
+2009,"DC_ODA_LDCS","Italy",1095.48153
+2010,"DC_ODA_LDCS","Italy",1131.82708
+2011,"DC_ODA_LDCS","Italy",1433.48499
+2012,"DC_ODA_LDCS","Italy",703.56336
+2013,"DC_ODA_LDCS","Italy",919.99647
+2014,"DC_ODA_LDCS","Italy",917.73867
+2015,"DC_ODA_LDCS","Italy",982.89494
+2016,"DC_ODA_LDCS","Italy",1099.22084
+2017,"DC_ODA_LDCS","Italy",1268.32416
+2018,"DC_ODA_LDCS","Italy",1360.54236
+2019,"DC_ODA_LDCS","Italy",1234.94898
+2020,"DC_ODA_LDCS","Italy",1114.70255
+2021,"DC_ODA_LDCS","Italy",1681.78144
+2000,"DC_ODA_LDCS","Japan",2378.60669
+2001,"DC_ODA_LDCS","Japan",2101.22394
+2002,"DC_ODA_LDCS","Japan",2141.39858
+2003,"DC_ODA_LDCS","Japan",2145.24297
+2004,"DC_ODA_LDCS","Japan",1966.29956
+2005,"DC_ODA_LDCS","Japan",2328.04545
+2006,"DC_ODA_LDCS","Japan",3478.84843
+2007,"DC_ODA_LDCS","Japan",2635.00907
+2008,"DC_ODA_LDCS","Japan",2418.9633
+2009,"DC_ODA_LDCS","Japan",2630.21141
+2010,"DC_ODA_LDCS","Japan",3577.97245
+2011,"DC_ODA_LDCS","Japan",3097.99341
+2012,"DC_ODA_LDCS","Japan",3497.55024
+2013,"DC_ODA_LDCS","Japan",6401.00588
+2014,"DC_ODA_LDCS","Japan",3619.92945
+2015,"DC_ODA_LDCS","Japan",4054.03534
+2016,"DC_ODA_LDCS","Japan",3930.04532
+2017,"DC_ODA_LDCS","Japan",5110.8283
+2018,"DC_ODA_LDCS","Japan",5420.55867
+2019,"DC_ODA_LDCS","Japan",5282.23326
+2020,"DC_ODA_LDCS","Japan",5737.16019
+2021,"DC_ODA_LDCS","Japan",5707.2276
+2000,"DC_ODA_LDCS","Republic of Korea",89
+2001,"DC_ODA_LDCS","Republic of Korea",83
+2002,"DC_ODA_LDCS","Republic of Korea",115
+2003,"DC_ODA_LDCS","Republic of Korea",156
+2004,"DC_ODA_LDCS","Republic of Korea",168
+2005,"DC_ODA_LDCS","Republic of Korea",254
+2006,"DC_ODA_LDCS","Republic of Korea",143
+2007,"DC_ODA_LDCS","Republic of Korea",220
+2008,"DC_ODA_LDCS","Republic of Korea",283
+2009,"DC_ODA_LDCS","Republic of Korea",335
+2010,"DC_ODA_LDCS","Republic of Korea",525
+2011,"DC_ODA_LDCS","Republic of Korea",526
+2012,"DC_ODA_LDCS","Republic of Korea",646
+2013,"DC_ODA_LDCS","Republic of Korea",766
+2014,"DC_ODA_LDCS","Republic of Korea",733
+2015,"DC_ODA_LDCS","Republic of Korea",778
+2016,"DC_ODA_LDCS","Republic of Korea",814
+2017,"DC_ODA_LDCS","Republic of Korea",798
+2018,"DC_ODA_LDCS","Republic of Korea",960
+2019,"DC_ODA_LDCS","Republic of Korea",1022
+2020,"DC_ODA_LDCS","Republic of Korea",938
+2021,"DC_ODA_LDCS","Republic of Korea",1009
+2001,"DC_ODA_LDCS","Lithuania",1
+2002,"DC_ODA_LDCS","Lithuania",1
+2003,"DC_ODA_LDCS","Lithuania",1
+2004,"DC_ODA_LDCS","Lithuania",5
+2005,"DC_ODA_LDCS","Lithuania",8
+2006,"DC_ODA_LDCS","Lithuania",16
+2007,"DC_ODA_LDCS","Lithuania",34
+2008,"DC_ODA_LDCS","Lithuania",24
+2009,"DC_ODA_LDCS","Lithuania",17
+2010,"DC_ODA_LDCS","Lithuania",24
+2011,"DC_ODA_LDCS","Lithuania",24
+2012,"DC_ODA_LDCS","Lithuania",28
+2013,"DC_ODA_LDCS","Lithuania",20
+2014,"DC_ODA_LDCS","Lithuania",10
+2015,"DC_ODA_LDCS","Lithuania",12
+2016,"DC_ODA_LDCS","Lithuania",13
+2017,"DC_ODA_LDCS","Lithuania",13
+2018,"DC_ODA_LDCS","Lithuania",14
+2019,"DC_ODA_LDCS","Lithuania",15
+2020,"DC_ODA_LDCS","Lithuania",13
+2021,"DC_ODA_LDCS","Lithuania",14
+2000,"DC_ODA_LDCS","Luxembourg",92
+2001,"DC_ODA_LDCS","Luxembourg",103
+2002,"DC_ODA_LDCS","Luxembourg",119
+2003,"DC_ODA_LDCS","Luxembourg",113
+2004,"DC_ODA_LDCS","Luxembourg",128
+2005,"DC_ODA_LDCS","Luxembourg",139
+2006,"DC_ODA_LDCS","Luxembourg",161
+2007,"DC_ODA_LDCS","Luxembourg",189
+2008,"DC_ODA_LDCS","Luxembourg",188
+2009,"DC_ODA_LDCS","Luxembourg",181
+2010,"DC_ODA_LDCS","Luxembourg",182
+2011,"DC_ODA_LDCS","Luxembourg",166
+2012,"DC_ODA_LDCS","Luxembourg",167
+2013,"DC_ODA_LDCS","Luxembourg",177
+2014,"DC_ODA_LDCS","Luxembourg",182
+2015,"DC_ODA_LDCS","Luxembourg",190
+2016,"DC_ODA_LDCS","Luxembourg",206
+2017,"DC_ODA_LDCS","Luxembourg",219
+2018,"DC_ODA_LDCS","Luxembourg",252
+2019,"DC_ODA_LDCS","Luxembourg",250
+2020,"DC_ODA_LDCS","Luxembourg",230
+2021,"DC_ODA_LDCS","Luxembourg",247
+2000,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1524
+2001,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1862
+2002,"DC_ODA_LDCS","Netherlands (Kingdom of the)",2033
+2003,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1949
+2004,"DC_ODA_LDCS","Netherlands (Kingdom of the)",2075
+2005,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1995
+2006,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1601
+2007,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1888
+2008,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1979
+2009,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1629
+2010,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1930
+2011,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1440
+2012,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1230
+2013,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1377
+2014,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1129
+2015,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1235
+2016,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1413
+2017,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1208
+2018,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1456
+2019,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1404
+2020,"DC_ODA_LDCS","Netherlands (Kingdom of the)",1192
+2021,"DC_ODA_LDCS","Netherlands (Kingdom of the)",933
+2000,"DC_ODA_LDCS","New Zealand",60
+2001,"DC_ODA_LDCS","New Zealand",64
+2002,"DC_ODA_LDCS","New Zealand",60
+2003,"DC_ODA_LDCS","New Zealand",72
+2004,"DC_ODA_LDCS","New Zealand",92
+2005,"DC_ODA_LDCS","New Zealand",86
+2006,"DC_ODA_LDCS","New Zealand",92
+2007,"DC_ODA_LDCS","New Zealand",90
+2008,"DC_ODA_LDCS","New Zealand",109
+2009,"DC_ODA_LDCS","New Zealand",113
+2010,"DC_ODA_LDCS","New Zealand",86
+2011,"DC_ODA_LDCS","New Zealand",105
+2012,"DC_ODA_LDCS","New Zealand",117
+2013,"DC_ODA_LDCS","New Zealand",113
+2014,"DC_ODA_LDCS","New Zealand",112
+2015,"DC_ODA_LDCS","New Zealand",129
+2016,"DC_ODA_LDCS","New Zealand",100
+2017,"DC_ODA_LDCS","New Zealand",120
+2018,"DC_ODA_LDCS","New Zealand",126
+2019,"DC_ODA_LDCS","New Zealand",139
+2020,"DC_ODA_LDCS","New Zealand",144
+2021,"DC_ODA_LDCS","New Zealand",147
+2000,"DC_ODA_LDCS","Norway",898
+2001,"DC_ODA_LDCS","Norway",966
+2002,"DC_ODA_LDCS","Norway",1247
+2003,"DC_ODA_LDCS","Norway",1336
+2004,"DC_ODA_LDCS","Norway",1316
+2005,"DC_ODA_LDCS","Norway",1313
+2006,"DC_ODA_LDCS","Norway",1348
+2007,"DC_ODA_LDCS","Norway",1373
+2008,"DC_ODA_LDCS","Norway",1331
+2009,"DC_ODA_LDCS","Norway",1316
+2010,"DC_ODA_LDCS","Norway",1331
+2011,"DC_ODA_LDCS","Norway",1257
+2012,"DC_ODA_LDCS","Norway",1144
+2013,"DC_ODA_LDCS","Norway",1256
+2014,"DC_ODA_LDCS","Norway",1240
+2015,"DC_ODA_LDCS","Norway",1260
+2016,"DC_ODA_LDCS","Norway",1257
+2017,"DC_ODA_LDCS","Norway",1341
+2018,"DC_ODA_LDCS","Norway",1318
+2019,"DC_ODA_LDCS","Norway",1346
+2020,"DC_ODA_LDCS","Norway",1527
+2021,"DC_ODA_LDCS","Norway",1243
+2000,"DC_ODA_LDCS","Poland",16
+2001,"DC_ODA_LDCS","Poland",44
+2002,"DC_ODA_LDCS","Poland",5
+2003,"DC_ODA_LDCS","Poland",6
+2004,"DC_ODA_LDCS","Poland",55
+2005,"DC_ODA_LDCS","Poland",64
+2006,"DC_ODA_LDCS","Poland",172
+2007,"DC_ODA_LDCS","Poland",73
+2008,"DC_ODA_LDCS","Poland",94
+2009,"DC_ODA_LDCS","Poland",103
+2010,"DC_ODA_LDCS","Poland",105
+2011,"DC_ODA_LDCS","Poland",81
+2012,"DC_ODA_LDCS","Poland",77
+2013,"DC_ODA_LDCS","Poland",121
+2014,"DC_ODA_LDCS","Poland",125
+2015,"DC_ODA_LDCS","Poland",142
+2016,"DC_ODA_LDCS","Poland",218
+2017,"DC_ODA_LDCS","Poland",126
+2018,"DC_ODA_LDCS","Poland",232
+2019,"DC_ODA_LDCS","Poland",145
+2020,"DC_ODA_LDCS","Poland",137
+2021,"DC_ODA_LDCS","Poland",154
+2000,"DC_ODA_LDCS","Portugal",295
+2001,"DC_ODA_LDCS","Portugal",299
+2002,"DC_ODA_LDCS","Portugal",334
+2003,"DC_ODA_LDCS","Portugal",233
+2004,"DC_ODA_LDCS","Portugal",1061
+2005,"DC_ODA_LDCS","Portugal",199
+2006,"DC_ODA_LDCS","Portugal",223
+2007,"DC_ODA_LDCS","Portugal",212
+2008,"DC_ODA_LDCS","Portugal",223
+2009,"DC_ODA_LDCS","Portugal",208
+2010,"DC_ODA_LDCS","Portugal",295
+2011,"DC_ODA_LDCS","Portugal",339
+2012,"DC_ODA_LDCS","Portugal",189
+2013,"DC_ODA_LDCS","Portugal",145
+2014,"DC_ODA_LDCS","Portugal",120
+2015,"DC_ODA_LDCS","Portugal",106
+2016,"DC_ODA_LDCS","Portugal",116
+2017,"DC_ODA_LDCS","Portugal",139
+2018,"DC_ODA_LDCS","Portugal",135
+2019,"DC_ODA_LDCS","Portugal",137
+2020,"DC_ODA_LDCS","Portugal",119
+2021,"DC_ODA_LDCS","Portugal",157
+2000,"DC_ODA_LDCS","Slovakia",0
+2001,"DC_ODA_LDCS","Slovakia",0
+2002,"DC_ODA_LDCS","Slovakia",3
+2003,"DC_ODA_LDCS","Slovakia",8
+2004,"DC_ODA_LDCS","Slovakia",11
+2005,"DC_ODA_LDCS","Slovakia",45
+2006,"DC_ODA_LDCS","Slovakia",36
+2007,"DC_ODA_LDCS","Slovakia",37
+2008,"DC_ODA_LDCS","Slovakia",42
+2009,"DC_ODA_LDCS","Slovakia",17
+2010,"DC_ODA_LDCS","Slovakia",20
+2011,"DC_ODA_LDCS","Slovakia",16
+2012,"DC_ODA_LDCS","Slovakia",16
+2013,"DC_ODA_LDCS","Slovakia",20
+2014,"DC_ODA_LDCS","Slovakia",17
+2015,"DC_ODA_LDCS","Slovakia",22
+2016,"DC_ODA_LDCS","Slovakia",22
+2017,"DC_ODA_LDCS","Slovakia",26
+2018,"DC_ODA_LDCS","Slovakia",27
+2019,"DC_ODA_LDCS","Slovakia",23
+2020,"DC_ODA_LDCS","Slovakia",23
+2021,"DC_ODA_LDCS","Slovakia",26
+2000,"DC_ODA_LDCS","Slovenia",0
+2001,"DC_ODA_LDCS","Slovenia",0
+2002,"DC_ODA_LDCS","Slovenia",0
+2003,"DC_ODA_LDCS","Slovenia",0
+2004,"DC_ODA_LDCS","Slovenia",0
+2005,"DC_ODA_LDCS","Slovenia",0
+2006,"DC_ODA_LDCS","Slovenia",0
+2007,"DC_ODA_LDCS","Slovenia",0
+2008,"DC_ODA_LDCS","Slovenia",13
+2009,"DC_ODA_LDCS","Slovenia",14
+2010,"DC_ODA_LDCS","Slovenia",14
+2011,"DC_ODA_LDCS","Slovenia",12
+2012,"DC_ODA_LDCS","Slovenia",11
+2013,"DC_ODA_LDCS","Slovenia",11
+2014,"DC_ODA_LDCS","Slovenia",11
+2015,"DC_ODA_LDCS","Slovenia",11
+2016,"DC_ODA_LDCS","Slovenia",16
+2017,"DC_ODA_LDCS","Slovenia",14
+2018,"DC_ODA_LDCS","Slovenia",14
+2019,"DC_ODA_LDCS","Slovenia",14
+2020,"DC_ODA_LDCS","Slovenia",13
+2021,"DC_ODA_LDCS","Slovenia",16
+2000,"DC_ODA_LDCS","Spain",324
+2001,"DC_ODA_LDCS","Spain",466.9
+2002,"DC_ODA_LDCS","Spain",556.2
+2003,"DC_ODA_LDCS","Spain",575.5
+2004,"DC_ODA_LDCS","Spain",596.1
+2005,"DC_ODA_LDCS","Spain",903.3
+2006,"DC_ODA_LDCS","Spain",819.4
+2007,"DC_ODA_LDCS","Spain",1064.3
+2008,"DC_ODA_LDCS","Spain",1367.0
+2009,"DC_ODA_LDCS","Spain",1555.5
+2010,"DC_ODA_LDCS","Spain",1545.6
+2011,"DC_ODA_LDCS","Spain",978.1
+2012,"DC_ODA_LDCS","Spain",473.3
+2013,"DC_ODA_LDCS","Spain",431.2
+2014,"DC_ODA_LDCS","Spain",469.6
+2015,"DC_ODA_LDCS","Spain",354.2
+2016,"DC_ODA_LDCS","Spain",634.5
+2017,"DC_ODA_LDCS","Spain",651.2
+2018,"DC_ODA_LDCS","Spain",721.8
+2019,"DC_ODA_LDCS","Spain",636.7
+2020,"DC_ODA_LDCS","Spain",631.0
+2021,"DC_ODA_LDCS","Spain",688.4
+2000,"DC_ODA_LDCS","Sweden",841.6
+2001,"DC_ODA_LDCS","Sweden",843.6
+2002,"DC_ODA_LDCS","Sweden",1030.2
+2003,"DC_ODA_LDCS","Sweden",1105.9
+2004,"DC_ODA_LDCS","Sweden",990.6
+2005,"DC_ODA_LDCS","Sweden",1323.8
+2006,"DC_ODA_LDCS","Sweden",1311.4
+2007,"DC_ODA_LDCS","Sweden",1410.9
+2008,"DC_ODA_LDCS","Sweden",1530.9
+2009,"DC_ODA_LDCS","Sweden",1543.0
+2010,"DC_ODA_LDCS","Sweden",1448.9
+2011,"DC_ODA_LDCS","Sweden",1775.9
+2012,"DC_ODA_LDCS","Sweden",1460.0
+2013,"DC_ODA_LDCS","Sweden",1628.0
+2014,"DC_ODA_LDCS","Sweden",1521.4
+2015,"DC_ODA_LDCS","Sweden",1655.3
+2016,"DC_ODA_LDCS","Sweden",1578.8
+2017,"DC_ODA_LDCS","Sweden",1878.1
+2018,"DC_ODA_LDCS","Sweden",2092.1
+2019,"DC_ODA_LDCS","Sweden",2046.5
+2020,"DC_ODA_LDCS","Sweden",2176.4
+2021,"DC_ODA_LDCS","Sweden",2103.2
+2000,"DC_ODA_LDCS","Switzerland",555.9
+2001,"DC_ODA_LDCS","Switzerland",540.5
+2002,"DC_ODA_LDCS","Switzerland",475.2
+2003,"DC_ODA_LDCS","Switzerland",653.1
+2004,"DC_ODA_LDCS","Switzerland",591.9
+2005,"DC_ODA_LDCS","Switzerland",584.0
+2006,"DC_ODA_LDCS","Switzerland",638.2
+2007,"DC_ODA_LDCS","Switzerland",646.2
+2008,"DC_ODA_LDCS","Switzerland",591.5
+2009,"DC_ODA_LDCS","Switzerland",815.3
+2010,"DC_ODA_LDCS","Switzerland",691.5
+2011,"DC_ODA_LDCS","Switzerland",763.1
+2012,"DC_ODA_LDCS","Switzerland",712.2
+2013,"DC_ODA_LDCS","Switzerland",822.4
+2014,"DC_ODA_LDCS","Switzerland",861.4
+2015,"DC_ODA_LDCS","Switzerland",975.6
+2016,"DC_ODA_LDCS","Switzerland",970.3
+2017,"DC_ODA_LDCS","Switzerland",1002.3
+2018,"DC_ODA_LDCS","Switzerland",1017.9
+2019,"DC_ODA_LDCS","Switzerland",1013.4
+2020,"DC_ODA_LDCS","Switzerland",1061.6
+2021,"DC_ODA_LDCS","Switzerland",1050.6
+2000,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",2187.5
+2001,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",2515.1
+2002,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",1873.9
+2003,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",2916.0
+2004,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",3347.7
+2005,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",2893.0
+2006,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",3875.3
+2007,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",3684.2
+2008,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",4170.1
+2009,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",4335.3
+2010,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",5139.8
+2011,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",5392.7
+2012,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",4778.2
+2013,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6360.8
+2014,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6372.1
+2015,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6300.4
+2016,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6437.4
+2017,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",7171.6
+2018,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",7149.2
+2019,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6587.0
+2020,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",6092.1
+2021,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",4335.8
+2021,"DC_ODA_LDCS","United Kingdom of Great Britain and Northern Ireland",4335.8

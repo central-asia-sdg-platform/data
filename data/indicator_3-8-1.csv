@@ -1,0 +1,436 @@
+Year,SeriesCode,GeoAreaName,Value
+2000,"SH_ACS_UNHC","Albania",43
+2005,"SH_ACS_UNHC","Albania",52
+2010,"SH_ACS_UNHC","Albania",57
+2015,"SH_ACS_UNHC","Albania",61
+2017,"SH_ACS_UNHC","Albania",61
+2019,"SH_ACS_UNHC","Albania",64
+2021,"SH_ACS_UNHC","Albania",64
+2000,"SH_ACS_UNHC","Azerbaijan",42
+2005,"SH_ACS_UNHC","Azerbaijan",38
+2010,"SH_ACS_UNHC","Azerbaijan",51
+2015,"SH_ACS_UNHC","Azerbaijan",62
+2017,"SH_ACS_UNHC","Azerbaijan",64
+2019,"SH_ACS_UNHC","Azerbaijan",67
+2021,"SH_ACS_UNHC","Azerbaijan",66
+2000,"SH_ACS_UNHC","Australia",81
+2005,"SH_ACS_UNHC","Australia",83
+2010,"SH_ACS_UNHC","Australia",84
+2015,"SH_ACS_UNHC","Australia",87
+2017,"SH_ACS_UNHC","Australia",87
+2019,"SH_ACS_UNHC","Australia",87
+2021,"SH_ACS_UNHC","Australia",87
+2000,"SH_ACS_UNHC","Austria",70
+2005,"SH_ACS_UNHC","Austria",77
+2010,"SH_ACS_UNHC","Austria",81
+2015,"SH_ACS_UNHC","Austria",84
+2017,"SH_ACS_UNHC","Austria",84
+2019,"SH_ACS_UNHC","Austria",84
+2021,"SH_ACS_UNHC","Austria",85
+2000,"SH_ACS_UNHC","Armenia",44
+2005,"SH_ACS_UNHC","Armenia",51
+2010,"SH_ACS_UNHC","Armenia",60
+2015,"SH_ACS_UNHC","Armenia",67
+2017,"SH_ACS_UNHC","Armenia",69
+2019,"SH_ACS_UNHC","Armenia",70
+2021,"SH_ACS_UNHC","Armenia",68
+2000,"SH_ACS_UNHC","Belgium",77
+2005,"SH_ACS_UNHC","Belgium",81
+2010,"SH_ACS_UNHC","Belgium",83
+2015,"SH_ACS_UNHC","Belgium",86
+2017,"SH_ACS_UNHC","Belgium",87
+2019,"SH_ACS_UNHC","Belgium",87
+2021,"SH_ACS_UNHC","Belgium",86
+2000,"SH_ACS_UNHC","Bosnia and Herzegovina",44
+2005,"SH_ACS_UNHC","Bosnia and Herzegovina",61
+2010,"SH_ACS_UNHC","Bosnia and Herzegovina",62
+2015,"SH_ACS_UNHC","Bosnia and Herzegovina",68
+2017,"SH_ACS_UNHC","Bosnia and Herzegovina",70
+2019,"SH_ACS_UNHC","Bosnia and Herzegovina",67
+2021,"SH_ACS_UNHC","Bosnia and Herzegovina",66
+2000,"SH_ACS_UNHC","Bulgaria",56
+2005,"SH_ACS_UNHC","Bulgaria",61
+2010,"SH_ACS_UNHC","Bulgaria",65
+2015,"SH_ACS_UNHC","Bulgaria",70
+2017,"SH_ACS_UNHC","Bulgaria",72
+2019,"SH_ACS_UNHC","Bulgaria",76
+2021,"SH_ACS_UNHC","Bulgaria",73
+2000,"SH_ACS_UNHC","Belarus",53
+2005,"SH_ACS_UNHC","Belarus",59
+2010,"SH_ACS_UNHC","Belarus",70
+2015,"SH_ACS_UNHC","Belarus",76
+2017,"SH_ACS_UNHC","Belarus",78
+2019,"SH_ACS_UNHC","Belarus",81
+2021,"SH_ACS_UNHC","Belarus",79
+2000,"SH_ACS_UNHC","Canada",74
+2005,"SH_ACS_UNHC","Canada",79
+2010,"SH_ACS_UNHC","Canada",83
+2015,"SH_ACS_UNHC","Canada",90
+2017,"SH_ACS_UNHC","Canada",90
+2019,"SH_ACS_UNHC","Canada",91
+2021,"SH_ACS_UNHC","Canada",91
+2000,"SH_ACS_UNHC","Chile",65
+2005,"SH_ACS_UNHC","Chile",74
+2010,"SH_ACS_UNHC","Chile",77
+2015,"SH_ACS_UNHC","Chile",79
+2017,"SH_ACS_UNHC","Chile",82
+2019,"SH_ACS_UNHC","Chile",82
+2021,"SH_ACS_UNHC","Chile",82
+2000,"SH_ACS_UNHC","China",47
+2005,"SH_ACS_UNHC","China",57
+2010,"SH_ACS_UNHC","China",66
+2015,"SH_ACS_UNHC","China",76
+2017,"SH_ACS_UNHC","China",79
+2019,"SH_ACS_UNHC","China",81
+2021,"SH_ACS_UNHC","China",81
+2000,"SH_ACS_UNHC","Colombia",52
+2005,"SH_ACS_UNHC","Colombia",63
+2010,"SH_ACS_UNHC","Colombia",68
+2015,"SH_ACS_UNHC","Colombia",78
+2017,"SH_ACS_UNHC","Colombia",80
+2019,"SH_ACS_UNHC","Colombia",80
+2021,"SH_ACS_UNHC","Colombia",80
+2000,"SH_ACS_UNHC","Costa Rica",66
+2005,"SH_ACS_UNHC","Costa Rica",70
+2010,"SH_ACS_UNHC","Costa Rica",75
+2015,"SH_ACS_UNHC","Costa Rica",77
+2017,"SH_ACS_UNHC","Costa Rica",81
+2019,"SH_ACS_UNHC","Costa Rica",82
+2021,"SH_ACS_UNHC","Costa Rica",81
+2000,"SH_ACS_UNHC","Croatia",71
+2005,"SH_ACS_UNHC","Croatia",74
+2010,"SH_ACS_UNHC","Croatia",77
+2015,"SH_ACS_UNHC","Croatia",78
+2017,"SH_ACS_UNHC","Croatia",79
+2019,"SH_ACS_UNHC","Croatia",80
+2021,"SH_ACS_UNHC","Croatia",80
+2000,"SH_ACS_UNHC","Cyprus",51
+2005,"SH_ACS_UNHC","Cyprus",67
+2010,"SH_ACS_UNHC","Cyprus",70
+2015,"SH_ACS_UNHC","Cyprus",78
+2017,"SH_ACS_UNHC","Cyprus",81
+2019,"SH_ACS_UNHC","Cyprus",81
+2021,"SH_ACS_UNHC","Cyprus",81
+2000,"SH_ACS_UNHC","Czechia",77
+2005,"SH_ACS_UNHC","Czechia",77
+2010,"SH_ACS_UNHC","Czechia",80
+2015,"SH_ACS_UNHC","Czechia",82
+2017,"SH_ACS_UNHC","Czechia",84
+2019,"SH_ACS_UNHC","Czechia",83
+2021,"SH_ACS_UNHC","Czechia",84
+2000,"SH_ACS_UNHC","Denmark",72
+2005,"SH_ACS_UNHC","Denmark",74
+2010,"SH_ACS_UNHC","Denmark",77
+2015,"SH_ACS_UNHC","Denmark",80
+2017,"SH_ACS_UNHC","Denmark",81
+2019,"SH_ACS_UNHC","Denmark",82
+2021,"SH_ACS_UNHC","Denmark",82
+2000,"SH_ACS_UNHC","Estonia",60
+2005,"SH_ACS_UNHC","Estonia",62
+2010,"SH_ACS_UNHC","Estonia",72
+2015,"SH_ACS_UNHC","Estonia",77
+2017,"SH_ACS_UNHC","Estonia",78
+2019,"SH_ACS_UNHC","Estonia",79
+2021,"SH_ACS_UNHC","Estonia",79
+2000,"SH_ACS_UNHC","Finland",75
+2005,"SH_ACS_UNHC","Finland",81
+2010,"SH_ACS_UNHC","Finland",84
+2015,"SH_ACS_UNHC","Finland",86
+2017,"SH_ACS_UNHC","Finland",85
+2019,"SH_ACS_UNHC","Finland",85
+2021,"SH_ACS_UNHC","Finland",86
+2000,"SH_ACS_UNHC","France",79
+2005,"SH_ACS_UNHC","France",81
+2010,"SH_ACS_UNHC","France",82
+2015,"SH_ACS_UNHC","France",84
+2017,"SH_ACS_UNHC","France",85
+2019,"SH_ACS_UNHC","France",84
+2021,"SH_ACS_UNHC","France",85
+2000,"SH_ACS_UNHC","Georgia",47
+2005,"SH_ACS_UNHC","Georgia",61
+2010,"SH_ACS_UNHC","Georgia",69
+2015,"SH_ACS_UNHC","Georgia",71
+2017,"SH_ACS_UNHC","Georgia",70
+2019,"SH_ACS_UNHC","Georgia",69
+2021,"SH_ACS_UNHC","Georgia",68
+2000,"SH_ACS_UNHC","Germany",79
+2005,"SH_ACS_UNHC","Germany",83
+2010,"SH_ACS_UNHC","Germany",85
+2015,"SH_ACS_UNHC","Germany",88
+2017,"SH_ACS_UNHC","Germany",88
+2019,"SH_ACS_UNHC","Germany",88
+2021,"SH_ACS_UNHC","Germany",88
+2000,"SH_ACS_UNHC","Greece",69
+2005,"SH_ACS_UNHC","Greece",73
+2010,"SH_ACS_UNHC","Greece",75
+2015,"SH_ACS_UNHC","Greece",78
+2017,"SH_ACS_UNHC","Greece",79
+2019,"SH_ACS_UNHC","Greece",79
+2021,"SH_ACS_UNHC","Greece",77
+2000,"SH_ACS_UNHC","Hungary",70
+2005,"SH_ACS_UNHC","Hungary",72
+2010,"SH_ACS_UNHC","Hungary",73
+2015,"SH_ACS_UNHC","Hungary",78
+2017,"SH_ACS_UNHC","Hungary",79
+2019,"SH_ACS_UNHC","Hungary",79
+2021,"SH_ACS_UNHC","Hungary",79
+2000,"SH_ACS_UNHC","Iceland",78
+2005,"SH_ACS_UNHC","Iceland",83
+2010,"SH_ACS_UNHC","Iceland",85
+2015,"SH_ACS_UNHC","Iceland",87
+2017,"SH_ACS_UNHC","Iceland",87
+2019,"SH_ACS_UNHC","Iceland",89
+2021,"SH_ACS_UNHC","Iceland",89
+2000,"SH_ACS_UNHC","India",30
+2005,"SH_ACS_UNHC","India",34
+2010,"SH_ACS_UNHC","India",49
+2015,"SH_ACS_UNHC","India",57
+2017,"SH_ACS_UNHC","India",60
+2019,"SH_ACS_UNHC","India",64
+2021,"SH_ACS_UNHC","India",63
+2000,"SH_ACS_UNHC","Ireland",72
+2005,"SH_ACS_UNHC","Ireland",76
+2010,"SH_ACS_UNHC","Ireland",77
+2015,"SH_ACS_UNHC","Ireland",82
+2017,"SH_ACS_UNHC","Ireland",82
+2019,"SH_ACS_UNHC","Ireland",82
+2021,"SH_ACS_UNHC","Ireland",83
+2000,"SH_ACS_UNHC","Israel",72
+2005,"SH_ACS_UNHC","Israel",76
+2010,"SH_ACS_UNHC","Israel",79
+2015,"SH_ACS_UNHC","Israel",82
+2017,"SH_ACS_UNHC","Israel",84
+2019,"SH_ACS_UNHC","Israel",85
+2021,"SH_ACS_UNHC","Israel",85
+2000,"SH_ACS_UNHC","Italy",70
+2005,"SH_ACS_UNHC","Italy",76
+2010,"SH_ACS_UNHC","Italy",80
+2015,"SH_ACS_UNHC","Italy",83
+2017,"SH_ACS_UNHC","Italy",84
+2019,"SH_ACS_UNHC","Italy",85
+2021,"SH_ACS_UNHC","Italy",84
+2000,"SH_ACS_UNHC","Japan",70
+2005,"SH_ACS_UNHC","Japan",76
+2010,"SH_ACS_UNHC","Japan",80
+2015,"SH_ACS_UNHC","Japan",83
+2017,"SH_ACS_UNHC","Japan",84
+2019,"SH_ACS_UNHC","Japan",83
+2021,"SH_ACS_UNHC","Japan",83
+2000,"SH_ACS_UNHC","Kazakhstan",56
+2005,"SH_ACS_UNHC","Kazakhstan",64
+2010,"SH_ACS_UNHC","Kazakhstan",70
+2015,"SH_ACS_UNHC","Kazakhstan",77
+2017,"SH_ACS_UNHC","Kazakhstan",79
+2019,"SH_ACS_UNHC","Kazakhstan",82
+2021,"SH_ACS_UNHC","Kazakhstan",80
+2000,"SH_ACS_UNHC","Republic of Korea",73
+2005,"SH_ACS_UNHC","Republic of Korea",77
+2010,"SH_ACS_UNHC","Republic of Korea",82
+2015,"SH_ACS_UNHC","Republic of Korea",86
+2017,"SH_ACS_UNHC","Republic of Korea",88
+2019,"SH_ACS_UNHC","Republic of Korea",89
+2021,"SH_ACS_UNHC","Republic of Korea",89
+2000,"SH_ACS_UNHC","Kyrgyzstan",51
+2005,"SH_ACS_UNHC","Kyrgyzstan",55
+2010,"SH_ACS_UNHC","Kyrgyzstan",59
+2015,"SH_ACS_UNHC","Kyrgyzstan",69
+2017,"SH_ACS_UNHC","Kyrgyzstan",71
+2019,"SH_ACS_UNHC","Kyrgyzstan",71
+2021,"SH_ACS_UNHC","Kyrgyzstan",69
+2000,"SH_ACS_UNHC","Latvia",52
+2005,"SH_ACS_UNHC","Latvia",58
+2010,"SH_ACS_UNHC","Latvia",65
+2015,"SH_ACS_UNHC","Latvia",70
+2017,"SH_ACS_UNHC","Latvia",75
+2019,"SH_ACS_UNHC","Latvia",76
+2021,"SH_ACS_UNHC","Latvia",75
+2000,"SH_ACS_UNHC","Lithuania",51
+2005,"SH_ACS_UNHC","Lithuania",57
+2010,"SH_ACS_UNHC","Lithuania",63
+2015,"SH_ACS_UNHC","Lithuania",70
+2017,"SH_ACS_UNHC","Lithuania",72
+2019,"SH_ACS_UNHC","Lithuania",75
+2021,"SH_ACS_UNHC","Lithuania",75
+2000,"SH_ACS_UNHC","Luxembourg",74
+2005,"SH_ACS_UNHC","Luxembourg",75
+2010,"SH_ACS_UNHC","Luxembourg",77
+2015,"SH_ACS_UNHC","Luxembourg",84
+2017,"SH_ACS_UNHC","Luxembourg",85
+2019,"SH_ACS_UNHC","Luxembourg",86
+2021,"SH_ACS_UNHC","Luxembourg",83
+2000,"SH_ACS_UNHC","Malta",75
+2005,"SH_ACS_UNHC","Malta",77
+2010,"SH_ACS_UNHC","Malta",79
+2015,"SH_ACS_UNHC","Malta",85
+2017,"SH_ACS_UNHC","Malta",85
+2019,"SH_ACS_UNHC","Malta",83
+2021,"SH_ACS_UNHC","Malta",85
+2000,"SH_ACS_UNHC","Mexico",56
+2005,"SH_ACS_UNHC","Mexico",61
+2010,"SH_ACS_UNHC","Mexico",66
+2015,"SH_ACS_UNHC","Mexico",74
+2017,"SH_ACS_UNHC","Mexico",74
+2019,"SH_ACS_UNHC","Mexico",74
+2021,"SH_ACS_UNHC","Mexico",75
+2000,"SH_ACS_UNHC","Republic of Moldova",51
+2005,"SH_ACS_UNHC","Republic of Moldova",54
+2010,"SH_ACS_UNHC","Republic of Moldova",63
+2015,"SH_ACS_UNHC","Republic of Moldova",70
+2017,"SH_ACS_UNHC","Republic of Moldova",71
+2019,"SH_ACS_UNHC","Republic of Moldova",72
+2021,"SH_ACS_UNHC","Republic of Moldova",71
+2000,"SH_ACS_UNHC","Montenegro",60
+2005,"SH_ACS_UNHC","Montenegro",64
+2010,"SH_ACS_UNHC","Montenegro",67
+2015,"SH_ACS_UNHC","Montenegro",69
+2017,"SH_ACS_UNHC","Montenegro",71
+2019,"SH_ACS_UNHC","Montenegro",72
+2021,"SH_ACS_UNHC","Montenegro",72
+2000,"SH_ACS_UNHC","Netherlands (Kingdom of the)",75
+2005,"SH_ACS_UNHC","Netherlands (Kingdom of the)",78
+2010,"SH_ACS_UNHC","Netherlands (Kingdom of the)",80
+2015,"SH_ACS_UNHC","Netherlands (Kingdom of the)",84
+2017,"SH_ACS_UNHC","Netherlands (Kingdom of the)",85
+2019,"SH_ACS_UNHC","Netherlands (Kingdom of the)",85
+2021,"SH_ACS_UNHC","Netherlands (Kingdom of the)",85
+2000,"SH_ACS_UNHC","New Zealand",75
+2005,"SH_ACS_UNHC","New Zealand",80
+2010,"SH_ACS_UNHC","New Zealand",82
+2015,"SH_ACS_UNHC","New Zealand",85
+2017,"SH_ACS_UNHC","New Zealand",86
+2019,"SH_ACS_UNHC","New Zealand",85
+2021,"SH_ACS_UNHC","New Zealand",85
+2000,"SH_ACS_UNHC","Norway",72
+2005,"SH_ACS_UNHC","Norway",81
+2010,"SH_ACS_UNHC","Norway",84
+2015,"SH_ACS_UNHC","Norway",86
+2017,"SH_ACS_UNHC","Norway",86
+2019,"SH_ACS_UNHC","Norway",86
+2021,"SH_ACS_UNHC","Norway",87
+2000,"SH_ACS_UNHC","Poland",66
+2005,"SH_ACS_UNHC","Poland",71
+2010,"SH_ACS_UNHC","Poland",75
+2015,"SH_ACS_UNHC","Poland",80
+2017,"SH_ACS_UNHC","Poland",82
+2019,"SH_ACS_UNHC","Poland",82
+2021,"SH_ACS_UNHC","Poland",82
+2000,"SH_ACS_UNHC","Portugal",74
+2005,"SH_ACS_UNHC","Portugal",80
+2010,"SH_ACS_UNHC","Portugal",84
+2015,"SH_ACS_UNHC","Portugal",87
+2017,"SH_ACS_UNHC","Portugal",88
+2019,"SH_ACS_UNHC","Portugal",87
+2021,"SH_ACS_UNHC","Portugal",88
+2000,"SH_ACS_UNHC","Romania",69
+2005,"SH_ACS_UNHC","Romania",72
+2010,"SH_ACS_UNHC","Romania",74
+2015,"SH_ACS_UNHC","Romania",78
+2017,"SH_ACS_UNHC","Romania",78
+2019,"SH_ACS_UNHC","Romania",79
+2021,"SH_ACS_UNHC","Romania",78
+2000,"SH_ACS_UNHC","Serbia",44
+2005,"SH_ACS_UNHC","Serbia",63
+2010,"SH_ACS_UNHC","Serbia",63
+2015,"SH_ACS_UNHC","Serbia",72
+2017,"SH_ACS_UNHC","Serbia",73
+2019,"SH_ACS_UNHC","Serbia",77
+2021,"SH_ACS_UNHC","Serbia",72
+2000,"SH_ACS_UNHC","Slovakia",65
+2005,"SH_ACS_UNHC","Slovakia",73
+2010,"SH_ACS_UNHC","Slovakia",76
+2015,"SH_ACS_UNHC","Slovakia",82
+2017,"SH_ACS_UNHC","Slovakia",84
+2019,"SH_ACS_UNHC","Slovakia",82
+2021,"SH_ACS_UNHC","Slovakia",82
+2000,"SH_ACS_UNHC","Viet Nam",37
+2005,"SH_ACS_UNHC","Viet Nam",44
+2010,"SH_ACS_UNHC","Viet Nam",59
+2015,"SH_ACS_UNHC","Viet Nam",68
+2017,"SH_ACS_UNHC","Viet Nam",70
+2019,"SH_ACS_UNHC","Viet Nam",69
+2021,"SH_ACS_UNHC","Viet Nam",68
+2000,"SH_ACS_UNHC","Slovenia",73
+2005,"SH_ACS_UNHC","Slovenia",74
+2010,"SH_ACS_UNHC","Slovenia",77
+2015,"SH_ACS_UNHC","Slovenia",81
+2017,"SH_ACS_UNHC","Slovenia",83
+2019,"SH_ACS_UNHC","Slovenia",85
+2021,"SH_ACS_UNHC","Slovenia",84
+2000,"SH_ACS_UNHC","Spain",69
+2005,"SH_ACS_UNHC","Spain",74
+2010,"SH_ACS_UNHC","Spain",78
+2015,"SH_ACS_UNHC","Spain",85
+2017,"SH_ACS_UNHC","Spain",86
+2019,"SH_ACS_UNHC","Spain",85
+2021,"SH_ACS_UNHC","Spain",85
+2000,"SH_ACS_UNHC","Sweden",72
+2005,"SH_ACS_UNHC","Sweden",76
+2010,"SH_ACS_UNHC","Sweden",81
+2015,"SH_ACS_UNHC","Sweden",84
+2017,"SH_ACS_UNHC","Sweden",85
+2019,"SH_ACS_UNHC","Sweden",85
+2021,"SH_ACS_UNHC","Sweden",85
+2000,"SH_ACS_UNHC","Switzerland",75
+2005,"SH_ACS_UNHC","Switzerland",79
+2010,"SH_ACS_UNHC","Switzerland",82
+2015,"SH_ACS_UNHC","Switzerland",84
+2017,"SH_ACS_UNHC","Switzerland",86
+2019,"SH_ACS_UNHC","Switzerland",86
+2021,"SH_ACS_UNHC","Switzerland",86
+2000,"SH_ACS_UNHC","Tajikistan",42
+2005,"SH_ACS_UNHC","Tajikistan",46
+2010,"SH_ACS_UNHC","Tajikistan",58
+2015,"SH_ACS_UNHC","Tajikistan",68
+2017,"SH_ACS_UNHC","Tajikistan",69
+2019,"SH_ACS_UNHC","Tajikistan",70
+2021,"SH_ACS_UNHC","Tajikistan",67
+2000,"SH_ACS_UNHC","United Arab Emirates",48
+2005,"SH_ACS_UNHC","United Arab Emirates",59
+2010,"SH_ACS_UNHC","United Arab Emirates",62
+2015,"SH_ACS_UNHC","United Arab Emirates",72
+2017,"SH_ACS_UNHC","United Arab Emirates",73
+2019,"SH_ACS_UNHC","United Arab Emirates",75
+2021,"SH_ACS_UNHC","United Arab Emirates",82
+2000,"SH_ACS_UNHC","Türkiye",57
+2005,"SH_ACS_UNHC","Türkiye",64
+2010,"SH_ACS_UNHC","Türkiye",66
+2015,"SH_ACS_UNHC","Türkiye",76
+2017,"SH_ACS_UNHC","Türkiye",77
+2019,"SH_ACS_UNHC","Türkiye",77
+2021,"SH_ACS_UNHC","Türkiye",76
+2000,"SH_ACS_UNHC","Turkmenistan",54
+2005,"SH_ACS_UNHC","Turkmenistan",62
+2010,"SH_ACS_UNHC","Turkmenistan",68
+2015,"SH_ACS_UNHC","Turkmenistan",72
+2017,"SH_ACS_UNHC","Turkmenistan",73
+2019,"SH_ACS_UNHC","Turkmenistan",74
+2021,"SH_ACS_UNHC","Turkmenistan",75
+2000,"SH_ACS_UNHC","Ukraine",53
+2005,"SH_ACS_UNHC","Ukraine",54
+2010,"SH_ACS_UNHC","Ukraine",65
+2015,"SH_ACS_UNHC","Ukraine",69
+2017,"SH_ACS_UNHC","Ukraine",71
+2019,"SH_ACS_UNHC","Ukraine",77
+2021,"SH_ACS_UNHC","Ukraine",76
+2000,"SH_ACS_UNHC","North Macedonia",58
+2005,"SH_ACS_UNHC","North Macedonia",58
+2010,"SH_ACS_UNHC","North Macedonia",64
+2015,"SH_ACS_UNHC","North Macedonia",73
+2017,"SH_ACS_UNHC","North Macedonia",74
+2019,"SH_ACS_UNHC","North Macedonia",74
+2021,"SH_ACS_UNHC","North Macedonia",74
+2000,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",72
+2005,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",79
+2010,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",83
+2015,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",85
+2017,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",86
+2019,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",87
+2021,"SH_ACS_UNHC","United Kingdom of Great Britain and Northern Ireland",88
+2000,"SH_ACS_UNHC","Uzbekistan",55
+2005,"SH_ACS_UNHC","Uzbekistan",56
+2010,"SH_ACS_UNHC","Uzbekistan",68
+2015,"SH_ACS_UNHC","Uzbekistan",73
+2017,"SH_ACS_UNHC","Uzbekistan",74
+2019,"SH_ACS_UNHC","Uzbekistan",75
+2021,"SH_ACS_UNHC","Uzbekistan",75
+2021,"SH_ACS_UNHC","Uzbekistan",75
