@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Показатели"
+            "title": "Series"
           },
           {
             "name": "GeoAreaName",
@@ -108,7 +108,7 @@
                 ""
               ]
             },
-            "title": "Страна"
+            "title": "Страна "
           },
           {
             "name": "Quantile",

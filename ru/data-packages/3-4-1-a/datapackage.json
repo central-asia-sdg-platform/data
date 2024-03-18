@@ -1,0 +1,116 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SP_DYN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Женщины",
+                "Всего",
+                "Мужчины",
+                ""
+              ]
+            },
+            "title": "Пол"
+          },
+          {
+            "name": "Country Name",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Казахстан",
+                "Kyrgyz Republic",
+                "Таджикистан",
+                "Туркменистан",
+                "Узбекистан",
+                "Albania",
+                "Armenia",
+                "Azerbaijan",
+                "Belarus",
+                "Bosnia and Herzegovina",
+                "Georgia",
+                "Montenegro",
+                "North Macedonia",
+                "Moldova",
+                "Serbia",
+                "Turkiye",
+                "Ukraine",
+                "Australia",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "India",
+                "Israel",
+                "Japan",
+                "Mexico",
+                "New Zealand",
+                "Korea, Rep.",
+                "United Arab Emirates",
+                "Viet Nam",
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Latvia",
+                "Liechtenstein",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovak Republic",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom",
+                ""
+              ]
+            },
+            "title": "Country Name"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-4-1-a",
+  "title": "Ожидаемая продолжительность жизни при рожденнии (лет)"
+}

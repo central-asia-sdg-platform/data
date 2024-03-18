@@ -1,4 +1,3 @@
 From,To
-Показатели,Страна
-Страна,Quantile
-Страна,Sex
+Страна ,Quantile
+Страна ,Sex

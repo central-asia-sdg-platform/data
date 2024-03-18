@@ -4,6 +4,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-1-1-SI_POV_LMIC,complete,,,,custom.central_asia,,line
 #1-1-1-a,complete,,,,custom.central_asia,,line
 #1-1-1-b,complete,,,,,,line
+#1-1-1-cmp,complete,,,,custom.central_asia,,line
 #1-1-1-gs1,complete,,,,,,line
 #1-1-1-gsa,complete,,,,,,line
 #1-2-1,notstarted,World Bank,True,,,,line
@@ -201,6 +202,7 @@ World Bank (WB)",True,,,,line
 #3-3-4,notstarted,World Health Organization ,True,,,,line
 #3-3-5,notstarted,World Health Organization (WHO),True,,,,line
 #3-4-1,notstarted,World Health Organization (WHO) ,True,,,,line
+#3-4-1-a,complete,,,,custom.central_asia,,line
 #3-4-2,notstarted,World Health Organization (WHO) ,True,,,,line
 #3-5-1,notstarted,"World Health Organization (WHO) 
 United Nations Office on Drugs and Crime (UNODC) ",True,,,,line

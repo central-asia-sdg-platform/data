@@ -1,0 +1,114 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Год"
+          },
+          {
+            "name": "SI_POV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2,15$ в день (ППС 2017) доллар-в-день",
+                "3,65$ в день (ППС 2017) LMIC",
+                "6,85$ в день (ППС 2017) UMIC",
+                ""
+              ]
+            },
+            "title": "Черта бедности"
+          },
+          {
+            "name": "GeoAreaName",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Казахстан",
+                "Kyrgyz Republic",
+                "Таджикистан",
+                "Туркменистан",
+                "Узбекистан",
+                "Albania",
+                "Armenia",
+                "Azerbaijan",
+                "Belarus",
+                "Bosnia and Herzegovina",
+                "Georgia",
+                "Montenegro",
+                "North Macedonia",
+                "Moldova",
+                "Serbia",
+                "Turkiye",
+                "Ukraine",
+                "Australia",
+                "Canada",
+                "Chile",
+                "China",
+                "Colombia",
+                "Costa Rica",
+                "India",
+                "Israel",
+                "Japan",
+                "Mexico",
+                "Korea, Rep.",
+                "United Arab Emirates",
+                "Viet Nam",
+                "Austria",
+                "Belgium",
+                "Bulgaria",
+                "Croatia",
+                "Cyprus",
+                "Czechia",
+                "Denmark",
+                "Estonia",
+                "Finland",
+                "France",
+                "Germany",
+                "Greece",
+                "Hungary",
+                "Iceland",
+                "Ireland",
+                "Italy",
+                "Latvia",
+                "Lithuania",
+                "Luxembourg",
+                "Malta",
+                "Netherlands",
+                "Norway",
+                "Poland",
+                "Portugal",
+                "Romania",
+                "Slovak Republic",
+                "Slovenia",
+                "Spain",
+                "Sweden",
+                "Switzerland",
+                "United Kingdom",
+                ""
+              ]
+            },
+            "title": "Страна "
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-1-cmp",
+  "title": "Уровень бедности ниже международных черт бедности (%)"
+}
